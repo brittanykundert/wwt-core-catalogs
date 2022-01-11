@@ -16,6 +16,7 @@ import re
 import shutil
 import sys
 from typing import List, Dict
+import uuid
 from xml.etree import ElementTree as etree
 import yaml
 
@@ -42,6 +43,17 @@ def write_multi_yaml(path, docs):
     with open(path, "wt", encoding="utf-8") as f:
         yaml.dump_all(
             docs,
+            stream=f,
+            allow_unicode=True,
+            sort_keys=True,
+            indent=2,
+        )
+
+
+def write_one_yaml(path, doc):
+    with open(path, "wt", encoding="utf-8") as f:
+        yaml.dump(
+            doc,
             stream=f,
             allow_unicode=True,
             sort_keys=True,
@@ -126,7 +138,8 @@ class PlaceDatabase(object):
         if place.background_image_set is not None:
             idb.add_imageset(place.background_image_set)
 
-        info = {}
+        new_id = str(uuid.uuid4())
+        info = {"_uuid": new_id}
 
         if place.angle != 0:
             info["angle"] = place.angle
@@ -205,6 +218,7 @@ class PlaceDatabase(object):
             info["zoom_level"] = place.zoom_level
 
         self.infos.append(info)
+        return new_id
 
     def rewrite(self):
         by_key = {}
@@ -277,20 +291,64 @@ def do_format_imagesets(_settings):
 
 def do_ingest(settings):
     catname = os.path.splitext(os.path.basename(settings.wtml))[0]
-    print(f"catalog name: {catname}")
-
     f = Folder.from_file(settings.wtml)
     idb = ImagesetDatabase()
     pdb = PlaceDatabase()
 
-    for depth, index, item in f.walk(download=False):
-        if isinstance(item, ImageSet):
-            idb.add_imageset(item)
-        elif isinstance(item, Place):
-            pdb.ingest_place(item, idb)
+    def folder_to_yaml(f):
+        info = {}
+        info["browseable"] = f.browseable
 
+        if f.group:
+            info["group"] = f.group
+
+        if f.msr_community_id:
+            info["msr_community_id"] = f.msr_community_id
+
+        if f.msr_component_id:
+            info["msr_component_id"] = f.msr_component_id
+
+        info["name"] = f.name
+
+        if f.permission:
+            info["permission"] = f.permission
+
+        info["searchable"] = f.searchable
+
+        if f.sub_type:
+            info["sub_type"] = f.sub_type
+
+        if f.thumbnail:
+            info["thumbnail"] = f.thumbnail
+
+        info["type"] = f.type.value
+
+        if f.url:
+            info["url"] = f.url
+
+        children = []
+
+        for c in f.children:
+            if isinstance(c, ImageSet):
+                idb.add_imageset(c)
+                children.append(f"imageset {c.url}")
+            elif isinstance(c, Place):
+                pid = pdb.ingest_place(c, idb)
+                children.append(f"place {pid}")
+            elif isinstance(c, Folder):
+                if not c.children and c.url:
+                    print(f"Consider ingesting: {c.url}")
+                    children.append(f"folderref {c.url}")
+                else:
+                    children.append(folder_to_yaml(c))
+
+        info["children"] = children
+        return info
+
+    info = folder_to_yaml(f)
     idb.rewrite()
     pdb.rewrite()
+    write_one_yaml(f"catfiles/{catname}.yml", info)
 
 
 # prettify - generic XML prettification
