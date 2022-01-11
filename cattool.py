@@ -21,7 +21,14 @@ from xml.etree import ElementTree as etree
 import yaml
 
 from wwt_data_formats import indent_xml, write_xml_doc
-from wwt_data_formats.enums import Bandpass, DataSetType, ProjectionType
+from wwt_data_formats.enums import (
+    Bandpass,
+    Classification,
+    Constellation,
+    DataSetType,
+    FolderType,
+    ProjectionType,
+)
 from wwt_data_formats.folder import Folder
 from wwt_data_formats.imageset import ImageSet
 from wwt_data_formats.place import Place
@@ -85,6 +92,9 @@ class ImagesetDatabase(object):
 
         self.by_url[imgset.url] = imgset
 
+    def get_by_url(self, url: str) -> ImageSet:
+        return self.by_url[url]
+
     def rewrite(self):
         by_key = {}
 
@@ -119,16 +129,16 @@ class ImagesetDatabase(object):
 
 class PlaceDatabase(object):
     db_dir: Path = None
-    infos: List[Dict] = None
+    by_uuid: Dict[str, dict] = None
 
     def __init__(self):
-        self.infos = []
+        self.by_uuid = {}
         self.db_dir = BASEDIR / "places"
 
         for path in self.db_dir.glob("*.yml"):
             with path.open("rt", encoding="utf-8") as f:
                 for info in yaml.load_all(f, yaml.SafeLoader):
-                    self.infos.append(info)
+                    self.by_uuid[info["_uuid"]] = info
 
     def ingest_place(self, place: Place, idb: ImagesetDatabase):
         if place.image_set is not None:
@@ -217,13 +227,120 @@ class PlaceDatabase(object):
         if place.zoom_level != 0:
             info["zoom_level"] = place.zoom_level
 
-        self.infos.append(info)
+        self.by_uuid[new_id] = info
         return new_id
+
+    def reconst_by_id(self, pid: str, idb: ImagesetDatabase) -> Place:
+        info = self.by_uuid[pid]
+
+        place = Place()
+
+        v = info.get("angle")
+        if v is not None:
+            place.angle = v
+
+        v = info.get("angular_size")
+        if v is not None:
+            place.angular_size = v
+
+        v = info.get("annotation")
+        if v:
+            place.annotation = v
+
+        u = info.get("background_image_set_url")
+        if u:
+            place.background_image_set = idb.get_by_url(u)
+
+        v = info.get("classification")
+        if v:
+            place.classification = Classification(v)
+
+        v = info.get("constellation")
+        if v:
+            place.constellation = Constellation(v)
+
+        place.data_set_type = DataSetType(info["data_set_type"])
+
+        v = info.get("dec_deg")
+        if v is not None:
+            place.dec_deg = v
+
+        v = info.get("description")
+        if v:
+            place.description = v
+
+        v = info.get("distance")
+        if v is not None:
+            place.distance = v
+
+        v = info.get("dome_alt")
+        if v is not None:
+            place.dome_alt = v
+
+        v = info.get("dome_az")
+        if v is not None:
+            place.dome_az = v
+
+        u = info.get("foreground_image_set_url")
+        if u:
+            place.foreground_image_set = idb.get_by_url(u)
+
+        u = info.get("image_set_url")
+        if u:
+            place.image_set = idb.get_by_url(u)
+
+        v = info.get("latitude")
+        if v is not None:
+            place.latitude = v
+
+        v = info.get("longitude")
+        if v is not None:
+            place.longitude = v
+
+        v = info.get("magnitude")
+        if v is not None:
+            place.magnitude = v
+
+        v = info.get("msr_community_id")
+        if v is not None:
+            place.msr_community_id = v
+
+        v = info.get("msr_component_id")
+        if v is not None:
+            place.msr_component_id = v
+
+        place.name = info["name"]
+
+        v = info.get("opacity")
+        if v is not None:
+            place.opacity = v
+
+        v = info.get("permission")
+        if v is not None:
+            place.permission = v
+
+        v = info.get("ra_hr")
+        if v is not None:
+            place.ra_hr = v
+
+        v = info.get("rotation_deg")
+        if v is not None:
+            place.rotation_deg = v
+
+        v = info.get("thumbnail")
+        if v:
+            place.thumbnail = v
+
+        v = info.get("zoom_level")
+        if v is not None:
+            place.zoom_level = v
+
+        return place
 
     def rewrite(self):
         by_key = {}
 
-        for info in self.infos:
+        for info in self.by_uuid.values():
             k = [info["data_set_type"]]
 
             ra = info.get("ra_hr")
@@ -278,12 +395,96 @@ class PlaceDatabase(object):
         shutil.rmtree(olddir)
 
 
+# emit
+
+
+def _emit_one(path: Path, idb: ImagesetDatabase, pdb: PlaceDatabase):
+    with path.open("rt", encoding="utf-8") as f:
+        root_info = yaml.load(f, yaml.SafeLoader)
+
+    def reconst_folder(info: dict):
+        f = Folder()
+        f.browseable = info["browseable"]
+
+        v = info.get("group")
+        if v:
+            f.group = v
+
+        v = info.get("msr_community_id")
+        if v:
+            f.msr_community_id = v
+
+        v = info.get("msr_component_id")
+        if v:
+            f.msr_component_id = v
+
+        f.name = info["name"]
+
+        v = info.get("permission")
+        if v:
+            f.permission = v
+
+        f.searchable = info["searchable"]
+
+        v = info.get("sub_type")
+        if v:
+            f.sub_type = v
+
+        v = info.get("thumbnail")
+        if v:
+            f.thumbnail = v
+
+        v = info.get("type")
+        if v:
+            f.type = FolderType(v)
+
+        v = info.get("url")
+        if v:
+            f.url = v
+
+        f.children = []
+
+        for spec in info["children"]:
+            if isinstance(spec, str):
+                if spec.startswith("imageset "):
+                    f.children.append(idb.get_by_url(spec[9:]))
+                elif spec.startswith("place "):
+                    f.children.append(pdb.reconst_by_id(spec[6:]))
+                else:
+                    f.children.append(reconst_folder(spec))
+
+        return f
+
+    f = reconst_folder(root_info)
+    catname = os.path.splitext(os.path.basename(path))[0]
+
+    with open(f"{catname}.wtml", "wt", encoding="utf-8") as stream:
+        prettify(f.to_xml(), stream)
+        print(f"wrote `{catname}.wtml`")
+
+
+def do_emit(_settings):
+    idb = ImagesetDatabase()
+    pdb = PlaceDatabase()
+
+    for path in (BASEDIR / "catfiles").glob("*.yml"):
+        _emit_one(path, idb, pdb)
+
+
 # format-imagesets
 
 
 def do_format_imagesets(_settings):
     idb = ImagesetDatabase()
     idb.rewrite()
+
+
+# format-places
+
+
+def do_format_places(_settings):
+    pdb = PlaceDatabase()
+    pdb.rewrite()
 
 
 # ingest
@@ -338,9 +539,9 @@ def do_ingest(settings):
             elif isinstance(c, Folder):
                 if not c.children and c.url:
                     print(f"Consider ingesting: {c.url}")
-                    children.append(f"folderref {c.url}")
-                else:
-                    children.append(folder_to_yaml(c))
+                children.append(folder_to_yaml(c))
+            else:
+                assert False, "unexpected folder item??"
 
         info["children"] = children
         return info
@@ -424,7 +625,9 @@ def entrypoint():
     parser = argparse.ArgumentParser()
     subparsers = parser.add_subparsers(dest="subcommand")
 
+    _emit = subparsers.add_parser("emit")
     _format_imagesets = subparsers.add_parser("format_imagesets")
+    _format_places = subparsers.add_parser("format_places")
 
     ingest = subparsers.add_parser("ingest")
     ingest.add_argument(
@@ -440,8 +643,12 @@ def entrypoint():
 
     if settings.subcommand is None:
         die("you must specify a subcommand", prefix="usage error:")
+    elif settings.subcommand == "emit":
+        do_emit(settings)
     elif settings.subcommand == "format-imagesets":
         do_format_imagesets(settings)
+    elif settings.subcommand == "format-places":
+        do_format_places(settings)
     elif settings.subcommand == "ingest":
         do_ingest(settings)
     elif settings.subcommand == "prettify":
