@@ -1,3 +1,21 @@
+_uuid: 16d9618f-ff3e-4ee0-9013-7b3dd565552f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 14.48516456943746
+description: Composite image of W51A, the largest star-forming region in our galaxy.
+  Dozens of massive stars that are more than eight times the size of our Sun are forming
+  there. They create intense radiation pressure that has pushed dust out of the star&#x27;s
+  natal cocoon, creating arcs and bubbles that glow brightly at infrared wavelengths
+  of at 37 and 70 microns, shown in green and red in this false color image. Hot gas
+  remains inside these features, which is shown in the 20-micron view in blue. The
+  background star field from Spitzer is shown in white.
+foreground_image_set_url: http://data1.wwtassets.org/packages/2021/02_sofia/w51a_sofia/{1}/{3}/{3}_{2}.png
+name: W51A - SOFIA
+ra_hr: 19.39314183485091
+thumbnail: http://data1.wwtassets.org/packages/2021/02_sofia/w51a_sofia/thumb.jpg
+zoom_level: 2.407204814395309
+---
 _uuid: 1be15b0f-4cf0-4142-9401-3b86b645508d
 angular_size: 1.0
 classification: Galaxy

@@ -104,6 +104,216 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="2.274850835745022"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="266.472438479899"
+    CenterY="-28.9160730028313"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="SOFIA Reveals New View of Milky Way Center"
+    Projection="Tan"
+    Rotation="-58.63842102162298"
+    Sparse="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2021/02_sofia/galactic_center_pano_sofia/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/SOFIA/JPL-Caltech/ESA/Herschel</Credits>
+    <CreditsUrl>https://www.nasa.gov/feature/sofia-reveals-new-view-of-milky-way-s-center</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/02_sofia/galactic_center_pano_sofia/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.048"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="266.41968578949"
+    CenterY="-29.0097597494584"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Magnetic Field May Be Keeping Milky Way’s Black Hole Quiet"
+    OffsetX="0.0005"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2021/02_sofia/galactic_center_sofia/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>Dust and magnetic fields: NASA/SOFIA; Star field image: NASA/Hubble Space Telescope</Credits>
+    <CreditsUrl>https://www.nasa.gov/feature/magnetic-field-may-be-keeping-milky-way-s-black-hole-quiet</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/02_sofia/galactic_center_sofia/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.34106719831443577"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="275.128694147515"
+    CenterY="-16.1796238863433"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M17 - SOFIA Reveals how the Swan Nebula Hatched"
+    Projection="Tan"
+    Rotation="-2.8875871040697496"
+    Sparse="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2021/02_sofia/m17_sofia/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/SOFIA/De Buizer/Radomski/Lim; NASA/JPL-Caltech; ESA/Herschel</Credits>
+    <CreditsUrl>https://www.nasa.gov/feature/sofia-reveals-how-the-swan-nebula-hatched</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/02_sofia/m17_sofia/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.19883473852900554"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="202.467716929557"
+    CenterY="47.2121288845358"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M51 - Magnetic Chaos Hidden Within the Whirlpool Galaxy"
+    Projection="Tan"
+    Rotation="1.9597333430710462"
+    Sparse="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2021/02_sofia/m51_sofia/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, the SOFIA science team, A. Borlaff; NASA, ESA, S. Beckwith (STScI) and the Hubble Heritage Team (STScI/AURA)</Credits>
+    <CreditsUrl>https://www.nasa.gov/feature/magnetic-chaos-hidden-within-the-whirlpool-galaxy</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/02_sofia/m51_sofia/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.27613431919365367"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="148.963702345721"
+    CenterY="69.6801179816847"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M82 - Magnetic Highway Channels Material Out of Cigar Galaxy"
+    Projection="Tan"
+    Rotation="-0.415580466569269"
+    Sparse="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2021/02_sofia/m82_sofia/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/SOFIA; NASA/JPL-Caltech</Credits>
+    <CreditsUrl>https://www.nasa.gov/feature/magnetic-highway-channels-material-out-of-cigar-galaxy</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/02_sofia/m82_sofia/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.1021273515184134"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="40.668808284012"
+    CenterY="-0.0138439572200749"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1068 - How to Shape a Spiral Galaxy"
+    Projection="Tan"
+    Rotation="5.782180680161071"
+    Sparse="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2021/02_sofia/ngc1068_sofia/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/SOFIA; NASA/JPL-Caltech/Roma Tre Univ.</Credits>
+    <CreditsUrl>https://www.nasa.gov/feature/how-to-shape-a-spiral-galaxy</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/02_sofia/ngc1068_sofia/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.1266794434494081"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="83.814759829254"
+    CenterY="-5.3828264451853"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Orion Nebula - SOFIA uncovers clues to the evolution of universe and search for life"
+    Projection="Tan"
+    Rotation="0.026026284602010518"
+    Sparse="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2021/02_sofia/orion_sofia/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/SOFIA/D. Chuss et al. and European Southern Observatory/M.McCaughrean et al.</Credits>
+    <CreditsUrl>https://www.nasa.gov/feature/sofia-uncovers-clues-to-the-evolution-of-universe-and-search-for-life</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/02_sofia/orion_sofia/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.42546355915669914"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="277.519257392987"
+    CenterY="-2.04869298129164"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Serpens South Cluster - Magnetic Rivers Feed Young Stars"
+    Projection="Tan"
+    Rotation="0.0019394764670109038"
+    Sparse="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2021/02_sofia/serpens_south_cluster_sofia/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/SOFIA/T. Pillai/.Kauffmann; NASA/JPL-Caltech/L. Allen</Credits>
+    <CreditsUrl>https://www.nasa.gov/image-feature/magnetic-rivers-feed-young-stars</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/02_sofia/serpens_south_cluster_sofia/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3413340159993348"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="290.573645"
+    CenterY="14.666982"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="W51A - SOFIA"
+    OffsetX="-0.135471020941236"
+    OffsetY="-0.33574100481334573"
+    Projection="Tan"
+    Rotation="-37.92070172353101"
+    Sparse="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2021/02_sofia/w51a_sofia/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/SOFIA/Wanggi Lim, James De Buizer; NASA/JPL-Caltech</Credits>
+    <CreditsUrl>https://www.nasa.gov/feature/sofia-s-infrared-view-of-the-skies</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/02_sofia/w51a_sofia/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"

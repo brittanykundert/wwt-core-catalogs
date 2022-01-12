@@ -7,6 +7,40 @@ foreground_image_set_url: http://cdn.worldwidetelescope.org/wwtweb/g360.aspx?q={
 name: GLIMPSE 360
 ra_hr: 17.75
 ---
+_uuid: b171b6bc-425f-4991-8573-1bf2fc47062a
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -28.916073002831297
+description: Composite infrared image of the center of our Milky way Galaxy. It spans
+  600+ lightyears across and is helping scientists learn how many massive stars are
+  forming in our galaxy’s center. New data from SOFIA taken at 25 and 37 microns,
+  shown in blue and green, is combined with data from the Herschel Space Observatory,
+  shown in red (70 microns), and the Spitzer Space Telescope, shown in white (8 microns).
+  SOFIA&#x27;s view reveals features that have never been seen before.
+foreground_image_set_url: http://data1.wwtassets.org/packages/2021/02_sofia/galactic_center_pano_sofia/{1}/{3}/{3}_{2}.png
+name: SOFIA Reveals New View of Milky Way Center
+ra_hr: 17.764829231993264
+thumbnail: http://data1.wwtassets.org/packages/2021/02_sofia/galactic_center_pano_sofia/thumb.jpg
+zoom_level: 3.823815430689569
+---
+_uuid: f97f6735-c656-42c7-8321-323aeca8534e
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.00975974824858
+description: Streamlines showing magnetic fields layered over a color image of the
+  dusty ring around the Milky Way&#x27;s massive black hole. The Y-shaped structure
+  is warm material falling toward the black hole, which is located near where the
+  two arms of the Y-shape intersect. The streamlines reveal that the magnetic field
+  closely follows the shape of the dusty structure. Each of the blue arms has its
+  own field that is totally distinct from the rest of the ring, shown in pink.
+foreground_image_set_url: http://data1.wwtassets.org/packages/2021/02_sofia/galactic_center_sofia/{1}/{3}/{3}_{2}.png
+name: Magnetic Field May Be Keeping Milky Way’s Black Hole Quiet
+ra_hr: 17.761274270564297
+thumbnail: http://data1.wwtassets.org/packages/2021/02_sofia/galactic_center_sofia/thumb.jpg
+zoom_level: 10.5672
+---
 _uuid: b8aa745a-f65b-4948-b3c1-4965d00a6012
 angular_size: 1.0
 classification: Galaxy

@@ -1,3 +1,24 @@
+_uuid: 200861e7-c2c3-475f-847e-0b4b76910bb9
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.013843957220075254
+description: Magnetic fields in NGC 1068, or M77, are shown as streamlines over a
+  visible light and X-ray composite image of the galaxy from the Hubble Space Telescope,
+  the Nuclear Spectroscopic Array, and the Sloan Digital Sky Survey. The magnetic
+  fields align along the entire length of the massive spiral arms — 24,000 light years
+  across (0.8 kiloparsecs) — implying that the gravitational forces that created the
+  galaxy’s shape are also compressing the magnetic fields. This supports the leading
+  theory of how the spiral arms are forced into their iconic shape known as density
+  wave theory. SOFIA studied the galaxy using far-infrared light (89 microns) to reveal
+  facets of its magnetic fields that previous observations using visible and radio
+  telescopes could not detect.
+foreground_image_set_url: http://data1.wwtassets.org/packages/2021/02_sofia/ngc1068_sofia/{1}/{3}/{3}_{2}.png
+name: NGC 1068 - How to Shape a Spiral Galaxy
+ra_hr: 2.7112538856008
+thumbnail: http://data1.wwtassets.org/packages/2021/02_sofia/ngc1068_sofia/thumb.jpg
+zoom_level: 0.6108791413920254
+---
 _uuid: 753103ea-69fd-4d96-9809-c5a202e2665c
 angular_size: 1.0
 classification: Nebula

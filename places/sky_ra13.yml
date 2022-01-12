@@ -1,3 +1,21 @@
+_uuid: c394ab94-a478-4f65-a1fd-dc415f3c61bb
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.2121288845358
+description: Magnetic field streamlines detected by SOFIA are shown over an image
+  of the Whirlpool galaxy, M51, from NASA’s Hubble Space Telescope. For the first
+  time, SOFIA’s infrared view shows that the magnetic fields in the outer arms do
+  not follow the galaxy&#x27;s spiral shape and are instead distorted. The intense
+  star formation activity in these regions, shown in red, may be causing the chaos,
+  along with the forces from the yellow neighboring galaxy, NGC 5195, tugging on one
+  of the spiral arms.
+foreground_image_set_url: http://data1.wwtassets.org/packages/2021/02_sofia/m51_sofia/{1}/{3}/{3}_{2}.png
+name: M51 - Magnetic Chaos Hidden Within the Whirlpool Galaxy
+ra_hr: 13.497847795303802
+thumbnail: http://data1.wwtassets.org/packages/2021/02_sofia/m51_sofia/thumb.jpg
+zoom_level: 1.4146295530686432
+---
 _uuid: 53a1a2b0-0678-4a7c-ae78-b04985434e06
 angular_size: 1.0
 classification: PlanetaryNebula

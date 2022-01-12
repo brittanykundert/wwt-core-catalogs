@@ -1,3 +1,43 @@
+_uuid: c8a955f7-07e0-45f1-aeca-29e7dfb9aabe
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -16.179623886343308
+description: Composite image of the Swan Nebula. SOFIA detected the blue areas (20
+  microns) near the center, revealing gas as it&#x27;s heated by massive stars located
+  at the center and the green areas (37 microns) that trace dust as it&#x27;s warmed
+  both by massive stars and nearby newborn stars. The nine never-before-seen protostars
+  were found primarily in the southern areas. The red areas near the edge represent
+  cold dust that was detected by the Herschel Space Telescope (70 microns), while
+  the white star field was detected by the Spitzer Space Telescope (3.6 microns).
+  The space telescopes could not observe the blue and green regions in such detail
+  because the detectors were saturated. SOFIA&#x27;s view reveals evidence that parts
+  of the nebula formed separately to create the swan-like shape seen today.
+foreground_image_set_url: http://data1.wwtassets.org/packages/2021/02_sofia/m17_sofia/{1}/{3}/{3}_{2}.png
+name: M17 - SOFIA Reveals how the Swan Nebula Hatched
+ra_hr: 18.341912943167664
+thumbnail: http://data1.wwtassets.org/packages/2021/02_sofia/m17_sofia/thumb.jpg
+zoom_level: 2.566697204034056
+---
+_uuid: 07b3204b-ffbb-4ca1-afb4-8d810099bd20
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -2.0486929812916372
+description: Composite image of the Serpens South Cluster. Magnetic fields observed
+  by SOFIA are shown as streamlines over an image from the Spitzer Space Telescope.
+  SOFIA&#x27;s data indicate that gravity can overcome some of the strong magnetic
+  fields to deliver material needed for new stars. The magnetic fields have been dragged
+  into alignment with the most powerful flows, as seen in the lower left where the
+  streamlines are following the direction of the narrow, dark filament. This is accelerating
+  the flow of material from interstellar space into the cloud, and fueling the collapse
+  needed to spark star formation
+foreground_image_set_url: http://data1.wwtassets.org/packages/2021/02_sofia/serpens_south_cluster_sofia/{1}/{3}/{3}_{2}.png
+name: Serpens South Cluster - Magnetic Rivers Feed Young Stars
+ra_hr: 18.501283826199135
+thumbnail: http://data1.wwtassets.org/packages/2021/02_sofia/serpens_south_cluster_sofia/thumb.jpg
+zoom_level: 3.4370309121641083
+---
 _uuid: d5498cfc-b36b-4cf7-8a59-a72c18c257cc
 angular_size: 1.0
 classification: Galaxy
