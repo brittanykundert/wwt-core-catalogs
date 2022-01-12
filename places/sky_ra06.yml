@@ -1,3 +1,295 @@
+_uuid: b0ef4972-c6a8-43fe-a981-2b71f01740f3
+annotation: '{"channel": "eso", "itemid": "eso0034a", "publishedUTCISO8601": "2000-10-17T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -51.97674554019535
+description: 'Colour composite image of the sky field around the position of the gamma-ray
+  burst GRB 000131 that was detected on January 31, 2000. It is based on images obtained
+  with the ESO Very Large Telescope at Paranal. The object is indicated with an arrow,
+  near a rather bright star (magnitude 9, i.e., over 1 million times brighter than
+  the faintest objects visible on this photo). This and other bright objects in the
+  field are responsible for various unavoidable imaging effects, caused by optical
+  reflections (ring-shaped &quot;ghost images&quot;, e.g. to the left of the brightest
+  star) and detector saturation effects (horizontal and vertical straight lines and
+  coloured &quot;coronae&quot; at the bright objects, and areas of &quot;bleeding&quot;,
+  e.g. below the bright star). Technical information: The photo is based on three
+  8-min exposures obtained with VLT ANTU and the multi-mode FORS1 instrument. The
+  optical filters were B (seeing 0.9 arcsec; here rendered as blue), V (0.8 arcsec;
+  green) and R (0.7 arcsec; red). The field measures 6.8 x 6.8 arcmin 2. North is
+  up and East is left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0034a/L{1}X{2}Y{3}.png
+name: Sky field around GRB 000131
+ra_hr: 6.224469709352543
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0034a/thumb.jpg
+zoom_level: 1.1648885545449428
+---
+_uuid: 17093604-bbbc-440a-bbbe-3152f3a1f117
+annotation: '{"channel": "eso", "itemid": "eso0305b", "publishedUTCISO8601": "2003-01-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -32.33907877761687
+description: Sky area of 10 x 10 square arcmin around the 6th-magnitude giant star
+  HD 47536 at which an exoplanet has been found in 2003 (reproduced from the Digital
+  Sky Survey). The pattern is caused by internal reflections in the telescope from
+  this relatively bright object.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0305b/L{1}X{2}Y{3}.png
+name: Giant star HD 47536
+ra_hr: 6.629926510183443
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0305b/thumb.jpg
+zoom_level: 1.6976466397141219
+---
+_uuid: d7d6d1b8-6327-4c40-a95f-9d081b1ffc25
+annotation: '{"channel": "eso", "itemid": "eso0803c", "publishedUTCISO8601": "2008-01-29T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 10.33060485994794
+description: Close-up on MWC 147 
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0803c/L{1}X{2}Y{3}.png
+name: Close-up on MWC 147
+ra_hr: 6.537514435521472
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0803c/thumb.jpg
+zoom_level: 10.46490673226832
+---
+_uuid: e949a99e-3cba-4c78-b13b-1ee576138b54
+annotation: '{"channel": "eso", "itemid": "eso0848a", "publishedUTCISO8601": "2008-12-16T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 9.60278156353886
+description: 'This colour image of the region known as NGC 2264 — an area of sky that
+  includes the sparkling blue baubles of the Christmas Tree star cluster and the Cone
+  Nebula — was created from data taken through four different filters (B, V, R and
+  H-alpha) with the Wide Field Imager at ESO&#x27;s La Silla Observatory, 2400 m high
+  in the Atacama Desert of Chile in the foothills of the Andes. The image shows a
+  region of space about 30 light-years across. This image is available as a mounted
+  image in the ESOshop. #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0848a/L{1}X{2}Y{3}.png
+name: NGC 2264 and the Christmas Tree cluster*
+ra_hr: 6.682876032266292
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0848a/thumb.jpg
+zoom_level: 6.479436333854856
+---
+_uuid: a067ed3b-246b-4bb3-b310-ce05056b140f
+annotation: '{"channel": "eso", "itemid": "eso0933b", "publishedUTCISO8601": "2009-09-16T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -1.0627725203141185
+description: The star CoRoT-7 is located towards the constellation of Monoceros (the
+  Unicorn) at a distance of about 500 light-years. Slightly smaller and cooler than
+  our Sun, CoRoT-7 is also thought to be younger, with an age about 1.5 billion years.
+  It is now known to have two planets, one of them being the first to be found with
+  a density similar to that of Earth. CoRoT-7 is in the centre of the image.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0933b/L{1}X{2}Y{3}.png
+name: The planet-hosting star CoRoT-7
+ra_hr: 6.730399878743658
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0933b/thumb.jpg
+zoom_level: 2.4708021226440002
+---
+_uuid: 4098ba10-a53e-4309-af6a-d5ce63dfcf12
+annotation: '{"channel": "eso", "itemid": "eso0933c", "publishedUTCISO8601": "2009-09-16T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -1.0618612374701624
+description: The star CoRoT-7 is located towards the constellation of Monoceros (the
+  Unicorn) at a distance of about 500 light-years. This image shows a larger field
+  of view around the star, covering about 9 square degrees or about 11 times the size
+  of the Full Moon. CoRoT-7 is in the centre of the image.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0933c/L{1}X{2}Y{3}.png
+name: Field around the planet-hosting star CoRoT-7
+ra_hr: 6.730445933044459
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0933c/thumb.jpg
+zoom_level: 30.397905736176007
+---
+_uuid: 9b56cea2-3820-4008-a150-7984da3c3011
+annotation: '{"channel": "eso", "itemid": "eso9920v", "publishedUTCISO8601": "1999-02-27T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -55.95037491508335
+description: Photograph showing a (false-colour) image of the galaxy cluster 1ES 0657-558
+  prepared from data taken in the V (green) band filter. The arcs and arclets in this
+  cluster are particularly well visible in this image. The total exposure time was
+  600 seconds. North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9920v/L{1}X{2}Y{3}.png
+name: Cluster of galaxies-1ESO657-55 (V-band)
+ra_hr: 6.976511096839929
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9920v/thumb.jpg
+zoom_level: 0.44401436910000003
+---
+_uuid: 71dabb4d-be1b-459a-aef5-4322cf3993f2
+annotation: '{"channel": "eso", "itemid": "potw1046a", "publishedUTCISO8601": "2010-11-15T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -64.31858809612856
+description: 'Among the myriad of stars in this image shines NGC 2257, a collection
+  of cosmic gems bound tightly by gravity. Many billions of years old, but still sparkling
+  brightly, it is an eye-catching astronomical object. NGC 2257 is a globular cluster,
+  the name given to the roughly spherical concentrations of stars that orbit galactic
+  cores, but are often found far out from the centres in the halo areas of galaxies.
+  Globular clusters contain very old stars, being typically over 10 billion years
+  old, and can therefore be used like a &quot;fossil record&quot; to learn more about
+  the Universe’s past. They are densely packed, with tens to hundreds of thousands
+  of stars gathered within a diameter of just a few tens of light-years. NGC 2257
+  lies on the outskirts of the Large Magellanic Cloud (LMC), a satellite galaxy of
+  our own Milky Way. It is one of 15 very old globular clusters in the LMC. The image
+  is made from data taken with the Wide Field Imager instrument on the 2.2-metre MPG/ESO
+  telescope at La Silla, in B, V and I filters, which are shown here in blue, green
+  and red respectively. The field of view is approximately 20 by 20 arcminutes. These
+  observations were made as part of the ESO Imaging Survey project, which was planned
+  to make public imaging surveys to identify targets for follow-up observations with
+  the Very Large Telescope. Links  ESO Imaging Survey '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1046a/L{1}X{2}Y{3}.png
+name: An ancient cluster of stars against a stunning background
+ra_hr: 6.50414435282581
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1046a/thumb.jpg
+zoom_level: 3.195611891802
+---
+_uuid: 94d641b9-c3c6-4b4f-a1ff-8eaec97fbd52
+annotation: '{"channel": "eso", "itemid": "potw1126a", "publishedUTCISO8601": "2011-06-27T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -50.9707854039082
+description: 'It’s one of the closest galaxies to Earth, but the Carina Dwarf Galaxy
+  is so dim and diffuse that astronomers only discovered it in the 1970s. A companion
+  galaxy of the Milky Way, this ball of stars shares features with both globular star
+  clusters and much larger galaxies. Astronomers believe that dwarf spheroidal galaxies
+  like the Carina Dwarf are very common in the Universe, but they are extremely difficult
+  to observe. Their faintness and low star density mean that it is easy to simply
+  see right through them. In this image, the Carina Dwarf appears as many faint stars
+  scattered across most of the central part of the picture. It is hard to tell apart
+  stars from the dwarf galaxy, foreground stars within the Milky Way and even faraway
+  galaxies that poke through the gaps: the Carina Dwarf is a master of cosmic camouflage.
+  The Carina Dwarf’s stars show an unusual spread of ages. They appear to have formed
+  in a series of bursts, with quiet periods lasting several billion years in between
+  them. It lies around 300 000 light-years from Earth, which places it further away
+  than the Magellanic Clouds (the nearest galaxies to the Milky Way), but significantly
+  closer to us than the Andromeda Galaxy, the closest spiral galaxy. So, despite being
+  small for a galaxy, its proximity to Earth means that the Carina Dwarf appears quite
+  large in the sky, just under half the size of the full Moon — albeit very much fainter.
+  This makes it fit comfortably within the field of view of ESO’s Wide Field Imager,
+  an instrument designed for making observations of large parts of the sky. Although
+  this image in itself is not so striking, it is likely the best image of the Carina
+  Dwarf Galaxy to date. The image was made using observations from the Wide Field
+  Imager on the MPG/ESO 2.2-metre telescope at La Silla, and from the Victor M. Blanco
+  4-metre telescope at the Cerro Tololo Inter-American Observatory.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1126a/L{1}X{2}Y{3}.png
+name: Hiding in plain sight — the elusive Carina dwarf galaxy
+ra_hr: 6.693914399264597
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1126a/thumb.jpg
+zoom_level: 4.4547401562
+---
+_uuid: e4c3818e-bbae-4f2a-9c59-a223caaf5df1
+annotation: '{"channel": "eso", "itemid": "potw1204a", "publishedUTCISO8601": "2012-01-23T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.232427555623367
+description: This image shows the swirling shape of galaxy NGC 2217, in the constellation
+  of Canis Major (The Great Dog). In the central region of the galaxy is a distinctive
+  bar of stars within an oval ring. Further out, a set of tightly wound spiral arms
+  almost form a circular ring around the galaxy. NGC 2217 is therefore classified
+  as a barred spiral galaxy, and its circular appearance indicates that we see it
+  nearly face-on. The outer spiral arms have a bluish colour, indicating the presence
+  of hot, luminous, young stars, born out of clouds of interstellar gas. The central
+  bulge and bar are yellower in appearance, due to the presence of older stars. Dark
+  streaks can also be seen in places against the galaxy’s arms and central bulge,
+  where lanes of cosmic dust block out some of the starlight. The majority of spiral
+  galaxies in the local Universe — including our own Milky Way — are thought to have
+  a bar of some kind, and these structures play an important role in the development
+  of a galaxy. They can, for example, funnel gas towards the centre of the galaxy,
+  helping to feed a central black hole, or to form new stars.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1204a/L{1}X{2}Y{3}.png
+name: Barred spiral galaxy swirls in the night sky
+ra_hr: 6.361206234872328
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1204a/thumb.jpg
+zoom_level: 0.8226111778693741
+---
+_uuid: 7460d5c3-3e3a-4b34-a30b-e660d9a41790
+annotation: '{"channel": "eso", "itemid": "potw1645a", "publishedUTCISO8601": "2016-11-07T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.372833464337955
+description: 'Astronomers spend their time gazing out into the Universe — and occasionally
+  the Universe seems to peer right back! This image, a composite of data from the
+  Atacama Large Millimeter/submillimeter Array (ALMA) and the NASA/ESA Hubble Space
+  Telescope, shows a very rare cosmic sight: a pair of interacting galaxies that have
+  taken on an ocular structure. As the name suggests, some types of grazing encounters
+  between galaxies create shapes that resemble the human eye. While galaxy collisions
+  of this type are not uncommon, only a few galaxies with eye-like, or ocular, structures
+  have been observed. The paucity of these features is likely due to their very ephemeral
+  nature — ocular structures like these tend to only last for several tens of millions
+  of years, which is merely the blink of an eye in a galactic lifetime. These two
+  galaxies are named IC 2163 (left) and NGC 2207 (right) — IC 2163 displays the ocular
+  structure in this image. The duo lies approximately 114 million light-years from
+  Earth in the direction of the constellation of Canis Major (The Greater Dog). The
+  galaxies have brushed past each other — scraping the outer edges of their spiral
+  arms —with IC 2163 passing behind NGC 2207. This glancing collision triggered a
+  tsunami of stars and gas in IC 2163, with material in the outer portions of the
+  disc of the  galaxy travelling inwards  This colossal wave of material decelerated
+  rapidly moving from the outer to the inner edge of the eyelids and crashed midway
+  through the galaxy’s disc, producing dazzling ribbons of intense star formation
+  and compressed ridges of gas and dust that resemble a pair of cosmic “eyelids”.
+  Notes The Atacama Large Millimeter/submillimeter Array (ALMA), an international
+  astronomy facility, is a partnership of the European Organisation for Astronomical
+  Research in the Southern Hemisphere (ESO), the U.S. National Science Foundation
+  (NSF) and the National Institutes of Natural Sciences (NINS) of Japan in cooperation
+  with the Republic of Chile. ALMA is funded by ESO on behalf of its Member States,
+  by NSF in cooperation with the National Research Council of Canada (NRC) and the
+  National Science Council of Taiwan (NSC) and by NINS in cooperation with the Academia
+  Sinica (AS) in Taiwan and the Korea Astronomy and Space Science Institute (KASI).
+  Link  Associated paper: “Ocular shock front in the colliding galaxy IC 2163”, by
+  M. Kaufman et al., is published in the 4 November issue of The Astrophysical Journal.  NRAO
+  press release '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1645a/L{1}X{2}Y{3}.png
+name: An all-seeing eye
+ra_hr: 6.273180771055395
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1645a/thumb.jpg
+zoom_level: 0.3721689251910926
+---
+_uuid: 00d69656-411c-43eb-88e8-0b80723d75ad
+annotation: '{"channel": "eso", "itemid": "potw1847a", "publishedUTCISO8601": "2018-11-19T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 5.006258620911051
+description: This colourful image shows a part of the Rosette Nebula in the constellation
+  of Monoceros (The Unicorn). It is an emission nebula, composed of clouds of gas
+  that are made to glow by the radiation emanating from stars within. The Rosette
+  Nebula is a fairly typical example of an emission nebula — but typical does not
+  mean boring! Nebulae are some of the most beautiful celestial objects out there,
+  and they frequently show up spectacularly in images taken by astronomical telescopes,
+  as seen here. In nebulae such as this, gas and dust are combining to produce a new
+  generation of stars. Initially these newly-formed stars are shrouded in the dusty
+  clouds that gave them birth, and cannot be seen in visible light. But after a while
+  they blow away the denser material and their powerful radiation pours out to ionise
+  the surrounding gas, causing it to glow brightly. These elements are all present
+  in this image — the mixture of glowing gas and dark dust has been sculpted into
+  complex patterns on the sky by the stellar radiation, like smoke around a fire.
+  This particular image was obtained with the FORS 2 instrument on ESO’s Very Large
+  Telescope, sited in the harsh environment of Chile’s Atacama Desert. FORS 2 is an
+  extremely versatile instrument that can produce very high-quality images (like this
+  one!). It is also a spectrograph that can split the light it collects into a rainbow
+  of colours, giving astronomers information about the chemical composition of objects
+  across the Universe. This image was created as part of the ESO Cosmic Gems programme,
+  an outreach initiative to produce images of interesting, intriguing or visually
+  attractive objects using ESO telescopes, for the purposes of education and public
+  outreach. The programme makes use of telescope time that cannot be used for science
+  observations. All data collected may also be suitable for scientific purposes, and
+  are made available to astronomers through ESO’s science archive.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1847a/L{1}X{2}Y{3}.png
+name: A rosette for the VLT
+ra_hr: 6.511892399791431
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1847a/thumb.jpg
+zoom_level: 1.22202565920439
+---
 _uuid: a38a51a4-37e6-448d-acb0-2b2fcb1cb41a
 annotation: '{"channel": "noirlab", "itemid": "iotw2048a", "publishedUTCISO8601":
   "2020-11-25T16:00:00+00:00"}'

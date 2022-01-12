@@ -1,3 +1,1160 @@
+_uuid: d12ecd9e-4fb6-44e9-abdd-d83741dbe007
+annotation: '{"channel": "eso", "itemid": "20171102_whya", "publishedUTCISO8601":
+  "2017-11-09T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -28.367629583262836
+description: 'Stars like our Sun constantly eject large amounts of gas and dust into
+  space, but over their lifetimes the levels of this activity change. Scientists continually
+  scour the skies in search of explanations for how and why these changes occur. One
+  such stage of development is the asymptotic giant branch (AGB) near a star&#x27;s
+  end of life. Dust around these stars plays an important role in regulating stellar
+  winds. This dust is composed of many elements — including metals — which disperse
+  into the galaxy as the winds accelerate. Two such elements are silicon and aluminium.
+  In space, silicon is ten times more abundant than aluminium. However, many oxygen-rich
+  AGB stars are rich in aluminium oxide dust — the source of aluminium — but poor
+  in silicate dust — the source of silicon. This has puzzled researchers: why is aluminium
+  oxide dust so abundant around oxygen-rich AGB stars? A research team led by Aki
+  Takigawa of Kyoto University have utilized a new high spatial-resolution array to
+  obtain and analyse detailed images of the dust surrounding an AGB star. &quot;Previously,
+  there was a limit to how well we could observe stars,&quot; explains Takigawa. &quot;Now,
+  thanks to the high spatial resolution of the Atacama Large Millimeter/submillimeter
+  Array, or ALMA, we can obtain images of stars in finer detail. We pointed it toward
+  an aluminium oxide-rich AGB star in the constellation Hydra, W Hydrae.&quot; Gas
+  molecules aluminium monoxide and silicon monoxide — AlO and SiO — accelerate around
+  a star, eventually forming aluminium oxide and silicate dust. The team observed
+  that AlO was distributed within three stellar radii of W Hydrae, reflecting the
+  results of previous data. Surprisingly though, SiO was detected beyond five stellar
+  radii, and moreover 70% of these remained gaseous, without forming into dust. &quot;These
+  results indicate that as aluminium oxide accumulates near a star, the addition of
+  a small amount of silicate dust may trigger wind acceleration,&quot; elaborates
+  Takigawa. &quot;This decreases gas density, further suppressing silicate dust formation.&quot;
+  &quot;This may explain the presence of aluminium-oxide-rich but silicate-poor AGB
+  stars.&quot; These results shed light not only on the dynamics of gas and dust surrounding
+  stars, but also on the importance of studying both together. The team plans to continue
+  using ALMA to elucidate gas and dust dynamics in the universe.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/20171102_whya/L{1}X{2}Y{3}.png
+name: Winds blowing on a dying star
+ra_hr: 13.817220533344996
+thumbnail: http://data1.wwtassets.org/feeds/eso/20171102_whya/thumb.jpg
+zoom_level: 0.015469052480874552
+---
+_uuid: c0c108c3-1275-4a33-9606-11b11552b4bc
+annotation: '{"channel": "eso", "itemid": "eso0005b", "publishedUTCISO8601": "2000-02-08T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.01586369603458
+description: The new FORS2 image of Centaurus A, also known as NGC 5128, is an example
+  of how frontier science can be combined with esthetic aspects. This galaxy is a
+  most interesting object for the present attempts to understand active galaxies.
+  It is being investigated by means of observations in all spectral regions, from
+  radio via infrared and optical wavelengths to X- and gamma-rays. It is one of the
+  most extensively studied objects in the southern sky. FORS2, with its large field-of-view
+  and excellent optical resolution, makes it possible to study the global context
+  of the active region in Centaurus A in great detail. Note for instance the great
+  number of massive and luminous blue stars that are well resolved individually, in
+  the upper right and lower left in ESO Press Photo eso0005b. Centaurus A is one of
+  the foremost examples of a radio-loud active galactic nucleus (AGN). On images obtained
+  at optical wavelengths, thick dust layers almost completely obscure the galaxy&#x27;s
+  centre. This structure was first reported by Sir John Herschel in 1847. Until 1949,
+  NGC 5128 was thought to be a strange object in the Milky Way, but it was then identified
+  as a powerful radio galaxy and designated Centaurus A. The distance is about 10-13
+  million light-years (3-4 Mpc) and the apparent visual magnitude is about 8, or 5
+  times too faint to be seen with the unaided eye.There is strong evidence that Centaurus
+  A is a merger of an elliptical with a spiral galaxy, since elliptical galaxies would
+  not have had enough dust and gas to form the young, blue stars seen along the edges
+  of the dust lane. The core of Centaurus A is the smallest known extragalactic radio
+  source, only 10 light-days across. A jet of high-energy particles from this centre
+  is observed in radio and X-ray images. The core probably contains a supermassive
+  black hole with a mass of about 100 million solar masses. This image is a composite
+  of three exposures in B (300 sec exposure, image quality 0.60 arcsec; here rendered
+  in blue colour), V (240 sec, 0.60 arcsec; green) and R (240 sec, 0.55 arcsec; red).
+  The full-resolution version of this photo retains the original pixels.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0005b/L{1}X{2}Y{3}.png
+name: Radio galaxy Centaurus A
+ra_hr: 13.424986279688119
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0005b/thumb.jpg
+zoom_level: 1.1655014492940001
+---
+_uuid: 7b6b0417-8e26-4f60-9d6f-1b1093ecaa39
+annotation: '{"channel": "eso", "itemid": "eso0005c", "publishedUTCISO8601": "2000-02-08T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.000985704443536
+description: An area, north-west of the centre of Centaurus A  with a detailed view
+  of the dust lane and clusters of luminous blue stars. The normal version of this
+  photo retains the orginal pixels.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0005c/L{1}X{2}Y{3}.png
+name: Centaurus A
+ra_hr: 13.421810258357048
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0005c/thumb.jpg
+zoom_level: 0.45233668822799994
+---
+_uuid: eaae9ca5-87ab-46fe-b937-64b7a7dd214c
+annotation: '{"channel": "eso", "itemid": "eso0109a", "publishedUTCISO8601": "2001-03-08T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.018376497578835
+description: A small area in the direction of the heavily obscured centre of the peculiar
+  radio galaxy Centaurus A, as seen in visual light. It measures about 80 x 80 arcsec
+  2, or 4400 x 4400 light-year 2 at the distance of this galaxy, and has been reproduced
+  from exposures made with the FORS2 multi-mode instrument at the 8.2-m VLT KUEYEN
+  telescope at Paranal.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0109a/L{1}X{2}Y{3}.png
+name: The heavily obscured centre of Centaurus A
+ra_hr: 13.42415950498835
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0109a/thumb.jpg
+zoom_level: 0.219226661778609
+---
+_uuid: 9fae8733-9477-4e9f-95e7-928914d23ca0
+annotation: '{"channel": "eso", "itemid": "eso0136a", "publishedUTCISO8601": "2001-11-29T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.86740758388879
+description: 'The image is a false-colour infrared photo of the nearby barred spiral
+  galaxy Messier 83. It is based on the combination of three images obtained in the
+  Ks- (wavelength 2.2 µm), J- (1.2 µm) and I-bands (0.8 µm), respectively. The first
+  two were recorded with the SOFI instrument at the ESO 3.5-m New Technology Telescope ,
+  the third with the DFOSC instrument at the Danish 1.54-m telescope, both at the
+  La Silla Observatory. Technical information: This image of Messier 83 is based on
+  a composite of three images in the filters Ks (NTT + SOFI ; wavelength 2.162 µm;
+  Full-Width-Half-Maximum (FWHM) 0.275 µm; total exposure time on target 49 min; approx.
+  12 min per quadrant; here rendered as red); J (NTT + SOFI; 1.247 µm; 0.290 µm; 22
+  min; 5 min; green), and I (Danish 1.54-m + DFOSC ; 0.797 µm; 0.142 µm; 20 min; full-field
+  coverage; blue). As indicated, the Ks and J images were created from exposures of
+  four neighbouring fields. These images were taken in May 2001 during a period with
+  1.0 arcsec average seeing. The original frames have 1024 x 1024 pixels, each measuring
+  0.29 arcsec. The resulting mosaic was created from 31 Ks-band object frames and
+  17 J-band object frames, each with 100 sec exposure time. From each object frame,
+  a sky frame with the same exposure time was subtracted to remove the sky contribution.
+  The final size of the mosaic image is 1905 x 1839 pixels (9.2 x 8.9 arcmin). The
+  I image was observed in February 1998 by Søren Larsen (more information about this
+  image is available in &quot;Astronomy and Astrophysics Supplement&quot;, Vol 139,
+  p.393-415, 1999 and at URL: http://nedwww.ipac.caltech.edu/). The original frame
+  size was 2036 x 2042 pixels, each measuring 0.39 arcsec. The pixel size and the
+  field-of-view of this image was changed to match the characteristics of the Ks and
+  J images. North is up and east to the left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0136a/L{1}X{2}Y{3}.png
+name: An infrared portrait of the barred spiral galaxy Messier 83
+ra_hr: 13.616323170805032
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0136a/thumb.jpg
+zoom_level: 1.4877638201099999
+---
+_uuid: d8b5658b-fcd3-4351-b3a2-1c9675cde0ac
+annotation: '{"channel": "eso", "itemid": "eso0209e", "publishedUTCISO8601": "2002-03-13T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 5.017503990770447
+description: The spiral galaxy NGC 5364 was the first object to be observed with the
+  VIMOS instrument.  This false-colour near-infrared raw First Light image reveal
+  extensive structure in the spiral arms of the galaxy. The image consists of a 60
+  sec exposure of NGC 5364 on February 26, 2002; image quality 0.6 arcsec FWHM; full
+  moon; field of view 3.5 x 3.5 arcmin2 ; North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0209e/L{1}X{2}Y{3}.png
+name: NGC 5364
+ra_hr: 13.936846535913945
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0209e/thumb.jpg
+zoom_level: 0.9428016370079999
+---
+_uuid: 5cb1937d-b236-40bf-a6ea-d1286682c279
+annotation: '{"channel": "eso", "itemid": "eso0315a", "publishedUTCISO8601": "2003-06-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -42.983071885326844
+description: This is a colour composite photo of the peculiar galaxy Centaurus A (NGC
+  5128) , obtained with the Wide-Field Imager (WFI) camera at the ESO/MPG 2.2-m telescope
+  on La Silla. It is based on a total of nine 3-min exposures made on March 25, 1999,
+  through different broad-band optical filters (B(lue) - total exposure time 9 min
+  - central wavelength 456 nm - here rendered as blue; V(isual) - 540 nm - 9 min -
+  green; I(nfrared) - 784 nm - 9 min - red); it was prepared from files in the ESO
+  Science Data Archive by ESO-astronomer Benoît Vandame. The elliptical shape and
+  the central dust band, the imprint of a galaxy collision, are well visible.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0315a/L{1}X{2}Y{3}.png
+name: Centaurus A (NGC 5128)
+ra_hr: 13.428840733440804
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0315a/thumb.jpg
+zoom_level: 4.762796334318
+---
+_uuid: 39ff14c0-bfb5-4f6b-882d-4955a8aeaaa3
+annotation: '{"channel": "eso", "itemid": "eso0315c", "publishedUTCISO8601": "2003-06-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -42.865653418949336
+description: High-resolution, very deep colour image of a field around the jet in
+  the North-East of the Centaurus A galaxy.  This image was taken in July 1999 through
+  U- and V-band optical filters with the VLT FORS1 multi-mode instrument at the 8.2-m
+  VLT ANTU telescope on Paranal. Note the great variety of object types and colours,
+  including many background galaxies which are seen through these less dense regions
+  of Centaurus A. The total exposure time was 30 min in each filter and the seeing
+  was excellent, 0.5 arcsec. The original pixel size is 0.196 arcsec and the fields
+  measure 6.7 x 6.7 square arcmin (2048 x 2048 square pix). North is up and East is
+  left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0315c/L{1}X{2}Y{3}.png
+name: Centaurus A – Field 1 (shell)
+ra_hr: 13.439700520149868
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0315c/thumb.jpg
+zoom_level: 1.16151800191872
+---
+_uuid: ae849a21-d2ee-4e08-8d64-36f18027203e
+annotation: '{"channel": "eso", "itemid": "eso0315d", "publishedUTCISO8601": "2003-06-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.16585467421143
+description: High-resolution, very deep colour image of a field in the South of the
+  Centaurus A galaxy halo.  This image was taken in July 1999 through U- and V-band
+  optical filters with the VLT FORS1 multi-mode instrument at the 8.2-m VLT ANTU telescope
+  on Paranal. Note the great variety of object types and colours, including many background
+  galaxies which are seen through these less dense regions of Centaurus A. The total
+  exposure time was 30 min in each filter and the seeing was excellent, 0.5 arcsec.
+  The original pixel size is 0.196 arcsec and the fields measure 6.7 x 6.7 square
+  arcmin (2048 x 2048 square pix). North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0315d/L{1}X{2}Y{3}.png
+name: Centaurus A – Field 2 (halo)
+ra_hr: 13.423196442463752
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0315d/thumb.jpg
+zoom_level: 1.1581951593019202
+---
+_uuid: 695d1ee0-896c-435f-a266-5d67c498f8bf
+annotation: '{"channel": "eso", "itemid": "eso0315e", "publishedUTCISO8601": "2003-06-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -42.8674126752729
+description: Colour composite of &quot;Field 1&quot; (around the jet) in the peculiar
+  galaxy Centaurus A (NGC 5128), based on exposures through three near-infrared filters
+  (the J-, H- and K-bands at wavelengths 1.2, 1.6 and 2.2 µm, respectively) with the  ISAAC
+  multi-mode instrument  at the  8.2-m VLT ANTU telescope at the ESO Paranal observatory.
+  This ISAAC image is one of the two deepest near-infrared images ever obtained in
+  this galaxy and show thousands of its stars of different colours. In the present
+  colour-coding, the redder an image, the cooler is the star. The original pixel size
+  is 0.15 arcsec and both fields measure 2.5 x 2.5 arcmin 2. North is up and East
+  is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0315e/L{1}X{2}Y{3}.png
+name: Centaurus A – Field 1 (shell)
+ra_hr: 13.43977508561019
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0315e/thumb.jpg
+zoom_level: 0.35234630768945474
+---
+_uuid: c39f58cb-d69a-4253-bd58-89b0e4e1b983
+annotation: '{"channel": "eso", "itemid": "eso0315f", "publishedUTCISO8601": "2003-06-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.167671297903375
+description: Colour composites of &quot;Field 2&quot; in the halo of the peculiar
+  galaxy Centaurus A (NGC 5128), based on exposures through three near-infrared filters
+  (the J-, H- and K-bands at wavelengths 1.2, 1.6 and 2.2 µm, respectively) with the  ISAAC
+  multi-mode instrument  at the  8.2-m VLT ANTU telescope at the ESO Paranal observatory.
+  This ISAAC image is one of the two deepest near-infrared images ever obtained in
+  this galaxy and shows thousands of its stars of different colours. In the present
+  colour-coding, the redder an image, the cooler is the star. The original pixel size
+  is 0.15 arcsec and both fields measure 2.5 x 2.5 arcmin 2. North is up and East
+  is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0315f/L{1}X{2}Y{3}.png
+name: Centaurus A – Field 2 (halo)
+ra_hr: 13.423278188234825
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0315f/thumb.jpg
+zoom_level: 0.35517354955682723
+---
+_uuid: b1f59c04-45c3-4e31-b37d-affc0b83c91f
+annotation: '{"channel": "eso", "itemid": "eso0315g", "publishedUTCISO8601": "2003-06-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.161062997748765
+description: Zoomed-in area within &quot;Field 2&quot; (Halo) in Centaurus A, from
+  the ISAAC colour image. Nearly all red stars in this area are of the variable Mira-type.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0315g/L{1}X{2}Y{3}.png
+name: Centaurus A – Field 2 (detail)
+ra_hr: 13.422294080134481
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0315g/thumb.jpg
+zoom_level: 0.055586644021244594
+---
+_uuid: 11b2b479-fccc-4d73-a3f2-fa82bc9bbcd5
+annotation: '{"channel": "eso", "itemid": "eso0434a", "publishedUTCISO8601": "2004-11-18T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -31.64059487491888
+description: Composite colour-coded image of the small starburst galaxy NGC 5253,
+  at a distance of 11 million light-years. It is based on one near-infrared image
+  (in the K-band at wavelength 2.16 μm; here coded red) obtained with the ESO Very
+  Large Telescope (VLT) and two images in the visual spectral region (V- (0.55 μm)
+  and I-bands (0.79 μm), here blue and green, respectively) with the NASA/ESA Hubble
+  Space Telescope (HST). The image covers 80 x 80 square arcseconds on the sky. North
+  is up and East is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0434a/L{1}X{2}Y{3}.png
+name: Big stellar cluster in the blue dwarf galaxy NGC 5253
+ra_hr: 13.665572423749062
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0434a/thumb.jpg
+zoom_level: 0.21659097965399998
+---
+_uuid: 355b92cb-0e19-49b7-87e6-b9b877602ff4
+annotation: '{"channel": "eso", "itemid": "eso0434b", "publishedUTCISO8601": "2004-11-18T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -31.641377343658796
+description: Composite colour-coded image of the small starburst galaxy NGC 5253,
+  at a distance of 11 million light-years. It is based on one near-infrared image
+  (in the K-band at wavelength 2.16 μm; here coded red) obtained with the ESO Very
+  Large Telescope (VLT) and two images in the visual spectral region (V- (0.55 μm)
+  and I-bands (0.79 μm), here blue and green, respectively) with the NASA/ESA Hubble
+  Space Telescope (HST). The image covers 80 x 80 arcseconds on the sky. North is
+  up and East is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0434b/L{1}X{2}Y{3}.png
+name: Big stellar cluster in the blue dwarf galaxy NGC 5253
+ra_hr: 13.665430217977026
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0434b/thumb.jpg
+zoom_level: 0.261167863704
+---
+_uuid: fbb36e31-3e70-4831-aa48-8bb44553003e
+annotation: '{"channel": "eso", "itemid": "eso0525b", "publishedUTCISO8601": "2005-08-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.865137739521774
+description: If our Milky Way were to resemble this one, we certainly would be proud
+  of our home ! The beautiful spiral galaxy Messier 83 [4] is located in the southern
+  constellation Hydra (the Water Snake) and is also known as NGC 5236 and as the Southern
+  Pinwheel galaxy. Its distance is about 15 million light-years. Being about twice
+  as small as the Milky Way, its size on the sky is 11x10 arcmin2... The image show
+  clumpy, well-defined spiral arms that are rich in young stars, while the disc reveals
+  a complex system of intricate dust lanes. This galaxy is known to be a site of vigorous
+  star formation.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0525b/L{1}X{2}Y{3}.png
+name: Spiral galaxy Messier 83
+ra_hr: 13.616738677962058
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0525b/thumb.jpg
+zoom_level: 1.1558875211999997
+---
+_uuid: d0408e04-4a29-4f82-8403-90fe55ff5fa0
+annotation: '{"channel": "eso", "itemid": "eso0627b", "publishedUTCISO8601": "2006-07-26T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -46.42977134652932
+description: Located about 155 million light-years away towards the southern constellation
+  Centaurus (the Centaur), ESO 269-G57 is a spectacular spiral galaxy of symmetrical
+  shape that belongs to a well-known cluster of galaxies seen in this direction. An
+  inner &#x27;ring&#x27;, of several tightly wound spiral arms, surrounded by two
+  outer ones that appear to split into several branches, are clearly visible. Many
+  blue and diffuse objects are seen — most are star-forming regions. ESO 269-G57 extends
+  over about 4 arc minutes in the sky, corresponding to nearly 200,000 light-years
+  across. Resembling a large fleet of spaceships, many other faint, distant galaxies
+  are visible in the background.Obtained with VLT ANTU and FORS1 in the morning of
+  March 27, 1999. The full field measures 6.8 x 6.8 arcmin2. North is up and East
+  is to the left. The image is based on data collected in the B, V, R and H-alpha
+  filters, for a total exposure time of a little over one hour (64 min). The data
+  were extracted from the ESO Science Archive and further processed by Henri Boffin
+  (ESO).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0627b/L{1}X{2}Y{3}.png
+name: The spectacular spiral galaxy ESO 269-G57
+ra_hr: 13.16759916477367
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0627b/thumb.jpg
+zoom_level: 1.020032393058
+---
+_uuid: 66db89c9-a4e4-4f40-83f4-598fba63fb57
+annotation: '{"channel": "eso", "itemid": "eso0709a", "publishedUTCISO8601": "2007-03-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.25798103530901
+description: Colour image of the two galaxies NGC 5011B (top) and NGC 5011C (bottom
+  blue galaxy). NGC 5011C is a dwarf galaxy located in the Centaurus A group, while
+  its companion on the sky is in fact an S0 galaxy, located 12 times further away
+  and belonging to the Centaurus cluster of galaxies. The composite image is based
+  on data obtained with the EFOSC2 instrument on the ESO 3.6-metre telescope at the
+  La Silla Observatory in three different wavebands (B, V, and R). The total integration
+  time is 3 minutes. The field of view is about 5 x 4.5 arcmin. North is up, East
+  to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0709a/L{1}X{2}Y{3}.png
+name: The overlooked dwarf and its apparent companion
+ra_hr: 13.219982652104228
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0709a/thumb.jpg
+zoom_level: 0.7218111367440001
+---
+_uuid: 58894d7d-ec2d-46e5-8da4-ca0c9317d840
+annotation: '{"channel": "eso", "itemid": "eso0825a", "publishedUTCISO8601": "2008-09-02T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.86976114956284
+description: This dramatic image of the galaxy Messier 83 was captured by the Wide
+  Field Imager at ESO&#x27;s La Silla Observatory, located high in the dry desert
+  mountains of the Chilean Atacama Desert. Messier 83 lies roughly 15 million light-years
+  away towards the huge southern constellation of Hydra (the sea serpent). It stretches
+  over 40 000 light-years, making it roughly 2.5 times smaller than our own Milky
+  Way. However, in some respects, Messier 83 is quite similar to our own galaxy. Both
+  the Milky Way and Messier 83 possess a bar across their galactic nucleus, the dense
+  spherical conglomeration of stars seen at the centre of the galaxies.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0825a/L{1}X{2}Y{3}.png
+name: Spiral galaxy Messier 83*
+ra_hr: 13.616553872402593
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0825a/thumb.jpg
+zoom_level: 2.9900742574079997
+---
+_uuid: 8e9184c0-e3b4-4642-abd8-2e14b22ac6dd
+annotation: '{"channel": "eso", "itemid": "eso0844a", "publishedUTCISO8601": "2008-12-02T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -47.49360735765338
+description: The globular cluster Omega Centauri — with as many as ten million stars
+  — is seen in all its splendour in this image captured with the WFI camera from ESO&#x27;s
+  La Silla Observatory. The image shows only the central part of the cluster — about
+  the size of the full moon on the sky (half a degree). North is up, East is to the
+  left. This colour image is a composite of B, V and I filtered images. Note that
+  because WFI is equipped with a mosaic detector, there are two small gaps in the
+  image which were filled with lower quality data from the Digitized Sky Survey. Can
+  you find them? NGC 5139 is another designation of this cluster.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0844a/L{1}X{2}Y{3}.png
+name: The globular cluster Omega Centauri*
+ra_hr: 13.445655103775147
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0844a/thumb.jpg
+zoom_level: 5.0974603056720005
+---
+_uuid: 41c159a0-5f2b-4156-800e-1fe6830e22a5
+annotation: '{"channel": "eso", "itemid": "eso0903a", "publishedUTCISO8601": "2009-01-28T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.01749497953733
+description: 'Colour composite image of Centaurus A, revealing the lobes and jets
+  emanating from the active galaxy’s central black hole. This is a composite of images
+  obtained with three instruments, operating at very different wavelengths. The 870-micron
+  submillimetre data, from LABOCA on APEX, are shown in orange. X-ray data from the
+  Chandra X-ray Observatory are shown in blue. Visible light data from the Wide Field
+  Imager (WFI) on the MPG/ESO 2.2 m telescope located at La Silla, Chile, show the
+  stars and the galaxy’s characteristic dust lane in close to &quot;true colour&quot;.
+  #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0903a/L{1}X{2}Y{3}.png
+name: Centaurus A
+ra_hr: 13.424437991912665
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0903a/thumb.jpg
+zoom_level: 4.066306562322001
+---
+_uuid: 8cf88d2b-c0a2-44f4-a915-6b7f79e72149
+annotation: '{"channel": "eso", "itemid": "eso0931a", "publishedUTCISO8601": "2009-09-02T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -49.48227581016394
+description: Seen edge-on, observations of NGC 4945 suggest that this hive of stars
+  is a spiral galaxy much like our own Milky Way, with swirling, luminous arms and
+  a bar-shaped centre. Sites of active star formation, known as HII regions, are seen
+  prominently in the image, appearing bright pink. These resemblances aside, NGC 4945
+  has a brighter centre that likely harbours a supermassive black hole, which is devouring
+  reams of matter and blasting energy out into space. NGC 4945 is about 13 million
+  light-years away in the constellation of Centaurus (the Centaur) and is beautifully
+  revealed in this image taken with data in five bands (B, V, R, H-alpha and S II)
+  with the 2.2-metre MPG/ESO telescope at La Silla. The field of view is 30 x 30 arcminutes.
+  North is up, East is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0931a/L{1}X{2}Y{3}.png
+name: Spiral galaxy NGC 4945
+ra_hr: 13.089257189932576
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0931a/thumb.jpg
+zoom_level: 3.7328813683199997
+---
+_uuid: d520fad4-8eba-450e-a553-bb651f40c725
+annotation: '{"channel": "eso", "itemid": "eso0931b", "publishedUTCISO8601": "2010-07-30T16:17:01+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -49.47992125438166
+description: This image is a colour composite made from exposures from the Digitized  Sky
+  Survey 2 (DSS2). The field of view is approximatelly 3.0 x 3.0 degrees.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0931b/L{1}X{2}Y{3}.png
+name: Digitized Sky Survey image of the galaxy NGC 4945
+ra_hr: 13.087996360657296
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0931b/thumb.jpg
+zoom_level: 30.517915677480005
+---
+_uuid: 1d014dee-eb5d-4230-843b-4187289afca2
+annotation: '{"channel": "eso", "itemid": "eso0944a", "publishedUTCISO8601": "2009-11-20T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.01880733873709
+description: This image of the central parts of Centaurus A reveals the parallelogram-shaped
+  remains of a smaller galaxy that was gulped down about 200 to 700 million years
+  ago. The image is based on data collected with the SOFI instrument on ESO’s New
+  Technology Telescope at La Silla. The original image, obtained by observing in the
+  near-infrared through three different filters (J, H and K) was specially processed
+  to look through the dust, providing a clear view of the centre. The field of view
+  is about 4 x 4 arcminutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0944a/L{1}X{2}Y{3}.png
+name: Dinner for Centaurus A
+ra_hr: 13.424071091432694
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0944a/thumb.jpg
+zoom_level: 0.693912869618706
+---
+_uuid: f7d9e978-348a-456a-bb2f-bfb26488fbf8
+annotation: '{"channel": "eso", "itemid": "eso1119b", "publishedUTCISO8601": "2011-06-08T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -47.46803553534047
+description: This VST image may be the best portrait of the globular star cluster
+  Omega Centauri ever made. Omega Centauri, in the constellation of Centaurus (The
+  Centaur), is the largest globular cluster in the sky, but the very wide field of
+  view of VST and its powerful camera OmegaCAM can encompass even the faint outer
+  regions of this spectacular object. This view includes about 300 000 stars. The
+  data were processed using the VST-Tube system developed by A. Grado and collaborators
+  at the INAF-Capodimonte Observatory.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1119b/L{1}X{2}Y{3}.png
+name: VST image of the giant globular cluster Omega Centauri*
+ra_hr: 13.44598221599121
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1119b/thumb.jpg
+zoom_level: 8.64895973376
+---
+_uuid: e225cf6a-4b89-424a-ae07-073842d82b47
+annotation: '{"channel": "eso", "itemid": "eso1221a", "publishedUTCISO8601": "2012-05-16T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.00077077524411
+description: The peculiar galaxy Centaurus A (NGC 5128) is pictured in this image
+  taken with the Wide Field Imager attached to the MPG/ESO 2.2-metre telescope at
+  the La Silla Observatory in Chile. With a total exposure time of more than 50 hours
+  this is probably the deepest view of this peculiar and spectacular object ever created.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1221a/L{1}X{2}Y{3}.png
+name: A deep look at the strange galaxy Centaurus A
+ra_hr: 13.425797609008246
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1221a/thumb.jpg
+zoom_level: 5.631148657764001
+---
+_uuid: a813d6ca-962a-4264-bc36-67ca7c93a441
+annotation: '{"channel": "eso", "itemid": "eso2011a", "publishedUTCISO8601": "2020-07-22T15:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -64.93938307112971
+description: This image, captured by the SPHERE instrument on ESO’s Very Large Telescope,
+  shows the star TYC 8998-760-1 accompanied by two giant exoplanets. This is the first
+  time astronomers have directly observed more than one planet orbiting a star similar
+  to the Sun. The image was captured by blocking the light from the young, Sun-like
+  star (on the top left corner) using a coronagraph, which allows for the fainter
+  planets to be detected. The bright and dark rings we see on the star’s image are
+  optical artefacts. The two planets are visible as two bright dots in the centre
+  and bottom right of the frame.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2011a/L{1}X{2}Y{3}.png
+name: First ever image of a multi-planet system around a Sun-like star
+ra_hr: 13.419986112029072
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2011a/thumb.jpg
+zoom_level: 0.008903642855307713
+---
+_uuid: 3ca5b70c-d9ab-491b-a95e-a246dc4b2132
+annotation: '{"channel": "eso", "itemid": "eso2011c", "publishedUTCISO8601": "2020-07-22T15:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -64.93918490472561
+description: This image, captured by the SPHERE instrument on ESO’s Very Large Telescope,
+  shows the star TYC 8998-760-1 accompanied by two giant exoplanets, TYC 8998-760-1b
+  and TYC 8998-760-1c. This is the first time astronomers have directly observed more
+  than one planet orbiting a star similar to the Sun. The two planets are visible
+  as two bright dots in the centre (TYC 8998-760-1b) and bottom right (TYC 8998-760-1c)
+  of the frame. Other bright dots, which are background stars, are visible in the
+  image as well. By taking different images at different times, the team were able
+  to distinguish these planets from the background stars.    The image was captured
+  by blocking the light from the young, Sun-like star (top-left of centre) using a
+  coronagraph, which allows for the fainter planets to be detected. The bright and
+  dark rings we see on the star’s image are optical artefacts.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2011c/L{1}X{2}Y{3}.png
+name: First ever image of a multi-planet system around a Sun-like star (uncropped,
+  without annotations)
+ra_hr: 13.420010889230433
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2011c/thumb.jpg
+zoom_level: 0.013443960291963299
+---
+_uuid: d77dd439-efed-4047-b848-3f2054c745f1
+annotation: '{"channel": "eso", "itemid": "eso2107j", "publishedUTCISO8601": "2021-04-27T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.0273896931508
+description: Full field-of-view image (in false colour) obtained during the Test-Bed
+  Telescope’s first light tests at ESO’s La Silla Observatory in Chile. The individual
+  light sources are stars, with the galaxy Centaurus A visible in the centre of the
+  image. While the telescope will be used to detect near-Earth objects rather than
+  observing galaxies, images like these are important to test if the telescope is
+  working as expected. Even during its commissioning phase, the 56-centimetre telescope
+  is already showing its promising capabilities, in part thanks to the excellent sky
+  quality at La Silla. 
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2107j/L{1}X{2}Y{3}.png
+name: Image of the Centaurus A galaxy taken during the Test-Bed Telescope first light
+  tests
+ra_hr: 13.42125885572896
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2107j/thumb.jpg
+zoom_level: 25.19758299103624
+---
+_uuid: 8ae77c11-51c4-4c5d-8b8d-9d513052f00b
+annotation: '{"channel": "eso", "itemid": "eso9922a", "publishedUTCISO8601": "1999-03-26T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -49.466203369138505
+description: This photograph shows a sky field around the spiral galaxy NGC 4945 .
+  It is assembled from five 15-minute R(ed)-narrowband (shown in red), four 5-minute
+  B(lue)-band (shown in green), and five 1000-second U(ltraviolet)-band (shown in
+  blue) exposures, obtained in January 1999 during the Science Verification phase
+  with the Wide-Field-Imager (WFI) at the MPG/ESO 2.2-m telescope at La Silla.  At
+  the recession velocity of NGC 4945, the red filter, centred at 665 nm with an FWHM
+  (full width at half maximum) of only 1.2 nm, does not include the H-alpha emission
+  line of interstellar hydrogen in this galaxy. The original resolution of about 1
+  arcsec corresponds to roughly 62 light-years at the distance of NGC 4945  (13 million
+  light-years).   In addition to NGC 4945 itself, some much more distant galaxies
+  can be recognized as faint, slightly red light patches in the field. The vast majority
+  of the point-like sources are stars in the Milky Way. However, a fair number of
+  those near NGC 4945  are globular clusters belonging to this galaxy.  Each frame
+  records 8184 x 8196 = 67,076,064 pixels, and thus the total number of data points
+  (pixels) of the 14 CCD frames used to make this photo is almost 10 9. Their collective
+  information content corresponds to more than 70 x 10 9 photons (not counting those
+  from the Earth&#x27;s upper atmosphere that were recorded simultaneously). The field
+  covers 32 x 32 arcmin 2. East is to the left and North to the top.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9922a/L{1}X{2}Y{3}.png
+name: Spiral galaxy NGC 4945
+ra_hr: 13.093702789440671
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9922a/thumb.jpg
+zoom_level: 5.33370806406
+---
+_uuid: 151f0774-edaf-4b94-af36-cb5e0c668eaf
+annotation: '{"channel": "eso", "itemid": "eso9922b", "publishedUTCISO8601": "1999-03-26T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -49.414358663802396
+description: This image is an enlargement at full resolution of a smaller region (about
+  1/7 by area) of a sky field around the spiral galaxy NGC 4945 . It is assembled
+  from five 15-minute R(ed)-narrowband (shown in red), four 5-minute B(lue)-band (shown
+  in green), and five 1000-second U(ltraviolet)-band (shown in blue) exposures, obtained
+  in January 1999 during the Science Verification phase with the Wide-Field-Imager
+  (WFI) at the MPG/ESO 2.2-m telescope at La Silla.  At the recession velocity of
+  NGC 4945, the red filter, centred at 665 nm with an FWHM (full width at half maximum)
+  of only 1.2 nm, does not include the H-alpha emission line of interstellar hydrogen
+  in this galaxy. The original resolution of about 1 arcsec corresponds to roughly
+  62 light-years at the distance of NGC 4945  (13 million light-years).  In addition
+  to NGC 4945 itself, some much more distant galaxies can be recognized as faint,
+  slightly red light patches in the field. The vast majority of the point-like sources
+  are stars in the Milky Way. However, a fair number of those near NGC 4945 are globular
+  clusters belonging to this galaxy.  Each frame records 8184 x 8196 = 67,076,064
+  pixels, and thus the total number of data points (pixels) of the 14 CCD frames used
+  to make this photo is almost 10 9. Their collective information content corresponds
+  to more than 70 x 10 9 photons (not counting those from the Earth&#x27;s upper atmosphere
+  that were recorded simultaneously).  It covers 2997 x 2998 pixels and measures about
+  12 x 12 arcmin 2 in the sky. Note the many background galaxies in the field.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9922b/L{1}X{2}Y{3}.png
+name: Detail of spiral galaxy NGC 4945
+ra_hr: 13.089326272586854
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9922b/thumb.jpg
+zoom_level: 2.0093019446371874
+---
+_uuid: a40de6d4-e535-4cbe-bf1a-88a1fbb45704
+annotation: '{"channel": "eso", "itemid": "eso9922c", "publishedUTCISO8601": "1999-03-26T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -49.53062724149158
+description: This image is an enlargement at full resolution of a smaller region (about
+  1/67 by area) of a sky field around the spiral galaxy NGC 4945 . It is assembled
+  from five 15-minute R(ed)-narrowband (shown in red), four 5-minute B(lue)-band (shown
+  in green), and five 1000-second U(ltraviolet)-band (shown in blue) exposures, obtained
+  in January 1999 during the Science Verification phase with the Wide-Field-Imager
+  (WFI) at the MPG/ESO 2.2-m telescope at La Silla.  At the recession velocity of
+  NGC 4945, the red filter, centred at 665 nm with an FWHM (full width at half maximum)
+  of only 1.2 nm, does not include the H-alpha emission line of interstellar hydrogen
+  in this galaxy. The original resolution of about 1 arcsec corresponds to roughly
+  62 light-years at the distance of NGC 4945  (13 million light-years).  In addition
+  to NGC 4945 itself, some much more distant galaxies can be recognized as faint,
+  slightly red light patches in the field. The vast majority of the point-like sources
+  are stars in the Milky Way. However, a fair number of those near NGC 4945 are globular
+  clusters belonging to this galaxy.  Each frame records 8184 x 8196 = 67,076,064
+  pixels, and thus the total number of data points (pixels) of the 14 CCD frames used
+  to make this photo is almost 10 9. Their collective information content corresponds
+  to more than 70 x 10 9 photons (not counting those from the Earth&#x27;s upper atmosphere
+  that were recorded simultaneously).   It covers 1001 x 1002 pixels and measures
+  about 4 x 4 arcmin 2 in the sky. The structure of the faint and distant spiral galaxy
+  at the centre is well visible in this reproduction.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9922c/L{1}X{2}Y{3}.png
+name: Field near spiral galaxy NGC 4945
+ra_hr: 13.11023051198145
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9922c/thumb.jpg
+zoom_level: 0.6730166424484788
+---
+_uuid: 48d41b3c-cb09-4589-bffc-255f9d1b9d4a
+annotation: '{"channel": "eso", "itemid": "eso9922d", "publishedUTCISO8601": "1999-03-26T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -49.53085493893155
+description: This image is an enlargement of part of the same area of  a sky field
+  around the spiral galaxy NGC 4945 with a faint spiral galaxy showing the individual
+  pixels. It covers 214 x 210 pixels and measures about 50 x 50 arcsec 2 in the sky.
+  The area is only 1/1500 of the full field; this illustrates the enormous amount
+  of information that can be obtained with the WFI in a short time and hence, the
+  great efficiency of this instrument. Please note that the small, &quot;full resolution&quot;
+  image has the original resolution as recorded at the telescope, while the &quot;enlarged
+  version&quot; is enlarged four times for easy viewing on the screen.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9922d/L{1}X{2}Y{3}.png
+name: Detail of field near spiral galaxy NGC 4945
+ra_hr: 13.109635124944027
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9922d/thumb.jpg
+zoom_level: 0.14104233175485795
+---
+_uuid: 66706b29-706c-4b76-b529-cb1e4beca6e1
+annotation: '{"channel": "eso", "itemid": "eso9923b", "publishedUTCISO8601": "1999-04-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -46.43441129288797
+description: This photo shows the central region of spiral galaxy ESO 269-57, located
+  in the southern constellation Centaurus at a distance of about 150 million light-years.
+  Many galaxies are seen in this direction at about the same distance, forming a loose
+  cluster; there are also some fainter, more distant ones in the background. The designation
+  refers to the ESO/Uppsala Survey of the Southern Sky in the 1970&#x27;s during which
+  over 15,000 southern galaxies were catalogued. ESO 269-57  is a tightly bound object
+  of type Sar, the &quot;r&quot; referring to the &quot;ring&quot; that surrounds
+  the bright centre, that is overexposed here. The photo is a composite, based on
+  three exposures (Blue - 600 sec; Yellow-Green - 300 sec; Red - 300 sec) obtained
+  with KUEYEN on March 28, 1999. The image quality is 0.7 arcsec and the field is
+  90 x 90 arcsec 2. North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9923b/L{1}X{2}Y{3}.png
+name: Spiral galaxy ESO 269-57
+ra_hr: 13.168165820803544
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9923b/thumb.jpg
+zoom_level: 0.2408176033920001
+---
+_uuid: aa6ce3cb-3e52-4e3d-b9bb-7c9e4add860f
+annotation: '{"channel": "eso", "itemid": "eso9923c", "publishedUTCISO8601": "1999-04-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.88254054619028
+description: Somewhat further out in space, and right on the border between the southern
+  constellations Hydra and Centaurus lies this knotty spiral galaxy, IC 4248  ; the
+  distance is about 210 million light-years. The photo is a composite, based on three
+  exposures (Blue - 600 sec; Yellow-Green - 300 sec; Red - 300 sec) obtained with
+  KUEYEN on March 28, 1999.  The image quality is 0.75 arcsec and the field is 90
+  x 90 arcsec 2. North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9923c/L{1}X{2}Y{3}.png
+name: Spiral galaxy IC 4248
+ra_hr: 13.44653152978456
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9923c/thumb.jpg
+zoom_level: 0.24626306107199997
+---
+_uuid: c4ce36e1-a0e3-4854-8b3e-a8ef60ca8acb
+annotation: '{"channel": "eso", "itemid": "eso9923d", "publishedUTCISO8601": "1999-04-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.711395919835724
+description: This is a close-up view of the double galaxy NGC 5090  (right) and NGC
+  5091  (left), in the southern constellation Centaurus. The first is a typical S0
+  galaxy with a bright diffuse centre, surrounded by a fainter envelope of stars (not
+  resolved in this picture). However, some of the starlike objects seen in this region
+  may be globular clusters (or dwarf galaxies) in orbit around NGC 5090. The other
+  galaxy is of type Sa (the spiral structure is more developed) and is seen at a steep
+  angle. The three-colour composite is based on frames obtained with KUEYEN on March
+  29, 1999, with the same filters and exposure times as used for ESO Press Photo eso9923.
+  The image quality is 0.7 arcsec and the field is 90 x 90 arcsec 2. North is up and
+  East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9923d/L{1}X{2}Y{3}.png
+name: Interacting galaxies NGC 5090
+ra_hr: 13.354111252866549
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9923d/thumb.jpg
+zoom_level: 0.255686700924
+---
+_uuid: 057d1465-bc0e-4313-8427-cae98ff3db4d
+annotation: '{"channel": "eso", "itemid": "eso9924c", "publishedUTCISO8601": "1999-04-30T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -46.435742442916435
+description: ESO 269-57  is a spectacular spiral galaxy of symmetrical shape in the
+  southern constellation Centaurus and belongs to a well-known cluster of galaxies
+  seen in this direction. The galaxy received this designation when it was catalogued
+  during the first ESO Survey of the Southern Sky in the 1970&#x27;s.  This photograph
+  shows the complex structure of ESO 269-57, with an inner &quot;ring&quot;, of several
+  tightly wound spiral arms, surrounded by two outer ones that appear to split into
+  several branches. Many blue and diffuse objects are visible — most are star-forming
+  regions. The galaxy type is Sa(r). The velocity is just over 3,100 km/sec, indicating
+  a distance of about 155 million light-years. It extends over about 4 arcmin in the
+  sky, corresponding to nearly 200,000 light-years across. Many other galaxies are
+  visible in the background.  In this and the other photos, the vertical lines extending
+  from the images of some bright stars result from a &quot;bleeding&quot; effect in
+  the CCD detector where the pixels are completely saturated.  This three-colour composite
+  (BVR) was obtained with VLT ANTU and FORS1 in the morning of March 27, 1999. The
+  full field measures 6.8 x 6.8 arcmin 2. North is up and East is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9924c/L{1}X{2}Y{3}.png
+name: Spiral galaxy ESO 269-57
+ra_hr: 13.167883922106448
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9924c/thumb.jpg
+zoom_level: 1.1610151403520002
+---
+_uuid: 34bfb434-3672-4eb8-ae28-071116072c20
+annotation: '{"channel": "eso", "itemid": "eso9924d", "publishedUTCISO8601": "1999-04-30T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.69443917502746
+description: A pair of galaxies NGC 5090 - 5091  in Centaurus is shown in this image.
+  They are located at about the same distance as ESO 269-57  and may belong to the
+  same cluster of galaxies.  This is an interacting elliptical-spiral system with
+  some evidence of tidal disruption of NGC 5091 (to the left; seen under a steep angle)
+  by NGC 5090 (to the right). The velocity of the nucleus of NGC 5091 has been measured
+  as 3429 km/sec, while NGC 5090 has a velocity of 3185 km/sec. NGC 5090 is associated
+  with a strong, double radio source (PKS 1318-43).  This three-colour composite (BVR)
+  was obtained with VLT ANTU and FORS1 in the morning of March 29, 1999. A bright
+  star in the Milky Way, just outside the field at the upper left, has produced a
+  pattern of blue straylight. The field size is 6.8x6.8 arcmin 2. North is up and
+  East is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9924d/L{1}X{2}Y{3}.png
+name: Galaxy pair NGC 5090 and NGC 5091
+ra_hr: 13.354217975040141
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9924d/thumb.jpg
+zoom_level: 1.1533703036940002
+---
+_uuid: 76cf2f3b-89c3-4ab4-9739-c6e34523de42
+annotation: '{"channel": "eso", "itemid": "eso9924e", "publishedUTCISO8601": "1999-04-30T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -26.78056197387873
+description: 'Image showing a sky field in the southern constellation Hydra (The Water-snake)
+  that includes the peculiar spiral galaxy ESO 510-13 . It resembles the famous &quot;Sombrero&quot;
+  galaxy, but its equatorial dust plane is pronouncedly warped. The velocity is 3300
+  km/sec, the distance is about 170 million light-years and the size is 100,000 light-years.  The
+  fact that the dust band and the rest of this galaxy are not well aligned is a clear
+  sign that the former was acquired recently (in astronomical terms). The dust band
+  is still in the process of achieving a more stable state by becoming flat. It is
+  not obvious how it was formed; it may for instance be the result of a merger with
+  a gas-rich dwarf galaxy and the elliptical galaxy. In any case, this is a most interesting
+  object that will undoubtedly soon be studied in more detail, with the VLT and other
+  large telescopes.  The photo displays a very large number of fainter objects near
+  this galaxy. Many of these are likely to be globular clusters of stars associated
+  with the galaxy; others are background galaxies. It would indeed appear that ESO
+  510-13 is located right in front of one or more, distant clusters of galaxies.  This
+  three-colour composite (BVI) was obtained with VLT ANTU and FORS in the morning
+  of March 15, 1999. Field size: 6.8x6.8 arcmin 2 ; North is up and East is to the
+  left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9924e/L{1}X{2}Y{3}.png
+name: Galaxy with warped dust lane
+ra_hr: 13.917709638935177
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9924e/thumb.jpg
+zoom_level: 1.161939480474326
+---
+_uuid: 1900e144-8527-4e59-b040-f74324efa5ef
+annotation: '{"channel": "eso", "itemid": "eso9926b", "publishedUTCISO8601": "1999-05-18T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -80.4903229498314
+description: This is a false-colour composite of the area around the optical image
+  of the afterglow of GRB 990510, based on three near-infrared exposures with the
+  SOFI multi-mode instrument at the 3.6-m ESO New Technology Telescope (NTT) at La
+  Silla, obtained on May 10, 1999, between 23:15 and 23:45 UT. The exposure times
+  were 10 min each in the J- (1.2 µm; here rendered in blue), H- (1.6 µm; green) and
+  K-bands (2.2 µm; red); the image quality is excellent (0.6 arcsec). The field measures
+  about 5 x 5 arcmin 2 ; the original pixel size is 0.29 arcsec. North is up and East
+  is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9926b/L{1}X{2}Y{3}.png
+name: Afterglow of GRB 990510
+ra_hr: 13.634991432827103
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9926b/thumb.jpg
+zoom_level: 0.7140645866040001
+---
+_uuid: 066607ee-a1b5-4114-a172-15a878d0a8fd
+annotation: '{"channel": "eso", "itemid": "eso9926d", "publishedUTCISO8601": "1999-05-18T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -80.4964422183168
+description: 'Enlargement from the 30 sec V-exposure by the VLT, shown in ESO Press
+  Photo eso9926. The field is about 1.9 x 1.9 arcmin 2. North is up and East is left. '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9926d/L{1}X{2}Y{3}.png
+name: Afterglow of GRB 990510
+ra_hr: 13.635363016308869
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9926d/thumb.jpg
+zoom_level: 0.33478925968799994
+---
+_uuid: 69193eb7-fd0b-4c16-b9fe-d9a68fe42910
+annotation: '{"channel": "eso", "itemid": "eso9949a", "publishedUTCISO8601": "1999-11-29T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.865356124306054
+description: 'This image of a well-known spiral galaxy, Messier 83, was prepared by
+  superposing three CCD frames from this data release that are now available in the
+  archive. This galaxy is located in the southern constellation Hydra (The Water-Snake)
+  and is also known as NGC 5236; the distance is about 15 million light-years. The
+  spiral structure resembles that of the Milky Way Galaxy in which we live, but Messier
+  83 also possesses a bar-like structure at the centre. This photo shows the central
+  region of a beautiful spiral galaxy, Messier 83, as observed with the FORS1 instrument
+  at VLT ANTU . It is based on a composite of three images, all of which are now available
+  from the ESO Science Data Archive, as described in this Press Release. The three
+  frames were taken in March 1999 through three different filters: B (wavelength 429
+  nm; Full-Width-Half-Maximum (FWHM) 88 nm; exposure time 10 min; here rendered as
+  blue), R (657 nm; 150 nm; 3 min; green) and I (768 nm; 138 nm; 3 min; red) during
+  a period of 0.8 arcsec average seeing. The field shown measures about 6.8 x 6.8
+  arcmin and the images were recorded in frames of 2048 x 2048 pixels, each measuring
+  0.2 arcsec. North is up; East is left. Compare also with ESO Press Photo eso9826
+  (in B/W) of a small area in this galaxy that was obtained with the VLT Test Camera
+  in June 1998.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9949a/L{1}X{2}Y{3}.png
+name: Messier 83 – central region
+ra_hr: 13.616543799417924
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9949a/thumb.jpg
+zoom_level: 1.159529422632
+---
+_uuid: 850bd0e2-1cf8-4557-83ee-d76ed3afe89d
+annotation: '{"channel": "eso", "itemid": "m83", "publishedUTCISO8601": "2009-12-03T23:20:32+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.871179299250834
+description: Located about 15 million light-years away towards the Hydra (the sea
+  serpent) constellation, Messier 83 is a nearby face-on barred spiral with a classic
+  grand design form. It is the main member of a small galactic group including NGC
+  5253 and about 9 dwarf galaxies. Messier 83 stretches over 40,000 light-years, making
+  it roughly 2.5 times smaller than our own Milky Way. However, in some respects,
+  Messier 83 is quite similar to our own galaxy. Both the Milky Way and Messier 83
+  possess a bar across their galactic nucleus, the dense spherical conglomeration
+  of stars seen at the centre of the galaxies. Messier 83 has been a prolific producer
+  of supernovae, with six observed in the past century. This is indicative of an exceptionally
+  high rate of star formation coinciding with its classification as a starburst galaxy.
+  Despite its symmetric appearance, the central 1,000 light-years of the galaxy shows
+  an unusually high level of complexity, containing both a double nucleus and a double
+  circumnuclear starburst ring. The nature of the double nucleus is uncertain but
+  the off centre nucleus could be a remnant core of a small galaxy that merged with
+  Messier 83 in the past. The star clusters in the nuclear starburst rings are mostly
+  young stars between 5 and 10 million years old.   This image is based on data acquired
+  with the 1.5-metre Danish telescope at ESO’s La Silla Observatory in Chile, through
+  three filters (B, V, R).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/m83/L{1}X{2}Y{3}.png
+name: The Southern Pinwheel
+ra_hr: 13.616630994324114
+thumbnail: http://data1.wwtassets.org/feeds/eso/m83/thumb.jpg
+zoom_level: 2.4183501803240253
+---
+_uuid: 2f181c9e-7610-43c3-bea5-bf10393d0b95
+annotation: '{"channel": "eso", "itemid": "potw1012a", "publishedUTCISO8601": "2010-03-22T08:21:46+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -65.97413446462645
+description: NGC 5189 is a planetary nebula with an oriental twist. Similar in appearance
+  to a Chinese dragon, these red and green cosmic fireworks are the last swansong
+  of a dying star. At the end of its life, a star with a mass less than eight times
+  that of the Sun will blow its outer layers away, giving rise to a planetary nebula.
+  Some of these stellar puffballs are almost round, resembling huge soap bubbles or
+  giant planets (hence the name), but others, such as NGC 5189 are more intricate.
+  In particular, this planetary nebula exhibits a curious “S”-shaped profile, with
+  a central bar that is most likely the projection of an inner ring of gas discharged
+  by the star, seen edge on. The details of the physical processes producing such
+  a complex symmetry from a simple, spherical star are still the object of astronomical
+  controversy. One possibility is that the star has a very close (but unseen) companion.
+  Over time the orbits drift due to precession and this could result in the complex
+  curves on the opposite sides of the star visible in this image. This image has been
+  taken with the New Technology Telescope at ESO’s La Silla Observatory in Chile,
+  using the now decommissioned EMMI instrument. It is a combination of exposures taken
+  through different narrowband filters, each designed to catch only the light coming
+  from the glow of a given chemical element, namely hydrogen, oxygen and nitrogen.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1012a/L{1}X{2}Y{3}.png
+name: Dying star puffs a cosmic dragon
+ra_hr: 13.55894326974644
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1012a/thumb.jpg
+zoom_level: 0.9143153077320001
+---
+_uuid: 68ab3fa4-81f1-4985-9350-9519774a8d7a
+annotation: '{"channel": "eso", "itemid": "potw1706a", "publishedUTCISO8601": "2017-02-06T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -6.776942263123048
+description: 'Over 75 million light-years away in the constellation of Virgo (The
+  Virgin) lies NGC 4981 — a spiral galaxy with a rather explosive past. NGC 4981 was
+  discovered on 17 April 1784 by William Herschel, and subsequently documented in
+  John Dreyer’s New General Catalogue. Over a century later,  on 23 April 1968, the
+  galaxy once again made it into the records when a Type la supernova — a stellar
+  explosion in a binary star system — occurred within its confines: SN 1968I. SN 1968I,
+  however, was not to be the galaxy’s only supernova. Decades later, the core collapse
+  of a massive star led to supernova SN 2007c. This spectacular shot of NGC 4981 —
+  not showing any of the supernovae explosions; the bright star visible in the image
+  is a foreground star — was captured by FORS, the visible and near-UV FOcal Reducer
+  and low dispersion Spectrograph for ESO’s Very Large Telescope (VLT). FORS is the
+  Swiss Army knife of ESO’s instruments — it is able to study many different astronomical
+  objects in many different ways, and is responsible for some of the most iconic photos
+  ever captured with the VLT (see eso9948f and eso0202a). The data to create this
+  image was selected from the ESO archive by Josh Barrington as part of the Hidden
+  Treasures competition.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1706a/L{1}X{2}Y{3}.png
+name: When stars explode
+ra_hr: 13.146890306737967
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1706a/thumb.jpg
+zoom_level: 0.859089812138424
+---
+_uuid: 6adc3270-4ee2-4caf-b4b5-343197c8cb2e
+annotation: '{"channel": "eso", "itemid": "potw1708a", "publishedUTCISO8601": "2017-02-20T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -11.755266296699949
+description: 'The events surrounding the Big Bang were so cataclysmic that they left
+  an indelible imprint on the fabric of the cosmos. We can detect these scars today
+  by observing the oldest light in the Universe. As it was created nearly 14 billion
+  years ago, this light — which exists now as weak microwave radiation and is thus
+  named the cosmic microwave background (CMB) — has now expanded to permeate the entire
+  cosmos, filling it with detectable photons. The CMB can be used to probe the cosmos
+  via something known as the Sunyaev-Zel’dovich (SZ) effect, which was first observed
+  over 30 years ago. We detect the CMB here on Earth when its constituent microwave
+  photons travel to us through space. On their journey to us, they can pass through
+  galaxy clusters that contain high-energy electrons. These electrons give the photons
+  a tiny boost of energy. Detecting these boosted photons through our telescopes is
+  challenging but important — they can help astronomers to understand some of the
+  fundamental properties of the Universe, such as the location and distribution of
+  dense galaxy clusters. This image shows the first measurements of the thermal Sunyaev-Zel’dovich
+  effect from the Atacama Large Millimeter/submillimeter Array (ALMA) in Chile (in
+  blue). Astronomers combined data from ALMA’s 7- and 12-metre antennas to produce
+  the sharpest possible image. The target was one of the most massive known galaxy
+  clusters, RX J1347.5–1145, the centre of which shows up here in the dark “hole”
+  in the ALMA observations. The energy distribution of the CMB photons shifts and
+  appears as a temperature decrease at the wavelength observed by ALMA, hence a dark
+  patch is observed in this image at the location of the cluster. Links  ESA/Hubble
+  Picture of the Week '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1708a/L{1}X{2}Y{3}.png
+name: ALMA’s hole in the Universe
+ra_hr: 13.791847063096533
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1708a/thumb.jpg
+zoom_level: 0.3025613818971117
+---
+_uuid: a6f37826-6c04-47a4-8540-22ad4b6c29ca
+annotation: '{"channel": "eso", "itemid": "potw1814a", "publishedUTCISO8601": "2018-04-02T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -31.207356638014563
+description: 'This unique image from ESO’s VLT Survey Telescope (VST) reveals two
+  galaxies at the very beginning of the merging process. The interactions between
+  the duo have created a rare effect known as a light echo, where light reverberates
+  around the material within each galaxy. This is analogous to the acoustic echo where
+  the reflected sound arrives at the listener with a delay after the direct sound.
+  This is the first case of a light echo observed between two galaxies.  The larger
+  galaxy, seen here in yellow, is ShaSS 073 — an active galaxy with an extremely luminous
+  core. Its less massive companion, in blue, is named ShaSS 622, and together the
+  pair make up the intriguing ShaSS 622-073 system. The bright core of ShaSS 073 is
+  exciting a region of gas within the disc of its blue companion: it bombards the
+  material there with radiation, causing it to glow brightly as it absorbs and then
+  re-emits this light. This glowing region extends across 1.8 billions of square light-years.
+  However, while studying this merger, astronomers found the luminosity of the large
+  central galaxy to be 20 times lower than needed to excite the gas in this way. This
+  indicates that the centre of ShaSS 073 has dramatically faded over the last 30 000
+  years or so — but the highly-ionised region between the two galaxies still retains
+  the memory of its former glory. Links  Annotated version Paper by Merluzzi et al. '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1814a/L{1}X{2}Y{3}.png
+name: An echo of light
+ra_hr: 13.275719409893096
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1814a/thumb.jpg
+zoom_level: 1.6542474514603236
+---
+_uuid: b2ce3c7f-e8ff-4ab4-8c93-a80892091298
+annotation: '{"channel": "eso", "itemid": "potw1930a", "publishedUTCISO8601": "2019-07-29T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.01850925369079
+description: This spectacular portrait of the Centaurus A galaxy was captured under
+  clear skies by the newest operational ESO observatory, SPECULOOS (Search for habitable
+  Planets EClipsing ULtra-cOOl Stars), located at the Paranal Observatory in Chile.
+  The state of the art observatory is fitted an array of four one-metre telescopes,
+  each named after one of the four Galilean moons. The SPECULOOS telescopes are neighbours
+  of two of ESO’s most powerful telescopes, the Very Large Telescope (VLT) and VISTA.
+  SPECULOOS is set to survey up to ten times more red dwarf stars than the TRAPPIST
+  telescope (located at ESO La Silla Observatory) currently does. It is predicted
+  statistically that it will then find at least twelve solar systems of a similar
+  size to the now famous TRAPPIST-1 system. The Centaurus A galaxy (NGC 5128)  is
+  one of the brightest galaxies in the southern hemisphere night sky, located in the
+  constellation of Centaurus. It was discovered in 1826 by Scottish astronomer James
+  Dunlop at the former Parramata Observatory. At a distance of 11 million light-years,
+  it is the closest active galactic nucleus (AGN) to us. Astronomers theorise that
+  what was originally an elliptical galaxy collided with a relatively smaller spiral
+  shaped galaxy, giving it the peculiar shape we see now. NGC 5128 has an impressive
+  collection of stars. From this image, you can observe red/pink star-forming regions
+  on the bottom left of the image and young blue star clusters on the top right of
+  the image; with dust lanes captured in stunning detail. Towards the centre of the
+  galaxy, leftover cosmic dust is slowly being eaten by the supermassive black hole,
+  which has a mass of roughly 100 million solar masses. This accretion of matter results
+  in powerful radio waves being emitted from the AGN.  This image was taken as one
+  of the first light images from the SPECULOOS telescopes. First light images are
+  the very first images that are taken by a telescope when it is being commissioned
+  for science operation to guarantee that it is in good working order and that the
+  images are clear.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1930a/L{1}X{2}Y{3}.png
+name: Stars Form in Silence
+ra_hr: 13.424406037065236
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1930a/thumb.jpg
+zoom_level: 1.997143227065246
+---
+_uuid: 73e20271-d179-4c31-a9c9-9d3aa0a624e9
+annotation: '{"channel": "eso", "itemid": "potw2047a", "publishedUTCISO8601": "2020-11-23T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.865258149507728
+description: 'The thousands of newly formed stars at the heart of NGC 5236 were imaged
+  with the MUSE instrument, attached to ESO’s Very Large Telescope at Paranal Observatory
+  in Chile. Referred to mostly as the Southern Pinwheel galaxy, NGC 5236 receives
+  its common name from its beautiful spiral arm configuration and its location in
+  a Southern Hemisphere constellation: Hydra. Bright regions of star formation light
+  up this galaxy, including the region imaged here, located within the galaxy&#x27;s
+  centre.  With the right conditions, and commonly within the spiral arms of a galaxy,
+  cold molecular clouds mostly composed of hydrogen gas can collapse and form into
+  brand new stars. In larger clouds, the burning of a new star can create a domino
+  effect, initiating the collapse of the surrounding gas into even more stars. Within
+  a galaxy’s centre however, other processes are at play. The supermassive black hole
+  at the centre of NGC 5236 funnels vast channels of material and matter towards itself;
+  at the same time, it erratically spits matter and large quantities of energy outwards,
+  making the huge amount of star formation around this galaxy&#x27;s central region
+  extra messy.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw2047a/L{1}X{2}Y{3}.png
+name: A Messy Nursery of Stars
+ra_hr: 13.616936759012583
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw2047a/thumb.jpg
+zoom_level: 0.17972635483643234
+---
+_uuid: b0b55937-69ee-4870-8d0f-dd6c1dd0726b
+annotation: '{"channel": "eso", "itemid": "potw2143a", "publishedUTCISO8601": "2021-10-25T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 8.885426916306463
+description: Captured with the MUSE instrument mounted on ESO’s Very Large Telescope
+  (VLT), this image shows the innermost regions of the distant spiral galaxy NGC 5248,
+  also known as Caldwell 45. Located around 59 million light-years away from Earth,
+  in the constellation of Boötes, this galaxy is notable for having not one but two
+  rings around its centre. These rings are characterised by “hot spots” of starburst
+  activity. Starburst regions, seen as an orange glow in the picture, are where stars
+  form much more frequently than usual. MUSE, which stands for Multi Unit Spectroscopic
+  Explorer, is attached to Yepun, one of the four 8.2-metre telescopes that make up
+  the VLT. MUSE decomposes the light of every single pixel within its field of view
+  into its constituent colours or wavelengths. This allows researchers to map complex
+  mechanisms within extended objects, such as analysing the formation of stars in
+  galaxies.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw2143a/L{1}X{2}Y{3}.png
+name: Rising from the ashes
+ra_hr: 13.625569489667676
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw2143a/thumb.jpg
+zoom_level: 0.17687816811512638
+---
 _uuid: bf78ca49-ebb6-4fed-a313-24b91b2ff244
 annotation: '{"channel": "noirlab", "itemid": "gemini0605b", "publishedUTCISO8601":
   "2006-06-04T00:00:00+00:00"}'

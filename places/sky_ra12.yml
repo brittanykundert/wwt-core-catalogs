@@ -1,3 +1,1108 @@
+_uuid: 5cd19a92-a680-4929-88e5-c6fee7bd3d24
+annotation: '{"channel": "eso", "itemid": "ann11014a", "publishedUTCISO8601": "2011-03-31T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 7.699045077437415
+description: This image obtained by the Hubble Space Telescope shows the galaxy NGC
+  4526 and its supernova 1994D (lower left).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/ann11014a/L{1}X{2}Y{3}.png
+name: Supernova 1994D in the galaxy NGC 4526
+ra_hr: 12.567501543162818
+thumbnail: http://data1.wwtassets.org/feeds/eso/ann11014a/thumb.jpg
+zoom_level: 0.08398300168087476
+---
+_uuid: 714ef507-7f68-4037-8401-05ef226562a7
+annotation: '{"channel": "eso", "itemid": "eso0007a", "publishedUTCISO8601": "2000-02-23T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -11.623107265316092
+description: 'Image of the famous early-type spiral galaxy Messier 104, widely known
+  as the &quot;Sombrero&quot; (the Mexican hat) because of its particular shape. The
+  &quot;Sombrero&quot; is located in the constellation Virgo (The Virgin), at a distance
+  of about 50 million light-years. Messier 104 is the 104th object in the famous catalogue
+  of nebulae by French astronomer Charles Messier (1730 - 1817). It was not included
+  in the first two editions (with 45 objects in 1774; 103 in 1781), but Messier soon
+  thereafter added it by hand in his personal copy as a &quot;very faint nebula&quot;.
+  The recession velocity, about 1000 km/sec, was first measured by American astronomer
+  Vesto M. Slipher at the Lowell Observatory in 1912; he was also the first to detect
+  the galaxy&#x27;s rotation. This galaxy is notable for its dominant nuclear bulge,
+  composed primarily of mature stars, and its nearly edge-on disc composed of stars,
+  gas, and intricately structured dust. The complexity of this dust, and the high
+  resolution of this image, is most apparent directly in front of the bright nucleus,
+  but is also very evident as dark absorbing lanes throughout the disc. A significant
+  fraction of the galaxy disc is even visible on the far side of the source, despite
+  its massive bulge. A large number of small and slightly diffuse sources can be seen
+  as a swarm in the halo of Messier 104. Most of these are globular clusters, similar
+  to those found in our own Galaxy This picture was obtained with FORS1 multi-mode
+  instrument at VLT ANTU on January 30, 2000. It is a composite of three exposures
+  in different wavebands. North is up and East is left. Technical information : This
+  composite image is based on three exposures from the FORS1 instrument at VLT ANTU.
+  They were obtained at about 6:20 hrs UT on January 30, 2000, through V-band (central
+  wavelength 554 nm; 112 nm Full Width Half Maximum (FWHM); exposure time 120 sec;
+  here rendered as blue), R-band (657 nm; 150 nm FWHM; 120 sec; green) and I-band
+  (768 nm; 138 nm FWHM, 240 sec; red). The seeing was 0.6–0.7 arcseconds. This image
+  is available as a mounted image in the ESOshop. #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0007a/L{1}X{2}Y{3}.png
+name: Fine shades of a Sombrero*
+ra_hr: 12.666548417139012
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0007a/thumb.jpg
+zoom_level: 1.1517971559599998
+---
+_uuid: dff9e189-ab26-41c3-bfa1-ed387ebed63d
+annotation: '{"channel": "eso", "itemid": "eso0007b", "publishedUTCISO8601": "2000-02-23T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -11.624068676446429
+description: This is the eastern area of the Sombrero Galaxy, with the pronounced
+  dust bands and many background galaxies. North is up and East is left. Technical
+  information : This composite image is based on three exposures from the FORS1 instrument
+  at VLT ANTU. They were obtained at about 6:20 hrs UT on January 30, 2000, through
+  V-band (central wavelength 554 nm; 112 nm Full Width Half Maximum (FWHM); exposure
+  time 120 sec; here rendered as blue), R-band (657 nm; 150 nm FWHM; 120 sec; green)
+  and I-band (768 nm; 138 nm FWHM, 240 sec; red). The seeing was 0.6 - 0.7 arcsec. Image
+  processing by Mark Neeser (Kapteyn Institute, Groningen) and Richard Hook (ST/ECF,
+  Garching, Germany).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0007b/L{1}X{2}Y{3}.png
+name: Detail of the Sombrero galaxy
+ra_hr: 12.668484757724523
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0007b/thumb.jpg
+zoom_level: 0.60868393002
+---
+_uuid: b0eb4e0b-8148-49eb-a58b-dbfeca2d6127
+annotation: '{"channel": "eso", "itemid": "eso0007c", "publishedUTCISO8601": "2000-02-23T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -11.62747562138153
+description: 'It is possible to follow the spiral structure of the Sombrero Galaxy
+  almost all the way round. The dark areas around the stars and galaxies in the field
+  are artefacts of the image processing.  This galaxy is notable for its dominant
+  nuclear bulge, composed primarily of mature stars, and its nearly edge-on disk composed
+  of stars, gas, and intricately structured dust. The complexity of this dust, and
+  the high resolution of this image, is most apparent directly in front of the bright
+  nucleus, but is also very evident as dark absorbing lanes throughout the disk. A
+  significant fraction of the galaxy disk is even visible on the far side of the source,
+  despite its massive bulge. Technical information : The image has been processed
+  to show the numerous dust bands in the central plane. It was made by dividing the
+  V-band image by itself smoothed with a 2D gaussian profile (sigma: 10 pix); this
+  removes the uniform areas and enhances the high spatial frequency features, e.g.
+  the dust bands. Image processing by Mark Neeser (Kapteyn Institute, Groningen) and Richard
+  Hook (ST/ECF, Garching, Germany).'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0007c/L{1}X{2}Y{3}.png
+name: Dustbands in the Sombrero Galaxy
+ra_hr: 12.666505549364704
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0007c/thumb.jpg
+zoom_level: 0.7514493395998885
+---
+_uuid: ab898fdd-4318-4703-b02e-d5507fc30833
+annotation: '{"channel": "eso", "itemid": "eso0116a", "publishedUTCISO8601": "2001-04-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.593114146450652
+description: 'This is a three-colour image of about 1/4 of the Capodimonte Deep Field
+  (OACDF) obtained with the Wide-Field Imager (WFI) on the MPG/ESO 2.2-m telescope
+  at the la Silla Observatory. It covers &quot;OACDF Subfield no. 2 (OACDF2)&quot;
+  with an area of about 35 x 32 arcmin 2 (about the size of the full moon), and it
+  is one of the &quot;deepest&quot; wide-field images ever obtained.  It has been
+  obtained by the combination of the B, V, and R stacked images of the OACDF2 field.
+  The total exposure times in the three bands are 2 hours in B and V (12 ditherings
+  of 10 min each were stacked to produce the B and V images) and 3 hours in R (13
+  ditherings of 15 min each). The mosaic images in the B and V bands were aligned
+  relative to the R-band image and adjusted to a logarithmic intensity scale prior
+  to the combination. The typical seeing was of the order of 1 arcsec in each of the
+  three bands. Preliminary estimates of the three-sigma limiting magnitudes in B,
+  V and R indicate 25.5, 25.0 and 25.0, respectively. More than 35,000 objects are
+  detected above the three-sigma level. Technical information : this image has been
+  obtained by the combination of the B, V, and R stacked images of the OACDF2 field.
+  The total exposure times in the three bands are 2 hours in B and V (12 ditherings
+  of 10 min each were stacked to produce the B and V images) and 3 hours in R (13
+  ditherings of 15 min each). The mosaic images in the B and V bands were aligned
+  relative to the R-band image and adjusted to a logarithmic intensity scale prior
+  to the combination. The typical seeing was of the order of 1 arcsec in each of the
+  three bands. Preliminary estimates of the three-sigma limiting magnitudes in B,
+  V and R indicate 25.5, 25.0 and 25.0, respectively. More than 35,000 objects are
+  detected above the three-sigma level. North is up and East is left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0116a/L{1}X{2}Y{3}.png
+name: The Capodimonte Deep Field
+ra_hr: 12.405909604887183
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0116a/thumb.jpg
+zoom_level: 5.2093034685303
+---
+_uuid: 7191ab36-bf3b-47a4-a484-a5229395fe6a
+annotation: '{"channel": "eso", "itemid": "eso0116b", "publishedUTCISO8601": "2001-04-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.376822573469141
+description: 'This is an image of interacting galaxies that are seen in the Capodimonte
+  Deep Field. The enlargement covers 1250 x 1130 WFI pixels (1 pixel = 0.24 arcsec),
+  or about 5.0 x 4.5 arcmin 2 in the sky. The lower spiral is itself an interactive
+  double. Technical information: this image displays selected areas of the field shown
+  in ESO Press Photo eso0116a at the original WFI scale, hereby also demonstrating
+  the enormous amount of information contained in these wide-field images. North is
+  up and East is left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0116b/L{1}X{2}Y{3}.png
+name: Interacting galaxies in the Capodimonte Deep Field
+ra_hr: 12.418958795181062
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0116b/thumb.jpg
+zoom_level: 0.7425683767825564
+---
+_uuid: 0d54c191-5917-467a-b8e5-7c619c1098a0
+annotation: '{"channel": "eso", "itemid": "eso0116c", "publishedUTCISO8601": "2001-04-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.479998554872633
+description: 'This image shows a spiral galaxy and a nebulous object in the Capodimonte
+  Deep Field. The field shown covers 1250 x 750 pixels, or about 5 x 3 arcmin 2 in
+  the sky. Note the very red objects next to the two bright stars in the lower-right
+  corner. The colours of these objects are consistent with those of spheroidal galaxies
+  at intermediate distances (redshifts). Technical information: this image displays
+  selected areas of the field shown in ESO Press Photo eso0116a at the original WFI
+  scale, hereby also demonstrating the enormous amount of information contained in
+  these wide-field images. North is up and East is left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0116c/L{1}X{2}Y{3}.png
+name: Celestial objects in the Capodimonte Deep Field
+ra_hr: 12.40605991357876
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0116c/thumb.jpg
+zoom_level: 0.500702217336
+---
+_uuid: 82c7bb69-aa9b-42c3-9f11-862c73b7cf7d
+annotation: '{"channel": "eso", "itemid": "eso0116d", "publishedUTCISO8601": "2001-04-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.658727367967254
+description: 'This is an enlargement of a galaxy cluster of the Capodimonte Deep Field,
+  which most members are located in the north-east quadrant (upper left) and have
+  a reddish colour. The nebulous object to the upper left is a dwarf galaxy of spheroidal
+  shape. The red object, located near the centre of the field and resembling a double
+  star, is very likely a gravitational lens. Some of the very red, point-like objects
+  in the field may be distant quasars, very-low mass stars or, possibly, relatively
+  nearby brown dwarf stars. The field shown covers 1380 x 1630 pixels, or 5.5 x 6.5
+  arcmin 2. Technical information: this image displays selected areas of the field
+  shown in ESO Press Photo eso0116a at the original WFI scale, hereby also demonstrating
+  the enormous amount of information contained in these wide-field images. North is
+  up and East is left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0116d/L{1}X{2}Y{3}.png
+name: Galaxy cluster in the Capodimonte Deep Field
+ra_hr: 12.391242411714007
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0116d/thumb.jpg
+zoom_level: 1.0662381171692363
+---
+_uuid: 62e92937-cf7d-4f1a-8bfe-8b83bd721296
+annotation: '{"channel": "eso", "itemid": "eso0116e", "publishedUTCISO8601": "2001-04-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.813474269571762
+description: 'This image shows an enlargement of a moderately distant galaxy cluster
+  in the south-east quadrant (lower left) of the Capodimonte Deep Field. The field
+  measures 1380 x 1260 pixels, or about 5.5 x 5.0 arcmin 2 in the sky. Technical information:
+  this image displays selected areas of the field shown in ESO Press Photo eso0116a
+  at the original WFI scale, hereby also demonstrating the enormous amount of information
+  contained in these wide-field images. North is up and East is left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0116e/L{1}X{2}Y{3}.png
+name: Galaxy cluster in the Capodimonte Deep Field
+ra_hr: 12.41282614678638
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0116e/thumb.jpg
+zoom_level: 0.7276979706356504
+---
+_uuid: c70a8fa2-0c90-4d17-9acc-9a6f69ceff27
+annotation: '{"channel": "eso", "itemid": "eso0116f", "publishedUTCISO8601": "2001-04-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.554638283307554
+description: 'This image shows an enlargement of an elliptical galaxy that is located
+  to the west (right) in the Capodimonte Deep Field. The numerous tiny objects surrounding
+  the galaxy may be globular clusters. The fuzzy object on the right edge of the field
+  may be a dwarf spheroidal galaxy. The size of the field is about 6 x 5 arcmin 2.
+  Technical information: this image displays selected areas of the field shown in
+  ESO Press Photo eso0116a at the original WFI scale, hereby also demonstrating the
+  enormous amount of information contained in these wide-field images. North is up
+  and East is left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0116f/L{1}X{2}Y{3}.png
+name: The Capodimonte Deep Field
+ra_hr: 12.389051499432876
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0116f/thumb.jpg
+zoom_level: 0.8303713387785093
+---
+_uuid: 03a9b54b-d22d-4365-8419-6e185123b866
+annotation: '{"channel": "eso", "itemid": "eso0209a", "publishedUTCISO8601": "2002-03-13T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -18.878945933314903
+description: One of the first images from the new VIMOS facility, obtained right after
+  the moment of &quot;first light&quot; on February 26, 2002. It shows the famous
+  &quot;Antennae Galaxies&quot;  (NGC 4038/9), the result of a recent collision between
+  two galaxies. As an immediate outcome of this dramatic event, stars are born within
+  massive complexes that appear blue in this composite photo, based on exposures through
+  green, orange and red optical filters. Individual exposures of 60 seconds each;
+  image quality 0.6 arcsec FWHM; the field measures 3.5 x 3.5 arcmin2. North is up
+  and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0209a/L{1}X{2}Y{3}.png
+name: The antennae galaxies - NGC4038/9
+ra_hr: 12.03126973459796
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0209a/thumb.jpg
+zoom_level: 0.5810062171679999
+---
+_uuid: 1502b189-5335-4dce-a6b6-8a45cbf2e88a
+annotation: '{"channel": "eso", "itemid": "eso0209h", "publishedUTCISO8601": "2002-03-13T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 15.822113821547378
+description: Messier 100, also known as NGC 4321,  is one of the largest and brightest
+  spiral galaxies in the sky, located at about 50 million light-years from us. A composite
+  VRI image obtained on March 3, 2002. The individual exposures lasted 180 seconds,
+  image quality 0.7 arcsec FWHM; field 7 x 7 arcmin2 ; North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0209h/L{1}X{2}Y{3}.png
+name: M100 / NGC 4321
+ra_hr: 12.38193146188511
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0209h/thumb.jpg
+zoom_level: 1.051466261999256
+---
+_uuid: 2bfef7a2-9803-4bfc-b9d1-28c828fa2d8d
+annotation: '{"channel": "eso", "itemid": "eso0223a", "publishedUTCISO8601": "2002-08-23T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 14.420868983369768
+description: An image of the Virgo cluster spiral galaxy NGC 4254, with the &quot;metal-rich&quot;
+  H II regions indicated. (VLT ANTU and FORS1).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0223a/L{1}X{2}Y{3}.png
+name: Spiral galaxy NGC 4254
+ra_hr: 12.31362505682906
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0223a/thumb.jpg
+zoom_level: 1.1578583720339999
+---
+_uuid: 291d0879-dea3-48eb-87ed-e33a1203d440
+annotation: '{"channel": "eso", "itemid": "eso0304a", "publishedUTCISO8601": "2003-01-16T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.893831465615747
+description: Sky field near some of the brighter galaxies in the Virgo Cluster. This
+  image was obtained in April 2000 with the Wide Field Imager (WFI) at the La Silla
+  Observatory. The large elliptical galaxy at the centre is Messier 84; the elongated
+  image of NGC 4388 (an active spiral galaxy, seen from the side) is in the lower
+  left corner. The field measures 16.9 x 15.7 square arcmin.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0304a/L{1}X{2}Y{3}.png
+name: Bright galaxies in the Virgo cluster
+ra_hr: 12.416184368896678
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0304a/thumb.jpg
+zoom_level: 5.304672695200785
+---
+_uuid: ce366c5c-0208-41e8-b183-a64e2e19a148
+annotation: '{"channel": "eso", "itemid": "eso0304b", "publishedUTCISO8601": "2003-01-16T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.723867117734098
+description: Larger region of the Virgo cluster, with the galaxies Messier 86 (at
+  the upper edge of the field, to the left of the centre), as well as Messier 84 (upper
+  right) and NGC 4388 (just below the centre). It is reproduced from a long-exposure
+  Subaru Suprime-Cam image, obtained in the red light of ionized hydrogen (the H-alpha
+  spectral line at wavelength 656.2 nm). In order to show the faintest possible hydrogen
+  emitting objects embedded in the outskirts of bright galaxies, their smooth envelopes
+  have been &quot;subtracted&quot; during the image processing. The field measures
+  34 x 27 square arcminutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0304b/L{1}X{2}Y{3}.png
+name: Sky field in Virgo cluster of galaxies
+ra_hr: 12.429261348943488
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0304b/thumb.jpg
+zoom_level: 4.839984853392
+---
+_uuid: 2065471b-3e88-45fc-b8c6-7b25292e4631
+annotation: '{"channel": "eso", "itemid": "eso0525a", "publishedUTCISO8601": "2005-08-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 25.988174895819974
+description: The first galaxy pictured here is NGC 4565, which for obvious reasons
+  is also called the Needle Galaxy. First spotted in 1785 by Uranus&#x27; discoverer,
+  Sir William Herschel (1738-1822), this is one of the most famous example of an edge-on
+  spiral galaxy and is located some 30 million light-years away in the constellation
+  Coma Berenices (Berenice&#x27;s Hair). It displays a bright yellowish central bulge
+  that juts out above most impressive dust lanes. Because it is relatively close (it
+  is only 12 times farther away than Messier 31, the Andromeda galaxy, which is the
+  major galaxy closest to us) and relatively large (roughly one third larger than
+  the Milky Way), it does not fit entirely into the field of view of the FORS instrument
+  (about 7 x 7 arcmin2). Many background galaxies are also visible in this FORS image,
+  giving full meaning to their nickname of &quot;island universes&quot;.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0525a/L{1}X{2}Y{3}.png
+name: Spiral galaxy NGC 4565
+ra_hr: 12.605812355348744
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0525a/thumb.jpg
+zoom_level: 1.1629726911
+---
+_uuid: a52c4afa-70fb-4522-8c76-0cb573bb3d5b
+annotation: '{"channel": "eso", "itemid": "eso0608a", "publishedUTCISO8601": "2006-02-23T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 15.82021428627975
+description: 'Composite based on five images taken with FORS1 on Kueyen (VLT) by Dominique
+  Naef, Eric Depagne and Chris Lidman (ESO). The images were taken through different
+  filters: U, V, R, I, and a narrow-band filter centred on the H-alpha line. The exposure
+  time is 60 seconds in the V, R and I filters, 3 minutes in the U-band and 5 minutes
+  in the H-alpha filter. The field of view is 6.8 x 5.1 arcmin2. North is up and East
+  is to the left. The final processing was done by Kristina Boneva, Haennes Heyer
+  and Henri Boffin (ESO).'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0608a/L{1}X{2}Y{3}.png
+name: Spiral galaxy Messier 100
+ra_hr: 12.381616810067177
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0608a/thumb.jpg
+zoom_level: 0.9426179419709534
+---
+_uuid: 1991a9b7-f86e-4d44-8b72-234c231c6f2e
+annotation: '{"channel": "eso", "itemid": "eso0715a", "publishedUTCISO8601": "2007-03-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -68.46593286947247
+description: Field around the old open cluster Collinder 261 (upper centre), seen
+  in the red filtre.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0715a/L{1}X{2}Y{3}.png
+name: The cluster collinder 261
+ra_hr: 12.631722390908747
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0715a/thumb.jpg
+zoom_level: 5.073791232294
+---
+_uuid: 1768f80e-55cd-4dcb-ac00-6a4d9cbe5ba1
+annotation: '{"channel": "eso", "itemid": "eso0919c", "publishedUTCISO8601": "2009-05-20T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.478294110993925
+description: Image of the Virgo cluster of galaxies taken with the Palomar Observatory
+  48-inch Schmidt telescope as part of the Digitized Sky Survey 2. The giant elliptical
+  galaxy Messier 87 is seen in the centre, while Messier 84 and 86 are the two bright
+  galaxies forming part of the small group on the centre right of the image. New observations
+  obtained with ESO’s Very Large Telescope have shown that the halo of stars around
+  Messier 87 has been truncated, possibly because of some interaction with Messier
+  84. The observations also reveal that Messier 87 and 86 are moving towards each
+  other.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0919c/L{1}X{2}Y{3}.png
+name: The Virgo Cluster
+ra_hr: 12.51429711175327
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0919c/thumb.jpg
+zoom_level: 64.65446085680401
+---
+_uuid: 3de6192d-eec2-40db-925b-d4ee96ba1308
+annotation: '{"channel": "eso", "itemid": "eso0940a", "publishedUTCISO8601": "2009-10-29T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -60.365884463048225
+description: 'The FORS1 instrument on the ESO Very Large Telescope (VLT) at ESO’s
+  Paranal Observatory was used to take this exquisitely sharp close up view of the
+  colourful Jewel Box cluster, NGC 4755. The telescope’s huge mirror allowed very
+  short exposure times: just 2.6 seconds through a blue filter (B), 1.3 seconds through
+  a yellow/green filter (V) and 1.3 seconds through a red filter (R). The field of
+  view spans about seven arcminutes.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0940a/L{1}X{2}Y{3}.png
+name: A snapshot of the Jewel Box cluster with the ESO VLT
+ra_hr: 12.894878019738787
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0940a/thumb.jpg
+zoom_level: 1.114620279330515
+---
+_uuid: 4dfd8211-edf0-4495-b50c-beb652998a9f
+annotation: '{"channel": "eso", "itemid": "eso0940b", "publishedUTCISO8601": "2009-10-29T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -60.37598614990768
+description: This image of the well-known NGC 4755 cluster or Jewel Box was taken
+  with the Wide Field Imager (WFI) on the MPG/ESO 2.2-metre telescope at ESO’s La
+  Silla Observatory. It highlights the cluster and its rich surroundings in all their
+  multicoloured glory. The field of view is 20 arcminutes across. The picture is based
+  on images obtained through B, V and I filters.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0940b/L{1}X{2}Y{3}.png
+name: Wide field image of the Jewel Box
+ra_hr: 12.894300141831645
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0940b/thumb.jpg
+zoom_level: 3.4588365076800005
+---
+_uuid: ff3f5df6-7acd-4538-b50b-a3a838003c7c
+annotation: '{"channel": "eso", "itemid": "eso0940c", "publishedUTCISO8601": "2009-10-29T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -60.36610315568288
+description: This image is a “close-up” view from the NASA/ESA Hubble Space Telescope
+  of NGC 4755, or the Jewel Box cluster. Several very bright, pale blue supergiant
+  stars, a solitary ruby-red supergiant and a variety of other brilliantly coloured
+  stars are visible in the image, as well as many much fainter ones, often with intriguing
+  colours. The huge variety in brightness exists because the brighter stars are 15
+  to 20 times the mass of the Sun, while the dim points are less than half the mass
+  of the Sun. This is the first image of an open galactic cluster with imaging extending
+  from the far ultraviolet to the near-infrared.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0940c/L{1}X{2}Y{3}.png
+name: 'A Hubble gem: the Jewel Box'
+ra_hr: 12.896271188175872
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0940c/thumb.jpg
+zoom_level: 0.21046132566000003
+---
+_uuid: c84f3b08-1587-412d-a160-1cb0343e77af
+annotation: '{"channel": "eso", "itemid": "eso0940d", "publishedUTCISO8601": "2009-10-29T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -60.356825901889
+description: 'A wide-field image of the region around NGC 4755 (the Jewel Box) constructed
+  from data from the Digitized Sky Survey 2. The bright star is Mimosa, one of the
+  four stars in the Southern Cross. The darkness towards the bottom of the image is
+  part of the Coal Sack, a vast area of obscuring dust easily visible to the unaided
+  eye. The field of view is approximately 2.8 degrees x 2.9 degrees, or about 40 times
+  the area of the Full Moon. '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0940d/L{1}X{2}Y{3}.png
+name: Digitized sky survey 2 image of NGC 4755
+ra_hr: 12.892396144843035
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0940d/thumb.jpg
+zoom_level: 29.351775474708
+---
+_uuid: f01bbf44-cf8e-4c8f-aee9-4d2336f90245
+annotation: '{"channel": "eso", "itemid": "eso1131a", "publishedUTCISO8601": "2011-08-24T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 13.027996102768409
+description: This  striking image, taken with the FORS2 instrument on the Very Large  Telescope,
+  shows a beautiful yet peculiar pair of galaxies, NGC 4438 and  NGC 4435, nicknamed
+  The Eyes. The larger of these, at the top of the picture, NGC 4438, is thought  to
+  have once been a spiral galaxy that was strongly deformed by  collisions in the
+  relatively recent past. The two galaxies belong to the  Virgo Cluster and are about
+  50 million light-years away.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1131a/L{1}X{2}Y{3}.png
+name: VLT looks into the eyes of the Virgin
+ra_hr: 12.461694437989754
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1131a/thumb.jpg
+zoom_level: 1.070361990306
+---
+_uuid: b1084dca-9359-413f-a7eb-bc73336be746
+annotation: '{"channel": "eso", "itemid": "eso1137a", "publishedUTCISO8601": "2011-10-03T11:30:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -18.849699685891462
+description: 'The  Antennae Galaxies (also known as NGC 4038 and 4039) are a pair
+  of  distorted colliding spiral galaxies about 70 million light-years away,  in the
+  constellation of Corvus (The Crow). This view combines ALMA  observations, made
+  in two different wavelength ranges during the observatory’s early testing phase,
+  with  visible-light observations from the NASA/ESA Hubble Space Telescope. The  Hubble
+  image is the sharpest view of this object ever taken and serves  as the ultimate
+  benchmark in terms of resolution. ALMA observes at much  longer wavelengths which
+  makes it much harder to obtain comparably sharp  images. However, when the full
+  ALMA array is completed its vision will  be up to ten times sharper than Hubble.
+  Most of the ALMA test observations used to create this image were made  using only
+  twelve antennas working together — far fewer than will be  used for the first science
+  observations — and much closer together as  well. Both of these factors make the
+  new image just a taster  of what is to come. As the observatory grows, the sharpness,
+  speed, and  quality of its observations will increase dramatically as more antennas  become
+  available and the array grows in size. This is nevertheless the  best submillimetre-wavelength
+  image ever taken of the Antennae Galaxies  and opens a new window on the submillimetre
+  Universe. While  visible light — shown here mainly in blue — reveals the newborn
+  stars  in the galaxies, ALMA’s view shows us something that cannot be seen at  those
+  wavelengths: the clouds of dense cold gas from which new stars  form. The ALMA observations
+  — shown here in red, pink and yellow — were  made at specific wavelengths of millimetre
+  and submillimetre light (ALMA bands 3 and 7),  tuned to detect carbon monoxide molecules
+  in the otherwise invisible  hydrogen clouds, where new stars are forming. Massive  concentrations
+  of gas are found not only in the hearts of the two  galaxies but also in the chaotic
+  region where they are colliding. Here,  the total amount of gas is billions of times
+  the mass of the Sun — a  rich reservoir of material for future generations of stars.
+  Observations  like these will be vital in helping us understand how galaxy collisions  can
+  trigger the birth of new stars. This is just one example of how  ALMA reveals parts
+  of the Universe that cannot be seen with  visible-light and infrared telescopes.
+  #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1137a/L{1}X{2}Y{3}.png
+name: Antennae Galaxies composite of ALMA and Hubble observations
+ra_hr: 12.032523925567581
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1137a/thumb.jpg
+zoom_level: 0.49535446752662254
+---
+_uuid: f9376851-59fa-42c0-b086-f918dab29e01
+annotation: '{"channel": "eso", "itemid": "eso1907a", "publishedUTCISO8601": "2019-04-10T15:07:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.391123240869875
+description: The Event Horizon Telescope (EHT) — a planet-scale array of eight ground-based
+  radio telescopes forged through international collaboration — was designed to capture
+  images of a black hole. In coordinated press conferences across the globe, EHT researchers
+  revealed that they succeeded, unveiling the first direct visual evidence of the
+  supermassive black hole in the centre of Messier 87 and its shadow. The shadow of
+  a black hole seen here is the closest we can come to an image of the black hole
+  itself, a completely dark object from which light cannot escape. The black hole’s
+  boundary — the event horizon from which the EHT takes its name — is around 2.5 times
+  smaller than the shadow it casts and measures just under 40 billion km across. While
+  this may sound large, this ring is only about 40 microarcseconds across — equivalent
+  to measuring the length of a credit card on the surface of the Moon. Although the
+  telescopes making up the EHT are not physically connected, they are able to synchronize
+  their recorded data with atomic clocks — hydrogen masers — which precisely time
+  their observations. These observations were collected at a wavelength of 1.3 mm
+  during a 2017 global campaign. Each telescope of the EHT produced enormous amounts
+  of data – roughly 350 terabytes per day – which was stored on high-performance helium-filled
+  hard drives. These data were flown to highly specialised supercomputers — known
+  as correlators — at the Max Planck Institute for Radio Astronomy and MIT Haystack
+  Observatory to be combined. They were then painstakingly converted into an image
+  using novel computational tools developed by the collaboration.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1907a/L{1}X{2}Y{3}.png
+name: First Image of a Black Hole
+ra_hr: 12.51372871668847
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1907a/thumb.jpg
+zoom_level: 4.6162669940069754e-07
+---
+_uuid: 7ba225f9-e083-44de-b684-54adf4247146
+annotation: '{"channel": "eso", "itemid": "eso2105a", "publishedUTCISO8601": "2021-03-24T15:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.391123250004458
+description: 'The Event Horizon Telescope (EHT) collaboration, who produced the first
+  ever image of a black hole released in 2019, has today a new view of the massive
+  object at the centre of the Messier 87 (M87) galaxy: how it looks in polarised light.
+  This is the first time astronomers have been able to measure polarisation, a signature
+  of magnetic fields, this close to the edge of a black hole.  This image shows the
+  polarised view of the black hole in M87. The lines mark the orientation of polarisation,
+  which is related to the magnetic field around the shadow of the black hole.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2105a/L{1}X{2}Y{3}.png
+name: A view of the M87 supermassive black hole in polarised light
+ra_hr: 12.51372871666636
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2105a/thumb.jpg
+zoom_level: 3.1308869164561896e-07
+---
+_uuid: 8e531367-e6c5-497d-a51a-5f78e254026c
+annotation: '{"channel": "eso", "itemid": "eso2105d", "publishedUTCISO8601": "2021-03-24T15:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.391353410230057
+description: This image shows a view of the jet in the Messier 87 (M87) galaxy in
+  polarised light. The image was obtained with the Chile-based Atacama Large Millimeter/submillimeter
+  Array (ALMA), in which ESO is a partner, and captures the part of the jet, with
+  a size of 6000 light years, closer to the centre of the galaxy. The lines mark the
+  orientation of polarisation, which is related to the magnetic field in the region
+  imaged. This ALMA image therefore indicates what the structure of the magnetic field
+  along the jet looks like.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2105d/L{1}X{2}Y{3}.png
+name: ALMA image of M87 jet in polarised light
+ra_hr: 12.513715485318484
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2105d/thumb.jpg
+zoom_level: 0.010324786287441023
+---
+_uuid: e988dc21-591f-4de9-98cc-93e0cfa8eb78
+annotation: '{"channel": "eso", "itemid": "eso2110b", "publishedUTCISO8601": "2021-07-16T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 4.473604280065001
+description: This image, taken by the Multi-Unit Spectroscopic Explorer (MUSE) on
+  ESO’s Very Large Telescope (VLT), shows the nearby galaxy NGC 4303. NGC 4303 is
+  a spiral galaxy, with a bar of stars and gas at its centre, located approximately
+  55 million light-years from Earth in the constellation Virgo. The image is an overlay
+  of observations conducted at different wavelengths of light to map stellar populations
+  and warm gas. The golden glows mainly correspond to clouds of ionised hydrogen,
+  oxygen and sulphur gas, marking the presence of newly born stars, while the bluish
+  regions in the background reveal the distribution of slightly older stars.   The
+  image was taken as part of the Physics at High Angular resolution in Nearby GalaxieS
+  (PHANGS) project, which is making high-resolution observations of nearby galaxies
+  with telescopes operating across the electromagnetic spectrum
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2110b/L{1}X{2}Y{3}.png
+name: NGC 4303 as seen with MUSE on ESO’s VLT at several wavelengths of light
+ra_hr: 12.365246137611551
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2110b/thumb.jpg
+zoom_level: 0.5015475170506039
+---
+_uuid: 82f2bd49-dfb1-471e-8fb3-034feea7a6db
+annotation: '{"channel": "eso", "itemid": "eso2110c", "publishedUTCISO8601": "2021-07-16T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 14.423061386912122
+description: This image, taken with the Multi-Unit Spectroscopic Explorer (MUSE) on
+  ESO’s Very Large Telescope (VLT), shows the nearby galaxy NGC 4254. NGC 4254 is
+  a grand-design spiral galaxy located approximately 45 million light-years from Earth
+  in the constellation Coma Berenices. The image is a combination of observations
+  conducted at different wavelengths of light to map stellar populations and warm
+  gas. The golden glows mainly correspond to clouds of ionised hydrogen, oxygen and
+  sulphur gas, marking the presence of newly born stars, while the bluish regions
+  in the background reveal the distribution of slightly older stars. The image was
+  taken as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS)
+  project, which is making high-resolution observations of nearby galaxies with telescopes
+  operating across the electromagnetic spectrum.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2110c/L{1}X{2}Y{3}.png
+name: NGC 4254 as seen with MUSE on ESO’s VLT at several wavelengths of light
+ra_hr: 12.314063919413496
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2110c/thumb.jpg
+zoom_level: 0.453255073223328
+---
+_uuid: c66be971-105b-4939-a88e-308fcb1bca61
+annotation: '{"channel": "eso", "itemid": "eso2110g", "publishedUTCISO8601": "2021-07-16T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 4.473604280065001
+description: This image of the nearby galaxy NGC 4303 was obtained by combining observations
+  taken with the Multi-Unit Spectroscopic Explorer (MUSE) on ESO’s Very Large Telescope
+  (VLT) and with the Atacama Large Millimeter/submillimeter Array (ALMA), in which
+  ESO is a partner. NGC 4303 is a spiral galaxy, with a bar of stars and gas at its
+  centre, located approximately 55 million light-years from Earth in the constellation
+  Virgo. The image is a combination of observations conducted at different wavelengths
+  of light to map stellar populations and gas. ALMA’s observations are represented
+  in brownish-orange tones and highlight the clouds of cold molecular gas that provide
+  the raw material from which stars form. The MUSE data show up mainly in gold and
+  blue. The bright golden glows map warm clouds of mainly ionised hydrogen, oxygen
+  and sulphur gas, marking the presence of newly born stars, while the bluish regions
+  reveal the distribution of slightly older stars.    The image was taken as part
+  of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) project, which
+  is making high-resolution observations of nearby galaxies with telescopes operating
+  across the electromagnetic spectrum.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2110g/L{1}X{2}Y{3}.png
+name: NGC 4303 as seen with the VLT and ALMA at several wavelengths of light
+ra_hr: 12.365246137611551
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2110g/thumb.jpg
+zoom_level: 0.5015475170506039
+---
+_uuid: 1d9b0102-d05c-4e39-ae43-2276e793b04f
+annotation: '{"channel": "eso", "itemid": "eso2110h", "publishedUTCISO8601": "2021-07-16T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 14.423061386912122
+description: This image of the nearby galaxy NGC 4254 was obtained by combining observations
+  taken with the Multi-Unit Spectroscopic Explorer (MUSE) on ESO’s Very Large Telescope
+  (VLT) and with the Atacama Large Millimeter/submillimeter Array (ALMA), in which
+  ESO is a partner. NGC 4254 is a grand-design spiral galaxy located approximately
+  45 million light-years from Earth in the constellation Coma Berenices. The image
+  is a combination of observations conducted at different wavelengths of light to
+  map stellar populations and gas. ALMA’s observations are represented in brownish-orange
+  tones and highlight the clouds of cold molecular gas that provide the raw material
+  from which stars form. The MUSE data show up mainly in gold and blue. The bright
+  golden glows map warm clouds of mainly ionised hydrogen, oxygen and sulphur gas,
+  marking the presence of newly born stars, while the bluish regions reveal the distribution
+  of slightly older stars. The image was taken as part of the Physics at High Angular
+  resolution in Nearby GalaxieS (PHANGS) project, which is making high-resolution
+  observations of nearby galaxies with telescopes operating across the electromagnetic
+  spectrum.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2110h/L{1}X{2}Y{3}.png
+name: NGC 4254 as seen with the VLT and ALMA at several wavelengths of light
+ra_hr: 12.314063919413496
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2110h/thumb.jpg
+zoom_level: 0.453255073223328
+---
+_uuid: 2574656a-ba86-43a0-b881-b634bdfaea3d
+annotation: '{"channel": "eso", "itemid": "eso9801a", "publishedUTCISO8601": "1998-01-13T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -7.736514017771819
+description: This colour image shows objects as faint as 26th magnitude and it illustrates
+  well the performance in deep imaging at good angular resolution with a relatively
+  modest investment in exposure time at a 4m-class ground-based telescope. Of the
+  approximately 500 galaxies detected in this field, the largest fraction are expected
+  to be at redshifts smaller than z = 1  and about 20 percent to have higher redshifts,
+  up to z = 4  and possibly beyond.  During this project, a total of 122 CCD frames
+  were obtained in four colours [blue (B), green-yellow (V), red (r) and near-infrared
+  (i-band)] with a total exposure time of no less than 31.5 hours. Total exposure
+  times of 50400, 23400, 23400, 16200 seconds were obtained in the four bands, respectively.
+  The frames cover a 2.3 x 2.3 arcmin &#x27;empty sky&#x27; field centered south of
+  the high-redshift quasar QSO BR 1202-0725 (z = 4.7), located just south of the celestial
+  equator.  These frames have been combined to produce a &#x27;true&#x27; colour image
+  in the sense that &#x27;blue&#x27;, &#x27;green&#x27; and &#x27;red&#x27; represent
+  the B-, V- and (r+i)-frames, respectively. This version of the combined image has
+  a high contrast that shows the faintest objects recorded.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9801a/L{1}X{2}Y{3}.png
+name: NTT SUSI Deep Field
+ra_hr: 12.089648037665667
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9801a/thumb.jpg
+zoom_level: 0.38695312563806983
+---
+_uuid: 08604945-0633-424c-ac92-8e67a7f5121a
+annotation: '{"channel": "eso", "itemid": "eso9801b", "publishedUTCISO8601": "1998-01-13T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -7.736069698630995
+description: This colour image shows objects as faint as 26th magnitude and it illustrates
+  well the performance in deep imaging at good angular resolution with a relatively
+  modest investment in exposure time at a 4m-class ground-based telescope. Of the
+  approximately 500 galaxies detected in this field, the largest fraction are expected
+  to be at redshifts smaller than z = 1  and about 20 percent to have higher redshifts,
+  up to z = 4  and possibly beyond.  During this project, a total of 122 CCD frames
+  were obtained in four colours [blue (B), green-yellow (V), red (r) and near-infrared
+  (i-band)] with a total exposure time of no less than 31.5 hours. Total exposure
+  times of 50400, 23400, 23400, 16200 seconds were obtained in the four bands, respectively.
+  The frames cover a 2.3 x 2.3 arcmin &#x27;empty sky&#x27; field centered south of
+  the high-redshift quasar QSO BR 1202-0725 (z = 4.7), located just south of the celestial
+  equator.  These frames have been combined to produce a &#x27;true&#x27; colour image
+  in the sense that &#x27;blue&#x27;, &#x27;green&#x27; and &#x27;red&#x27; represent
+  the B-, V- and (r+i)-frames, respectively. This version of the combined image has
+  a lower contrast and brings forward structural details in the brighter objects in
+  the field.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9801b/L{1}X{2}Y{3}.png
+name: NTT SUSI Deep Field
+ra_hr: 12.089584891978516
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9801b/thumb.jpg
+zoom_level: 0.3801169251912272
+---
+_uuid: 041fa873-7e2c-4e63-a9eb-dbef365eea2f
+annotation: '{"channel": "eso", "itemid": "eso9825a", "publishedUTCISO8601": "1998-06-23T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -40.71318413006113
+description: This is a colour photo from the VLT that shows NGC 4650A, a member of
+  the so-called Centaurus chain of galaxies in the southern constellation of that
+  name.  NGC 4650A is a complex system that is located at a distance of about 50 Megaparsec
+  (165 million light-years). As it is clear from this high-resolution picture, there
+  are two main components, a lenticular-shaped galaxy (of type S0), surrounded by
+  a knotty extended ring-like distribution of stars, dust and gas, nearly perpendicular
+  to each other. This is a combination of three 10-min B (blue) exposures (seeing
+  0.68 - 0.82 arcsec), two 10-min V (green-yellow) exposures (0.55 and 0.77 arcsec),
+  and one 4-min and one 10-min R (red) exposures (0.55 and 0.52 arcsec) with the VLT
+  Test Camera. Individual frames were flat-fielded and cleaned for cosmics, combined
+  and deconvolved with the Richardson-Lucy algorithm to produce a final FWHM = 0.53
+  arcsec before colour combination. The field measures 1.5 x 1.5 arcmin. North is
+  to the upper left; East is to the lower left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9825a/L{1}X{2}Y{3}.png
+name: First VLT colour photo of a strange galaxy
+ra_hr: 12.746887456251502
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9825a/thumb.jpg
+zoom_level: 0.23938062030334925
+---
+_uuid: ae9422f2-229b-4acd-bea5-ac8c6c817fd6
+annotation: '{"channel": "eso", "itemid": "eso9923a", "publishedUTCISO8601": "1999-04-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -26.741113118097907
+description: This photo was obtained with VLT KUEYEN on April 4, 1999. It is reproduced
+  from an excellent 60-second R(ed)-band exposure of the innermost region of a globular
+  cluster, Messier 68 (NGC 4590), in the southern constellation Hydra (The Water-Snake).
+  The distance to this 8-mag cluster is about 35,000 light years, and the diameter
+  is about 140 light-years. The excellent image quality is 0.38 arcsec, demonstrating
+  a good optical and mechanical state of the telescope, already at this early stage
+  of the commissioning phase. The field measures about 90 x 90 arcsec 2. The original
+  scale is 0.0455 pix/arcsec and there are 2048x2048 pixels in one frame. North is
+  up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9923a/L{1}X{2}Y{3}.png
+name: Messier 68
+ra_hr: 12.657808857649833
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9923a/thumb.jpg
+zoom_level: 0.2574267549097948
+---
+_uuid: 2e27c400-5d30-4b1f-87fa-20aaa8090867
+annotation: '{"channel": "eso", "itemid": "jewel-box", "publishedUTCISO8601": "2009-12-03T23:19:36+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -61.03363435842713
+description: The Jewel Box open cluster (NGC 4755 or Kappa Crucis) and the Coalsack
+  Nebula, in the constellation Crux. The Jewel Box is the cluster just above centre
+  in the image. The very bright star up and to the right is Mimosa (Beta Crucis).
+  Image from the ESO/SERC (J) survey plates.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/jewel-box/L{1}X{2}Y{3}.png
+name: The Jewel Box cluster and the Coalsack Nebula
+ra_hr: 12.899754150574362
+thumbnail: http://data1.wwtassets.org/feeds/eso/jewel-box/thumb.jpg
+zoom_level: 47.64380316665665
+---
+_uuid: 102f8238-f555-4475-b134-0e7f674a308b
+annotation: '{"channel": "eso", "itemid": "potw1140a", "publishedUTCISO8601": "2011-10-03T11:30:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -18.87447994101643
+description: A  new Very Large Telescope (VLT) image of the Antennae Galaxies gives
+  us  what may be the second-best visible-light view yet of this striking pair  of
+  colliding galaxies with dramatically distorted shapes. This amazing  object takes
+  its name from the long antenna-like &quot;arms&quot; extending far  out from the
+  nuclei of the two galaxies, best seen in wider-field images  by ground-based telescopes
+  such as the one at this link. This  VLT view focuses instead on the galaxies’ nuclei,
+  where the real action  is taking place as the two galaxies merge into a single giant
+  galaxy.  Spurred by shock waves created by their gravitational wrestling, the two  galaxies
+  have become dotted with brilliant blue hot young stars in  star-forming regions,
+  surrounded by glowing hydrogen gas, shown here in  pink. The two pale yellow blobs
+  are the cores of the original galaxies,  shining with the light of old stars and
+  picked out by delicate lanes of  dust.  The Antennae Galaxies were immortalised
+  in 2006 by one of the NASA/ESA Hubble Space Telescope’s most famous images (composed
+  by ESA’s Hubble group residing at ESO). If you are hungry for more information about
+  this amazing object, read the just-published ESO press release about the first image
+  from ALMA,  the Atacama Large Millimeter/submillimeter Array, which has just  started
+  its Early Science observations. ALMA , constructed by ESO and  its international
+  partners, observes the Universe in light with  millimetre and submillimetre wavelengths
+  — radically different from  visible-light and infrared telescopes. ALMA’s view is
+  the best  submillimetre-wavelength image ever made of the Antennae Galaxies,  despite
+  being just a taster of what ALMA will deliver. The ALMA image  was made using test
+  data from only twelve antennas, and as the  observatory grows, the sharpness, efficiency,
+  and quality of its  observations will increase dramatically. This image was processed
+  by ESO using the observational data found by Alberto Milani (Italy), who submitted
+  it to ESO’s &quot;Your ESO Pictures&quot; Flickr group.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1140a/L{1}X{2}Y{3}.png
+name: VLT observes the Antennae Galaxies
+ra_hr: 12.031570906233664
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1140a/thumb.jpg
+zoom_level: 0.5445745808138749
+---
+_uuid: c0d8a530-5fb3-48ff-b01a-f387b1376b71
+annotation: '{"channel": "eso", "itemid": "potw1312a", "publishedUTCISO8601": "2013-03-25T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 8.198492241698505
+description: This image depicts the galaxy NGC 4535, in the constellation of Virgo
+  (The Maiden), on a beautiful background full of many distant faint galaxies. Its
+  almost circular appearance shows that we observe it nearly face-on. In the centre
+  of the galaxy, there is a well-defined bar structure, with dust lanes that curve
+  sharply before the spiral arms break from the ends of the bar. The bluish colour
+  of the spiral arms points to the presence of a large number of hot young stars.
+  In the centre, however, older and cooler stars give the bulge of the galaxy a yellower
+  appearance. This visible image was made with the FORS1 instrument on ESO’s 8.2-metre
+  Very Large Telescope. The galaxy can also be seen through smaller amateur telescopes,
+  and was first observed by William Herschel in 1785. When seen through a smaller
+  telescope, NGC 4535 has a hazy, ghostly appearance, which inspired the prominent
+  amateur astronomer Leland S. Copeland to name it “The Lost Galaxy” in the 1950s.
+  NGC 4535 is one of the largest galaxies in the Virgo Cluster, a massive cluster
+  of as many as 2000 galaxies, about 50 million light-years away. Although the Virgo
+  Cluster is not much larger in diameter than the Local Group — the galaxy cluster
+  to which the Milky Way belongs —  it contains almost fifty times as many galaxies.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1312a/L{1}X{2}Y{3}.png
+name: The lost galaxy
+ra_hr: 12.572262379862012
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1312a/thumb.jpg
+zoom_level: 1.1607307129439999
+---
+_uuid: 3e1dc5c8-b40f-4907-9029-48284e5e1452
+annotation: '{"channel": "eso", "itemid": "potw1330a", "publishedUTCISO8601": "2013-07-29T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 15.823543257587435
+description: 'Spiral  galaxies are usually very aesthetically appealing objects, and
+  never  more so than when they appear face-on. And this image is a particularly  splendid
+  example: it is the grand design spiral galaxy Messier 100,  located in the southern
+  part of the constellation of Coma Berenices, and  lying about 55 million light-years
+  from Earth. While  Messier 100 shows very well defined spiral arms, it also displays
+  the  faintest of bar-like structures in the centre, which classifies this as  type
+  SAB. Although it is not easily spotted in the image, scientists  have been able
+  to confirm the bar’s existence by observing it in other  wavelengths. This  very
+  detailed image shows the main features expected in a galaxy of  this type: huge
+  clouds of hydrogen gas, glowing in red patches when they  re-emit the energy absorbed
+  from newly born, massive stars; the uniform  brightness of older, yellowish stars
+  near the centre; and black shreds  of dust weaving through the arms of the galaxy.
+  Messier  100 is one of the brightest members of the Virgo Cluster, which is the  closest
+  cluster of galaxies to our galaxy, the Milky Way, containing  over 2000 galaxies,
+  including spirals, ellipticals, and irregulars. This  picture is a combination of
+  images from the FORS instrument on ESO’s  Very Large Telescope at Paranal Observatory
+  in Chile, taken with red  (R), green (V) and blue (B) filters. Links   Photos of
+  the VLT  '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1330a/L{1}X{2}Y{3}.png
+name: Messier 100 — grand design splendour
+ra_hr: 12.382157617606687
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1330a/thumb.jpg
+zoom_level: 0.6703293716700001
+---
+_uuid: c3319c1e-25d8-4897-a916-71f24d5e3f6a
+annotation: '{"channel": "eso", "itemid": "potw1543a", "publishedUTCISO8601": "2015-10-26T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -55.97320071684546
+description: Observations by ESO’s planet-finding instrument, SPHERE, a high-contrast
+  adaptive optics system installed on the third Unit Telescope of ESO’s Very Large
+  Telescope, have revealed the edge-on disc of gas and dust present around the binary
+  star system HD 106906AB. HD 106906AB is a double star located in the constellation
+  of Crux (The Southern Cross). Astronomers had long suspected that this 13 million-year-old
+  stellar duo was encircled by a debris disc, due to the system’s youth and characteristic
+  radiation. However, this disc had remained unseen — until now! The system’s spectacular
+  debris disc can be seen towards the lower left area of this image. It is surrounding
+  both stars, hence its name of circumbinary disc. The stars themselves are hidden
+  behind a mask which prevent their glare from blinding the instrument. These stars
+  and the disc are also accompanied by an exoplanet, visible in the upper right, named
+  HD 106906 b, which orbits around the binary star and its disc at a distance greater
+  than any other exoplanet discovered to date — 650 times the average Earth–Sun distance,
+  or nearly 97 billion kilometres. HD 106906 b has a mammoth mass of up to 11 times
+  that of Jupiter, and a scorching surface temperature of 1500 degrees Celsius. Thanks
+  to SPHERE, HD 106906AB has become the first binary star system to have both an exoplanet
+  and a debris disc successfully imaged, providing astronomers with a unique opportunity
+  to study the complex process of circumbinary planet formation.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1543a/L{1}X{2}Y{3}.png
+name: Planet-hunting SPHERE images first circumbinary planet system with disc
+ra_hr: 12.297775070442686
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1543a/thumb.jpg
+zoom_level: 0.08387768609674365
+---
+_uuid: ef22f953-b688-4101-ac60-1ca4f27cab7b
+annotation: '{"channel": "eso", "itemid": "potw1636a", "publishedUTCISO8601": "2016-09-05T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 14.90215054408268
+description: The colour blue has many associations — coldness, sadness, serenity.
+  However, the colour holds a completely different meaning for astronomers, as demonstrated
+  by the edge-on spiral galaxy  Messier 98. Messier 98, also known as NGC 4192, is
+  located approximately 50 million light-years away in the constellation of Coma Berenices
+  (Berenice&#x27;s Hair). In this spectacular image from ESO’s New Technology Telescope
+  (NTT), the galaxy’s perimeter, rippled with gas and dust, is dotted with pockets
+  of blueish light. These are regions filled with very young stars, which are so hot
+  that they glow with a bright blue hue. These young stars are burning at such high
+  temperatures that they are emitting fierce radiation, burning away some of the dense
+  material that surrounds them. In total, Messier 98 is thought to contain one trillion
+  stars! The NTT is a 3.58-metre telescope at the La Silla Observatory, which pioneered
+  the use of active optics and was the first in the world to have a computer-controlled
+  main mirror.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1636a/L{1}X{2}Y{3}.png
+name: Why so blue?
+ra_hr: 12.230210948181483
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1636a/thumb.jpg
+zoom_level: 1.0595735276551501
+---
+_uuid: 8c73e7b6-ba8b-4db6-8d85-bfb1bb4c02ae
+annotation: '{"channel": "eso", "itemid": "potw1724a", "publishedUTCISO8601": "2017-06-12T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -54.520239125099295
+description: 'This Picture of Week shows the Boomerang Nebula, a protoplanetary nebula,
+   as seen by the Atacama Large Millimeter/submillimeter Array (ALMA). The background
+  purple structure, as seen in visible light with the NASA/ESA Hubble Space Telescope,
+  shows a classic double-lobe shape with a very narrow central region. ALMA’s ability
+  to see the cold molecular gas reveals the nebula’s more elongated shape, in orange.
+  Since 2003 the nebula, located about 5000 light-years from Earth, has held the record
+  for the coldest known object in the Universe. The nebula is thought to have formed
+  from the envelope of a star in its later stages of life which engulfed a smaller,
+  binary companion. It is possible that this is the cause of the ultra-cold outflows,
+  which are illuminated by the light of the central, dying star. ALMA looked at the
+  nebula’s central dusty disc and the outflows further out, which span a distance
+  of almost four light-years across the sky. These outflows are even colder than the
+  cosmic microwave background, reaching temperatures below –270 °C. The outflows are
+  also expanding at a speed of 590 000 kilometres per hour. Link  NRAO press release '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1724a/L{1}X{2}Y{3}.png
+name: True shape of the Boomerang
+ra_hr: 12.746139007804597
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1724a/thumb.jpg
+zoom_level: 0.06258438613945504
+---
+_uuid: 39b6d896-16ef-4e6c-86c4-72dfce0963f0
+annotation: '{"channel": "eso", "itemid": "potw1901a", "publishedUTCISO8601": "2019-01-07T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 4.47367842540057
+description: Nuzzled in the chest of the constellation Virgo (the Virgin) lies a beautiful
+  cosmic gem — the galaxy Messier 61. This glittering spiral galaxy is aligned face-on
+  towards Earth, thus presenting us with a breathtaking view of its structure. The
+  gas and dust of the intricate spiral arms are studded with billions of stars. This
+  galaxy is a bustling hub of activity with a rapid rate of star formation, and both
+  a massive nuclear star cluster and a supermassive black hole buried at its heart.
+  Messier 61 is one of the largest members of the Virgo Cluster, which is made up
+  of more than a thousand galaxies, and is itself at the centre of the Virgo Supercluster — to
+  which our Milky Way also belongs. This dazzling beauty was first discovered in 1779,
+  and it has been capturing astronomers’ interest ever since. Set against a dark sky
+  littered with galaxies, this image shows the awe-inspiring M61 in its full glory — even
+  at its distance of over 50 million light-years. This image was taken as part of
+  ESO’s Cosmic Gems Programme, an outreach initiative to produce images of interesting,
+  intriguing or visually attractive objects using ESO telescopes, for the purposes
+  of education and public outreach. The programme makes use of telescope time that
+  cannot be used for science observations. In case the data collected could be useful
+  for future scientific purposes, these observations are saved and made available
+  to astronomers through ESO’s Science Archive.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1901a/L{1}X{2}Y{3}.png
+name: A portrait of a beauty
+ra_hr: 12.36597271691204
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1901a/thumb.jpg
+zoom_level: 1.0600779381325107
+---
+_uuid: 49873753-9e05-49c3-a99d-c48f3ff61146
+annotation: '{"channel": "eso", "itemid": "potw1917a", "publishedUTCISO8601": "2019-04-29T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 15.822262817064056
+description: This is one of 74 nearby galaxies whose stellar nurseries were recently
+  observed by the Atacama Large Millimeter/submillimeter Array, or ALMA, in an astronomical
+  census called Physics at High Angular resolution in Nearby GalaxieS (PHANGS). So
+  far, around 100 000 of these stellar nurseries have been imaged in over 750 hours
+  of observation. ALMA’s remarkable sensitivity provides data at high enough resolution
+  to study these regions in detail, and shows that some are bursting with new stars,
+  while others evolve more gradually. This anticipated diversity in the process of
+  how stars form was the motivation behind this enormous effort. There have long been
+  theories that aimed to explain how and why these differences might occur, some involving
+  the characteristics of the home galaxy itself — properties such as size, age, and
+  internal dynamics — but our lack of high-resolution data had been an obstacle to
+  testing them. The vast quantity and variety of data yielded by PHANGS are already
+  helping astronomers to understand more, even though the census is only a third complete.
+  The project aims to observe a total of about 300 000 stellar nurseries and by the
+  end it should significantly advance our understanding of how a galaxy’s properties
+  influence the way in which it forms new stars.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1917a/L{1}X{2}Y{3}.png
+name: Starbursts and slow burns
+ra_hr: 12.381738975020484
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1917a/thumb.jpg
+zoom_level: 0.6039404550407014
+---
+_uuid: b1495370-53cb-4766-9297-c9d85b8e227e
+annotation: '{"channel": "eso", "itemid": "potw2027a", "publishedUTCISO8601": "2020-07-06T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -60.58438856331819
+description: 'This beautiful image, captured with the FOcal Reducer and low dispersion
+  Spectrograph (FORS) on ESO’s Very Large Telescope (VLT), shows a field of stars
+  of all ages — some looming close in the foreground, and others lurking in the far
+  distance. The distinct red and blue hues are thanks to the use of filters, which
+  allow the selection of specific wavelength ranges of light. The images collected
+  with different filters can be combined in order to create colourful composite images:
+  by assigning a particular color to each filter; colouring the images according to
+  the filter used; then combining the separate images. The result is a spectacular
+  image which colourfully represents the various wavelengths of light. This patch
+  of sky is found in the constellation of Crux (The Southern Cross), an extremely
+  bright section of the Milky Way. It was imaged as part of the ESO Cosmic Gems programme,
+  an outreach initiative to produce images of interesting, intriguing or visually
+  attractive objects using ESO telescopes, for the purposes of education and public
+  outreach. The programme makes use of telescope time that cannot be used for science
+  observations. All data collected may also be suitable for scientific purposes, and
+  are made available to astronomers through ESO’s science archive.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw2027a/L{1}X{2}Y{3}.png
+name: Unassuming beauty
+ra_hr: 12.839710562905006
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw2027a/thumb.jpg
+zoom_level: 1.2323586387306964
+---
+_uuid: c6afae12-a391-4589-9b50-3095d002e372
+annotation: '{"channel": "eso", "itemid": "potw2123a", "publishedUTCISO8601": "2021-06-07T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 14.418065593642314
+description: 'This ESO Picture of the Week features a galaxy named both NGC 4254 and
+  Messier 99, a beautiful cosmic spectacle located in the constellation of Coma Berenices
+  (Berenice’s Hair).  Messier 99 is special, owing to its classification as a grand
+  design spiral galaxy: a kind of galactic architecture featuring strong, prominent,
+  well-defined arms that wrap clearly around the galaxy’s centre. Only around 10 percent
+  of all spirals are of the grand design variety, making objects like Messier 99 somewhat
+  uncommon. The justification behind Messier 99’s categorisation is clear in this
+  image; bright, swirling arms carve through the dark surrounding space, and are easily
+  identifiable as a number of different, coherent structures. This image was created
+  as part of the ESO Cosmic Gems programme, an outreach initiative to produce images
+  of interesting, intriguing or visually attractive objects using ESO telescopes,
+  for the purposes of education and public outreach. The programme makes use of telescope
+  time that cannot be used for science observations. All data collected may also be
+  suitable for scientific purposes, and are made available to astronomers through
+  ESO’s science archive.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw2123a/L{1}X{2}Y{3}.png
+name: Grand designs
+ra_hr: 12.31347081433896
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw2123a/thumb.jpg
+zoom_level: 1.1852916096484507
+---
 _uuid: b40adfed-7818-4f0b-a55f-b30254ac0a66
 annotation: '{"channel": "noirlab", "itemid": "gemini0406a", "publishedUTCISO8601":
   "2004-10-08T20:00:00+00:00"}'

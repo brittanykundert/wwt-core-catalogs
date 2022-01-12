@@ -1,3 +1,683 @@
+_uuid: 2100b4b7-f0ac-4f1e-8663-46b8ffc3ac75
+annotation: '{"channel": "eso", "itemid": "eso0122a", "publishedUTCISO8601": "2001-05-31T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.86552051100258
+description: 'This photograph shows an image of the Quasar HE 1013-2136 (center) and
+  its surroundings, as obtained with the FORS2 multi-mode instrument at the 8.2-m
+  VLT KUEYEN telescope in February 2001. A spectacular arc-like tidal tail stretches
+  from the quasar towards south-east (lower-left) over a distance of more than 150,000
+  light-years. Another, shorter tidal tail towards the east-northeast is barely visible.
+  Technical information: this image is based on an image that was obtained in the
+  morning of February 26, 2001 with the FORS2 instrument on VLT KUEYEN. It is composed
+  of eight exposures in the I-band filter (effective wavelength 768 nm; FWHM 138 nm),
+  lasting a total of 32 min. The combined image has a FWHM of 0.6 arcsec. The field
+  shown measures 33 x 33 arcsec 2, or 540,000 x 540,000 light-years 2 projected at
+  the distance of the quasar; 1 pixel = 0.2 arcsec. North is up and East is left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0122a/L{1}X{2}Y{3}.png
+name: Quasar HE 1013-2136 with tidal tails
+ra_hr: 10.264549056227475
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0122a/thumb.jpg
+zoom_level: 0.0964106362685058
+---
+_uuid: 431b9b90-5b50-4ac8-95a3-6780065efaeb
+annotation: '{"channel": "eso", "itemid": "eso0122b", "publishedUTCISO8601": "2001-05-31T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.865397699498327
+description: 'This photograph shows an image of the Quasar HE 1013-2136 (center) and
+  its surroundings sharpened with a computer algorithm to bring out more details in
+  the immediate neighbourhood of the quasar. Now numerous details can be recognized
+  within the two tidal tails, including various knotty structures. In particular,
+  a very close companion galaxy at 20,000 light-years projected distance to the quasar
+  can now be seen (at the 5 o&#x27;&#x27;clock position) that may be in gravitational
+  interaction with the quasar host galaxy. Quasar activity is believed to be triggered
+  by such dramatic events. Technical information: this image has been processed by
+  applying the Lucy algorithm with 15 iterations. The field shown measures 33 x 33
+  arcsec 2, or 540,000 x 540,000 light-years 2 projected at the distance of the quasar;
+  1 pixel = 0.2 arcsec. North is up and East is left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0122b/L{1}X{2}Y{3}.png
+name: Quasar HE 1013-2136 with tidal tails
+ra_hr: 10.264563613457454
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0122b/thumb.jpg
+zoom_level: 0.107107477008
+---
+_uuid: ef87cf6f-c5f7-45bc-a5dc-2792d9c30e3e
+annotation: '{"channel": "eso", "itemid": "eso0209j", "publishedUTCISO8601": "2002-03-13T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.650348871838885
+description: The distant cluster of galaxies MS 1008.1-1224  is some 3 billion light-years
+  distant (redshift z = 0.301). The galaxies in this cluster — that we observe as
+  they were 3 billion years ago — are different from galaxies in our neighbourhood
+  ; their stellar populations, on the average, are younger. This is a composite VRI
+  image with the individual exposures lasting 300 seconds; image quality 0.8 arcsec
+  FWHM ; field 5 x 3 arcmin2 ; North is to the right and East is up.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0209j/L{1}X{2}Y{3}.png
+name: Distant cluster MS 1008.1-1224
+ra_hr: 10.175391641412025
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0209j/thumb.jpg
+zoom_level: 0.6855697399181804
+---
+_uuid: a5400841-451e-4b7a-8ff0-3021d68395b7
+annotation: '{"channel": "eso", "itemid": "eso0415a", "publishedUTCISO8601": "2004-05-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -61.446869776227196
+description: Sky field in the southern constellation Carina (The Ship Keel) with the
+  images of the star OGLE-TR-113, around which a transiting exoplanet has been identified.
+  The field measures 10 x 10 square arcmin; North is up and East is left. This image
+  has been reproduced from the Digitized Sky Survey (DSS).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0415a/L{1}X{2}Y{3}.png
+name: Sky Field with OGLE-TR-113
+ra_hr: 10.873029545511987
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0415a/thumb.jpg
+zoom_level: 1.664472119934
+---
+_uuid: 0f96bb2a-f1e5-4e5e-9f48-4f838b780131
+annotation: '{"channel": "eso", "itemid": "eso0415b", "publishedUTCISO8601": "2004-05-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -61.95620701611645
+description: Sky field in the southern constellation Carina (The Ship Keel) with the
+  images of the star OGLE-TR-132, around which a transiting extra-solar planet (exoplanet)
+  has been identified. The field measures 10 x 10 square arcmin; North is up and East
+  is left. This image has been reproduced from the Digitized Sky Survey (DSS).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0415b/L{1}X{2}Y{3}.png
+name: Sky field with OGLE-TR-132
+ra_hr: 10.843155580704453
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0415b/thumb.jpg
+zoom_level: 1.6593142707360005
+---
+_uuid: d3d1064e-2843-43e3-b4a3-a3c419a71938
+annotation: '{"channel": "eso", "itemid": "eso0617a", "publishedUTCISO8601": "2006-05-11T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 21.829351898614114
+description: The beautiful edge-on spiral galaxy NGC 3190 with tightly wound arms
+  and a warped shape that makes it resemble a gigantic potato crisp, as seen by ESO&#x27;s
+  Very Large Telescope. Supernova SN 2002bo is found in between the &#x27;V&#x27;
+  of the dust lanes in the south-western part of NGC 3190. SN 2002cv is obscured by
+  a large amount of dust and is therefore not visible. Its position is however indicated
+  on the above image. This colour composite is based on images obtained on 26 March
+  2003 with FORS1 on UT2 (Kueyen) in four filters (B, V, R and I) for a total exposure
+  time of 14 minutes. The observations were done in the framework of a programme aiming
+  at studying the physics of Type Ia supernovae. The field of view is 6.15 x 5 arcminutes.
+  North is up and East is to the left. The data extraction from the archive, data
+  reduction and final colour processing of the image was done by Henri Boffin (ESO).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0617a/L{1}X{2}Y{3}.png
+name: Twin explosions in gigantic dusty potato crisp
+ra_hr: 10.301749099340036
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0617a/thumb.jpg
+zoom_level: 0.8049631716
+---
+_uuid: d584eea7-602e-41b0-ad90-c81855f9f63b
+annotation: '{"channel": "eso", "itemid": "eso0837a", "publishedUTCISO8601": "2008-10-21T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -57.76784473218854
+description: This image shows the amazing intricacies of the vast stellar nursery
+  Gum 29. At its centre lies the cluster of young stars Westerlund 2. One object at
+  the bottom of the cluster is in fact a system of two of most massive stars known
+  to astronomers.  The image is based on data obtained with the Wide Field Imager
+  (WFI) camera attached to the 2.2-m Max-Planck/ESO telescope through four different
+  filters (B, V, R, and H-alpha).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0837a/L{1}X{2}Y{3}.png
+name: The Gum 29 nebula
+ra_hr: 10.403552258938879
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0837a/thumb.jpg
+zoom_level: 5.598862027584
+---
+_uuid: 98854a2d-9c2e-4e2b-adb0-fa322c145b26
+annotation: '{"channel": "eso", "itemid": "eso0837b", "publishedUTCISO8601": "2008-10-21T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -57.76706701989881
+description: Marked in the image is a double stellar system. The two stars have masses
+  of 82 and 83 times that of our Sun and rotate around each other in approximately
+  3.7 days. They are amongst the most massive stars known to astronomers.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0837b/L{1}X{2}Y{3}.png
+name: The Gum 29 nebula
+ra_hr: 10.399576509340255
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0837b/thumb.jpg
+zoom_level: 0.74695633311
+---
+_uuid: 6bebd1b9-de0e-4491-9f88-c1dd12a08ac4
+annotation: '{"channel": "eso", "itemid": "eso0905a", "publishedUTCISO8601": "2009-02-12T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -59.58409423300125
+description: 'Colour-composite image of the Carina Nebula, revealing exquisite details
+  in the stars and dust of the region. Several well known astronomical objects can
+  be seen in this wide field image : to the bottom left of the image is one of the
+  most impressive binary stars in the Universe, Eta Carinae, with the famous Keyhole
+  Nebula just adjacent to the star. The collection of very bright, young stars above
+  and to the right of Eta Carinae is the open star cluster Trumpler 14. A second open
+  star cluster, Collinder 228 is also seen in the image, just below Eta Carinae. The
+  Carina Nebula also bears the NGC 3372 designation. On this image, North is up and
+  East is to the left. The field of view is 0.55 x 0.55 degrees, covering a 72 x 72
+  light-year region at the distance of the nebula. This image is available as a mounted
+  image in the ESOshop.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0905a/L{1}X{2}Y{3}.png
+name: The Carina Nebula *
+ra_hr: 10.742153338396296
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0905a/thumb.jpg
+zoom_level: 5.6254304871719985
+---
+_uuid: c6eb79c4-b006-4c9f-ad63-821d8d5f58f5
+annotation: '{"channel": "eso", "itemid": "eso0905b", "publishedUTCISO8601": "2011-11-16T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -60.02111682354603
+description: This image is a colour composite made from exposures from the Digitized
+  Sky Survey 2 (DSS2). The field of view is approximately 4.7 x 4.9 degrees.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0905b/L{1}X{2}Y{3}.png
+name: Digitized Sky Survey image of Eta Carinae Nebula
+ra_hr: 10.779661471014817
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0905b/thumb.jpg
+zoom_level: 48.65054716638001
+---
+_uuid: fdac5490-82dc-49b1-9291-344ca1652c00
+annotation: '{"channel": "eso", "itemid": "eso0928a", "publishedUTCISO8601": "2009-08-05T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -58.672073475935555
+description: 'This image, centred on the B[e] star HD 87643, beautifully shows the
+  extended nebula of gas and dust that reflects the light from the star. The central
+  star&#x27;s wind appears to have shaped the nebula, leaving bright, ragged tendrils
+  of gas and dust. A careful investigation of these features seems to indicate that
+  there are regular ejections of matter from the star every 15 to 50 years. The image,  taken
+  with the Wide Field Imager on the MPG/ESO 2.2-metre telescope at La Silla, is based
+  on data obtained through different filters: B, V and R.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0928a/L{1}X{2}Y{3}.png
+name: Reflection nebula around HD 87643
+ra_hr: 10.07514426467726
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0928a/thumb.jpg
+zoom_level: 2.2072514693759997
+---
+_uuid: 7c16da24-18a0-4d9a-a322-bc0bd38194b3
+annotation: '{"channel": "eso", "itemid": "eso0928e", "publishedUTCISO8601": "2009-08-05T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -58.65211252503549
+description: 'This image, showing a very rich field of stars towards the Carina arm
+  of the Milky Way, is centred on the star HD 87643, a member of the class of B[e]
+  stars. The amazing image is set ablaze by a flurry of stars of all colours and brightnesses,
+  some of which are seen against a backdrop of clouds of dust and gas. The red emission
+  nebula is RCW47 and was catalogued in 1960. HD 87643 has been extensively studied
+  with a full range of ESO telescopes, including the Very Large Telescope Interferometer
+  (VLTI). Surrounded by a complex, extended nebula that is the result of previous
+  violent ejections, the star is shown to have a companion. Interactions in this double
+  system, surrounded by a dusty disc, may be the engine fuelling the star&#x27;s remarkable
+  nebula. The image, taken with the Wide Field Imager on the MPG/ESO 2.2-metre telescope
+  at La Silla, is based on data obtained through different filters: B, V and R. The
+  field of view is 33 x 32 arc-minutes.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0928e/L{1}X{2}Y{3}.png
+name: The field around HD 87643
+ra_hr: 10.073777641573761
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0928e/thumb.jpg
+zoom_level: 5.46794426238
+---
+_uuid: bbe50ca3-e1ae-451b-a5a2-2ac43884a2f5
+annotation: '{"channel": "eso", "itemid": "eso0928f", "publishedUTCISO8601": "2010-07-26T16:27:16+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -58.67668794238824
+description: This image is a colour composite made from exposures from the Digitized
+  Sky Survey 2 (DSS2). The field of view is approximatelly 3.9 x 2.5 degrees.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0928f/L{1}X{2}Y{3}.png
+name: Digitized Sky Survey image of the double star HD 87643
+ra_hr: 10.074929922608383
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0928f/thumb.jpg
+zoom_level: 26.067923615669997
+---
+_uuid: 70b5c2b0-4b28-4b3c-b049-fcaf72449a56
+annotation: '{"channel": "eso", "itemid": "eso0947a", "publishedUTCISO8601": "2009-12-03T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -59.54999608963009
+description: This impressive image of the open cluster known as Trumpler 14 was obtained
+  with the Multi-conjugate Adaptive optics Demonstrator (MAD) mounted on ESO’s Very
+  Large Telescope. The cluster, which is found to be only 500 000 years old — a blink
+  of an eye in the Universe’s history — resides at the outskirts of the central region
+  of the Carina Nebula, located some 8,000 light-years away towards the constellation
+  of Carina (the Keel). Trumpler 14 is not only the youngest, but also one of the
+  most populous clusters within the nebula. Astronomers counted about 2000 stars in
+  the very central parts of this cluster. The MAD instrument allows astronomers to
+  obtain very sharp images over a wide area and this image is the adaptive optics
+  image that so far covers the widest area on the sky. The field of view is about
+  2 arcminutes across and the image is based on data obtained through two different
+  filters (K and H).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0947a/L{1}X{2}Y{3}.png
+name: Widest adaptive optics view of the open star cluster Trumpler 14
+ra_hr: 10.731739853665811
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0947a/thumb.jpg
+zoom_level: 0.251758986780406
+---
+_uuid: c99fef6e-fa22-4624-aa4d-61f3ffbf4c08
+annotation: '{"channel": "eso", "itemid": "eso0947b", "publishedUTCISO8601": "2009-12-03T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -59.582760586508975
+description: This image of the Carina Nebula shows the position of the Trumpler 14
+  cluster of stars.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0947b/L{1}X{2}Y{3}.png
+name: Trumpler 14 in the Carina Nebula
+ra_hr: 10.742044886717563
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0947b/thumb.jpg
+zoom_level: 5.62185799615278
+---
+_uuid: 3f226c4e-7b99-437a-8802-337a7251ceb3
+annotation: '{"channel": "eso", "itemid": "eso1031b", "publishedUTCISO8601": "2013-06-28T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -59.624427959815215
+description: 'This spectacular panoramic view combines a new image of the field around
+  the Wolf–Rayet star WR 22 in the Carina Nebula (right) with an earlier picture of
+  the region around the unique star Eta Carinae in the heart of the nebula (left).
+  The picture was created from images taken with the Wide Field Imager on the MPG/ESO
+  2.2-metre telescope at ESO’s La Silla Observatory in Chile. This image is available
+  as a mounted image in the ESOshop. #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1031b/L{1}X{2}Y{3}.png
+name: Panoramic view of the WR 22 and Eta Carinae regions of the Carina Nebula*
+ra_hr: 10.715244547390022
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1031b/thumb.jpg
+zoom_level: 4.7896024332
+---
+_uuid: 318adca8-1d7c-4dbf-8363-e4eb8e265449
+annotation: '{"channel": "eso", "itemid": "eso1208a", "publishedUTCISO8601": "2012-02-08T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -59.563623514169315
+description: 'This broad image of the Carina Nebula, a region of massive star formation
+  in the southern skies, was taken in infrared light using the HAWK-I camera on ESO’s
+  Very Large Telescope. Many previously hidden features, scattered across a spectacular
+  celestial landscape of gas, dust and young stars, have emerged. #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1208a/L{1}X{2}Y{3}.png
+name: ESO’s VLT reveals the Carina Nebula's hidden secrets
+ra_hr: 10.735179474405657
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1208a/thumb.jpg
+zoom_level: 2.69361318369718
+---
+_uuid: 6d04fa9f-3425-4a7b-985c-3ab159311af6
+annotation: '{"channel": "eso", "itemid": "eso1422a", "publishedUTCISO8601": "2014-07-23T16:48:15+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -58.217797815049536
+description: In this image from the Wide Field Imager on the MPG/ESO 2.2-metre telescope
+  at ESO’s La Silla Observatory in Chile young stars huddle together against a backdrop
+  of clouds of glowing gas and lanes of dust. The star cluster, known as NGC 3293,
+  would have been just a cloud of gas and dust itself about ten million years ago,
+  but as stars began to form it became the bright group we see here. Clusters like
+  this are celestial laboratories that allow astronomers to learn more about how stars
+  evolve.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1422a/L{1}X{2}Y{3}.png
+name: The star cluster NGC 3293
+ra_hr: 10.596373314548595
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1422a/thumb.jpg
+zoom_level: 5.68951377044162
+---
+_uuid: 9f857826-ec04-4ba7-9516-4395eb8bbe88
+annotation: '{"channel": "eso", "itemid": "eso9920a", "publishedUTCISO8601": "1999-02-27T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.328626163943063
+description: True-colour image  of the dwarf galaxy Antlia combined from three exposures
+  with the FORS1 multi-mode instrument at VLT UT1, in the B (blue), V (green) and
+  R (red) optical bands. Many background galaxies are seen in the field. The total
+  exposure times were 2400 sec, 2400 sec and 5400 sec, respectively. The seeing varied
+  between 0.5 and 0.7 arcsec. The field measures about 7 x 7 arcmin 2. North is up
+  and East is left.  Very high quality images of Antlia were obtained in different
+  colours by FORS1 on VLT UT1 in the period 27 - 31 January 1999. These data were
+  taken around full moon, so they do not show as faint stars as they would under normal
+  FORS operating conditions, but the image quality is exceptional. They represent
+  by far the best images ever obtained of this galaxy, and they include the first
+  deep B-band images.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9920a/L{1}X{2}Y{3}.png
+name: Dwarf galaxy Antlia
+ra_hr: 10.067756116935014
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9920a/thumb.jpg
+zoom_level: 0.6788775563634168
+---
+_uuid: b15a24bb-a1b7-4cd7-9454-fada36d317a0
+annotation: '{"channel": "eso", "itemid": "eso9920p", "publishedUTCISO8601": "1999-02-27T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.663725126648103
+description: True-colour image  of the cluster of galaxies, MS1008.1-1224, combined
+  from exposures with the FORS1 multi-mode instrument at VLT UT1, in the four optical
+  bands, B (blue; exposure time 4950 sec; image quality 0.60 - 0.85 arcsec), V (green;
+  5400 sec; 0.50 - 0.75 arcsec), R (red; 5400 sec; 0.45 - 0.75 arcsec) and I (near-infrared;
+  4050 sec; 0.45 - 0.75). Two small areas were masked because of two bright stars.
+  The field measures about 7 x 7 arcmin 2. North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9920p/L{1}X{2}Y{3}.png
+name: Galaxy cluster MS1008.1-1224
+ra_hr: 10.17572416304722
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9920p/thumb.jpg
+zoom_level: 1.067293342848
+---
+_uuid: b2d983a3-aa64-451f-a1eb-874daf4a5e58
+annotation: '{"channel": "eso", "itemid": "eso9920q", "publishedUTCISO8601": "1999-02-27T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.663664077056668
+description: True-colour image of the centre of the cluster of galaxies, MS1008.1-1224,
+  combined from exposures with the FORS1 multi-mode instrument at VLT UT1, in the
+  four optical bands, B (blue; exposure time 4950 sec; image quality 0.60 - 0.85 arcsec),
+  V (green; 5400 sec; 0.50 - 0.75 arcsec), R (red; 5400 sec; 0.45 - 0.75 arcsec) and
+  I (near-infrared; 4050 sec; 0.45 - 0.75). The field measures about 200 x 200 arcsec
+  2.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9920q/L{1}X{2}Y{3}.png
+name: Centre of galaxy cluster MS1008.1-1224
+ra_hr: 10.175719378052936
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9920q/thumb.jpg
+zoom_level: 0.531610775088
+---
+_uuid: 540d841e-e3d6-44f1-ab2c-407313460d01
+annotation: '{"channel": "eso", "itemid": "potw1120a", "publishedUTCISO8601": "2011-05-16T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -39.8126469290052
+description: 'This new image of the spiral galaxy NGC 3244 was taken with the help
+  of the President of the Czech Republic, Václav Klaus, during his visit to ESO’s
+  Paranal Observatory [1], on the night of 6 April 2011. The Czech Republic joined
+  ESO in 2007, and this was the first visit of the country’s President to an ESO site.
+  This galaxy has attracted considerable interest from astronomers over the past nine
+  months, thanks to the violent death of one of its stars, which was discovered on
+  27 June 2010. This supernova explosion, now known as Supernova 2010ev (SN 2010ev),
+  is still visible as the — now faint — blue dot nestled within one of the thick spiral
+  arms just to the left of the galaxy’s nucleus. To the right of  the galaxy, an unremarkable
+  foreground star in our own Milky Way, TYC 7713-527-1, shines brightly enough to
+  catch our attention. Although the star seems a great deal brighter than SN 2010ev,
+  this is actually an illusion created by the large difference in the distances of
+  the two objects. The galaxy is much further away, at a distance of about 90 million
+  light years, while the star lies thousands of times closer, within our own galaxy.
+  At its brightest, SN 2010ev reached an apparent magnitude of about 14, making it
+  about 1000 times dimmer than the naked eye can see, but it was still the third brightest
+  supernova observed in 2010. In fact, if the supernova had been as close to Earth
+  as TYC 7713-527-1, it would have been easily visible to the naked eye, unlike the
+  aforementioned star. The image was taken using the FORS2 instrument on the ESO Very
+  Large Telescope (VLT). The filters used for the image were B, V and R, which were
+  coloured blue, green and red respectively. A framed print of the President’s Galaxy
+  has been presented to Václav Klaus, as a memento of his visit to Paranal. Notes
+  [1] For more information about the visit of the President of the Czech Republic,
+  Václav Klaus, see the organisation release Links  Read more about SN 2010ev '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1120a/L{1}X{2}Y{3}.png
+name: The czech president’s galaxy
+ra_hr: 10.424555732164585
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1120a/thumb.jpg
+zoom_level: 0.41321688526800004
+---
+_uuid: 28d7ea5c-d0c9-4857-82f6-c852bc69215c
+annotation: '{"channel": "eso", "itemid": "potw1143a", "publishedUTCISO8601": "2011-10-24T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 11.821567854842582
+description: 'Not all spiral galaxies have to be picture-perfect to be striking. Messier
+  96, also known as NGC 3368, is a case in point: its core is displaced from the centre,
+  its gas and dust are distributed asymmetrically and its spiral arms are ill-defined.
+  But this portrait, taken with the FORS1 instrument on ESO’s Very Large Telescope,
+  shows that imperfection is beauty in Messier 96. The galaxy&#x27;s core is compact
+  but glowing, and the dark dust lanes around it move in a delicate swirl towards
+  the nucleus. And the spiral arms, patchy rings of young blue stars, are like necklaces
+  of blue pearls.   Messier 96 lies in the constellation of Leo (The Lion). It is
+  the largest galaxy in the Leo I group of galaxies; including its outermost spiral
+  arms, it spans some 100 000 light-years in diameter — about the size of our Milky
+  Way. Its graceful imperfections likely result from the gravitational pull of other
+  members in the group, or are perhaps due to past galactic encounters.  A multitude
+  of background galaxies peers through the dusty spiral. Perhaps the most striking
+  of these objects is an edge-on galaxy that — because of a chance alignment — appears
+  to interrupt the outermost spiral arm to the upper left of Messier 96&#x27;s core.
+  This image was processed by ESO using the observational data found by Oleg Maliy
+  from Ukraine, who participated in ESO&#x27;s Hidden Treasures 2010 astrophotography
+  competition [1], organised in October–November 2010, for everyone who enjoys making
+  beautiful images of the night sky using astronomical data obtained with professional
+  telescopes. The image was made with data taken at visible and infrared wavelengths
+  through B, V, and I filters.  Notes [1] ESO’s Hidden Treasures 2010 competition
+  gave amateur astronomers the opportunity to search through ESO’s vast archives of
+  astronomical data, hoping to find a well-hidden gem that needed polishing by the
+  entrants. To find out more about Hidden Treasures, visit http://www.eso.org/public/outreach/hiddentreasures/.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1143a/L{1}X{2}Y{3}.png
+name: Portrait of an imperfect but beautiful spiral
+ra_hr: 10.779151604007435
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1143a/thumb.jpg
+zoom_level: 1.160695132182
+---
+_uuid: 533ab580-42cf-4f60-ba9d-60babe785bf8
+annotation: '{"channel": "eso", "itemid": "potw1212a", "publishedUTCISO8601": "2012-03-19T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 11.704189599164874
+description: The Very Large Telescope has captured another member of the Leo I group
+  of galaxies, in the constellation of Leo (The Lion). The galaxy Messier 95 stands
+  boldly face-on, offering an ideal view of its spiral structure. The spiral arms
+  form an almost perfect circle around the galactic centre before they spread out,
+  creating a mane-like effect of which any lion would be proud. Another, perhaps even
+  more striking, feature of Messier 95 is its blazing golden core. It contains a nuclear
+  star-forming ring, almost 2000 light-years across, where a large proportion of the
+  galaxy’s star formation takes place. This phenomenon occurs mostly in barred spiral
+  galaxies such as Messier 95 and our home, the Milky Way. In the Leo I group, Messier
+  95 is outshone by its brother Messier 96 (see potw1143). Messier 96 is in fact the
+  brightest member of the group and — as “leader of the pride” — also gives Leo I
+  its alternative name of the M 96 group. Nevertheless, Messier 95 also makes for
+  a spectacular image. Stop press! By coincidence Messier 95 is the host of a probable  supernova
+  that was first spotted on 17 March 2012. Discovery details are  here. And as another
+  coincidence both supernova and galaxy are currently very  close to the brilliant
+  planet Mars amongst the stars of Leo. Please note that the observations used to
+  make this Picture of the Week were taken before the supernova occurred, and therefore
+  the supernova itself does not appear in this image.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1212a/L{1}X{2}Y{3}.png
+name: The VLT goes lion hunting
+ra_hr: 10.732713410472913
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1212a/thumb.jpg
+zoom_level: 1.157235572682
+---
+_uuid: c139ae65-9c15-4e70-a5ff-60aa6d9feefb
+annotation: '{"channel": "eso", "itemid": "potw1619a", "publishedUTCISO8601": "2016-05-09T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -38.40894692937031
+description: '  This Picture of the Week shows the Vela ring galaxy, visible as a
+  bright core surrounded by a baby blue halo. This ring galaxy — located in the southern
+  constellation of Antlia (The Pump) — is notable due to its compact core and large
+  circular belt of gas and stars. It is thought that ring galaxies like this are created
+  when larger galaxies are punctured by a smaller galactic aggressor, which, passing
+  through the heart of its more sizeable victim, triggers a shock wave that spreads
+  outwards. This pushes gas to the galaxy’s periphery, where it begins to collapse
+  and form new stars. The Vela ring galaxy is unusual in that it actually exhibits
+  at least two rings, suggesting that the collision was not a recent one. This picture
+  also features a galaxy known as ESO 316-33, seen just above and to the left of the
+  Vela ring galaxy, and a bright star known as HD 88170.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1619a/L{1}X{2}Y{3}.png
+name: A cosmic hit and run
+ra_hr: 10.152013628301969
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1619a/thumb.jpg
+zoom_level: 2.0999819020373782
+---
+_uuid: 2f82facf-7a59-4bb1-90ff-596119bf14f3
+annotation: '{"channel": "eso", "itemid": "potw1746b", "publishedUTCISO8601": "2017-11-13T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 2.0639538948039315
+description: 'This image shows a  dense region of a galaxy group called COSMOS-Gr30,
+  6.5 billion light-years away from Earth. The observations were made using the NASA/ESA
+  Hubble Space Telescope. Links  Slider comparison of the galaxy group COSMOS-Gr30
+  seen with Hubble and MUSE COSMOS-Gr30 seen with MUSE '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1746b/L{1}X{2}Y{3}.png
+name: Galaxy group COSMOS-Gr30
+ra_hr: 10.009767822663296
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1746b/thumb.jpg
+zoom_level: 0.1339610201701632
+---
+_uuid: 427c9cc3-5027-4efb-ab0d-a340fccabce7
+annotation: '{"channel": "eso", "itemid": "potw1747a", "publishedUTCISO8601": "2017-11-20T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 10.667351079876477
+description: '  This Picture of the Week shows a huge cloud of gas around the distant
+  quasar SDSS J102009.99+104002.7, taken by the Multi Unit Spectroscopic Explorer
+  (MUSE) instrument on ESO’s Very Large Telescope (VLT) at the Paranal Observatory.
+  Quasars are the luminous centres of active galaxies, which are kept active by material
+  falling onto the central supermassive black hole. This quasar and its surrounding
+  cloud are at a redshift larger than 3, meaning that they are seen as they were only
+  about 2 billion years after the Big Bang. The cloud of gas (or nebula) surrounding
+  the quasar is known to astronomers as an Enormous Lyman-Alpha Nebula (ELAN). These
+  types of nebula are massive structures of gas which formed in the early Universe,
+  and they can help astronomers to learn how angular momentum — which explains the
+  observed rotation of more recent galaxies — was created in the Universe. Thanks
+  to the revolutionary MUSE instrument, it is now possible to observe these rare giant
+  nebulae in greater detail than ever before.  This particular ELAN has a diameter
+  of about a million light-years, and MUSE’s spectral imaging capabilities have allowed
+  astronomers to measure the signature of inspiraling motions within the nebula —
+  for the first time ever. Link  Science paper on arXiv '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1747a/L{1}X{2}Y{3}.png
+name: MUSE spies accreting giant structure around a quasar
+ra_hr: 10.335907209448683
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1747a/thumb.jpg
+zoom_level: 0.18531258012381985
+---
+_uuid: 19bf72ce-c222-41e8-a1c1-c794515f0023
+annotation: '{"channel": "eso", "itemid": "potw1831a", "publishedUTCISO8601": "2018-07-30T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -57.9247358067404
+description: This ESO Picture of the Week shows a crescent-shaped cocoon of gas and
+  dust  — a nebula known as NGC 3199, which lies 12 000 light-years away from Earth.
+  It appears to plough through the star-studded sky like a ship through stormy seas.
+  This imagery is very appropriate due to NGC 3199’s location in Carina — a  southern
+  constellation which is named after the keel of a ship! NGC 3199 was discovered by
+  British astronomer John Herschel in 1834 as he compiled his famous catalogue of
+  interesting night sky objects. The nebula has been the subject of numerous observations
+  since, including those by ESO’s 8.2-metre Very Large Telescope (eso0310, eso1117),
+  and 2.6-metre VLT Survey Telescope (VST). The latter made the observations that
+  comprise this image. The nebula’s bright crescent feature is now known to be part
+  of a much larger but fainter bubble of gas and dust. The nebula contains a notable
+  star named HD 89358, which is an unusual type of extremely hot and massive star
+  known as a Wolf-Rayet star. HD 89358 generates incredibly intense stellar winds
+  and outflows that smash into and sweep up the surrounding material, contributing
+  to NGC 3199’s twisted and lopsided morphology. The VST, which began operations in
+  2011, can image a large area of sky at once — an area twice the size of the full
+  Moon — with its 256-megapixel camera, OmegaCAM. This allows it to characterise interesting
+  objects which its larger neighbour, ESO’s Very Large Telescope, can then explore
+  in even greater detail.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1831a/L{1}X{2}Y{3}.png
+name: Stormy seas in Carina
+ra_hr: 10.3017810249452
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1831a/thumb.jpg
+zoom_level: 6.485442692689156
+---
+_uuid: 11938335-e4e0-462a-b9b1-9236c301a430
+annotation: '{"channel": "eso", "itemid": "potw1935a", "publishedUTCISO8601": "2019-09-02T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 11.703422777478854
+description: NGC 3351, also known as Messier 95, was first discovered in 1781 by Pierre
+  Méchain, a French astronomer and surveyor who worked alongside Charles Messier.
+  NGC 3351 is a type of galaxy known as a barred spiral galaxy and it is located in
+  the constellation of Leo (The Lion). New observations of this object have shown
+  stellar feedback in action. Stellar feedback is the process of redistributing energy
+  into the interstellar medium (the space in between the stars) within star-forming
+  galaxies. In this particular galaxy, star formation is occurring in the ring surrounding
+  the galaxy nucleus at such a violent rate that massive bubbles of hot gas can actually
+  be seen being ejected. This ejected gas can then contribute (both positively and
+  negatively) to ongoing star formation within the galaxy. The data for this observation
+  were taken with ALMA, the NASA/ESA Hubble Space Telescope and the Very Large Telescope,
+  showing once again that scientific collaboration across multiple facilities can
+  produce some wonderful results.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1935a/L{1}X{2}Y{3}.png
+name: Caught in the act
+ra_hr: 10.732726543930616
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1935a/thumb.jpg
+zoom_level: 0.1703356579418407
+---
+_uuid: d80dffbe-f627-4e91-9371-eee0da4924db
+annotation: '{"channel": "eso", "itemid": "potw2122a", "publishedUTCISO8601": "2021-05-31T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.20429121729512
+description: 'If you look closely at the faint and fuzzy centre of this picture, you
+  will find a ghostly galaxy — the not-so-spooky-sounding UDG4 — captured using ESO’s
+  VLT Survey Telescope (VST).  UDG stands for ultra-diffuse galaxy: objects as large
+  as the Milky Way but with 100 – 1000 times fewer stars. These galaxies are extremely
+  faint and lack star-forming gas, which makes them appear almost like a fluffy cosmic
+  cloud, or a smudge in space. Their origins remain uncertain, but astronomers speculate
+  that they could be “failed” galaxies that lost their gas supply early in their lifetimes. 
+  This image of UDG4 was taken as part of a study from a much larger program, the
+  VST Early-type Galaxy Survey (VEGAS), which aims to investigate very faint structures
+  in galaxy clusters — large groups of many galaxies bound together by gravity. The
+  study, led by Enrichetta Iodice from the Istituto Nazionale di Astrofisica in Italy,
+  has found several UDGs in the Hydra Cluster, but more observations are needed to
+  elucidate their true nature. Given their flimsy appearance, UDGs can be difficult
+  to spot. Nevertheless, the VST, equipped with its OmegaCAM camera, provides exquisite
+  sensitivity to light, allowing astronomers to study such elusive objects.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw2122a/L{1}X{2}Y{3}.png
+name: A failed galaxy
+ra_hr: 10.617394849044837
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw2122a/thumb.jpg
+zoom_level: 0.25152317227839555
+---
+_uuid: 4e0bbfc0-a135-4b1f-9132-ea34e395ece0
+annotation: '{"channel": "eso", "itemid": "potw2145a", "publishedUTCISO8601": "2021-11-08T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.69866412251349
+description: 'The image shows a pair of overlapping spiral galaxies, NGC 3314a and
+  b, in the top left, caught in a majestic cosmic dance — captured by ESO’s VLT Survey
+  Telescope (VST). But don’t let the perspective fool you! They are, in fact, not
+  interacting at all. The two galaxies, located between 117 and 140 million light-years
+  away in the constellation of Hydra, are actually physically unrelated and only appear
+  to overlap when viewed from Earth. This unique alignment gives astronomers the opportunity
+  to measure many properties of the galaxies, such as how dust absorbs starlight,
+  and hence gain insight into their composition and evolution. There is another hidden
+  secret in this picture if you look closely at the lower right region: beyond this
+  stunning cosmic dance you will find a faint yellowish smudge, the signature of an
+  ultra-diffuse galaxy (UDG). UDGs are objects as large as the Milky Way but with
+  100 – 1000 times fewer stars. These galaxies are extremely faint and lack star-forming
+  gas, which makes them appear almost like a smudge in the night sky. This UDG, named
+  UDG 32, is one of the faintest and most spread out galaxies in the Hydra I cluster.
+  This image was taken as part of a much larger project, the VST Early-type Galaxy
+  Survey (VEGAS), whose goal is to investigate very faint structures in galaxy clusters
+  — large groups of galaxies held together by gravity. The study, led by Enrichetta
+  Iodice from the Istituto Nazionale di Astrofisica in Italy, suggests that UDG 32
+  may have formed out of the filaments stemming from NGC 3314a, but more observations
+  are needed to confirm this.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw2145a/L{1}X{2}Y{3}.png
+name: Caught in a spiral
+ra_hr: 10.619141364248351
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw2145a/thumb.jpg
+zoom_level: 1.026528526630539
+---
 _uuid: 1127e71d-3bf0-42ef-b4bf-bba291613b1b
 angular_size: 0.8967552934737062
 annotation: '{"channel": "noirlab", "itemid": "gemini0901a", "publishedUTCISO8601":

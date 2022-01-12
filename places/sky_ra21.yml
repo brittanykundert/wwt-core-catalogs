@@ -1,3 +1,85 @@
+_uuid: 0aadb783-3c47-44a0-af37-dc692b08e3dc
+annotation: '{"channel": "eso", "itemid": "eso9842c", "publishedUTCISO8601": "1998-09-15T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.62019830901626
+description: The galaxy ESO 342-G017 was observed on August 19, 1998 during a spell
+  of excellent observing conditions. Two exposures, each lasting 120 seconds, were
+  taken through a red filtre to produce this photo. The quality of the original images
+  is excellent, with seeing (FWHM) of only 0.26 arcsec measured on the stars in the
+  frame.  ESO 342-G017 is an Sc-type spiral galaxy seen edge-on, and the Test Camera
+  was rotated so that the disc of the galaxy appears horizontal in the figure. Thanks
+  to the image quality, the photo shows much detail in the rather flat disc, including
+  a very thin, obscuring dust band and some brighter knots, most probably star-forming
+  regions.This image is reproduced from a composite of two 120-second exposures in
+  the red R-band (~600 nm) of the edge-on galaxy ESO342-G017, both with 0.26 arcsec
+  image quality. The frames were flat-fielded and cleaned for cosmics before combination.
+  The field shown measures 1.5 x 1.5 arcmin. North is inclined 38 o clockwise from
+  the top, East is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9842c/L{1}X{2}Y{3}.png
+name: Edge-on galaxy ESO 342-G017
+ra_hr: 21.202751803941943
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9842c/thumb.jpg
+zoom_level: 0.23640974887200003
+---
+_uuid: 67d7ab05-ebcc-4c73-8c31-8671f333dff2
+annotation: '{"channel": "eso", "itemid": "potw1242a", "publishedUTCISO8601": "2012-10-15T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -39.386232751638744
+description: IC 5148 is a beautiful planetary nebula located some 3000 light-years
+  away in the constellation of Grus (The Crane). The nebula has a diameter of a couple
+  of light-years, and it is still growing at over 50 kilometres per second — one of
+  the fastest expanding planetary nebulae known. The term “planetary nebula” arose
+  in the 19th century, when the first observations of such objects — through the small
+  telescopes available at the time — looked somewhat like giant planets. However,
+  the true nature of planetary nebulae is quite different. When a star with a mass
+  similar to or a few times more than that of our Sun approaches the end of its life,
+  its outer layers are thrown off into space. The expanding gas is illuminated by
+  the hot remaining core of the star at the centre, forming the planetary nebula,
+  which often takes on a beautiful, glowing shape.  When observed with a smaller amateur
+  telescope, this particular planetary nebula shows up as a ring of material, with
+  the star — which will cool to become a white dwarf — shining in the middle of the
+  central hole. This appearance led astronomers to nickname IC 5148 the Spare Tyre
+  Nebula. The ESO Faint Object Spectrograph and Camera (EFOSC2) on the New Technology
+  Telescope at La Silla gives a somewhat more elegant view of this object. Rather
+  than looking like a spare tyre, the nebula resembles ethereal blossom with layered
+  petals.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1242a/L{1}X{2}Y{3}.png
+name: From Cosmic Spare Tyre to Ethereal Blossom
+ra_hr: 21.992973072325682
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1242a/thumb.jpg
+zoom_level: 0.7100645176799998
+---
+_uuid: 66e9651d-3504-4bf3-ba5c-4093d98842e9
+annotation: '{"channel": "eso", "itemid": "potw1730a", "publishedUTCISO8601": "2017-07-24T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -75.11113082886247
+description: 'Approximately 95 million light-years away, in the southern constellation
+  of Octans (The Octant), lies NGC 7098 — an intriguing spiral galaxy with numerous
+  sets of double features. The first of NGC 7098’s double features is a duo of distinct
+  ring-like structures that loop around the galaxy’s hazy heart. These are NGC 7098’s
+  spiral arms, which have wound themselves around the galaxy’s luminous core. This
+  central region hosts a second double feature: a double bar. NGC 7098 has also developed
+  features known as ansae, visible as small, bright streaks at each end of the central
+  region. Ansae are visible areas of overdensity — they commonly take looping, linear,
+  or circular shapes, and can be found at the extremities of planetary ring systems,
+  in nebulous clouds, and, as is the case with NGC 7098, in parts of galaxies that
+  are packed to the brim with stars. This image is formed from data gathered by the
+  FOcal Reducer and low dispersion Spectrograph (FORS) instrument, installed on ESO’s
+  Very Large Telescope at Paranal Observatory. An array of distant galaxies are also
+  visible throughout the frame, the most prominent being the small, edge-on, spiral
+  galaxy visible to the left of NGC 7098, known as PGC 246235.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1730a/L{1}X{2}Y{3}.png
+name: Seeing double
+ra_hr: 21.73808172724971
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1730a/thumb.jpg
+zoom_level: 1.2625338860753075
+---
 _uuid: 3354008e-1913-4510-8cbf-4458254afea0
 angular_size: 0.111514486254816
 annotation: '{"channel": "noirlab", "itemid": "gemini-20061001-ngc7009-ao", "publishedUTCISO8601":

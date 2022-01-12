@@ -1,3 +1,256 @@
+_uuid: 66e5554c-1e50-4e98-8d12-df9a85a61883
+annotation: '{"channel": "eso", "itemid": "eso0533a", "publishedUTCISO8601": "2005-10-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -38.97755826268418
+description: First image in the visible (more precisely here, in the so-called R-band)
+  of a short gamma-ray burst. The image was taken with the Danish 1.5-m telescope
+  and the DFOSC camera at La Silla on 11 July 2005. It shows the gamma-ray burst to
+  be situated on the edge of a low-redshift galaxy.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0533a/L{1}X{2}Y{3}.png
+name: First visible light from GRB 050709
+ra_hr: 23.02415445504652
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0533a/thumb.jpg
+zoom_level: 0.335245459176
+---
+_uuid: e82a5c70-3533-499b-8b33-25be59677fa7
+annotation: '{"channel": "eso", "itemid": "eso2117b", "publishedUTCISO8601": "2021-11-30T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.292368640806142
+description: Close-up view of the two bright galactic nuclei, each housing a supermassive
+  black hole, in NGC 7727, a galaxy located 89 million light-years away from Earth
+  in the constellation Aquarius. Each nucleus consists of a dense group of stars with
+  a supermassive black hole at its centre. The two black holes are on a collision
+  course and form the closest pair of supermassive black holes found to date. It is
+  also the pair with the smallest separation between two supermassive black holes
+  — observed just 1600 light-years apart in the sky.   The image was taken with the
+  MUSE instrument on ESO’s Very Large Telescope (VLT) at the Paranal Observatory in
+  Chile.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2117b/L{1}X{2}Y{3}.png
+name: Close-up view of the nearest pair of supermassive black holes
+ra_hr: 23.664934263754215
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2117b/thumb.jpg
+zoom_level: 0.022912066944181797
+---
+_uuid: 27a0036f-2284-4fa6-b27d-5a73697af358
+annotation: '{"channel": "eso", "itemid": "eso2117d", "publishedUTCISO8601": "2021-11-30T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.28645042053519
+description: This image from the Digitized Sky Survey (DSS) shows the region of the
+  sky around NGC 7727, a galaxy located 89 million light-years away from Earth in
+  the constellation Aquarius. The galaxy is the bright spot in the centre.  NGC 7727
+  is home to the closest pair of supermassive black holes to Earth found to date.
+  It is also the pair with the smallest separation between two supermassive black
+  holes — observed to be just 1600 light-years apart in the sky.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2117d/L{1}X{2}Y{3}.png
+name: Wide-field view of the region of the sky hosting NGC 7727
+ra_hr: 23.665071028220495
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2117d/thumb.jpg
+zoom_level: 43.073876606998496
+---
+_uuid: 107a37db-000d-4051-8853-017b09b4ea61
+annotation: '{"channel": "eso", "itemid": "eso9720a", "publishedUTCISO8601": "1997-08-01T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.43382624958785
+description: This is a direct image of HE 2347-4342 at the centre of a 7.5 x 7.5 arcmin
+  2 sky field.  HE 2347-4342 was discovered in October 1995 by Lutz Wisotzki from
+  the University of Hamburg; the &#x27;HE&#x27; stands for Hamburg-ESO . The visual
+  magnitude is 16.1, i.e. `only&#x27; 10,000 times fainter than what can be seen with
+  the naked eye; this makes it one of the apparently brightest quasars in the sky
+  found so far. Still, it is quite distant - the measured redshift is z = 2.885. This
+  places it at a distance that implies a look-back time of more than 80% of the age
+  of the Universe. We thus observe it, as it was, just a few billion years after the
+  Big Bang.  Being so bright in the sky and yet so distant means that HE 2347-4342
+  must be one of the intrinsically brightest objects in the Universe. In fact, it
+  is no less than 10 15 times more luminous than the Sun, or 10,000 times brighter
+  than the entire Milky Way galaxy in which we live.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9720a/L{1}X{2}Y{3}.png
+name: The unusual quasar HE 2347-4342
+ra_hr: 23.842793186876406
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9720a/thumb.jpg
+zoom_level: 1.272322517544
+---
+_uuid: 5e7eb60e-900c-435f-94fe-3d265de3d720
+annotation: '{"channel": "eso", "itemid": "potw1710a", "publishedUTCISO8601": "2017-03-06T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 17.192522221666305
+description: 'Although it looks like the pattern of a shell on the beach, this intriguing
+  spiral is in fact astronomical in nature. The Atacama Large Millimeter/submillimeter
+  Array (ALMA) captured this remarkable image of a binary star system, where two stars
+  — LL Pegasi and its companion — are locked in a stellar waltz, orbiting around their
+  common centre of gravity. The old star LL Pegasi is continuously losing gaseous
+  material as it evolves into a planetary nebula, and the distinct spiral shape is
+  the imprint made by the stars orbiting in this gas. The spiral spans light-years
+  and winds around with extraordinary regularity. Based on the expansion rate of the
+  spiralling gas, astronomers estimate that a new “layer” appears every 800 years
+  — approximately the same time it takes for the two stars to complete one orbit around
+  each other. LL Pegasi was first highlighted about 10 years ago when the NASA/ESA
+  Hubble Space Telescope obtained a picture of the almost-perfect spiral structure.
+  This was the first time a spiral pattern had been found in material surrounding
+  an old star. Now, ALMA’s observations, of which this image only shows one “cross-section”,
+  have added an extra dimension to reveal the exquisitely-ordered 3D geometry of the
+  spiral pattern. A full view of the 3D video can be seen in this video. An additional
+  image shows a composition of the ALMA and Hubble data. Links:  ALMA and Hubble observe
+  LL Pegasi 3D view of LL Pegasi '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1710a/L{1}X{2}Y{3}.png
+name: Celestial spiral with a twist
+ra_hr: 23.320170448950844
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1710a/thumb.jpg
+zoom_level: 0.054690347870507
+---
+_uuid: 69225903-b625-48e1-ae64-2858cb3e050f
+annotation: '{"channel": "eso", "itemid": "potw1710b", "publishedUTCISO8601": "2017-03-06T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 17.192522221666305
+description: 'This image is a composite of images made with the NASA/ESA Hubble Space
+  Telescope and the Atacama Large Millimeter/submillimeter Array (ALMA), both observing
+  the binary star system LL Pegasi. The old star LL Pegasi is continuously losing
+  gaseous material as it evolves into a planetary nebula, and the distinct spiral
+  shape is the imprint made by the stars orbiting in this gas. The Hubble image can
+  be seen here, the ALMA image here. Links:  Celestial Spiral with a Twist 3D view
+  of LL Pegasi '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1710b/L{1}X{2}Y{3}.png
+name: ALMA and Hubble observe LL Pegasi
+ra_hr: 23.320170448950844
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1710b/thumb.jpg
+zoom_level: 0.05463549295789867
+---
+_uuid: 5b0857ba-b220-4ec5-b70d-c054af28d12f
+annotation: '{"channel": "eso", "itemid": "potw1752a", "publishedUTCISO8601": "2017-12-25T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -2.0741683641608413
+description: 'This image shows something spectacular: a massive galaxy cluster that
+  it is warping the space around it! The cluster, whose heart is at the centre of
+  the frame, is named RCS2 J2327, and is one of the most massive clusters known at
+  its distance or beyond. Massive objects such as RCS2 J2327 have such a strong influence
+  on their surroundings that they visibly warp the space around them. This effect
+  is known as gravitational lensing. In this way, they cause the light from more distant
+  objects to be bent, distorted, and magnified, allowing us to see galaxies that would
+  otherwise be far too distant to detect. Gravitational lensing is one of the predictions
+  of Einstein&#x27;s theory of general relativity. Strong lensing produces stunning
+  images of distorted galaxies and sweeping arcs; both of which can be seen in this
+  image. Weak gravitational lensing, on the other hand, is more subtle, hardly seen
+  directly in an image, and is mostly studied statistically — but it provides a way
+  to measure the masses of cosmic objects, as in the case of this cluster. This image
+  is a composite of observations from the HAWK-I instrument on ESO’s Very Large Telescope
+  and the NASA/ESA Hubble Space Telescope’s Advanced Camera for Surveys. It demonstrates
+  an impressively detailed collaborative approach to studying weak lensing in the
+  cosmos. The study found RCS2 J2327 to contain the mass of two quadrillion Suns!
+  The diffuse blue and white image covering the picture shows a mass map. It is connected
+  to the amount of mass thought to be contained within each region. Links:  Galaxy
+  Cluster RCS2 J2327 Comparison image: HAWK-I and Hubble Explore a Cluster with the
+  Mass of two Quadrillion Suns Paper by Schrabback et al. '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1752a/L{1}X{2}Y{3}.png
+name: HAWK-I and Hubble Explore a Cluster with the Mass of two Quadrillion Suns
+ra_hr: 23.457705618908957
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1752a/thumb.jpg
+zoom_level: 0.5688955238678524
+---
+_uuid: f6a6667b-3a1b-4f59-94ad-29bf5e2a9565
+annotation: '{"channel": "eso", "itemid": "potw1752b", "publishedUTCISO8601": "2017-12-25T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -2.0741683641608413
+description: 'This image shows the galaxy cluster RCS2 J2327. The mass of the cluster
+  causes both strong and weak gravitational lensing, which can be used to calculate
+  the mass of the cluster. This image is a composite of observations from the HAWK-I
+  instrument on ESO’s Very Large Telescope and the NASA/ESA Hubble Space Telescope’s
+  Advanced Camera for Surveys. It demonstrates an impressively detailed collaborative
+  approach to studying weak lensing in the cosmos. Links:  HAWK-I and Hubble Explore
+  a Cluster with the Mass of two Quadrillion Suns Comparison image: HAWK-I and Hubble
+  Explore a Cluster with the Mass of two Quadrillion Suns '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1752b/L{1}X{2}Y{3}.png
+name: Galaxy Cluster RCS2 J2327
+ra_hr: 23.457705618908957
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1752b/thumb.jpg
+zoom_level: 0.5688955238678524
+---
+_uuid: 7dd762ac-a92c-4116-85b3-c36d99ac1bde
+annotation: '{"channel": "eso", "itemid": "potw1850a", "publishedUTCISO8601": "2018-12-10T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -15.286549196364176
+description: This image reveals a dramatic binary star system named R Aquarii, located
+  700 light-years from Earth, as seen in 2012 by ESO’s Very Large Telescope (VLT).
+  R Aquarii is a so-called “symbiotic binary”, comprising two stars surrounded by
+  a large, dynamic cloud of gas (a nebula). Systems like this contain two stars in
+  an unequal and complex relationship. R Aquarii is made up of one hot white dwarf
+  and one red giant. The red giant is losing matter to its small companion and occasionally
+  ejecting matter in weird spurts, loops and trails, forming the intriguing shapes
+  seen here. There is a lot going on between the performers in this cosmic double
+  act. The red giant is a variable star, with a brightness that changes by a factor
+  of 750 every year and three weeks. The faint nebula is named Cederblad 211 and is
+  thought to be the result of a violent nova 250 years ago. Also visible is a narrow,
+  vertical, S-shaped feature, with blobs of superheated material moving outward at
+  tremendous speeds of 600 to 850 kilometres per second. R Aquarii was also imaged
+  15 years ago — and several times in the intervening period — to track its ongoing
+  activity. The system is very dynamic and complex, and has expanded and evolved significantly
+  in recent years (an image from 1997 can be seen here, and a comparison between the
+  two is available here).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1850a/L{1}X{2}Y{3}.png
+name: VLT view of binary system R Aquarii from 2012
+ra_hr: 23.730443842805908
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1850a/thumb.jpg
+zoom_level: 0.6334687102466474
+---
+_uuid: a0e77754-86de-4fcf-906d-24c40c9fe6f8
+annotation: '{"channel": "eso", "itemid": "potw1850b", "publishedUTCISO8601": "2018-12-10T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -15.286549224250987
+description: This image shows a chaotic and fascinating binary star system named R
+  Aquarii, as seen in 1997 by the Nordic Optical Telescope on the island of La Palma,
+  Spain. In the 15 years since this image was taken the system has been observed many
+  more times by other telescopes, including ESO’s Very Large Telescope, and has been
+  seen to be expanding and evolving in shape. An image from 2012 can be seen here.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1850b/L{1}X{2}Y{3}.png
+name: R Aquarii as seen in 1997
+ra_hr: 23.730442002250108
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1850b/thumb.jpg
+zoom_level: 0.6334687102466474
+---
+_uuid: a64da032-2fc0-43e9-9435-880289bcaa7c
+annotation: '{"channel": "eso", "itemid": "potw2148a", "publishedUTCISO8601": "2021-11-29T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.296168832989089
+description: Just as people at a busy crossroad may accidentally bump into each other,
+  so too can galaxies in the Universe! But in this case, the outcome is more dramatic
+  than a small nudge. When two galaxies clash, they merge into each other, giving
+  birth to a new, bigger one. One example is the NGC 7727 galaxy, shown in this image
+  from ESO’s VLT Survey Telescope (VST) in Chile. Located 89 million light-years away
+  from Earth in the constellation Aquarius, NGC 7727 is believed to be the result
+  of a clash between two galaxies that occurred about one billion years ago. The consequences
+  of this tremendous cosmic bump are still evident in the peculiar, irregular shape
+  of NGC 7727 and the streams of stars in its outer regions.  The image was taken
+  in visible light as part of the VST-ATLAS survey. The goal of the survey is to map
+  a vast region of the Southern Sky — so large you could fit about 19,000 full moons
+  in it! By studying the galaxies in this region, astronomers aim to shed new light
+  on the nature of dark energy, the mysterious force permeating the Universe and causing
+  its accelerating expansion.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw2148a/L{1}X{2}Y{3}.png
+name: Bumps in the heavens
+ra_hr: 23.665108374351597
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw2148a/thumb.jpg
+zoom_level: 2.0055865880527444
+---
 _uuid: 2249ceee-c3c7-4fd7-8fb1-36a63a8d2917
 angular_size: 0.8639437603248039
 annotation: '{"channel": "noirlab", "itemid": "gemini-20080825-gemini-deepf-quasar-0001",

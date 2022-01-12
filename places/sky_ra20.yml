@@ -1,3 +1,91 @@
+_uuid: 6676ee55-8de0-4753-8255-afcb1c5c6de5
+annotation: '{"channel": "eso", "itemid": "eso9924b", "publishedUTCISO8601": "1999-04-30T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -70.76437626815621
+description: Three-colour composite reproduced from one blue (B), one green-yellow
+  (V) and one red (R) exposure, obtained with FORS1 at ANTU in the morning of March
+  29, 1999. The field size is again 6.8x6.8 arcmin 2 . It shows the spectacular barred
+  spiral galaxy NGC 6872 that is shaped like an &quot;integral sign&quot;. It is of
+  type SBb and is accompanied by a smaller, interacting galaxy, IC 4970 of type S0
+  (just above the centre). The bright object to the lower right of the galaxies is
+  a star in the Milky Way whose image has been strongly overexposed and exhibits multiple
+  optical reflections in the telescope and instrument. There are also many other,
+  fainter and more distant galaxies of many different forms in the field. They are
+  particularly well visible on the &quot;Normal&quot; and &quot;Full Resolution&quot;
+  versions of the photo. The upper left spiral arm of NGC 6872 is significantly disturbed
+  and is populated by a plethora of blueish objects, many of which are star-forming
+  regions. This may have been be caused by a recent passage of IC 4970 through it.
+  This interesting system is located in the southern constellation Pavo (The Peacock).
+  It is comparatively distant, almost 300 million light-years away. It extends over
+  more than 7 arcmin in the sky and its real size from tip to tip is thus nearly 750,000
+  light-years. It is in fact one of the largest known, barred spiral galaxies. In
+  order to image all of this extraordinary object within the available field of the
+  FORS1 camera, the instrument was rotated so that the galaxy extends along the diagonal.
+  For this reason, the orientation is such that North is to the upper right and East
+  is to the upper left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9924b/L{1}X{2}Y{3}.png
+name: Giant interacting galaxies NGC 6872/IC 4970
+ra_hr: 20.282178932753443
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9924b/thumb.jpg
+zoom_level: 1.161335112312
+---
+_uuid: 0fcdde2b-b989-409d-a1b5-5eb51a39ee5d
+annotation: '{"channel": "eso", "itemid": "potw1908a", "publishedUTCISO8601": "2019-02-25T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.65094801067969
+description: 'This Picture of the Week is a special treat: a first-light image from
+  the newest resident of ESO’s Paranal Observatory, the SPECULOOS Southern Observatory.
+  This planet-hunting machine aims to observe nearby but dim stars to locate exoplanets
+  for other telescopes — such as ESO’s forthcoming Extremely Large Telescope (ELT)
+  — to study in detail. Comprising four one-metre telescopes, each named after one
+  of Jupiter’s Galilean moons,  SPECULOOS promises to open up new frontiers in exoplanet
+  research. This image, however, is obviously not of a faint star, but of a galaxy
+  called NGC 6902. Before a telescope starts its primary mission it must successfully
+  undertake an event called “first light”: the first time it is used for a scientific
+  observation. Astronomers typically pick well-known objects for this initial test
+  of a telescope’s capabilities, which is half demonstration and half celebration.
+  In this case, the team settled on NGC 6902 as the first-light target for the Ganymede
+  telescope. The result was this stunning image of the spiral galaxy, which is found
+  about 120 million light-years from Earth in the constellation of Sagittarius (The
+  Archer). The galaxy’s spiral arms swirl outwards from a bright centre until they
+  dissolve into streams of blue haze at the galaxy’s edge. If this is what Ganymede
+  can produce as its first observation of something it wasn’t even designed to image,
+  we have a lot to look forward to. Watch this space!'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1908a/L{1}X{2}Y{3}.png
+name: NGC 6902 Caught by SPECULOOS
+ra_hr: 20.40791503651586
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1908a/thumb.jpg
+zoom_level: 1.8082937388111797
+---
+_uuid: 66d61ab9-c19a-4dc5-861c-dd5d5ac6ae2f
+annotation: '{"channel": "eso", "itemid": "potw2106a", "publishedUTCISO8601": "2021-02-08T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.65365340049613
+description: Discovered in the year 1836 by John Herschel, NGC 6902 is a beautiful
+  spiral galaxy located more than 130 million light-years away in the constellation
+  of Sagittarius, the Archer. This image was taken with MUSE, the Multi Unit Spectroscopic
+  Explorer instrument attached to one of the four 8.2-metre telescopes that make up
+  the VLT, and shows the galaxy from a unique perspective. A zoom in towards the galaxy’s
+  centre, the image shows a nuclear ring where the orange glow of intense star formation
+  is visible.  Inside this ring lies a faint and small bar of stars. Researchers found
+  that stars within it are distributed differently depending on their age, with younger
+  stars aligned along the bar and older stars more dispersed. These locations of the
+  young and old stars within the central bar of NGC 6902 confirm predictions made
+  years earlier from simulations and models. This is the first time these predictions
+  of galactic structure were confirmed with observations thanks to the incredible
+  spatial resolution of the MUSE instrument.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw2106a/L{1}X{2}Y{3}.png
+name: Zooming in on Star Formation
+ra_hr: 20.40782311326575
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw2106a/thumb.jpg
+zoom_level: 0.18470440829420628
+---
 _uuid: 3f56fb4b-85c3-4e44-8b2f-bf92fbce6570
 annotation: '{"channel": "noirlab", "itemid": "gemini0101a", "publishedUTCISO8601":
   "2001-07-23T20:00:00+00:00"}'

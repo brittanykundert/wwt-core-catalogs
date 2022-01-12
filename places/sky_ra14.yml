@@ -1,3 +1,355 @@
+_uuid: 49fdf6ac-0e9a-4fcb-aa08-024aeea0f8cb
+annotation: '{"channel": "eso", "itemid": "eso0716a", "publishedUTCISO8601": "2007-03-27T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.38885771578359213
+description: This image is a colour-composite of the barred spiral galaxy NGC 5584.
+  It is based on data collected by the Paranal Science Team with the FORS1 instrument
+  on Kueyen, the second 8.2-m Unit Telescope of ESO&#x27;s Very Large Telescope. The
+  supernova SN 2007af is the bright object seen slightly below and to the right of
+  the galaxy&#x27;s centre. The galaxy and its bright supernova were observed on the
+  nights of 16, 19 and 22 March 2007 through a B, V, R, H-alpha and OII filter. The
+  total exposure time is about 28 minutes. The observers are Susana Randall, Claudio
+  Melo and Swetlana Hubrig, and the day astronomer was Dominique Naef (all ESO). Henri
+  Boffin (ESO) processed the data and made the colour-composite, and Haennes Heyer
+  (ESO) made the final adjustments.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0716a/L{1}X{2}Y{3}.png
+name: The spiral galaxy NGC 5584 and SN 2007af
+ra_hr: 14.373042002987502
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0716a/thumb.jpg
+zoom_level: 1.0604965080779998
+---
+_uuid: 3216801d-4e45-4413-8f41-35802d5191f9
+annotation: '{"channel": "eso", "itemid": "eso0832a", "publishedUTCISO8601": "2008-09-25T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -65.33970471363428
+description: This composite image shows the central regions of the nearby Circinus
+  galaxy, located about 12 million light years away. Data from NASA&#x27;s Chandra
+  X-ray Observatory is shown in blue and data from the NASA/ESA Hubble Space telescope
+  is shown in yellow (&quot;I-band&quot;), red (hydrogen emission), cyan (&quot;V-band&quot;)
+  and light blue (oxygen emission). The blue source near the lower right hand corner
+  of the image is the supernova SN 1996cr, that has finally been identified over a
+  decade after it exploded. The supernova was first singled out in 2001 as a bright,
+  variable object in a Chandra image, but it was not confirmed as a supernova until
+  years later, when clues from a spectrum obtained with ESO&#x27;s Very Large Telescope
+  led the team to start the real detective work of searching through data from 18
+  different telescopes, both ground- and space-based, nearly all of which was in the
+  archives. SN 1996cr is one of the nearest supernovae in the last 25 years.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0832a/L{1}X{2}Y{3}.png
+name: SN 1996cr in Circinus galaxy
+ra_hr: 14.219271166107717
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0832a/thumb.jpg
+zoom_level: 0.10208648900210149
+---
+_uuid: 31d426fb-9177-4d39-8694-58d40cf027da
+annotation: '{"channel": "eso", "itemid": "eso0832b", "publishedUTCISO8601": "2008-09-25T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -65.34011913609275
+description: Colour image of the Circinus Galaxy based on ESO SuSI New Technology
+  Telescope data obtained in April 1993, that is, about three years before the supernova
+  exploded. The observations were made through different narrow-band filters (ionised
+  hydrogen, ionised oxygen, and ionised iron).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0832b/L{1}X{2}Y{3}.png
+name: The Circinus galaxy
+ra_hr: 14.219422732434841
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0832b/thumb.jpg
+zoom_level: 0.263990773909402
+---
+_uuid: 077cb69e-9158-4e66-87e7-692445efe8c8
+annotation: '{"channel": "eso", "itemid": "eso0911a", "publishedUTCISO8601": "2009-03-16T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -10.171280764029426
+description: This colour composite image of Arp 261 was created from images obtained
+  using the FORS2 instrument on the ESO Very Large Telescope (VLT), at the Paranal
+  Observatory in Chile. Located 2,600 m above sea level, in the mountains of the Atacama
+  Desert, the Paranal Observatory enjoys some of the clearest and darkest skies on
+  the whole planet. This image was created from images through blue, green, red and
+  infrared filters and the total exposure time was 45 minutes.  Further information
+  can be found on eso0911.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0911a/L{1}X{2}Y{3}.png
+name: A curious pair of galaxies
+ra_hr: 14.825006100610473
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0911a/thumb.jpg
+zoom_level: 1.1573757578321469
+---
+_uuid: be02cdfa-ab5b-4f07-be91-f3db95802181
+annotation: '{"channel": "eso", "itemid": "eso0911b", "publishedUTCISO8601": "2010-07-26T15:37:01+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -10.15167086204985
+description: This image is a colour composite made from exposures from the Digitized
+  Sky Survey 2 (DSS2). The field of view is approximatelly 2.7 x 2.8 degrees.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0911b/L{1}X{2}Y{3}.png
+name: Digitized Sky Survey image of ARP 261
+ra_hr: 14.82565586522853
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0911b/thumb.jpg
+zoom_level: 28.441683215039994
+---
+_uuid: 25123e68-b6b5-4b07-a82b-23b24ec30661
+annotation: '{"channel": "eso", "itemid": "eso0923a", "publishedUTCISO8601": "2009-06-25T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -62.300233871590386
+description: Image of part of a stellar remnant whose explosion was recorded in 185
+  AD. By studying this remnant in detail, a team of astronomers was able to solve
+  the mystery of the Milky Way’s super-efficient particle accelerators. The team shows
+  that the shock wave visible in this area is very efficient at accelerating particles
+  and the energy used in this process matches the number of cosmic rays observed on
+  Earth. North is toward the top right and east to the top left. The image is about
+  6 arc minutes across.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0923a/L{1}X{2}Y{3}.png
+name: The rim of RCW 86
+ra_hr: 14.752062327706714
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0923a/thumb.jpg
+zoom_level: 0.6779613133860001
+---
+_uuid: f9b4e126-b9d3-4bb4-a489-42d4d9eda790
+annotation: '{"channel": "eso", "itemid": "eso0923b", "publishedUTCISO8601": "2009-06-25T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -62.47970967641787
+description: This wide-field image contains the area where a team of researchers confirmed
+  that cosmic rays from our galaxy are very efficiently accelerated in the remnants
+  of exploded stars. The red line guides the eye to various regions where the remnants
+  of the stellar explosion are most visible. The boxed area contains an insert of
+  data from the VLT and Chandra. This region, named RCW 86, is centered on the position
+  where a star exploded in 185 AD. The field of view is 4 degrees across with north
+  to the top and east to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0923b/L{1}X{2}Y{3}.png
+name: DSS + insert, annotated
+ra_hr: 14.713569233484195
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0923b/thumb.jpg
+zoom_level: 18.94840529676
+---
+_uuid: 820bff4f-d4db-4b20-a37f-3a4677a89dab
+annotation: '{"channel": "eso", "itemid": "eso0923c", "publishedUTCISO8601": "2009-06-25T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -62.64970237299539
+description: A wide-field image of the area of the sky where the mystery of the Milky
+  Way’s super-efficient particle accelerators was solved by studying the ancient RCW
+  86 supernova remnant.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0923c/L{1}X{2}Y{3}.png
+name: DSS image
+ra_hr: 14.674663536840315
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0923c/thumb.jpg
+zoom_level: 45.329741406552
+---
+_uuid: a331428d-7a96-42af-8ff9-ee34c36d105f
+annotation: '{"channel": "eso", "itemid": "eso2111b", "publishedUTCISO8601": "2021-07-22T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -41.39805634786264
+description: This image, taken with the Atacama Large Millimeter/submillimeter Array
+  (ALMA), in which ESO is a partner, shows the PDS 70 system, located nearly 400 light-years
+  away and still in the process of being formed. The system features a star at its
+  centre and at least two planets orbiting it, PDS 70b (not visible in the image)
+  and PDS 70c, surrounded by a circumplanetary disc (the dot to the right of the star).
+  The planets have carved a cavity in the circumstellar disc (the ring-like structure
+  that dominates the image) as they gobbled up material from the disc itself, growing
+  in size. It was during this process that PDS 70c acquired its own circumplanetary
+  disc, which contributes to the growth of the planet and where moons can form.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2111b/L{1}X{2}Y{3}.png
+name: The PDS 70 system as seen with ALMA
+ra_hr: 14.136139402483876
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2111b/thumb.jpg
+zoom_level: 0.007773449703598704
+---
+_uuid: 02734cd0-5e65-48ea-b43e-35732224de89
+annotation: '{"channel": "eso", "itemid": "eso2111c", "publishedUTCISO8601": "2021-07-22T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -41.39803946430931
+description: This image, taken with the Atacama Large Millimeter/submillimeter Array
+  (ALMA), in which ESO is a partner, shows a close-up view on the moon-forming disc
+  surrounding PDS 70c, a young Jupiter-like gas giant nearly 400 light-years away.
+  It shows this planet and its disc centre-front, with the larger circumstellar ring-like
+  disc taking up most of the right-hand side of the image. The dusty circumplanetary disc
+  is as large as the Sun-Earth distance and has enough mass to form up to three satellites
+  the size of the Moon.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2111c/L{1}X{2}Y{3}.png
+name: Moon-forming disc around the PDS 70c exoplanet as seen with ALMA
+ra_hr: 14.136135377126179
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2111c/thumb.jpg
+zoom_level: 0.000978305648900328
+---
+_uuid: 93c41ef7-aec7-4659-a8f7-3d751286e243
+annotation: '{"channel": "eso", "itemid": "eso2118a", "publishedUTCISO8601": "2021-12-08T17:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.79378768877006
+description: This image shows the most massive planet-hosting star pair to date, b
+  Centauri, and its giant planet b Centauri b. This is the first time astronomers
+  have directly observed a planet orbiting a star pair this massive and hot.  The
+  star pair, which has a total mass of at least six times that of the Sun, is the
+  bright object in the top left corner of the image, the bright and dark rings around
+  it being optical artefacts. The planet, visible as a bright dot in the lower right
+  of the frame, is ten times as massive as Jupiter and orbits the pair at 100 times
+  the distance Jupiter orbits the Sun. The other bright dot in the image (top right)
+  is a background star. By taking different images at different times, astronomers
+  were able to distinguish the planet from the background stars.  The image was captured
+  by the SPHERE instrument on ESO’s Very Large Telescope and using a coronagraph,
+  which blocked the light from the massive star system and allowed astronomers to
+  detect the faint planet.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2118a/L{1}X{2}Y{3}.png
+name: Image of the most massive planet-hosting star pair observed to date
+ra_hr: 14.699270738497505
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2118a/thumb.jpg
+zoom_level: 0.02218437911292156
+---
+_uuid: f495f43c-d02f-4db8-bd0b-6058d5db2f5d
+annotation: '{"channel": "eso", "itemid": "eso9827a", "publishedUTCISO8601": "1998-06-23T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -44.14827482005421
+description: IC 4406  is a planetary nebula with an unusual, almost &quot;rectangular&quot;
+  shape. It is located in the southern constellation Lupus (the Wolf). The distance
+  is somewhat uncertain, possibly around 5,000 light-years.  Like the Butterfly Nebula
+  (cf. VLT UT1 First Light Photo No. 4), IC 4406 belongs to the class of bipolar nebulae.
+  However, the dark and dusty central band (the &quot;disc-like structure&quot;) is
+  less pronounced in this object and the internal structure is more uniform. The different
+  colours correspond to regions of different composition and physical properties.
+  This is a combination of two 5-min B (blue) exposures (seeing 0.95 arcsec), two
+  5-min V (green-yellow) exposures (0.90 arcsec), and one 5-min and two 2-min R (red)
+  exposures (0.70 to 0.90 arcsec) with the VLT Test Camera. Individual frames were
+  flat-fielded and cleaned for cosmics before colour combination; there was no further
+  image processing. The field measures 1.5 x 1.5 arcmin. North is to the upper right;
+  East is to the upper left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9827a/L{1}X{2}Y{3}.png
+name: The VLT images a "rectangular" planetary nebula
+ra_hr: 14.373862262459731
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9827a/thumb.jpg
+zoom_level: 0.25645295736
+---
+_uuid: be2834e9-5485-483d-8271-5efb0b89bc27
+annotation: '{"channel": "eso", "itemid": "potw1035a", "publishedUTCISO8601": "2010-08-30T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -6.045960399478674
+description: 'NGC 5426 and NGC 5427 are two spiral galaxies of similar sizes engaged
+  in a dramatic dance. It is not certain that this interaction will end in a collision
+  and ultimately a merging of the two galaxies, although the galaxies have already
+  been affected. Together known as Arp 271, this dance will last for tens of millions
+  of years, creating new stars as a result of the mutual gravitational attraction
+  between the galaxies, a pull seen in the bridge of stars already connecting the
+  two. Located 90 million light-years away towards the constellation of Virgo (the
+  Virgin), the Arp 271 pair is about 130 000 light-years across. It was originally
+  discovered in 1785 by William Herschel. Quite possibly, our own Milky Way will undergo
+  a similar collision in about five billion years with the neighbouring Andromeda
+  galaxy, which is now located about 2.6 million light-years away from the Milky Way.
+  This image was taken with the EFOSC instrument, attached to the 3.58-metre New Technology
+  Telescope at ESO&#x27;s La Silla Observatory in Chile. The data were acquired through
+  three different filters (B, V, and R) for a total exposure time of 4440 seconds.
+  The field of view is about 4 arcminutes.      '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1035a/L{1}X{2}Y{3}.png
+name: Arp 271 — galaxies drawn together*
+ra_hr: 14.057096419882969
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1035a/thumb.jpg
+zoom_level: 0.6690096216593753
+---
+_uuid: 2a1c66dc-0eb6-4c0c-a00c-c23fc8917182
+annotation: '{"channel": "eso", "itemid": "potw1821a", "publishedUTCISO8601": "2018-05-21T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -6.050493403005409
+description: 'Two spiral galaxies are locked in a spellbinding, swirling dance in
+  this image from the VIMOS instrument on ESO’s Very Large Telescope (VLT). The two
+  interacting galaxies — NGC 5426 and NGC 5427 — together form an intriguing astronomical
+  object named Arp 271, the subject of this, the final image captured by VIMOS before
+  it was decommissioned on 24 March 2018. VIMOS — or, in full, the VIsible Multi-Object
+  Spectrograph — was active on the VLT for an impressive 16 years. During that time
+  it helped scientists to uncover the wild early lives of massive galaxies, observe
+  awe-inspiring triple-galaxy interactions, and explore deep cosmic questions such
+  as how the Universe’s most massive galaxies grew so large. Instead of focusing on
+  single objects, VIMOS was able to capture detailed information about hundreds of
+  galaxies at once. This sensitive instrument collected the spectra of tens of thousands
+  of galaxies throughout the Universe, showing how they formed, grew, and evolved.
+  Arp 271 is framed against a backdrop of distant galaxies in this view, and wisps
+  of bluish gas, dust and young stars can be seen bridging the gap between the two
+  galaxies — a result of their mutual gravitational interaction. Like many astronomical
+  observations, this image looks back in time. Thanks to the vast gulf of space separating
+  the Earth and Arp 271, this image shows how the galaxies looked over 110 million
+  years ago: the amount of time it has taken their light to reach us. This kind of
+  collision and merger is also thought to be the eventual fate of the Milky Way, which
+  scientists believe will undergo a similar interaction with our neighbouring galaxy
+  Andromeda.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1821a/L{1}X{2}Y{3}.png
+name: VIMOS’s last embrace
+ra_hr: 14.057107894170514
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1821a/thumb.jpg
+zoom_level: 1.083639509326351
+---
+_uuid: 22e0fe6c-ddd0-448b-a0ca-bf76fe1beeda
+annotation: '{"channel": "eso", "itemid": "potw1822a", "publishedUTCISO8601": "2018-05-28T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -44.17444600178692
+description: 'This ESO Picture of the Week shows the centre of a galaxy named NGC
+  5643. This galaxy is located 55 million light-years from Earth in the constellation
+  of Lupus (The Wolf), and is known as a Seyfert galaxy. Seyfert galaxies have very
+  luminous centres — thought to be powered by material being accreted onto a supermassive
+  black hole lurking within — that can also be shrouded and obscured by clouds of
+  dust and intergalactic material. As a result, it can be difficult to observe the
+  active centre of a Seyfert galaxy. NGC 5643 poses a further challenge; it is viewed
+  at a high inclination, making it even trickier to view its inner workings. However,
+  scientists have used the Atacama Large Millimeter/submillimeter Array (ALMA) together
+  with archival data from the Multi Unit Spectroscopic Explorer (MUSE) instrument
+  on ESO’s Very Large Telescope to reveal this view of NGC 5643 — complete with energetic
+  outflowing ionised gas pouring out into space. These impressive outflows stretch
+  out on either side of the galaxy, and are caused by matter being ejected from the
+  accretion disc of the supermassive black hole at NGC 5643’s core. Combined, the
+  ALMA and VLT data show the galaxy’s central region to have two distinct components:
+  a spiraling, rotating disc (visible in red) consisting of cold molecular gas traced
+  by carbon monoxide, and the outflowing gas, traced by ionised oxygen and hydrogen
+  (in blue-orange hues) perpendicular to the inner nuclear disc.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1822a/L{1}X{2}Y{3}.png
+name: Hidden from view
+ra_hr: 14.544610403589605
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1822a/thumb.jpg
+zoom_level: 0.06973068898738537
+---
+_uuid: d36e4025-d984-43ff-9c7f-cf7e3fc79d2a
+annotation: '{"channel": "eso", "itemid": "potw2020a", "publishedUTCISO8601": "2020-05-18T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -6.0604744650636615
+description: 'This image shows a pair of interacting galaxies known as Arp 271. Individually,
+  these galaxies are named NGC 5426 and NGC 5427; both are spirals, and both are roughly
+  the same size. Some astronomers believe that these galaxies are in the process of
+  merging to form a single entity. This interaction will create increasing numbers
+  of new stars over the next few million years, some of which can be seen within the
+  “bridge” of gas connecting the two galaxies. This kind of collision and interaction
+  might also happen to our own galaxy, the Milky Way, which is likely to collide with
+  the neighbouring Andromeda Galaxy in about five billion years time. These galaxies
+  lie over 120 million light years away from us, and were discovered by the German-British
+  astronomer William Herschel in 1785. Herschel was a prolific scientist, also discovering
+  both infrared radiation and the planet Uranus. Link: Previous release of the same
+  galaxy pair: http://www.eso.org/public/images/potw1035a/'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw2020a/L{1}X{2}Y{3}.png
+name: A Galactic Ballet
+ra_hr: 14.05689565175166
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw2020a/thumb.jpg
+zoom_level: 1.0277382412331293
+---
 _uuid: 5f19bb91-bb13-49bc-825d-e027d188dda4
 angular_size: 0.7965477618509601
 annotation: '{"channel": "noirlab", "itemid": "gemini0805a", "publishedUTCISO8601":

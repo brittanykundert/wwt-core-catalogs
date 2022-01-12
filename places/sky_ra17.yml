@@ -7,6 +7,992 @@ foreground_image_set_url: http://cdn.worldwidetelescope.org/wwtweb/g360.aspx?q={
 name: GLIMPSE 360
 ra_hr: 17.75
 ---
+_uuid: 9d01623c-135c-426f-8f20-82dbeace58c0
+annotation: '{"channel": "eso", "itemid": "ann21010a", "publishedUTCISO8601": "2021-07-06T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.77492361544291
+description: This image of the star-forming region NGC 6334, also known as the Cat’s
+  Paw Nebula, is one of the first-light images taken by the CONCERTO instrument on
+  the APEX telescope, operated by ESO. The new observations, shown in white and pink
+  tones, have been superimposed to an image of the same region taken in near-infrared
+  light by ESO’s VISTA telescope at Paranal. CONCERTO is able to scan the sky at frequencies
+  between infrared and radio waves and has been designed to look at radiation emitted
+  by ionised carbon atoms, one of the most valuable tracers of star formation in the
+  early cosmic ages.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/ann21010a/L{1}X{2}Y{3}.png
+name: CONCERTO show starts with new view of the Cat’s Paw Nebula
+ra_hr: 17.347424846136978
+thumbnail: http://data1.wwtassets.org/feeds/eso/ann21010a/thumb.jpg
+zoom_level: 4.198355109212939
+---
+_uuid: 973f6910-225d-4c25-b8d7-f2fd195cb592
+annotation: '{"channel": "eso", "itemid": "ann21010c", "publishedUTCISO8601": "2021-07-06T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.77580197704966
+description: This image of the star-forming region NGC 6334, also known as the Cat’s
+  Paw Nebula, is one of the first-light images taken by the CONCERTO instrument on
+  the APEX telescope, operated by ESO. The total integration time is 16 minutes. CONCERTO
+  is able to scan the sky at frequencies between infrared and radio waves and has
+  been designed to look at radiation emitted by ionised carbon atoms, one of the most
+  valuable tracers of star formation in the early cosmic ages.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/ann21010c/L{1}X{2}Y{3}.png
+name: The Cat’s Paw Nebula as seen by CONCERTO
+ra_hr: 17.34762880704222
+thumbnail: http://data1.wwtassets.org/feeds/eso/ann21010c/thumb.jpg
+zoom_level: 3.7641752301136897
+---
+_uuid: 2368b877-1439-4300-a555-7dc52f091263
+annotation: '{"channel": "eso", "itemid": "eso0102a", "publishedUTCISO8601": "2001-01-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -23.832719353896582
+description: This image shows a colour composite of visible and near-infrared images
+  of the dark cloud Barnard 68. It was obtained with the 8.2-m VLT ANTU telescope
+  and the multimode FORS1 instrument in March 1999. At these wavelengths, the small
+  cloud is completely opaque because of the obscuring effect of dust particles in
+  its interior. 
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0102a/L{1}X{2}Y{3}.png
+name: How to become a star
+ra_hr: 17.377616161486444
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0102a/thumb.jpg
+zoom_level: 1.161895411572
+---
+_uuid: 4e51fc79-634f-4278-9bf4-a052ef9443fc
+annotation: '{"channel": "eso", "itemid": "eso0102b", "publishedUTCISO8601": "2001-01-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -23.83163425985046
+description: This view of the dark cloud B68, a so-called Bok globule,  is a false-colour
+  composite based on a visible (here rendered as blue), a near-infrared (green) and
+  an infrared (red) image. Since the light from stars behind the cloud is only visible
+  at the longest (infrared) wavelengths, they appear red.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0102b/L{1}X{2}Y{3}.png
+name: Bok globule B68
+ra_hr: 17.377584212964514
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0102b/thumb.jpg
+zoom_level: 0.8206954884
+---
+_uuid: 0a139d2e-cf11-492d-8cdb-5d16b1422e43
+annotation: '{"channel": "eso", "itemid": "eso0226a", "publishedUTCISO8601": "2002-10-16T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.007484794832404
+description: The centre of our Milky Way galaxy is located in the southern constellation
+  Sagittarius (The Archer) and is &quot;only&quot; 26,000 light-years away. On high-resolution
+  images, it is possible to discern thousands of individual stars within the central,
+  one light-year wide region. Using the motions of these stars to probe the gravitational
+  field, observations over the last decade have shown that a mass of about 3 million
+  times that of the Sun is concentrated within a radius of only 10 light-days of the
+  compact radio and X-ray source SgrA* (Sagittarius A) at the centre of the star cluster. This
+  means that SgrA* is the most likely counterpart of the black hole believed to exist
+  at the centre of our Galaxy. This image was obtained in mid-2002 with the NACO instrument
+  at the 8.2-m VLT Yepun telescope. It combines frames in three infrared wavebands
+  between 1.6 and 3.5 µm. The compact objects are stars and their colours indicate
+  their temperature (blue =&quot;hot&quot;, red =&quot;cool&quot;). There is also
+  diffuse infrared emission from interstellar dust between the stars. A newer image
+  of that region has been published in 2008; see image eso0846a.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0226a/L{1}X{2}Y{3}.png
+name: The centre of the Milky Way
+ra_hr: 17.761120825467177
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0226a/thumb.jpg
+zoom_level: 0.04676811298481935
+---
+_uuid: ec2a56c5-1a46-4a55-b5cf-48d5a8c32908
+annotation: '{"channel": "eso", "itemid": "eso0311a", "publishedUTCISO8601": "2003-04-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -30.223649497666287
+description: This photograph shows the 16.5-mag star OGLE-TR-3, a solar-like star
+  in the direction of the Galactic Center, discovered during an extensive photometric
+  search for planetary and low-luminosity object transits. The image is reproduced
+  from an I-band CCD frame of a 1 x 1 arcmin 2 sky field. North is up and East is
+  left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0311a/L{1}X{2}Y{3}.png
+name: The Galactic Star OGLE-TR-3
+ra_hr: 17.863611955912017
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0311a/thumb.jpg
+zoom_level: 0.1695402894
+---
+_uuid: 1bae42c9-1f17-4ff8-9a76-5919a7d86da6
+annotation: '{"channel": "eso", "itemid": "eso0313h", "publishedUTCISO8601": "2003-05-13T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.007773274402656
+description: K-band image of the central 6 x 13 square arcsec around the Galactic
+  Centre obtained by MACAO-VLTI under average atmospheric conditions (0.8 arcsec seeing)
+  with an exposure time of 90 seconds. Although the 14.6 magnitude guide star is located
+  roughly 20 arcsec from the field centre - this leading to isoplanatic degradation
+  of image sharpness - the present image is nearly diffraction limited and has a point-source
+  FWHM of about 0.115 arcsec.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0313h/L{1}X{2}Y{3}.png
+name: K-band image of the Galactic Centre
+ra_hr: 17.761141673948604
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0313h/thumb.jpg
+zoom_level: 0.018345870741513344
+---
+_uuid: 1e6f50d1-52e1-492e-b43e-3ee67173b666
+annotation: '{"channel": "eso", "itemid": "eso0425a", "publishedUTCISO8601": "2004-08-17T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -53.67395414525847
+description: The globular cluster NGC 6397, located at a distance of approx. 7,200
+  light-years in the southern constellation Ara. It has undergone a &quot;core collapse&quot;
+  and the central area is very dense. It contains about 400,000 stars and its age
+  (based on evolutionary models) is 13,400 ± 800 million years. The photo is a composite
+  of exposures in the B-, V- and I-bands obtained in the frame of the Pilot Stellar
+  Survey with the Wide-Field-Imager (WFI) camera at the 2.2-m ESO/MPI telescope at
+  the ESO La Silla Observatory. It was prepared and provided by the ESO Imaging Survey
+  team. The spikes seen at some of the brighter stars are caused by the effect of
+  overexposure (CCD &quot;bleeding&quot;).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0425a/L{1}X{2}Y{3}.png
+name: Globular cluster NGC 6397
+ra_hr: 17.677990371658428
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0425a/thumb.jpg
+zoom_level: 2.6765895328019997
+---
+_uuid: b07abe51-66a7-42ec-9e3c-c7ded3be7c68
+annotation: '{"channel": "eso", "itemid": "eso0630a", "publishedUTCISO8601": "2006-08-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -53.71492038607481
+description: This image shows the nearby metal-poor globular cluster NGC 6397, located
+  at a distance of approx. 7,200 light-years in the southern constellation Ara. Some
+  of the FLAMES-UVES target stars are highlighted with yellow squares. The photo is
+  a composite of exposures in the B-, V- and I-bands obtained in the frame of the
+  Pilot Stellar Survey with the Wide-Field-Imager (WFI) camera at the 2.2-m ESO/MPI
+  telescope at the ESO La Silla Observatory. It was prepared and provided by the ESO
+  Imaging Survey team. The spikes seen at some of the brighter stars are caused by
+  the effect of overexposure (CCD &quot;bleeding&quot;).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0630a/L{1}X{2}Y{3}.png
+name: Globular cluster NGC 6397
+ra_hr: 17.674623201553256
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0630a/thumb.jpg
+zoom_level: 1.8666994704000004
+---
+_uuid: 1dd4362f-8f53-4e16-83ce-26b31132baae
+annotation: '{"channel": "eso", "itemid": "eso0840a", "publishedUTCISO8601": "2008-11-11T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -38.423424011949244
+description: Colour composite image of RCW120. It reveals how an expanding bubble
+  of ionised gas about ten light-years across is causing the surrounding material
+  to collapse into dense clumps where new stars are then formed. The 870-micron submillimetre-wavelength
+  data were taken with the LABOCA camera on the 12-m Atacama Pathfinder Experiment
+  (APEX) telescope. Here, the submillimetre emission is shown as the blue clouds surrounding
+  the reddish glow of the ionised gas (shown with data from the SuperCosmos H-alpha
+  survey). The image also contains data from the Second Generation Digitized Sky Survey
+  (I-band shown in blue, R-band shown in red). This image is available as a mounted
+  image in the ESOshop
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0840a/L{1}X{2}Y{3}.png
+name: Glowing stellar nurseries*
+ra_hr: 17.205924783957077
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0840a/thumb.jpg
+zoom_level: 6.695422982783998
+---
+_uuid: 9733525d-c124-4424-bb64-4c023c05bb4d
+annotation: '{"channel": "eso", "itemid": "eso0841a", "publishedUTCISO8601": "2008-11-18T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.007676633058786
+description: This is a colour composite image of the central region of our Milky Way
+  galaxy, about 26 000 light years from Earth. Giant clouds of gas and dust are shown
+  in blue, as detected by the LABOCA instrument on the Atacama Pathfinder Experiment
+  (APEX) telescope at submillimetre wavelengths (870 micron). The image also contains
+  near-infrared data from the 2MASS project at K-band (in red), H-band (in green),
+  and J-band (in blue). The image shows a region approximately 100 light-years wide.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0841a/L{1}X{2}Y{3}.png
+name: Submillimetre and infrared view of the Galactic Centre
+ra_hr: 17.76108994025522
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0841a/thumb.jpg
+zoom_level: 2.8335434979079683
+---
+_uuid: f4e979c3-c79f-4f86-a184-e6d6d0d12179
+annotation: '{"channel": "eso", "itemid": "eso0846a", "publishedUTCISO8601": "2008-12-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.00654037486166
+description: The central parts of our Galaxy, the Milky Way, as observed in the near-infrared
+  with the NACO instrument on ESO&#x27;s Very Large Telescope. By following the motions
+  of the most central stars over more than 16 years, astronomers were able to determine
+  the mass of the supermassive black hole that lurks there.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0846a/L{1}X{2}Y{3}.png
+name: The centre of the Milky Way*
+ra_hr: 17.761135592074
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0846a/thumb.jpg
+zoom_level: 0.0692305817258412
+---
+_uuid: da309c65-24ef-4b8e-b48c-65de9443e1c3
+annotation: '{"channel": "eso", "itemid": "eso0921a", "publishedUTCISO8601": "2009-06-04T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -28.82226670358753
+description: This image of the Arches Cluster of young, massive stars was obtained
+  with NACO on ESO’s Very Large Telescope. The field of view is 28 arcseconds. North
+  is up and east is to the left.  This image is a composite of infrared images obtained
+  through J, H and K filters. The stars appear as bright cores surrounded by faint
+  diffuse halos. This is typical of images obtained by adaptive optics instruments.
+  The halo corresponds to light that was not fully corrected for the blurring effects
+  of the Earth’s atmosphere.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0921a/L{1}X{2}Y{3}.png
+name: The Arches cluster
+ra_hr: 17.76396555119676
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0921a/thumb.jpg
+zoom_level: 0.07831717926599999
+---
+_uuid: 0946cbea-8df0-4545-a121-9fbef9805d4a
+annotation: '{"channel": "eso", "itemid": "eso0921c", "publishedUTCISO8601": "2009-06-04T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.00234242448592
+description: The turbulent central region of our Milky Way is shown in this beautiful
+  picture taken with the Wide Field Imager attached to the 2.2-metre MPG/ESO telescope.
+  Near the centre of the image — and of our Galaxy — a supermassive black hole lurks
+  (see ESO Press Release eso0846). Dense dust found there obscures all but the brightest
+  stars. The image also includes the area occupied by the Arches Cluster (located
+  in the middle of the upper quarter of the image). Astronomers needed to look in
+  the near-infrared with the acute eye offered by adaptive optics on ESO&#x27;s Very
+  Large Telescope to study the stellar composition of the Arches Cluster. This crowded
+  stellar factory has more than a thousand stars crammed into each cubic light year
+  — an astonishing one million times as star-filled as our Sun’s neighbourhood (ESO
+  Press Release eso0921).  Also see the marvellous zoom to the Arches Cluster. This
+  colour composite image was made from data taken with B, V, and Rc filters.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0921c/L{1}X{2}Y{3}.png
+name: Around the Arches Cluster
+ra_hr: 17.76176380165196
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0921c/thumb.jpg
+zoom_level: 5.477684016634743
+---
+_uuid: d25a9468-8f11-4642-9b2b-5e6014a11c03
+angular_size: 191.5899845697926
+annotation: '{"channel": "eso", "itemid": "eso0934a", "publishedUTCISO8601": "2009-09-21T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -28.136074666391668
+description: 'The second of three images of ESO’s GigaGalaxy Zoom project is a new
+  and wonderful 340-million-pixel vista of the central parts of our galactic home,
+  a 34 by 20-degree wide image that provides us with a view as experienced by amateur
+  astronomers around the world. Taken by Stéphane Guisard, an ESO engineer and world-renowned
+  astrophotographer, from Cerro Paranal, home of ESO’s Very Large Telescope, this
+  second image directly benefits from the quality of Paranal’s sky, one of the best
+  on the planet. The image shows the region spanning the sky from the constellation
+  of Sagittarius (the Archer) to Scorpius (the Scorpion). The very colourful Rho Ophiuchi
+  and Antares region features prominently to the right, as well as much darker areas,
+  such as the Pipe and Snake Nebulae. The dusty lane of our Milky Way runs obliquely
+  through the image, dotted with remarkable bright, reddish nebulae, such as the Lagoon
+  and the Trifid Nebulae, as well as NGC 6357 and NGC 6334. This dark lane also hosts
+  the very centre of our Galaxy, where a supermassive black hole is lurking. The image
+  was obtained by observing with a 10-cm Takahashi FSQ106Ed f/3.6 telescope and a
+  SBIG STL CCD camera, using a NJP160 mount. Images were collected through three different
+  filters (B, V and R) and then stitched together. This mosaic was assembled from
+  52 different sky fields made from about 1200 individual images totalling 200 hours
+  exposure time, with the final image having a size of 24 403 x 13 973 pixels. Note
+  that the final, full resolution image is only available through Stéphane Guisard.
+  #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0934a/L{1}X{2}Y{3}.png
+name: A 340-million pixel starscape from Paranal
+ra_hr: 17.195404250387398
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0934a/thumb.jpg
+zoom_level: 191.5899845697926
+---
+_uuid: a37a5a46-0cfb-4b1f-8a86-9782b37249db
+annotation: '{"channel": "eso", "itemid": "eso0945a", "publishedUTCISO8601": "2009-11-25T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.779867694415188
+description: Peering through the thick dust clouds of our galaxy&#x27;s central parts
+  (the &quot;bulge&quot;) with an amazing amount of detail, a team of astronomers
+  has revealed an unusual mix of stars in the stellar grouping known as Terzan 5.
+  Never observed anywhere in the bulge before, this peculiar cocktail of stars suggests
+  that Terzan 5 is in fact one of the bulge&#x27;s primordial building blocks, most
+  likely the relic of a dwarf galaxy that merged with the Milky Way during its very
+  early days.  This near-infrared image was obtained with the Multi-conjugate Adaptive
+  Optics Demonstrator (MAD) instrument on ESO&#x27;s Very Large Telescope. Observations
+  in two bands (J and K) were combined. The field of view is 40 arcseconds across.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0945a/L{1}X{2}Y{3}.png
+name: The star cluster Terzan 5
+ra_hr: 17.801293655080052
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0945a/thumb.jpg
+zoom_level: 0.108679617288
+---
+_uuid: ca655094-2017-4b7e-8f7b-9a3b6fda0771
+annotation: '{"channel": "eso", "itemid": "eso0949b", "publishedUTCISO8601": "2009-12-11T11:30:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.43113601020973
+description: 'With this remarkable VISTA mosaic we look deep into the dusty heart
+  of our own Milky Way galaxy in the constellation of Sagittarius (the Archer). About
+  one million stars are revealed in this picture, most of them not seen in visible
+  light pictures. As well as absorbing light, the dust also scatters blue light from
+  the distant stars and makes the central part of this huge starscape appear very
+  red. This image is a mosaic created from VISTA images taken through Y, J and Ks
+  filters in the near-infrared part of the spectrum. The image is about 2 degrees
+  by 1.5 degrees in extent. The total exposure time for this mosaic was only 80 seconds.
+  This image is available as a mounted image in the ESOshop #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0949b/L{1}X{2}Y{3}.png
+name: One million stars — towards the dark heart of the Milky Way*
+ra_hr: 17.747743692882477
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0949b/thumb.jpg
+zoom_level: 15.052889616662505
+---
+_uuid: 3de63022-c350-4870-bd15-41f8382e148d
+annotation: '{"channel": "eso", "itemid": "eso0949l", "publishedUTCISO8601": "2009-12-11T11:30:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -28.854156004698748
+description: This visible light wide-field view shows the rich star clouds in the
+  constellation of Sagittarius (the Archer) in the direction of the centre of our
+  Milky Way galaxy. The entire image is filled with vast numbers of stars — but far
+  more remain hidden behind clouds of dust and are only revealed in infrared images.
+  This view was created from photographs in red and blue light and forming part of
+  the Digitized Sky Survey 2. The field of view is approximately 3.5 degrees x 3.6
+  degrees.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0949l/L{1}X{2}Y{3}.png
+name: Wide-field view of the centre of the Milky Way
+ra_hr: 17.76173857115268
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0949l/thumb.jpg
+zoom_level: 37.005634801550215
+---
+_uuid: 1c2fd2f9-2ab9-465a-8de2-06eb5df11918
+annotation: '{"channel": "eso", "itemid": "eso0950b", "publishedUTCISO8601": "2009-12-16T19:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 4.963444983485225
+description: GJ1214 is a star five times smaller than our Sun and three hundred times
+  less bright. Located only 40 light-years away from us, it is found to be surrounded
+  by a super-Earth planet whose interior is likely mostly made of water ice. The planet
+  appears to be rather hot and surrounded by a thick atmosphere, which makes it inhospitable
+  for life as we know it on Earth. This image is based on data obtained through 2
+  different filters (blue and red), which were taken 7 years apart. Because the star
+  is very close to the Earth, it has a large apparent motion on the sky, and so has
+  moved in between the 7 years. This is why the star appears as a double coloured
+  object in this image.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0950b/L{1}X{2}Y{3}.png
+name: The star GJ1214
+ra_hr: 17.2631749394822
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0950b/thumb.jpg
+zoom_level: 30.482099936550004
+---
+_uuid: 02866632-dadb-4e0e-b6cb-0de13f6b9c1c
+annotation: '{"channel": "eso", "itemid": "eso1017a", "publishedUTCISO8601": "2010-04-21T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -36.001546747558386
+description: 'Infrared view of the Cat’s Paw Nebula (NGC 6334) taken by VISTA. NGC
+  6334 is a vast region of star formation about 5500 light-years from Earth in the
+  constellation of Scorpius. The whole gas cloud is about 50 light-years across. NGC
+  6334 is one of the most active nurseries of young massive stars in our galaxy, some
+  nearly ten times the mass of our Sun and most born in the last few million years.
+  The images were taken through Y, J and Ks filters (shown as blue, green and red
+  respectively) and the exposure time was five minutes per filter. The field of view
+  is about one degree across.   This image is available as a mounted image in the
+  ESOshop. #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1017a/L{1}X{2}Y{3}.png
+name: VISTA’s infrared view of the Cat’s Paw Nebula*
+ra_hr: 17.33353315570455
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1017a/thumb.jpg
+zoom_level: 12.077242849728
+---
+_uuid: 91c7e5d5-c0c1-4867-befe-78ee6858cfe5
+annotation: '{"channel": "eso", "itemid": "eso1233a", "publishedUTCISO8601": "2012-08-15T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.437567273611833
+description: This picture shows Barnard 59, part of a vast dark cloud of interstellar
+  dust called the Pipe Nebula. This new and very detailed image of what is known as
+  a dark nebula was captured by the Wide Field Imager on the MPG/ESO 2.2-metre telescope
+  at ESO’s La Silla Observatory. This image is so large that it is strongly recommended
+  to use the zoomable version to appreciate it fully.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1233a/L{1}X{2}Y{3}.png
+name: The mouthpiece of the Pipe Nebula
+ra_hr: 17.195792930915104
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1233a/thumb.jpg
+zoom_level: 9.997897490700003
+---
+_uuid: c5810b41-2350-4acf-a95b-2683e906f888
+annotation: '{"channel": "eso", "itemid": "eso1705a", "publishedUTCISO8601": "2017-02-01T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -34.962351905838155
+description: This spectacular image from the VLT Survey Telescope shows the Cat’s
+  Paw Nebula (NGC 6334, upper right) and the Lobster Nebula (NGC 6357, lower left).
+  These dramatic objects are regions of active star formation where the hot young
+  stars are causing the surrounding hydrogen gas to glow red. The very rich field
+  of view also includes dark clouds of dust. With around two billion pixels this is
+  one of the largest images ever released by ESO. A zoomable version of this giant
+  image is available here. Note that the circular features in the image around bright
+  stars are not real, they are due to reflections within the optics of the telescope
+  and camera.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1705a/L{1}X{2}Y{3}.png
+name: The Cat’s Paw and Lobster Nebulae
+ra_hr: 17.382068186178508
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1705a/thumb.jpg
+zoom_level: 23.732144155605326
+---
+_uuid: 89a42529-4ecd-41f6-8883-d324e94cd2a1
+angular_size: 2.628822476013557
+annotation: '{"channel": "eso", "itemid": "eso1920a", "publishedUTCISO8601": "2019-12-16T17:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -28.99818596273819
+description: Taken with the HAWK-I instrument on ESO’s Very Large Telescope in the
+  Chilean Atacama Desert, this stunning image shows the Milky Way’s central region
+  with an angular resolution of 0.2 arcseconds. This means the level of detail picked
+  up by HAWK-I is roughly equivalent to seeing a football (soccer ball) in Zurich
+  from Munich, where ESO’s headquarters are located. The image combines observations
+  in three different wavelength bands. The team used the broadband filters J (centred
+  at 1250 nanometres, in blue), H (centred at 1635 nanometres, in green), and Ks (centred
+  at 2150 nanometres, in red), to cover the near infrared region of the electromagnetic
+  spectrum. By observing in this range of wavelengths, HAWK-I can peer through the
+  dust, allowing it to see certain stars in the central region of our galaxy that
+  would otherwise be hidden.   
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1920a/L{1}X{2}Y{3}.png
+name: HAWK-I view of the Milky Way’s central region
+ra_hr: 17.7599871745714
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1920a/thumb.jpg
+zoom_level: 2.628822476013557
+---
+_uuid: 06933e4a-3743-4460-8a3d-c863cab02449
+annotation: '{"channel": "eso", "itemid": "eso2119b", "publishedUTCISO8601": "2021-12-14T16:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.00741525318891
+description: This image show stars orbiting very close to Sgr A* (centre), the supermassive
+  black hole at the heart of the Milky Way. They were obtained with the GRAVITY instrument
+  on ESO’s Very Large Telescope Interferometer (VLTI) at the end of March 2021.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2119b/L{1}X{2}Y{3}.png
+name: Stars around Sgr A* in March 2021
+ra_hr: 17.761117420207096
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2119b/thumb.jpg
+zoom_level: 0.000875110897127531
+---
+_uuid: 143cb8b3-71a8-49e3-beea-6efbb343dad9
+annotation: '{"channel": "eso", "itemid": "eso2119c", "publishedUTCISO8601": "2021-12-14T16:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.00741525318891
+description: This image show stars orbiting very close to Sgr A* (centre), the supermassive
+  black hole at the heart of the Milky Way. They were obtained with the GRAVITY instrument
+  on ESO’s Very Large Telescope Interferometer (VLTI) at the end of May 2021.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2119c/L{1}X{2}Y{3}.png
+name: Stars around Sgr A* in May 2021
+ra_hr: 17.761117420207096
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2119c/thumb.jpg
+zoom_level: 0.000875110897127531
+---
+_uuid: a761caac-2db4-4072-80d0-ed9febd115c3
+annotation: '{"channel": "eso", "itemid": "eso2119d", "publishedUTCISO8601": "2021-12-14T16:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.00741525318891
+description: This image show stars orbiting very close to Sgr A* (centre), the supermassive
+  black hole at the heart of the Milky Way. They were obtained with the GRAVITY instrument
+  on ESO’s Very Large Telescope Interferometer (VLTI) at the end of June 2021.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2119d/L{1}X{2}Y{3}.png
+name: Stars around Sgr A* in June 2021
+ra_hr: 17.761117420207096
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2119d/thumb.jpg
+zoom_level: 0.000875110897127531
+---
+_uuid: 8c226297-ed2a-46f5-a2be-43c8847d83ff
+annotation: '{"channel": "eso", "itemid": "eso2119e", "publishedUTCISO8601": "2021-12-14T16:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.00741525318891
+description: This image show stars orbiting very close to Sgr A* (centre), the supermassive
+  black hole at the heart of the Milky Way. They were obtained with the GRAVITY instrument
+  on ESO’s Very Large Telescope Interferometer (VLTI) at the end of July 2021.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2119e/L{1}X{2}Y{3}.png
+name: Stars around Sgr A* in July 2021
+ra_hr: 17.761117420207096
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2119e/thumb.jpg
+zoom_level: 0.000875110897127531
+---
+_uuid: 21aa1682-6d9a-44ad-ad74-5567e68ff9cc
+annotation: '{"channel": "eso", "itemid": "eso9003i", "publishedUTCISO8601": "1990-02-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -62.81725057214346
+description: The barred spiral galaxy NGC 6300 in the constellation of Ara.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9003i/L{1}X{2}Y{3}.png
+name: The galaxy NGC 6300
+ra_hr: 17.28343498204828
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9003i/thumb.jpg
+zoom_level: 0.22982357056707256
+---
+_uuid: 40127174-d3c0-4074-b622-b0a4609fe8db
+annotation: '{"channel": "eso", "itemid": "eso9820d", "publishedUTCISO8601": "1998-05-27T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.10185763081834
+description: This splendid colour image of a famous southern Planetary Nebula, NGC
+  6302 or the Bug Nebula (sometimes nicknames the Butterfly Nebula), was obtained
+  by combining blue, yellow and red images obtained on May 22, 1998, with 10 minute
+  exposures and an image quality better than 0.6 arcseconds. Towards the end of their
+  life, some massive stars expand to giant dimensions. They shed most of the hydrogen
+  in their outer layers as a strong &quot;stellar wind&quot;, before they contract
+  towards a final compact stage as &quot;white dwarfs&quot;. After this ejection process,
+  the star remains thousands of times brighter and also much hotter than the Sun during
+  a few thousand years. Its strong ultraviolet radiation has the effect of ionizing
+  the previously ejected gas, which then shines before it disperses into interstellar
+  space. The resulting nebulae (traditionally referred to as Planetary Nebulae , because
+  of their resemblance to a planet in a small telescope) often exhibit very complex
+  morphologies. The Butterfly Nebula belongs to the class of bipolar nebulae, as this
+  picture clearly illustrates. A dark, dusty and disc-like structure - seen edge-on
+  in this image - obscures the central star from our view. However, its strong radiation
+  escapes perpendicular to the disk and heats and illuminates the material deposited
+  there by the stellar wind. The origin of the dark disk may be due to the central
+  star being a member of a double star system. This has been shown to be the case
+  in some other bipolar nebulae in which, contrary to the Butterfly Nebula, there
+  is a direct view towards the star.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9820d/L{1}X{2}Y{3}.png
+name: Fine structure in NGC 6302
+ra_hr: 17.228962787502745
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9820d/thumb.jpg
+zoom_level: 0.24558143814057076
+---
+_uuid: 274b15e4-4532-40d1-b487-a78e665b9e92
+annotation: '{"channel": "eso", "itemid": "eso9924a", "publishedUTCISO8601": "1999-04-30T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -23.833069539497323
+description: This photograph shows an unusual sky field in the Milky Way band. It
+  is centred on one of the classical, dark globules, known as Barnard 68 (B68) after
+  the American astronomer, Edward E. Barnard (1857 - 1923), who included it in a list
+  of such objects, published in 1919. It appears as a compact, opaque and rather sharply
+  defined object against a rich, background star field. Even on this image that registers
+  many faint stars in the area, not a single foreground star is observed. This is
+  a clear sign that this globule must be relatively nearby.  Interstellar clouds consist
+  of gas and dust, including many molecules, some of which contain carbon atoms (i.e.
+  organic). For a long time considered to be &quot;holes in the sky&quot;, molecular
+  clouds are now known to be among the coolest objects in the Universe (the temperature
+  is approx. 10 K, or -263 °C). Moreover, and most importantly, they are nurseries
+  of stars and planets.  It still remains a mystery how a dark cloud like Barnard
+  68 at some moment begins to contract and subsequently transforms itself into hydrogen-burning
+  stars. However, deep images of these clouds, such as this one obtained by FORS1
+  on VLT ANTU, may provide important clues. This small cloud seems to be in its very
+  earliest phase of collapse. It has a diameter of only 7 light-months (approx. 0.2
+  pc) and it is located at a distance of about 500 light-years (160 pc) towards the
+  southern constellation Ophiuchus (The Serpent-holder).  This three-colour composite
+  was reproduced from one blue (B), one green-yellow (V) and one near-infrared (I)
+  exposure that were obtained with VLT ANTU and FORS1 in the early morning of March
+  27, 1999. The field measures 6.8x6.8 arcmin 2. The image consists of 2048x2048 pixels,
+  each measuring 0.20 arcsec; the &quot;Full Resolution&quot; version of the photo
+  shows all of these. North is up and East is to the left. (See also ESO Press Release
+  eso0102.)
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9924a/L{1}X{2}Y{3}.png
+name: B68, the black cloud
+ra_hr: 17.377605406822905
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9924a/thumb.jpg
+zoom_level: 1.108196723214
+---
+_uuid: 60a75c89-86a6-4ebe-be13-1757ae22e773
+annotation: '{"channel": "eso", "itemid": "eso9934a", "publishedUTCISO8601": "1999-07-02T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -23.8320942852482
+description: B68 is a dark cloud situated at a distance of about 500 light-years (160
+  pc) towards the southern constellation Ophiuchus (The Serpent-holder).  This is
+  a false-colour, infrared composite photo of the dark cloud Barnard 68, obtained
+  on March 8-9, 1999, with the SOFI instrument at the ESO 3.5-m New Technology Telescope
+  (NTT) at La Silla. Three exposures were made through J- (wavelength 1.25 µm - 3
+  min; here colour-coded as &quot;blue&quot;), H- (1.65 µm - 30 min; &quot;green&quot;)
+  and Ks-filters (2.16 µm - 30 min; &quot;red&quot;), respectively. The &quot;reddening&quot;
+  of the background stars that are seen through the cloud is very obvious. It is due
+  to the larger obscuration in shorter wavebands. The sky field measures about 4.9
+  x 4.9 arcmin 2 (1024x1024 pixels). A slight mismatch between the individual frames
+  is present in the upper corners; this is caused by atmospheric effects. The pixel
+  size is 0.29/arcsec. North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9934a/L{1}X{2}Y{3}.png
+name: Looking through the Dark Cloud B68
+ra_hr: 17.377597556831518
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9934a/thumb.jpg
+zoom_level: 0.8307521832959999
+---
+_uuid: cea43bec-f856-4823-a025-4a28c686031a
+annotation: '{"channel": "eso", "itemid": "potw1015a", "publishedUTCISO8601": "2010-04-12T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -34.19768186606252
+description: Home to some of the largest stars ever discovered, the open stellar cluster
+  Pismis 24 blazes from the core of NGC 6357, a nebula in the constellation of Scorpius
+  (the Scorpion). Several stars in the clusters weigh in at over 100 times the mass
+  of the Sun, making them real monster stars. The strange shapes taken by the clouds
+  are a result of the huge amount of blazing radiation emitted by these massive, hot
+  stars. The gas and dust of the nebula hide huge baby stars in the nebula from telescopes
+  observing in visible light, as well as adding to the hazy appearance of the image.
+  This image combines observations performed through three different filters in visible
+  light (B, V, R) with the 1.5-metre Danish telescope at the ESO La Silla Observatory
+  in Chile.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1015a/L{1}X{2}Y{3}.png
+name: Stellar titans of Pismis 24
+ra_hr: 17.41203647248488
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1015a/thumb.jpg
+zoom_level: 2.2832727346199997
+---
+_uuid: eafcf4ec-152e-4626-a71e-811ea6109b56
+annotation: '{"channel": "eso", "itemid": "potw1047a", "publishedUTCISO8601": "2010-11-22T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.006803086372155
+description: The centre of our own galaxy, the Milky Way, is again in the sights of
+  ESO telescopes. This time it’s the turn of ISAAC, the VLT’s near- and mid-infrared
+  spectrometer and camera. From Chile’s Atacama Desert, site of the ESO observatories,
+  the Milky Way offers magnificent views, particularly in the southern hemisphere
+  winter, when the central region of our galaxy is most visible (see eso0934). However,
+  the Galactic Centre itself, located about  27 000 light-years away in the constellation
+  of Sagittarius, hides behind thick clouds of interstellar dust, which appear as
+  dark obscuring lanes in visible light, but which are transparent at longer wavelengths
+  such as the infrared. In this image, the infrared observations clearly reveal the
+  dense clustering of stars in the galactic core. ESO telescopes have been tracking
+  stars orbiting the centre of the Milky Way for more than 18 years, getting the highest
+  resolution images of this area and providing a definitive proof of the existence
+  of a supermassive black hole in the heart of our galaxy (read more in eso0226 and
+  eso0846). Infrared flashes emitted by hot gas falling into the supermassive black
+  hole have also been detected with ESO telescopes (see eso0330). This representative-colour
+  picture is composed of images taken by ISAAC at near-infrared wavelengths through
+  2.25, 2.09, and 1.71 µm narrowband filters (shown in red, green and blue respectively).
+  It covers a field of view of 2.5 arcminutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1047a/L{1}X{2}Y{3}.png
+name: Looking into the Milky Way’s heart — ISAAC observes the Galactic Centre
+ra_hr: 17.761149685818545
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1047a/thumb.jpg
+zoom_level: 0.40414070845236494
+---
+_uuid: ca8ea22d-1e72-4ac5-b800-7a88e26fcfb3
+annotation: '{"channel": "eso", "itemid": "potw1228a", "publishedUTCISO8601": "2012-07-09T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.947717258288215
+description: 'The Cat’s Paw Nebula is revisited in a combination of exposures from
+  the MPG/ESO 2.2-metre telescope and expert amateur astronomers Robert Gendler and
+  Ryan M. Hannahoe. The distinctive shape of the nebula is revealed in reddish puffy
+  clouds of glowing gas against a dark sky dotted with stars. The image was made by
+  combining existing observations from the 2.2-metre MPG/ESO telescope of the La Silla
+  Observatory in Chile (see ESO Photo Release eso1003) with 60 hours of exposures
+  on a 0.4-metre telescope taken by Gendler and Hannahoe. The resolution of the existing
+  2.2-metre MPG/ESO telescope observations was combined (by using their “luminance”
+  or brightness) with the colour information from Gendler and Hannahoe’s observations
+  to produce a beautiful combination of data from amateur and professional telescopes.
+  For example, the additional colour information brings out the faint blue nebulosity
+  in the central region, which is not seen in the original ESO image, while the ESO
+  data contribute their finer detail. The result is an image that is much more than
+  the sum of its parts. The well-named Cat’s Paw Nebula (also known as NGC 6334) lies
+  in the constellation of Scorpius (The Scorpion). Although it appears close to the
+  centre of the Milky Way on the sky, it is relatively near to Earth, at a distance
+  of about 5500 light-years. It is about 50 light-years across and is one of the most
+  active star formation regions in our galaxy, containing massive, young brilliant
+  blue stars, which have formed in the last few million years. It is host to possibly
+  tens of thousands of stars in total, some of them visible and others still hidden
+  in the clouds of gas and dust. Links  Robert Gendler’s website '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1228a/L{1}X{2}Y{3}.png
+name: The Cat's Paw remastered
+ra_hr: 17.335812722721652
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1228a/thumb.jpg
+zoom_level: 5.417432879011301
+---
+_uuid: 2a166fd1-785b-46b3-b639-35fe3362ac1d
+annotation: '{"channel": "eso", "itemid": "potw1334a", "publishedUTCISO8601": "2013-08-26T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -34.30998550101537
+description: This  image, captured by ESO’s Very Large Telescope (VLT) at Paranal,
+  shows a  small part of the well-known emission nebula, NGC 6357, located some  8000
+  light-years away, in the tail of the southern constellation of  Scorpius (The Scorpion).
+  The image glows with the characteristic red of  an H II region, and contains a large
+  amount of ionised and excited  hydrogen gas. The  cloud is bathed in intense ultraviolet
+  radiation — mainly from the open  star cluster Pismis 24, home to some massive,
+  young, blue stars — which  it re-emits as visible light, in this distinctive red
+  hue. The  cluster itself is out of the field of view of this picture, its diffuse  light
+  seen illuminating the cloud on the centre-right of the image. We  are looking at
+  a close-up of the surrounding nebula, showing a mesh of  gas, dark dust, and newly
+  born and still forming stars.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1334a/L{1}X{2}Y{3}.png
+name: Carved by massive stars
+ra_hr: 17.42624508835443
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1334a/thumb.jpg
+zoom_level: 1.29372484839
+---
+_uuid: 815767ef-8132-4536-b244-512c2325268b
+annotation: '{"channel": "eso", "itemid": "potw1338a", "publishedUTCISO8601": "2013-09-23T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.633796404645416
+description: 'This new image, from ESO’s VISTA telescope, shows a newly-discovered
+  brown dwarf nicknamed VVV BD001, which is located at the very centre of this zoomable image.
+  It is the first new brown dwarf spotted in our cosmic neighbourhood as part of the
+  VVV Survey. VVV BD001 is located about 55 light-years away from us, towards the
+  very crowded centre of our galaxy. Brown dwarfs are stars that never quite managed
+  to grow up into a star like our Sun. They are often referred to as “failed stars”;
+  they are larger in size than planets like Jupiter, but smaller than stars. This
+  dwarf is peculiar in two ways; firstly, it is the first one found towards the centre
+  of our Milky Way, one of the most crowded regions of the sky. Secondly, it belongs
+  to an unusual class of stars known as “unusually blue brown dwarfs” — it is still
+  unclear why these stars are bluer than expected. Brown dwarfs are born in the same
+  way as stars, but do not have enough mass to trigger the burning of hydrogen to
+  become normal stars. Because of this they are much cooler and produce far less light,
+  making them harder to find. Astronomers generally look for these objects using near
+  and mid-infrared cameras and special telescopes that are sensitive to these very
+  cool objects, but usually avoid looking in very crowded regions of space — such
+  as the central region of our galaxy, for example. VISTA (the Visible and Infrared
+  Survey Telescope for Astronomy) is the world’s largest survey telescope and is located
+  at ESO’s Paranal Observatory in Chile. It is performing six separate surveys of
+  the sky, and the VVV (VISTA Variables in the Via Lactea) survey is designed to catalogue
+  a billion objects in the centre of our own Milky Way galaxy. VVV BD001 was discovered
+  by chance during this survey. Scientists have used the VVV catalogue to create a
+  3 dimensional map of the central bulge of the Milky Way (eso1339). The data have
+  also been used to create a monumental 108 200 by 81 500 pixel colour image containing
+  nearly nine billion pixels (eso1242), one of the biggest astronomical images ever
+  produced. Links  VVV Survey (VISTA Variables in the Via Lactea) Research Paper '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1338a/L{1}X{2}Y{3}.png
+name: New cool starlet in our backyard
+ra_hr: 17.444453211598578
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1338a/thumb.jpg
+zoom_level: 1.4507575705977171
+---
+_uuid: 1a489cfd-aa71-44f6-9d54-479502d7e972
+annotation: '{"channel": "eso", "itemid": "potw1509a", "publishedUTCISO8601": "2015-03-02T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -62.81692431505606
+description: This image shows the bright centre and swirling arms of the spiral galaxy
+  NGC 6300. NGC 6300 is located in a starry patch of sky in the southern constellation
+  of Ara (The Altar) which contains a variety of intriguing deep-sky objects. NGC
+  6300 has beautiful pinwheeling arms connected by a straight bar that cuts through
+  the middle of the galaxy. While it may look like a standard spiral galaxy in visible-light
+  images like this one, it is actually a Seyfert II galaxy. Such galaxies have unusually
+  luminous centres that emit very energetic radiation, meaning that they are often
+  intensely bright in part of the spectrum either side of the visible. NGC 6300 is
+  thought to contain a massive black hole at its heart some 300 000 times more massive
+  than the Sun. This black hole is emitting high energy X-rays as it is fed by the
+  material that is pulled into it. This image of NGC 6300 was taken by the ESO Faint
+  Object Spectrograph and Camera (EFOSC2) on the 3.58-metre New Technology Telescope
+  (NTT). The NTT is based at ESO’s La Silla observing site, on the outskirts of the
+  Atacama Desert in Chile, and was inaugurated in 1989. A black and white image of
+  NGC 6300 was released at the time of the telescope’s inauguration — one of 31 images
+  that were the first to be released from the NTT.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1509a/L{1}X{2}Y{3}.png
+name: ESO’s New Technology Telescope revisits NGC 6300
+ra_hr: 17.282889233960784
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1509a/thumb.jpg
+zoom_level: 0.5324266605770012
+---
+_uuid: 67404d93-7e7c-4bbb-a8c6-04f7ef90be5f
+annotation: '{"channel": "eso", "itemid": "potw1518a", "publishedUTCISO8601": "2015-05-04T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.071697182520833
+description: Rather than showing spectacular objects, some of the most surprising
+  images of the Universe instead focus on emptiness. This new image from the 2.2-metre
+  MPG/ESO telescope shows dark tentacles swirling outwards from a dark, blank spot
+  of space in the centre of the frame, particularly conspicuous against the dense
+  peppering of bright gold and red stars across the rest of the image. This region
+  is not a hole in the cosmos, or an empty patch of sky. The dark lanes are actually
+  made up of thick, opaque dust lying between us and the packed star field behind
+  it. This obscuring dust forms part of a dark molecular cloud, cold and dense areas
+  where large quantities of dust and molecular gas mingle and block the visible light
+  emitted by more distant stars. It is still unclear how these clouds form, but they
+  are thought to be the very early stages of new star formation — in the future, the
+  subject of this image may well collapse inwards on itself to form a new star system.
+  Although the cloud in this image is a fairly anonymous resident of the nearby Universe
+  — catalogued as LDN1774 — one of the most famous examples of a molecular cloud is
+  the very similar Barnard 68, which lies some 500 light-years away from us. Barnard
+  68 has been observed extensively using ESO telescopes, both in visible (eso9924a)
+  and infrared light (eso9934, eso0102a). As shown in these different images, it is
+  possible to probe through dark cosmic dust using infrared light, but visible-light
+  observations such as those shown in this VLT image cannot see beyond the smokescreen.
+  This image was taken by the Wide Field Imager, an instrument mounted on ESO’s 2.2-metre
+  MPG/ESO telescope at La Silla, Chile.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1518a/L{1}X{2}Y{3}.png
+name: A hole in the sky
+ra_hr: 17.375803621282174
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1518a/thumb.jpg
+zoom_level: 5.677142259605947
+---
+_uuid: d41efce6-0081-4774-87fb-70fd3da56919
+annotation: '{"channel": "eso", "itemid": "potw1531a", "publishedUTCISO8601": "2015-08-03T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -17.66246799779779
+description: The bright star in the centre of this image is not the star of this show.
+  At the bottom centre is a rather unremarkable smudge of red which is in fact a rare
+  and valuable object. First discovered by amateur Japanese astronomer, Yukio Sakurai,
+  in 1996, and noted as a nova-like object, Sakurai’s discovery turned out to be far
+  more interesting than the supernova he initially supposed it to be. The object is
+  actually a small white dwarf star undergoing a helium flash — one of only a handful
+  of examples of such an event ever witnessed by astronomers. Normally, the white
+  dwarf stage is the last in the life cycle of a low-mass star. In some cases, however,
+  the star reignites in a helium flash and expands to return to a red giant state,
+  ejecting huge amounts of gas and dust in the process, before once again shrinking
+  to become a white dwarf. It is a dramatic and short-lived series of events, and
+  Sakurai’s Object has allowed astronomers a very rare opportunity to study the events
+  in real time. The white dwarf emits sufficient ultraviolet radiation to illuminate
+  the gas it has expelled, which can just be seen in this image as the ring of red
+  material. This image was taken using the FORS instrument, mounted on ESO’s Very
+  Large Telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1531a/L{1}X{2}Y{3}.png
+name: White dwarf resurrection
+ra_hr: 17.875553544405022
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1531a/thumb.jpg
+zoom_level: 0.6255790866045899
+---
+_uuid: 50a7c95f-7ea4-45e1-90e4-c7ea5b93fdc7
+annotation: '{"channel": "eso", "itemid": "potw1612a", "publishedUTCISO8601": "2016-03-21T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -26.853334408809886
+description: The dark patch snaking across this spectacular image of a field of stars
+  in the constellation of Ophiuchus (The Serpent-bearer) is not quite what it appears
+  to be. Although it looks as if there are no stars here, they are hidden behind this
+  dense cloud of dust that blocks out their light. This particular dark cloud is known
+  as LDN 1768. Despite their rather dull appearance, dark nebulae like LDN 1768 are
+  of huge interest to astronomers, as it is here that new stars form. Inside these
+  vast stellar nurseries there are protostars — stars at the earliest stage of their
+  lives, still coalescing out of the gas and dust in the cloud. Protostars are relatively
+  cold and have not yet begun to produce enough energy to emit visible light. Instead,
+  they emit radiation at submillimetre wavelengths, which human eyes cannot see. Luckily,
+  unlike visible light, light at submillimetre wavelengths is not absorbed by the
+  surrounding dust. By using special telescopes that are sensitive to submillimetre
+  radiation, like the Atacama Large Millimeter/submillimeter Array (ALMA) observatory,
+  we can see through the dust and find out more about the protostars within the cloud.
+  Eventually, the protostars will become dense and hot enough to start the nuclear
+  reactions that will produce visible light and they will start to shine. When this
+  happens, they will blow away the cocoon of dust surrounding them and cause any remaining
+  gas to emit light as well, creating the spectacular light show known as an HII region.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1612a/L{1}X{2}Y{3}.png
+name: All quiet in the nursery?
+ra_hr: 17.337008296878828
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1612a/thumb.jpg
+zoom_level: 5.676216823270693
+---
+_uuid: f32f1170-d7e9-46f9-9847-1ad8c06718af
+annotation: '{"channel": "eso", "itemid": "potw1652a", "publishedUTCISO8601": "2016-12-26T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.956078884193886
+description: Our Solar System formed out of a huge, primordial cloud of gas and dust.
+  The vast majority of that cloud formed the Sun, while the leftover disc of rotating
+  material around it eventually coalesced into the orbiting planets we know — and
+  live on — today. Astronomers can observe similar processes happening around other
+  stars in the cosmos. This splendid Picture of the Week shows a disc of rotating,
+  leftover material surrounding the young star HD 163296. Using the observing power
+  of the Atacama Large Millimeter/submillimeter Array (ALMA) in Chile, astronomers
+  have been able to discern specific features in the disc, including concentric rings
+  of material surrounding the central star. They were even able to use ALMA to obtain
+  high-resolution measurements of the gas and dust constituents of the disc. With
+  these data they could infer key details of the formation history of this young stellar
+  system. The three gaps between the rings are likely due to a depletion of dust and
+  in the middle and outer gaps astronomers also found a lower level of gas. The depletion
+  of both dust and gas suggests the presence of newly formed planets, each around
+  the mass of Saturn, carving out these gaps on their brand new orbits.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1652a/L{1}X{2}Y{3}.png
+name: Planets in the making
+ra_hr: 17.939246654309233
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1652a/thumb.jpg
+zoom_level: 0.0118200090520536
+---
+_uuid: cc46a61a-0631-4eb0-8d96-a451093addaf
+annotation: '{"channel": "eso", "itemid": "potw1712a", "publishedUTCISO8601": "2017-03-20T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.78268821931643
+description: This image, taken by the Atacama Large Millimeter/submillimeter Array
+  (ALMA) in Chile, shows glowing dust inside the protocluster NGC 6334I. Studying
+  this star-forming cloud in the Cat’s Paw Nebula (NGC 6334) with both ALMA and the
+  Submillimeter Array (SMA) in Hawaii astronomers could see that something dramatic
+  had taken place, completely changing a stellar nursery over a surprisingly short
+  period of time. It is known that young stars form inside protoclusters when pockets
+  of gas become so dense that they begin to collapse under their own gravity. Over
+  time, discs of dust and gas form around these nascent stars and funnel material
+  onto their surfaces helping them grow. However, this new image from ALMA shows a
+  massive protostar, nestled deep within this dust-filled stellar nursery, that is
+  undergoing an intense growth spurt, most likely triggered by an avalanche of gas
+  falling onto its surface. This new material feeding it is causing the protostar
+  to shine nearly 100 times brighter than before.The discovery of this outburst supports
+  the theory that young stars can undergo intense growth spurts that reshape their
+  surroundings.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1712a/L{1}X{2}Y{3}.png
+name: Protostar blazes and reshapes its stellar nursery
+ra_hr: 17.348084055364655
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1712a/thumb.jpg
+zoom_level: 0.032056349815393195
+---
+_uuid: bca45ec4-6562-434f-966c-6cd7f730b6c8
+annotation: '{"channel": "eso", "itemid": "potw1843a", "publishedUTCISO8601": "2018-10-22T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.01021429515189
+description: This image from the Atacama Large Millimeter/submillimeter Array (ALMA)
+  shows the area surrounding Sagittarius A*, the supermassive black hole that lurks
+  at the centre of the Milky Way — highlighted here with a small circle. New research
+  has revealed exciting evidence of interstellar gas and dust orbiting the black hole
+  at high speeds. The molecular-hydrogen-rich gas clouds which have been identified
+  are known as molecular cloudlets, and they have never before been unambiguously
+  detected. This image actually shows the distribution of molecules including carbon
+  monoxide, the cloudlets’ second most abundant molecular component. The cloudlets
+  lie 26 000 light-years away from us, orbiting fast and relatively close to the black
+  hole, at a distance of about one light year. ALMA’s high resolution allowed scientists
+  to detect the cloudlets, which are the products of pre-existing massive clouds rotating
+  around the centre of our galaxy. These clouds were tidally disrupted into dense
+  fragments and a lower density, short-lived component. The latter was identified
+  thanks to the signs left by the passage of the synchrotron radiation emitted by
+  Sagittarius A* through diffuse gas between the cloudlets. Although clouds of molecular
+  gas have the potential to form new stars, these cloudlets are unlikely to create
+  stellar newborns. They have a comparatively small mass of around 60 times that of
+  the Sun, and exist close to the huge, turbulent, punishing gravitational forces
+  exerted by Sagittarius A*. While the stars orbiting Sagittarius A* have been systematically
+  observed, these dense molecular cloudlets have not been detected so close to the
+  centre of our galaxy before.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1843a/L{1}X{2}Y{3}.png
+name: Cloudlets swarm around our local supermassive black hole
+ra_hr: 17.76112568994257
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1843a/thumb.jpg
+zoom_level: 0.1783586218738147
+---
 _uuid: e42c19af-e7ca-4a5a-b76d-14d1e11d04cd
 angular_size: 0.12200495826173952
 annotation: '{"channel": "noirlab", "itemid": "gemini-20080825-galactic-center-abu-0001",

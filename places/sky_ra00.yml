@@ -1,3 +1,587 @@
+_uuid: e182a533-a531-48b5-b076-58c109ec0dfc
+annotation: '{"channel": "eso", "itemid": "eso0221a", "publishedUTCISO8601": "2002-08-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.65872695773215
+description: Colour-composite image of the nearby spiral galaxy NGC 300  and the surrounding
+  sky field, obtained in 1999 and 2000 with the Wide-Field Imager (WFI) on the MPG/ESO
+  2.2-m telescope at the La Silla Observatory.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0221a/L{1}X{2}Y{3}.png
+name: Spiral galaxy NGC 300
+ra_hr: 0.9136768044289165
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0221a/thumb.jpg
+zoom_level: 5.415830464200001
+---
+_uuid: be340c14-8557-488f-bddb-9255b3089ba5
+annotation: '{"channel": "eso", "itemid": "eso0221b", "publishedUTCISO8601": "2002-08-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.584330422283905
+description: Some of the Cepheid type stars in the spiral galaxy NGC 300 (at the centre
+  of the markers), as they were identified by Wolfgang Gieren and collaborators during
+  the research programme for which the WFI images of NGC 300 were first obtained.
+  In this area of NGC 300, there is also a huge cloud of ionized hydrogen (a &quot;HII
+  shell&quot;). It measures about 2,000 light-years in diameter, thus dwarfing even
+  the enormous Tarantula Nebula in the LMC.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0221b/L{1}X{2}Y{3}.png
+name: Cepheids in NGC 300
+ra_hr: 0.9053255904848431
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0221b/thumb.jpg
+zoom_level: 0.6520357917610626
+---
+_uuid: abf988ba-1c9c-498c-a557-3aa71a2193af
+annotation: '{"channel": "eso", "itemid": "eso0221c", "publishedUTCISO8601": "2002-08-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.6786770389453
+description: NGC 300, as seen through a narrow optical filter (H-alpha) in the red
+  light of hydrogen atoms. A population of intrinsically bright and young stars turned
+  &quot;on&quot; just a few million years ago. Their radiation and strong stellar
+  winds have shaped many of the clouds of ionized hydrogen gas (&quot;HII shells&quot;)
+  seen in this photo. The &quot;rings&quot; near some of the bright stars are caused
+  by internal reflections in the telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0221c/L{1}X{2}Y{3}.png
+name: Spiral galaxy NGC 300 (H-alpha band)
+ra_hr: 0.9129922980490279
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0221c/thumb.jpg
+zoom_level: 3.0168786417621156
+---
+_uuid: e5a3e631-0c93-45f8-b255-ff82721f7687
+annotation: '{"channel": "eso", "itemid": "eso0221d", "publishedUTCISO8601": "2002-08-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.54963982810267
+description: The distant cluster of galaxies CL0053-37, as imaged on the WFI photo
+  of the NGC 300 sky field. The elongated distribution of the cluster galaxies, as
+  well as the presence of two large, early-type elliptical galaxies indicate that
+  this cluster is still in the process of formation. Some of the galaxies appear to
+  be merging. From the measured redshift (z  = 0.1625), a distance of about 2.1 billion
+  light-years is deduced.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0221d/L{1}X{2}Y{3}.png
+name: Cluster of galaxies CL0053-37 in NGC 300 field
+ra_hr: 0.9340334059809638
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0221d/thumb.jpg
+zoom_level: 1.007312283648
+---
+_uuid: c0a37f75-2b0f-4b17-9c0a-21fdd3d44147
+annotation: '{"channel": "eso", "itemid": "eso0221f", "publishedUTCISO8601": "2002-08-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.710912305769725
+description: A group of galaxies seen on NGC 300 images. They are all quite red and
+  their similar colours indicate that they must be about equally distant. They probably
+  constitute a distant cluster, now in the stage of formation.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0221f/L{1}X{2}Y{3}.png
+name: Distant galaxies in NGC 300 field
+ra_hr: 0.9346355172019974
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0221f/thumb.jpg
+zoom_level: 0.6216815533574377
+---
+_uuid: b12a7de5-faa3-495a-9cb5-d8e265974db7
+annotation: '{"channel": "eso", "itemid": "eso0221g", "publishedUTCISO8601": "2002-08-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.6064651624291
+description: An area in the outer regions of NGC 300. Disks of spiral galaxies are
+  usually quite &quot;thin&quot; (some hundred light-years), as compared to their
+  radial extent (tens of thousands of light-years across). In areas where only small
+  amounts of dust are present, it is possible to see much more distant galaxies right
+  through the disk of NGC 300, as demonstrated by this image.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0221g/L{1}X{2}Y{3}.png
+name: Distant galaxies behind NGC 300
+ra_hr: 0.9235120745898657
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0221g/thumb.jpg
+zoom_level: 0.535553409546
+---
+_uuid: 2f0dc8fb-95db-406a-a7e5-4b15302fad9d
+annotation: '{"channel": "eso", "itemid": "eso0221h", "publishedUTCISO8601": "2002-08-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.83810508289187
+description: This is an astronomers&#x27; joy ride to infinity. Such a rarely seen
+  view of our universe imparts a feeling of the vast distances in space. In the upper
+  half of the image, the outer region of NGC 300 is resolved into innumerable stars,
+  while in the lower half, myriads of galaxies — a thousand times more distant — catch
+  the eye. In reality, many of them are very similar to NGC 300, they are just much
+  more remote.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0221h/L{1}X{2}Y{3}.png
+name: Outskirts of NGC 300
+ra_hr: 0.9175230199419688
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0221h/thumb.jpg
+zoom_level: 1.304798419573026
+---
+_uuid: 006dc43a-8b44-4e30-a087-f5970d5dcbbd
+annotation: '{"channel": "eso", "itemid": "eso0524a", "publishedUTCISO8601": "2005-08-01T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.68206499223349
+description: Location of the three fields in the Sculptor spiral galaxy NGC 300 for
+  which deep imaging in the near-infrared J and K filters was obtained with VLT/ISAAC.
+  The fields contain together 16 Cepheids with periods from 6 to 83 days.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0524a/L{1}X{2}Y{3}.png
+name: Observed fields in NGC 300
+ra_hr: 0.914807006010244
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0524a/thumb.jpg
+zoom_level: 5.077337131741141
+---
+_uuid: 654d6823-e53f-4822-b62c-6c4748233c4d
+annotation: '{"channel": "eso", "itemid": "eso0535a", "publishedUTCISO8601": "2005-11-04T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -48.639655548056695
+description: Robert&#x27;s Quartet is a family of four very different galaxies, located
+  at a distance of about 160 million light-years, close to the centre of the southern
+  constellation of the Phoenix. Its members are NGC 87, NGC 88, NGC 89 and NGC 92,
+  discovered by John Herschel in the 1830s. NGC 87 (upper right) is an irregular galaxy
+  similar to the satellites of our Milky Way, the Magellanic Clouds. NGC 88 (centre)
+  is a spiral galaxy with an external diffuse envelope, most probably composed of
+  gas. NGC 89 (lower middle) is another spiral galaxy with two large spiral arms.
+  The largest member of the system, NGC 92 (left), is a spiral Sa galaxy with an unusual
+  appearance. One of its arms, about 100,000 light-years long, has been distorted
+  by interactions and contains a large quantity of dust.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0535a/L{1}X{2}Y{3}.png
+name: Robert's Quartet
+ra_hr: 0.3566477378871842
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0535a/thumb.jpg
+zoom_level: 0.961154785872
+---
+_uuid: 9db5010f-44b1-4f40-b438-980d1c6c74a8
+annotation: '{"channel": "eso", "itemid": "eso0535b", "publishedUTCISO8601": "2005-11-04T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -48.63102719191097
+description: The largest member of the galaxy group known as Robert&#x27;&#x27;s Quartet
+  is NGC 92, a spiral Sa galaxy with an unusual appearance. One of its arms, about
+  100,000 light-years long, has been distorted by interactions and contains a large
+  quantity of dust. Using this H-alpha image obtained with FORS2 on the VLT, astronomers
+  were able to study the properties of regions of active star formation (&quot;HII
+  regions&quot;). They found more than 200 of such regions in NGC 92, with a size
+  between 500 and 1,500 light-years.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0535b/L{1}X{2}Y{3}.png
+name: NGC 92 in H-alpha
+ra_hr: 0.35976827657840804
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0535b/thumb.jpg
+zoom_level: 0.54616282398
+---
+_uuid: 27c14726-31b8-403e-bb41-f0dcbcb3dbfb
+annotation: '{"channel": "eso", "itemid": "eso0620a", "publishedUTCISO8601": "2006-06-08T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.0803185700994
+description: 'Based on data obtained with FORS1 on Kueyen, UT2 of the Very Large Telescope.
+  The image, 7 arcmin wide, covers the central core of the 30 arcmin large globular
+  cluster. The observations were taken in three different filters: U, R, and a narrow-band
+  filter centred around 485 nm, for a total exposure time of less than 5 minutes.
+  The data were extracted from the ESO Science Archive and processed by Rubina Kotak
+  (ESO) and the final image processing was done by Henri Boffin (ESO). North is up
+  and East is to the left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0620a/L{1}X{2}Y{3}.png
+name: The globular cluster 47 Tuc
+ra_hr: 0.4010472852747298
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0620a/thumb.jpg
+zoom_level: 1.1667211588668474
+---
+_uuid: 07ec128a-9459-4bd3-a607-4a1e013bc409
+annotation: '{"channel": "eso", "itemid": "eso0749a", "publishedUTCISO8601": "2007-11-09T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -33.24713996549395
+description: Image obtained with ESO&#x27;s Very Large Telescope (VLT) of the spiral
+  galaxy observed by the European Commissioner for Science and Research, Janez Potocnik,
+  when at Paranal. NGC 134 is a barred spiral with its spiral arms loosely wrapped
+  around a bright, bar-shaped central region. The red features lounging along its
+  spiral arms are glowing clouds of hot gas in which stars are forming, so-called
+  HII regions. The galaxy also shows prominent dark lanes of dust across the disc,
+  obscuring part of the galaxy&#x27;s starlight. The image is a colour composite based
+  on data obtained in the B, V, R, and H- filters with the FORS2 instrument attached
+  to Antu, UT1 of the VLT. During his stay on Paranal, the Commissioner, together
+  with the observatory staff, prepared the observations of this Galaxy. At night,
+  Janez Potocnik initiated these observations, and checked the quality of the images
+  as they appeared on the control screens. Because the high-sensitivity detectors
+  used on the VLT measure only the intensity of the light reaching their pixels, the
+  colour information is acquired by taking a sequence of images through different
+  coloured filters. Consequently, the Commissioner could not immediately see the attached
+  image, but only black-and-white version of it. The final colour processing was done
+  by Haennes Heyer and Henri Boffin, with input from Yuri Beletsky (all ESO).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0749a/L{1}X{2}Y{3}.png
+name: Twisted spiral galaxy NGC 134
+ra_hr: 0.5060860953299225
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0749a/thumb.jpg
+zoom_level: 1.147138864730791
+---
+_uuid: ee5cfe6a-6479-45dc-b992-c5f09431aaf8
+annotation: '{"channel": "eso", "itemid": "eso0834a", "publishedUTCISO8601": "2008-10-08T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.17281793880994
+description: This new portrait of the bright star-forming region NGC 346, in which
+  different wavelengths of light swirl together like watercolours, reveals new information
+  about how stars form. NGC 346 is located 210,000 light-years away in the Small Magellanic
+  Cloud, a neighbouring dwarf galaxy of the Milky Way. The image is based on data
+  from ESA XMM-Newton (X-rays; blue), ESO&#x27;s New Technology Telescope (visible
+  light; green), and NASA&#x27;s Spitzer (infrared; red). The infrared light shows
+  cold dust, while the visible light denotes glowing gas, and the X-rays represent
+  very hot gas. Ordinary stars appear as blue spots with white centres, while young
+  stars enshrouded in dust appear as red spots with white centres.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0834a/L{1}X{2}Y{3}.png
+name: Star-forming region NGC 346
+ra_hr: 0.9851095921141408
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0834a/thumb.jpg
+zoom_level: 1.1226761325
+---
+_uuid: bbe29916-18a1-4523-9e68-2a7e9cc0f2ef
+annotation: '{"channel": "eso", "itemid": "eso0902a", "publishedUTCISO8601": "2009-01-19T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -25.28388582196135
+description: NGC 253 is one of the brightest spiral galaxies in the sky, and also
+  one of the dustiest. The whole galaxy is shown here as observed with the WFI instrument,
+  while the insert shows a close-up of the central parts as observed with the NACO
+  instrument on ESO&#x27;s Very Large Telescope and the ACS on the NASA/ESA Hubble
+  Space Telescope. This unique set of observations has allowed a team of astronomers
+  from the Instituto de Astrofísica de Canarias (Spain) to study the galaxy in great
+  detail, uncovering many young, massive and dusty stellar nurseries. They also found
+  that the centre of this galaxy appears to harbour a twin of our own Milky Way&#x27;s
+  supermassive black hole.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0902a/L{1}X{2}Y{3}.png
+name: The starburst galaxy NGC 253
+ra_hr: 0.7926034513425805
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0902a/thumb.jpg
+zoom_level: 5.063474910124343
+---
+_uuid: 8f8a6d55-7d73-404a-81c2-236b21ff3c2d
+annotation: '{"channel": "eso", "itemid": "eso0902b", "publishedUTCISO8601": "2009-01-19T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -25.287619299014676
+description: Close-up of the central regions of the starburst galaxy NGC 253. This
+  image is based on data obtained with the NACO instrument on ESO&#x27;s Very Large
+  Telescope (VLT) and the ACS on the NASA/ESA Hubble Space Telescope. Thanks to the
+  VLT&#x27;s sharp eye, astronomers have identified 37 bright regions, a threefold
+  increase on previous results. These regions are probably very active nurseries that
+  contain as many as one hundred thousand young, massive stars bursting from their
+  dusty cocoons. The field of view is 15 arcseconds.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0902b/L{1}X{2}Y{3}.png
+name: The centre of NGC 253
+ra_hr: 0.7925911045416778
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0902b/thumb.jpg
+zoom_level: 0.0640581522
+---
+_uuid: 02a011ab-4490-4fee-a53d-659abda63903
+annotation: '{"channel": "eso", "itemid": "eso0902c", "publishedUTCISO8601": "2009-01-19T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -25.28388582196135
+description: Measuring 70 000 light-years across and laying 13 million light-years
+  away, the nearly edge-on spiral galaxy NGC 253 is revealed here in an image from
+  the Wide Field Imager (WFI) on the MPG/ESO 2.2-metre telescope at the La Silla Observatory.
+  The image is based on data obtained through four different filters (R, V, H-alpha
+  and OIII). North is up and East to the left. The field of view is 30 arcminutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0902c/L{1}X{2}Y{3}.png
+name: Spiral galaxy NGC 253*
+ra_hr: 0.7926034513425805
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0902c/thumb.jpg
+zoom_level: 5.063474910124343
+---
+_uuid: 2a8bf6ef-5d37-4b6f-bf3b-6b3b3067aa55
+annotation: '{"channel": "eso", "itemid": "eso0902d", "publishedUTCISO8601": "2010-07-27T11:54:04+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -25.311328390810694
+description: This image is a colour composite made from exposures from the Digitized
+  Sky Survey 2 (DSS2). The field of view is approximatelly 3.7 x 3.6 degrees.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0902d/L{1}X{2}Y{3}.png
+name: Digitized Sky Survey image of NGC 253
+ra_hr: 0.7866681115357739
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0902d/thumb.jpg
+zoom_level: 37.256902763364
+---
+_uuid: efb550d6-bba3-48a8-a92a-99ae5f2ca082
+annotation: '{"channel": "eso", "itemid": "eso0914a", "publishedUTCISO8601": "2009-04-04T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -39.21898760225601
+description: Image of the irregular galaxy NGC 55 obtained with the Wide Field Imager
+  on the 2.2-metre MPG/ESO telescope at ESO La Silla Observatory. The galaxy is about
+  7.5 million light-years away and 70,000 light-years across. The image is based on
+  data obtained through B, V, and H-alpha filters. North is up, East to the left.
+  The field of view is 30 arcminutes wide.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0914a/L{1}X{2}Y{3}.png
+name: Irregular galaxy NGC 55
+ra_hr: 0.25133702152663084
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0914a/thumb.jpg
+zoom_level: 5.406560105387701
+---
+_uuid: d69596a2-8430-4422-9929-858d555afddd
+annotation: '{"channel": "eso", "itemid": "eso0941c", "publishedUTCISO8601": "2009-11-03T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 16.46324786827518
+description: This image, obtained with the Subaru Telescope, operated by the National
+  Astronomical Observatory of Japan was used by a team of astronomers, led by Masayuki
+  Tanaka from the European Southern Observatory (ESO), to uncover a gigantic, previously
+  unknown assembly of galaxies located almost seven billion light-years away from
+  us. This structure was confirmed by further observations made using ESO’s Very Large
+  Telescope and Subaru. It is the first observation of such a prominent galaxy structure
+  in the distant Universe, providing further insight into the cosmic web and how it
+  formed.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0941c/L{1}X{2}Y{3}.png
+name: Gigantic structure of galaxies
+ra_hr: 0.3145809979965761
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0941c/thumb.jpg
+zoom_level: 10.488932176144647
+---
+_uuid: 87d28ac0-150e-41b3-ac58-bb6d15ae4619
+annotation: '{"channel": "eso", "itemid": "eso1302a", "publishedUTCISO8601": "2013-01-10T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.07770683575035
+description: This bright cluster of stars is 47 Tucanae (NGC 104), shown here in an
+  image taken by ESO’s VISTA (Visible and Infrared Survey Telescope for Astronomy)
+  from the Paranal Observatory in Chile. This cluster is located around 15 000 light-years
+  away from us and contains millions of stars, some of which are unusual and exotic.
+  This image was taken as part of the VISTA Magellanic Cloud survey, a project that
+  is scanning the region of the Magellanic Clouds, two small galaxies that are very
+  close to our Milky Way.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1302a/L{1}X{2}Y{3}.png
+name: The globular star cluster 47 Tucanae
+ra_hr: 0.40171686018943603
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1302a/thumb.jpg
+zoom_level: 7.971799324272001
+---
+_uuid: 21132b36-7ef8-4732-8806-571a8420d654
+annotation: '{"channel": "eso", "itemid": "eso1714a", "publishedUTCISO8601": "2017-05-03T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.9639144221142
+description: The Small Magellanic Cloud (SMC) galaxy is a striking feature of the
+  southern sky even to the unaided eye. But visible-light telescopes cannot get a
+  really clear view of what is in the galaxy because of obscuring clouds of interstellar
+  dust. VISTA’s infrared capabilities have now allowed astronomers to see the myriad
+  of stars in this neighbouring galaxy much more clearly than ever before. The result
+  is this record-breaking image — the biggest infrared image ever taken of the Small
+  Magellanic Cloud — with the whole frame filled with millions of stars. As well as
+  the SMC itself this very wide-field image reveals many background galaxies and several
+  star clusters, including the very bright 47 Tucanae globular cluster at the right
+  of the picture.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1714a/L{1}X{2}Y{3}.png
+name: VISTA’s view of the Small Magellanic Cloud
+ra_hr: 0.9175126088641634
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1714a/thumb.jpg
+zoom_level: 53.292206020717984
+---
+_uuid: 33bce3b0-39c6-45c8-878b-eccc937f4b05
+annotation: '{"channel": "eso", "itemid": "eso9845b", "publishedUTCISO8601": "1998-09-23T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.6344269110229186
+description: Produced from a 5-min near-infrared exposure, this image was obtained
+  during the night of First Light of the FORS1 instrument (September 15, 1998). It
+  shows a sky field near the quasar PB5763  in which is also seen a peculiar, quite
+  distant cluster of galaxies. Many other fainter galaxies are seen in other areas,
+  for instance in the right part of the field. Images eso9845b (negative) and eso9845c
+  (positive) are based on a monochrome image taken in 0.8 arcsec seeing through a
+  near-infrared (I; 800 nm) filtre. The exposure time was 5 minutes and the image
+  was flat-fielded. The fields shown measure 6.8 x 6.8 arcmin and 2.5 x 2.3 arcmin,
+  respectively. North is to the upper left; East is to the lower left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9845b/L{1}X{2}Y{3}.png
+name: FORS1 first light - distant cluster of galaxies
+ra_hr: 0.1498090892604729
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9845b/thumb.jpg
+zoom_level: 1.1433559766399999
+---
+_uuid: 19521fad-5531-49e9-8577-984a7525d7b8
+annotation: '{"channel": "eso", "itemid": "eso9845c", "publishedUTCISO8601": "1998-09-23T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.6208757454924131
+description: Produced from a 5-min near-infrared exposure, this image was obtained
+  during the night of First Light of the FORS1 instrument (September 15, 1998). It
+  shows an enlargment of the sky field near the quasar PB5763, showing the individual
+  members of this cluster of galaxies in more detail.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9845c/L{1}X{2}Y{3}.png
+name: FORS1 first light - distant cluster of galaxies
+ra_hr: 0.15229415332634366
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9845c/thumb.jpg
+zoom_level: 0.35821675294737704
+---
+_uuid: dcdba892-4bb3-45b1-895e-6aaf47f19299
+annotation: '{"channel": "eso", "itemid": "eso9858h", "publishedUTCISO8601": "1998-11-26T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.511618376034065
+description: The image is a colour composite that shows the cluster EIS0046-2930.
+  The image has been produced by combining the V (green-yellow), R (red) and I (Near-IR)
+  exposures with the Test Camera obtained during the VLT-UT1 Science Verification.
+  The yellow-orange galaxies are the cluster members and the bluer objects are galaxies
+  belonging to the general field population. The cluster center is at the location
+  of the largest (yellow-orange) cluster galaxy to the left of the center of the image.
+  The field measures 90 x 90 arcsec.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9858h/L{1}X{2}Y{3}.png
+name: Very distant galaxy cluster EIS0046-2930
+ra_hr: 0.7742521470134485
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9858h/thumb.jpg
+zoom_level: 0.2549135764147278
+---
+_uuid: a44b3cd0-e8eb-4bf2-acb9-0ce78e3b9d90
+annotation: '{"channel": "eso", "itemid": "eso9903a", "publishedUTCISO8601": "1999-01-15T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -25.255635426664497
+description: This photo shows a sky field around the Spiral Galaxy NGC 253 (Type Sc)
+  seen nearly edge-on. It is located in the southern constellation Sculptor at a distance
+  of about 8 million light-years. The image is the sum of five 5-min exposures through
+  a blue (B-band) optical filtre. They were slightly offset with respect to each other
+  so that the small gaps between the eight CCD&#x27;&#x27;&#x27;&#x27;s of the mosaic
+  are no longer visible. This image also shows the faint trails of 2 artificial satellites.
+  Many of the quite numerous and small, slightly fuzzy objects are undoubtedly globular
+  clusters of NGC 253.  The image processing consisted of de-biassing, flat-fielding,
+  and removal (by interpolation) of some bad columns. The full-width-half-maximum
+  (FWHM) of stellar images is about 1.0 arcsec. It was rebinned (2x2) to 4kx4k size
+  and sampling 0.48 arcsec/pixel.North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9903a/L{1}X{2}Y{3}.png
+name: Spiral galaxy NGC 253
+ra_hr: 0.7946072531022212
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9903a/thumb.jpg
+zoom_level: 5.317318041151711
+---
+_uuid: 9c62eaa4-492e-43b2-9495-594926b7169b
+annotation: '{"channel": "eso", "itemid": "eso9903b", "publishedUTCISO8601": "1999-01-15T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -25.20658010505699
+description: This photo shows a sky field around the Spiral Galaxy NGC 253 (Type Sc)
+  seen nearly edge-on. It is located in the southern constellation Sculptor at a distance
+  of about 8 million light-years. The image is the sum of five 5-min exposures through
+  a blue (B-band) optical filtre. They were slightly offset with respect to each other
+  so that the small gaps between the eight CCDs of the mosaic are no longer visible.
+  This image also shows the faint trails of 2 artificial satellites. It contains some
+  fainter and smaller background galaxies. Many of the quite numerous and small, slightly
+  fuzzy objects are undoubtedly globular clusters of NGC 253.  The image processing
+  consisted of de-biassing, flat-fielding, and removal (by interpolation) of some
+  bad columns. The full-width-half-maximum (FWHM) of stellar images is about 1.0 arcsec.
+  It is a subimage of another image, but at the full original sampling of 0.24 arcsec/pixel.
+  It covers about 2kx2k, or about 1/16 of the full field. North is up and East is
+  left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9903b/L{1}X{2}Y{3}.png
+name: Detail of spiral galaxy NGC 253
+ra_hr: 0.799124481678979
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9903b/thumb.jpg
+zoom_level: 1.4771741186490228
+---
+_uuid: a4ee19d2-3092-412b-8ded-9f0c8b1c7e04
+annotation: '{"channel": "eso", "itemid": "potw1032a", "publishedUTCISO8601": "2010-08-09T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -33.55429353555621
+description: 'Haro 11 appears to shine gently amid clouds of gas and dust, but this
+  placid facade belies the monumental rate of star formation occurring in this “starburst”
+  galaxy. By combining data from ESO’s Very Large Telescope and the NASA/ESA Hubble
+  Space Telescope, astronomers have created a new image of this incredibly bright
+  and distant galaxy. The team of astronomers from Stockholm University, Sweden, and
+  the Geneva Observatory, Switzerland, have identified 200 separate clusters of very
+  young, massive stars. Most of these are less than 10 million years old. Many of
+  the clusters are so bright in infrared light that astronomers suspect that the stars
+  are still emerging from the cloudy cocoons where they were born. The observations
+  have led the astronomers to conclude that Haro 11 is most likely the result of a
+  merger between a galaxy rich in stars and a younger, gas-rich galaxy. Haro 11 is
+  found to produce stars at a frantic rate, converting about 20 solar masses of gas
+  into stars every year. Haro galaxies, first discovered by the noted astronomer Guillermo
+  Haro in 1956, are defined by unusually intense blue and violet light. Usually this
+  high energy radiation comes from the presence of many newborn stars or an active
+  galactic nucleus. Haro 11 is about 300 million light-years away and is the second
+  closest of such starburst galaxies. The paper describing this result (“Super star
+  clusters in Haro 11: Properties of a very young starburst and evidence for a near-infrared
+  flux excess”, by A. Adamo et al.) is available at  http://adsabs.harvard.edu/doi/10.1111/j.1365-2966.2010.16983.x'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1032a/L{1}X{2}Y{3}.png
+name: Frenzied star birth in Haro 11
+ra_hr: 0.6146066116723256
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1032a/thumb.jpg
+zoom_level: 0.07342849990800002
+---
+_uuid: 2eda56b5-3df7-4fb3-b08b-d35b6b607090
+annotation: '{"channel": "eso", "itemid": "potw1106a", "publishedUTCISO8601": "2011-02-07T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -8.399711922783325
+description: The HAWK-I instrument on ESO&#x27;s Very Large Telescope (VLT) at the
+  Paranal Observatory in Chile has been used to great effect in producing this distinctive
+  image of the distant galaxy NGC 157. Boasting a central sweep of stars resembling
+  a giant &quot;S&quot;, reminiscent of the comic book hero Superman’s symbol, this
+  celestial spiral is indeed a super example of how new technology is helping us to
+  learn more about the cosmos. HAWK-I stands for High-Acuity Wide-field K-band Imager,
+  and it is one of the latest and most powerful instruments on the VLT. It detects
+  infrared light, allowing us to peer through the gas and dust that normally obscures
+  our view. This reveals an otherwise hidden view of the Universe, and gives astronomers
+  the opportunity to study dense areas of star formation. Learning more about star
+  formation is an important step towards expanding our understanding of our own origins.
+  The same processes that are coalescing material in NGC 157 and creating stars there
+  took place around 4.5 billion years ago in the Milky Way to form our own star, the
+  Sun. NGC 157 is faint at about magnitude 11, but can be tracked down by dedicated
+  amateur astronomers. It is located within the constellation of Cetus (the Sea Monster).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1106a/L{1}X{2}Y{3}.png
+name: HAWK-I instrument spies a super galaxy
+ra_hr: 0.5796170615917765
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1106a/thumb.jpg
+zoom_level: 0.9636459248340001
+---
+_uuid: 2210a06a-cdf2-4a28-a19b-107c3d52e12f
+annotation: '{"channel": "eso", "itemid": "potw1428a", "publishedUTCISO8601": "2014-07-14T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.58193167735743
+description: 'Can you count the number of bright dots in this picture? This crowded
+  frame is a deep-field image obtained using the Wide Field Imager (WFI), a camera
+  mounted on a relatively modestly sized telescope, the MPG/ESO 2.2-metre located
+  at the La Silla Observatory, Chile. This image is one of five patches of sky covered
+  by the COMBO-17 survey (Classifying Objects by Medium-Band Observations in 17 filters),
+  a deep search for cosmic objects in a relatively narrow area of the southern hemisphere&#x27;s
+  sky. Each one of the five patches is recorded using 17 individual colour filters.
+  Each one of the five COMBO-17 images covers an area of the sky the size of the full
+  Moon. The survey has already revealed thousands of previously unknown cosmic specimens
+  — over 25 000 galaxies, tens of thousands of distant stars and quasars previously
+  hidden from our view, showing just how much we still have to learn about the Universe.
+  Some of the most distant flecks of light visible in this photo are galaxies whose
+  light has been travelling for nine or ten billion years before reaching to us. By
+  studying galaxies of different ages astronomers can understand how they evolve in
+  time, from mature nearby galaxies similar to our galaxy, the Milky Way, to young
+  ones in the distant Universe that reveal what the cosmos was like in its infancy.
+  Links:  The COMBO-17 survey at the Max-Planck-Institut für Astronomie, Heidelberg '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1428a/L{1}X{2}Y{3}.png
+name: A deep look into a dark sky
+ra_hr: 0.7654005352958765
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1428a/thumb.jpg
+zoom_level: 4.9753153500299305
+---
 _uuid: 73bd1b69-bc43-473f-beec-ea4773d93db7
 angular_size: 0.7812381934355486
 annotation: '{"channel": "noirlab", "itemid": "gemini-vv166-final", "publishedUTCISO8601":

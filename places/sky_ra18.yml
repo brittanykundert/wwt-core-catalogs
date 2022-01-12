@@ -1,3 +1,620 @@
+_uuid: 3409cdd2-4c1c-414b-8e96-e926d1d11bad
+annotation: '{"channel": "eso", "itemid": "eso0030a", "publishedUTCISO8601": "2000-09-14T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -16.198515473991502
+description: 'This is a near-infrared, colour-coded composite image of a sky field
+  in the south-western part of the galactic star-forming region Messier 17. In this
+  image, young and heavily obscured stars are recognized by their red colour. Bluer
+  objects are either foreground stars or well-developed massive stars whose intense
+  light ionizes the hydrogen in this region. The diffuse light that is visible nearly
+  everywhere in the photo is due to emission from hydrogen atoms that have (re-)combined
+  from protons and electrons. The dark areas are due to obscuration of the light from
+  background objects by large amounts of dust — this effect also causes many of those
+  stars to appear quite red. A cluster of young stars in the upper-left part of the
+  photo, so deeply embedded in the nebula that it is invisible in optical light, is
+  well visible in this infrared image. Technical information : The exposures were
+  made through three filtres, J (at wavelength 1.25 µm; exposure time 5 min; here
+  rendered as blue), H (1.65 µm; 5 min; green) and Ks (2.2 µm; 5 min; red); an additional
+  15 min was spent on separate sky frames. The seeing was 0.5 - 0.6 arcsec. The objects
+  in the uppermost left corner area appear somewhat elongated because of a colour-dependent
+  aberration introduced at the edge by the large-field optics. The sky field shown
+  measures approx. 5 x 5 arcmin 2 (corresponding to about 3% of the full moon). North
+  is up and East is left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0030a/L{1}X{2}Y{3}.png
+name: Peering into a star factory
+ra_hr: 18.34043210142113
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0030a/thumb.jpg
+zoom_level: 0.8179781777999999
+---
+_uuid: a77fed3c-92e8-45ae-8941-e63e7c4a73a4
+annotation: '{"channel": "eso", "itemid": "eso0142a", "publishedUTCISO8601": "2001-12-20T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -13.829770644580888
+description: 'Messier 16 (M16), also known as the Eagle Nebula, is located in the
+  southern constellation of Serpens (the Snake). Using the infrared multi-mode ISAAC
+  instrument on the 8.2-m VLT ANTU telescope, European astronomers were able to image
+  the Eagle Nebula at near-infrared wavelength.  The ISAAC near-infrared images cover
+  a 9 x 9 arcminutes region, in three broad-band colours and with sufficient sensitivity
+  to detect young stars of all masses and — most importantly — with an image sharpness
+  as good as 0.35 arcseconds. The wide-field view of M16 shows that there is much
+  happening in the region. The first impression one gets is of an enormous number
+  of stars. Those which are blue in the infrared image are either members of the young
+  NGC 6611 cluster — whose massive stars are concentrated in the upper right (north
+  west) part of the field — or foreground stars which happen to lie along the line
+  of sight towards M16. Most of the stars are fainter and more yellow. They are ordinary
+  stars behind M16, along the line of sight through the galactic bulge, and are seen
+  through the molecular clouds out of which NGC 6611 formed. Some very red stars are
+  also seen: these are either very young and embedded in gas and dust clouds, or just
+  brighter stars in the background shining through them. This photo is the result
+  of a three-colour composite mosaic image of the Eagle Nebula (Messier 16), based
+  on 144 individual images obtained with the infrared multi-mode instrument ISAAC
+  on the ESO Very Large Telescope (VLT) at the Paranal Observatory. At the centre,
+  the so-called &quot;Pillars of Creation&quot; can be seen. This wide-field infrared
+  image shows not only the central three pillars but also several others in the same
+  star-forming region, as well as a huge number of stars in front of, in, or behind
+  the Eagle Nebula. The cluster of bright blue stars to the upper right is NGC 6611,
+  home to the massive and hot stars that illuminate the pillars. Technical information:
+  This image was made using the near-infrared camera ISAAC on the ESO 8.2-m VLT ANTU
+  telescope on April 8 and May 8 - 10, 2001. The full field measures approximately
+  9.1 x 9.1 arcmin, covering roughly 17 x 17 light-years (5.3 x 5.3 pc) at the distance
+  to the region (about 6,500 light-years or 2 kpc). This required a 16-position mosaic
+  (4 x 4 grid) of ISAAC pointings : at each pointing, a series of images were taken
+  in each of the near-infrared J s - (centred at 1.24 µm wavelength), H- (1.65µm),
+  and K s - (2.16 µm) bands. North is up and East left.The total integration time
+  for each pixel in the mosaic was 1200, 300, and 300 seconds in the central 4.5 x
+  4.5 arcmin region, and 200, 50, and 50 seconds in the outer part, in J s -, H-,
+  and K s - bands, respectively. The seeing FWHM (full width at half maximum) was
+  excellent, at 0.38, 0.36, and 0.33 arcsec in J s, H, and K s, respectively. Point
+  sources are detected in the central region at the 3-sigma level (brightest pixel
+  above background noise) at 22.6, 21.3, and 20.4 magnitudes in J s, H, and K s, respectively.
+  These limits imply that a 1 million year old, 0.075 solar-mass object on the star/brown
+  dwarf boundary could be detected in M16 through roughly 15, 20, and 30 magnitudes
+  of visual extinction at J s, H, and K s, respectively.After removal of instrumental
+  signatures and the bright infrared sky background, all frames in a given band were
+  carefully aligned and adjusted to form a seamless mosaic. The three monochromatic
+  mosaics were then scaled to the cube root of their intensities to reduce the enormous
+  dynamic range and enhance faint nebular features. The mosaics were then combined
+  to create the colour-coded image, with the J s -band being rendered as blue, the
+  H-band as green, and the K s -band as red. A total of 144 individual 1024 x 1024
+  pixel ISAAC images were merged to form this mosaic.   #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0142a/L{1}X{2}Y{3}.png
+name: The Eagle's EGGs *
+ra_hr: 18.314711102053824
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0142a/thumb.jpg
+zoom_level: 1.5635638425600002
+---
+_uuid: 59f0f190-cbb0-4649-b074-5321a5377b11
+annotation: '{"channel": "eso", "itemid": "eso0142b", "publishedUTCISO8601": "2001-12-20T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -13.838597324750472
+description: 'This shows a zoom into the centre of ESO Press Photo eso0142a, with
+  the infrared view of the columns and their immediate surroundings in more detail.
+  The pillars or columns are numbered 1 to 3 from left to right (east to west). The
+  pillars themselves are less prominent than on the Hubble visible-light image of
+  this region - this because near-infrared light penetrates the thinner parts of the
+  gas and dust clouds and only the heads remain opaque. A number of red objects can
+  be seen associated with the pillars : some of these are just background sources
+  seen through the dust, but some are probably real young stars embedded in the pillars.
+  The purple arc near the bottom of the picture is Herbig-Haro object 216, a fast-moving
+  clump of heated gas emanating from a young star (see also ESO Press Photo eso0142e).
+  Technical information: This image shows an enlarged section of the full mosaic covering
+  6.2 x 7.5 light-years (1.9 x 2.3 pc) centred on the pillars. North is up and East
+  left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0142b/L{1}X{2}Y{3}.png
+name: The ISAAC infrared images of Messier 16
+ra_hr: 18.314896395289463
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0142b/thumb.jpg
+zoom_level: 0.675324143472
+---
+_uuid: 39e357af-023c-45aa-9e5f-7f0ee39d6518
+annotation: '{"channel": "eso", "itemid": "eso0142c", "publishedUTCISO8601": "2001-12-20T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -13.816138367621921
+description: Enlarged view of the head of the largest of the three main pillars, Column
+  1. The head is almost transparent around the edges at near-infrared wavelengths,
+  but there is still a substantial opaque core which even these near-infrared VLT
+  observations cannot penetrate. The complex bluish nebulosity bisected by a dark
+  lane near the tip is being lit up by the bright yellow star just below it, which
+  appears to be very young and rather massive. Several of the much fainter stars to
+  the right of and below this source are found to be associated with EGGs seen in
+  the Hubble image, and these all have much lower masses. Finally, there is a faint
+  streak of blue light emanating from from the tip of EGG 23, one of the darkest parts
+  of Column 1, ending in a blue blob further north. An equal distance to the south
+  of the EGG and off the head, there is another curving blue nebulosity. These features
+  are also seen in the Hubble image, and may be part of a Herbig-Haro jet coming from
+  a young star buried deeply in EGG 23 and invisible in this image. Technical information: The
+  region shown measures 1.9 x 2.8 light-years (0.6 x 0.9 pc). The intensity scalings
+  have been adjusted to better show the young stars embedded in the head of each column. North
+  is up and East left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0142c/L{1}X{2}Y{3}.png
+name: Head of column No. 1 in Eagle Nebula
+ra_hr: 18.31423568664083
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0142c/thumb.jpg
+zoom_level: 0.12662090045399998
+---
+_uuid: 580332d8-6c8f-43f4-af04-5bc423c9183f
+annotation: '{"channel": "eso", "itemid": "eso0142d", "publishedUTCISO8601": "2001-12-20T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -13.832591432706609
+description: 'Enlarged view of the head of Column 2. The bright blue-yellow source
+  embedded in nebulosity near the tip is another young star unseen in the Hubble images:
+  although it appears to be double here, it is in fact just one relatively massive
+  young star surrounding by nebulosity. Technical information: The region shown measures
+  1.9 x 2.8 light-years (0.6 x 0.9 pc). The intensity scalings have been adjusted
+  to better show the young stars embedded in the head of each column. North is up
+  and East left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0142d/L{1}X{2}Y{3}.png
+name: Head of column No. 2 in Eagle Nebula
+ra_hr: 18.313737654685156
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0142d/thumb.jpg
+zoom_level: 0.115938086004
+---
+_uuid: 1fee0630-5110-46be-909a-130ddc5dad8f
+annotation: '{"channel": "eso", "itemid": "eso0142e", "publishedUTCISO8601": "2001-12-20T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -13.88068974612502
+description: Enlarged view of the head of Column 4 in the Eagle Nebula. This column
+  is similar to the more familiar ones, but thus far less impacted by the massive
+  stars in NGC6611. The two red nebulosities in the head signpost one or more young
+  stars so deeply embedded that they cannot be seen directly in the VLT infrared image,
+  only indirectly as they illuminate dust around them. One of these sources is thought
+  to be the origin of the Herbig-Haro object HH216 seen in ESO Press Photo eso0142a and ESO
+  Press Photo eso0142b. Technical information: The region shown measures 1.9 x 2.8
+  light-years (0.6 x 0.9 pc). The intensity scalings have been adjusted to better
+  show the young stars embedded in the head of each column. North is up and East left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0142e/L{1}X{2}Y{3}.png
+name: Head of Column No. 4 in Eagle Nebula
+ra_hr: 18.316498500589816
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0142e/thumb.jpg
+zoom_level: 0.1280166914040612
+---
+_uuid: 1f0211d8-d31b-496b-b9e5-0d2b55771f7d
+annotation: '{"channel": "eso", "itemid": "eso0416a", "publishedUTCISO8601": "2004-05-12T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -16.173646290450552
+description: Three-colour composite of the sky region of M 17, a H II region excited
+  by a cluster of young, hot stars. A large silhouette disc has been found to the
+  south-west of the cluster centre. The present image was obtained with the ISAAC
+  near-infrared instrument at the 8.2-m VLT ANTU telescope at Paranal.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0416a/L{1}X{2}Y{3}.png
+name: Stellar cluster and star-forming region M 17
+ra_hr: 18.34133521269871
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0416a/thumb.jpg
+zoom_level: 1.0363211525999998
+---
+_uuid: a56a5e93-2467-44cd-9dd2-3256a4ab0a82
+annotation: '{"channel": "eso", "itemid": "eso0416b", "publishedUTCISO8601": "2004-05-12T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -16.173231608328916
+description: Three-colour composite of the sky region of M 17, a H II region excited
+  by a cluster of young, hot stars. A large silhouette disc has been found to the
+  south-west of the cluster centre. The present image was obtained with the ISAAC
+  near-infrared instrument at the 8.2-m VLT ANTU telescope at Paranal. The orientation
+  and the scale at the distance of M 17 (7,000 light-years) are indicated, and the
+  main regions are identified.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0416b/L{1}X{2}Y{3}.png
+name: Stellar cluster and star-forming region M 17 (annotated)
+ra_hr: 18.341341366473404
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0416b/thumb.jpg
+zoom_level: 1.024198324896
+---
+_uuid: f66ac258-047a-4561-9c15-4a977997299f
+annotation: '{"channel": "eso", "itemid": "eso0736b", "publishedUTCISO8601": "2007-08-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 1.265713250651391
+description: The figure shows the Serpens star-forming region, as it was imaged during
+  commissioning, on HAWK-I&#x27;s four large infrared detectors. The gap between them
+  is real, and multiple exposures are required to make a filled-in picture. The colour
+  composite was created from images taken through three filters, J, H and K.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0736b/L{1}X{2}Y{3}.png
+name: Serpens star forming region
+ra_hr: 18.497161141343497
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0736b/thumb.jpg
+zoom_level: 1.2764246499355272
+---
+_uuid: 23584265-e5a8-4412-a7c0-b88a8df361a1
+annotation: '{"channel": "eso", "itemid": "eso0736c", "publishedUTCISO8601": "2007-08-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 1.2337063005097213
+description: This image shows a close-up view of detector 1 of HAWK-I. Despite a total
+  exposure time of only 1 minute in each of three infrared filters, the image shows
+  great detail in this million-year old region, revealing red young stars, reflection
+  nebulae and dark clouds of gas and dust very clearly.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0736c/L{1}X{2}Y{3}.png
+name: Nebula in serpens
+ra_hr: 18.499361756957526
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0736c/thumb.jpg
+zoom_level: 0.5774956425033213
+---
+_uuid: a8d26938-963f-4629-9448-7c24dcd2ecb4
+annotation: '{"channel": "eso", "itemid": "eso0925a", "publishedUTCISO8601": "2009-07-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -16.17544931834577
+description: 'Three-colour composite image of the Omega Nebula (Messier 17, or NGC
+  6618), based on images obtained with the EMMI instrument on the ESO 3.58-metre New
+  Technology Telescope at the La Silla Observatory. North is down and East is to the
+  right in the image. It spans an angle equal to about one third the diameter of the
+  Full Moon, corresponding to about 15 light-years at the distance of the Omega Nebula.
+  The three filters used are B (blue), V (&quot;visual&quot;, or green) and R (red).
+  #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0925a/L{1}X{2}Y{3}.png
+name: The Omega Nebula
+ra_hr: 18.346913072251017
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0925a/thumb.jpg
+zoom_level: 1.456784627562
+---
+_uuid: cc53c311-27f8-4b2c-bb97-bfa579fadd2c
+annotation: '{"channel": "eso", "itemid": "eso0925b", "publishedUTCISO8601": "2015-09-23T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -16.16499248980093
+description: This image is a colour composite of the Omega Nebula (M 17) made from
+  exposures from the Digitized Sky Survey 2 (DSS2). The field of view is approximatelly
+  4.7 x 3.7 degrees.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0925b/L{1}X{2}Y{3}.png
+name: Digitized Sky Survey Image of the Omega Nebula (M 17)
+ra_hr: 18.346701431511217
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0925b/thumb.jpg
+zoom_level: 37.837356990192
+---
+_uuid: b657aaf3-1338-42b4-8a3d-0fc49e5e00d5
+annotation: '{"channel": "eso", "itemid": "eso0926a", "publishedUTCISO8601": "2009-07-16T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -13.763864193871319
+description: 'Three-colour composite mosaic image of the Eagle Nebula (Messier 16,
+  or NGC 6611), based on images obtained with the Wide-Field Imager camera on the
+  MPG/ESO 2.2-metre telescope at the La Silla Observatory. At the centre, the so-called
+  “Pillars of Creation” can be seen. This wide-field  image shows not only the central
+  pillars, but also several others in the same star-forming region, as well as a huge
+  number of stars in front of, in, or behind the Eagle Nebula. The cluster of bright
+  stars to the upper right is NGC 6611, home to the massive and hot stars that illuminate
+  the pillars. The “Spire” — another large pillar — is in the middle left of the image.
+  This image is a composite of 3 filters in the visible range: B (blue), V (green)
+  and R (red). #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0926a/L{1}X{2}Y{3}.png
+name: The Eagle Nebula
+ra_hr: 18.313725555228167
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0926a/thumb.jpg
+zoom_level: 5.452838499552
+---
+_uuid: 83870788-09cd-4f8a-9fff-5dd1aa1efc02
+annotation: '{"channel": "eso", "itemid": "eso0926b", "publishedUTCISO8601": "2010-07-27T10:55:43+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -13.854272145870342
+description: This image is a colour composite of the Eagle Nebula (M 16) made from
+  exposures from the Digitized Sky Survey 2 (DSS2). The field of view is approximatelly
+  3.8 x 3.3 degrees.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0926b/L{1}X{2}Y{3}.png
+name: Digitized sky survey image of the Eagle Nebula
+ra_hr: 18.313097906997047
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0926b/thumb.jpg
+zoom_level: 33.583751824535995
+---
+_uuid: 58c9a102-8bb2-467f-ac9a-7c4592398e5d
+annotation: '{"channel": "eso", "itemid": "eso0930a", "publishedUTCISO8601": "2009-08-26T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -22.941776124305385
+description: 'The massive star factory known as the Trifid Nebula was captured in
+  all its glory with the Wide-Field Imager camera attached to the MPG/ESO 2.2-metre
+  telescope at ESO’s La Silla Observatory in northern Chile. So named for the dark
+  dust bands that trisect its glowing heart, the Trifid Nebula is a rare combination
+  of three nebulae types that reveal the fury of freshly formed stars and point to
+  more star birth in the future. The field of view of the image is approximately 13
+  x 17 arcminutes. #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0930a/L{1}X{2}Y{3}.png
+name: The Trifid Nebula
+ra_hr: 18.038456166520067
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0930a/thumb.jpg
+zoom_level: 3.8799492056915317
+---
+_uuid: 2e5f6398-da82-4d41-9c0b-07f63fd4d878
+annotation: '{"channel": "eso", "itemid": "eso0930b", "publishedUTCISO8601": "2009-08-26T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -22.929787506471765
+description: The massive star factory known as the Trifid Nebula was captured in all
+  its glory with the Wide-Field Imager camera attached to the MPG/ESO 2.2-metre telescope
+  at ESO’s La Silla Observatory in northern Chile. So named for the dark dust bands
+  that trisect its glowing heart, the Trifid Nebula is a rare combination of three
+  nebulae types that reveal the fury of freshly formed stars and point to more star
+  birth in the future. The field of view of the image is approximately 19 x 26 arcminutes.
+  The Trifid Nebula is also known as NGC 6514 and Messier 20.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0930b/L{1}X{2}Y{3}.png
+name: The Trifid Nebula (full frame)
+ra_hr: 18.035983054479562
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0930b/thumb.jpg
+zoom_level: 4.129349719873495
+---
+_uuid: f7fee7f9-52a3-478e-90ab-11abf33dac15
+annotation: '{"channel": "eso", "itemid": "eso0936a", "publishedUTCISO8601": "2009-09-28T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.138078404925906
+description: 'The third image of ESO’s GigaGalaxy Zoom project is an amazing vista
+  of the Lagoon Nebula taken with the 67-million-pixel Wide Field Imager attached
+  to the MPG/ESO 2.2-metre telescope at the La Silla Observatory in Chile. The image
+  covers more than one and a half square degree — an area eight times larger than
+  that of the Full Moon — with a total of about 370 million pixels. It is based on
+  images acquired using three different broadband filters (B, V, R) and one narrow-band
+  filter (H-alpha). #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0936a/L{1}X{2}Y{3}.png
+name: 370-million-pixel starscape of the Lagoon Nebula
+ra_hr: 18.06343968031911
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0936a/thumb.jpg
+zoom_level: 10.643732090423999
+---
+_uuid: 333c211b-8015-4630-9273-7907079395ef
+angular_size: 9.078763831458975
+annotation: '{"channel": "eso", "itemid": "eso1119a", "publishedUTCISO8601": "2011-06-08T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -16.147686746999746
+description: 'The first released VST image shows the spectacular star-forming region
+  Messier 17, also known as the Omega Nebula or the Swan Nebula, as it has never been
+  seen before. This vast region of gas, dust and hot young stars lies in the heart
+  of the Milky Way in the constellation of Sagittarius (The Archer). The VST field
+  of view is so large that the entire nebula, including its fainter outer parts, is
+  captured — and retains its superb sharpness across the entire image. The data were
+  processed using the Astro-WISE software system developed by E.A. Valentijn and collaborators
+  at Groningen and elsewhere. #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1119a/L{1}X{2}Y{3}.png
+name: VST image of the star-forming region Messier 17
+ra_hr: 18.349626156447997
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1119a/thumb.jpg
+zoom_level: 9.078763831458975
+---
+_uuid: 48d9a0d7-29de-4128-9e67-229c8ffcf00a
+annotation: '{"channel": "eso", "itemid": "eso1320a", "publishedUTCISO8601": "2013-05-02T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.095014850457254
+description: The Danish 1.54-metre telescope located at ESO’s La Silla Observatory
+  in Chile has captured a striking image of NGC 6559, an object that showcases the
+  anarchy that reigns when stars form inside an interstellar cloud. This region of
+  sky includes glowing red clouds of mostly hydrogen gas, blue regions where starlight
+  is being reflected from tiny particles of dust and also dark regions where the dust
+  is thick and opaque.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1320a/L{1}X{2}Y{3}.png
+name: The star formation region NGC 6559
+ra_hr: 18.16251137976076
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1320a/thumb.jpg
+zoom_level: 2.18306123424
+---
+_uuid: be03637d-8ddd-4969-ade5-06df14e9b952
+angular_size: 12.197172761422749
+annotation: '{"channel": "eso", "itemid": "eso1628a", "publishedUTCISO8601": "2016-08-10T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -17.32910280525223
+description: The small smattering of bright blue stars upper left of centre in this
+  huge 615 megapixel ESO image is the perfect cosmic laboratory in which to study
+  the life and death of stars. Known as Messier 18 this open star cluster contains
+  stars that formed together from the same massive cloud of gas and dust. This image
+  was captured by the OmegaCAM camera attached to the VLT Survey Telescope (VST) located
+  at ESO’s Paranal Observatory in Chile.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1628a/L{1}X{2}Y{3}.png
+name: The star cluster Messier 18 and its surroundings
+ra_hr: 18.29752301009882
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1628a/thumb.jpg
+zoom_level: 12.197172761422749
+---
+_uuid: e07d7a47-90b0-4efa-b3d3-f5ce2e5c552c
+angular_size: 21.450537507795914
+annotation: '{"channel": "eso", "itemid": "eso1719a", "publishedUTCISO8601": "2017-06-14T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -14.102303096250091
+description: Two of the sky’s more famous residents share the stage with a lesser-known
+  neighbour in this enormous three gigapixel image from ESO’s VLT Survey Telescope
+  (VST). On the right lies the faint, glowing cloud of gas called Sharpless 2-54,
+  the iconic Eagle Nebula (Messier 16) is in the centre, and the Omega Nebula (Messier
+  17) to the left. This cosmic trio makes up just a portion of a vast complex of gas
+  and dust within which new stars are springing to life and illuminating their surroundings.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1719a/L{1}X{2}Y{3}.png
+name: The VST captures three spectacular nebulae in one image
+ra_hr: 18.324954505482552
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1719a/thumb.jpg
+zoom_level: 21.450537507795914
+---
+_uuid: 00c69675-5e16-45aa-9193-f0ec54d69803
+angular_size: 8.939002193581645
+annotation: '{"channel": "eso", "itemid": "eso1740a", "publishedUTCISO8601": "2017-12-13T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.024947340974713
+description: The OmegaCAM imager on ESO’s VLT Survey Telescope has captured this glittering
+  view of the stellar nursery called Sharpless 29. Many astronomical phenomena can
+  be seen in this giant image, including cosmic dust and gas clouds that reflect,
+  absorb, and re-emit the light of hot young stars within the nebula.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1740a/L{1}X{2}Y{3}.png
+name: Stellar Nursery Blooms into View
+ra_hr: 18.16122197073986
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1740a/thumb.jpg
+zoom_level: 8.939002193581645
+---
+_uuid: c9612f58-8cf7-4f77-b69f-d2572603b258
+annotation: '{"channel": "eso", "itemid": "eso2007c", "publishedUTCISO8601": "2020-05-06T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -56.021957523834814
+description: This wide-field view shows the region of the sky, in the constellation
+  of Telescopium, where HR 6819 can be found, a triple system consisting of two stars
+  and the closest black hole to Earth ever found. This view was created from images
+  forming part of the Digitized Sky Survey 2. While the black hole is invisible, the
+  two stars in HR 6819 can be viewed from the southern hemisphere on a dark, clear
+  night without binoculars or a telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2007c/L{1}X{2}Y{3}.png
+name: Wide-field view of the region of the sky where HR 6819 is located
+ra_hr: 18.28541928398465
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2007c/thumb.jpg
+zoom_level: 24.732724902211274
+---
+_uuid: e785121b-f8a3-4910-9a06-512dcbf0d6ea
+annotation: '{"channel": "eso", "itemid": "minor_planet_tunis", "publishedUTCISO8601":
+  "2009-12-03T23:20:50+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -13.825818709957945
+description: An image of the minor planet, or asteroid, called Tunis, numbered 6362
+  on the list of minor planets maintained by the International Astronomical Union.
+  A minor planet is an object in the Solar System that is neither a planet nor a comet.
+  Many tens of thousands of these objects have been described, most of which orbit
+  the Sun in the Asteroid Belt between Mars and Jupiter.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/minor_planet_tunis/L{1}X{2}Y{3}.png
+name: Minor planet Tunis
+ra_hr: 18.204639818471005
+thumbnail: http://data1.wwtassets.org/feeds/eso/minor_planet_tunis/thumb.jpg
+zoom_level: 1.1573621839864063
+---
+_uuid: d9847050-3f0e-458e-b478-2ff3f7490b1a
+annotation: '{"channel": "eso", "itemid": "potw1016a", "publishedUTCISO8601": "2010-04-19T09:55:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.384898975679363
+description: Gas and dust condense, beginning the process of creating new stars in
+  this image of Messier 8, also known as the Lagoon Nebula. Located four to five thousand
+  light-years away, in the constellation of Sagittarius (the Archer), the nebula is
+  a giant interstellar cloud, one hundred light-years across. It boasts many large,
+  hot stars, whose ultraviolet radiation sculpts the gas and dust into unusual shapes.
+  Two of these giant stars illuminate the brightest part of the nebula, known as the
+  Hourglass Nebula, a spiralling, funnel-like shape near its centre. Messier 8 is
+  one of the few star-forming nebulae visible to the unaided eye, and was discovered
+  as long ago as 1747, although the full range of colours wasn’t visible until the
+  advent of more powerful telescopes. The Lagoon Nebula derives its name from the
+  wide lagoon-shaped dark lane located in the middle of the nebula that divides it
+  into two glowing sections. This image combines observations performed through three
+  different filters (B, V, R) with the 1.5-metre Danish telescope at the ESO La Silla
+  Observatory in Chile.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1016a/L{1}X{2}Y{3}.png
+name: The glow of the Lagoon Nebula
+ra_hr: 18.060362799916195
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1016a/thumb.jpg
+zoom_level: 2.307516986304
+---
+_uuid: 1d26313a-0fd8-413c-9ada-22c0125b7002
+annotation: '{"channel": "eso", "itemid": "potw1714a", "publishedUTCISO8601": "2017-04-03T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.780527224030315
+description: '  This image depicts the dusty disc encircling the young, isolated star
+  HD 169142. The Atacama Large Millimeter/submillimeter Array (ALMA) imaged this disc
+  in high resolution by picking up faint signals from its constituent millimetre-sized
+  dust grains. The vivid rings are thick bands of dust, separated by deep gaps. Optimised
+  to study the cold gas and dust of systems like HD 169142, ALMA’s sharp eyes have
+  revealed the structure of many infant solar systems with similar cavities and gaps.
+  A variety of theories have been proposed to explain them — such as turbulence caused
+  by magnetorotational instability, or the fusing of dust grains — but the most plausible
+  explanation is that these pronounced gaps were carved out by giant protoplanets.
+  When solar systems form gas and dust coalesce into planets. These planets then effectively
+  spring clean their orbits, clearing them of gas and dust and herding the remaining
+  material into well-defined bands. The deep gaps seen in this image are consistent
+  with the presence of multiple protoplanets — a finding that agrees with other optical
+  and infrared studies of the same system. Observing such dusty protoplanetary discs
+  with ALMA allows scientists to investigate the first steps of planet formation in
+  a bid to unveil the evolutionary paths of these infant systems. Links  INAF press
+  release (Italian) '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1714a/L{1}X{2}Y{3}.png
+name: Spring Cleaning in an Infant Star System
+ra_hr: 18.408271300785838
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1714a/thumb.jpg
+zoom_level: 0.0014594028284197198
+---
+_uuid: 53e5625d-effb-4f6a-a171-56559f43212a
+annotation: '{"channel": "eso", "itemid": "potw1818a", "publishedUTCISO8601": "2018-04-30T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -23.935356953866926
+description: A sinister smile appears amid a sea of stars in this image — a small
+  portion of a gigantic gigapixel colour mosaic of the Milky Way’s heart. Comprised
+  of thousands of incredibly detailed images taken by ESO’s Visible and Infrared Survey
+  Telescope for Astronomy (VISTA), the mosaic reveals more of the stars at the Milky
+  Way’s heart than ever before. VISTA was chosen due to its extremely sensitive infrared
+  camera, which can see through most of the dust that blocks our view towards the
+  centre of the galaxy. What we see in this image is a dense patch of gas and dust  —
+  a nebula — that even VISTA’s camera cannot see through. Located near the Lagoon
+  Nebula (not seen), it appears to wink back as it mischievously blocks out the light
+  from background stars. The full image contains almost nine billion pixels, and is
+  part of the Vista Variables in the Via Lactea (VVV) survey, a project to image the
+  Milky Way’s bulge and disc at near-infrared wavelengths. To create the colour mosaic,
+  images at three different wavelengths were seamlessly combined. The full zoomable
+  image can be explored online.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1818a/L{1}X{2}Y{3}.png
+name: Lights out in the galactic centre
+ra_hr: 18.162002674718057
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1818a/thumb.jpg
+zoom_level: 13.720701886873861
+---
+_uuid: 17d85d97-278f-4855-bef9-64022e6416aa
+annotation: '{"channel": "eso", "itemid": "potw1909a", "publishedUTCISO8601": "2019-03-04T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.381758228150893
+description: If you had a brand new state-of-the-art telescope facility, what would
+  you look at first? Researchers at the SPECULOOS Southern Observatory — which comprises
+  four small telescopes, each with a 1-metre primary mirror — chose to view the Lagoon
+  Nebula. This magnificent picture is the result, and is one of the SPECULOOS’ first
+  ever observations. The nebula is a cloud of dust and gas in our galaxy where new
+  stars are being born, and is found roughly 5000 light-years from us. This striking
+  image is made even more impressive by the fact that the SPECULOOS isn’t actually
+  designed to study nebulae. The name says it all — SPECULOOS, the Search for habitable
+  Planets EClipsing ULtra-cOOl Stars. In other words, the primary mission of this
+  telescope facility is to find Earth-like planets orbiting faint nearby stars. The
+  candidates it discovers will be passed over to larger telescopes, such as ESO’s
+  forthcoming Extremely Large Telescope (ELT), to be studied in more detail. SPECULOOS
+  is located at ESO’s Paranal Observatory in the Atacama Desert of Chile, taking full
+  advantage of the location’s dark skies, ideal atmospheric conditions, and the support
+  systems ESO has there, from telescope infrastructure to staff accommodation. It
+  will have a partner, the SPECULOOS Northern Observatory, in the Canary Islands,
+  which will hunt for planets in the northern skies not visible from Chile. Together
+  they promise to vastly expand our knowledge of the exoplanets in our neighbourhood.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1909a/L{1}X{2}Y{3}.png
+name: Off to a strong start
+ra_hr: 18.060333731472646
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1909a/thumb.jpg
+zoom_level: 1.868350804706709
+---
 _uuid: c4f7fb0c-5f96-4630-8c6d-de61185afe4c
 annotation: '{"channel": "noirlab", "itemid": "gemini-20070806-ngc6520gem-clnflattrim",
   "publishedUTCISO8601": "2007-08-06T00:00:00+00:00"}'

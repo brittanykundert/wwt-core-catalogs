@@ -1,3 +1,146 @@
+_uuid: 4197580c-6ecc-4aa9-a704-b9a82db20c3b
+annotation: '{"channel": "eso", "itemid": "eso0622a", "publishedUTCISO8601": "2006-06-28T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -7.4115247041470385
+description: Composite image based on data acquired with the FORS1 multi-mode instrument
+  in April and May 2006 for the European Supernova Collaboration. The observations
+  were made in four different filters (B, V, R, and I) that were combined to make
+  a colour image. The field of view covers 5.6 x 8.3 arcmin. North is up and East
+  is to the left. The observations were done by Ferdinando Patat and the Paranal Science
+  team (ESO), and the final processing was done by Olivia Blanchemain, Henri Boffin
+  and Haennes Heyer (ESO).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0622a/L{1}X{2}Y{3}.png
+name: The hooked galaxy and its companion
+ra_hr: 15.360258862450069
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0622a/thumb.jpg
+zoom_level: 1.126769679324
+---
+_uuid: 569a32dc-6bf3-4c77-bce0-5cd94fdcadad
+annotation: '{"channel": "eso", "itemid": "eso0622b", "publishedUTCISO8601": "2006-06-28T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -7.411524683121364
+description: Annotated version of ESO Press Photo eso0622. The two interacting galaxies
+  and the location of SN 2005cf are indicated. When the supernova exploded, more than
+  a year ago, it was almost as bright as its host galaxy. One year later, it is much
+  dimmer and can only be studied with the largest telescopes, such as ESO&#x27;s Very
+  Large Telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0622b/L{1}X{2}Y{3}.png
+name: The hooked galaxy and its companion - annotated image
+ra_hr: 15.360258859753598
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0622b/thumb.jpg
+zoom_level: 1.1267696793239999
+---
+_uuid: 08cdf41b-df34-4b9a-a69d-e63e7ae94792
+annotation: '{"channel": "eso", "itemid": "eso0722c", "publishedUTCISO8601": "2007-04-25T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -7.722376229688771
+description: The star Gliese 581.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0722c/L{1}X{2}Y{3}.png
+name: The star Gliese 581
+ra_hr: 15.324108694091594
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0722c/thumb.jpg
+zoom_level: 0.8488589545259999
+---
+_uuid: fd9fec4f-32d4-44ed-961b-0c6d0b11c953
+annotation: '{"channel": "eso", "itemid": "eso0915c", "publishedUTCISO8601": "2009-04-21T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -7.727350134178115
+description: A wide-field image of the area of the sky near the system Gliese 581.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0915c/L{1}X{2}Y{3}.png
+name: DSS image
+ra_hr: 15.32494035238957
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0915c/thumb.jpg
+zoom_level: 36.93751078617599
+---
+_uuid: 5aef4f33-b58e-426b-9438-0bfe2c955850
+annotation: '{"channel": "eso", "itemid": "eso9936a", "publishedUTCISO8601": "1999-07-20T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.912678230455976
+description: 'This photo represents the sky field around the 17-mag variable stellar
+  system NN Serpentis, as seen in a 5 sec exposure through a Visual filter with VLT
+  ANTU and FORS1. It was obtained just before the observation of an eclipse of this
+  unusual object and served to centre the telescope on the corresponding sky position.
+  The field shown here measures 4.5 x 4.5 armin 2 (1365 x 1365 pix 2 ; 0.20 arcsec/pix).
+  The field is somewhat larger than that shown in ESO Press Photo eso9936 and has
+  the same orientation to allow comparison: North is about 20° anticlockwise from
+  the top and East is 90° clockwise from that direction.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9936a/L{1}X{2}Y{3}.png
+name: The 17-mag eclipsing binary system NN Ser
+ra_hr: 15.882260158189075
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9936a/thumb.jpg
+zoom_level: 0.7736455812
+---
+_uuid: 8d5c777a-e377-4be6-b7b3-a3b6588a2cf0
+annotation: '{"channel": "eso", "itemid": "potw1131a", "publishedUTCISO8601": "2011-08-01T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -51.52453077089807
+description: 'The hazy and aptly named Fine Ring Nebula, shown here, is an unusual
+  planetary nebula. Planetary nebulae form when some dying stars, having expanded
+  into a red giant phase, expel a shell of gas as they evolve into white dwarfs. Most
+  planetary nebulae are either spherical or elliptical in shape, or bipolar (featuring
+  two symmetric lobes of material). But the Fine Ring Nebula — captured here by the
+  ESO Faint Object Spectrograph and Camera mounted on the New Technology Telescope
+  at the La Silla Observatory in Chile — looks like an almost perfect circular ring.
+  Astronomers believe that some of these more unusually shaped planetary nebulae are
+  formed when the progenitor star is actually a binary system. The interaction between
+  the primary star and its orbiting companion shapes the ejected material. The stellar
+  object at the centre of the Fine Ring Nebula is indeed thought to be a binary system,
+  orbiting with a period of 2.9 days. Observations suggest that the binary pair is
+  almost perfectly face-on from our vantage point, implying that the planetary nebula’s
+  structure is aligned in the same way. We are looking down on a torus (doughnut shape)
+  of ejected material, leading to the strikingly circular ring shape in the image.
+  Planetary nebulae are shaped by the complex interplay of many physical processes.
+  Not only can these celestial objects be admired for their beauty, but the study
+  of precisely how they form their striking shapes is a fascinating topic in astronomical
+  research. This image was made using multiple filters: light observed through B and
+  O-III filters is shown in blue, V is shown in green, R is shown in orange, and H-alpha
+  in red. The image is approximately 200 arcseconds across.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1131a/L{1}X{2}Y{3}.png
+name: Smoke signals in space
+ra_hr: 15.86137488983167
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1131a/thumb.jpg
+zoom_level: 0.578983922736
+---
+_uuid: db05a221-6a39-409c-a10a-e5c299a8aced
+annotation: '{"channel": "eso", "itemid": "potw1231a", "publishedUTCISO8601": "2012-07-30T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -57.80516049875224
+description: On Earth, cocoons are associated with new life. There are “cocoons” in
+  space too, but, rather than protecting pupae as they transform into moths, they
+  are the birthplaces of new stars. The red cloud seen in this image, taken with the
+  EFOSC2 instrument on ESO’s New Technology Telescope, is a perfect example of one
+  of these star-forming regions. This is a view of a cloud called RCW 88, which is
+  located about ten thousand light-years away and is about nine light-years across.
+  It is not made of silk, like a moth’s cocoon, but of glowing hydrogen gas that surrounds
+  the recently formed stars. The new stars form from clouds of this hydrogen gas as
+  they collapse under their own gravity. Some of the more developed stars, already
+  shining brightly, can even be seen peering through the cloud. These hot young stars
+  are very energetic and emit large amounts of ultraviolet radiation, which strips
+  the electrons from the hydrogen atoms in the cloud, leaving the positively charged
+  nuclei — protons. As the electrons are recaptured by the protons, they can emit
+  H-alpha light, which has a characteristic red glow. Observing the sky through an
+  H-alpha filter is the easiest way for astronomers to find these star-forming regions.
+  A dedicated H-alpha filter was one of the four filters used to produce this image.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1231a/L{1}X{2}Y{3}.png
+name: Red cocoon harbours young stars
+ra_hr: 15.119170318071614
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1231a/thumb.jpg
+zoom_level: 0.623538044364
+---
 _uuid: fdb25e16-81ac-47a2-8fac-7320c8a0ccf0
 annotation: '{"channel": "noirlab", "itemid": "noao-02216", "publishedUTCISO8601":
   "2020-06-30T21:34:14+00:00"}'

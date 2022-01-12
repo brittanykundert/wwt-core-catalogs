@@ -1,3 +1,829 @@
+_uuid: 40d51b9c-32b4-406e-80dc-fc08e63292a5
+annotation: '{"channel": "eso", "itemid": "eso0037a", "publishedUTCISO8601": "2000-10-27T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -48.862816042402464
+description: 'Image showing a unique, wide-field infrared view of the region around
+  IRAS 16362-4845, an &quot;emission&quot; nebula that shines by its own light. It
+  is situated within a dark cloud in a Milky Way region (the &quot;RCW 108 complex&quot;)
+  at a distance of about 4,000 light-years in the direction of the Southern constellation
+  of Ara (the Altar). The dark cloud is seen silhouetted against the rich background
+  of stars in the Milky Way, whose light is blocked by the dust particles in the cloud.
+  The photo is based on approx. 600 individual exposures with the SOFI  instrument
+  at the 3.58-m ESO New Technology Telescope (NTT). The field-of-view measures about
+  13 x 13 arcmin^2, coresponding to 17 x 17 light-years^2. Technical information:
+  this image was obtained in February 2000 by means of SOFI, the infrared camera and
+  spectrograph at the ESO 3.58-m New Technology Telescope (NTT). The image is a mosaic
+  that was prepared by combining 33 overlapping frames, taken in each of the J (wavelength
+  1.25 µm; here rendered as blue), H (1.65 µm; green) and K (2.2 µm; red) infrared
+  filters. Each individual frame is in turn a stack of six frames totaling 12 sec
+  exposure time, with the exception of the one covering the center of the region which
+  is 15 times longer in order to increase the sensitivity around the central emission
+  nebula (an HII region). The total area imaged is 12.8 x 12.8 arcmin^2, using SOFI
+  in its normal resolution mode with 0.29 arcsec pixels and a field of about 5 arcmin.
+  Thus the field shown here is about 6.6 times the field-of-view in a single SOFI
+  frame. Five-sigma detection limits in the least-exposed areas of the image are typically
+  J=18.6, H=17.7, K=17.2 mag. The image quality is between 0.6 and 0.7 arcsec for
+  the different filters over most of the field. North is up and East is left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0037a/L{1}X{2}Y{3}.png
+name: Infrared wide angle view of RCW 108
+ra_hr: 16.666591629742154
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0037a/thumb.jpg
+zoom_level: 2.1536432469599998
+---
+_uuid: 1affb83a-18ce-4b34-958b-bd2f1890df8b
+annotation: '{"channel": "eso", "itemid": "eso0037b", "publishedUTCISO8601": "2000-10-27T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -48.850120340635065
+description: 'This image shows an area  near the centre of a unique, wide-field infrared
+  view of the region around IRAS 16362-4845, an &quot;emission&quot; nebula that shines
+  by its own light. It is situated within a dark cloud in a Milky Way region (the
+  &quot;RCW 108 complex&quot;) at a distance of about 4,000 light-years in the direction
+  of the Southern constellation of Ara (the Altar). The dark cloud is seen silhouetted
+  against the rich background of stars in the Milky Way, whose light is blocked by
+  the dust particles in the cloud. The photo is based on approx. 600 individual exposures
+  with the SOFI  instrument at the 3.58-m ESO New Technology Telescope (NTT).  Technical
+  information: this image was obtained in February 2000 by means of SOFI, the infrared
+  camera and spectrograph at the ESO 3.58-m New Technology Telescope (NTT). It is
+  a smaller area near the centre of the field; it measures approx. 6.3 x 6.6 arcmin^2.
+  North is up and East is left. '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0037b/L{1}X{2}Y{3}.png
+name: Infrared wide angle view of RCW 108 (detail)
+ra_hr: 16.66864495246851
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0037b/thumb.jpg
+zoom_level: 1.122723574128
+---
+_uuid: 40f2d60a-af46-4ce4-9223-c54abf9beabf
+annotation: '{"channel": "eso", "itemid": "eso0214a", "publishedUTCISO8601": "2002-05-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.527042859304185
+description: The image is a three-colour reproduction of the discovery image of strange-looking
+  object (nicknamed the &quot;Flying Saucer&quot; by the astronomers), obtained with
+  the SOFI multi-mode instrument at the ESO 3.5-m New Technology Telescope (NTT) at
+  the La Silla  Observatory. Compared to the unresolved stars in the field, the image
+  of this object appears extended. Two characteristic reflection nebulae are barely
+  visible, together with a marginally resolved dark dust lane in front of the star
+  and oriented East-West. This is a colour composite image combining exposures through
+  near-infrared J-, H- and K S filters, here rendered as blue, green and red, respectively,
+  and with logarithmic colour stretch obtained with NTT/SOFI. The field size shown
+  here is 30 x 30 arcsec2 and the exposure time is 24 min in each of the three filters.
+  The seeing was 0.7 arcsec FWHM, and the pixel size is 0.292 arcsec. North is up
+  and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0214a/L{1}X{2}Y{3}.png
+name: Infant Solar System in Ophiuchus
+ra_hr: 16.470445637293274
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0214a/thumb.jpg
+zoom_level: 0.08811309641215538
+---
+_uuid: cfc50fee-9190-4713-941c-6913e61e7681
+annotation: '{"channel": "eso", "itemid": "eso0214b", "publishedUTCISO8601": "2002-05-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.530445871665872
+description: The image shows the a new stellar system, as imaged with the ISAAC multi-mode
+  instrument on the 8.2-m VLT ANTU telescope at Paranal during the follow-up observations.
+  The circumstellar disk is well visible in the left part of the field as a shadow
+  in front of the nebula. Many background galaxies are visible in this deep image
+  and one edge-on galaxy is seen visible close to the image centre. The image is based
+  on the combination of three 10-min exposures in the mentioned infrared filters,
+  obtained with the ISAAC instrument on the 8.2-m VLT ANTU telescope. The field measures
+  2.1 x 1.6 arcmin2. The seeing was 0.4 arcsec and the pixel size is 0.148 arcsec.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0214b/L{1}X{2}Y{3}.png
+name: Sky field in Ophiuchus
+ra_hr: 16.469637845363504
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0214b/thumb.jpg
+zoom_level: 0.286249475360898
+---
+_uuid: 3e1e04cd-7b55-4d82-b118-9e80e76635f7
+annotation: '{"channel": "eso", "itemid": "eso0214c", "publishedUTCISO8601": "2002-05-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.527032034236345
+description: An enlargement of ESO Press Photo eso0214 showing the unusual &quot;Flying
+  Saucer&quot; object in more detail.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0214c/L{1}X{2}Y{3}.png
+name: Infant solar system in Ophiuchus
+ra_hr: 16.470445641723696
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0214c/thumb.jpg
+zoom_level: 0.08833393124025601
+---
+_uuid: 6bcfb21e-1a42-4b95-8c62-d6e14bc78453
+annotation: '{"channel": "eso", "itemid": "eso0436a", "publishedUTCISO8601": "2004-12-01T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -2.2864562137522233
+description: 'These are almost-true colour composites based on images made with the
+  multi-mode VIMOS instrument on the 8.2-m Melipal (Unit Telescope 3) of ESO&#x27;s
+  Very Large Telescope. In each case, exposures were taken in three different wavebands
+  which were associated to a given colour: R-band (centred around 652 nm; red), V
+  (540 nm; green) and B (456 nm; blue). The images of NGC 6118 were taken on several
+  nights around August 21, 2004 when the observing conditions were somewhat unstable
+  (seeing around 2 arcsec). The total exposure was 12.5 min in R, 25 min in V and
+  7 min in B. The images of NGC 7424 were obtained on the night of October 9, 2004,
+  (around 4:00 am CET) when the conditions were good (seeing: 1 arcsec). The total
+  exposure time was 7 min in R, 25 min in V and 10 min in B. The pixel scale is 0.205
+  arcsec/pix. All exposures were taken and pre-processed by ESO Paranal Science Operation
+  Astronomers. Further image processing was made by Hännes Heyer (ESO) for NGC 6118
+  and by Henri Boffin (ESO) for NGC 7424. The classification of Supernova 2004dk was
+  made by Ferdinando Patat and Giuliano Pignata (ESO) and S. Benetti (INAF, Italy)
+  using data from the Calar Alto Observatory (Spain). Composite colour-coded image
+  of the &quot;grand design&quot; spiral galaxy NGC 6118, at a distance of 80 million
+  light-years. It is based on images obtained with the multi-mode VIMOS instrument
+  on the ESO Very Large Telescope (VLT) in three different wavebands. The image covers
+  6.7 x 5.8 square arcminutes on the sky. North is up and East is to the left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0436a/L{1}X{2}Y{3}.png
+name: Spiral galaxy NGC 6118
+ra_hr: 16.363712437378748
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0436a/thumb.jpg
+zoom_level: 0.9978560145619062
+---
+_uuid: 903bef1a-be6b-44e3-b804-7c9958ca19ba
+annotation: '{"channel": "eso", "itemid": "eso0436b", "publishedUTCISO8601": "2004-12-01T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -2.2869712843657886
+description: Composite colour-coded image of the &quot;grand design&quot; spiral galaxy
+  NGC 6118, at a distance of 80 million light-years. It is based on images obtained
+  with the multi-mode VIMOS instrument on the ESO Very Large Telescope (VLT) in three
+  different wavebands. The image covers 6.7 x 5.8 square arcminutes on the sky. North
+  is up and East is to the left. The arrow indicates the position of supernova SN
+  2004dk.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0436b/L{1}X{2}Y{3}.png
+name: Spiral galaxy NGC 6118 and SN 2004dk
+ra_hr: 16.363726188807544
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0436b/thumb.jpg
+zoom_level: 1.0018150686180003
+---
+_uuid: d5c04d23-1f40-4aae-9692-61e80a13dc98
+annotation: '{"channel": "eso", "itemid": "eso0510a", "publishedUTCISO8601": "2005-03-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -45.851960429619595
+description: Composite image of the super star cluster &quot;Westerlund 1&quot; from
+  2.2-m MPG/ESO Wide-Field Imager (WFI) observations. The image covers a 5 x 5 arcmin
+  sky region and is based on observations made in the V-band (550 nm, 2 min exposure
+  time, associated to the blue channel), R-band (650nm, 1 min, green channel) and
+  I-band (784nm, 18 sec, red channel). Only the central CCD of WFI was used, as the
+  entire cluster fits comfortably inside it. The foreground stars appear blue, while
+  the hot massive members of the cluster look orange, and the cool massive ones come
+  out red.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0510a/L{1}X{2}Y{3}.png
+name: The super star cluster Westerlund 1
+ra_hr: 16.784282774409476
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0510a/thumb.jpg
+zoom_level: 0.8491659548400001
+---
+_uuid: af74313d-f980-45ce-b704-7592afccd2ce
+annotation: '{"channel": "eso", "itemid": "eso0604a", "publishedUTCISO8601": "2006-02-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -1.9467056033773262
+description: 'Centre of the globular cluster Messier 12 as observed with the FORS-1
+  multi-mode instrument on ESO&#x27;s Very Large Telescope (Cerro Paranal, Chile).
+  The picture covers a region of about 3.5 arcmin on a side, corresponding to about
+  23 light-years at the distance of Messier 12. It is based on data in five different
+  filters : U, B, V, R and H-alpha. Here only the short exposures were used while
+  for their scientific analysis, the authors used much longer exposures. Guido De
+  Marchi (ESA) reduced the data and Kristina Boneva and Haennes Heyer (ESO) did the
+  final image processing. The observations were obtained with very good conditions,
+  the image quality (&#x27;seeing&#x27;) being around 0.6 arcsec.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0604a/L{1}X{2}Y{3}.png
+name: The central part of Messier 12
+ra_hr: 16.78729201883444
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0604a/thumb.jpg
+zoom_level: 0.5754922112853063
+---
+_uuid: 6c33f7f3-8774-495d-a973-1aef4e16dff0
+annotation: '{"channel": "eso", "itemid": "eso0712a", "publishedUTCISO8601": "2007-03-13T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -47.0588110231718
+description: Colour-composite image of the newly discovered globular cluster candidate
+  FSR 1735 in the inner parts of the Milky Way. The cluster is the circular regions
+  of stars and enhanced brightness in the centre of the image. The image is based
+  on data obtained through three near-infrared filters (J, H, and K), for a total
+  exposure time of 225 seconds per filter. The SofI instrument on ESO&#x27;s NTT was
+  used. The image size is about 5 x 5 arcmin. North is up and East is to the left.
+  The final image processing was done by Henri Boffin (ESO).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0712a/L{1}X{2}Y{3}.png
+name: The newly identified cluster
+ra_hr: 16.86944373255143
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0712a/thumb.jpg
+zoom_level: 0.8200205441999999
+---
+_uuid: 7be79964-766a-4de2-9dc5-403b6cd52654
+annotation: '{"channel": "eso", "itemid": "eso1303a", "publishedUTCISO8601": "2013-01-16T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -39.085082027465894
+description: This evocative image shows a dark cloud where new stars are forming along
+  with a cluster of brilliant stars that have already emerged from their dusty stellar
+  nursery. This cloud is known as Lupus 3 and it lies about 600 light-years from Earth
+  in the constellation of Scorpius (The Scorpion). It is likely that the Sun formed
+  in a similar star formation region more than four billion years ago. This picture
+  was taken with the MPG/ESO 2.2-metre telescope at the La Silla Observatory in Chile
+  and is the best image ever taken of this little-known object.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1303a/L{1}X{2}Y{3}.png
+name: The Lupus 3 dark cloud and associated hot young stars
+ra_hr: 16.15261719394501
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1303a/thumb.jpg
+zoom_level: 5.806052634096
+---
+_uuid: e36dcc13-bc88-4d78-90cd-1d23c6030447
+annotation: '{"channel": "eso", "itemid": "eso1607a", "publishedUTCISO8601": "2016-03-02T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -51.185902825186965
+description: In this huge image of part of the southern constellation of Norma (The
+  Carpenter’s Square) wisps of crimson gas are illuminated by rare, massive stars
+  that have only recently ignited and are still buried deep in thick dust clouds.
+  These scorching-hot, very young stars are only fleeting characters on the cosmic
+  stage and their origins remain mysterious. The vast nebula where these giants were
+  born, known as RCW 106, is captured here in fine detail by ESO’s VLT Survey Telescope
+  (VST), at the Paranal Observatory in Chile. The brightest part appears just above
+  the centre of the image. Many other interesting objects are also captured in this
+  wide-field image. For example the filaments to the right of the image are the remnants
+  of an ancient supernova (SNR G332.4-00.4, also known as RCW 103), and the glowing
+  red filaments at the lower left surround an unusual and very hot star (RCW 104,
+  surrounding the Wolf–Rayet star  WR 75). Patches of dark obscuring dust are also
+  visible across the entire cosmic landscape.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1607a/L{1}X{2}Y{3}.png
+name: The sky around the star formation region RCW 106
+ra_hr: 16.356800472983178
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1607a/thumb.jpg
+zoom_level: 11.223474172820843
+---
+_uuid: b3ea784e-6a5c-4fb5-be19-185469e602b4
+annotation: '{"channel": "eso", "itemid": "eso1607b", "publishedUTCISO8601": "2016-03-02T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -51.18654844912485
+description: In this huge image of part of the southern constellation of Norma (The
+  Carpenter’s Square) wisps of crimson gas are illuminated by rare, massive stars
+  that have only recently ignited and are still buried deep in thick dust clouds.
+  These scorching-hot, very young stars are only fleeting characters on the cosmic
+  stage and their origins remain mysterious. The vast nebula where these giants were
+  born, known as RCW 106, is captured here in fine detail by ESO’s VLT Survey Telescope
+  (VST), at the Paranal Observatory in Chile. The brightest part appears just above
+  the centre of the image. Many other interesting objects are also captured in this
+  wide-field image. For example the filaments to the right of the image are the remnants
+  of an ancient supernova (SNR G332.4-00.4, also known as RCW 103), and the glowing
+  red filaments at the lower left surround an unusual and very hot star (RCW 104,
+  surrounding the Wolf–Rayet starWR 75). Patches of dark obscuring dust are also visible
+  across the entire cosmic landscape.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1607b/L{1}X{2}Y{3}.png
+name: The sky around the star formation region RCW 106 (wide-field  view)
+ra_hr: 16.370148749789394
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1607b/thumb.jpg
+zoom_level: 11.241109533512388
+---
+_uuid: 1d7d0b37-04ba-42a3-9ae0-fdcf21d498b8
+annotation: '{"channel": "eso", "itemid": "eso2120b", "publishedUTCISO8601": "2021-12-22T17:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -23.07549938988762
+description: This image shows a small area of the sky in the direction of the region
+  occupied by Upper Scorpius and Ophiucus. It zooms in on a recently discovered rogue
+  planet, meaning a planet that does not orbit a star but instead roams freely on
+  its own. The rogue planet is the tiny, bright red dot at the very centre of the
+  image. The image was created by combining data from the OmegaCam instrument on VLT
+  Survey Telescope (VST) and from the VIRCAM instrument on the Visible and Infrared
+  Survey Telescope for Astronomy (VISTA), both located at ESO’s Paranal Observatory
+  in Chile. Observations with these and other instruments helped the scientists tell
+  the planets apart from stars, brown dwarfs and other objects in this region of the
+  sky. Lurking far away from any star illuminating them, rogue planets would normally
+  be impossible to image, but shortly after formation they emit a faint glow that
+  can be detected by sensitive cameras on powerful telescopes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2120b/L{1}X{2}Y{3}.png
+name: The faint red glow of a rogue planet
+ra_hr: 16.136944360679074
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2120b/thumb.jpg
+zoom_level: 1.2355028644797237
+---
+_uuid: 04325ef4-e4b2-44fc-81dc-05e2b2947055
+annotation: '{"channel": "eso", "itemid": "eso9820c", "publishedUTCISO8601": "1998-05-27T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -26.523847303679883
+description: The globular cluster Messier 4 (M4 for short) is located about 6,000
+  light-years away. On the sky, it is seen in the southern constellation Scorpius,
+  It is an ensemble of about 500,000 stars, held together by their mutual gravitational
+  pull. There are about 150 such clusters in our Galaxy, and M4 is the one closest
+  to us. This colour picture has been obtained by combining three images taken through
+  three different filters at the wavelengths of blue, green, and red light. They were
+  obtained during the night of May 22, 1998. In this way, the stars are seen in their
+  true colours, ranging from blue for very hot stars (about 10,000 degrees) to red
+  for the cooler ones (about 4,000 degrees). With an exposure time of only 2 minutes,
+  the VLT has been able to detect in the blue light stars as faint as magnitude 24.
+  This corresponds to 15 million times dimmer than the faintest stars visible to the
+  naked eye. This was achieved even though the image has a fairly high background,
+  being taken with the Moon above the horizon (3 days before New Moon, with 18% illumination).
+  The large mirror surface of the VLT UT1 (53 m 2 ) and its ability to produce very
+  sharp images (measured as 0.53 arcsec on these images), unequalled by any ground-based
+  telescope, ensures that faint objects may be observed extremely efficiently, especially
+  under the good conditions that prevailed during this observation. Note that, because
+  of the limitations in the printing process, these faint stars cannot easily be seen
+  in this glossy reproduction.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9820c/L{1}X{2}Y{3}.png
+name: The central region of globular cluster Messier 4
+ra_hr: 16.39290355475934
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9820c/thumb.jpg
+zoom_level: 0.25225259416728374
+---
+_uuid: 730aab20-204a-47ad-a5b2-ee9eb85bbd35
+annotation: '{"channel": "eso", "itemid": "eso9925a", "publishedUTCISO8601": "1999-04-30T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -48.82625937163612
+description: 'RCW 108  is a molecular cloud that is in the process of being destroyed
+  by intense ultraviolet radiation from heavy and hot stars in the nearby stellar
+  cluster NGC 6193, seen to the left in the photo. A series of images were obtained
+  with the Wide Field Imager (WFI) of areas in the Milky Way band, including some
+  in which interstellar nebulae of gas and dust are seen. Each frame records 8184
+  x 8196, or over 67 million, pixels in a sky field of 32 x 32 arcmin 2.  The photo
+  shows the RCW 108 complex of bright and dark nebulae in the southern association
+  Ara OB1, a star-forming region in the constellation Ara (the Altar), deep in the
+  southern sky.   The resolution in this image has been degraded by reducing the number
+  of pixels in one direction from about 8000 to 3000 in the &quot;High-Resolution
+  version&quot;, in order to make the image transportable over the web without incurring
+  completely unacceptable transfer times. Still, it is very large, even in the highly
+  compressed jpeg format, reflecting the great amount of details visible. This colour
+  picture is a composite made from 12 separate images, obtained with the WFI on 27
+  March 1999. The blue component corresponds to the B filter, the green to the V filter,
+  and the red to the H-alpha filter. The images in each filter are the composite of
+  4 individual frames obtained with the telescope pointing at slightly different positions
+  on the sky, so that the parts of the sky falling in the gaps between the 8 individual
+  2k x 4k CCDs in any given frame are recorded on the others. The monochromatic images
+  are then produced by superimposing the individual frames, correcting for the telescope
+  offsets ; this ensures that the complete field is well covered. This procedure is
+  not simple, as the observing conditions may change slightly from exposure to exposure,
+  resulting in small differences. Finally, the combined images in each filter are
+  aligned and colour-coded to produce the colour picture.  For the processing of this
+  large photo (8k x 8k; 256 Mbytes), a minimum of contrast correction was made and
+  very faint lines may still be perceived in some places where the individual frames
+  were joined. It may also be noted that there is a slight misalignment of the individual
+  colours in stellar images at the extreme corners of the large field. This is due
+  to the effect of differential atmospheric refraction, i.e. light rays of different
+  colours are bent differently in air.  The exposure time was 300 sec for each frame
+  in H-alpha, and 60 sec in B and V. East is to the left and North to the top. '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9925a/L{1}X{2}Y{3}.png
+name: Star-forming region RCW 108 in Ara
+ra_hr: 16.682137707456352
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9925a/thumb.jpg
+zoom_level: 5.368916908559999
+---
+_uuid: 013200ca-74d6-478c-877b-547c3d8b61e7
+annotation: '{"channel": "eso", "itemid": "eso9925b", "publishedUTCISO8601": "1999-04-30T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -48.823358105746685
+description: 'RCW 108 is a molecular cloud that is in the process of being destroyed
+  by intense ultraviolet radiation from heavy and hot stars in the nearby stellar
+  cluster NGC 6193, seen to the left in the photos. A series of images were obtained
+  with the Wide Field Imager (WFI) of areas in the Milky Way band, including some
+  in which interstellar nebulae of gas and dust are seen. Each frame records 8184
+  x 8196, or over 67 million, pixels in a sky field of 32 x 32 arcmin 2.  The present
+  photo shows a detail of the RCW 108 complex of bright and dark nebulae in the southern
+  association Ara OB1, a star-forming region in the constellation Ara (the Altar),
+  deep in the southern sky.  This image retains the original pixel structure and image
+  sharpness. It covers an area that corresponds to about 1/7 of the full WFI field.
+  This colour picture is a composite made from 12 separate images, obtained with the
+  WFI on 27 March 1999. The blue component corresponds to the B filter, the green
+  to the V filter, and the red to the H-alpha filter. The images in each filter are
+  the composite of 4 individual frames obtained with the telescope pointing at slightly
+  different positions on the sky, so that the parts of the sky falling in the gaps
+  between the 8 individual 2k x 4k CCDs in any given frame are recorded on the others.
+  The monochromatic images are then produced by superimposing the individual frames,
+  correcting for the telescope offsets; this ensures that the complete field is well
+  covered. This procedure is not simple, as the observing conditions may change slightly
+  from exposure to exposure, resulting in small differences. Finally, the combined
+  images in each filter are aligned and colour-coded to produce the colour picture.  For
+  the processing of this large photo (8k x 8k; 256 Mbytes), a minimum of contrast
+  correction was made and very faint lines may still be perceived in some places where
+  the individual frames were joined. It may also be noted that there is a slight misalignment
+  of the individual colours in stellar images at the extreme corners of the large
+  field. This is due to the effect of differential atmospheric refraction, i.e. light
+  rays of different colours are bent differently in air.  The exposure time was 300
+  sec for each frame in H-alpha, and 60 sec in B and V. East is to the left and North
+  to the top. '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9925b/L{1}X{2}Y{3}.png
+name: Detail of star-forming region RCW 108 in Ara
+ra_hr: 16.67137354551982
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9925b/thumb.jpg
+zoom_level: 2.048861728584
+---
+_uuid: e7638bba-322b-4833-8616-e37443b7dfbf
+annotation: '{"channel": "eso", "itemid": "eso9954c", "publishedUTCISO8601": "1999-12-21T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -60.89452119884026
+description: This image covers a field of 0.5° x 0.5° in the Southern constellation
+  of Norma (The Level) and in the direction of the &quot;Great Attractor&quot;. This
+  region is at an angular distance of about 7° from the main plane of the Milky Way,
+  i.e. less than 15 times the width of the image shown. In this colour composite,
+  the foreground stars in the Milky Way mostly appear as whitish spots (the &quot;crosses&quot;
+  around some of the brighter stars are caused by reflections in the telescope optics).
+  Many background galaxies are also seen. They form a huge cluster (ACO 3627) with
+  a number of bright galaxies near the center — they stand out by their larger size
+  and yellowish colour. In order to facilitate transport over the Web, this image
+  has been compressed by a factor of four from its original size (8500 x 8250 pixels).
+  North is up and East is left. Five exposures each were made in blue (B-band filter;
+  5 x 300 sec), red (R-band filter; 5 x 180 sec) and near-infrared (narrow-band filter
+  centered at 816 nm; 5 x 240 sec) light and combined into a false-colour composite
+  by using blue, green, and red colour for the three images, respectively. A logarithmic
+  intensity scale is used to better show the inner as well as the outer regions of
+  the galaxies in this field.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9954c/L{1}X{2}Y{3}.png
+name: View towards the Great Attractor
+ra_hr: 16.257344541862036
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9954c/thumb.jpg
+zoom_level: 5.54711111766
+---
+_uuid: 658ff978-b82f-4a45-a260-b9750ffddfba
+annotation: '{"channel": "eso", "itemid": "eso9954d", "publishedUTCISO8601": "1999-12-21T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -60.85338859007254
+description: This image shows the central region of the Great Attractor at the original
+  resolution of the WFI. Note the strong warping of the galaxy to the left of the
+  center, which may be caused by gravitational interaction with one or both of the
+  bright galaxies that are seen above and below it. The field shown measures about
+  12 x 12 arcmin 2. Five exposures each were made in blue (B-band filter; 5 x 300
+  sec), red (R-band filter; 5 x 180 sec) and near-infrared (narrow-band filter centered
+  at 816 nm; 5 x 240 sec) light and combined into a false-colour composite by using
+  blue, green, and red colour for the three images, respectively. A logarithmic intensity
+  scale is used to better show the inner as well as the outer regions of the galaxies
+  in this field.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9954d/L{1}X{2}Y{3}.png
+name: Detail of a view towards the Great Attractor
+ra_hr: 16.257393559070234
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9954d/thumb.jpg
+zoom_level: 2.0188994002500005
+---
+_uuid: a723f39d-e1a7-46df-9aa9-ffafb782c182
+annotation: '{"channel": "eso", "itemid": "eso9954e", "publishedUTCISO8601": "1999-12-21T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -60.80218967194343
+description: This image displays a small area (about 2.4 x 2.4 arcmin 2) centered
+  on a bright galaxy in the Great Attractor Field. The dark lane probably indicates
+  that it has already cannibalized one or more of its companions. During the course
+  of hundreds of millions of years or more, others are likely to suffer the same fate.
+  Five exposures each were made in blue (B-band filter; 5 x 300 sec), red (R-band
+  filter; 5 x 180 sec) and near-infrared (narrow-band filter centered at 816 nm; 5
+  x 240 sec) light and combined into a false-colour composite by using blue, green,
+  and red colour for the three images, respectively. A logarithmic intensity scale
+  is used to better show the inner as well as the outer regions of the galaxies in
+  this field.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9954e/L{1}X{2}Y{3}.png
+name: Galaxy in the Great Attractor Field
+ra_hr: 16.263909830095688
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9954e/thumb.jpg
+zoom_level: 0.13612025609538017
+---
+_uuid: 946ca0ce-a2b4-4740-80f7-7b667a327cf2
+annotation: '{"channel": "eso", "itemid": "j16081299-2304314-dss", "publishedUTCISO8601":
+  "2021-10-06T12:13:18+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -23.096662607724074
+description: This image shows a wide field view of a region of the sky in the Upper
+  Scorpius constellation. It was created from images in the Digitized Sky Survey 2.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/j16081299-2304314-dss/L{1}X{2}Y{3}.png
+name: Wide-field view of a region of the sky in Upper Scorpius
+ra_hr: 16.13792940985183
+thumbnail: http://data1.wwtassets.org/feeds/eso/j16081299-2304314-dss/thumb.jpg
+zoom_level: 14.69601081890146
+---
+_uuid: 6227cb7a-83aa-4c1f-83fe-3c3df88ea3ad
+annotation: '{"channel": "eso", "itemid": "m4", "publishedUTCISO8601": "2009-12-03T23:19:55+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -26.589603919680975
+description: Globular cluster Messier 4 (M4, or NGC 6121) in the constellation Scorpius
+  as imaged by the ESO Schmidt Telescope on La Silla.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/m4/L{1}X{2}Y{3}.png
+name: Messier 4 (M4) globular cluster
+ra_hr: 16.411178753657357
+thumbnail: http://data1.wwtassets.org/feeds/eso/m4/thumb.jpg
+zoom_level: 14.018313322169998
+---
+_uuid: 83935b99-087f-49f6-a426-e8c9ea4052c3
+annotation: '{"channel": "eso", "itemid": "potw1022a", "publishedUTCISO8601": "2010-05-31T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -2.283669948360657
+description: NGC 6118, a grand-design spiral galaxy, shines bright in this image,
+  displaying its central bar and tight spiral arms from its home in the constellation
+  of Serpens (The Snake). The galaxy is sometimes known to amateur astronomers as
+  the “Blinking Galaxy” because this relatively faint, fuzzy object would appear to
+  flick into existence when viewed through their telescopes in a certain orientation,
+  and then suddenly disappear again as the eye position shifted. The brilliant blue
+  star-forming regions of the galaxy, where hot young stars are born, are beautifully
+  illuminated, even from over 80 million light-years away. In 2004, regular observers
+  of this galaxy saw a “new star” appear near the edge of the galaxy (above the centre
+  of the image). Far from being a new star, this object, supernova 2004dk, is in fact
+  the final, powerful burst of light emitted by the explosion of a star. Though shy
+  to lesser telescopes, the galaxy cannot hide from ESO’s Very Large Telescope (VLT)
+  at Cerro Paranal, Chile. The image was obtained using the VIsible MultiObject Spectrograph
+  (VIMOS) at the VLT.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1022a/L{1}X{2}Y{3}.png
+name: The Blinking Galaxy
+ra_hr: 16.363533643368747
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1022a/thumb.jpg
+zoom_level: 0.885550573434
+---
+_uuid: 748dd1a2-8029-421e-b0bd-7b19c438e5d8
+annotation: '{"channel": "eso", "itemid": "potw1341a", "publishedUTCISO8601": "2013-10-14T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -45.845736398136594
+description: 'This new picture from the VLT Survey Telescope (VST) at ESO&#x27;s Paranal
+  Observatory shows the remarkable super star cluster Westerlund 1 (eso1034). This
+  exceptionally bright cluster lies about 16 000 light-years from Earth in the southern
+  constellation of Ara (The Altar). It contains hundreds of very massive and brilliant
+  stars, all of which are just a few million years old — babies by stellar standards.
+  But our view of this cluster is hampered by gas and dust that prevents most of the
+  visible light from the cluster&#x27;s stars from getting to Earth. Now, astronomers
+  studying images of Westerlund 1 from a new survey of the southern skies [1] have
+  spotted something unexpected in this cluster. Around one of the stars — known as
+  W26, a red supergiant and possibly the biggest star known— they have discovered
+  clouds of glowing hydrogen gas, shown as green features in this new image. Such
+  glowing clouds around massive stars are very rare, and are even rarer around a red
+  supergiant— this is the first ionised nebula discovered around such a star. W26
+  itself would be too cool to make the gas glow; the astronomers speculate that the
+  source of the ionising radiation may be either hot blue stars elsewhere in the cluster,
+  or possibly a fainter, but much hotter, companion star to W26. W26 will eventually
+  explode as a supernova. The nebula that surrounds it is very similar to the nebula
+  surrounding SN1987A, the remnants of a star that went supernova in 1987 [2]. SN1987A
+  was the closest observed supernova to Earth since 1604, and as such it gave astronomers
+  a chance to explore the properties of these explosions. Studying objects like this
+  new nebula around W26 will help astronomers to understand the mass loss processes
+  around these massive stars, which eventually lead to their explosive demise. Notes
+  [1] This picture forms part of a detailed public survey of a large part of the Milky
+  Way called VPHAS+ that is using the power of the VST to search for new objects such
+  as young stars and planetary nebulae. A spectacular recent picture of the Prawn
+  Nebula was made using observations from the same survey. [2] This nebula is thought
+  to have surrounded SN1987A’s progenitor star since before it went supernova. Links  Research
+  paper Photos of the VLT Survey Telescope Other images from the VST '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1341a/L{1}X{2}Y{3}.png
+name: Surprise cloud around vast star
+ra_hr: 16.784230262419328
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1341a/thumb.jpg
+zoom_level: 1.6307148237527016
+---
+_uuid: 3f2b9df9-9215-4ebf-a84a-9f79d342a8ea
+annotation: '{"channel": "eso", "itemid": "potw1448a", "publishedUTCISO8601": "2014-12-01T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -40.061758249560775
+description: This image shows a region of the Milky Way that lies within the constellation
+  of Scorpius, close to the central plane of the galaxy. The region hosts a dense
+  cloud of dust and gas associated with the molecular cloud IRAS 16562-3959, clearly
+  visible as an orange smudge among the rich pool of stars at the centre of the image.
+  Clouds like these are breeding grounds for new stars. In the centre of this cloud
+  the bright object known as G345.4938+01.4677 can just be seen beyond the veil of
+  gas and dust. This is a very young star in the process of forming as the cloud collapses
+  under gravity. The young star is very bright and heavy —  roughly 15 times more
+  massive than the Sun — and featured in a recent Atacama Large Millimeter/submillimeter
+  Array (ALMA) result. The team of astronomers made surprising discoveries within
+  G345.4938+01.4677 — there is a large disc of gas and dust around the forming star
+  as well as a stream of material flowing out from it. Theories predict that neither
+  such a stream, nor the disc itself, are likely to exist around stars like G345.4938+01.4677
+  because the strong radiation from such massive new stars is thought to push material
+  away. This image was made using the Visible and Infrared Survey Telescope for Astronomy
+  (VISTA), which is part of ESO’s Paranal Observatory in the Atacama Desert of Chile.
+  It is the world’s largest survey telescope, with a main mirror that measures over
+  four metres across. The colour image was produced by the VVV survey, which is one
+  of six large public surveys that are devoted to mapping the southern sky. The bright
+  star in the bottom left of the image is known as HD 153220.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1448a/L{1}X{2}Y{3}.png
+name: Surprise within a cloud
+ra_hr: 16.99493606955737
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1448a/thumb.jpg
+zoom_level: 2.5457685230465876
+---
+_uuid: 0eb1cdf7-d07b-47bb-badb-9f0d0ac13c59
+annotation: '{"channel": "eso", "itemid": "potw1640a", "publishedUTCISO8601": "2016-10-03T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.385618932467544
+description: This beautiful image, captured with the Atacama Large Millimeter/submillimeter
+  Array (ALMA) features a protoplanetary disc surrounding the young star Elias 2-27,
+  some 450 light years away. ALMA has discovered and observed plenty of protoplanetary
+  discs, but this disc is special as it shows two distinct spiral arms, almost like
+  a tiny version of a spiral galaxy. Previously, astronomers noted compelling spiral
+  features on the surfaces of protoplanetary discs, but it was unknown if these same
+  spiral patterns also emerged deep within the disc where planet formation takes place.
+  ALMA, for the first time, was able to peer deep into the mid-plane of a disk and
+  discovered the clear signature of spiral density waves. Nearest to the star, ALMA
+  found a flat disc of dust, which extends to what would approximately be the orbit
+  of Neptune in our own Solar System. Beyond that point, in the region analogous to
+  our Kuiper Belt, ALMA detected a narrow band with significantly less dust, which
+  may be an indication for planet in formation. Springing from the outer edge of this
+  gap are the two sweeping spiral arms that extend more than 10 billion kilometers
+  away from their host star. The discovery of spiral waves at these extreme distances
+  may have implications on the theory of planet formation.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1640a/L{1}X{2}Y{3}.png
+name: Spirals with a  tale to tell
+ra_hr: 16.445838022701132
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1640a/thumb.jpg
+zoom_level: 0.012844264579546752
+---
+_uuid: 40640b4d-aed7-4584-883d-cbe465030f3d
+annotation: '{"channel": "eso", "itemid": "potw1809a", "publishedUTCISO8601": "2018-02-26T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -14.369178467873606
+description: 'Nestled in the young Ophiuchus star-forming region, 410 light-years
+  from the Sun, a fascinating protoplanetary disc named AS 209 is slowly being carved
+  into shape. This wonderful image was captured using the high-resolution ALMA telescope,
+  revealing a curious pattern of rings and gaps in the dust surrounding a young star.
+  Protoplanetary discs are dense, rotating planes of gas and dust that surround newly
+  formed stars; providing the matter that one day becomes orbiting planets, moons
+  and other minor bodies. At less than one million years old, this system is very
+  young, but already two clear gaps are being sculpted from the disc. The outer gap
+  is deep, wide, and largely a dust-free zone, leading astronomers to believe that
+  a giant planet almost the mass of Saturn is orbiting here — around 800 light-minutes
+  from the central star, and more than three times the distance between Neptune and
+  the Sun! As the planet carves out its path, dust piles up at the outer edge of its
+  orbit, creating ever more defined rings in the disc. The thinner, inner dust gap
+  could have been formed by a smaller planet, but astronomers have raised the intriguing
+  possibility that the large and distant circling planet in fact created both paths.
+  This inferred Saturn-like planet so far from its central star raises fascinating
+  questions about planet formation at the edges of protoplanetary discs on particularly
+  short timescales. Link:  Research paper '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1809a/L{1}X{2}Y{3}.png
+name: Young planet creates a scene
+ra_hr: 16.82091486334144
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1809a/thumb.jpg
+zoom_level: 0.010821234890484
+---
+_uuid: 195d5d46-6f06-4987-a21a-fb2790164687
+annotation: '{"channel": "eso", "itemid": "potw1849a", "publishedUTCISO8601": "2018-12-03T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -45.84802893820028
+description: This spectacular Picture of the Week was produced from data gathered
+  by the Atacama Large Millimeter/submillimeter Array (ALMA) in Chile, combined with
+  data from the NASA/ESA Hubble Space Telescope. It shows a cluster of stars named
+  Westerlund 1, one of the most massive young star clusters known to reside in the
+  Milky Way. Excitingly, it also shows the comet-like “tails” of material stretching
+  away from some of the giant stars in Westerlund 1. Such tails are formed in the
+  thick, relentless winds that pour from the cluster’s stellar residents, carrying
+  material outwards. This phenomenon is similar to how comets get their famous and
+  beautiful tails. Comet tails in the Solar System are driven away from the nucleus
+  of their parent comet by a wind of particles that streams out from the Sun. Consequently
+  comet tails always point away from our Sun. Similarly, the tails of the huge red
+  stars shown in this image point away from the core of the cluster, likely the result
+  of powerful cluster winds generated by the hundreds of hot and massive stars found
+  towards the centre of Westerlund 1. These massive structures cover large distances
+  and indicate the dramatic effect the environment can have on how the stars form
+  and evolve. These comet-like tails were detected during an ALMA study of Westerlund
+  1 that aimed to explore the cluster’s constituent stars and figure out how, and
+  at what rate, they lose their mass. The cluster is known to host a large amount
+  of massive stars, many of them intriguing and rare types, making it of great interest
+  and use to astronomers wishing to understand the myriad stars in our galaxy.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1849a/L{1}X{2}Y{3}.png
+name: Comet-like stars
+ra_hr: 16.784438928877933
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1849a/thumb.jpg
+zoom_level: 0.49220070276490185
+---
+_uuid: 78439a91-2884-4e45-9f78-4fa5b2919237
+annotation: '{"channel": "eso", "itemid": "potw1905a", "publishedUTCISO8601": "2019-02-04T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -14.369066664128376
+description: 'This week’s Picture of the Week focuses on one of twenty protoplanetary
+  discs explored and imaged by ALMA’s first Large Program, known as the Disk Substructures
+  at High Angular Resolution Project (DSHARP). The disc is called AS 209, and its
+  substructures are particularly pronounced thanks to its thin, high-contrast rings
+  and almost face-on orientation towards us. Though concentric rings — shown here
+  in particularly beautiful clarity — are a common substructure among such discs,
+  their widths, separations, and number can vary greatly. It’s still unclear how these
+  substructures form, and how planets emerge from them. Quantifying and studying these
+  similarities and differences was a motivator for constructing ALMA, and was the
+  main objective of DSHARP. These details may hold clues to the type of planetary
+  system that will eventually emerge. One interpretation is that there may be a rapid
+  and complex interplay between young protoplanets and the disc itself far earlier
+  in the evolution of the planetary system than previously thought. A leading theory
+  of planet formation requires dust within these discs to clump into grains, then
+  pebbles, and eventually planetesimals. This theory has always been stumped, however,
+  by the fact that once an object reaches a certain mass, the dynamics of these discs
+  would cause it to be sucked into the host star at the centre, thus halting its growth
+  into a true planet. The results from the DSHARP program suggest that disc substructures
+  may perturb these dynamics and provide safe havens where young planetesimals can
+  continue growing — making the substructures observed here crucial to our own existence.
+  Next week’s picture will be the final instalment in the DSHARP series, and will
+  showcase another of the twenty images: this time a multiple star system.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1905a/L{1}X{2}Y{3}.png
+name: Safe havens for young planets
+ra_hr: 16.8209176154243
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1905a/thumb.jpg
+zoom_level: 0.017211631794921
+---
+_uuid: 7b2dd2a5-37da-4753-b75d-07ac5c87f894
+annotation: '{"channel": "eso", "itemid": "potw1906a", "publishedUTCISO8601": "2019-02-11T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -18.640555215282657
+description: This week’s Picture of the Week highlights another of the 20 images to
+  come out of ALMA’s first Large Program, the Disk Substructures at High Angular Resolution
+  Project (DSHARP). DSHARP explored a number of nearby protoplanetary discs to learn
+  more about the earliest stages of planet formation, and a staggering quantity of
+  data from the project has just been released. This object, called AS 205, is notable
+  for being a multiple star system, one of two such systems imaged by DSHARP (the
+  other being HT Lup). While two discs are discernible here, the lower right disc
+  is in fact shared by two stars in a binary system, so we are actually looking at
+  a system of three fledgling stars. Although most high-resolution studies have so
+  far focused on single stars, multiple systems are far from uncommon in the Universe.
+  It is thought that over half of all stars may exist in multiple systems, an estimate
+  that may be even higher for young stars. The presence of companion stars is likely
+  to have complex implications for a disc and its substructures. This is due to as
+  the gravitational influence of a stellar neighbour, which may distort and redistribute
+  the material within the disc. Data from AS 205 and HT Lup indicate that stars and
+  their neighbouring discs interact strongly. Despite their unsettled birth environments,
+  planets have been detected in multiple stellar systems — some orbiting just one
+  of the stars, others orbiting the entire system. The latter are more likely to have
+  stable orbits than the former, which get caught up in volatile interstellar dynamics.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1906a/L{1}X{2}Y{3}.png
+name: Worlds with many suns
+ra_hr: 16.19203969825614
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1906a/thumb.jpg
+zoom_level: 0.010413710776094398
+---
+_uuid: b400e207-539e-4f2c-b583-6b1eb16b4629
+annotation: '{"channel": "eso", "itemid": "potw1939a", "publishedUTCISO8601": "2019-09-30T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -60.75890426386676
+description: 'Using the detailed eyes of the Atacama Large Millimeter/submillimeter
+  Array (ALMA) and ESO’s Very Large Telescope (VLT), astronomers have mapped the intense
+  tails of a cosmic jellyfish: a number of knotty streams of gas spewing outwards
+  from a spiral galaxy named ESO 137-001. This celestial cnidarian is shown here in
+  beautiful detail. The various elements making up this image were captured by different
+  telescopes. The galaxy and its surroundings were imaged by the NASA/ESA Hubble Space
+  Telescope; its tails, which trace streams of hydrogen and show up in hues of bright
+  purple, by the MUSE instrument mounted on the VLT; and bright hotspots of carbon
+  oxide emission from within the system, which show up as flares of orange-red, were
+  spotted by ALMA. These tails are caused by a dramatic phenomenon known as ram-pressure
+  stripping. The space between galaxies in a cluster is not empty, but full of material
+  that acts like a viscous fluid. As a galaxy travels through this resistant environment,
+  gas is stripped out of the galaxy to form a wake that creates beautiful, intricate
+  systems such as that seen here around ESO 137-001 (which resides in the Norma galaxy
+  cluster). The direction and position of the tail shed light on the way in which
+  the galaxy is moving — with galaxies usually falling towards the centre of the cluster
+  itself. This image offers the first high-resolution map of the cold molecular gas
+  lurking within a ram-pressure stripped system. ESO 137-001 is one of the nearest
+  jellyfish galaxies to Earth, and is particularly interesting because its long, extended
+  tails of gas contain features known as ‘fireballs’: bursts of star formation. The
+  precise mechanisms governing how stars form within jellyfish tails are mysterious,
+  and this map thus provides a new window onto the conditions needed for new stars
+  to form in such intense, changeable environments.  The ALMA array comprises 66 antennas,
+  and is located on the Chajinator plateau in the Chilean Atacama Desert at an altitude
+  of 5000 metres. ALMA observes the night sky from this remote location to unlock
+  the secrets of how the Universe — and its weird and wonderful residents, ESO 137-001
+  included — formed and evolved, revealing more about our cosmic origins.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1939a/L{1}X{2}Y{3}.png
+name: ALMA explores a Cosmic Jellyfish
+ra_hr: 16.223336016227606
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1939a/thumb.jpg
+zoom_level: 0.3248642557286525
+---
 _uuid: 4b614f89-17b7-4ea0-96df-a0a56bd46783
 annotation: '{"channel": "noirlab", "itemid": "gemini0605a", "publishedUTCISO8601":
   "2006-06-04T00:00:00+00:00"}'

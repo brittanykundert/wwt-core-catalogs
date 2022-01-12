@@ -1,3 +1,874 @@
+_uuid: e651c1a7-8367-4075-a27a-06b89c5e0a9f
+annotation: '{"channel": "eso", "itemid": "eso0006b", "publishedUTCISO8601": "2000-02-17T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.790444767534957
+description: This image is a combination of a K-band image from ANTU/ISAAC   with
+  two images obtained in the B and R bands with the SUSI-2  optical imager at the
+  New Technology Telescope (NTT) on La Silla. Note the relatively high density of
+  red galaxies, visible in the upper right part of this image. The colours of most
+  of these galaxies are consistent with those of &quot;evolved&quot; galaxies, already
+  present when the Universe was only 4 billions years old. The redshift, estimated
+  on the basis of the measured colours of the mentioned over-density of yellow galaxies,
+  is between 0.6 and 0.7 and that of the red galaxies is between 1 and 1.4.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0006b/L{1}X{2}Y{3}.png
+name: Distant galaxies in "AXAF Deep Field"
+ra_hr: 3.5376994870532816
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0006b/thumb.jpg
+zoom_level: 0.41797740449230203
+---
+_uuid: 5746b2e1-3193-4dfd-8315-a4d9fd90f7e2
+annotation: '{"channel": "eso", "itemid": "eso0024a", "publishedUTCISO8601": "2000-07-28T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.20344064204452
+description: Colour composite photo of the central area of NGC 1316, a giant elliptical
+  galaxy in the Fornax cluster of galaxies. Many dark dust clouds and lanes are visible.
+  Some of the star-like objects in the field are globular clusters of stars that belong
+  to the galaxy. It is based on CCD exposures, obtained with the 8.2-m VLT/ANTU telescope
+  and the FORS-1  multi-mode instrument through B (blue), V (green-yellow) and I (here
+  rendered as red) filters, respectively. The &quot;pyramids&quot; above and below
+  the bright centre of the galaxy and the vertical lines at some of the brighter stars
+  are caused by overexposure (&quot;CCD bleeding&quot;). The field measures 6.8 x
+  6.8 arcmin 2, with 0.2 arcsec/pixel. The image quality of this composite is about
+  0.9 arcsec. North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0024a/L{1}X{2}Y{3}.png
+name: Giant elliptical galaxy NGC 1316 in Fornax Cluster
+ra_hr: 3.3783920771257185
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0024a/thumb.jpg
+zoom_level: 1.1040683823119921
+---
+_uuid: 2de0a847-7f4a-4110-aea3-f1581429e0d4
+annotation: '{"channel": "eso", "itemid": "eso0302a", "publishedUTCISO8601": "2003-01-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.804236850097908
+description: 'Three-colour composite image of the Chandra Deep Field South (CDF-S),
+  obtained with the Wide Field Imager (WFI) camera on the 2.2-m MPG/ESO telescope
+  at the ESO La Silla Observatory (Chile). It was produced by the combination of about
+  450 images with a total exposure time of nearly 50 hours. The field measures 36
+  x 34 square arcminutes ; North is up and East is left. Technical information: The
+  very extensive data reduction and colour image processing needed to produce these
+  images were performed by Mischa Schirmer and Thomas Erben at the &quot;Wide Field
+  Expertise Center&quot; of the Institut für Astrophysik und Extraterrestrische Forschung
+  der Universität Bonn (IAEF) in Germany. It was done by means of a software pipeline
+  specialised for reduction of multiple CCD wide-field imaging camera data. This pipeline
+  is mainly based on publicly available software modules and algorithms (EIS, FLIPS,
+  LDAC, Terapix, Wifix).The image was constructed from about 150 exposures in each
+  of the following wavebands: B-band (centred at wavelength 456 nm; here rendered
+  as blue, 15.8 hours total exposure time), V-band (540 nm; green, 15.6 hours) and
+  R-band (652 nm; red, 17.8 hours). Only images taken under sufficiently good observing
+  conditions (defined as seeing less than 1.1 arcsec) were included. In total, 450
+  images were assembled to produce this colour image, together with about as many
+  calibration images (biases, darks and flats). More than 2 Terabyte (TB) of temporary
+  files were produced during the extensive data reduction. Parallel processing of
+  all data sets took about two weeks on a four-processor Sun Enterprise 450 workstation
+  and a 1.8 GHz dual processor Linux PC. The final colour image was assembled in Adobe
+  Photoshop. The observations were performed by ESO (GOODS, EIS) and the COMBO-17
+  collaboration in the period 1/1999-10/2002.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0302a/L{1}X{2}Y{3}.png
+name: Chandra Deep Field South
+ra_hr: 3.540742803113665
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0302a/thumb.jpg
+zoom_level: 5.446535393232001
+---
+_uuid: 22375842-b8cd-4e49-abde-fbae581e9a20
+annotation: '{"channel": "eso", "itemid": "eso0302c", "publishedUTCISO8601": "2003-01-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.98368044339332
+description: 'Sky field within the wide field imager (WFI) image of the Chandra Deep
+  Field South (CDF-S), reproduced at full (pixel) size to illustrate the exceptional
+  information richness of these data. This subfield measures 6.8 x 7.8 square arcminutes
+  (1717 x 1975 pixels). Technical information: The very extensive data reduction and
+  colour image processing needed to produce these images were performed by Mischa
+  Schirmer and Thomas Erben at the &quot;Wide Field Expertise Center&quot; of the
+  Institut für Astrophysik und Extraterrestrische Forschung der Universität Bonn (IAEF)
+  in Germany. It was done by means of a software pipeline specialised for reduction
+  of multiple CCD wide-field imaging camera data. This pipeline is mainly based on
+  publicly available software modules and algorithms (EIS, FLIPS, LDAC, Terapix, Wifix).The
+  image was constructed from about 150 exposures in each of the following wavebands:
+  B-band (centred at wavelength 456 nm; here rendered as blue, 15.8 hours total exposure
+  time), V-band (540 nm; green, 15.6 hours) and R-band (652 nm; red, 17.8 hours).
+  Only images taken under sufficiently good observing conditions (defined as seeing
+  less than 1.1 arcsec) were included. In total, 450 images were assembled to produce
+  this colour image, together with about as many calibration images (biases, darks
+  and flats). More than 2 Terabyte (TB) of temporary files were produced during the
+  extensive data reduction. Parallel processing of all data sets took about two weeks
+  on a four-processor Sun Enterprise 450 workstation and a 1.8 GHz dual processor
+  Linux PC. The final colour image was assembled in Adobe Photoshop. The observations
+  were performed by ESO (GOODS, EIS) and the COMBO-17 collaboration in the period
+  1/1999-10/2002.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0302c/L{1}X{2}Y{3}.png
+name: Chandra Deep Field South (detail)
+ra_hr: 3.539409153261862
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0302c/thumb.jpg
+zoom_level: 1.3298797435315821
+---
+_uuid: aa89202c-0431-472e-bc06-2130b96e8dc9
+annotation: '{"channel": "eso", "itemid": "eso0302d", "publishedUTCISO8601": "2003-01-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.802216924491336
+description: 'Sky field within the wide field imager (WFI) image of the Chandra Deep
+  Field South (CDF-S), reproduced at full (pixel) size to illustrate the exceptional
+  information richness of these data. This subfield measures 10.1 x 10.5 square arcminutes
+  (2545 x 2635 pixels). Technical information: The very extensive data reduction and
+  colour image processing needed to produce these images were performed by Mischa
+  Schirmer and Thomas Erben at the &quot;Wide Field Expertise Center&quot; of the
+  Institut für Astrophysik und Extraterrestrische Forschung der Universität Bonn (IAEF)
+  in Germany. It was done by means of a software pipeline specialised for reduction
+  of multiple CCD wide-field imaging camera data. This pipeline is mainly based on
+  publicly available software modules and algorithms (EIS, FLIPS, LDAC, Terapix, Wifix).The
+  image was constructed from about 150 exposures in each of the following wavebands:
+  B-band (centred at wavelength 456 nm; here rendered as blue, 15.8 hours total exposure
+  time), V-band (540 nm; green, 15.6 hours) and R-band (652 nm; red, 17.8 hours).
+  Only images taken under sufficiently good observing conditions (defined as seeing
+  less than 1.1 arcsec) were included. In total, 450 images were assembled to produce
+  this colour image, together with about as many calibration images (biases, darks
+  and flats). More than 2 Terabyte (TB) of temporary files were produced during the
+  extensive data reduction. Parallel processing of all data sets took about two weeks
+  on a four-processor Sun Enterprise 450 workstation and a 1.8 GHz dual processor
+  Linux PC. The final colour image was assembled in Adobe Photoshop. The observations
+  were performed by ESO (GOODS, EIS) and the COMBO-17 collaboration in the period
+  1/1999-10/2002.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0302d/L{1}X{2}Y{3}.png
+name: Chandra Deep Field South (Detail)
+ra_hr: 3.5519543440120396
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0302d/thumb.jpg
+zoom_level: 1.7775759757638503
+---
+_uuid: 7dc7584e-b75c-4689-922c-aa65cc2be498
+annotation: '{"channel": "eso", "itemid": "eso0422a", "publishedUTCISO8601": "2004-07-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.765240276067413
+description: Small region in the K20 field centred on a z=1.9 redshift galaxy. The
+  image is based on frames acquired by the Advanced Camera for Surveys (ACS) on the
+  Hubble Space Telescope in the framework of the GOODS Public HST Treasury Program
+  (P.I. M. Giavalisco, STScI, Baltimore, USA). They show the real colours of the galaxies.
+  The four old massive spheroidal galaxies discovered in this survey appear very red
+  compared to the other faint galaxies.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0422a/L{1}X{2}Y{3}.png
+name: Small part of the K20 Field showing the z=1.9 elliptical galaxy
+ra_hr: 3.5427008560590423
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0422a/thumb.jpg
+zoom_level: 0.10257316114446015
+---
+_uuid: 416f9e95-8607-41a7-9df2-378977e38d99
+annotation: '{"channel": "eso", "itemid": "eso0521a", "publishedUTCISO8601": "2005-06-30T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.9929121905587
+description: Composite image taken in two bands (B and R) with VLT/FORS1 of a small
+  portion of the sky (field-of-view 7x7&#x27; or 1/15th of the area of the full moon).
+  The faintest object seen in the image has a magnitude 26 ; that is, it is 100 million
+  times fainter than what can be observed with the unaided eye. The bright elliptical
+  galaxy in the lower left quadrant is a dwarf galaxy that is part of a large nearby
+  cluster in the Fornax constellation. As for all deep images of the sky, this field
+  shows a variety of objects, the brightest punctual sources being stars from our
+  galaxy. By far the field is dominated by thousands of faint background galaxies,
+  the colours of which are related to the age of their dominant stellar population,
+  their dust content and their distance. An Einstein ring is visible in the top right
+  part of the image. ESO Press Photo eso0521b zooms-in on the position of the newly
+  found cosmic mirage.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0521a/L{1}X{2}Y{3}.png
+name: Deep image of a region in Fornax
+ra_hr: 3.552490839987965
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0521a/thumb.jpg
+zoom_level: 0.9642302570559887
+---
+_uuid: 5798c3d7-0cd3-44d3-b772-10b79f1d7320
+annotation: '{"channel": "eso", "itemid": "eso0521b", "publishedUTCISO8601": "2005-06-30T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.96423011781192
+description: 'Using ESO&#x27;s Very Large Telescope, Remi Cabanac and his European
+  colleagues discovered an amazing cosmic mirage, known to scientists as an Einstein
+  Ring. Dubbed FOR J0332-3557, this phenomenon is seen towards the southern constellation
+  Fornax (the Furnace), and is remarkable on at least two counts : first, it is a
+  bright, almost complete Einstein ring, and second, it is the farthest ever found
+  as of this writing.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0521b/L{1}X{2}Y{3}.png
+name: Zoom-in on the Einstein ring on a region in Fornax
+ra_hr: 3.54995143952763
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0521b/thumb.jpg
+zoom_level: 0.31753224121688156
+---
+_uuid: 63c1c44a-46a7-454a-aad6-a527aff823db
+annotation: '{"channel": "eso", "itemid": "eso0532a", "publishedUTCISO8601": "2005-09-29T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -33.62629481304104
+description: Colour-composite of the spiral galaxy NGC 1350 taken with FORS2 at the
+  ESO Very Large Telescope. The image, totalling 16 minutes of observations, clearly
+  reveals the delicate structures in this gigantic &quot;eye&quot; as well as many
+  background galaxies.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0532a/L{1}X{2}Y{3}.png
+name: The colossal cosmic eye NGC 1350
+ra_hr: 3.5184585655167044
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0532a/thumb.jpg
+zoom_level: 0.8452044950488444
+---
+_uuid: 0ca44f74-6a79-47a2-89c4-61dc6653bcd4
+annotation: '{"channel": "eso", "itemid": "eso0627c", "publishedUTCISO8601": "2006-07-26T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.614876196622774
+description: Colour composite image of NGC 1427A, based on observations collected
+  with FORS1 in Service mode for Andreas Reisenegger and his colleagues in November
+  2002 and January 2003. A very tenuous galaxy is also visible in the upper right
+  corner. For the blue, green and red channels the U, V and H-alpha filters were used,
+  respectively. North is on the left and West is up. The entire field of view of this
+  image is ~ 6.7 x 6.7 arcmin which corresponds to ~ 120 x 120 thousand light-years
+  at the Fornax Cluster distance. Henri Boffin (ESO) did the final processing of the
+  image.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0627c/L{1}X{2}Y{3}.png
+name: The irregular galaxy NGC 1427A
+ra_hr: 3.668955346856741
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0627c/thumb.jpg
+zoom_level: 0.9976036629990841
+---
+_uuid: 2d6b36a3-67ac-43cb-b5d5-10a3906b1aee
+annotation: '{"channel": "eso", "itemid": "eso0643a", "publishedUTCISO8601": "2006-11-23T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -66.48899700263219
+description: The central parts of the starburst galaxy NGC 1313. The very active state
+  of this galaxy is very evident from the image, showing many star formation regions.
+  A great number of supershell nebulae, that is, cocoon of gas inflated and etched
+  by successive bursts of star formation, are visible. The green nebulosities are
+  regions emitting in the ionised oxygen lines and may harbour clusters with very
+  hot stars. This colour-composite is based on images obtained with the FORS1 instrument
+  on one of the 8.2-m Unit Telescope of ESO&#x27;s Very Large Telescope, located at
+  Cerro Paranal. The data were obtained in the night of 16 December 2003, through
+  different broad- (R, B, and z) and narrow-band filters (H-alpha, OI, and OIII).
+  This image is available as a mounted image in the ESOshop.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0643a/L{1}X{2}Y{3}.png
+name: The topsy-turvy galaxy NGC 1313*
+ra_hr: 3.30518896032486
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0643a/thumb.jpg
+zoom_level: 1.027868432290185
+---
+_uuid: 0bf098e9-44ee-40eb-850f-3eadfaa3078d
+annotation: '{"channel": "eso", "itemid": "eso0643b", "publishedUTCISO8601": "2006-11-23T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -66.49617779326057
+description: Larger region of the sky around the starburst galaxy NGC 1313 showing
+  the larger scale disturbance of the galaxy. The galaxy shows some large deformations
+  in the lower right part of the image, while diffuse matter is also present at the
+  top of the image. All this signals a very tormented past which could be at the origin
+  of the burst of star formation.The image was made from data from the Digitized Sky
+  Survey, obtained through blue, red and infrared filters. The &quot;Second Epoch
+  Survey&quot; of the southern sky was made by the Anglo-Australian Observatory (AAO)
+  with the UK Schmidt Telescope. Plates from this survey have been digitized and compressed
+  by the ST ScI. The data were extracted and colour-composed by Henri Boffin (ESO).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0643b/L{1}X{2}Y{3}.png
+name: Larger field around NGC 1313
+ra_hr: 3.3041593674649414
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0643b/thumb.jpg
+zoom_level: 2.5517267964044477
+---
+_uuid: 1ea543ab-d293-4d97-b3ce-b6cc18ce0a51
+annotation: '{"channel": "eso", "itemid": "eso0739a", "publishedUTCISO8601": "2007-09-03T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -32.57706581925377
+description: Colour-composite image of the Type Ia supernova SN 2006dr in the spiral
+  galaxy NGC 1288, as observed with ESO&#x27;s Very Large Telescope. It is based on
+  images acquired through several filters (B, V, R, I and H-alpha) for a total exposure
+  time of 5 minutes. The supernova is the bright object visible to the left of the
+  centre of the galaxy. Many distant galaxies are also seen in the vicinity of NGC
+  1288, of which some are behind. The data were acquired by ESO&#x27;s Paranal Science
+  team. The final image was made by Henri Boffin (ESO).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0739a/L{1}X{2}Y{3}.png
+name: VLT image of supernova in beautiful spiral galaxy NGC 1288
+ra_hr: 3.287064407207151
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0739a/thumb.jpg
+zoom_level: 0.812408844384
+---
+_uuid: 0b6af489-3154-4d9c-8b14-920925b764bf
+annotation: '{"channel": "eso", "itemid": "eso0839a", "publishedUTCISO8601": "2008-11-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.75850732518046
+description: 'The Chandra Deep Field South, observed in the U-, B-, and R-bands with
+  ESO&#x27;&#x27;s VIMOS and WFI instruments. The U-band VIMOS observations were made
+  over a period of 40 hours and constitute the deepest image ever taken from the ground
+  in the U-band. The image covers a region of 14.1 x 21.6 arcminutes on the sky and
+  shows galaxies that are 1 billion times fainter than can be seen by the unaided
+  eye. The VIMOS R-band image was assembled by the ESO/GOODS team from archival data,
+  while the WFI B-band image was produced by the GABODS team. #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0839a/L{1}X{2}Y{3}.png
+name: A pool of distant galaxies
+ra_hr: 3.5409709165797163
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0839a/thumb.jpg
+zoom_level: 3.7635332189925745
+---
+_uuid: b36f1f92-eea1-4a5d-9d1d-467f0639d91a
+annotation: '{"channel": "eso", "itemid": "eso0949c", "publishedUTCISO8601": "2009-12-11T11:30:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.735528278396096
+description: The Fornax Galaxy Cluster is one of the closest of such groupings beyond
+  our Local Group of galaxies. This VISTA image was constructed from images taken
+  through Z, J and Ks filters in the near-infrared part of the spectrum and has captured
+  many of the cluster members in a single image. At the lower-right is the elegant
+  barred-spiral galaxy NGC 1365 and to the left the big elliptical NGC 1399, surrounded
+  by a swarm of faint globular clusters. The image is about 1 degree by 1.5 degrees
+  in extent and the total exposure time was 25 minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0949c/L{1}X{2}Y{3}.png
+name: The Fornax Cluster of galaxies
+ra_hr: 3.5976198477185983
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0949c/thumb.jpg
+zoom_level: 12.116820747438
+---
+_uuid: 9ca92ac7-fa3b-41e6-8788-050294dc106d
+annotation: '{"channel": "eso", "itemid": "eso0949m", "publishedUTCISO8601": "2009-12-11T11:30:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.73324695810775
+description: The Fornax Galaxy Cluster is one of the closest such groupings beyond
+  our own Local Group of galaxies. This visible light wide-field image of the cluster
+  was created from photographs taken through red and blue filters and forming part
+  of the Digitized Sky Survey 2. The field of view is approximately three degrees
+  across.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0949m/L{1}X{2}Y{3}.png
+name: Wide-field view of the Fornax Galaxy Cluster
+ra_hr: 3.5978976018848283
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0949m/thumb.jpg
+zoom_level: 30.569214002184005
+---
+_uuid: 0eed24c2-c83c-4a1d-95d9-caf613855385
+annotation: '{"channel": "eso", "itemid": "eso1612a", "publishedUTCISO8601": "2016-04-13T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.575498867513815
+description: The Fornax Galaxy Cluster is one of the closest of such groupings beyond
+  our Local Group of galaxies. This new VLT Survey Telescope image shows the central
+  part of the cluster in great detail. At the lower-right is the elegant barred-spiral
+  galaxy NGC 1365 and to the left the big elliptical NGC 1399.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1612a/L{1}X{2}Y{3}.png
+name: VST image of the Fornax galaxy cluster
+ra_hr: 3.5920028497144316
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1612a/thumb.jpg
+zoom_level: 14.420272772912417
+---
+_uuid: 05fee467-a25e-4cc6-a7b8-be483368e483
+annotation: '{"channel": "eso", "itemid": "eso1734a", "publishedUTCISO8601": "2017-10-25T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -36.982188039578276
+description: Countless galaxies vie for attention in this dazzling image of the Fornax
+  Cluster, some appearing only as pinpricks of light while others dominate the foreground.
+  One of these is the lenticular galaxy NGC 1316. The turbulent past of this much-studied
+  galaxy has left it with a delicate structure of loops, arcs and rings that astronomers
+  have now imaged in greater detail than ever before with the VLT Survey Telescope.
+  This image was processed with the VST-Tube data reduction program. Note that the
+  bright stars in this image are surrounded by round features, some orange and some
+  pale blue or white, that are caused by reflections within the telescope and camera
+  optics. These artifacts are not real celestial objects.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1734a/L{1}X{2}Y{3}.png
+name: Revealing the galactic secrets of NGC 1316
+ra_hr: 3.396884376160656
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1734a/thumb.jpg
+zoom_level: 24.569403464063377
+---
+_uuid: 4e85b5f1-d6f4-49be-ae8e-e20a4e80060c
+annotation: '{"channel": "eso", "itemid": "eso2110f", "publishedUTCISO8601": "2021-07-16T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -19.41135145458013
+description: This image, taken with the Multi-Unit Spectroscopic Explorer (MUSE) on
+  ESO’s Very Large Telescope (VLT), shows the nearby galaxy NGC 1300. NGC 1300 is
+  a spiral galaxy, with a bar of stars and gas at its centre, located approximately
+  61 million light-years from Earth in the constellation Eridanus. The image is a
+  combination of observations conducted at different wavelengths of light to map stellar
+  populations and warm gas. The golden glows mainly correspond to clouds of ionised
+  hydrogen, oxygen and sulphur gas, marking the presence of newly born stars, while
+  the bluish regions in the background reveal the distribution of slightly older stars. 
+  The image was taken as part of the Physics at High Angular resolution in Nearby
+  GalaxieS (PHANGS) project, which is making high-resolution observations of nearby
+  galaxies with telescopes operating across the electromagnetic spectrum.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2110f/L{1}X{2}Y{3}.png
+name: NGC 1300 as seen with MUSE on ESO’s VLT at several wavelengths of light
+ra_hr: 3.3280801206363524
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2110f/thumb.jpg
+zoom_level: 0.4966791985647001
+---
+_uuid: 43ae5f7b-6bc7-408f-948c-88f9b6820949
+annotation: '{"channel": "eso", "itemid": "eso2110k", "publishedUTCISO8601": "2021-07-16T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -19.41135145458013
+description: This image of the nearby galaxy NGC 1300 was obtained by combining observations
+  taken with the Multi-Unit Spectroscopic Explorer (MUSE) on ESO’s Very Large Telescope
+  (VLT) and with the Atacama Large Millimeter/submillimeter Array (ALMA), in which
+  ESO is a partner. NGC 1300 is a spiral galaxy, with a bar of stars and gas at its
+  centre, located approximately 61 million light-years from Earth in the constellation
+  Eridanus. The image is a combination of observations conducted at different wavelengths
+  of light to map stellar populations and gas. ALMA’s observations are represented
+  in brownish-orange tones and highlight the clouds of cold molecular gas that provide
+  the raw material from which stars form. The MUSE data show up mainly in gold and
+  blue. The bright golden glows map warm clouds of mainly ionised hydrogen, oxygen
+  and sulphur gas, marking the presence of newly born stars, while the bluish regions
+  reveal the distribution of slightly older stars.  The image was taken as part of
+  the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) project, which
+  is making high resolution observations of nearby galaxies with telescopes operating
+  across the electromagnetic spectrum.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2110k/L{1}X{2}Y{3}.png
+name: NGC 1300 as seen with the VLT and ALMA at several wavelengths of light
+ra_hr: 3.3280801206363524
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2110k/thumb.jpg
+zoom_level: 0.4966791985647001
+---
+_uuid: ac716232-82b0-4638-a114-b0190765da37
+annotation: '{"channel": "eso", "itemid": "eso9003g", "publishedUTCISO8601": "1990-02-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -36.13670806522753
+description: This image shows the barred spiral galaxy NGC 1365 in the constellation
+  of Fornax.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9003g/L{1}X{2}Y{3}.png
+name: NGC 1365
+ra_hr: 3.5599819149940646
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9003g/thumb.jpg
+zoom_level: 0.33225152152096676
+---
+_uuid: 0096f964-e54b-4b55-b559-edb184d509d4
+annotation: '{"channel": "eso", "itemid": "eso9533a", "publishedUTCISO8601": "1995-11-20T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -44.643661105156774
+description: NGC 1448 galaxy, observed using the NTT telescope. An example of one
+  of the observations performed by the &quot;Young Astronomers&quot; during their
+  visit to ESO on November 14 - 20, 1995. Those who attended were the winners of the
+  Europe-wide contest &quot;Europe Towards the Stars&quot;, organised by ESO with
+  the support of the European Union, under the auspices of the Third European Week
+  for Scientific and Technological Culture.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9533a/L{1}X{2}Y{3}.png
+name: Young astronomers observe with ESO telescopes
+ra_hr: 3.7426878151346576
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9533a/thumb.jpg
+zoom_level: 1.3319960989759048
+---
+_uuid: e29a1d55-6c28-47d0-96e7-3fcdba477d6e
+annotation: '{"channel": "eso", "itemid": "eso9805b", "publishedUTCISO8601": "1998-01-29T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -55.215444460585914
+description: This is a short (12 sec) exposure of the globular cluster NGC1261 through
+  an H-filter centred at 1.65 micron. Note the excellent resolution, achievable at
+  this wavelength with the SOFI/NTT combination.  The field measures 2.5 x 2.5 arcmin,
+  with North at the top and East to the left. The scale is 0.14 arcsec/pixel. The
+  stellar images are very sharp (FWHM around 0.7 arcsec).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9805b/L{1}X{2}Y{3}.png
+name: Globular cluster NGC 1261
+ra_hr: 3.2041178662672283
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9805b/thumb.jpg
+zoom_level: 0.419466272064
+---
+_uuid: f7addb36-5af1-4f49-9b80-0eead79d6ae7
+annotation: '{"channel": "eso", "itemid": "eso9845a", "publishedUTCISO8601": "1998-09-23T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -32.57648680780461
+description: 'This image is a reproduction of a colour composite image of the beautiful
+  spiral galaxy NGC 1288 in the southern constellation Fornax. It covers the entire
+  field that was imaged on the 2048 x 2048 pixel CCD camera. It is based on CCD frames
+  in different colours that were taken under good seeing conditions during the night
+  of First Light (15 September 1998). The distance to this galaxy is about 300 million
+  light-years; it recedes with a velocity of 4500 km/sec and its diameter is about
+  200,000 light-years. This image is based on a composite of three images taken behind
+  three different filters: B (420 nm; 6 min), V (530 nm; 3 min) and I (800 nm; 3min)
+  during a period of 0.7 arcsec seeing. The field shown measures 6.8 x 6.8 arcmin.
+  North is left; East is down.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9845a/L{1}X{2}Y{3}.png
+name: FORS1 first light - spiral galaxy NGC 1288
+ra_hr: 3.2868370596014955
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9845a/thumb.jpg
+zoom_level: 1.1380667143231353
+---
+_uuid: ed599135-0b40-440b-92c9-2abe2058ccd4
+annotation: '{"channel": "eso", "itemid": "eso9845d", "publishedUTCISO8601": "1998-09-23T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -20.57624686776842
+description: 'This spectacular image of the large spiral galaxy NGC 1232 was obtained
+  on September 21, 1998, during a period of good observing conditions. It is based
+  on three exposures in ultra-violet, blue and red light, respectively. The colours
+  of the different regions are well visible : the central areas contain older stars
+  of reddish colour, while the spiral arms are populated by young, blue stars and
+  many star-forming regions. Note the distorted companion galaxy on the left side,
+  shaped like the greek letter &quot;theta&quot;. NGC 1232 is located 20º south of
+  the celestial equator, in the constellation Eridanus (The River). The distance is
+  about 60 million light-years, but the excellent optical quality of the VLT and FORS
+  allows us to see an incredible wealth of details. At the indicated distance, the
+  edge of the field shown corresponds to about 200,000 light-years, or about twice
+  the size of the Milky Way galaxy. The image is a composite of three images taken
+  behind three different filters: U (360 nm; 10 min), B (420 nm; 6 min) and R (600
+  nm; 2:30 min) during a period of 0.7 arcsec seeing. The field shown measures 6.8
+  x 6.8 arcmin. North is up; East is to the left. #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9845d/L{1}X{2}Y{3}.png
+name: Spiral galaxy NGC 1232
+ra_hr: 3.1636673334428678
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9845d/thumb.jpg
+zoom_level: 1.16108863074
+---
+_uuid: c16a4d54-40d3-4a54-9b13-5eb4b8912d47
+annotation: '{"channel": "eso", "itemid": "eso9845e", "publishedUTCISO8601": "1998-09-23T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -20.580402316425097
+description: 'This image is of the central region of the large spiral galaxy NGC 1232
+  and was obtained on September 21, 1998, during a period of good observing conditions.
+  It is based on three exposures in ultra-violet, blue and red light, respectively.
+  This central area contains older stars of reddish colour. Images eso9845d and eso9845e
+  are based on a composite of three images taken behind three different filters: U
+  (360 nm; 10 min), B (420 nm; 6 min) and R (600 nm; 2:30 min) during a period of
+  0.7 arcsec seeing. The fields shown measure 6.8 x 6.8 arcmin and 1.6 x 1.8 arcmin,
+  respectively. North is up; East is to the left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9845e/L{1}X{2}Y{3}.png
+name: Spiral galaxy NGC 1232
+ra_hr: 3.162624805662467
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9845e/thumb.jpg
+zoom_level: 0.3005066064
+---
+_uuid: a68aed88-379c-4287-a96e-8a4b181e2004
+annotation: '{"channel": "eso", "itemid": "eso9920f", "publishedUTCISO8601": "1999-02-27T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -36.140129397613386
+description: This is a true-colour image  of the major part of NGC 1365, combined
+  from three exposures with the FORS1 multi-mode instrument at VLT UT1, in the B (blue),
+  V (green) and R (red) optical bands. The exposure times were 360, 180 and 140 seconds,
+  respectively. The image quality is about 0.8 arcsec. The field measures about 7
+  x 7 arcmin 2. North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9920f/L{1}X{2}Y{3}.png
+name: Barred galaxy NGC 1365
+ra_hr: 3.559720294941702
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9920f/thumb.jpg
+zoom_level: 1.155005485074
+---
+_uuid: e4c50796-4601-4c24-a1fa-419057b9e391
+annotation: '{"channel": "eso", "itemid": "eso9920g", "publishedUTCISO8601": "1999-02-27T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -36.140777551599946
+description: This photo was obtained by FORS1 at VLT UT1 through a narrow optical
+  filter that isolates light emitted by hydrogen in the red H-alpha spectral line.
+  It shows predominantly star-forming regions and other emission nebulae, most of
+  which are located in the bar and along the spiral arms. The exposure time was 900
+  seconds and the image quality is excellent, about 0.36 arcsec. The field measures
+  about 7 x 7 arcmin 2. North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9920g/L{1}X{2}Y{3}.png
+name: NGC 1365 - H-alpha
+ra_hr: 3.559707930515429
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9920g/thumb.jpg
+zoom_level: 1.14944038272
+---
+_uuid: dd73f7ef-1f9b-4ad8-83a2-5735eaf86893
+annotation: '{"channel": "eso", "itemid": "eso9920h", "publishedUTCISO8601": "1999-02-27T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -36.14348839181705
+description: This view of the inner area of NGC 1365 was obtained through a red (R)
+  optical filter with the VLT Test Camera (TC), mounted at one of the Nasmyth foci
+  of VLT UT1. Dark dust clouds that obscure the light from objects behind them are
+  seen along the bar and spiral arms. The gravitational action of the bar structure
+  drives the large dust lanes into the nuclear region where intense star forming activity
+  takes place. The exposure time was 900 seconds and the image quality is 0.5 arcsec
+  (FWHM). North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9920h/L{1}X{2}Y{3}.png
+name: NGC 1365-R
+ra_hr: 3.5606086318560046
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9920h/thumb.jpg
+zoom_level: 0.20922512923113518
+---
+_uuid: cb7a76de-b6f3-4e0b-b8b5-387d79d35d76
+annotation: '{"channel": "eso", "itemid": "eso9920i", "publishedUTCISO8601": "1999-02-27T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -36.13973731830917
+description: This is an enlargement of an image obtained by FORS1 in the light of
+  H-alpha emission of ionized hydrogen, and here processed to show the central region
+  of NGC1365 in great detail. The star-forming regions in this area show up as knots.
+  The nucleus itself is very bright. An analysis has shown that the matter density
+  in the very central region is very high and there are motions with internal velocities
+  up to about 2000 km/sec. The nucleus probably contains a very massive black hole.
+  North is to the upper right and East is to the upper left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9920i/L{1}X{2}Y{3}.png
+name: NGC 1365 central region
+ra_hr: 3.5600359836852897
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9920i/thumb.jpg
+zoom_level: 0.1874016043212793
+---
+_uuid: 6db5ed41-f5c5-4fff-a105-cf3db8dd1853
+annotation: '{"channel": "eso", "itemid": "eso9920k", "publishedUTCISO8601": "1999-02-27T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -20.574456967797772
+description: This is a computer processed &quot;(U-B) colour-index image&quot; of
+  NGC 1232. This technique allows to show the &quot;difference&quot; between images
+  of the galaxy, as seen in different wavebands. Since different types of objects
+  have different brightness in different colours, this method is very useful to locate
+  objects of a particular type and to obtain an overview of their distribution in
+  the galaxy.  The photo is based on two individual images of NGC 1232 obtained by
+  the FORS1 Commissioning Team at the ESO VLT UT1 on 20 September 1998. They were
+  taken in ultraviolet (&quot;U-band&quot;) and blue (&quot;B-band&quot;) light. The
+  exposure times were 10 min and 6 min, respectively. To obtain this colour-index
+  image, the two images were carefully recentered and then divided numerically.  Star
+  formation regions that emit strong ultraviolet light therefore appear as particularly
+  bright areas in this colour-index image. They trace the shock fronts of the gas
+  in the spiral arms.  The field measures about 5.5 x 5.5 arcmin 2. North is up and
+  East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9920k/L{1}X{2}Y{3}.png
+name: (UV-B) colour index in NGC 1232
+ra_hr: 3.1631202271900185
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9920k/thumb.jpg
+zoom_level: 1.0148858451347893
+---
+_uuid: 4de3871f-5b8d-458b-8e50-0b61ec5dddfc
+annotation: '{"channel": "eso", "itemid": "eso9954a", "publishedUTCISO8601": "1999-12-21T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.808598479495153
+description: This image displays a 0.5° x 0.5° sky area in the direction of the so-called
+  AXAF Deep Field in which few bright objects are seen. This photo results from the
+  combination of 28 individual WFI exposures behind a B(lue) optical filter with a
+  total exposure time of 7 hours. About 100,000 galaxies are visible in the original
+  image that encompasses approx. 8000 x 8000 pixels (1 pixel = 0.24 arcsec). The light
+  trail of an artificial satellite crosses the field. The High-Res version included
+  here has been compressed by a factor of four in order to facilitate transport over
+  the Web. North is up and East is left. Twenty-eight exposures with a total integration
+  time of 7 hours have been co-added. After each single exposure, the telescope was
+  offset by a small angle in order to cover also the gaps between the eight CCD&#x27;s
+  in the mosaic and to enable removal of minor cosmetical blemishes of the detectors.
+  Since the CCD mosaic of the WFI comprises 67 million pixels, a total of 1,900 million
+  data points was thus used to construct this image. The related image processing,
+  using the EIS WFI data reduction pipeline, recently developed at ESO, kept a powerful
+  workstation fully busy for about 8 hours.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9954a/L{1}X{2}Y{3}.png
+name: The AXAF Deep Field
+ra_hr: 3.5410737705058564
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9954a/thumb.jpg
+zoom_level: 5.0512210236884885
+---
+_uuid: 0a8726f9-b648-4a24-9c21-7b4da7fe76bd
+annotation: '{"channel": "eso", "itemid": "potw1008a", "publishedUTCISO8601": "2010-02-22T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.61586621475306
+description: 'In this dazzling image, the galaxy NGC 1427A is seen as it travels through
+  the Fornax cluster of galaxies, to which it belongs. NGC 1427A is an example of
+  a dwarf irregular galaxy, a type of galaxy that is significantly less bright than
+  regular galaxies and characterised by a peculiar shape. In this particular case,
+  the shape of the galaxy has been forged by its rapid, upwards motion through the
+  cluster: with a speed of two million kilometres per hour relative to the cluster,
+  NCG 1427A is being torn apart and will eventually be disrupted. The interaction
+  with the Fornax cluster has led to the birth of many stars, seen here as a boomerang-shaped
+  region of young, glowing stars in the galaxy. NGC 1427A exhibits a striking resemblance
+  to one of our galactic neighbours, the Large Magellanic Cloud, which has undergone
+  similar episodes of star formation, triggered by its interaction with the Milky
+  Way. This image has been obtained using the FORS instrument mounted on one of the
+  8.2-metre telescopes of ESO’s Very Large Telescope on top of Cerro Paranal, Chile.
+  It combines data acquired through four broadband filters (U, B, V, I) and a narrowband
+  one (H-alpha).  North is on the left and West is up. The field of view is 7 arcminutes.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1008a/L{1}X{2}Y{3}.png
+name: A dwarf in the Fornax cluster
+ra_hr: 3.669418741039843
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1008a/thumb.jpg
+zoom_level: 1.1000357739000002
+---
+_uuid: 49271cec-2ade-42bc-a091-4ca07674f79a
+annotation: '{"channel": "eso", "itemid": "potw1037a", "publishedUTCISO8601": "2010-09-13T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -36.14145392365917
+description: Spiralling around, 61 million light-years away in the constellation Fornax
+  (the Furnace), NGC 1365 is enormous. At 200000 light-years across, it is one of
+  the largest galaxies known to astronomers. This, plus the sharply defined bar of
+  old stars across its structure is why it is also known as the Great Barred Spiral
+  Galaxy. Astronomers think that the Milky Way may look very similar to this galaxy,
+  but at half the size. The bright centre of the galaxy is thought to be due to huge
+  amounts of superhot gas ejected from the ring of material circling a central black
+  hole. Young luminous hot stars, born out of the interstellar clouds, give the arms
+  a prominent appearance and a blue colour. The bar and spiral pattern rotates, with
+  one full turn taking about 350 million years. This image combines observations performed
+  through three different filters (B, V, R) with the 1.5-metre Danish telescope at
+  the ESO La Silla Observatory in Chile.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1037a/L{1}X{2}Y{3}.png
+name: The Great Barred Spiral Galaxy
+ra_hr: 3.560154596645484
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1037a/thumb.jpg
+zoom_level: 2.99506770423
+---
+_uuid: af5c4eea-3c4a-47c9-90e8-eea41f921214
+annotation: '{"channel": "eso", "itemid": "potw1644a", "publishedUTCISO8601": "2016-10-31T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 30.754145681135373
+description: 'For the first time, astronomers have seen a dusty disc of material around
+  a young star fragmenting into a multiple star system. This image comprises new observations
+  from the Atacama Large Millimeter/submillimeter Array (ALMA), Chile, and reveals
+  the process in action! Stars form in cosmic clouds of gas and dust, when the thin
+  material in the clouds collapses gravitationally into denser cores that in turn
+  draw additional material inward. The infalling material forms a rotating disc around
+  the young star, and is slowly consumed. Eventually, the young star gathers enough
+  mass to create the necessary temperatures and pressures at its centre to trigger
+  nuclear fusion. Stars that have no companion — such as the Sun — are not as common
+  as we once thought. In fact, almost half of the stars in our galaxy have at least
+  one companion, and some are more sociable still! Previous studies have indicated
+  that the stars in multiple systems tend to be either relatively close to each other,
+  within about 500 times the Earth-Sun distance (known as an Astronomical Unit or
+  AU), or significantly further apart, at over 1000 AU. Given these wildly different
+  distances, scientists concluded that there were two main mechanisms producing multiple
+  star systems — either the original cloud collapsed unstably and fragmented, each
+  subsequent fragment crumpling to form a new star, or the rotating disc around an
+  existing star fragmented, with the same result. Systems with larger separations
+  likely formed via the former process (as recent observational studies have suggested),
+  and closer-knit stellar families via the latter (although there was limited evidence
+  of this process). New data from ALMA have now offered observational evidence of
+  this conclusion. This image shows the second process in action, as seen in the young
+  triple star system L1448 IRS3B. The trio are still deeply embedded within their
+  parent cloud in the constellation of Perseus, some 750 light-years from Earth, and
+  are hungrily feeding from material in the surrounding disc. ALMA has revealed this
+  disc to have a spiral structure, a feature that indicates gravitational instability.
+  Notes: The Atacama Large Millimeter/submillimeter Array (ALMA), an  international
+  astronomy facility, is a partnership of the European  Organisation for Astronomical
+  Research in the Southern Hemisphere (ESO),  the U.S. National Science Foundation
+  (NSF) and the National Institutes  of Natural Sciences (NINS) of Japan in cooperation
+  with the Republic of  Chile. ALMA is funded by ESO on behalf of its Member States,
+  by NSF in  cooperation with the National Research Council of Canada (NRC) and the  National
+  Science Council of Taiwan (NSC) and by NINS in cooperation with  the Academia Sinica
+  (AS) in Taiwan and the Korea Astronomy and Space  Science Institute (KASI). Links  Associated
+  paper: “A triple protostar system formed via fragmentation of a gravitationally
+  unstable disk”, by J. Tobin et al., is published in the 27 October issue of the
+  journal Nature.  NRAO press release '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1644a/L{1}X{2}Y{3}.png
+name: Young stellar system caught in the act of forming close multiples
+ra_hr: 3.4267670954990743
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1644a/thumb.jpg
+zoom_level: 0.011733945532058903
+---
+_uuid: c4617b17-4f6f-4d54-8ec1-ea8bdc614efa
+annotation: '{"channel": "eso", "itemid": "potw1801a", "publishedUTCISO8601": "2018-01-01T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -26.337008304404158
+description: This week’s picture shows spectacular ribbons of gas and dust wrapping
+  around the pearly centre of the barred spiral galaxy NGC 1398. This galaxy is located
+  in the constellation of Fornax (The Furnace), approximately 65 million light-years
+  away. Rather than beginning at the very middle of the galaxy and swirling outwards,
+  NGC 1398’s graceful spiral arms stem from a straight bar, formed of stars, that
+  cuts through the galaxy’s central region. Most spiral galaxies — around two thirds
+  — are observed to have this feature, but it’s not yet clear whether or how these
+  bars affect a galaxy’s behaviour and development. This image comprises data gathered
+  by the FOcal Reducer/low dispersion Spectrograph 2 (FORS2) instrument, mounted on
+  ESO’s Very Large Telescope (VLT) at Paranal Observatory, Chile. It shows NGC 1398
+  in striking detail, from the dark lanes of dust mottling its spiral arms, through
+  to the pink-hued star-forming regions sprinkled throughout its outer regions. This
+  image was created as part of the ESO Cosmic Gems programme, an outreach initiative
+  to produce images of interesting, intriguing or visually attractive objects using
+  ESO telescopes, for the purposes of education and public outreach. The programme
+  makes use of telescope time that cannot be used for science observations. All data
+  collected may also be suitable for scientific purposes, and are made available to
+  astronomers through ESO’s science archive.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1801a/L{1}X{2}Y{3}.png
+name: Ribbons and pearls
+ra_hr: 3.647757328683274
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1801a/thumb.jpg
+zoom_level: 1.2352945162048365
+---
+_uuid: dfa805be-367f-47f4-956c-3cf15b494f55
+annotation: '{"channel": "eso", "itemid": "potw1943a", "publishedUTCISO8601": "2019-10-28T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.592489645921525
+description: This strikingly simple and serene view of NGC 1404 — a giant elliptical
+  galaxy located 62 million light-years away in the constellation of Fornax (The Furnace)
+  — hides the galaxy’s cruel reality. NGC 1404 is one of the galaxies comprising the
+  massive Fornax Cluster — and it is slowly falling inwards towards the cluster’s
+  core. As it moves towards the cluster’s large centremost galaxy, NGC 1399, the galaxy’s
+  reserves of hot gas are being forcibly ripped and stripped away, leaving an elongated
+  tell-tale trail of gas in its wake. While not visible in this image, this gas stream
+  can be seen clearly in X-ray images of the galaxy; in time, NGC 1404 will lose most
+  of its hot gas, and therefore its ability to form new stars. ESO’s Very Large Telescope
+  (VLT) captured this image of NGC 1404 with its FORS instrument. The bright foreground
+  star to the lower left of the frame is named HD 22862.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1943a/L{1}X{2}Y{3}.png
+name: Falling in Fornax
+ra_hr: 3.647739483890953
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1943a/thumb.jpg
+zoom_level: 1.1685866016234443
+---
+_uuid: 9e34a845-89f7-461e-8eaa-e2e0e5718ca3
+annotation: '{"channel": "eso", "itemid": "potw2034a", "publishedUTCISO8601": "2020-08-24T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -36.14037526971861
+description: The MUSE instrument on ESO’s Very Large Telescope (VLT) in Chile has
+  observed NGC 1365, a double-barred spiral galaxy located about 56 million light-years
+  away in the Fornax galaxy cluster, allowing us to construct this spectacular colour
+  image. The galaxy is also known as the Great Barred Spiral Galaxy, after its two
+  central bar-shaped structures, made up of stars.  The two bars of NGC 1365 are a
+  rare phenomenon and are thought to have originated by the combined effects of galaxy
+  rotation and the complex dynamics of the stars. Its largest bar of stars, too large
+  for its structure to be visible in this image, connects its outer spiral arms to
+  its centre. What we can see is the much smaller second bar of stars, nestled within
+  the main bar. It is likely this secondary bar acts independently of the main bar,
+  rotating more rapidly than the rest of the galaxy. Standing for Multi-Unit Spectroscopic
+  Explorer, the MUSE instrument captured this image in optical and infrared light,
+  showing the gas and dust in the central region of the galaxy. Installed on Yepun,
+  one of the four 8.2-metre telescopes that make up the VLT, the capabilities of this
+  instrument have allowed for some of the most comprehensive and detailed studies
+  of our Universe to date, including surveys of distant galaxies, supermassive black
+  holes and even the source of gravitational waves.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw2034a/L{1}X{2}Y{3}.png
+name: A Phenomenal View of a Phenomenal Spiral
+ra_hr: 3.5601530098245973
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw2034a/thumb.jpg
+zoom_level: 0.1719731009729815
+---
 _uuid: 2d9b14b3-1bb6-4f58-83df-9fe2eb9aa577
 annotation: '{"channel": "noirlab", "itemid": "gemini0707b", "publishedUTCISO8601":
   "2007-11-14T20:00:00+00:00"}'

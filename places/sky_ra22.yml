@@ -1,3 +1,300 @@
+_uuid: 41d35de4-d6bb-40e3-a8bf-e14b3c2388d8
+annotation: '{"channel": "eso", "itemid": "eso0326a", "publishedUTCISO8601": "2003-08-21T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.35765860612872
+description: Sky region imaged with the multi-mode FORS2 instrument on the 8.2-m VLT
+  YEPUN telescope, in which a number of galaxies in the redshift range from 4.8 to
+  5.8 were discovered. They are accordingly located at a distance of about 12,600
+  million light-years from the Earth. This is a composite image where the blue, green
+  and red colours correspond to the R- (central wavelength at 650 nm), the I- (about
+  780 nm), and the z-band filter (910 nm), respectively. The size of the sky field
+  corresponds to about 1,000 million light-years at the distance of these galaxies.
+  North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0326a/L{1}X{2}Y{3}.png
+name: Colour-composite of the sky field with several High-Redshift galaxies
+ra_hr: 22.4527789897622
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0326a/thumb.jpg
+zoom_level: 1.1290800945411599
+---
+_uuid: 10004bd8-16fd-43e5-b351-b8d52d48c74d
+annotation: '{"channel": "eso", "itemid": "eso0649b", "publishedUTCISO8601": "2006-12-20T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.81551027929093
+description: Three-colour image (B, V, and R-band) of the gamma-ray burst observed
+  on 5 May 2006, GRB 060505, with FORS on the VLT. The galaxy is a spiral galaxy at
+  a distance of 1,300 million light-years. The yellow arrow on the zoomed-in image
+  (ESO Press Photo eso0649) shows where the star exploded, namely in a star-forming
+  region in one of the spiral arms of the galaxy.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0649b/L{1}X{2}Y{3}.png
+name: GRB 060505
+ra_hr: 22.11771244373613
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0649b/thumb.jpg
+zoom_level: 0.9200260894212542
+---
+_uuid: b9e69041-8a53-4b9d-9a02-ef8987e93b31
+annotation: '{"channel": "eso", "itemid": "eso0802a", "publishedUTCISO8601": "2008-01-21T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -31.963364749411458
+description: Colour-composite image of the triplet of galaxies, catalogued as NGC
+  7173 (top), 7174 (bottom right) and 7176 (bottom left), and located 106 million
+  light-years away towards the constellation of Piscis Austrinus (the &#x27;Southern
+  Fish&#x27;). This triplet of galaxies makes up part of the Hickson Compact Group
+  HCG 90.  NGC 7173 and 7176 are elliptical galaxies, while NGC 7174 is a spiral galaxy
+  with quite disturbed dust lanes and a long, twisted tail. This seems to indicate
+  that the two lower galaxies - whose combined shape bears some resemblance to that
+  of a sleeping baby - are currently interacting. Astronomers have suggested that
+  the three galaxies will finally merge.  The size of the image is about 5.3 arcminutes.
+  The image is based on data obtained with the VLT FORS1 instrument on ESO&#x27;s
+  Very Large Telescope through three different filters, B, V, and R. The data were
+  extracted from the ESO Science Archive and fully processed by Henri Boffin (ESO). 
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0802a/L{1}X{2}Y{3}.png
+name: Cosmic interactions
+ra_hr: 22.034573563682656
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0802a/thumb.jpg
+zoom_level: 0.941412530016
+---
+_uuid: f74e3e4f-dd1b-4fb1-bdcf-93ae163f8cf2
+annotation: '{"channel": "eso", "itemid": "eso0847a", "publishedUTCISO8601": "2008-12-12T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 3.358453529789815
+description: The Einstein Cross and the galaxy that causes this &#x27;cosmic mirage&#x27;,
+  as seen with the FORS instrument on ESO&#x27;s Very Large Telescope. This cross-shaped
+  configuration consists of four images of a single very distant source. The multiple
+  images are a result of gravitational lensing by a foreground galaxy, an effect that
+  was predicted by Albert Einstein as a consequence of his theory of general relativity.
+  The light source in the Einstein Cross is a quasar approximately ten billion light-years
+  away, whereas the foreground lensing galaxy is ten times closer. The light from
+  the quasar is bent in its path and magnified by the gravitational field of the lensing
+  galaxy.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0847a/L{1}X{2}Y{3}.png
+name: The Einstein Cross
+ra_hr: 22.675083350611803
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0847a/thumb.jpg
+zoom_level: 0.2896336753588224
+---
+_uuid: f311e550-bb8a-4166-b88c-9a2d7afc005b
+annotation: '{"channel": "eso", "itemid": "eso0907a", "publishedUTCISO8601": "2009-02-25T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -20.825097188977786
+description: 'This colour-composite image of the Helix Nebula (NGC 7293) was created
+  from images obtained using the Wide Field Imager (WFI), an astronomical camera attached
+  to the 2.2-metre Max-Planck Society/ESO telescope at the La Silla observatory in
+  Chile. The blue-green glow in the centre of the Helix comes from oxygen atoms shining
+  under effects of the intense ultraviolet radiation of the 120 000 degree Celsius
+  central star and the hot gas. Further out from the star and beyond the ring of knots,
+  the red colour from hydrogen and nitrogen is more prominent. A careful look at the
+  central part of this object reveals not only the knots, but also many remote galaxies
+  seen right through the thinly spread glowing gas.This image was created from images
+  through blue, green and red filters and the total exposure times were 12 minutes,
+  9 minutes and 7 minutes respectively. This image is available as a mounted image
+  in the ESOshop. #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0907a/L{1}X{2}Y{3}.png
+name: The Helix Nebula*
+ra_hr: 22.49401562063087
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0907a/thumb.jpg
+zoom_level: 4.409979793529999
+---
+_uuid: 4a414947-c8f9-477d-9e16-64da9ab40dad
+annotation: '{"channel": "eso", "itemid": "eso0907b", "publishedUTCISO8601": "2012-01-19T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -20.837374231142533
+description: This visible-light wide-field image of the region around the Helix Nebula
+  was created from photographs taken through red and blue filters and forming part
+  of the Digitized Sky Survey 2. The nebula appears prominently at the centre of the
+  image and many faint galaxies are also visible on careful inspection.  The field
+  of view is approximatelly 2.9 x 2.9 degrees.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0907b/L{1}X{2}Y{3}.png
+name: Digitized Sky Survey image of the Helix Nebula
+ra_hr: 22.494046517453352
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0907b/thumb.jpg
+zoom_level: 30.555762968015998
+---
+_uuid: bea08683-d7c0-4ebe-8fed-50c3781d6e3c
+annotation: '{"channel": "eso", "itemid": "eso2010b", "publishedUTCISO8601": "2020-06-30T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.11015597487537393
+description: Image of the Kinman Dwarf galaxy, also known as PHL 293B, taken with
+  the NASA/ESA Hubble Space Telescope’s Wide Field Camera 3 in 2011, before the disappearance
+  of the massive star. Located some 75 million light-years away, the galaxy is too
+  far away for astronomers to clearly resolve its individual stars, but in observations
+  done between 2001 and 2011, they detected the signatures of the massive star. These
+  signatures were not present in more recent data.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2010b/L{1}X{2}Y{3}.png
+name: Hubble image of the Kinman Dwarf galaxy
+ra_hr: 22.51022877725166
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2010b/thumb.jpg
+zoom_level: 0.0380521008207156
+---
+_uuid: 8a5a0641-f63d-4aed-8854-4dff90813fe2
+annotation: '{"channel": "eso", "itemid": "eso2010d", "publishedUTCISO8601": "2020-06-30T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.1241231516869483
+description: This wide-field view shows the region of the sky, in the constellation
+  of Aquarius, where the Kinman Dwarf galaxy can be found. This view was created from
+  images forming part of the Digitized Sky Survey 2.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2010d/L{1}X{2}Y{3}.png
+name: Wide-field view of the region of the sky where the Kinman Dwarf galaxy  is located
+ra_hr: 22.507958597953557
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2010d/thumb.jpg
+zoom_level: 28.571413624355998
+---
+_uuid: d084a649-c887-4d52-9f43-7589bd17a2e4
+annotation: '{"channel": "eso", "itemid": "eso9833a", "publishedUTCISO8601": "1998-07-31T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -60.551644332648095
+description: This photo is a reproduction of a combination of five 15-minute exposures
+  with the VLT Test Camera. They were obtained through a red filtre on June 5, 1998,
+  during a spare period when no technical tests were scheduled. They cover a part
+  of the Hubble Deep Field - South (about 1.3 x 1.3 arcmin, or about 1/400th of the
+  area of the Full Moon). It is the VLT&#x27;s first real look into deep space and
+  represents a most promising demonstration of the VLT&#x27;s future possibilities.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9833a/L{1}X{2}Y{3}.png
+name: First VLT excursion into deep space
+ra_hr: 22.548567533866343
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9833a/thumb.jpg
+zoom_level: 0.2075581121946584
+---
+_uuid: 5f700404-e82d-4e22-85dc-8be24f8e60ed
+annotation: '{"channel": "eso", "itemid": "eso9856d", "publishedUTCISO8601": "1998-11-26T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -2.0958170513188588
+description: The image is a colour composite image of the galaxy cluster CL2244-02  (redshift
+  z = 0.3), combining a 20 min jittered ISAAC Ks (2.16µm) exposure with 15 min V (green-yellow)
+  and R (red) exposures, obtained with the VLT Test Camera at the UT1 Nasmyth focus.
+  In addition to the prominent blue arc, produced by gravitational lensing of a galaxy
+  at redshift z = 2.24, there are also notable, very red arcs, both closer to the
+  centre and further out. They were only detected in the infrared image and are probably
+  due to lensing of a much more distant galaxy.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9856d/L{1}X{2}Y{3}.png
+name: Galaxy cluster CL2244-02 with gravitational arcs
+ra_hr: 22.786692943530763
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9856d/thumb.jpg
+zoom_level: 0.23240962254414727
+---
+_uuid: b8f159df-a2d2-41d6-8cde-7caa79eff8fc
+annotation: '{"channel": "eso", "itemid": "helix", "publishedUTCISO8601": "2009-12-03T23:20:46+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -20.84996490991734
+description: The Helix Nebula (also known as The Helix, NGC 7293, or Caldwell 63)
+  is a large planetary nebula (PN) located in the constellation Aquarius. Discovered
+  by Karl Ludwig Harding, probably before 1824, this object is one of the closest
+  to the Earth of all the bright planetary nebulae. The estimated distance is about
+  215 parsecs or 700 light-years. It is similar in appearance to the Ring Nebula,
+  whose size, age, and physical characteristics are similar to the Dumbbell Nebula,
+  varying only in its relative proximity and the appearance from the equatorial viewing
+  angle. The Helix Nebula has sometimes been referred to as the &quot;Eye of God&quot;
+  in pop culture.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/helix/L{1}X{2}Y{3}.png
+name: The Helix Nebula (NGC7293)
+ra_hr: 22.49459064947018
+thumbnail: http://data1.wwtassets.org/feeds/eso/helix/thumb.jpg
+zoom_level: 5.766539635211999
+---
+_uuid: 412aee46-955d-42c4-8e62-8f95d1f89ea9
+annotation: '{"channel": "eso", "itemid": "potw1721a", "publishedUTCISO8601": "2017-05-22T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.62180484676878
+description: 'Fomalhaut is one of the brightest stars in the sky. At roughly 25 light-years
+  away the star lies especially close to us, and can be seen shining brightly in the
+  constellation of Piscis Austrinus (The Southern Fish). This image from the Atacama
+  Large Millimeter/submillimeter Array (ALMA) shows Fomalhaut (centre) encircled by
+  a ring of dusty debris — this is the first time this scene has been captured at
+  such high resolution and sensitivity at millimetre wavelengths. Fomalhaut’s disc
+  comprises a mix of cosmic dust and gas from comets in the Fomalhaut system (exocomets),
+  released as the exocomets graze past and smash into one another. This turbulent
+  environment resembles an early period in our own Solar System known as the Late
+  Heavy Bombardment, which occurred approximately four billions years ago. This era
+  saw huge numbers of rocky objects hurtle into the inner Solar System and collide
+  with the young terrestrial planets, including Earth, where they formed a myriad
+  of impact craters — many of which remain visible today on the surfaces of planets
+  such as Mercury and Mars. Fomalhaut is known to be surrounded by several discs of
+  debris — the one visible in this ALMA image is the outermost one. The ring is approximately
+  20 billion kilometers from the central star and about 2 billion kilometers wide.
+  Such a relative narrow, eccentric disc can only be produced by the gravitational
+  influence of planets in the system, like Jupiter’s gravitational influence on our
+  asteroid belt. In 2008 the NASA/ESA Hubble Space Telescope discovered the famous
+  exoplanet Fomalhaut b orbiting within this belt, but the planet is not visible in
+  this ALMA image. Link:  NRAO press release '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1721a/L{1}X{2}Y{3}.png
+name: ALMA Explores Fomalhaut’s Debris Disc
+ra_hr: 22.960848558938682
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1721a/thumb.jpg
+zoom_level: 0.0765402357500401
+---
+_uuid: 14378a2d-ef0e-4b4a-8838-e08ffb11fd7f
+annotation: '{"channel": "eso", "itemid": "potw1806a", "publishedUTCISO8601": "2018-02-05T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.678420665803863
+description: The stunning Atoms for Peace galaxy was given its nickname due to its
+  superficial resemblance to an atomic nucleus, surrounded by the loops of orbiting
+  electrons. “Atoms for Peace” was the title of a speech given by President Eisenhower
+  in 1953, in an attempt to rebrand nuclear power as a tool for working toward global
+  peace. Somewhat ironically this galaxy has had anything but a peaceful past — it
+  was formed in a catastrophic merger between two smaller galaxies nearly 1 Gyr ago.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1806a/L{1}X{2}Y{3}.png
+name: Hubble image of NGC 7252
+ra_hr: 22.345746733367424
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1806a/thumb.jpg
+zoom_level: 0.18129956578255477
+---
+_uuid: 4f5eb7a0-f964-4103-8c8e-00f33d4004a9
+annotation: '{"channel": "eso", "itemid": "potw1806b", "publishedUTCISO8601": "2018-02-05T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.678420665803863
+description: This unusual image reveals the aftermath of a catastrophic collision  between
+  two galaxies, which happened about one billion years ago. The  result? A single,
+  very oddly shaped galaxy named NGC 7252, and curiously  nicknamed the Atoms for
+  Peace galaxy. At the heart of this merger remnant lies a fascinating “minispiral”
+  — a rotating disc of glowing gas, bursting with star formation. Using the VIsible
+  Multi-Object Spectrograph (VIMOS) instrument on ESO’s Very Large Telescope,  astronomers
+  were able to measure the movement of the gas within this  disc, allowing them to
+  map its rotation. Red regions indicate gas moving  away from us, and blue regions
+  towards us. Together, these colours  reveal the galaxy&#x27;s steadily rotating
+  centre, as well as highlighting  two flowing streams of hot gas north-west and south-east
+  of the central  region. Past studies suggested that the central spiral was rotating  counter
+  to  the rest of the galaxy, but by comparing the movement of  stars around  the
+  galaxy with the gas ionised by newly formed stars in the minispiral, we now know
+  that they are in fact rotating in the same direction. Such a detailed map is possible
+  due to the Integral Field Unit (IFU) on VIMOS, allowing astronomers to study the
+  gas in NGC 7252 with a  comprehensive &quot;mosaic&quot; view. Much like the way
+  a fly observes the  world, an IFU divides its subject into many cells, or pixels,
+  generating  a spectrum for every single one. The resulting information is arranged  into
+  a 3D data cube, which is particularly useful in studying extended  objects in just
+  one shot.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1806b/L{1}X{2}Y{3}.png
+name: VLT map of gas within NGC 7252’s minispiral
+ra_hr: 22.345746733367424
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1806b/thumb.jpg
+zoom_level: 0.18129956578255477
+---
 _uuid: 6b9b0ea3-688d-47b4-8af9-a9944bb428fa
 annotation: '{"channel": "noirlab", "itemid": "gemini-ngc7232-final", "publishedUTCISO8601":
   "2020-08-30T05:51:13+00:00"}'

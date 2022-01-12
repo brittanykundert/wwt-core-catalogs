@@ -1,3 +1,2269 @@
+_uuid: 9e86d67a-3e6c-4384-be14-049b06d8aa68
+annotation: '{"channel": "eso", "itemid": "03_sn-1987a_cc", "publishedUTCISO8601":
+  "2010-03-12T18:51:38+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.26905268109698
+description: 'Image in continuum light of the surroundings of supernova SN 1987A,
+  taken by the NTT, at La Silla Observatory, almost 5 years after the explosion was
+  detected in the Large Magellanic Cloud. SN 1987A is the spot between the two brighter
+  stars, belonging to the same multiple system. After reaching an impressive magnitude
+  3 at its maximum, the supernova had already faded to magnitude 18 by the time this
+  image was captured. SN 1987A was the first naked-eye supernova to be seen in almost
+  four hundred years and is one of the most studied objects in modern astronomy. ESO
+  telescopes have played a major role in this campaign. More information in ESO Messenger
+  66, p35: http://www.eso.org/sci/publications/messenger/archive/no.58-dec89/messenger-no58.pdf
+   '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/03_sn-1987a_cc/L{1}X{2}Y{3}.png
+name: SN 1987A fades
+ra_hr: 5.591031231643389
+thumbnail: http://data1.wwtassets.org/feeds/eso/03_sn-1987a_cc/thumb.jpg
+zoom_level: 0.04181233032016489
+---
+_uuid: 350eba21-ebfa-44e6-a56d-fa233ac7a4c3
+annotation: '{"channel": "eso", "itemid": "05_sn-1987a_cc", "publishedUTCISO8601":
+  "2010-03-12T18:51:39+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.2688537915643
+description: 'High resolution NTT image of SN 1987A taken from La Silla Observatory
+  in December 1993. Seven years after the explosion of SN 1987A, the observations
+  indicate the beginning of a more active phase while the interaction between the
+  stellar material which was ejected during the explosion and the surrounding ring-shaped
+  nebula has started. SN 1987A is one of the most studied objects in modern astronomy
+  and ESO telescopes have been observing it since its first detection, in February
+  1987. More information in ESO Messenger 75: http://www.eso.org/sci/publications/messenger/archive/no.75-mar94/messenger-no75.pdf'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/05_sn-1987a_cc/L{1}X{2}Y{3}.png
+name: Ring-shaped nebula around SN 1987A
+ra_hr: 5.59099326295538
+thumbnail: http://data1.wwtassets.org/feeds/eso/05_sn-1987a_cc/thumb.jpg
+zoom_level: 0.036064758706617295
+---
+_uuid: 56d948cb-29a7-4ec9-b103-19d9356adc77
+annotation: '{"channel": "eso", "itemid": "06_sn-1987a_cc", "publishedUTCISO8601":
+  "2010-03-12T18:51:40+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.26900322410086
+description: 'High resolution NTT image of supernova SN 1987A taken from La Silla
+  Observatory in December 1993. Seven years after the explosion of SN 1987A, the observations
+  indicate the beginning of a more active phase while the interaction between the
+  stellar material which was ejected during the explosion and the surrounding ring-shaped
+  nebulae has started. SN 1987A is one of the most studied objects in modern astronomy
+  and ESO telescopes have been observing it since its first detection, in February
+  1987. More information in ESO Messenger 75, p22: http://www.eso.org/sci/publications/messenger/archive/no.75-mar94/messenger-no75.pdf'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/06_sn-1987a_cc/L{1}X{2}Y{3}.png
+name: Ring-shaped nebula around SN 1987A
+ra_hr: 5.591006570673193
+thumbnail: http://data1.wwtassets.org/feeds/eso/06_sn-1987a_cc/thumb.jpg
+zoom_level: 0.0306880477661167
+---
+_uuid: 6aaae046-f255-4157-b770-eeffd9ba8130
+annotation: '{"channel": "eso", "itemid": "10_sn-1987a_cc", "publishedUTCISO8601":
+  "2010-06-10T18:32:05+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.26901067810688
+description: 'Image of the neighbourhood of supernova SN 1987A, taken with the NTT,
+  in the light of ionised nitrogen, during very good seeing. The colour coding shows
+  the intensity contours in the image. SN 1987A was detected in the Large Magellanic
+  Cloud in February 1987 and was the first naked-eye supernova in nearly four centuries.
+  ESO telescopes have been observing SN 1987A for more than twenty years. More information
+  in ESO Messenger 59, p16: http://www.eso.org/sci/publications/messenger/archive/no.59-mar90/messenger-no59.pdf'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/10_sn-1987a_cc/L{1}X{2}Y{3}.png
+name: Neighbourhood of SN 1987A
+ra_hr: 5.5910222827552145
+thumbnail: http://data1.wwtassets.org/feeds/eso/10_sn-1987a_cc/thumb.jpg
+zoom_level: 0.20127092939165303
+---
+_uuid: bcfd084c-c4c5-4dad-8289-4a8b01ed1a2f
+annotation: '{"channel": "eso", "itemid": "16_sn-1987a_cc", "publishedUTCISO8601":
+  "2010-03-12T18:51:48+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.29247883392287
+description: 'This frame was obtained by NTT and EMMI in 1992, with 10 minutes exposure
+  in H-alpha. It shows an interesting honeycomb structure in the interstellar matter
+  around supernova SN1987A, which lies at the centre of the structure, in the lower
+  left. SN 1987A, detected in 1987 in the nearby Large Magellanic Cloud was the closest
+  supernova for several centuries, the first visible by naked-eye for 383 years and
+  definitely one of the most studied objects in modern astronomy. ESO telescopes have
+  been observing SN 1987A for more than twenty years. More information in ESO Messenger
+  69, p34: http://www.eso.org/sci/publications/messenger/archive/no.69-sep92/messenger-no69.pdf'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/16_sn-1987a_cc/L{1}X{2}Y{3}.png
+name: Honeycomb structure around SN 1987A
+ra_hr: 5.593789838875849
+thumbnail: http://data1.wwtassets.org/feeds/eso/16_sn-1987a_cc/thumb.jpg
+zoom_level: 0.5335264866739617
+---
+_uuid: 35873011-3af3-4123-87e5-a7dad9b098b4
+annotation: '{"channel": "eso", "itemid": "ann18006a", "publishedUTCISO8601": "2018-01-30T11:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.10213330914965
+description: This image of the dramatic star formation region 30 Doradus, also known
+  as the Tarantula Nebula, was created from a mosaic of images taken using the HAWK-I
+  instrument working with the Adaptive optics Facility of ESO’s Very Large Telescope
+  in Chile. The stars are significantly sharper than the same image without adaptive
+  optics being used, and fainter stars can be seen.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/ann18006a/L{1}X{2}Y{3}.png
+name: The Tarantula Nebula region imaged with HAWK-I with the Adaptive Optics Facility
+ra_hr: 5.6450633617770105
+thumbnail: http://data1.wwtassets.org/feeds/eso/ann18006a/thumb.jpg
+zoom_level: 1.2833955307069052
+---
+_uuid: 3ada7de0-d754-4e41-a104-8f8621969885
+annotation: '{"channel": "eso", "itemid": "ann18006b", "publishedUTCISO8601": "2018-01-30T11:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.10213330914965
+description: This image of the dramatic star formation region 30 Doradus, also known
+  as the Tarantula Nebula, was created from a mosaic of images taken using the HAWK-I
+  instrument working without adaptive optics.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/ann18006b/L{1}X{2}Y{3}.png
+name: The Tarantula Nebula region imaged with HAWK-I without adaptive optics
+ra_hr: 5.6450633617770105
+thumbnail: http://data1.wwtassets.org/feeds/eso/ann18006b/thumb.jpg
+zoom_level: 1.2833955307069052
+---
+_uuid: 8f379ac2-060f-4365-b33f-ff7787005c3e
+annotation: '{"channel": "eso", "itemid": "ann21010b", "publishedUTCISO8601": "2021-07-06T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.012041889298857
+description: This image of the Crab Nebula (also known as Messier 1) in the constellation
+  of Taurus is an overlay of one of the first-light images taken by the CONCERTO instrument
+  on the APEX telescope, operated by ESO, with an image taken by the FORS 2 instrument
+  on ESO’s VLT. CONCERTO’s data is the white central glow, with the colourful structures
+  in the background coming from the VLT image. The Crab Nebula is the remnant of a
+  supernova explosion at a distance of about 6,000 light-years, observed almost 1,000
+  years ago, in the year 1054.  CONCERTO is able to scan the sky at frequencies between
+  infrared and radio waves and has been designed to look at radiation emitted by ionised
+  carbon atoms, one of the most valuable tracers of star formation in the early cosmic
+  ages. 
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/ann21010b/L{1}X{2}Y{3}.png
+name: CONCERTO show starts with new view of the Crab Nebula
+ra_hr: 5.575484094296998
+thumbnail: http://data1.wwtassets.org/feeds/eso/ann21010b/thumb.jpg
+zoom_level: 1.16741880007536
+---
+_uuid: 6d4cfc22-6ae4-4a9c-9dc5-356a9f93b063
+annotation: '{"channel": "eso", "itemid": "ann21010d", "publishedUTCISO8601": "2021-07-06T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.01533436368912
+description: This image of the Crab Nebula (also known as Messier 1) in the constellation
+  of Taurus is one of the first-light images taken by the CONCERTO instrument on APEX
+  telescope, operated by ESO. It is the remnant of a supernova explosion at a distance
+  of about 6,000 light-years, observed almost 1,000 years ago, in the year 1054. The
+  total integration time is 3 minutes. CONCERTO is able to scan the sky at frequencies
+  between infrared and radio waves and has been designed to look at radiation emitted
+  by ionised carbon atoms, one of the most valuable tracers of star formation in the
+  early cosmic ages.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/ann21010d/L{1}X{2}Y{3}.png
+name: The Crab Nebula as seen by CONCERTO
+ra_hr: 5.57590411592633
+thumbnail: http://data1.wwtassets.org/feeds/eso/ann21010d/thumb.jpg
+zoom_level: 2.153481359638963
+---
+_uuid: 5ebd549a-d8f7-4ed2-8185-f7c57a4066d7
+annotation: '{"channel": "eso", "itemid": "eso0004b", "publishedUTCISO8601": "2000-01-28T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.02238245505049
+description: This is the central region of the Crab Nebula, the famous supernova remnant
+  in the constellation Taurus (The Bull). It was obtained early in the night of &quot;First
+  Light&quot; with the third 8.2-m VLT Unit Telescope, MELIPAL. It is a composite
+  of several 30-sec exposures with the VLT Test Camera in three broad-band filters,
+  B (here rendered as blue; most synchrotron emission), V (green) and R (red; mostly
+  emission from hydrogen atoms). The Crab Pulsar is visible to the left; it is the
+  lower of the two brightest stars near each other. The image quality is about 0.9
+  arcsec, and is completely determined by the external seeing caused by the atmospheric
+  turbulence above the telescope at the time of the observation. The coloured, vertical
+  lines to the left are artifacts of a &quot;bad column&quot; of the CCD. The field
+  measures about 1.3 x 1.3 arcmin 2. This image may be compared with that of the same
+  area that was obtained earlier with the FORS2 instrument at KUEYEN.  (see  ESO Press
+  Photo eso9948 - The Crab Nebula in Taurus).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0004b/L{1}X{2}Y{3}.png
+name: Centre of the Crab Nebula
+ra_hr: 5.575225660248629
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0004b/thumb.jpg
+zoom_level: 0.2157121422839295
+---
+_uuid: 400e9b33-20cc-4db6-a667-3a6d5bde05cd
+annotation: '{"channel": "eso", "itemid": "eso0005a", "publishedUTCISO8601": "2000-02-08T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.09952492000131
+description: The Tarantula Nebula in the Large Magellanic Cloud (LMC) as obtained
+  with FORS2  at KUEYEN during the night of January 31 - February 1, 2000. The LMC
+  is a satellite galaxy to our Milky Way system, located in the southern constellation
+  Dorado (The Swordfish) at a distance of approximately 170,000 light-years. It is
+  a composite of three exposures in B (30 sec exposure, image quality 0.75 arcsec;
+  here rendered in blue colour), V (15 sec, 0.70 arcsec; green) and R (10 sec, 0.60
+  arcsec; red). The full-resolution version of this photo retains the orginal pixels.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0005a/L{1}X{2}Y{3}.png
+name: Tarantula Nebula
+ra_hr: 5.645065548786642
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0005a/thumb.jpg
+zoom_level: 1.16879505867
+---
+_uuid: b2978443-49b5-44eb-82ec-266f743e01d2
+annotation: '{"channel": "eso", "itemid": "eso0104a", "publishedUTCISO8601": "2001-01-17T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -5.384621266402692
+description: This photo shows a colour composite mosaic image of the central part
+  of the Orion Nebula, based on 81 images obtained with the infrared multi-mode ISAAC
+  instrument on the ESO Very Large Telescope (VLT) at the Paranal Observatory. The
+  famous Trapezium stars are seen near the centre and the photo also shows the associated
+  cluster of about 1,000 stars, approximately one million years old. This image is
+  available as a mounted image in the ESOshop.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0104a/L{1}X{2}Y{3}.png
+name: The Orion Nebula*
+ra_hr: 5.587651694460556
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0104a/thumb.jpg
+zoom_level: 1.1742477495804113
+---
+_uuid: d1f50cda-1714-4e4d-8f59-789be2524bff
+annotation: '{"channel": "eso", "itemid": "eso0104c", "publishedUTCISO8601": "2001-01-17T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -5.410207509767114
+description: This image shows smaller, particularly interesting areas of ESO Press
+  Photo eso0104a. It shows the delicate tracery created at the so-called Bright Bar,
+  as the intense UV-light and strong winds from the hot Trapezium stars eat their
+  way into the surrounding molecular cloud. Also visible are a number of very young
+  red objects partly hidden in the cloud, waiting to be revealed as new members of
+  the Trapezium Cluster.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0104c/L{1}X{2}Y{3}.png
+name: 'The Orion Nebula: The jewel in the sword'
+ra_hr: 5.58758271281284
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0104c/thumb.jpg
+zoom_level: 0.6530342365701647
+---
+_uuid: ad2c3c73-e198-4e7f-b89b-a54a45959b96
+annotation: '{"channel": "eso", "itemid": "eso0124a", "publishedUTCISO8601": "2001-06-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -5.392250457657111
+description: This image shows a colour composite of near-infrared images of the central
+  regions of the Orion Nebula, obtained on March 14, 2000, with the SOFI instrument
+  at the ESO 3.5-m New Technology Telescope (NTT) at La Silla. Three exposures were
+  made through J- (wavelength 1.25 µm here colour-coded as &quot;blue&quot;), H- (1.65
+  µm; &quot;green&quot;) and Ks-filters (2.16 µm; &quot;red&quot;), respectively.
+  The central group of bright stars is the famous &quot;Trapezium&quot; . The total
+  effective exposure time was 86.4 seconds per band. The sky field measures about
+  4.9 x 4.9 arcmin 2 (1024 x 1024 pix 2). North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0124a/L{1}X{2}Y{3}.png
+name: The Trapezium cluster
+ra_hr: 5.587517080690139
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0124a/thumb.jpg
+zoom_level: 0.7909522076645243
+---
+_uuid: 64cd47e0-dea3-45fc-8046-87dc72356e85
+annotation: '{"channel": "eso", "itemid": "eso0202a", "publishedUTCISO8601": "2002-01-25T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -2.449841894907901
+description: 'A reproduction of a composite colour image of the Horsehead Nebula and
+  its immediate surroundings. It is based on three exposures in the visual part of
+  the spectrum with the FORS2 multi-mode instrument at the 8.2-m KUEYEN telescope,
+  part of ESO&#x27;s Very Large Telescope, at Paranal. It was produced from three
+  images, obtained on February 1, 2000, with the FORS2 multi-mode instrument at the
+  8.2-m KUEYEN Unit Telescope and extracted from the VLT Science Archive Facility
+  . The frames were obtained in the B-band (600 sec exposure; wavelength 429 nm; FWHM
+  88 nm; here rendered as blue), V-band (300 sec; 554 nm; 112 nm; green) and R-band
+  (120 sec; 655 nm; 165 nm; red). The original pixel size is 0.2 arcsec. The photo
+  shows the full field recorded in all three colours, approximately 6.5 x 6.7 arcmin
+  2 . The seeing was about 0.75 arcsec. This image is available as a mounted image
+  in the ESOshop. #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0202a/L{1}X{2}Y{3}.png
+name: The Horsehead Nebula*
+ra_hr: 5.683655608956735
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0202a/thumb.jpg
+zoom_level: 1.14297511272
+---
+_uuid: bfb7c932-256b-4e0a-9649-ed20d93a5daa
+annotation: '{"channel": "eso", "itemid": "eso0202b", "publishedUTCISO8601": "2002-01-25T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -2.442293981988156
+description: An enlargement of a smaller area. Technical information about these photos
+  is available below. This is an enlargement of a smaller area, measuring 3.8 x 4.1
+  arcmin 2 . North is to the left and east is down (the usual orientation for showing
+  this object). The frames were recorded with a TK2048 SITe CCD and the ESO-FIERA
+  Controller, built by the Optical Detector Team (ODT). The images were prepared by
+  Cyril Cavadore (ESO-ODT), by means of Prism software.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0202b/L{1}X{2}Y{3}.png
+name: The Horsehead Nebula
+ra_hr: 5.683054883486106
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0202b/thumb.jpg
+zoom_level: 0.714101284368
+---
+_uuid: 0d05fdbd-d84a-48db-932a-f1356eee7c32
+annotation: '{"channel": "eso", "itemid": "eso0209f", "publishedUTCISO8601": "2002-03-13T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.016514231330166
+description: The Crab Nebula (Messier 1), as observed by VIMOS. This well-known object
+  is the remnant of a stellar explosion in the year 1054. The image is a composite
+  VRI image obtained on March 4, 2002. The individual exposures lasted 180 seconds;
+  image quality 0.7 arcsec FWHM; field 7 x 7 arcmin2; North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0209f/L{1}X{2}Y{3}.png
+name: The Crab Nebula
+ra_hr: 5.5754273586260545
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0209f/thumb.jpg
+zoom_level: 1.1648891727719999
+---
+_uuid: cb3c12b6-ad5e-419d-a8e6-053b20e459e9
+annotation: '{"channel": "eso", "itemid": "eso0209i", "publishedUTCISO8601": "2002-03-13T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -31.575926928870928
+description: This photo of the galaxy cluster ACO 3341 is from a collection of the
+  first images obtained with VIMOS. ACO 3341 is located at a distance of almost 500
+  million light years (redshift z = 0.037), comparatively nearby in cosmological terms.
+  It contains a large number of galaxies of different sizes and brightness  that is
+  bound together by gravity.  The image is in the R-band and was obtained on March
+  4, 2002. Exposure 300 seconds, image quality 0.5 arcsec FWHM; field 7 x 7 arcmin2;
+  North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0209i/L{1}X{2}Y{3}.png
+name: ACO 3341
+ra_hr: 5.426296944128882
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0209i/thumb.jpg
+zoom_level: 0.9778930905239999
+---
+_uuid: ddfdeaf3-4460-49f8-9373-98f4a6ac6c12
+annotation: '{"channel": "eso", "itemid": "eso0216a", "publishedUTCISO8601": "2002-06-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.09154237679377
+description: A reproduction of a composite colour image of the Tarantula Nebula in
+  the Large Magellanic Cloud (LMC) and its surroundings. The LMC is a satellite galaxy
+  to our Milky Way system, located in the southern constellation Dorado (the Swordfish)
+  at a distance of approximately 170,000 light-years. The image is based on 15 exposures
+  in the visual part of the spectrum with the Wide Field Imager (WFI) camera on the
+  2.2-m MPG/ESO telescope at the La Silla Observatory. A number of small areas near
+  the borders were not covered in all three colours and have been left black. Six
+  smaller fields with particular objects from this photo are reproduced as ESO Press
+  Photos eso0216b-g.   ESO Press Photo eso0216a  was produced from 15 images that
+  were obtained in September 2000 with the Wide-Field-Imager (WFI) at the 2.2-m MPG/ESO
+  telescope. The images were exposed in the B-band (5 x 200 sec; wavelength 456 nm;
+  Full-Width-Half-Maximum (FWHM) 99 nm; here rendered as blue), V-band (5 x 200 sec;
+  540 nm; 89 nm; green) and R-band (5 x 200 sec; 652 nm; 162 nm; red). The original
+  pixel size is 0.238 arcsec. The photo shows the full field recorded in all three
+  colours. It measures approximately 34 x 34 arcmin 2 ; North is up and East is left.
+  The seeing was about 1.6 arcsec.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0216a/L{1}X{2}Y{3}.png
+name: In Tarantula territory (a)
+ra_hr: 5.647722663966637
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0216a/thumb.jpg
+zoom_level: 6.01267274706
+---
+_uuid: 9bf0db6f-049d-4e1f-bd6a-4649953cae63
+annotation: '{"channel": "eso", "itemid": "eso0216b", "publishedUTCISO8601": "2002-06-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.10418022282406
+description: The bright core of the Tarantula Nebula with the cluster of hot stars.
+  Note also the wisps of luminous gas extending as &quot;legs&quot; from the central
+  area - this is how the nebula got its creepy name.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0216b/L{1}X{2}Y{3}.png
+name: The central area of the Tarantula Nebula
+ra_hr: 5.646804050114055
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0216b/thumb.jpg
+zoom_level: 1.146651665082
+---
+_uuid: e64eed3a-4feb-43c8-aad7-d88bbfdde67a
+annotation: '{"channel": "eso", "itemid": "eso0216c", "publishedUTCISO8601": "2002-06-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -68.99999386924142
+description: 'This image shows a part of the Tarantula Nebula region: in the upper
+  left quadrant, a luminous lobe around a hot blue star and a neighbouring dark cloud.
+  The Tarantula Nebula appears in the lower right quadrant of the image.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0216c/L{1}X{2}Y{3}.png
+name: In Tarantula territory (c)
+ra_hr: 5.664251154411195
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0216c/thumb.jpg
+zoom_level: 1.1912176162619998
+---
+_uuid: 1af617c1-5cf8-4862-a6a9-00d6d42e010f
+annotation: '{"channel": "eso", "itemid": "eso0216d", "publishedUTCISO8601": "2002-06-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.23518076540817
+description: The area of the young globular cluster NGC 2100 , located east of the Tarantula
+  Nebula , at the extreme left edge of ESO Press Photo eso0216a and the field of this
+  photo.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0216d/L{1}X{2}Y{3}.png
+name: In Tarantula territory (d)
+ra_hr: 5.690034727336496
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0216d/thumb.jpg
+zoom_level: 1.5522787952219996
+---
+_uuid: 96be1094-ce7b-476c-aa4e-d41078659ed3
+annotation: '{"channel": "eso", "itemid": "eso0216e", "publishedUTCISO8601": "2002-06-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -68.86818489326119
+description: This image displays a rich field NW of the centre of the Tarantula Nebula,
+  with the globular cluster KMHK 1137[2] near the upper edge. This image is part of
+  a reproduction of a composite colour image of the Tarantula Nebula in the Large
+  Magellanic Cloud (LMC) and its surroundings. The LMC is a satellite galaxy to our
+  Milky Way system, located in the southern constellation Dorado (The Swordfish) at
+  a distance of approximately 170,000 light-years. The image is based on 15 exposures
+  in the visual part of the spectrum with the Wide Field Imager (WFI) camera on the
+  2.2-m MPG/ESO telescope at the La Silla Observatory.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0216e/L{1}X{2}Y{3}.png
+name: In Tarantula territory (e)
+ra_hr: 5.607733520355751
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0216e/thumb.jpg
+zoom_level: 1.5048392876999999
+---
+_uuid: 3b065136-d84c-420f-967f-394bb0d3a172
+annotation: '{"channel": "eso", "itemid": "eso0216g", "publishedUTCISO8601": "2002-06-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.18553051617502
+description: Colour composite image of the Tarantula Nebula in the Large Magellanic
+  Cloud (LMC) and its surroundings. It displays numerous &quot;fingers&quot; of dark
+  material, lanes of cold gas and dust, that still hold out against the strong stellar
+  winds in this area, SE of the centre of the Tarantula Nebula.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0216g/L{1}X{2}Y{3}.png
+name: In Tarantula territory (g)
+ra_hr: 5.665308640523676
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0216g/thumb.jpg
+zoom_level: 1.3623791857679997
+---
+_uuid: 8e9b1d5a-b3ca-4b67-93c2-ab61ae1b1631
+annotation: '{"channel": "eso", "itemid": "eso0310c", "publishedUTCISO8601": "2003-04-09T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -70.99076945718818
+description: The nebula around the hot double star BAT99-49 in the Large Magellanic
+  Cloud (LMC), obtained in January 2002 with the FORS1 multi-mode instrument at the
+  8.2-m VLT MELIPAL telescope at the Paranal Observatory (Chile). It is based on three
+  exposures through narrow-band optical (interference) filters that isolate the light
+  from specific atoms and ions. In this rendering, the blue colour represents the
+  light from singly ionized Helium (He II; wavelength 468.6 nm; exposure time 45 min),
+  green corresponds to doubly ionized oxygen ([O III]; 495.7 + 500.7 nm; 5 min) and
+  red to hydrogen atoms (H; H-alpha line at 656.2 nm; 5 min). Of these three ions,
+  He II is the tracer of high excitation, i.e. the bluest areas of the nebula are
+  the hottest. The sky field measures 400 x 400 square arcsec ; the original pixel
+  size on the 2k x 2k CCD is 0.23 arcsec. North is up and east to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0310c/L{1}X{2}Y{3}.png
+name: Nebulae near the hot binary star BAT99-49 in the LMC
+ra_hr: 5.492691316433885
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0310c/thumb.jpg
+zoom_level: 1.128428654763384
+---
+_uuid: 06332356-4746-4551-a53b-a93e94c061d0
+annotation: '{"channel": "eso", "itemid": "eso0310d", "publishedUTCISO8601": "2003-04-09T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -67.99022279168987
+description: The N44C nebula in the Large Magellanic Cloud (LMC), obtained in January
+  2002 with the FORS1 multi-mode instrument at the 8.2-m VLT MELIPAL telescope at
+  the Paranal Observatory (Chile). It is based on three exposures through narrow-band
+  optical (interference) filters that isolate the light from specific atoms and ions.
+  In this rendering, the blue colour represents the light from singly ionized Helium
+  (He II; wavelength 468.6 nm; exposure time 45 min), green corresponds to doubly
+  ionized oxygen ([O III]; 495.7 + 500.7 nm; 5 min) and red to hydrogen atoms (H;
+  H-alpha line at 656.2 nm; 5 min). Of these three ions, He II is the tracer of high
+  excitation, i.e. the bluest areas of the nebula are the hottest. The sky field measures
+  208 x 208 square arcsec. North is up and east to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0310d/L{1}X{2}Y{3}.png
+name: Close-up of N44C in the LMC
+ra_hr: 5.369178235631809
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0310d/thumb.jpg
+zoom_level: 0.589765788672
+---
+_uuid: 1d8745ac-bbbe-49d3-a48f-a85c84f46627
+annotation: '{"channel": "eso", "itemid": "eso0332a", "publishedUTCISO8601": "2003-11-03T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -67.96018256663237
+description: 'Southern part of the spectacular N44 H II region in the Large Magellanic
+  Cloud. The green colour indicates areas that are particularly hot. The field measures
+  27.5 x 26.5 square arcminutes. North is up and East is left. #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0332a/L{1}X{2}Y{3}.png
+name: N44 in the Large Magellanic Cloud
+ra_hr: 5.370733881471378
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0332a/thumb.jpg
+zoom_level: 5.504435806248001
+---
+_uuid: 5d9518eb-7c42-4972-9871-38b08696c270
+annotation: '{"channel": "eso", "itemid": "eso0332b", "publishedUTCISO8601": "2003-11-03T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -67.93168031506201
+description: The centre of the associated nebular complex N44 in the Large Magellanic
+  Cloud in more detail. The field size is 8.5 x 8.5 square arcminutes. North is up
+  and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0332b/L{1}X{2}Y{3}.png
+name: N44 in the Large Magellanic Cloud (central region)
+ra_hr: 5.363535381296413
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0332b/thumb.jpg
+zoom_level: 1.7798254118879997
+---
+_uuid: 55442e13-36bf-4a3e-aa55-3ea62e9635db
+annotation: '{"channel": "eso", "itemid": "eso0332c", "publishedUTCISO8601": "2003-11-03T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -68.13743414022802
+description: The ionised region DEM L 159 and two clusters with hot stars named KMHK
+  840 (top left) and KMHK 831 (bottom right). The colours have been enhanced compared
+  to ESO Press Photo eso0332a to clearly show the different shades.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0332c/L{1}X{2}Y{3}.png
+name: DEM L 159 nebula and KMHK 840 and 831 star clusters in the LMC
+ra_hr: 5.377708945615565
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0332c/thumb.jpg
+zoom_level: 0.7035331712639998
+---
+_uuid: f0fd5deb-8f86-4053-8893-7afa69e04cf7
+annotation: '{"channel": "eso", "itemid": "eso0332d", "publishedUTCISO8601": "2003-11-03T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -68.1817839744483
+description: Region in the Large Magellanic Cloud towards the South of N44 with pink-green
+  shades that has been designated DEM L 144. It is a region of ionised hydrogen. The
+  colours have been enhanced compared to ESO Press Photo eso0332a to clearly show
+  the different shades.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0332d/L{1}X{2}Y{3}.png
+name: DEM L 144 near N44 in the Large Magellanic Cloud
+ra_hr: 5.3590072992692654
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0332d/thumb.jpg
+zoom_level: 0.605551300614
+---
+_uuid: ba62c235-85cf-4d5a-a173-5196f3aca477
+annotation: '{"channel": "eso", "itemid": "eso0332e", "publishedUTCISO8601": "2003-11-03T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -67.99108392184908
+description: Part of the central nebula, known as N44C, in the Large Magellanic Cloud.
+  The green colour indicates areas that are particularly hot. The nature of the exciting
+  source that delivers the necessary energy has been the subject of studies during
+  two decades but is still not known with certainty.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0332e/L{1}X{2}Y{3}.png
+name: N44C in the Large Magellanic Cloud
+ra_hr: 5.3675656847082855
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0332e/thumb.jpg
+zoom_level: 0.6506683785
+---
+_uuid: bc389381-907a-4ce9-95e0-e38308c4f316
+annotation: '{"channel": "eso", "itemid": "eso0338b", "publishedUTCISO8601": "2003-12-19T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.98037126664619
+description: Colour composite image of the starburst spiral galaxy NGC 1792 obtained
+  with the FORS1 and FORS2 multi-mode instruments (at VLT MELIPAL and YEPUN, respectively).
+  Its optical appearance of NGC 1792 is quite chaotic, due to the patchy distribution
+  of dust throughout the disc of this galaxy. It is very rich in neutral hydrogen
+  gas - fuel for the formation of new stars - and is indeed rapidly forming such stars.
+  The galaxy is characterized by unusually luminous far-infrared radiation ; this
+  is due to dust heated by young stars. Note the numerous background galaxies in this
+  sky field. North is up and East is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0338b/L{1}X{2}Y{3}.png
+name: The starburst spiral galaxy NGC 1792
+ra_hr: 5.087420083466357
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0338b/thumb.jpg
+zoom_level: 1.1561954057519996
+---
+_uuid: 98e54b10-7dfb-4528-bc99-d3b457d3c8aa
+annotation: '{"channel": "eso", "itemid": "eso0421a", "publishedUTCISO8601": "2004-06-30T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -5.385526187095931
+description: ' The individual images of the Orion Nebula where obtained with WFI at
+  the ESO/MPG 2.2m telescope on the night of Dec.10-11, 2001. Several images were
+  obtained in the following filters: U (363.690 nm; 15 images for a total exposure
+  time of 1.25 hour); B (456.252 nm; 14 images; total exp.: 21 min); Oxygen [OIII]
+  (502.393 nm; 15 images; total exp.: 32 min); Halpha (658.827 nm; 15 images; total
+  exp.: 32 min); Sulphur [SII] (676.340 nm; 10 images; total exp.: 30 min). ESO Press
+  Photo eso0421 is a false-colour composite of all of the images obtained in B, Halpha,
+  [OIII], and [SII] where each waveband was associated to a given colour: B to blue,
+  [OIII] to green; Halpha to orange, and [SII] to red. The field of view covers 34
+  x 33 arcmin2. North is up and East is to the left. The images were first processed
+  by Massimo Robberto (STSci) then further combined by Hännes Heyer and Henri Boffin
+  (ESO).'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0421a/L{1}X{2}Y{3}.png
+name: The Orion Nebula (M42)
+ra_hr: 5.587773977128852
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0421a/thumb.jpg
+zoom_level: 5.48409093232197
+---
+_uuid: c6d6fa12-82d1-4849-964b-d002dc6e1534
+annotation: '{"channel": "eso", "itemid": "eso0437a", "publishedUTCISO8601": "2004-12-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -68.93211665468651
+description: Turbulent region around the ring-shaped nebula DEM L 299 in the Large
+  Magellanic Cloud, a satellite galaxy of the Milky Way system. It was produced by
+  combining three monochromatic images obtained in December 2001 with the Wide-Field-Imager
+  (WFI) at the ESO/MPG 2.2-m telescope at the La Silla Observatory. The sky field
+  measures 33.3 x 33.0 arcmin ; the original pixel size (in the FullRes version) is
+  0.238 arcsec. North is up and East is left. The coloured rings seen near some of
+  the brighter stars in the field result from light reflections in the telescope optics.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0437a/L{1}X{2}Y{3}.png
+name: LMC region near the Tarantula Nebula
+ra_hr: 5.713206053223246
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0437a/thumb.jpg
+zoom_level: 5.598424144439999
+---
+_uuid: faae00a9-0811-4889-aaf1-8286eac55f2a
+annotation: '{"channel": "eso", "itemid": "eso0437b", "publishedUTCISO8601": "2004-12-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.16044396885052
+description: Filaments of ionized gas in the proximity of the R136 cluster, which
+  lies beyond the lower left edge of the photo. The different hues are due to different
+  physical conditions that manifest themselves in the spectrum of the light emitted
+  by the gas. Note also the dark lanes running roughly from bottom left to upper right,
+  which are due to filaments of obscuring dust seen in projection against the background
+  of bright nebulosity. The sky field measures 6.5 x 5.7 arcmin. North is up and East
+  is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0437b/L{1}X{2}Y{3}.png
+name: Filaments in the Tarantula Nebula
+ra_hr: 5.67129315397438
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0437b/thumb.jpg
+zoom_level: 0.9573598760759996
+---
+_uuid: 58b9e759-9fa9-457f-a0a7-9b2f0fc56b87
+annotation: '{"channel": "eso", "itemid": "eso0437c", "publishedUTCISO8601": "2004-12-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -68.94664692087215
+description: This is a bright, compact nebula that is located on the North-Western
+  rim of the ringshaped nebula DEM L 299. It is known as SNR 0543-689 and it is the
+  remnant of a more recent supernova explosion. The sky field measures 3.6 x 3.5 arcmin.
+  North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0437c/L{1}X{2}Y{3}.png
+name: SNR 0543-689 in the LMC
+ra_hr: 5.7152990613205334
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0437c/thumb.jpg
+zoom_level: 0.5934002949
+---
+_uuid: 1b612407-2236-4e30-bcb2-cd4331fc3b46
+annotation: '{"channel": "eso", "itemid": "eso0437e", "publishedUTCISO8601": "2004-12-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.08146003863654
+description: N 164, a bright nebula, the glow of which is caused by hot stars inside
+  it. The heating of the gas by these stars increases the pressure and causes such
+  nebulae to expand, pushing outwards against their surroundings. A careful look at
+  this nebula reveals locations where the expansion is encountering resistance by
+  denser clouds of gas, producing bright, thin rims. The sky field measures 3.6 x
+  3.5 arcmin. North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0437e/L{1}X{2}Y{3}.png
+name: N 164 nebula in the LMC
+ra_hr: 5.709476263229629
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0437e/thumb.jpg
+zoom_level: 1.10987572716
+---
+_uuid: 6e67adac-dbdb-4fa2-b2b4-8922db470971
+annotation: '{"channel": "eso", "itemid": "eso0437f", "publishedUTCISO8601": "2004-12-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -68.96826383023975
+description: DEM L 297 is a diffuse nebula in the Large Magellanic Cloud that glows
+  due to stars embedded in it. Its &quot;divided&quot; appearance is due to the presence
+  of obscuring dust lanes. The sky field measures 6.5 x 5.7 arcsec. North is up and
+  East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0437f/L{1}X{2}Y{3}.png
+name: DEM L 297 Nebula in the LMC
+ra_hr: 5.703480382790648
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0437f/thumb.jpg
+zoom_level: 0.594508921272
+---
+_uuid: f29cd78e-64bc-406d-9178-aafbbf2a3cea
+annotation: '{"channel": "eso", "itemid": "eso0437g", "publishedUTCISO8601": "2004-12-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -68.90792144909852
+description: Stellar cluster NGC 2093 in the Large Magellanic Cloud, a comparatively
+  rich aggregate of young stars, a few tens of millions of years old. The hot temperature
+  of the most massive of such young stars is responsible for its predominantly blue
+  colour. The sky field measures 5.6 x 5.1 arcmin. North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0437g/L{1}X{2}Y{3}.png
+name: Stellar cluster NGC 2093 in the LMC
+ra_hr: 5.698187055723727
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0437g/thumb.jpg
+zoom_level: 0.8650377584760001
+---
+_uuid: c2fc322a-7487-462c-8c8f-0ec7398db246
+annotation: '{"channel": "eso", "itemid": "eso0437h", "publishedUTCISO8601": "2004-12-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.18233324583129
+description: NGC 2108 is a rich &quot;mid-aged&quot; cluster, about 600 million years
+  old. A careful comparison with its neighbour NGC 2093 shows that the brightest stars
+  of NGC 2108 are fainter and whiter than the brightest members of NGC 2093; this
+  indicates that NGC 2108 is older. Note also the distinctly red star to the East
+  (left) of the center of this cluster. This is a member of a stellar class referred
+  to as &quot;Carbon stars&quot;, cool giant stars that are characterized by the presence
+  of carbon molecules (C2) in their atmospheres and having extremely red colours.
+  This sky field measures 2.8 x 2.6 arcsec. North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0437h/L{1}X{2}Y{3}.png
+name: NGC 2108 stellar cluster in the LMC
+ra_hr: 5.7322716502395155
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0437h/thumb.jpg
+zoom_level: 0.4538430623759999
+---
+_uuid: 46a950d0-c7c1-4363-8327-e194893608e6
+annotation: '{"channel": "eso", "itemid": "eso0513a", "publishedUTCISO8601": "2005-04-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -71.31510111290811
+description: Composite six-colour image of a part of the LMC H II region N214. The
+  image, taken with the ESO NTT/SuSI2, results from the co-addition of several individual
+  exposures taken through various narrow and broadband filters (see Technical Information
+  below). The field size is 248&quot;x 332&quot; corresponding to approximately 200
+  x 270 light-years. North is up and east to the left. The large nebula in the lower
+  part is N214C which in shown further as ESO Press Photo eso0513b. At upper left
+  to the middle, a stellar cluster is clearly seen. At top-right, another series of
+  compact reddish nebulae, N214H, are present. The new observations reveal that N214H
+  consist of four compact H II regions hosting exciting stars and a diffuse nebula.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0513a/L{1}X{2}Y{3}.png
+name: Part of the LMC H II region N214
+ra_hr: 5.695544322170096
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0513a/thumb.jpg
+zoom_level: 0.887774626926
+---
+_uuid: 46d43fd7-2f28-4032-a02b-9f1e577f8fff
+annotation: '{"channel": "eso", "itemid": "eso0513b", "publishedUTCISO8601": "2005-04-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -71.33221127985534
+description: Zoom-in on the LMC H II region N214C. The field size is 193&quot;x 201&quot;
+  corresponding to roughly 160 x 170 light-years. The brightest object, situated toward
+  the middle of the nebula, is the Sk-71 51 cluster. The striking compact H II blob
+  lies ~ 60&quot; (~ 50 light-years) north of Sk-71 51.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0513b/L{1}X{2}Y{3}.png
+name: The LMC HII region N214C
+ra_hr: 5.69401572883651
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0513b/thumb.jpg
+zoom_level: 0.54159212034
+---
+_uuid: ae999ff5-0b6b-4c62-82cd-287571c7050b
+annotation: '{"channel": "eso", "itemid": "eso0513e", "publishedUTCISO8601": "2005-04-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -71.31717443477243
+description: Zoom-in on the nebular blob lying ~ 60&quot; (50 light-years) north of
+  the Sk-71 51 cluster. The image is based on individual exposures taken through narrow-band
+  filters around H-alpha (red), [O III] (green) and H-beta (blue). The field size
+  is 104&quot; x 101&quot; on the sky, corresponding to roughly 85 by 82 light-years.
+  North is up and east to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0513e/L{1}X{2}Y{3}.png
+name: The Nebular Blob in N214C
+ra_hr: 5.694060497997522
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0513e/thumb.jpg
+zoom_level: 0.272305158534
+---
+_uuid: cd3c5941-6ffa-462a-96c5-6a82e7860b77
+annotation: '{"channel": "eso", "itemid": "eso0613a", "publishedUTCISO8601": "2006-04-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.1003529736711
+description: Three-colour image of the Tarantula Nebula in the Large Magellanic Cloud.
+  The image is based on observations made on 10 February 2002 and 22 March 2003 with
+  the FORS1 multi-mode instrument on ESO&#x27;s Very Large Telescope in three different
+  narrow-band filters (centred on 485 nm, 503 nm, and 657 nm), for a total exposure
+  time slightly above 3 minutes only. The data were extracted from the ESO Science
+  Archive and processed by Henri Boffin (ESO).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0613a/L{1}X{2}Y{3}.png
+name: 'Cosmic spider: the Tarantula Nebula'
+ra_hr: 5.644991719741359
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0613a/thumb.jpg
+zoom_level: 1.15032441366
+---
+_uuid: 55ec6565-edba-488e-929b-50b549831146
+annotation: '{"channel": "eso", "itemid": "eso0613b", "publishedUTCISO8601": "2006-04-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.09966607072079
+description: Inside the giant emission nebula lies a cluster of young, massive and
+  hot stars, denoted R 136, whose intense ultra-violet radiation and strong winds
+  make the nebula glow, shaping it in the form of a giant arachnid. The cluster is
+  about 2 to 3 million years old. Several of the brighter members in the immediate
+  surroundings of the dense cluster are among the most massive stars known, with masses
+  well above 50 times the mass of our Sun. The cluster itself contains more than 200
+  massive stars.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0613b/L{1}X{2}Y{3}.png
+name: Tarantula's central cluster, R136
+ra_hr: 5.645943061982171
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0613b/thumb.jpg
+zoom_level: 0.4255674495830746
+---
+_uuid: 92cd7afd-f028-4bc3-a0da-8be5a6c91b81
+annotation: '{"channel": "eso", "itemid": "eso0613c", "publishedUTCISO8601": "2006-04-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.07031827162344
+description: Above and to the right of the central cluster in the Tarantula Nebula,
+  another cluster of bright, massive stars is seen. Known to astronomers as Hodge
+  301, it is about 20 million years old, or about 10 times older than R136. The more
+  massive stars of Hodge 301 have therefore already exploded as supernovae, blasting
+  material away at tremendous speed and creating a web of entangled filaments. More
+  explosions will come soon — in astronomical terms — as three red supergiants are
+  indeed present in Hodge 301 that will end their life in the gigantic firework of
+  a supernova within the next million years.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0613c/L{1}X{2}Y{3}.png
+name: The stellar cluster Hodge 301
+ra_hr: 5.638458356142897
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0613c/thumb.jpg
+zoom_level: 0.4485250294397951
+---
+_uuid: 51863215-4d14-45ec-b72d-e7a3850ee8a3
+annotation: '{"channel": "eso", "itemid": "eso0613d", "publishedUTCISO8601": "2006-04-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.1346490608716
+description: Zoom-in on gas pillars in the Tarantula Nebula. Some structures have
+  the appearance of elephant trunks, not unlike the famous and fertile &quot;Pillars
+  of Creation&quot; at the top of which stars are forming.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0613d/L{1}X{2}Y{3}.png
+name: Gas pillars in Tarantula Nebula
+ra_hr: 5.650957782904569
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0613d/thumb.jpg
+zoom_level: 0.4480761920390237
+---
+_uuid: 6f1334c4-73fa-4f6b-851e-1761e80ebc0b
+annotation: '{"channel": "eso", "itemid": "eso0650a", "publishedUTCISO8601": "2006-12-21T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.37005441740912
+description: 'One square degree image of the Tarantula Nebula and its surroundings.
+  The spidery nebula is seen in the upper-centre of the image. Slightly to the lower-right,
+  a web of filaments harbours the famous supernova SN 1987A. Many other reddish nebulae
+  are visible in the image, as well as a cluster of young stars on the left, known
+  as NGC 2100. Technical information: the image is based on observations carried out
+  by Joao Alves (Calar Alto, Spain), Benoit Vandame and Yuri Beletsky (ESO) with the
+  Wide Field Imager (WFI) at the 2.2-m telescope on La Silla. These data consist of
+  a 2x2 WFI mosaic in the B- and V-bands, and in the H-alpha and [OIII] narrow bands.
+  The data were first processed with the ESO/MVM pipeline by the Advanced Data Products
+  (ADP) group at ESO. This image is available as a mounted image in the ESOshop. #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0650a/L{1}X{2}Y{3}.png
+name: Portrait of a dramatic stellar crib*
+ra_hr: 5.632884397480219
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0650a/thumb.jpg
+zoom_level: 10.592580532092
+---
+_uuid: 6eed1b6d-e910-4253-a073-d1f4e5936a25
+annotation: '{"channel": "eso", "itemid": "eso0650b", "publishedUTCISO8601": "2006-12-21T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.3005538365198
+description: 'The brightest supernova which has exploded in the current epoch is SN
+  1987A, located in the Large Magellanic Cloud, at the edge of the Tarantula nebula.
+  The explosion was seen on 23 February 1987 and since then the ejected material has
+  created a set of ring structures. The outer ring is clearly visible in this image.
+  In the lower part of the image, an amazing structure is seen: the Honeycomb Nebula.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0650b/L{1}X{2}Y{3}.png
+name: SN 1987A and the Honeycomb Nebula
+ra_hr: 5.593029896620335
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0650b/thumb.jpg
+zoom_level: 0.8822815288200001
+---
+_uuid: 4eac8fb8-07ef-4b7e-ad6e-688b28fc117b
+annotation: '{"channel": "eso", "itemid": "eso0708a", "publishedUTCISO8601": "2007-02-24T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.2949062383112
+description: Image obtained with the ESO Schmidt Telescope of the Tarantula Nebula
+  in the Large Magellanic Cloud. Supernova 1987A is clearly visible as the very bright
+  star in the middle right. At the time of this image, the supernova was visible with
+  the unaided eye.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0708a/L{1}X{2}Y{3}.png
+name: SN1987A in the Large Magellanic Cloud
+ra_hr: 5.61038233668387
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0708a/thumb.jpg
+zoom_level: 11.532810197279998
+---
+_uuid: 166fdc20-45f0-4fe9-8555-d5b0ae77bc99
+annotation: '{"channel": "eso", "itemid": "eso0906e", "publishedUTCISO8601": "2010-07-30T16:37:18+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.905125807146735
+description: This image is a colour composite made from exposures from the Digitized  Sky
+  Survey 2 (DSS2). The field of view is approximatelly 2.7 x 2.1 degrees. ESO/Digitized
+  Sky Survey 2.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0906e/L{1}X{2}Y{3}.png
+name: Digitized Sky Survey image of the star T Leporis
+ra_hr: 5.080830886923518
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0906e/thumb.jpg
+zoom_level: 22.0060656279
+---
+_uuid: ae70d975-00a8-49ac-b176-ce18c70c469f
+annotation: '{"channel": "eso", "itemid": "eso0927e", "publishedUTCISO8601": "2010-07-26T15:52:32+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 7.403320055283865
+description: This image is a colour composite made from exposures from the Digitized
+  Sky Survey 2 (DSS2). The field of view is approximatelly 2.0 x 1.5 degrees.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0927e/L{1}X{2}Y{3}.png
+name: Digitized Sky Survey image of Betelgeuse
+ra_hr: 5.919549553676611
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0927e/thumb.jpg
+zoom_level: 15.207098400000001
+---
+_uuid: 74c16d5e-a4bc-485f-b2b6-4b617f8b3f6d
+annotation: '{"channel": "eso", "itemid": "eso0949a", "publishedUTCISO8601": "2009-12-11T11:30:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -2.074734731414082
+description: 'This image, the first to be released publicly from VISTA, the world’s
+  largest survey telescope, shows the spectacular star-forming region known as the
+  Flame Nebula, or NGC 2024, in the constellation of Orion (the Hunter) and its surroundings.
+  In views of this evocative object in visible light the core of the nebula is completely
+  hidden behind obscuring dust, but in this VISTA view, taken in infrared light, the
+  cluster of very young stars at the object’s heart is revealed. The wide-field VISTA
+  view also includes the glow of the reflection nebula NGC 2023, just below centre,
+  and the ghostly outline of the Horsehead Nebula (Barnard 33) towards the lower right.
+  The bright bluish star towards the right is one of the three bright stars forming
+  the Belt of Orion. The image was created from VISTA images taken through J, H and
+  Ks filters in the near-infrared part of the spectrum. The image shows about half
+  the area of the full VISTA field and is about 40 x 50 arcminutes in extent. The
+  total exposure time was 14 minutes. This image is available as a mounted image in
+  the ESOshop. #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0949a/L{1}X{2}Y{3}.png
+name: The hidden fires of the Flame Nebula*
+ra_hr: 5.695922979727453
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0949a/thumb.jpg
+zoom_level: 8.927998392
+---
+_uuid: 47fd6f36-c18c-45b0-b06b-b5940de78ab1
+annotation: '{"channel": "eso", "itemid": "eso0949k", "publishedUTCISO8601": "2009-12-11T11:30:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -1.7669769103288828
+description: This spectacular visible light wide-field view of part of the famous
+  belt of the great celestial hunter Orion shows the region of the sky around the
+  Flame Nebula. The whole image is filled with glowing gas clouds illuminated by hot
+  blue young stars. It was created from photographs in red and blue light forming
+  part of the Digitized Sky Survey 2. The field of view is approximately three degrees.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0949k/L{1}X{2}Y{3}.png
+name: The region of Orion’s Belt and the Flame Nebula
+ra_hr: 5.695232171267761
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0949k/thumb.jpg
+zoom_level: 27.837077590448093
+---
+_uuid: 4235693e-d73a-4581-9acf-24df921c3540
+annotation: '{"channel": "eso", "itemid": "eso0949n", "publishedUTCISO8601": "2009-12-11T11:30:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -2.0621120588622364
+description: This VISTA image shows the spectacular star-forming region known as the
+  Flame Nebula, or NGC 2024, in the constellation of Orion (the Hunter) and its surroundings.
+  In views of this evocative object in visible light the core of the nebula is completely
+  hidden behind obscuring dust, but in this VISTA view, taken in infrared light, the
+  cluster of very young stars at the object’s heart is revealed. The wide-field VISTA
+  view also includes the glow of the reflection nebula NGC 2023, just below centre,
+  and the ghostly outline of the Horsehead Nebula (Barnard 33) towards the lower right.
+  The bright bluish star towards the right is one of the three bright stars forming
+  the Belt of Orion. The image was created from VISTA images taken through J, H and
+  Ks filters in the near-infrared part of the spectrum. The image shows the full area
+  of the VISTA field and is one degree by 1.5 degrees in extent. The total exposure
+  time was 14 minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0949n/L{1}X{2}Y{3}.png
+name: The hidden fires of the Flame Nebula (full frame)
+ra_hr: 5.696103995735828
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0949n/thumb.jpg
+zoom_level: 14.785352967209999
+---
+_uuid: e57ca725-e92e-4e68-a9f4-34767f419a53
+annotation: '{"channel": "eso", "itemid": "eso1006a", "publishedUTCISO8601": "2010-02-10T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -5.3220943948268795
+description: 'This wide-field view of the Orion Nebula (Messier 42), lying about 1350
+  light-years from Earth, was taken with the VISTA infrared survey telescope at ESO’s
+  Paranal Observatory in Chile. The new telescope’s huge field of view allows the
+  whole nebula and its surroundings to be imaged in a single picture and its infrared
+  vision also means that it can peer deep into the normally hidden dusty regions and
+  reveal the curious antics of the very active young stars buried there. This image
+  was created from images taken through Z, J and Ks filters in the near-infrared part
+  of the spectrum. The exposure times were ten minutes per filter. The image covers
+  a region of sky about one degree by 1.5 degrees.   #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1006a/L{1}X{2}Y{3}.png
+name: VISTA's infrared view of the Orion Nebula*
+ra_hr: 5.585995332166997
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1006a/thumb.jpg
+zoom_level: 15.018967422911999
+---
+_uuid: e9e5a94c-9434-4e38-81f9-6f84cffdcc01
+annotation: '{"channel": "eso", "itemid": "eso1105a", "publishedUTCISO8601": "2011-02-16T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 0.09489865877103874
+description: 'This new image of the reflection nebula Messier 78 was captured using
+  the Wide Field Imager camera on the MPG/ESO 2.2-metre telescope at the La Silla
+  Observatory, Chile. This colour picture was created from many monochrome exposures
+  taken through blue, yellow/green and red filters, supplemented by exposures through
+  a filter that isolates light from glowing hydrogen gas. The total exposure times
+  were 9, 9, 17.5 and 15.5 minutes per filter, respectively. #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1105a/L{1}X{2}Y{3}.png
+name: 'Messier 78: a reflection nebula in Orion'
+ra_hr: 5.778182129166974
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1105a/thumb.jpg
+zoom_level: 5.670950611830696
+---
+_uuid: b55011a5-758e-4cad-bd99-f2e73f659a7a
+annotation: '{"channel": "eso", "itemid": "eso1625a", "publishedUTCISO8601": "2016-07-12T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -5.338774008678209
+description: This spectacular image of the Orion Nebula star-formation region was
+  obtained from multiple exposures using the HAWK-I infrared camera on ESO’s Very
+  Large Telescope in Chile. This is the deepest view ever of this region and reveals
+  more very faint planetary-mass objects than expected.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1625a/L{1}X{2}Y{3}.png
+name: A deep infrared view of the Orion Nebula from HAWK-I
+ra_hr: 5.587937102637692
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1625a/thumb.jpg
+zoom_level: 3.751702690533902
+---
+_uuid: fb2bdfc2-c09d-4a25-88cc-3f793b986988
+angular_size: 21.80904172231677
+annotation: '{"channel": "eso", "itemid": "eso1701-compa", "publishedUTCISO8601":
+  "2017-01-04T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -6.01049339548984
+description: This image from the VISTA infrared survey telescope at ESO’s Paranal
+  Observatory in northern Chile is part of the largest infrared high-resolution mosaic
+  of Orion ever created. It covers the Orion A molecular cloud, the nearest known
+  massive star factory, lying about 1350 light-years from Earth, and reveals many
+  young stars and other objects normally buried deep inside the dusty clouds.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1701-compa/L{1}X{2}Y{3}.png
+name: The Orion A molecular cloud (for comparison)
+ra_hr: 5.605819052982753
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1701-compa/thumb.jpg
+zoom_level: 21.80904172231677
+---
+_uuid: a7c52244-240f-4019-95ad-4b588449125e
+angular_size: 21.80904172231677
+annotation: '{"channel": "eso", "itemid": "eso1701-compb", "publishedUTCISO8601":
+  "2017-01-04T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -6.01049339548984
+description: Visible light view of the region of the Orion Molecular Cloud from the
+  Digitized Sky Survey 2 (DSS)
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1701-compb/L{1}X{2}Y{3}.png
+name: Orion Molecular Cloud in visible light (for comparison)
+ra_hr: 5.605819052982753
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1701-compb/thumb.jpg
+zoom_level: 21.80904172231677
+---
+_uuid: 405d14cd-8a5f-4370-a5ad-7da4c731e664
+angular_size: 21.80927313571974
+annotation: '{"channel": "eso", "itemid": "eso1701a", "publishedUTCISO8601": "2017-01-04T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -6.010453760348883
+description: This image from the VISTA infrared survey telescope at ESO’s Paranal
+  Observatory in northern Chile is part of the largest infrared high-resolution mosaic
+  of Orion ever created. It covers the Orion A molecular cloud, the nearest known
+  massive star factory, lying about 1350 light-years from Earth, and reveals many
+  young stars and other objects normally buried deep inside the dusty clouds.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1701a/L{1}X{2}Y{3}.png
+name: The Orion a molecular cloud from VISTA
+ra_hr: 5.60581995334433
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1701a/thumb.jpg
+zoom_level: 21.80927313571974
+---
+_uuid: 7d565a57-e2f6-40df-888a-fec2927d6f20
+annotation: '{"channel": "eso", "itemid": "eso1723a", "publishedUTCISO8601": "2017-07-27T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -5.4786707566698025
+description: OmegaCAM — the wide-field optical camera on ESO’s VLT Survey Telescope
+  (VST) — has captured the spectacular Orion Nebula and its associated cluster of
+  young stars in great detail,  producing this beautiful new image. This famous object,
+  the birthplace of many massive stars, is one of the closest stellar nurseries, at
+  a distance of about 1350 light-years.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1723a/L{1}X{2}Y{3}.png
+name: The Orion Nebula and cluster from the VLT Survey Telescope
+ra_hr: 5.58562486260458
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1723a/thumb.jpg
+zoom_level: 7.91538558418722
+---
+_uuid: 122eeba7-9c4f-4c74-9a96-1c8da23fcd67
+annotation: '{"channel": "eso", "itemid": "eso1914a", "publishedUTCISO8601": "2019-09-13T09:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -70.0727064369465
+description: ESO’s VISTA telescope reveals a remarkable image of the Large Magellanic
+  Cloud, one of our nearest galactic neighbours. VISTA has been surveying this galaxy
+  and its sibling the Small Magellanic Cloud, as well as their surroundings, in unprecedented
+  detail. This survey allows astronomers to observe a large number of stars, opening
+  up new opportunities to study stellar evolution, galactic dynamics, and variable
+  stars.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1914a/L{1}X{2}Y{3}.png
+name: The Large Magellanic Cloud revealed by VISTA
+ra_hr: 5.419556622906693
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1914a/thumb.jpg
+zoom_level: 87.699547963247
+---
+_uuid: 549aee25-d2bb-4b6f-bd62-fd8abf5280c9
+annotation: '{"channel": "eso", "itemid": "eso2001b", "publishedUTCISO8601": "2020-01-15T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 33.79826289006291
+description: This ALMA image shows a detailed view of the star-forming region AFGL
+  5142. A bright, massive star in its infancy is visible at the centre of the image.
+  The flows of gas from this star have opened up a cavity in the region, and it is
+  in the walls of this cavity (shown in colour), that phosphorus-bearing molecules
+  like phosphorus monoxide are formed. The different colours represent material moving
+  at different speeds.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2001b/L{1}X{2}Y{3}.png
+name: ALMA view of the star-forming region AFGL 5142
+ra_hr: 5.513338984393
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2001b/thumb.jpg
+zoom_level: 0.18717811200184775
+---
+_uuid: ae7b5b39-3a71-41bb-ab48-fef40fe2780b
+annotation: '{"channel": "eso", "itemid": "eso2001e", "publishedUTCISO8601": "2020-01-15T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 33.6971779204325
+description: This wide-field view shows the region of the sky, in the constellation
+  of Auriga, where the star-forming region AFGL 5142 is located. This view was created
+  from images forming part of the Digitized Sky Survey 2.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2001e/L{1}X{2}Y{3}.png
+name: Wide-field view of the region of the sky where AFGL 5142 is located
+ra_hr: 5.507238558007063
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2001e/thumb.jpg
+zoom_level: 25.240116023790605
+---
+_uuid: d5e29afe-5c1c-44d3-879b-b26d914ef088
+annotation: '{"channel": "eso", "itemid": "eso2003a", "publishedUTCISO8601": "2020-02-14T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 7.406591537662142
+description: The red supergiant star Betelgeuse, in the constellation of Orion, has
+  been undergoing unprecedented dimming. This stunning image of the star’s surface,
+  taken with the SPHERE instrument on ESO’s Very Large Telescope late last year, is
+  among the first observations to come out of an observing campaign aimed at understanding
+  why the star is becoming fainter. When compared with the image taken in January
+  2019, it shows how much the star has faded and how its apparent shape has changed.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2003a/L{1}X{2}Y{3}.png
+name: SPHERE's view of Betelgeuse in December 2019
+ra_hr: 5.919561710111802
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2003a/thumb.jpg
+zoom_level: 0.0010502567814528862
+---
+_uuid: 79edd677-012d-4b55-ba22-4f6eaaf8c238
+annotation: '{"channel": "eso", "itemid": "eso2003b", "publishedUTCISO8601": "2020-02-14T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 7.406593022486339
+description: The red supergiant star Betelgeuse, in the constellation of Orion, has
+  been undergoing unprecedented dimming. This stunning image of the star’s surface
+  was taken with the SPHERE instrument on ESO’s Very Large Telescope in January 2019,
+  before the star started to dim. When compared with the image taken in December 2019,
+  it shows how much the star has faded and how its apparent shape has changed.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2003b/L{1}X{2}Y{3}.png
+name: SPHERE’s view of Betelgeuse in January 2019
+ra_hr: 5.91956181117869
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2003b/thumb.jpg
+zoom_level: 0.0010353451549833502
+---
+_uuid: 23d83e3e-40c7-4bd7-8179-5a6ee5f5e90c
+annotation: '{"channel": "eso", "itemid": "eso2003d", "publishedUTCISO8601": "2020-02-14T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 7.406620853119479
+description: This image, obtained with the VISIR instrument on ESO’s Very Large Telescope,
+  shows the infrared light being emitted by the dust surrounding Betelgeuse in December
+  2019. The clouds of dust, which resemble flames in this dramatic image, are formed
+  when the star sheds its material back into space. The black disc obscures the star&#x27;s
+  centre and much of its surroundings, which are very bright and must be masked to
+  allow the fainter dust plumes to be seen. The orange dot in the middle is the SPHERE
+  image of Betelgeuse’s surface, which has a size close to that of Jupiter’s orbit.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2003d/L{1}X{2}Y{3}.png
+name: Betelgeuse’s dust plumes seen by VISIR image
+ra_hr: 5.919560955694057
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2003d/thumb.jpg
+zoom_level: 0.048771124564528784
+---
+_uuid: e39f373b-67cf-490a-986f-5295ea5ce4c7
+annotation: '{"channel": "eso", "itemid": "eso2014c", "publishedUTCISO8601": "2020-09-03T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 11.870181301709243
+description: ALMA, in which ESO is a partner, and the SPHERE instrument on ESO’s Very
+  Large Telescope have imaged GW Orionis, a triple star system with a peculiar inner
+  region. Unlike the flat planet-forming discs we see around many stars, GW Orionis
+  features a warped disc, deformed by the movements of the three stars at its centre.
+  This composite image shows both the ALMA and SPHERE observations of the disc.  The
+  ALMA image shows the disc’s ringed structure, with the innermost ring (part of which
+  is visible as an oblong dot at the very centre of the image) separated from the
+  rest of the disc. The SPHERE observations allowed astronomers to see for the first
+  time the shadow of this innermost ring on the rest of the disc, which made it possible
+  for them to reconstruct its warped shape.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2014c/L{1}X{2}Y{3}.png
+name: ALMA and SPHERE view of GW Orionis (superimposed)
+ra_hr: 5.48566418217082
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2014c/thumb.jpg
+zoom_level: 0.0089599243278675
+---
+_uuid: 2ba4898f-9ed1-4af3-8e70-2e9905b137c5
+annotation: '{"channel": "eso", "itemid": "eso2109c", "publishedUTCISO8601": "2021-06-16T17:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 7.407066022235277
+description: The red supergiant star Betelgeuse, in the constellation of Orion, underwent
+  an unprecedented dimming in late 2019 and early 2020. This stunning image of the
+  star’s surface was taken with the SPHERE instrument on ESO’s Very Large Telescope
+  in March 2020, and is one of the images taken during an observing campaign aimed
+  at understanding why the star became fainter. Betelgeuse’s brightness returned to
+  normal in April 2020. Astronomers now understand that Betelgeuse’s dip in brightness
+  was the result of a dusty veil that emerged from the star, partially concealing
+  its southern region.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2109c/L{1}X{2}Y{3}.png
+name: Image of Betelgeuse’s surface taken in March 2020
+ra_hr: 5.919529174457701
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2109c/thumb.jpg
+zoom_level: 0.0008303248493154215
+---
+_uuid: df526464-e5da-41c0-9808-d4f36eded543
+annotation: '{"channel": "eso", "itemid": "eso2109d", "publishedUTCISO8601": "2021-06-16T17:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 7.407066022235277
+description: The red supergiant star Betelgeuse, in the constellation of Orion, underwent
+  an unprecedented dimming in late 2019 and early 2020. This stunning image of the
+  star’s surface was taken with the SPHERE instrument on ESO’s Very Large Telescope
+  in January 2020, and is one of the images taken during an observing campaign aimed
+  at understanding why the star became fainter. Betelgeuse’s brightness returned to
+  normal in April 2020. Astronomers now understand that Betelgeuse’s dip in brightness
+  was the result of a dusty veil that emerged from the star, partially concealing
+  its southern region. 
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2109d/L{1}X{2}Y{3}.png
+name: Image of Betelgeuse’s surface taken in January 2020
+ra_hr: 5.919529174457701
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2109d/thumb.jpg
+zoom_level: 0.0008303248493154215
+---
+_uuid: aed4ee9b-d9f6-4cb2-8429-a0b0974d1bb1
+annotation: '{"channel": "eso", "itemid": "eso2109e", "publishedUTCISO8601": "2021-06-16T17:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 7.407066022235277
+description: The red supergiant star Betelgeuse, in the constellation of Orion, underwent
+  an unprecedented dimming in late 2019 and early 2020. This stunning image of the
+  star’s surface was taken with the SPHERE instrument on ESO’s Very Large Telescope
+  in December 2019, and is one of the images taken during an observing campaign aimed
+  at understanding why the star became fainter. Betelgeuse’s brightness returned to
+  normal in April 2020. Astronomers now understand that Betelgeuse’s dip in brightness
+  was the result of a dusty veil that emerged from the star, partially concealing
+  its southern region.  An earlier version of this image was released in early 2020.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2109e/L{1}X{2}Y{3}.png
+name: Image of Betelgeuse’s surface taken in December 2019
+ra_hr: 5.919529174457701
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2109e/thumb.jpg
+zoom_level: 0.0008303248493154215
+---
+_uuid: 3ebdd195-6039-4c28-bb72-db102c05ce02
+annotation: '{"channel": "eso", "itemid": "eso2109f", "publishedUTCISO8601": "2021-06-16T17:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 7.407066022235277
+description: When the red supergiant star Betelgeuse became visibly darker in late
+  2019 and early 2020, astronomers were puzzled. This image of the star was taken
+  before Betelgeuse started to fade, using the SPHERE instrument on ESO’s Very Large
+  Telescope. When compared with later images, taken in December 2019, January 2020
+  and March 2020, it is clear that the southern region of the star dimmed significantly,
+  before beginning to its normal brightness. Astronomers now know that this unprecedented
+  dimming was the result of a cloud of dust that emerged from the star. An earlier
+  version of this image was released in early 2020.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2109f/L{1}X{2}Y{3}.png
+name: Image of Betelgeuse’s surface taken in January 2019
+ra_hr: 5.919529174457701
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2109f/thumb.jpg
+zoom_level: 0.0008303248493154215
+---
+_uuid: 59a6faea-426d-4b2c-abb4-22a27c0e9b80
+annotation: '{"channel": "eso", "itemid": "eso2116b", "publishedUTCISO8601": "2021-11-11T13:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -68.76102087404777
+description: This image shows NGC1850, a cluster of thousands of stars roughly 160
+  000 light-years away in the Large Magellanic Cloud, a Milky Way neighbour. The reddish
+  filaments surrounding the cluster, made of vast clouds of hydrogen, are believed
+  to be the remnants of supernova explosions.  The image is an overlay of observations
+  conducted in visible light with ESO’s Very Large Telescope (VLT) and NASA/ESA’s
+  Hubble Space Telescope (HST). The VLT captured the wide field of the image and the
+  filaments, while the central cluster was imaged by the HST.   Among many stars,
+  this cluster is home to a black hole 11 times as massive as the Sun and to a five-solar-mass
+  star orbiting it. By looking at the star’s orbit, a team of astronomers were able
+  to infer the presence of the black hole, making it the first small black hole outside
+  of our galaxy to be found this way. For this discovery, the team used the Multi
+  Unit Spectroscopic Explorer (MUSE) instrument at the VLT.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2116b/L{1}X{2}Y{3}.png
+name: NGC1850 as seen with the Very Large Telescope and Hubble
+ra_hr: 5.146161636337546
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2116b/thumb.jpg
+zoom_level: 1.15383808513094
+---
+_uuid: f009f962-0b70-494a-8089-2a410d1e712a
+annotation: '{"channel": "eso", "itemid": "eso8709a", "publishedUTCISO8601": "1987-06-16T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.14573318500224294
+description: This is a photo of Arakelian 120, an AGN galaxy which may contain a massive
+  black hole at its centre, cf. ESO Press Release eso8709. The bright nucleus is overexposed
+  and the underlying galaxy is only faintly visible. Most of the other objects in
+  this field are stars in the Milky Way Galaxy.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso8709a/L{1}X{2}Y{3}.png
+name: Is there a black hole in this galaxy?
+ra_hr: 5.26997258306717
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso8709a/thumb.jpg
+zoom_level: 1.148739777054
+---
+_uuid: c7b8dfdc-59e4-4b50-8a51-e05f7a7b0ef3
+annotation: '{"channel": "eso", "itemid": "eso8906b", "publishedUTCISO8601": "1989-07-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 2.8113319278890097
+description: This photo shows the  newly discovered large jet in the HH-111 complex.
+  The straight jet emerges from the surrounding interstellar cloud in the lower part
+  of the picture. The outline of the cloud is vaguely visible by the brighter background
+  near the right edge of the picture. Also seen is a diffuse reflection nebula around
+  the lower part of the jet. This nebula is illuminated by the light from the newborn
+  star, hidden deep within the cloud. Because of the heavy obscuration, the star itself
+  is not visible on this photo. The jet produces a ``bow-shock&#x27;&#x27; nebula;
+  this is the bright, mushroom-shaped nebula in the upper part of the picture. The
+  round points are background stars in the Milky Way. Compare this image with the
+  graphic representation of the jet isophotes, also accompanying this Press Release.
+  The picture was produced as a composite of four 1 hour CCD exposures, obtained with
+  the Danish 1.5 m telescope at La Silla through a narrow optical filter. The light
+  seen here from the jet is emitted by singly ionised sulphur atoms. This photo is
+  available in a B/W and a false-colour version. (ESO Press Release eso8906; BW and
+  Colour)
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso8906b/L{1}X{2}Y{3}.png
+name: Newly discovered large jet in the HH-111 complex
+ra_hr: 5.861444187088367
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso8906b/thumb.jpg
+zoom_level: 0.47516557057200004
+---
+_uuid: 49a9df11-777d-4a14-a069-7cd97051b0c8
+annotation: '{"channel": "eso", "itemid": "eso9003c", "publishedUTCISO8601": "1990-02-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.015487145134962
+description: The Crab Nebula, one of the most famous objects in the northern sky,
+  was observed rather low above the La Silla horizon (altitude) with the NTT. Despite
+  this adverse condition, the picture shows in great detail the complex structure.
+  The Crab Nebula is the remnant of a supernova which exploded in the year 1054.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9003c/L{1}X{2}Y{3}.png
+name: The central area of the Crab Nebula
+ra_hr: 5.575263177400504
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9003c/thumb.jpg
+zoom_level: 0.436446904338
+---
+_uuid: 719b05bf-350d-4548-8b70-bc057a381f0c
+annotation: '{"channel": "eso", "itemid": "eso9003h", "publishedUTCISO8601": "1990-02-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.51275301554883
+description: This image shows the barred spiral galaxy NGC 1808  in the constellation
+  of Columba.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9003h/L{1}X{2}Y{3}.png
+name: Galaxy NGC 1808
+ra_hr: 5.1284011549361646
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9003h/thumb.jpg
+zoom_level: 0.3278105759024182
+---
+_uuid: eb884954-7ed8-4633-afb3-8e153cb85eb0
+annotation: '{"channel": "eso", "itemid": "eso9003k", "publishedUTCISO8601": "1990-02-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.51315957603347
+description: The galaxy NGC 1808.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9003k/L{1}X{2}Y{3}.png
+name: NGC 1808
+ra_hr: 5.12844827726421
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9003k/thumb.jpg
+zoom_level: 0.10970302622999997
+---
+_uuid: 5e403a05-1882-4c67-a62d-6e20b1d5a2c7
+annotation: '{"channel": "eso", "itemid": "eso9532a", "publishedUTCISO8601": "1995-11-20T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.01721726925587
+description: 'The Crab Pulsar is located near the centre of the Crab Nebula, i.e.
+  the remnant of the supernova that exploded in AD 1054 in the constellation of Taurus.
+  On this photo, the pulsar is seen as a 16th magnitude object; it is the lower right
+  of the two stars of about equal brightness, near the centre of the field.The photo
+  was obtained through a narrow optical filtre in the light of doubly ionized oxygen
+  atoms ([O III]) with the ESO 3.5-m New Technology Telescope (NTT) under good seeing
+  conditions.ESO Press Photo eso9532 accompanies ESO Press Release eso9532. It may
+  be reproduced, if credit is given to the European Southern Observatory. '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9532a/L{1}X{2}Y{3}.png
+name: Pulsar in the Crab Nebula
+ra_hr: 5.5752808007882555
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9532a/thumb.jpg
+zoom_level: 0.413870229360937
+---
+_uuid: ab74ae34-409a-4c45-92a8-2aa5efdfb56a
+annotation: '{"channel": "eso", "itemid": "eso9805a", "publishedUTCISO8601": "1998-01-29T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -5.369117419729842
+description: This is a composite of three 1-min exposures of the Orion Nebula through
+  narrow band filters centred on the 2.166 micron Br-gamma atomic hydrogen line (here
+  reproduced in blue colour), the 1.257 micron [FeII] line (green) and the 2.12 micron
+  1-0 S(1) molecular hydrogen line (red). The colour coding reflects the ionisation
+  state of the gas.  Br-gamma traces hydrogen gas that is ionised by the well known
+  Trapezium and other hot, young, stars in the region ; the [FeII] emission is emitted
+  by high velocity fragments ejected during the birth of new stars in the OMC1 molecular
+  cloud. The hollow filaments seen in molecular hydrogen result from shock heating
+  of the molecular gas in the wake of the outflowing matter.  In this image, the scale
+  is 0.29 arcsec/pixel ; the field is 5x5 arcmin with North at the top and East to
+  the left ; the seeing was around 0.5 arcsec.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9805a/L{1}X{2}Y{3}.png
+name: Colour rendering of Orion Nebula area
+ra_hr: 5.587268736183524
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9805a/thumb.jpg
+zoom_level: 0.83660399018352
+---
+_uuid: 1a7051e5-5a13-42bd-a3b9-bffd164b0191
+annotation: '{"channel": "eso", "itemid": "eso9805c", "publishedUTCISO8601": "1998-01-29T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.09691393767123
+description: This image is a composite of three narrow-band filter exposures of the
+  famous Tarantula Nebula (30 Doradus) in our closest neighbouring galaxy, the Large
+  Magellanic Cloud. The filters are centred on the 2.166 micron Br-gamma line of atomic
+  hydrogen (blue); the 1.644 micron [FeII] line (green) and the 2.12 micron 1-0 S(1)
+  line of molecular hydrogen (red). The colour coding reflects the ionization state
+  of the gas.  The scale is 0.26 arcsec/pixel and the field is 4.5x4.5 arcmin with
+  North at the top and East to the left. (Colour composite by F. Selman).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9805c/L{1}X{2}Y{3}.png
+name: Colour rendering of Tarantula Nebula in LMC
+ra_hr: 5.6449130242820935
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9805c/thumb.jpg
+zoom_level: 0.7927581717638016
+---
+_uuid: 70926998-8369-43e2-8aef-944e9d00abbd
+annotation: '{"channel": "eso", "itemid": "eso9920e", "publishedUTCISO8601": "1999-02-27T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -68.76085919501205
+description: Colour a composite of three individual exposures, taken with FORS1 at
+  the VLT UT1 on 3 February 1999. They were obtained through B (blue), V (green),
+  and H-alpha (red) filters, and each of them was bias-subtracted and flat-fielded
+  before combination. The field-of-view is 6.8 x 6.8 arcmin 2, corresponding to an
+  area of just over 300 x 300 light-years 2 at the distance of the Large Magellanic
+  Cloud. The exposure times were 60, 60 and 450 seconds and the image quality was
+  1.0, 0.7 and 0.8 arcsec (FWHM) for the B, V, and H-alpha frames, respectively. The
+  intensity scale is linear for the B and V images and logarithmic for H-alpha, in
+  order to enhance the fine structure of the faintest parts of the nebulosity. North
+  is 33° to the right of the vertical. It is a composite of blue and green images
+  plus an image in the light of Hydrogen. It shows that there is indeed still much
+  gas around NGC 1850.  While part of this may well be the remnant of the &quot;parent&quot;
+  gas cloud (i.e. the one from which both clusters were born), the presence of filaments
+  and of various sharp &quot;shocks&quot;, e.g. to the left and below NGC 1850, offers
+  support to the theory of supernova-induced star birth in the younger of the two
+  clusters. Some &quot;protostars&quot; are located near or in some of the filaments
+  — this is interpreted as additional evidence for that theory.  The nebulosity directly
+  above the main cluster, that is shaped like a &quot;3&quot;, is the well-known supernova
+  remnant N103B which itself may also be associated with NGC 1850.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9920e/L{1}X{2}Y{3}.png
+name: Stellar cluster NGC 1850 in the LMC
+ra_hr: 5.146163189227147
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9920e/thumb.jpg
+zoom_level: 1.1557670300279999
+---
+_uuid: 13a7b4c4-1c26-48b1-8f1a-d539e2b34370
+annotation: '{"channel": "eso", "itemid": "eso9931a", "publishedUTCISO8601": "1999-06-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -68.06838831089722
+description: 'This image of the spectacular N44 H II region in the LMC displays (very
+  nearly) the full extent of the WFI field. N44 is a very bright, rich and well-studied
+  complex in the LMC, somewhat apart from the other nebulae in this galaxy. The general
+  appearance (in astronomical terminology: the &quot;morphology&quot;) is well explained
+  by a combination of fast outflow from stars (stellar winds) and supernova remnants,
+  as well as sequential star formation.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9931a/L{1}X{2}Y{3}.png
+name: N44 in the Large Magellanic Cloud
+ra_hr: 5.386701537815039
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9931a/thumb.jpg
+zoom_level: 5.177940443694001
+---
+_uuid: 6617eac0-72d1-4d38-a598-bc6014313943
+annotation: '{"channel": "eso", "itemid": "eso9931b", "publishedUTCISO8601": "1999-06-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -67.93266439606516
+description: 'This image of the spectacular N44 H II region in the LMC displays (very
+  nearly) its central region, which is dominated by a large, ring-shaped nebula that
+  includes a bright stellar association of very luminous stars. It emits X-rays -
+  this is interpreted as a sign that several heavy stars in this area have exploded
+  as supernova during the last few million years. N44  is a very bright, rich and
+  well-studied complex in the LMC, somewhat apart from the other nebulae in this galaxy.
+  The general appearance (in astronomical terminology: the &quot;morphology&quot;)
+  is well explained by a combination of fast outflow from stars (stellar winds) and
+  supernova remnants, as well as sequential star formation.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9931b/L{1}X{2}Y{3}.png
+name: Detail of N44 in the Large Magellanic Cloud
+ra_hr: 5.371966936156611
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9931b/thumb.jpg
+zoom_level: 1.702841727582
+---
+_uuid: d4ecd7fd-f3da-4985-9576-2843a5b81164
+annotation: '{"channel": "eso", "itemid": "eso9931c", "publishedUTCISO8601": "1999-06-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.24258176797188
+description: N119 is an &quot;H II region&quot; in the LMC. The most remarkable characteristic
+  is its pronounced spiral shape that is reminiscent of a barred spiral galaxy. It
+  is quite large, about 400 x 600 light-years, and it is situated at the northern
+  side of the stellar bar of the Large Magellanic Cloud, near the centre of rotation
+  of the neutral hydrogen in this galaxy. It is this bar that is responsible for the
+  much higher star density in the lower half of the full-field photo.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9931c/L{1}X{2}Y{3}.png
+name: N119 in the Large Magellanic Cloud
+ra_hr: 5.319285514718817
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9931c/thumb.jpg
+zoom_level: 5.208956560241999
+---
+_uuid: 3db4e46d-2951-4a6c-9f16-b09cbb0906c4
+annotation: '{"channel": "eso", "itemid": "eso9931d", "publishedUTCISO8601": "1999-06-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.2270406107871
+description: This image shows N119 in detail. N119 is an &quot;H II region&quot; in
+  the LMC. The most remarkable characteristic is its pronounced spiral shape that
+  is reminiscent of a barred spiral galaxy. It is quite large, about 400 x 600 light-years,
+  and it is situated at the northern side of the stellar bar of the Large Magellanic
+  Cloud, near the centre of rotation of the neutral hydrogen in this galaxy. It is
+  this bar that is responsible for the much higher star density in the lower half
+  of the full-field photo.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9931d/L{1}X{2}Y{3}.png
+name: Detail of N119 in the Large Magellanic Cloud
+ra_hr: 5.310539861081408
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9931d/thumb.jpg
+zoom_level: 1.9447327866239998
+---
+_uuid: e72f16d7-3294-4933-9c85-4fa8b8115a33
+annotation: '{"channel": "eso", "itemid": "eso9931e", "publishedUTCISO8601": "1999-06-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.16855209596949
+description: This image shows N119 in detail. N119 is an &quot;H II region&quot; in
+  the LMC. The most remarkable characteristic is its pronounced spiral shape that
+  is reminiscent of a barred spiral galaxy. It is quite large, about 400 x 600 light-years,
+  and it is situated at the northern side of the stellar bar of the Large Magellanic
+  Cloud, near the centre of rotation of the neutral hydrogen in this galaxy. It is
+  this bar that is responsible for the much higher star density in the lower half
+  of the full-field photo.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9931e/L{1}X{2}Y{3}.png
+name: Detail of N119 in the Large Magellanic Cloud
+ra_hr: 5.316961043467347
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9931e/thumb.jpg
+zoom_level: 1.0821618482253392
+---
+_uuid: 80f54fb3-1d34-407f-992d-129cd83814b4
+annotation: '{"channel": "eso", "itemid": "eso9931f", "publishedUTCISO8601": "1999-06-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.4066304939943
+description: This image is centered on the bright, rich and compact cluster (NGC 1916),
+  located close to N119. N119 is an &quot;H II region&quot; in the LMC. The most remarkable
+  characteristic is its pronounced spiral shape that is reminiscent of a barred spiral
+  galaxy.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9931f/L{1}X{2}Y{3}.png
+name: Globular cluster NGC1916 near N119 in the Large Magellanic Cloud
+ra_hr: 5.310485897533261
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9931f/thumb.jpg
+zoom_level: 0.58364838396
+---
+_uuid: be875f00-e2eb-4d64-97d5-57c193cb74f2
+annotation: '{"channel": "eso", "itemid": "eso9944a", "publishedUTCISO8601": "1999-10-05T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.26891651632613
+description: This is a direct image of SN1987A, flanked by two nearby stars. The distance
+  between these two is 4.5 arcsec.  This reproduction is from a 2-min exposure through
+  a R(ed) filter with the FORS1 multi-mode instrument at VLT ANTU, obtained in 0.55
+  arcsec seeing on September 20, 1998. North is up and East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9944a/L{1}X{2}Y{3}.png
+name: Supernova SN 1987A
+ra_hr: 5.591024842611203
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9944a/thumb.jpg
+zoom_level: 0.046023771980651405
+---
+_uuid: 63cf9279-a163-4b49-842e-6e9f0ceb43ee
+annotation: '{"channel": "eso", "itemid": "eso9948b", "publishedUTCISO8601": "1999-11-17T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -6.436211210133079
+description: 'Three-colour composite of the young object Herbig-Haro 34 (HH-34), now
+  in the protostar stage of evolution. It is based on CCD frames obtained with the
+  FORS2 instrument in imaging mode, on November 2 and 6, 1999. This object has a remarkable,
+  very complicated appearance that  includes two opposite jets that ram into the surrounding
+  interstellar  matter. This structure is produced by a machine-gun-like blast of  &quot;bullets&quot;
+  of dense gas ejected from the star at high velocities  (approaching 250 km/sec).
+  This seems to indicate that the star  experiences episodic &quot;outbursts&quot;
+  when large chunks of material fall onto  it from a surrounding disc. HH-34 is located
+  at a distance of approx. 1,500 light-years, near the  famous Orion Nebula, one of
+  the most productive star birth regions.  Note also the enigmatic &quot;waterfall&quot;
+  to the upper left, a feature that is  still unexplained. The composite of three
+  images was taken through three different filters : B (wavelength 429 nm; Full-Width-Half-Maximum
+  (FWHM) 88 nm; exposure time 10 min; here rendered as blue), H-alpha (centered on
+  the hydrogen emission line at wavelength 656 nm; FWHM 6 nm; 30 min; green) and S
+  II (centrered at the emission lines of inonized sulphur at wavelength 673 nm; FWHM
+  6 nm; 30 min; red) during a period of 0.8 arcsec seeing. The field shown measures
+  6.8 x 6.8 arcmin and the images were recorded in frames of 2048 x 2048 pixels, each
+  measuring 0.2 arcsec. North is up; East is left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9948b/L{1}X{2}Y{3}.png
+name: Protostar HH-34 in Orion
+ra_hr: 5.591725877675993
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9948b/thumb.jpg
+zoom_level: 1.1399574917035005
+---
+_uuid: acb72502-a2f1-4b72-a8fa-6f66568aa89f
+annotation: '{"channel": "eso", "itemid": "eso9948c", "publishedUTCISO8601": "1999-11-17T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -6.45976369057974
+description: This image is an enlargement of a three-colour composite of the young
+  object Herbig-Haro 34 (HH-34), now in the protostar stage of evolution. It is based
+  on CCD frames obtained with the FORS2  instrument in imaging mode, on November 2
+  and 6, 1999.  This object has a remarkable, very complicated appearance that includes
+  two opposite jets that ram into the surrounding interstellar matter. This structure
+  is produced by a machine-gun-like blast of &quot;bullets&quot; of dense gas ejected
+  from the star at high velocities (approaching 250 km/sec). This seems to indicate
+  that the star experiences episodic &quot;outbursts&quot; when large chunks of material
+  fall onto it from a surrounding disc.  HH-34 is located at a distance of approx.
+  1,500 light-years, near the famous Orion Nebula, one of the most productive star
+  birth regions. Note also the enigmatic &quot;waterfall&quot; to the upper left,
+  a feature that is still unexplained.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9948c/L{1}X{2}Y{3}.png
+name: Protostar HH 34 in Orion
+ra_hr: 5.591735927214859
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9948c/thumb.jpg
+zoom_level: 0.5044974789300001
+---
+_uuid: cb5005a9-62b6-46af-ace2-dd022a6cd533
+annotation: '{"channel": "eso", "itemid": "eso9948d", "publishedUTCISO8601": "1999-11-17T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -67.84686301077174
+description: This image shows a three-colour composite of the N 70  nebula. It is
+  a &quot;Super Bubble&quot;  in the Large Magellanic Cloud (LMC), a satellite galaxy
+  to the Milky Way system, located in the southern sky at a distance of about 160,000
+  light-years. This photo is based on CCD frames obtained with the FORS2  instrument
+  in imaging mode in the morning of November 5, 1999.  N 70 is a luminous bubble of
+  interstellar gas, measuring about 300 light-years in diameter. It was created by
+  winds from hot, massive stars and supernova explosions and the interior is filled
+  with tenuous, hot expanding gas. An object like N70 provides astronomers with an
+  excellent opportunity to explore the connection between the life-cycles of stars
+  and the evolution of galaxies. Very massive stars profoundly affect their environment.
+  They stir and mix the interstellar clouds of gas and dust, and they leave their
+  mark in the compositions and locations of future generations of stars and star systems.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9948d/L{1}X{2}Y{3}.png
+name: N70 Nebula in the Large Magellanic Cloud
+ra_hr: 5.722446621726287
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9948d/thumb.jpg
+zoom_level: 1.1384017697280002
+---
+_uuid: 0546dbb7-1077-414b-9a19-d61a6bf7905e
+annotation: '{"channel": "eso", "itemid": "eso9948e", "publishedUTCISO8601": "1999-11-17T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -67.83514030476177
+description: This image shows an enlargement of a three-colour composite of the N
+  70  nebula. It is a &quot;Super Bubble&quot;  in the Large Magellanic Cloud (LMC),
+  a satellite galaxy to the Milky Way system, located in the southern sky at a distance
+  of about 160,000 light-years. This photo is based on CCD frames obtained with the
+  FORS2  instrument in imaging mode in the morning of November 5, 1999.  N 70 is a
+  luminous bubble of interstellar gas, measuring about 300 light-years in diameter.
+  It was created by winds from hot, massive stars and supernova explosions and the
+  interior is filled with tenuous, hot expanding gas. An object like N70 provides
+  astronomers with an excellent opportunity to explore the connection between the
+  lifecycles of stars and the evolution of galaxies. Very massive stars profoundly
+  affect their environment. They stir and mix the interstellar clouds of gas and dust,
+  and they leave their mark in the compositions and locations of future generations
+  of stars and star systems.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9948e/L{1}X{2}Y{3}.png
+name: Detail of N70 in the Large Magellanic Cloud
+ra_hr: 5.726678641769586
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9948e/thumb.jpg
+zoom_level: 0.6221197752659999
+---
+_uuid: 655eeb32-1d45-48e9-bcb2-6a057e85453e
+annotation: '{"channel": "eso", "itemid": "eso9948f", "publishedUTCISO8601": "1999-11-17T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.01205570386159
+description: 'This photo shows a three colour composite of the well-known Crab Nebula
+  (also known as Messier 1), as observed with the FORS2 instrument in imaging mode
+  in the morning of November 10, 1999. It is the remnant of a supernova explosion
+  at a distance of about 6,000 light-years, observed almost 1,000 years ago, in the
+  year 1054. It contains a neutron star near its centre that spins 30 times per second
+  around its axis (see below). In this picture, the green light is predominantly produced
+  by hydrogen emission from material ejected by the star that exploded. The blue light
+  is predominantly emitted by very high-energy (&quot;relativistic&quot;) electrons
+  that spiral in a large-scale magnetic field (so-called synchrotron emission). It
+  is believed that these electrons are continuously accelerated and ejected by the
+  rapidly spinning neutron star at the centre of the nebula and which is the remnant
+  core of the exploded star. This pulsar has been identified with the lower/right
+  of the two close stars near the geometric centre of the nebula, immediately left
+  of the small arc-like feature, best seen in ESO Press Photo eso9948. Technical information:
+  ESO Press Photo eso9948 is based on a composite of three images taken through three
+  different optical filters: B (429 nm; FWHM 88 nm; 5 min; here rendered as blue),
+  R (657 nm; FWHM 150 nm; 1 min; green) and S II (673 nm; FWHM 6 nm; 5 min; red) during
+  periods of 0.65 arcsec (R, S II) and 0.80 (B) seeing, respectively. The field shown
+  measures 6.8 x 6.8 arcminutes and the images were recorded in frames of 2048 x 2048
+  pixels, each measuring 0.2 arcseconds. North is up; East is left.   #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9948f/L{1}X{2}Y{3}.png
+name: The Crab Nebula in Taurus
+ra_hr: 5.5754837345144646
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9948f/thumb.jpg
+zoom_level: 1.16687024268
+---
+_uuid: a44618be-be27-4ff8-b131-2c9f96874eb3
+annotation: '{"channel": "eso", "itemid": "eso9948g", "publishedUTCISO8601": "1999-11-17T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.011150186571545
+description: This image is an enlargement of a three colour composite of the well-known
+  Crab Nebula  (also known as &quot;Messier 1&quot;), as observed with the FORS2 instrument
+  in imaging mode in the morning of November 10, 1999. It is the remnant of a supernova
+  explosion at a distance of about 6,000 light-years, observed almost 1000 years ago,
+  in the year 1054. It contains a neutron star near its centre that spins 30 times
+  per second around its axis. In this picture, the green light is predominantly produced
+  by hydrogen emission from material ejected by the star that exploded. The blue light
+  is predominantly emitted by very high-energy (&quot;relativistic&quot;) electrons
+  that spiral in a large-scale magnetic field (so-called synchrotron emission). It
+  is believed that these electrons are continuously accelerated and ejected by the
+  rapidly spinning neutron star at the centre of the nebula and which is the remnant
+  core of the exploded star.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9948g/L{1}X{2}Y{3}.png
+name: Centre of the Crab Nebula in Taurus
+ra_hr: 5.575501409990086
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9948g/thumb.jpg
+zoom_level: 0.46138883212111925
+---
+_uuid: 47c3e9b6-1d77-4acd-b262-0533558070f5
+annotation: '{"channel": "eso", "itemid": "hh-111", "publishedUTCISO8601": "2009-12-03T23:21:10+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 2.8100844472182156
+description: Herbig-Haro object HH111, imaged with the 3.5-metre ESO New Technology
+  Telescope (NTT) on La Silla.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/hh-111/L{1}X{2}Y{3}.png
+name: Herbig-Haro object HH111
+ra_hr: 5.861959432072142
+thumbnail: http://data1.wwtassets.org/feeds/eso/hh-111/thumb.jpg
+zoom_level: 0.29422493436
+---
+_uuid: b53ba3f6-6faf-49a7-9a06-fdbf56acf5ef
+annotation: '{"channel": "eso", "itemid": "mcneil", "publishedUTCISO8601": "2009-12-03T23:18:33+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.0759549821091626
+description: McNeil&#x27;s Nebula, discovered by amateur astronomy Jay McNeil on 23
+  January 2004, is a reflection nebula surrounding a newborn star.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/mcneil/L{1}X{2}Y{3}.png
+name: McNeil's Nebula
+ra_hr: 5.770155434587732
+thumbnail: http://data1.wwtassets.org/feeds/eso/mcneil/thumb.jpg
+zoom_level: 0.6835494883393141
+---
+_uuid: 6ae85898-84d0-4af4-a03a-b879605083bd
+annotation: '{"channel": "eso", "itemid": "potw1236a", "publishedUTCISO8601": "2012-09-03T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -67.96864134622814
+description: 'This  colourful new view shows the star-forming region LHA 120-N44 [1]
+  in the  Large Magellanic Cloud, a small satellite galaxy of the Milky Way. This  picture
+  combines the view in visible light from the MPG/ESO 2.2-metre  telescope at ESO’s
+  La Silla Observatory in Chile with images in infrared  light and X-rays from orbiting
+  satellite observatories. At  the centre of this very rich region of gas, dust and
+  young stars lies  the star cluster NGC 1929. Its massive stars produce intense radiation,  expel
+  matter at high speeds as stellar winds, and race through their  short but brilliant
+  lives to explode as supernovae. The winds and  supernova shock waves have carved
+  out a huge cavity, called a  superbubble, in the surrounding gas. Observations  with
+  NASA&#x27;s Chandra X-ray Observatory (shown here in blue) reveal hot  regions created
+  by these winds and shocks, while infrared data from  NASA&#x27;s Spitzer Space Telescope
+  (shown in red) outline where the dust and  cooler gas are found. The visible-light
+  view from the MPG/ESO 2.2-metre  telescope (in yellow) completes the picture and
+  shows the hot young  stars themselves as well as the glowing clouds of gas and dust
+  that  surround them. Combining  these different views of this dramatic region has
+  allowed astronomers  to solve a mystery: why are N44, and similar superbubbles,
+  giving off  such strong X-rays? The answer seems to be that there are two extra  sources
+  of bright X-ray emission: supernova shock waves striking the  walls of the cavities,
+  and hot material evaporating from the cavity  walls. This X-ray emission from the
+  edge of the superbubble shows up  clearly in the picture. Links  NASA’s Chandra
+  X-ray Observatory NASA’s Spitzer Space Telescope  Notes [1]  The designation of
+  this object indicates that it was included in the  Catalogue of H-alpha emission
+  stars and nebulae in the Magellanic  Clouds, compiled and published in 1956 by American
+  astronomer–astronaut  Karl Henize (1926–1993). The letter “N” indicates that it
+  is a nebula.  The object is often called simply N44.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1236a/L{1}X{2}Y{3}.png
+name: A surprising superbubble
+ra_hr: 5.374084051217223
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1236a/thumb.jpg
+zoom_level: 3.4313952514320003
+---
+_uuid: 6885ec78-5ea3-4664-8f64-d02568977b39
+annotation: '{"channel": "eso", "itemid": "potw1523a", "publishedUTCISO8601": "2015-06-08T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.02864726409879
+description: The Crab Nebula, which also goes by the names Messier 1, NGC 1952 and
+  Taurus A, is one of the best studied astronomical objects in the sky. It is the
+  remnant of a supernova explosion which was observed by Chinese astronomers in 1054.
+  The tangled filaments visible in this image are the remains of the exploded star,
+  which are still expanding outwards at about 1500 kilometres per second. Although
+  not visible to the naked eye due to foreground filaments of helium and hydrogen
+  the heart of the nebula hosts two faint stars. It is one of these that is responsible
+  for the nebula that we see today — a star that is known as the Crab Pulsar, or CM
+  Tau. This is the small, dense, corpse of the original star that caused the supernova.
+  It is now only about 20 kilometres in diameter and rotates around its axis 30 times
+  every second! The star emits pulses of radiation in all wavelengths, ranging from
+  gamma rays — for which it is one of the brightest sources in the sky — to radio
+  waves. The radiation from the star is so strong that it is creating a wave of material
+  that is deforming the inner parts of the nebula. The appearance of these structures
+  changes so fast that astronomers can actually observe how they reshape. This provides
+  a rare opportunity as cosmic timescales are usually much too long for change to
+  be observed to this extent. The data from the Wide Field Imager on the MPG/ESO 2.2-metre
+  telescope at ESO’s La Silla Observatory in Chile used to make this image were selected
+  from the ESO archive by Manu Mejias as part of the Hidden Treasures competition.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1523a/L{1}X{2}Y{3}.png
+name: Wide view of the Crab Nebula
+ra_hr: 5.57504131191408
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1523a/thumb.jpg
+zoom_level: 5.506136454659683
+---
+_uuid: e084ea78-923c-4890-a935-bc78e6ad2949
+annotation: '{"channel": "eso", "itemid": "potw1541a", "publishedUTCISO8601": "2015-10-12T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -1.0531630856145109
+description: A pair of jets protrude outwards in near-perfect symmetry in this image
+  of Herbig-Haro object (HH) 212, taken by ESO’s already decommissioned Infrared Spectrometer
+  And Array Camera (ISAAC). The object lies in the constellation of Orion (The Hunter)
+  in a dense molecular star-forming region, not far from the famous Horsehead Nebula.
+  In regions like this, clouds of dust and gas collapse under the force of gravity,
+  spinning faster and faster and becoming hotter and hotter until a young star ignites
+  at the cloud’s centre. Any leftover material swirling around the newborn protostar
+  comes together to form an accretion disc that will, under the right circumstances,
+  eventually evolve to form the base material for the creation of planets, asteroids
+  and comets. Although this process is still not fully understood, it is common that
+  a protostar and its accretion disc, as seen here edge-on, are the cause of the jets
+  in this image. The star at the centre of HH 212 is indeed a very young star, at
+  only a few thousand years old. Its jets are remarkably symmetric, with several knots
+  appearing at relatively stable intervals. This stability suggests that the jet pulses
+  vary quite regularly, and over a short timescale — maybe even as short as 30 years!
+  Further out from the centre, large bow shocks spread out into interstellar space,
+  caused by ejected gas colliding with dust and gas at speeds of several hundred kilometres
+  per second.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1541a/L{1}X{2}Y{3}.png
+name: Outbursts from a newborn star
+ra_hr: 5.730733995249646
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1541a/thumb.jpg
+zoom_level: 0.40556880160670883
+---
+_uuid: 5676e8e7-e547-4f72-aa45-9c4c55cac8fd
+annotation: '{"channel": "eso", "itemid": "potw1624a", "publishedUTCISO8601": "2016-06-13T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 1.5735191794927603
+description: 'Astronomers hunt for planets orbiting other stars (exoplanets) using
+  a variety of methods. One successful method is direct imaging; this is particularly
+  effective for planets on wide orbits around young stars, because the light from
+  the planet is not overwhelmed by light from the host star and is thus easier to
+  spot. This image demonstrates this technique. It shows a T-Tauri star named CVSO
+  30, located approximately 1200 light-years away from Earth in the 25 Orionis group
+  (slightly northwest of Orion’s famous Belt). In 2012, astronomers found that CVSO
+  30 hosted one exoplanet (CVSO 30b) using a detection method known as transit photometry,
+  where the light from a star observably dips as a planet travels in front of it.
+  Now, astronomers have gone back to look at the system using  a number of telescopes.
+  The study combines observations obtained with the ESO’s Very Large Telescope (VLT)
+  in Chile, the W. M. Keck Observatory in Hawaii, and the Calar Alto Observatory facilities
+  in Spain. Using the data astronomers have imaged what is likely to be a second planet!
+  To produce the image, astronomers exploited the astrometry provided by VLT’s NACO
+  and SINFONI instruments. This new exoplanet, named CVSO 30c, is the small dot to
+  the upper left of the frame (the large blob is the star itself). While the previously-detected
+  planet, CVSO 30b, orbits very close to the star, whirling around CVSO 30 in just
+  under 11 hours at an orbital distance of 0.008 au, CVSO 30c orbits significantly
+  further out, at a distance of 660 au, taking a staggering 27 000 years to complete
+  a single orbit. (For reference, the planet Mercury orbits the Sun at an average
+  distance of 0.39 au, while Neptune sits at just over 30 au.) If it is confirmed
+  that CVSO 30c orbits CVSO 30, this would be the first star system to host both a
+  close-in exoplanet detected by the transit method and a far-out exoplanet detected
+  by direct imaging. Astronomers are still exploring how such an exotic system came
+  to form in such a short timeframe, as the star is only 2.5 million years old; it
+  is possible that the two planets interacted at some point in the past, scattering
+  off one another and settling in their current extreme orbits. Link:  Research paper
+  by Schmidt et al.  '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1624a/L{1}X{2}Y{3}.png
+name: VLT snaps an exotic exoplanet “first”
+ra_hr: 5.41875639709849
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1624a/thumb.jpg
+zoom_level: 0.02633958095061733
+---
+_uuid: 9213ed67-20a2-48ef-ba5d-1599e044f226
+annotation: '{"channel": "eso", "itemid": "potw1709a", "publishedUTCISO8601": "2017-02-27T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.26969408221684
+description: 'Three decades ago, astronomers spotted one of the brightest supernovae
+  in more than 400 years. The stellar explosion, SN 1987A, blazed with the power of
+  100 million suns for several months after its discovery on 23 February 1987. Located
+  in the Large Magellanic Cloud, one of the Milky Way’s satellite galaxies, SN 1987A
+  was the nearest supernova explosion observed in centuries and it quickly became
+  the best studied supernova of all time. Over the last thirty years, detailed follow-up
+  observations with telescopes both in space and on the ground have allowed astronomers
+  to study the death throes of a massive star in unprecedented detail, from star to
+  supernova to supernova remnant, revolutionising our understanding of these explosive
+  events. With its superb sensitivity at millimetre and submillimetre wavelengths,
+  the Atacama Large Millimeter/submillimeter Array (ALMA) has been exploring previously
+  unstudied aspects of SN 1987A since 2013. Astronomers are using ALMA to observe
+  the glowing remains of the supernova in high resolution, studying how the remnant
+  is making vast amounts of dust from the new elements created in the progenitor star.
+  A portion of this dust will make its way into interstellar space and may one day
+  be the material from which future planets around other stars are made. These observations
+  suggest that dust in the early Universe was created by similar supernova explosions.
+  The composite image presented here combines observations made with ALMA, the NASA/ESA
+  Hubble Space Telescope and NASA’s Chandra X-Ray observatory. Links  ALMA press release
+  Hubble pres release '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1709a/L{1}X{2}Y{3}.png
+name: Dawn of a new era for Supernova 1987A
+ra_hr: 5.591169075482593
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1709a/thumb.jpg
+zoom_level: 0.0185659665880296
+---
+_uuid: d63c6d9a-bb1e-49fd-b4cb-eec461b2b0a5
+annotation: '{"channel": "eso", "itemid": "potw1720a", "publishedUTCISO8601": "2017-05-15T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -1.0480863223394952
+description: This intriguing image may look like a collection of coloured blobs, but
+  it is actually a high-resolution snapshot of a newborn star enshrouded in dust.
+  Just 1300 light-years away in the Orion Nebula, the star, named HH 212, is remarkably
+  young. The average lifespan of such a low-mass star is around 100 billion years,
+  but this star is only 40 000 years old — truly an infant in stellar terms. In the
+  cores of the vast molecular clouds in star formation regions, an ongoing battle
+  rages; gravity versus the pressure of gas and dust. If gravity wins, it forces the
+  gas and dust to collapse into a hot dense core that eventually ignites — forming
+  a protostar. All the leftover gas and dust form a spinning disc around this baby
+  star, and in many star systems they eventually coalesce to make planets. Such very
+  young protostellar discs have been hard to image because of their relatively small
+  size, but now the exceedingly high resolution of the Atacama Large Millimeter/submillimeter
+  Array (ALMA) makes it possible to understand the intricate details of star and planet
+  formation. A closer look at HH 212 reveals a prominent, cool, dark dust lane running
+  through the disc, sandwiched between two brighter regions that are heated by the
+  protostar. The result resembles a cosmic “hamburger”. This is the very first time
+  astronomers have spotted such a dust lane in the earliest phases of star formation,
+  and so it may provide clues as to how planetary systems are born.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1720a/L{1}X{2}Y{3}.png
+name: Feeding a Baby Star with a Dusty Hamburger
+ra_hr: 5.730947031303417
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1720a/thumb.jpg
+zoom_level: 0.001024289204035769
+---
+_uuid: 332c9a46-33e0-4526-a042-f82c28afa347
+annotation: '{"channel": "eso", "itemid": "potw1726a", "publishedUTCISO8601": "2017-06-26T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 7.40706404482602
+description: 'This orange blob shows the nearby star Betelgeuse, as seen by the Atacama
+  Large Millimeter/submillimeter Array (ALMA). This is the first time that ALMA has
+  ever observed the surface of a star and this first attempt has resulted in the highest-resolution
+  image of Betelgeuse available. Betelgeuse is one of the largest stars currently
+  known — with a radius around 1400 times larger than the Sun’s in the millimeter
+  continuum. About 600 light-years away in the constellation of Orion (The Hunter),
+  the red supergiant burns brightly, causing it to have only a short life expectancy.
+  The star is just about eight million years old, but is already on the verge of becoming
+  a supernova. When that happens, the resulting explosion will be visible from Earth,
+  even in broad daylight. The star has been observed in many other wavelengths, particularly
+  in the visible, infrared, and ultraviolet. Using ESO’s Very Large Telescope astronomers
+  discovered a vast plume of gas almost as large as our Solar System. Astronomers
+  have also found a gigantic bubble that boils away on Betelgeuse’s surface. These
+  features help to explain how the star is shedding gas and dust at tremendous rates
+  (eso0927, eso1121). In this picture, ALMA observes the hot gas of the lower chromosphere
+  of Betelgeuse at sub-millimeter wavelengths — where localised increased temperatures
+  explain why it is not symmetric. Scientifically, ALMA can help us to understand
+  the extended atmospheres of these hot, blazing stars. Links:  Size comparison: Betelgeuse
+  and the Sun Scientific paper '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1726a/L{1}X{2}Y{3}.png
+name: Betelgeuse captured by ALMA
+ra_hr: 5.91952926271698
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1726a/thumb.jpg
+zoom_level: 0.00406580282959776
+---
+_uuid: bb0bdae4-3f78-474f-8fff-cbf018ff78c3
+annotation: '{"channel": "eso", "itemid": "potw1731a", "publishedUTCISO8601": "2017-07-31T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -75.26195708108918
+description: This image from the Wide-Field Imager on the MPG/ESO 2.2-metre telescope
+  shows the starry skies around a galaxy cluster named PLCKESZ G286.6-31.3. The cluster
+  itself is difficult to spot initially, but shows up as a subtle clustering of yellowish
+  galaxies near the centre of the frame. PLCKESZ G286.6-31.3 houses up to 1000 galaxies,
+  in addition to large quantities of hot gas and dark matter. As such, the cluster
+  has a total mass of 530 trillion (530 000 000 000 000) times the mass of the Sun.
+  When viewed from Earth, PLCKESZ G286.6-31.3 is seen through the outer fringes of
+  the Large Magellanic Cloud (LMC) — one of the Milky Way’s satellite galaxies. The
+  LMC hosts over 700 star clusters, in addition to hundreds of thousands of giant
+  and supergiant stars. The majority of the cosmic objects captured in this image
+  are stars and star clusters located inside the LMC. The globular star cluster lower
+  left is IC 2140. The MPG/ESO 2.2-metre telescope has been in operation at ESO’s
+  La Silla Observatory since 1984. The telescope has been utilised for a variety of
+  cutting-edge scientific studies, including ground-breaking research into gamma-ray
+  bursts, the most powerful explosions in the Universe. The 67-million-pixel Wide
+  Field Imager (WFI) — mounted on the telescope’s Cassegrain focus — has been obtaining
+  detailed views of faint, distant objects since 1999. The data to create this image
+  was selected from the ESO archive as part of the Hidden Treasures competition.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1731a/L{1}X{2}Y{3}.png
+name: Spot the cluster
+ra_hr: 5.521088313694768
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1731a/thumb.jpg
+zoom_level: 4.062275982605827
+---
+_uuid: 922812ff-70d5-4f02-baaf-0c9dcc4ce2ba
+annotation: '{"channel": "eso", "itemid": "potw1739a", "publishedUTCISO8601": "2017-09-25T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.94206043844362
+description: '  This spectacular spiral galaxy, known as NGC 1964, resides approximately
+  70 million light-years away in the constellation of Lepus (The Hare). NGC 1964 has
+  a bright and dense core. This core sits within a mottled oval disc, which is itself
+  encircled by distinct spiral arms speckled with bright starry regions. The brilliant
+  centre of the galaxy caught the eye of the astronomer William Herschel on the night
+  of 20 November 1784, leading to the galaxy’s discovery and subsequent documentation
+  in the New General Catalogue.  In addition to containing stars, NGC 1964 lives in
+  a star-sprinkled section of the sky. In this view from the Wide Field Imager (WFI)
+  — an instrument mounted on the MPG/ESO 2.2-metre telescope at ESO’s La Silla Observatory,
+  Chile — the star HD 36785 can be seen to the galaxy’s immediate right. Above it
+  reside two other prominent stars named HD 36784 and TYC 5928-368-1 — and the large
+  bright star below NGC 1964 is known as BD-22 1147.  This view of NGC 1964 also contains
+  an array of galaxies, visible in the background. The WFI is able to observe the
+  light from these distant galaxies, and those up to 40 million times fainter than
+  the human eye can see.  '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1739a/L{1}X{2}Y{3}.png
+name: Stars and spirals
+ra_hr: 5.555524362045028
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1739a/thumb.jpg
+zoom_level: 2.881091617879619
+---
+_uuid: e7841ff4-904e-4db8-8a75-5f43dc8d723f
+annotation: '{"channel": "eso", "itemid": "potw1742a", "publishedUTCISO8601": "2017-10-16T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -1.2560275221340802
+description: 'This image from the Atacama Large Millimeter/submillimeter Array (ALMA)
+  shows V1247 Orionis, a young, hot star surrounded by a dynamic ring of gas and dust,
+  known as a circumstellar disc. This disc can be seen here in two parts: a clearly
+  defined central ring of matter and a more delicate crescent structure located further
+  out. The region between the ring and crescent, visible as a dark strip, is thought
+  to be caused by a young planet carving its way through the disc. As the planet orbits
+  around its parent star, its motion creates areas of high pressure on either side
+  of its path, similar to how a ship creates bow waves as it cuts through water. These
+  areas of high pressure could become protective barriers around sites of planet formation;
+  dust particles are trapped within them for millions of years, allowing them the
+  time and space to clump together and grow. The exquisite resolution of ALMA allows
+  astronomers to study the intricate structure of such a dust trapping vortex for
+  the first time. The image reveals not only the crescent-shaped dust trap at the
+  outer edge of the dark strip, but also regions of excess dust within the ring, possibly
+  indicating a second dust trap that formed inside of the potential planet’s orbit.
+  This confirms the predictions of earlier computer simulations. Dust trapping is
+  one potential solution to a major stumbling block in current theories of how planets
+  form, which predicts that particles should drift into the central star and be destroyed
+  before they have time to grow to planetesimal sizes (the radial drift problem).
+  Links  Science paper '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1742a/L{1}X{2}Y{3}.png
+name: Caught in a Dust Trap
+ra_hr: 5.634792025535101
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1742a/thumb.jpg
+zoom_level: 0.004681633276267199
+---
+_uuid: a27889ef-348e-4a53-be25-c29aabd69258
+annotation: '{"channel": "eso", "itemid": "potw1827a", "publishedUTCISO8601": "2018-07-02T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 25.3323905147
+description: This image from the Atacama Large Millimeter/submillimeter Array (ALMA)
+  shows MWC 758, a young star that is approaching adulthood and surrounded by knotty,
+  irregular rings of cosmic dust, three of which can be seen here. Unusually, these
+  rings are elliptical in shape rather than being perfectly circular — making this
+  the first discovery of an intrinsically elliptical protoplanetary disc with ALMA!
+  The outer and inner rings each contain one particularly bright clump, visible as
+  arcs of yellow.  Additionally there appear to be spiral arms traced out within the
+  dust, as well as a core dust-free cavity that is slightly off-centre. These are
+  all features that hint at the presence of unseen planets. As planets form, they
+  gravitationally interact with the disc and create various telltale features and
+  structures. Astronomers can thus observe a system like MWC 758 and not only infer
+  the existence of potential hidden planets, but also estimate their masses, locations,
+  and orbits. This is a wonderful example of the planet-finding power of ALMA. Using
+  the observatory to study such dusty discs allows scientists to investigate the very
+  first stages of planet formation in a bid to understand how these infant systems
+  form and evolve. Learning more about planetary systems throughout the cosmos may
+  help us know more about how the Solar System formed, and how it evolved to become
+  the cosmic home we live in today.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1827a/L{1}X{2}Y{3}.png
+name: ALMA spies a new planetary nursery
+ra_hr: 5.507648232776473
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1827a/thumb.jpg
+zoom_level: 0.0047856737326356
+---
+_uuid: 00aa4ea9-ad11-4d1e-b27c-30d834a26f11
+annotation: '{"channel": "eso", "itemid": "potw1919a", "publishedUTCISO8601": "2019-05-13T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -2.2645834150540063
+description: The constellation of Orion (The Hunter) is one of the most recognisable
+  collections of stars in the night sky. We have noted Orion’s prominent stars for
+  tens of thousands of years at least, and likely far longer. Chinese astronomers
+  called it 参宿 or Shēn, literally “three stars”, for its three bright dots (which
+  form the Hunter’s belt). The ancient Egyptians regarded it as the gods Sah and Sopdet,
+  manifestations of Osiris and Isis, respectively, whereas Greek astronomers saw a
+  brave hunter — the eponymous Orion — with his sword above his head, ready to strike.
+  Mythology aside, Orion is a fascinating patch of sky. This image, from ESO&#x27;s
+  Very Large Telescope, shows a reflection nebula nestled at the heart of the constellation
+  — NGC 2023. Located close to the well-known Horsehead and Flame Nebulae, NGC 2023
+  lurks about 1500 light-years away from Earth, and is one of the largest reflection
+  nebulae in the sky. Reflection nebulae are clouds of interstellar dust that reflect
+  the light from nearby or internal sources, like fog around a car headlight. NGC
+  2023 is illuminated by a massive young star named HD 37903. The star is extremely
+  hot — several times hotter than the Sun — and its bright blue-white light causes
+  NGC 2023’s milky glow. Such nebulae are often the birthplaces of stars, and contain
+  a clumpy distribution of gas that’s significantly denser than the surrounding medium.
+  Under the influence of gravity, these clumps attract one another and merge, eventually
+  creating a new star. In a few million years time, Orion&#x27;s Belt may gain a new
+  star! The image was taken with the VLT’s FORS (FOcal Reducer and Spectrograph) instrument
+  as part of the ESO Cosmic Gems programme. This initiative produces images of interesting
+  and visually attractive objects using ESO telescopes, for the purposes of education
+  and outreach. The programme makes use of telescope time that cannot be used for
+  science observations. All data collected may also be suitable for scientific purposes,
+  and are made available to astronomers through ESO’s science archive.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1919a/L{1}X{2}Y{3}.png
+name: The Birth of the Hunter
+ra_hr: 5.6949796585389505
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1919a/thumb.jpg
+zoom_level: 1.261404567105226
+---
 _uuid: 8bfbeaf8-1207-4834-8ee1-11fa683c2c42
 angular_size: 0.13574193453628705
 annotation: '{"channel": "noirlab", "itemid": "ann21013c", "publishedUTCISO8601":

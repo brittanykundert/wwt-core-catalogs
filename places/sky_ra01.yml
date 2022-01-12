@@ -1,3 +1,296 @@
+_uuid: 67d50657-de89-45a7-9075-0de49b5b7d65
+annotation: '{"channel": "eso", "itemid": "ann11075a", "publishedUTCISO8601": "2011-10-21T16:40:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -44.442297457435394
+description: The Phoenix Dwarf, imaged here by the NASA/ESA Hubble Space Telescope,
+  is an irregular dwarf galaxy that was discovered in 1976 by Hans-Emil Schuster and
+  Richard Martin West. It is located in the constellation Phoenix in the southern
+  sky, 1.44 million light-years away from Earth.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/ann11075a/L{1}X{2}Y{3}.png
+name: The Phoenix dwarf galaxy
+ra_hr: 1.8520556088330669
+thumbnail: http://data1.wwtassets.org/feeds/eso/ann11075a/thumb.jpg
+zoom_level: 0.19017357129622187
+---
+_uuid: e5bdf248-89de-4790-a7de-f740f68d07e4
+annotation: '{"channel": "eso", "itemid": "eso0106a", "publishedUTCISO8601": "2001-02-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -16.013219650380634
+description: The Milky Way star field around CS 31082-001, the 12th-magnitude star
+  at the centre. The &quot;cross&quot; is caused by reflections in the telescope optics,
+  a typical effect for relatively bright stars.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0106a/L{1}X{2}Y{3}.png
+name: The Milky Way star field around CS 31082-001
+ra_hr: 1.4919523991766868
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0106a/thumb.jpg
+zoom_level: 1.1749589698735106
+---
+_uuid: 1dae5ce9-7794-45b7-912f-03400dd6d3ee
+annotation: '{"channel": "eso", "itemid": "eso0310a", "publishedUTCISO8601": "2003-04-09T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.05629247795984
+description: 'This unique image shows AB7, one of the highest excitation nebulae in
+  the Magellanic Clouds (MCs), two satellite galaxies of our own Milky Way. AB7 is
+  a binary star, consisting of one WR-star — highly evolved massive star - and a mid-age
+  massive companion of spectral type O. These exceptional stars have very strong stellar
+  winds: they continuously eject energetic particles — like the &quot;solar wind&quot;
+  from the Sun — but some 10 to 1,000 million times more intensely than our star!
+  These powerful winds exert an enormous pressure on the surrounding interstellar
+  material and forcefully shape those clouds into &quot;bubbles&quot;, well visible
+  in the photos by their blue colour. AB7 is particularly remarkable: the associated
+  huge nebula and HeII region indicate that this star is one of the, if not the, hottest
+  WR-star known so far, with a surface temperature in excess of 120,000 degrees !
+  Just outside this nebula, a small network of green filaments is visible — they are
+  the remains of another supernova explosion.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0310a/L{1}X{2}Y{3}.png
+name: Really hot stars
+ra_hr: 1.0596827500156025
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0310a/thumb.jpg
+zoom_level: 1.1164727921760003
+---
+_uuid: 5586e2bf-055a-4496-b1bd-c7b228df525b
+annotation: '{"channel": "eso", "itemid": "eso0338a", "publishedUTCISO8601": "2003-12-19T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.417760324951292
+description: This image of the barred spiral galaxy NGC 613  was obtained with the
+  FORS1 and FORS2 multi-mode instruments (at VLT MELIPAL and YEPUN, respectively)
+  on December 16-18, 2001. It is a composite of three exposures in different wavebands,
+  cf. the technical note below. The full-resolution version of this photo retains
+  the original pixels. Note the many arms and the pronounced dust bands. North is
+  up and East is left. 
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0338a/L{1}X{2}Y{3}.png
+name: NGC 613
+ra_hr: 1.5716633335623993
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0338a/thumb.jpg
+zoom_level: 1.1622447604147896
+---
+_uuid: 496500bf-ea51-4dfb-a492-8abe0eb72547
+annotation: '{"channel": "eso", "itemid": "eso1424a", "publishedUTCISO8601": "2014-08-06T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 30.67390593848268
+description: The VLT Survey Telescope (VST) at ESO’s Paranal Observatory in Chile
+  has captured this beautifully detailed image of the galaxy Messier 33, often called
+  the Triangulum Galaxy. This nearby spiral, the second closest large galaxy to our
+  own galaxy, the Milky Way, is packed with bright star clusters, and clouds of gas
+  and dust. This picture is amongst the most detailed wide-field views of this object
+  ever taken and shows the many glowing red gas clouds in the spiral arms with particular
+  clarity.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1424a/L{1}X{2}Y{3}.png
+name: VST snaps a very detailed view of the Triangulum Galaxy
+ra_hr: 1.564474470068201
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1424a/thumb.jpg
+zoom_level: 9.69636984782903
+---
+_uuid: d5e89c5c-2458-4d1b-a1f2-7ed5bde42db8
+annotation: '{"channel": "eso", "itemid": "eso9857d", "publishedUTCISO8601": "1998-11-26T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -25.757520460615282
+description: During the commissioning of FORS1, &quot;deep fields&quot; were observed
+  in order to estimate the limiting magnitudes of the new instrument. Fields were
+  selected which do not contain bright stars that might reduce the image quality due
+  to scattered light.  This FORS &quot;deep field&quot; hosts the quasar Q0103-260,
+  which is visible as a bright white source near the bottom, to the lower left (south-east)
+  of the prominent spiral galaxy.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9857d/L{1}X{2}Y{3}.png
+name: FORS Deep Field near Q0103-260
+ra_hr: 1.1010801145892728
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9857d/thumb.jpg
+zoom_level: 0.5800019802438537
+---
+_uuid: b71f5ae9-36f2-45a5-977c-38d5f0a23aee
+annotation: '{"channel": "eso", "itemid": "potw1048a", "publishedUTCISO8601": "2010-11-29T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 3.7900549871672435
+description: NGC 520 — also known as Arp 157 — looks like a galaxy in the midst of
+  exploding. In reality, it’s the exact opposite. Two enormous spiral galaxies are
+  crashing into each other, melding and forming a new conglomerate. This happens slowly,
+  over millions of years — the whole process started some 300 million years ago. The
+  object, about 100 000 light-years across, is now in the middle stage of the merging
+  process, as the two nuclei haven’t merged yet, but the two discs have. The merger
+  features a tail of stars and a prominent dust lane. NGC 520 is one of the brightest
+  interacting galaxies in the sky and lies in the direction of Pisces (the Fish),
+  approximately 100 million light-years from Earth. This image was taken by the ESO
+  Faint Object Spectrograph and Camera attached to the 3.6-metre telescope at La Silla
+  in Chile. It is based on data obtained through B, V, R and H-alpha filters.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1048a/L{1}X{2}Y{3}.png
+name: Crash of the titans
+ra_hr: 1.4098004028885849
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1048a/thumb.jpg
+zoom_level: 0.8570981406960001
+---
+_uuid: 78c0bb02-395d-4c22-89fb-384f6a0267ef
+annotation: '{"channel": "eso", "itemid": "potw1107a", "publishedUTCISO8601": "2011-02-14T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -10.213776458142162
+description: 'This rich scattering of galaxies was captured using the Wide Field Imager
+  attached to the MPG/ESO 2.2-metre telescope at ESO’s La Silla Observatory in Chile.
+  The thousands of galaxies contained in this small area of sky give a glimpse into
+  the Universe’s distant past, whilst also acting as a powerful reminder of the immense
+  scale of the cosmos. This image was taken as part of the COMBO-17 project (Classifying
+  Objects by Medium-Band Observations in 17 Filters), in which detailed surveys of
+  five small patches of sky were made through 17 different coloured filters. The area
+  of sky covered by each of the five regions is about the same area as that covered
+  by the full Moon. The survey has produced a remarkable haul of celestial specimens.
+  For example, across just three of these regions over 25 000 galaxies have been identified.
+  Just below the bright stars in the centre of the image is the galaxy cluster Abell
+  226. It was first noted by astronomer George Ogden Abell in his catalogue of galaxy
+  clusters of 1958. The galaxies in Abell’s clusters, including Abell 226, are only
+  up to a few billion light-years away. But behind these objects, even fainter, more
+  distant galaxies were hiding. The COMBO-17 study has unveiled these hidden galaxies,
+  thanks to long exposure images from the MPG/ESO 2.2-metre telescope at ESO’s La
+  Silla Observatory in Chile. Some of the most distant flecks of light visible in
+  this photo represent galaxies whose light has been travelling towards us for about
+  nine or ten billion years. That means that the galaxies in this image have a great
+  variety of ages, some of them are quite similar to the Milky Way, while others reveal
+  what the Universe was like when it was much younger. This image was taken using
+  three of the 17 filters from the study: B (in blue), V (in green), and R (in red).
+  Links  COMBO-17      at the Max Planck Institute for Astronomy '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1107a/L{1}X{2}Y{3}.png
+name: A galactic petri dish
+ra_hr: 1.655242889344923
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1107a/thumb.jpg
+zoom_level: 4.378320247138559
+---
+_uuid: 32fc1b43-e0ea-491d-b344-5b53d2f18ded
+annotation: '{"channel": "eso", "itemid": "potw1335a", "publishedUTCISO8601": "2013-09-02T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 15.78405404751458
+description: 'ESO&#x27;s PESSTO survey has captured this view of Messier 74, a stunning
+  spiral galaxy with well-defined whirling arms. However, the real subject of this
+  image is the galaxy&#x27;s brilliant new addition from late July 2013: a Type II
+  supernova named SN2013ej that is visible as the brightest star at the bottom left
+  of the image. Such supernovae occur when the core of a massive star collapses due
+  to its own gravity at the end of its life. This collapse results in a massive explosion
+  that ejects material far into space. The resulting detonation can be more brilliant
+  than the entire galaxy that hosts it and can be visible to observers for weeks,
+  or even months. PESSTO (Public ESO Spectroscopic Survey for Transient Objects) is
+  designed to study objects that appear briefly in the night sky, such as supernovae.
+  It does this by utilising a number of instruments on the NTT (New Technology Telescope),
+  located at ESO&#x27;s La Silla Observatory in Chile. This new picture of SN2013ej
+  was obtained using the NTT during the course of this survey. SN2013ej is the third
+  supernova to have been observed in Messier 74 since the turn of the millennium,
+  the other two being SN 2002ap and SN 2003gd. It was first reported on 25 July 2013
+  by the KAIT telescope team in California, and the first &quot;precovery image&quot;
+  was taken by amateur astronomer Christina Feliciano, who used the public access
+  SLOOH Space Camera to look at the region in the days and hours immediately before
+  the explosion. Messier 74, in the constellation of Pisces (The Fish), is one of
+  the most difficult Messier objects for amateur astronomers to spot due to its low
+  surface brightness, but SN2013ej should still be visible to careful amateur astronomers
+  over the next few weeks as a faint and fading star. Links  PESSTO (the &quot;Public
+  ESO Spectroscopic Survey of Transient Objects&quot;) '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1335a/L{1}X{2}Y{3}.png
+name: PESSTO snaps Supernova in Messier 74
+ra_hr: 1.6116294178870332
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1335a/thumb.jpg
+zoom_level: 0.67475300355
+---
+_uuid: c1da1feb-f4b0-4bf8-8f00-026979045dc7
+annotation: '{"channel": "eso", "itemid": "potw1339a", "publishedUTCISO8601": "2013-09-30T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -25.854455208370148
+description: 'This  frame, scattered with distant stars and galaxies, is a deep-field
+  image  taken using the Wide Field Imager (WFI), a camera mounted on the  MPG/ESO
+  2.2-metre telescope located at the La Silla Observatory, Chile. It  was snapped
+  as part of the COMBO-17 survey (Classifying Objects by  Medium-Band Observations
+  in 17 filters), a project that imaged five  small patches of sky in 17 different
+  coloured optical filters. The total  area of sky explored in each of the COMBO-17
+  fields equates to  approximately the same size as the full Moon, and has revealed
+  huge  numbers of distant objects — demonstrating just how much is still  waiting
+  to be discovered in our skies. The  image shows a region that was also investigated
+  as part of the FORS  Deep Field (FDF), a project that examined various areas of
+  sky in great  detail and depth using the FORS2 spectrograph instrument currently  installed
+  on ESO’s Very Large Telescope at the Paranal Observatory,  Chile. However, these
+  WFI images used many more filters than previous  FDF observations, and looked at
+  bigger patches of sky, resulting in  images like the one above. These  small glimpses
+  into the Universe have unveiled tens of thousands of  distant stars, galaxies, and
+  quasars previously hidden from our view,  and have been used to investigate gravitational
+  lensing and the  distribution of dark matter in galaxies and clusters. Links  The
+  COMBO-17 survey at the Max-Planck-Institut für Astronomie, Heidelberg '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1339a/L{1}X{2}Y{3}.png
+name: Unveiling distant stars and galaxies
+ra_hr: 1.0956297248199331
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1339a/thumb.jpg
+zoom_level: 5.123690380718886
+---
+_uuid: cf9ce102-91d1-415c-9fbd-690f1d62ccf9
+annotation: '{"channel": "eso", "itemid": "potw1807a", "publishedUTCISO8601": "2018-02-09T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -32.543175804443024
+description: 'This ghostly image features a distant and pulsating red giant star known
+  as R Sculptoris. Situated 1200 light-years away in the constellation of Sculptor,
+  R Sculptoris is something known as a carbon-rich  asymptotic giant branch (AGB)
+  star, meaning that it is nearing the end of its life. At this stage, low- and intermediate-mass
+  stars cool off, create extended atmospheres, and lose a lot of their mass — they
+  are on their way to becoming spectacular planetary nebulae. While the basics of
+  this mass-loss process are understood, astronomers are still investigating how it
+  begins near the surface of the star. The amount of mass lost by a star actually
+  has huge implications for its stellar evolution, altering its future, and leading
+  to different types of planetary nebulae. As AGB stars end their lives as planetary
+  nebulae, they produce a vast range of elements — including 50% of elements heavier
+  than iron — which are then released into the Universe and used to make new stars,
+  planets, moons, and eventually the building blocks of life. One particularly intriguing
+  feature of R Sculptoris is its dominant bright spot, which looks to be two or three
+  times brighter than the other regions. The astronomers that captured this wonderful
+  image, using ESO’s Very Large Telescope Interferometer (VLTI), have concluded that
+  R Sculptoris is surrounded by giant “clumps” of stellar dust that are peeling away
+  from the shedding star. This bright spot is, in fact, a region around the star with
+  little to no dust, allowing us to look deeper into the stellar surface. This image
+  captures an extremely small section of the sky: approximately 20x20 milliarcseconds.
+  For comparison, Jupiter has an angular size of approximately 40 arcseconds. Links   Research
+  paper  '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1807a/L{1}X{2}Y{3}.png
+name: A red giant sheds its skin
+ra_hr: 1.449470069281662
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1807a/thumb.jpg
+zoom_level: 0.0007877893312551498
+---
+_uuid: 7b11b3a2-b06e-42e0-8990-6cb78b952e77
+annotation: '{"channel": "eso", "itemid": "potw1838a", "publishedUTCISO8601": "2018-09-17T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -44.44235393153754
+description: This image shows a dwarf galaxy in the southern constellation of Phoenix
+  named, for obvious reasons, the Phoenix Dwarf. The Phoenix Dwarf is unique in that
+  it cannot be classified according to the usual scheme for dwarf galaxies; while
+  its shape would label it as a spheroidal dwarf galaxy — which do not contain enough
+  gas to form new stars — studies have shown the galaxy to have an associated cloud
+  of gas nearby, hinting at recent star formation, and a population of young stars.
+  The gas cloud does not lie within the galaxy itself, but is still gravitationally
+  bound to it — meaning that it will eventually fall back into the galaxy over time.
+  Since the cloud is close by, it’s likely that the process that flung it outwards
+  it is still ongoing. After studying the shape of the gas cloud, astronomers suspect
+  the most likely cause of the ejection to be supernova explosions within the galaxy.
+  The data to create this image was selected from the ESO archive as part of the Hidden
+  Treasure competition.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1838a/L{1}X{2}Y{3}.png
+name: An explosive phoenix
+ra_hr: 1.8517679228305606
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1838a/thumb.jpg
+zoom_level: 1.4280189345385312
+---
 _uuid: 2caf9d5e-0e3b-4127-b3a8-4bfa4e6a81f4
 angular_size: 0.22725433425329997
 annotation: '{"channel": "noirlab", "itemid": "gemini0401c", "publishedUTCISO8601":

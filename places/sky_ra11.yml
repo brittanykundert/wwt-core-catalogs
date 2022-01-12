@@ -1,3 +1,585 @@
+_uuid: 44ea2d2c-c7af-4804-84dd-bf06a62971d9
+annotation: '{"channel": "eso", "itemid": "eso0137d", "publishedUTCISO8601": "2001-12-03T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -61.26071013529613
+description: The sky area shown in the NAOS-CONICA high-resolution image is indicated
+  on an earlier image of a much larger area, obtained in 1999 with the ISAAC multi-mode
+  instrument on VLT ANTU (ESO Press Release eso9946)
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0137d/L{1}X{2}Y{3}.png
+name: The star-forming region around NGC 3603
+ra_hr: 11.252135731814096
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0137d/thumb.jpg
+zoom_level: 0.5650188438599999
+---
+_uuid: 86a7c78a-d7ec-4f64-92c6-df4617b364ef
+annotation: '{"channel": "eso", "itemid": "eso0317a", "publishedUTCISO8601": "2003-06-16T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -61.26038173833077
+description: The region around NGC 3603, a cluster of young, hot O and B-type stars
+  still partly embedded in its natal cloud of gas and dust. A small group of nascent,
+  very massive stars has been found to the south of the cluster centre — here indicated
+  as &quot;IRS9&quot;. The image was obtained with the ISAAC multi-mode instrument
+  at the 8.2-m VLT ANTU telescope at Paranal. The orientation and the scale at the
+  distance of NGC 3603 (22,000 light-years) are indicated.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0317a/L{1}X{2}Y{3}.png
+name: The galactic starburst region NGC 3603 (annotated)
+ra_hr: 11.252170580629102
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0317a/thumb.jpg
+zoom_level: 0.5697684101099999
+---
+_uuid: b2f84d3e-3667-4cda-a6f8-abfe5136e87b
+annotation: '{"channel": "eso", "itemid": "eso0338c", "publishedUTCISO8601": "2003-12-19T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.991895288686958
+description: NGC 3627, also known as Messier 66, i.e. it is the 66th object in the
+  famous catalogue of nebulae by French astronomer Charles Messier (1730 - 1817).
+  It is located in the constellation Leo (The Lion). NGC 3627 is a beautiful spiral
+  with a well-developed central bulge. It also displays large-scale dust lanes. Many
+  regions of warm hydrogen gas are seen throughout the disc of this galaxy. The latter
+  regions are being ionised by radiation from clusters of newborn stars. Very active
+  star-formation is most likely also occurring in the nuclear regions of NGC 3627.
+  The galaxy forms, together with its neighbours M 65 and NGC 3628, the so-called
+  &quot;Leo Triplet&quot; ; they are located at a distance of about 35 million light-years.
+  M 66 is the largest of the three. Its spiral arms appear distorted and displaced
+  above the main plane of the galaxy. The asymmetric appearance is most likely due
+  to gravitational interaction with its neighbours. This photo of the spiral galaxy
+  M 66 (or NGC 3627) was obtained with the FORS1 and FORS2 multi-mode instruments
+  (at VLT MELIPAL and YEPUN, respectively) on December 16-18, 2001. It is a composite
+  of three exposures in different wavebands. North is towards upper left, West towards
+  upper right.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0338c/L{1}X{2}Y{3}.png
+name: A dusty beauty
+ra_hr: 11.337485158407654
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0338c/thumb.jpg
+zoom_level: 1.1636242110000001
+---
+_uuid: 0caeb793-400b-4ad7-853f-08404e1f8231
+annotation: '{"channel": "eso", "itemid": "eso0419b", "publishedUTCISO8601": "2004-06-03T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -19.932538127450535
+description: Very massive galaxy cluster RXCJ1131.9-1955 at redshift z = 0.306 in
+  a very rich galaxy field with two major concentrations. It was originally found
+  by George Abell and designated &quot;Abell 1300&quot;. The image was obtained with
+  the ESO/MPG 2.2-m telescope and the WFI camera at La Silla.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0419b/L{1}X{2}Y{3}.png
+name: Cluster of galaxies RXCJ1131.9-1955
+ra_hr: 11.53171361785534
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0419b/thumb.jpg
+zoom_level: 1.3762430936555994
+---
+_uuid: 4e3db9c1-ecb1-44e5-8070-2b3e2d9ec0c3
+annotation: '{"channel": "eso", "itemid": "eso0614a", "publishedUTCISO8601": "2006-04-14T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.690623264798067
+description: Colour image of the Deep 3 &#x27;empty&#x27; field observed with the
+  Wide-Field Camera on the MPG/ESO 2.2-m telescope at La Silla. The image is the combination
+  of 714 frames for a total exposure time of 64.5 hours obtained through four different
+  filters (B, V, R, and I). It consists of four adjacent Wide-Field Camera pointings
+  (each 33x34 arcmin), covering a total area larger than one square degree. The original
+  image — whose resolution is conserved in the fullsize original version and in  eso0614c
+  — consists of about 300 million pixels. It had to be downscaled to be of reasonable
+  size for the Internet. North is up and East is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0614a/L{1}X{2}Y{3}.png
+name: The Deep 3 'empty' field
+ra_hr: 11.353993728828135
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0614a/thumb.jpg
+zoom_level: 5.761151776407516
+---
+_uuid: ecd82106-f074-4bec-b8ce-43bfd20a95dd
+annotation: '{"channel": "eso", "itemid": "eso0614b", "publishedUTCISO8601": "2006-04-14T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.499054325874546
+description: 'Part of the Deep 3 Deep Public Survey field, showing the brightest galaxy
+  in the field ESO 570-19 (upper left) and the brightest star UW Crateris. This red
+  giant (upper right) is a variable star that is about 8 times fainter than what the
+  unaided eye can see. An &#x27;S&#x27;-shaped ensemble of galaxies is also visible
+  in the lower part of the picture. Imagine: all these island universes are about
+  the same size as our Milky Way and contain billion of stars!'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0614b/L{1}X{2}Y{3}.png
+name: Galaxy ESO 570-19 and variable star UW Crateris
+ra_hr: 11.330145119489826
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0614b/thumb.jpg
+zoom_level: 1.866392895097936
+---
+_uuid: d1da507f-d6ca-410d-be0b-5e47e4cc34dc
+annotation: '{"channel": "eso", "itemid": "eso0614c", "publishedUTCISO8601": "2006-04-14T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.866403186457486
+description: Detail of a portion of the Deep 3 field, showing the large variety of
+  shapes and colours of the very numerous galaxies present in the image. The amount
+  of details of the original image is such that this small portion can still be shown
+  in very high resolution.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0614c/L{1}X{2}Y{3}.png
+name: The DPS Deep 3 Field (detail)
+ra_hr: 11.30955865684957
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0614c/thumb.jpg
+zoom_level: 1.2708429113660829
+---
+_uuid: 19813d1e-f7d4-4c65-bf0c-4cc49bd5cdde
+annotation: '{"channel": "eso", "itemid": "eso1005a", "publishedUTCISO8601": "2010-02-03T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -61.239232308169996
+description: 'NGC 3603 is a starburst region : a cosmic factory where stars form frantically
+  from the nebula’s extended clouds of gas and dust. Located 22,000 light-years away
+  from the Sun, it is the closest region of this kind known in our galaxy, providing
+  astronomers with a local test bed for studying the intense star formation processes,
+  very common in other galaxies, but hard to observe in detail because of their large
+  distance. The newly released image, obtained with the FORS instrument attached to
+  one of the four 8.2-metre VLT Unit Telescopes at Cerro Paranal, Chile, is a three-colour
+  combination of exposures acquired through visible and near-infrared (V, R, I) filters.
+  This image portrays a wider field around the stellar cluster and reveals the rich
+  texture of the surrounding clouds of gas and dust. The field of view is 7 arcminutes
+  wide.   This image is available as a mounted image in the ESOshop.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1005a/L{1}X{2}Y{3}.png
+name: Stellar nursery NGC 3603*
+ra_hr: 11.252300871327874
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1005a/thumb.jpg
+zoom_level: 1.5362560182239995
+---
+_uuid: 73743545-8da8-4b81-a298-ddcdd3bb2ce8
+annotation: '{"channel": "eso", "itemid": "eso1322a", "publishedUTCISO8601": "2013-05-23T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -63.36097342605767
+description: 'This intriguing new view of a spectacular stellar nursery IC 2944 is
+  being released to celebrate a milestone: 15 years of ESO’s Very Large Telescope.
+  This image also shows a group of thick clouds of dust known as the Thackeray globules
+  silhouetted against the pale pink glowing gas of the nebula. These globules are
+  under fierce bombardment from the ultraviolet radiation from nearby hot young stars.
+  They are both being eroded away and also fragmenting, rather like lumps of butter
+  dropped onto a hot frying pan. It is likely that Thackeray’s globules will be destroyed
+  before they can collapse and form new stars.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1322a/L{1}X{2}Y{3}.png
+name: The Very Large Telescope snaps a stellar nursery and celebrates fifteen years
+  of operations
+ra_hr: 11.634831038345899
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1322a/thumb.jpg
+zoom_level: 1.2198284980440002
+---
+_uuid: b77cae58-7407-4bd5-a2a0-941d48f0713a
+annotation: '{"channel": "eso", "itemid": "eso1532a", "publishedUTCISO8601": "2015-08-05T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -34.37078940061232
+description: 'This extraordinary bubble, glowing like the ghost of a star in the haunting
+  darkness of space, may appear supernatural and mysterious, but it is a familiar
+  astronomical object: a planetary nebula, the remnants of a dying star. This is the
+  best view of the little-known object ESO 378-1 yet obtained and was captured by
+  ESO’s Very Large Telescope in northern Chile.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1532a/L{1}X{2}Y{3}.png
+name: The planetary nebula ESO 378-1
+ra_hr: 11.445541122095431
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1532a/thumb.jpg
+zoom_level: 1.053883343396841
+---
+_uuid: 9db2db33-c021-4fd8-a85f-b1364e894b66
+annotation: '{"channel": "eso", "itemid": "eso2002a", "publishedUTCISO8601": "2020-02-05T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -55.57383512811489
+description: 'This new ALMA image shows the outcome of a stellar fight: a complex
+  and stunning gas environment surrounding the binary HD101584. The colours represent
+  speed, going from blue — gas moving the fastest towards us — to red — gas moving
+  the fastest away from us. Jets, almost along the line of sight, propel the material
+  in blue and red. The stars in the binary are located at the single bright dot at
+  the centre of the ring-like structure shown in green, which is moving with the same
+  velocity as the system as a whole along the line of sight. Astronomers believe this
+  ring has its origin in the material ejected as the lower mass star in the binary
+  spiralled towards its red-giant partner.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2002a/L{1}X{2}Y{3}.png
+name: ALMA image of HD101584
+ra_hr: 11.683002637738388
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2002a/thumb.jpg
+zoom_level: 0.030055849243040517
+---
+_uuid: 8d075f6a-cb50-4889-9153-6543e4929ce8
+annotation: '{"channel": "eso", "itemid": "eso2002c", "publishedUTCISO8601": "2020-02-05T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -55.5792007273488
+description: This wide-field view shows the region of the sky, in the constellation
+  of Centaurus, where HD101584, a gas cloud surrounding a binary star recently studied
+  with ALMA and APEX, is located. This view was created from images forming part of
+  the Digitized Sky Survey 2.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2002c/L{1}X{2}Y{3}.png
+name: Wide-field view of the region of the sky where HD101584 is located
+ra_hr: 11.683168660992495
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2002c/thumb.jpg
+zoom_level: 21.23300249054776
+---
+_uuid: edf942d1-52c7-4617-9ad4-81337dc8995d
+annotation: '{"channel": "eso", "itemid": "eso2103b", "publishedUTCISO8601": "2021-03-08T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 18.799788221108553
+description: This visible-light, wide-field image of the region around the distant
+  quasar P172+18 was created from images in the Digitized Sky Survey 2. The object
+  itself lies very close to the centre and is not visible in this picture, but many
+  other, much closer, galaxies are seen in this wide-field view.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2103b/L{1}X{2}Y{3}.png
+name: Wide-field view of the sky around the quasar P172+18
+ra_hr: 11.489825689510523
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2103b/thumb.jpg
+zoom_level: 23.072092238100705
+---
+_uuid: 3b5c91f2-3d95-4d9f-ac75-6b3f743d2554
+annotation: '{"channel": "eso", "itemid": "eso2110d", "publishedUTCISO8601": "2021-07-16T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.981340677882073
+description: This image, taken with the Multi-Unit Spectroscopic Explorer (MUSE) on
+  ESO’s Very Large Telescope (VLT), shows the nearby galaxy NGC 3627. NGC 3627 is
+  a spiral galaxy located approximately 31 million light-years from Earth in the constellation
+  Leo. The image is a combination of observations conducted at different wavelengths
+  of light to map stellar populations and warm gas. The golden glows mainly correspond
+  to clouds of ionised hydrogen, oxygen and sulphur gas, marking the presence of newly
+  born stars, while the bluish regions in the background reveal the distribution of
+  slightly older stars.  The image was taken as part of the Physics at High Angular
+  resolution in Nearby GalaxieS (PHANGS) project, which is making high-resolution
+  observations of nearby galaxies with telescopes operating across the electromagnetic
+  spectrum.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2110d/L{1}X{2}Y{3}.png
+name: NGC 3627 as seen with MUSE on ESO’s VLT at several wavelengths of light
+ra_hr: 11.337580512204081
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2110d/thumb.jpg
+zoom_level: 0.3275449151593102
+---
+_uuid: d6a8a20a-3b1c-453f-ad54-30f2da008633
+annotation: '{"channel": "eso", "itemid": "eso2110i", "publishedUTCISO8601": "2021-07-16T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.981340677882073
+description: This image of the nearby galaxy NGC 3627 was obtained by combining observations
+  taken with the Multi-Unit Spectroscopic Explorer (MUSE) on ESO’s Very Large Telescope
+  (VLT) and with the Atacama Large Millimeter/submillimeter Array (ALMA), in which
+  ESO is a partner. NGC 3627 is a spiral galaxy located approximately 31 million light-years
+  from Earth in the constellation Leo. The image is a combination of observations
+  conducted at different wavelengths of light to map stellar populations and gas.
+  ALMA’s observations are represented in brownish-orange tones and highlight the clouds
+  of cold molecular gas that provide the raw material from which stars form. The MUSE
+  data show up mainly in gold and blue. The bright golden glows map warm clouds of
+  mainly ionised hydrogen, oxygen and sulphur gas, marking the presence of newly born
+  stars, while the bluish regions reveal the distribution of slightly older stars.
+  The image was taken as part of the Physics at High Angular resolution in Nearby
+  GalaxieS (PHANGS) project, which is making high-resolution observations of nearby
+  galaxies with telescopes operating across the electromagnetic spectrum.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2110i/L{1}X{2}Y{3}.png
+name: NGC 3627 as seen with the VLT and ALMA at several wavelengths of light
+ra_hr: 11.337580512204081
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2110i/thumb.jpg
+zoom_level: 0.3275449151593102
+---
+_uuid: 8d6ac3e5-abc8-4911-ae0c-12964f1ffd5a
+annotation: '{"channel": "eso", "itemid": "eso9011a", "publishedUTCISO8601": "1990-09-29T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 4.089941549194487
+description: This a reproduction of a small area of the photographic plate on which  Minor
+  Planet (3933) Portugal was discovered. Due to its orbital motion around the Sun,
+  &quot;Portugal&#x27;&#x27; is seen as a short trail, while the fixed stars in the
+  background are point-like.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9011a/L{1}X{2}Y{3}.png
+name: Minor Planet (3933) Portugal
+ra_hr: 11.693094268924566
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9011a/thumb.jpg
+zoom_level: 1.3894189438665354
+---
+_uuid: 767ca4f3-6b42-467d-a612-9d8fde7d99c4
+annotation: '{"channel": "eso", "itemid": "eso9921c", "publishedUTCISO8601": "1999-03-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -77.63534756839205
+description: This colour-composite image was obtained by FORS1 on ANTU. It displays
+  a sky area near the Chamaeleon I complex of bright nebulae and hot stars in the
+  constellation of the same name, close to the southern celestial pole.This picture
+  was taken a few days before the Paranal Inauguration and the &quot;hand-over&quot;
+  to the astronomers on April 1, 1999.This colour composite photo of the Chamaeleon
+  I area is based on six 1-min exposures obtained with VLT UT1 + FORS1 in the V, R
+  and I bands. The sky field measures 6.8 x 11.2 arcmin2; North is up and East is
+  left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9921c/L{1}X{2}Y{3}.png
+name: Celestial scribbled notes
+ra_hr: 11.133766219975724
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9921c/thumb.jpg
+zoom_level: 1.853284813512
+---
+_uuid: 9d6b6ad7-9dbf-4d16-887a-511030f55fa7
+annotation: '{"channel": "eso", "itemid": "eso9946a", "publishedUTCISO8601": "1999-10-13T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -61.259795642951154
+description: These images of the NGC 3603 region were obtained in three near-IR filter
+  bands (Js, H and Ks) with the ISAAC instrument at the ANTU telescope at the VLT
+  at Paranal. NGC 3603 is located in the Carina spiral arm of the Milky Way galaxy
+  at a distance of about 20,000 light-years (6-7 kpc). It is the only massive, galactic
+  &quot;HII-region&quot; (so denoted by astronomers because part of its hydrogen is
+  ionized) in which a central cluster of strongly UV-radiating stars of types O and
+  B that ionize the nebula can be studied at visual and near-infrared wavelengths.
+  This is because the line-of-sight is reasonably free of dust in this direction;
+  the dimming in near-infrared radiation due to intervening matter between the nebula
+  and us is only about a factor of 2 (compared to 80 in visible light). The total
+  mass of the hot O and B stars in NGC 3603 is over 2,000 solar masses. Together,
+  the more than fifty heavy and bright O stars in NGC 3603 have about 100 times the
+  ionizing power of the well-known Trapezium cluster in the Orion Nebula. In fact,
+  the star cluster in NGC 3603 is in many respects very similar to the core of the
+  large, ionizing cluster in the approximately eight times more distant Tarantula
+  Nebula in the Large Magellanic Cloud. An important conclusion of studying this region
+  is that there are lots of sub-solar mass stars in NGC 3603. Contrary to several
+  theoretical predictions, these low-mass stars do form in violent starbursts. The
+  overall age of stars in the contraction phase that are located in the innermost
+  region of NGC 3603 was found to be  300 000 to 1 000 000 years. The counts clearly
+  show that this cluster is well populated in sub-solar mass stars. This image is
+  available as a mounted image in the ESOshop.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9946a/L{1}X{2}Y{3}.png
+name: The galactic starburst region NGC 3603 *
+ra_hr: 11.252094813920753
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9946a/thumb.jpg
+zoom_level: 0.5730113857477918
+---
+_uuid: c098c30a-90ba-4bba-a0bc-6e1160b1ec5c
+annotation: '{"channel": "eso", "itemid": "eso9946b", "publishedUTCISO8601": "1999-10-13T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -61.259662072945716
+description: The central cluster is the densest concentration of massive stars known
+  in the Milky Way. The field shown is about 2.5 x 2.5 light-years 2. It hosts more
+  than 50 hot O-type stars. The brightest star in the field is the red supergiant
+  IRS4 ; it is located about 80 arcsec NE of the center. About 18 arcsec N of the
+  center are the ring nebula and the bipolar outflows around the blue supergiant Sher25.
+  The photo also shows three proplyd-like objects ; they are similar to those seen
+  in Orion Nebula, but 20-30 times more extended. About 1 arcmin SSE of the central
+  cluster are seen the brightest members of the deeply embedded proto cluster IRS9
+  .
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9946b/L{1}X{2}Y{3}.png
+name: Central star cluster in NGC3603
+ra_hr: 11.251953806546288
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9946b/thumb.jpg
+zoom_level: 0.10769677979846581
+---
+_uuid: d537ad95-8244-44bd-b73d-d53021b28ce3
+annotation: '{"channel": "eso", "itemid": "potw1026a", "publishedUTCISO8601": "2010-06-28T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 13.564784902381492
+description: 'NGC 3628 is a spiral galaxy and a member of a small, but conspicuous
+  group of galaxies located about 35 million light-years away, toward the constellation
+  of Leo (the Lion). The other distinguished members of this family, known collectively
+  as the Leo Triplet, are two well-known prominent spiral galaxies, Messier 65 and
+  Messier 66 (not seen on the image), which were both discovered in 1780 by famous
+  French comet hunter Charles Messier. NGC 3628 is the faintest of the trio and escaped
+  Messier’s observations with his rather small telescope. It was discovered and catalogued
+  by William Herschel only four years later. NGC 3628 hides its spiral structure because
+  it is seen perfectly edge-on, exactly as we observe the Milky Way on a clear night.
+  Its most distinctive feature is a dark band of dust that lies across the plane of
+  the disc and which is visibly distorted outwards, as a consequence of the gravitational
+  interaction between NGC 3628 and its bullying companions. This boxy or “peanut-shaped”
+  bulge, seen as a faint X-shape, is formed mainly of young stars and gas and dust,
+  which create the bulge away from the plane of the rest of the galaxy through their
+  powerful motions. Because of its appearance, NGC 3628 was catalogued as Arp 317
+  in the Atlas of Peculiar Galaxies, published in 1966, which aimed to characterise
+  a large sample of odd objects that fell outside the standard Hubble classification,
+  to aid understanding of how galaxies evolve. The depth of the image reveals a myriad
+  of galaxies of different shapes and colours, some of which lie much further away
+  than NGC 3628. Particularly noticeable is the fuzzy blob just in the centre of the
+  image, which is a diffuse satellite galaxy. A number of globular clusters can be
+  seen as fuzzy reddish spots in the halo of the galaxy. Also visible as bright spots
+  near the lower edge of the image (the two blue star-like objects below the satellite
+  galaxy) are two quasars, the central engines of distant and very energetic galaxies,
+  billions of light-years away. This image has been taken with the FORS2 instrument,
+  attached to one of the ESO Very Large Telescope’s Unit Telescopes. It is a combination
+  of exposures taken through different filters (B, V and R), for a total exposure
+  time of just below one hour. The field of view is about 7 arcminutes across, which
+  is why this large galaxy does not fit into the image. Links  Image of Messier 66 '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1026a/L{1}X{2}Y{3}.png
+name: The oddest member of the Leo Triplet
+ra_hr: 11.337483732911203
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1026a/thumb.jpg
+zoom_level: 0.8960281251142977
+---
+_uuid: 3ce2ad88-a657-470d-af36-868a1d23d0b2
+annotation: '{"channel": "eso", "itemid": "potw1030a", "publishedUTCISO8601": "2010-07-26T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -19.26238635447535
+description: NGC 4027, also known as Arp 22, stretches its single extended spiral
+  arm in this face-on image. Located about 75 million light-years away in the constellation
+  of Corvus (the Crow), this barred spiral galaxy is identified as a peculiar galaxy
+  by this extended arm, thought to be the result of a collision with another galaxy
+  millions of years ago — most likely a small galaxy known as NGC 4027A. NGC 4027
+  is part of the NGC 4038 Group, a group of galaxies that also contains the famous
+  distorted couple known as the Antennae Galaxies (see eso0209 and heic0615). This
+  image is based on data collected with the ESO Faint Object Spectrograph and Camera
+  (EFOSC) attached to the 3.58-metre New Technology Telescope (NTT) at the ESO La
+  Silla Observatory in Chile. The data were collected through three broadband filters
+  (B, V and R) and two narrowband filters (Hα and doubly ionised oxygen).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1030a/L{1}X{2}Y{3}.png
+name: Arp 22 stretches out
+ra_hr: 11.991950265816191
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1030a/thumb.jpg
+zoom_level: 0.6462632319779998
+---
+_uuid: 566bd905-2a4e-4dd6-8c37-026167fbcc90
+annotation: '{"channel": "eso", "itemid": "potw1148a", "publishedUTCISO8601": "2011-11-28T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -32.81329743386193
+description: This image, from ESO’s Very Large Telescope (VLT), shows a truly remarkable
+  galaxy known as NGC 3621. To begin with, it is a pure-disc galaxy. Like other spirals,
+  it has a flat disc permeated by dark lanes of material and with prominent spiral
+  arms where young stars are forming in clusters (the blue dots seen in the image).
+  But while most spiral galaxies have a central bulge — a large group of old stars
+  packed in a compact, spheroidal region — NGC 3621 doesn’t. In this image, it is
+  clear that there is simply a brightening to the centre, but no actual bulge like
+  the one in NGC 6744 (eso1118), for example. NGC 3621 is also interesting as it is
+  believed to have an active supermassive black hole at its centre that is engulfing
+  matter and producing radiation. This is somewhat unusual because most of these so-called
+  active galactic nuclei exist in galaxies with prominent bulges. In this particular
+  case, the supermassive black hole is thought to have a relatively small mass, of
+  around 20 000 times that of the Sun. Another interesting feature is that there are
+  also thought to be two smaller black holes, with masses of a few thousand times
+  that of the Sun, near the nucleus of the galaxy. Therefore, NGC 3621 is an extremely
+  interesting object which, despite not having a central bulge, has a system of three
+  black holes in its central region. This galaxy is located in the constellation of
+  Hydra (The Sea Snake) and can be seen with a moderate-sized telescope. This image,
+  taken using B, V, and I filters with the FORS1 instrument on the powerful VLT, shows
+  striking detail in this odd object and also reveals a multitude of background galaxies.
+  A number of bright foreground stars that belong to our own Milky Way are also visible.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1148a/L{1}X{2}Y{3}.png
+name: A galaxy full of surprises —  NGC 3621 is bulgeless but has three central black
+  holes
+ra_hr: 11.304618620030219
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1148a/thumb.jpg
+zoom_level: 1.15778597376
+---
+_uuid: ba7a58b4-c724-440b-a205-1a12bab10387
+annotation: '{"channel": "eso", "itemid": "potw1202a", "publishedUTCISO8601": "2012-01-09T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -1.7114042265888454
+description: 'The  picture is part of the COMBO-17 survey (Classifying Objects by  Medium-Band
+  Observations in 17 Filters), a project dedicated to  recording detailed images of
+  small patches of the sky through filters of  17 different colours. The area covered
+  in this image is only about the  size of the full Moon, but thousands of galaxies
+  can be identified just  within this small region. The  image was taken with an exposure
+  time of almost seven hours, which  allowed the camera to capture the light from
+  very faint and distant  objects, as well as those that are closer to us. Galaxies
+  with clear and  regular structures, such as the spiral specimen viewed edge-on near
+  the  upper left corner, are only up to a few billion light-years away. The  fainter,
+  fuzzier objects are so far away that it has taken nine or ten  billion years for
+  their light to reach us. The  COMBO-17 survey is a powerful tool for studying the
+  distribution of  dark matter in galaxies. Dark matter is a mysterious substance
+  that does  not emit or absorb light and can only be detected by its gravitational  pull
+  on other objects. Some of the closer galaxies pictured act as  lenses that distort
+  the light coming from more distant galaxies placed  along the same line of sight.
+  By measuring this distortion, an effect  known as gravitational lensing, astronomers
+  are able to understand how  dark matter is distributed in the objects that act as
+  lenses. The  distortion is weak and, therefore, almost imperceptible to the human  eye.
+  However, because surveying the sky with 17 filters allows extremely  precise distance
+  measurements, it is possible to determine if two  galaxies that appear to lie close
+  to each other are actually at very  different distances from the Earth. After identifying
+  the galactic  lensing systems, the distortion can be measured by averaging over  thousands
+  of galaxies. With more than 4000 galactic lenses identified,  this COMBO-17 survey
+  is an ideal method to help astronomers to  understand the dark matter better. This  image
+  was taken with three of the 17 filters from the project: B  (blue), V (green), and
+  R (red). Data through an additional near-infrared  filter was also used.  Links  COMBO-17
+  at the Max Planck Institute for Astronomy '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1202a/L{1}X{2}Y{3}.png
+name: Mapping dark matter in galaxies
+ra_hr: 11.715540596301897
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1202a/thumb.jpg
+zoom_level: 4.695551581360807
+---
+_uuid: fe6bcdbb-1790-48c0-ab4e-15dcc1d4c4ef
+annotation: '{"channel": "eso", "itemid": "potw1550a", "publishedUTCISO8601": "2015-12-14T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -59.953034636086606
+description: This fetching cloud of gas was imaged by the ESO Faint Object Spectrograph
+  and Camera (EFOSC2) at ESO&#x27;s La Silla Observatory. It can be found nestled
+  in the busy constellation of Centaurus in the skies of the southern hemisphere.
+  The cloud of gas — named NGC 3699 — is a planetary nebula, It is distinguished by
+  an irregular mottled appearance and a dark rift, which roughly bisects it. These
+  objects, despite the name, have nothing to do with planets and are created in the
+  final stages of the evolution of stars similar in mass to the Sun. The name &quot;planetary
+  nebula&quot; arises from the time of their discovery by William Herschel, when they
+  appeared in the telescopes of the time as rounded objects similar in looks to the
+  planets. Towards the end of their lives, stars like the Sun exhaust the supply of
+  hydrogen in their cores, putting a stop to nuclear reactions. This causes the star&#x27;s
+  core to contract under the force of gravity and heat up, while the cooler outer
+  layers expand tremendously — the surface of the Sun, for example, will likely engulf
+  the orbit of Earth when it reaches this stage in its evolution. Unusually strong
+  stellar winds push the gaseous outer layers of the star out into space, eventually
+  exposing the core of the star, which begins to emit ultraviolet radiation, ionising
+  the expelled gas, causing the nebula&#x27;s ethereal glow, and producing beautiful
+  and varied sights, such as the one in this image.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1550a/L{1}X{2}Y{3}.png
+name: A planetary Nebula divided
+ra_hr: 11.46631338983642
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1550a/thumb.jpg
+zoom_level: 0.7561807074662118
+---
+_uuid: ec76a85c-509f-461e-bd41-1ccd69ed40d6
+annotation: '{"channel": "eso", "itemid": "potw2117a", "publishedUTCISO8601": "2021-04-26T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 21.595039688180925
+description: Do you ever get the feeling that you&#x27;re being watched? This friendly-looking
+  object is the result of two galaxies merging into one another, complete with a pair
+  of eyes hiding two growing supermassive black holes and a swirling grin. Such mergers
+  are rare in our galactic neighbourhood; Mrk 739 is close enough (astronomically
+  speaking) to study the event in detail, and thus gain a better understanding of
+  the dramatic processes that take place during these cosmic mergers. By using the
+  MUSE instrument on ESO’s Very Large Telescope, the team of astronomers, led by master’s
+  student Dusán Tubín at the Pontificia Universidad Católica de Chile, were able to
+  study the effects of both the merger and the radiation emitted by the growing gigantic
+  black holes. Their study answers questions about the motion of the galaxies, the
+  age of their stars, and the elements they are made up of. They have found that one
+  of these galaxies is much older than its companion, and that their merging process
+  is at an early stage. MUSE is a 3D spectrograph that takes images — known as “datacubes”
+  — of the object being observed over thousands of wavelengths. With MUSE, astronomers
+  are therefore able to map in great detail the properties of the objects they study,
+  because each individual pixel contains an impressive amount of information. Obtaining
+  these exciting insights into galaxy merging and evolution with MUSE is enough to
+  make anyone smile.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw2117a/L{1}X{2}Y{3}.png
+name: Eyes in the sky
+ra_hr: 11.60805157589544
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw2117a/thumb.jpg
+zoom_level: 0.1555557226955405
+---
 _uuid: 8689b7d0-df0b-48d0-928a-5325ec9116f8
 annotation: '{"channel": "noirlab", "itemid": "ann21023a", "publishedUTCISO8601":
   "2021-06-08T10:17:36+00:00"}'

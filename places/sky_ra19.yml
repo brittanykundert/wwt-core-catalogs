@@ -1,3 +1,582 @@
+_uuid: 46b244ef-3330-4d38-9f19-5c4ec7cbf90b
+annotation: '{"channel": "eso", "itemid": "eso0028a", "publishedUTCISO8601": "2000-09-04T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 15.780843952238612
+description: 'Colour composite of some of the first astronomical exposures obtained
+  by YEPUN . The object is the planetary nebula Hen 2-428 that is located at a distance
+  of 6,000-8,000 light-years and seen in a dense sky field, only 2° from the main
+  plane of the Milky Way. As other planetary nebulae, it is caused by a dying star
+  (the bluish object at the centre) that shreds its outer layers. The image is based
+  on exposures through three optical filtres: B(lue) (10 min exposure, seeing 0.9
+  arcsec; here rendered as blue), V(isual) (5 min; 0.9 arcsec; green) and R(ed) (3
+  min; 0.9 arcsec; red). The field measures 88 x 78 arcsec 2 (1 pixel = 0.09 arcsec).
+  North is to the lower right and East is to the lower left. The 5-day old Moon was
+  about 90° away in the sky that was accordingly bright. The zenith angle was 44°.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0028a/L{1}X{2}Y{3}.png
+name: Planetary Nebula Hen 2-428
+ra_hr: 19.218517371097754
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0028a/thumb.jpg
+zoom_level: 0.194809852224
+---
+_uuid: ca6e95a2-e8d1-48f2-a1df-b3af41904b1a
+annotation: '{"channel": "eso", "itemid": "eso0031a", "publishedUTCISO8601": "2000-10-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -36.97533180060528
+description: 'This is a colour photo of the R Coronae Australis  region in the southern
+  Milky Way, obtained with the Wide Field Imager (WFI) (camera) at the 2.2-m MPG/ESO
+  Telescope on La Silla (Chile). It is based on a series of CCD exposures through
+  optical B-, V- and R-filters, here rendered as blue, green and red, respectively.
+  The sky field shown measures approx. 33.7 x 31.9 arcmin (about the diameter of the
+  full moon). Tecnical information : The observations were obtained on the night of
+  30 August 2000. The image is a combination of twelve large (8000 x 8000 pix) CCD
+  frames taken through B, V, and R filters. Four exposures of 5 min each were obtained
+  in each filter, with the telescope pointing at slightly different positions so that
+  the gaps among the eight individual CCD-chips of the detector can be adequately
+  filled. All frames were carefully aligned, and the intensity levels were cut in
+  order to achieve the proper colour balance. A logarithmic intensity scale was used
+  to improve the dynamical range. This image displays the full field and was rebinned
+  to a smaller scale in order to allow transportation over the web. The images were
+  prepared by Fernando Comeron (ESO).'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0031a/L{1}X{2}Y{3}.png
+name: R Coronae Australis Complex
+ra_hr: 19.032059431459235
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0031a/thumb.jpg
+zoom_level: 5.382672717504001
+---
+_uuid: a4eb4e53-3eb6-4b32-a063-92eb58053d1a
+annotation: '{"channel": "eso", "itemid": "eso0031b", "publishedUTCISO8601": "2000-10-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -36.99487424749938
+description: 'This is a colour photo of a small area of about 12 x 12 arcmin 2, near
+  the centre of the R Coronae Australis  region in the southern Milky Way, obtained
+  with the Wide Field Imager (WFI) (camera) at the 2.2-m MPG/ESO Telescope on La Silla
+  (Chile). It is based on a series of CCD exposures through optical B-, V- and R-filters,
+  here rendered as blue, green and red, respectively. The sky field shown measures
+  approx. 33.7 x 31.9 arcmin 2 (about the diameter of the full moon).  . North is
+  up and East is left. Tecnical information : The observations were obtained on the
+  night of 30 August 2000. The image is a combination of twelve large (8000 x 8000
+  pix) CCD frames taken through B, V, and R filters. Four exposures of 5 min each
+  were obtained in each filter, with the telescope pointing at slightly different
+  positions so that the gaps among the eight individual CCD-chips of the detector
+  can be adequately filled. All frames were carefully aligned, and the intensity levels
+  were cut in order to achieve the proper colour balance. A logarithmic intensity
+  scale was used to improve the dynamical range. The image shows part of this field
+  at the original resolution. The images were prepared by Fernando Comeron (ESO).'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0031b/L{1}X{2}Y{3}.png
+name: R Coronae Australis Complex (detail)
+ra_hr: 19.02773563268757
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0031b/thumb.jpg
+zoom_level: 2.018513832192
+---
+_uuid: 835b0981-e9cb-483c-bcce-82618be2b6f0
+annotation: '{"channel": "eso", "itemid": "eso0322b", "publishedUTCISO8601": "2003-07-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 9.103552572905091
+description: Three-colour composite of the central region of the star-forming region
+  W49A, based on a radio emission map (wavelength 3.6 cm ; here rendered as red) as
+  well as two SofI images in the Ks- (green) and J-bands (blue). The red-only features
+  in this image represent regions of ionized hydrogen so deeply embedded in the molecular
+  cloud that they cannot be detected in the near-infrared, while blue sources are
+  foreground stars. The radio continuum data were taken with the Very Large Array
+  by Chris De Pree.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0322b/L{1}X{2}Y{3}.png
+name: Radio and near-infrared composite of W49A
+ra_hr: 19.17112534915951
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0322b/thumb.jpg
+zoom_level: 0.5798619417537016
+---
+_uuid: a35824c0-1d5f-4928-a27c-1602e7af6f2e
+annotation: '{"channel": "eso", "itemid": "eso0413a", "publishedUTCISO8601": "2004-04-28T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -60.50802415579808
+description: 'Colour-composite image showing the triplet of galaxies NGC 6769, 6770
+  and NGC 6771, as observed with the VIMOS instrument on Melipal, one of the four
+  8.2-m Unit Telescopes of ESO&#x27;s Very Large Telescope. The images were obtained
+  on the morning of April 1, 2004 during twilight in three different wavebands, each
+  of which is here being represented by a different colour: U (around 380 nm; associated
+  to the Blue channel) ; B (425 nm ; Green channel) and V (550 nm ; Red channel).
+  The total exposure time in the U, B and V bands is, respectively, 20, 6 and 12 minutes.
+  The mean seeing was around 0.9 arcsec. The field shown measures 6.1 x 6.8 square
+  arcmin. North is up and East is left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0413a/L{1}X{2}Y{3}.png
+name: Cosmic ballet or devil's mask - galaxy triplet NGC 6769-71 (VLT MELIPAL + VIMOS)
+ra_hr: 19.30877002345684
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0413a/thumb.jpg
+zoom_level: 1.0990757111399998
+---
+_uuid: ff83d1c6-0bf2-441a-ae82-62cc3db8a833
+annotation: '{"channel": "eso", "itemid": "eso0755a", "publishedUTCISO8601": "2007-12-21T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.3181723867271
+description: Using ESO&#x27;s Very Large Telescope, an international team of astronomers
+  has discovered a stunning rare case of a triple merger of galaxies. This system,
+  which astronomers have dubbed &#x27;The Bird&#x27; - although it also bears resemblance
+  with a cosmic Tinker Bell - is composed of two massive spiral galaxies and a third
+  irregular galaxy. In this image, a 30-min VLT/NACO K-band exposure has been combined
+  with archive HST/ACS B and I-band images to produce a three-colour image of the
+  &#x27;Bird&#x27; interacting galaxy system. The NACO image has allowed astronomers
+  to not only see the two previously known galaxies, but to identify a third, clearly
+  separate component, an irregular, yet fairly massive galaxy that seems to form stars
+  at a frantic rate.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0755a/L{1}X{2}Y{3}.png
+name: The Tinker Bell triplet
+ra_hr: 19.241952971131415
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0755a/thumb.jpg
+zoom_level: 0.092745245934
+---
+_uuid: 2cd77695-8e01-43d8-925d-c1e38ad7e8dd
+annotation: '{"channel": "eso", "itemid": "eso0755b", "publishedUTCISO8601": "2007-12-21T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.319092475102515
+description: Image taken with the NACO instrument on ESO&#x27;s Very Large Telescope
+  in the K-band. Also indicated are the different parts of the &#x27;Bird&#x27;. There
+  is a barred spiral galaxy at the heart of the Bird, and a strongly disturbed massive
+  galaxy just south of it, while the head of the Bird consists of an irregular galaxy
+  with very active star formation. The wings span a region in space of about 100,000
+  light-years, as much as our own Milky Way. North is up and East is to the left.
+  The image covers about 25 x 25 arcsec.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0755b/L{1}X{2}Y{3}.png
+name: Anatomy of a bird
+ra_hr: 19.241903082576584
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0755b/thumb.jpg
+zoom_level: 0.10157758128000001
+---
+_uuid: 2e46a1be-da30-4c0c-9a5c-62bdec990529
+annotation: '{"channel": "eso", "itemid": "eso0806a", "publishedUTCISO8601": "2008-03-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -36.87755580776965
+description: Part of a filament in the Corona Australis molecular cloud. The image
+  is a composite of J-, H-, and K-band near-infrared observations that were made with
+  the SOFI instrument on ESO&#x27;s NTT telescope in August 2006. The observations
+  were made to test, how easily the scattered light can be observed and how good it
+  is as a tracer of cloud structure. The J-, H-, and K-band intensities are coded
+  with blue, green, and red colours. The gradual saturation of the near-infrared bands
+  is visible as a change of colour. In diffuse regions the shorter wavelength J-band
+  is strong and the colour is bluish. When the J-band saturates the colour changes
+  first to green and finally, in the centre of the filament, the red colour corresponding
+  to the K-band becomes the strongest. In the most saturated regions the surface brightness
+  data can only be used to derive a lower limit for the total amount of dust on the
+  line of sight.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0806a/L{1}X{2}Y{3}.png
+name: A dark filament in scattered light
+ra_hr: 19.014150665394546
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0806a/thumb.jpg
+zoom_level: 0.85624162390593
+---
+_uuid: 90ac32c6-b03e-4cba-ad1a-755e81f6b643
+annotation: '{"channel": "eso", "itemid": "eso0938a", "publishedUTCISO8601": "2009-10-14T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -14.79708547888206
+description: Astronomers obtained this portrait of Barnard’s Galaxy using the Wide
+  Field Imager attached to the 2.2-metre MPG/ESO telescope at ESO’s La Silla Observatory
+  in northern Chile. Also known as NGC 6822, this dwarf irregular galaxy is one of
+  the Milky Way’s galactic neighbours. The dwarf galaxy has no shortage of stellar
+  splendour and pyrotechnics. Reddish nebulae in this image reveal regions of active
+  star formation, wherein young, hot stars heat up nearby gas clouds. Also prominent
+  in the upper left of this new image is a striking bubble-shaped nebula. At the nebula’s
+  centre, a clutch of massive, scorching stars send waves of matter smashing into
+  surrounding interstellar material, generating a glowing structure that appears ring-like
+  from our perspective. Other similar ripples of heated matter thrown out by feisty
+  young stars are dotted across Barnard’s Galaxy.   The image was made from data obtained
+  through four different filters (B, V, R, and H-alpha). The field of view is 35 x
+  34 arcmin.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0938a/L{1}X{2}Y{3}.png
+name: Barnard's Galaxy
+ra_hr: 19.748518268434363
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0938a/thumb.jpg
+zoom_level: 3.9563594706959995
+---
+_uuid: fb270347-72bc-4fbc-9cb9-e82f5551b76e
+annotation: '{"channel": "eso", "itemid": "eso0938b", "publishedUTCISO8601": "2010-07-30T17:07:25+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -14.789138460859135
+description: This image is a colour composite made from exposures from the Digitized  Sky
+  Survey 2 (DSS2). The field of view is approximatelly 2.9 x 2.9 degrees.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0938b/L{1}X{2}Y{3}.png
+name: Digitized sky survey image of the galaxy NGC 6822
+ra_hr: 19.74934890419032
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0938b/thumb.jpg
+zoom_level: 30.357254990735996
+---
+_uuid: 0f6b01dd-0478-49dc-970c-33bf3743ce06
+annotation: '{"channel": "eso", "itemid": "eso1027a", "publishedUTCISO8601": "2010-06-30T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -36.97404975732432
+description: 'The nearby star-forming region around the star R Coronae Australis imaged
+  by the Wide Field Imager (WFI) on the MPG/ESO 2.2-metre telescope at ESO’s La Silla
+  Observatory in Chile. This picture, which covers a field of 33.7 x 31.9 arcminutes
+  (about the diameter of the full Moon), is a combination of twelve CCD frames, 67
+  megapixels each, taken through B, V and R filters, with four exposures of five minutes
+  each. This image is available as a mounted image in the ESOshop. #L'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1027a/L{1}X{2}Y{3}.png
+name: The R Coronae Australis region imaged with the Wide Field Imager at La Silla*
+ra_hr: 19.03249073944808
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1027a/thumb.jpg
+zoom_level: 5.778493944941999
+---
+_uuid: a5b370b8-fc80-4a9b-ae7e-1f6289be0f62
+annotation: '{"channel": "eso", "itemid": "eso1109a", "publishedUTCISO8601": "2011-03-16T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.005470461562915
+description: This very detailed enhanced-colour image from ESO’s Very Large Telescope
+  shows the dramatic effects of very young stars on the dust and gas from which they
+  were born in the star-forming region NGC 6729. The baby stars are invisible in this
+  picture, being hidden behind dust clouds at the upper left of the picture, but material
+  they are ejecting is crashing into the surroundings at speeds of that can be as
+  high as one million kilometres per hour. This picture was taken by the FORS1 instrument
+  and records the scene in the light of glowing hydrogen and sulphur.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso1109a/L{1}X{2}Y{3}.png
+name: Close-up of the drama of star formation
+ra_hr: 19.02628974296768
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso1109a/thumb.jpg
+zoom_level: 1.22192096256
+---
+_uuid: 15b9a85c-98d3-44b4-a629-634b073ac095
+annotation: '{"channel": "eso", "itemid": "eso9821a", "publishedUTCISO8601": "1998-06-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -30.964103347941094
+description: This image was obtained in the early morning of June 6, 1998. It shows
+  the central part of the southern globular cluster Messier 55  (or NGC 6809) in the
+  constellation Sagittarius. The exposure lasted 30 seconds and was made with the
+  VLT Test Camera  through an optical filtre isolating mostly red light (570 - 700
+  nm). It is here shown exactly as it was obtained (&quot;raw image&quot;), without
+  any image processing . The brightness level in the reproduction has been set so
+  that the fainter stars are well visible. The field shown is 83 x 83 arcsec; each
+  pixel measures 0.0455 arcsec.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9821a/L{1}X{2}Y{3}.png
+name: The VLT sharpens its view
+ra_hr: 19.66644635169855
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9821a/thumb.jpg
+zoom_level: 0.2268627312452256
+---
+_uuid: 25f7f50c-a971-48ae-9e5d-53cd47bf4d39
+annotation: '{"channel": "eso", "itemid": "eso9846a", "publishedUTCISO8601": "1998-10-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.71797133393217
+description: The Dumbbell Nebula ­— also known as Messier 27 or NGC 6853 — is a typical
+  planetary nebula and is located in the constellation Vulpecula (The Fox). The distance
+  is rather uncertain, but is believed to be around 1,200 light-years. It was first
+  described by the French astronomer and comet hunter Charles Messier who found it
+  in 1764 and included it as no. 27 in his famous list of extended sky objects [2]
+  .Despite its class, the Dumbbell Nebula has nothing to do with planets. It consists
+  of very rarified gas that has been ejected from the hot central star (well visible
+  on this photo), now in one of the last evolutionary stages. The gas atoms in the
+  nebula are excited (heated) by the intense ultraviolet radiation from this star
+  and emit strongly at specific wavelengths.This image is the beautiful by-product
+  of a technical test of some FORS1 narrow-band optical interference filtres. They
+  only allow light in a small wavelength range to pass and are used to isolate emissions
+  from particular atoms and ions. In this three-colour composite, a short exposure
+  was first made through a wide-band filtre registering blue light from the nebula.
+  It was then combined with exposures through two interference filtres in the light
+  of double-ionized oxygen atoms and atomic hydrogen. They were colour-coded as “blue”,
+  “green” and “red”, respectively, and then combined to produce this picture that
+  shows the structure of the nebula in “approximately true” colours.They are three-colour
+  composite based on two interference ([OIII] at 501 nm and 6 nm FWHM — 5 min exposure
+  time; H-alpha at 656 nm and 6 nm FWHM — 5 min) and one broadband (Bessell B at 429 nm
+  and 88 nm FWHM; 30 sec) filtre images, obtained on September 28, 1998, during mediocre
+  seeing conditions (0.8 arcsec). The CCD camera has 2048 x 2048 pixels, each covering
+  24 x 24 µm and the sky fields shown measure 6.8 x 6.8 arcminutes and 3.5 x 3.9 arcminutes,
+  respectively. North is up; East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9846a/L{1}X{2}Y{3}.png
+name: The Dumbbell Nebula
+ra_hr: 19.99339064517643
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9846a/thumb.jpg
+zoom_level: 1.158780303216
+---
+_uuid: 81c87d3d-4745-4c19-9515-2c33b1ff6720
+annotation: '{"channel": "eso", "itemid": "eso9846b", "publishedUTCISO8601": "1998-10-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.720632158923234
+description: The Dumbbell Nebula -- also known as Messier 27 or NGC 6853 -- is a typical
+  planetary nebula and is located in the constellation Vulpecula (The Fox). The distance
+  is rather uncertain, but is believed to be around 1200 light-years. It was first
+  described by the French astronomer and comet hunter Charles Messier who found it
+  in 1764 and included it as no. 27 in his famous list of extended sky objects. Despite
+  its class, the Dumbbell Nebula has nothing to do with planets. It consists of very
+  rarefied gas that has been ejected from the hot central star, now in one of the
+  last evolutionary stages. The gas atoms in the nebula are excited (heated) by the
+  intense ultraviolet radiation from this star and emit strongly at specific wavelengths.
+  In this image only light from a small wavelength range was allowed to pass and so
+  was used to isolate emissions from particular atoms and ions. The image shows the
+  intricate structure in the central part of the nebula. They are three-colour composite
+  based on two interference ([OIII] at 501 nm and 6 nm FWHM - 5 min exposure time;
+  H-alpha at 656 nm and 6 nm FWHM - 5 min) and one broadband (Bessell B at 429 nm
+  and 88 nm FWHM; 30 sec) filtre images, obtained on September 28, 1998, during mediocre
+  seeing conditions (0.8 arcsec). The CCD camera has 2048 x 2048 pix, each covering
+  24 x 24 µm and the sky fields shown measure 6.8 x 6.8 arcmin and 3.5 x 3.9 arcmin,
+  respectively. North is up; East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9846b/L{1}X{2}Y{3}.png
+name: The Dumbbell Nebula
+ra_hr: 19.993397307878265
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9846b/thumb.jpg
+zoom_level: 0.6470477923756894
+---
+_uuid: fc264465-ac49-4bfd-9df9-7510189de7b7
+annotation: '{"channel": "eso", "itemid": "eso9847b", "publishedUTCISO8601": "1998-10-15T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -52.84547366976027
+description: The image was obtained before the explosion of supernova SN 1998bw. Image
+  obtained using ESO 1-m Schmidt Telescope; 15 May 1985; 120-min exposure in red light.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9847b/L{1}X{2}Y{3}.png
+name: A strange Supernova with a gamma-ray burst
+ra_hr: 19.58425511883421
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9847b/thumb.jpg
+zoom_level: 0.5997704698412295
+---
+_uuid: f4b4825f-bcce-4f98-8a19-36dbf46b8452
+annotation: '{"channel": "eso", "itemid": "m55-3point6-m_copy", "publishedUTCISO8601":
+  "2009-12-03T23:19:36+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -30.933219404335293
+description: Globular cluster Messier 55 (M55, or NGC 6809) in the constellation Sagittarius,
+  as imaged by the ESO 3.6-metre telescope on La Silla.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/m55-3point6-m_copy/L{1}X{2}Y{3}.png
+name: Messier 55 (M55) globular cluster
+ra_hr: 19.66568687479853
+thumbnail: http://data1.wwtassets.org/feeds/eso/m55-3point6-m_copy/thumb.jpg
+zoom_level: 7.014852319103999
+---
+_uuid: e87b43ed-1e4f-48db-8437-909cee6c79be
+annotation: '{"channel": "eso", "itemid": "potw1621a", "publishedUTCISO8601": "2016-05-23T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -54.53839072101195
+description: 'Using 39 of the 66 antennas of the Atacama Large Millimeter/submillimeter
+  Array (ALMA), located 5000 metres up on the Chajnantor plateau in the Chilean Andes,
+  astronomers have been able to detect carbon monoxide (CO) in the disc of debris
+  around an F-type star. Although carbon monoxide is the second most common molecule
+  in the interstellar medium, after molecular hydrogen, this is the first time that
+  CO has been detected around a star of this type. The star, named HD 181327, is a
+  member of the Beta Pictoris moving group, located almost 170 light-years from Earth.
+  Until now, the presence of CO has been detected only around a few A-type stars, substantially more
+  massive and luminous than HD 181327. Using the superb spatial resolution and sensitivity
+  offered by the ALMA observatory astronomers were now able to capture this stunning
+  ring of smoke and map the density of the CO within the disc. The study of debris
+  discs is one way to characterise planetary systems and the results of planet formation.
+  The CO gas is found to be co-located with the dust grains in the ring of debris
+  and to have been produced recently. Destructive collisions of icy planetesimals
+  in the disc are possible sources for the continuous replenishment of the CO gas.
+  Collisions in debris discs typically require the icy bodies to be gravitationally  perturbed
+  by larger objects in order to reach sufficient collisional velocities. Moreover,
+  the derived CO composition of the icy planetesimals in the disc is consistent with
+  the comets in our Solar System. This possible  secondary origin for the CO gas suggests
+  that icy comets could be common around stars similar to our Sun which has strong  implications
+  for life suitability in terrestrial exoplanets. The results were published in the
+  journal Monthly Notices of the Royal Astronomical Society under the title “Exocometary
+  gas in the HD 181327 debris ring” by S. Marino et al. Link:  Paper by Marino et
+  al. '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1621a/L{1}X{2}Y{3}.png
+name: New insights into debris discs
+ra_hr: 19.383053647709755
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1621a/thumb.jpg
+zoom_level: 0.021501112370843997
+---
+_uuid: 97537f34-f001-403a-972d-8f41c3c4b35f
+annotation: '{"channel": "eso", "itemid": "potw1711b", "publishedUTCISO8601": "2017-03-13T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -14.797274281173053
+description: 'This image is a composite of older observations made with the Wide Field
+  Imager attached to the 2.2-metre MPG/ESO telescope at ESO’s La Silla Observatory
+  and new data collected by the Atacama Large Millimeter/submillimeter Array (ALMA).
+  The observations by ALMA reveal the structure of star-forming gas clouds in unprecedented
+  resolution. Links:  ALMA Peers into the Hearts of Stellar Nurseries ALMA observes
+  clouds in NGC 6822 Barnard’s galaxy seen with the 2.2-metre MPG/ESO telescope '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1711b/L{1}X{2}Y{3}.png
+name: Star forming gas clouds in NGC 6822
+ra_hr: 19.748508289161837
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1711b/thumb.jpg
+zoom_level: 4.367653347467203
+---
+_uuid: 7ab8afc5-c7d6-4c59-be14-9727fb3cc7de
+annotation: '{"channel": "eso", "itemid": "potw1805a", "publishedUTCISO8601": "2018-01-29T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -17.682667571498413
+description: '  Squint or you’ll miss it! At the very centre of this image, taken
+  with the VIMOS instrument attached to ESO’s Very Large Telescope (VLT), you can
+  just about see the faint and fuzzy blue form of a distant galaxy known as the Sagittarius
+  Dwarf Irregular Galaxy.  Discovered in 1977 with the ESO 1-metre Schmidt telescope,
+  situated at ESO’s La Silla observatory, the irregularly shaped — hence the name
+  — dwarf galaxy is approximately 3 million light-years away in the constellation
+  of Sagittarius (The Archer). It is the most distant member of the Local Group of
+  galaxies, of which the Milky Way is a member. Unlike normal galaxies, dwarf galaxies
+  are typically smaller and host a relatively small number of stars. Gravitational
+  tugs from nearby galaxies can often distort the spherical and disc-like shapes of
+  these fragile galaxies — this very process may be responsible for the slightly rectangular
+  shape of this particular dwarf galaxy.Acknowledgement: M. Bellazzini et al. '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1805a/L{1}X{2}Y{3}.png
+name: A diamond in the rough
+ra_hr: 19.499979719030144
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1805a/thumb.jpg
+zoom_level: 3.433122196083459
+---
+_uuid: 6fca737f-c6cf-4fde-a8cc-73040eafc98c
+annotation: '{"channel": "eso", "itemid": "potw1841a", "publishedUTCISO8601": "2018-10-08T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 27.312638955530698
+description: 'This object is possibly the oldest of its kind ever catalogued: the
+  hourglass-shaped remnant named CK Vulpeculae. Originally thought to be a nova, classifying
+  this unusually shaped object correctly has proven challenging over the years. A
+  number of possible explanations for its origins have been considered and discarded.
+  It is now thought to be the result of two stars colliding — although there is still
+  debate about what type of stars they were. CK Vulpeculae was first spotted on 20
+  June 1670 by French monk and astronomer Père Dom Anthelme. When it first appeared
+  it was easily visible with the naked eye; over the subsequent two years the flare
+  varied in brightness and disappeared and reappeared twice, before finally vanishing
+  from view for good. During the twentieth century, astronomers came to understand
+  that most novae could be explained by the runaway explosive behaviour and interactions
+  between two close stars in a binary system. The features seen around CK Vulpeculae
+  didn’t seem to fit this model particularly well,however, puzzling astronomers for
+  many years. The central part of the remnant has now been studied in detail using
+  the Atacama Large Millimeter/submillimeter Array (ALMA). This striking image shows
+  the best view of the object to date, and traces the cosmic dust and emission within
+  and around CK Vulpeculae to reveal its intricate structure. CK Vulpeculae harbours
+  a warped dusty disc at its centre and gaseous jets which indicate some central system
+  propelling material outwards. These new observations are the first to bring this
+  system into focus, suggesting a solution to a 348 year-old mystery.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1841a/L{1}X{2}Y{3}.png
+name: Through the Hourglass
+ra_hr: 19.793908714448822
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1841a/thumb.jpg
+zoom_level: 0.030649951673294807
+---
+_uuid: f16f2885-38ca-4d50-bb06-ed326cbaf163
+annotation: '{"channel": "eso", "itemid": "potw1928a", "publishedUTCISO8601": "2019-07-15T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 4.9827020639960615
+description: This is SS 433, a microquasar first discovered forty years ago and located
+  about 18 000 light-years away in the constellation of Aquila (The Eagle). This image,
+  captured for the very first time at submillimeter wavelengths by the Atacama Large
+  Millimeter/submillimeter Array (ALMA), is special because it shows the jets emitted
+  by a hot, swirling disc of material encircling the black hole at SS 433’s centre.
+  Owing to its relative proximity, SS 433 is a particularly useful object for researchers
+  looking to learn more about microquasars and the jets they emit. The corkscrew shape
+  visible here is created by a phenomenon known as precession; as they move outwards
+  through space, these two jets are slowly tumbling around an axis in a similar way
+  to the motion of a gyroscope or a spinning top slowing down, the orientation of
+  their rotational axes changing as they do so. The scale of this corkscrew is enormous,
+  at 5000 times the size of the Solar System. One remarkable aspect of this observation
+  is that its detailed shape was entirely predicted from spectroscopic measurements
+  by the Global Jet Watch telescopes in the preceding year before the ALMA observations
+  were made. The sequence of these observations allowed researchers to make and test
+  predictions about the paths the jets would take, representing a new milestone in
+  the study of microquasars. The observations have also resolved the question of why
+  the jets are still hot at such great distances from their origin — ALMA’s sensitivity
+  enabled researchers to identify that reheating of the plasma occurs when successive
+  jet surges expand and collide with one another.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1928a/L{1}X{2}Y{3}.png
+name: A game-changer
+ra_hr: 19.19710152719482
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1928a/thumb.jpg
+zoom_level: 0.01325820362779152
+---
+_uuid: 3f9c6889-d6fc-4c12-a9a1-b7ab9bbaf330
+annotation: '{"channel": "eso", "itemid": "potw2038a", "publishedUTCISO8601": "2020-09-21T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 8.229626504378794
+description: The ongoing large-scale ATOMIUM project is being conducted in collaboration
+  with ALMA, the Atacama Large  Millimeter/submillimeter Array, which is located in
+  Chile and has ESO as a partner.The project set out to map the stellar winds blowing
+  out from around a dozen red giant stars, an ambitious goal made possible thanks
+  to ALMA’s spectacular resolution. These stellar winds — which are sometimes millions
+  of times stronger than those of our Sun — were expected to be spherical, like the
+  parent stars that they are blasted away from.  However, researchers did not observe
+  spherical stellar winds, but something quite different. As seen in the above image
+  — which shows winds around a star called R Aquilae — the team found that in all
+  cases the stellar winds were not spherical, but had different shapes, including
+  some resembling the delicate petals of a rose. The patterns seen in the stellar
+  winds have a striking resemblance to those of planetary nebulae.  The research team,
+  led by Leen Decin at KULeuven, Belgium, proposed that a process known as binary
+  interaction is responsible for the shape of the stellar winds of red giant stars.
+  As the name suggests, binary interaction involves two objects. The theory is that
+  the stellar winds achieve their shape due to the influence of another star, or a
+  giant planet. Stellar winds are the precursors to planetary nebulae, and the apparent
+  similarity in their structures indicates that the physics that shapes stellar winds
+  also shapes planetary nebulae, and hence that binary interaction is the key agent
+  carving out the planetary nebulae morphologies.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw2038a/L{1}X{2}Y{3}.png
+name: Flowers of stellar wind could be due to stellar companions
+ra_hr: 19.106183255721223
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw2038a/thumb.jpg
+zoom_level: 0.061307246161347986
+---
+_uuid: 7ade937e-0610-4c94-a990-d80f71dadc64
+annotation: '{"channel": "eso", "itemid": "potw2130a", "publishedUTCISO8601": "2021-07-26T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -30.825749634932954
+description: Space can be a lonely place. But not so for this quartet of galaxies
+  making up HCG 86 and observed here with ESO’s VLT Survey Telescope (VST). The four
+  galaxies located approximately 270 million light years from Earth in the Sagittarius
+  constellation, are seen from Earth as arranged in triangular shape, with three of
+  them on a straight line and one underneath; the bright objects to the right of the
+  elongated galaxy are not part of the quartet. HCG stands for Hickson Compact Group,
+  and is used to describe groups of four to ten galaxies where members are physically
+  very close to each other. Because of their compactness, such groups are ideal environments
+  to study galactic interactions, which can sometimes lead to galaxies merging with
+  each other.   This image of HCG 86 was taken by a team of astronomers led by Rossella
+  Ragusa of the Istituto Nazionale di Astrofisica in Italy as part of the VST Early-type
+  Galaxy Survey (VEGAS) programme. “With VST we are able to investigate very faint
+  structures in the galaxies&#x27; outskirts, which are the relics of past gravitational
+  interactions and merging events,” says Ragusa. In particular, by mapping the light
+  distribution in and around the group’s galaxies in this study, the team concluded
+  that these faint structures are the leftovers of satellite galaxies gobbled by the
+  group approximately seven billion years ago. Located at ESO’s Paranal Observatory
+  in Chile, the VST is one of the world’s largest survey telescopes, devoted to mapping
+  the sky in visible light wavelengths. 2021 marks the anniversary of its first decade
+  of operation, a period during which it has helped to search for planets outside
+  the Solar System and probe the structure of our galaxy and the wider Universe.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw2130a/L{1}X{2}Y{3}.png
+name: A cosmic quartet
+ra_hr: 19.86646270396459
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw2130a/thumb.jpg
+zoom_level: 1.830034974862663
+---
 _uuid: a55a2eb0-6ec4-4edc-a26e-94f2e533d45a
 angular_size: 0.578195547050016
 annotation: '{"channel": "noirlab", "itemid": "gemini1108a", "publishedUTCISO8601":

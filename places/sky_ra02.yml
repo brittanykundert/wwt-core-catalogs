@@ -1,3 +1,317 @@
+_uuid: b7611a95-1b3f-4a42-bf55-6ccd0c586f9a
+annotation: '{"channel": "eso", "itemid": "eso0438d", "publishedUTCISO8601": "2004-12-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -30.277133135369002
+description: 'It is an almost-true colour composite based on images made with the
+  multi-mode VIMOS instrument on the 8.2-m Melipal (Unit Telescope 3) of ESO&#x27;s
+  Very Large Telescope. Exposures were taken in three different wavebands which were
+  associated to a given colour : R-band (centred around 652 nm; red), V (540 nm; green)
+  and B (456 nm; blue). The images were taken on the night of December 9 to 10, 2004
+  in the presence of the President of the Republic of Chile, M. Ricardo Lagos. The
+  observing conditions were very good (seeing well below 1 arcsec). The total exposure
+  was 2.25 min in R, 3 min in V and 6 min in B. The scale is 0.205 arcsec/pix and
+  the image covers a 7.7 x 6.6 arcmin2 region on the sky. All exposures were taken
+  and pre-processed by ESO Paranal Science Operation astronomers. Additional image
+  processing by Henri Boffin (ESO).'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0438d/L{1}X{2}Y{3}.png
+name: Spiral galaxy NGC 1097
+ra_hr: 2.771690585599425
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0438d/thumb.jpg
+zoom_level: 1.314956654208
+---
+_uuid: d6313a32-77a1-4144-ade5-969906ddfa09
+annotation: '{"channel": "eso", "itemid": "eso0534a", "publishedUTCISO8601": "2005-10-17T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -30.274621107746498
+description: Colour-composite image of the central 5,500 light-years wide region of
+  the spiral galaxy NGC 1097, obtained with the NACO adaptive optics on the VLT. More
+  than 300 star forming regions - white spots in the image - are distributed along
+  a ring of dust and gas in the image. At the centre of the ring there is a bright
+  central source where the active galactic nucleus and its super-massive black hole
+  are located. The image was constructed by stacking J- (blue), H- (green), and Ks-band
+  (red) images. North is up and East is to the left. The field of view is 24 x 29
+  arcsec2, i.e. less than 0.03% the size of the full moon!
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0534a/L{1}X{2}Y{3}.png
+name: The centre of the active galaxy NGC 1097
+ra_hr: 2.7719269224488814
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0534a/thumb.jpg
+zoom_level: 0.08137966878
+---
+_uuid: f4c24518-ab04-4d39-bdb7-1b4b0b4c9686
+annotation: '{"channel": "eso", "itemid": "eso0627a", "publishedUTCISO8601": "2006-07-26T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.23408466429496
+description: 'NGC 908, located 65 million light-years towards the constellation of
+  Cetus (the Whale). This spiral galaxy, discovered in 1786 by William Herschel, is
+  a so-called starburst galaxy, that is, a galaxy undergoing a phase where it spawns
+  stars at a frantic rate. Clusters of young and massive stars can be seen in the
+  spiral arms. Two supernovae, the explosions of massive stars, have been recorded
+  in the near past: one in 1994 and another in May of this year. The galaxy, which
+  is about 75 000 light-years long, also clearly presents uneven and thick spiral
+  arms, the one on the left appearing to go upwards, forming a kind of ribbon. These
+  properties indicate that NGC 908 most probably suffered a close encounter with another
+  galaxy, even though none is visible at present.Data obtained with FORS2 on ESO&#x27;s
+  Very Large Telescope in the night of 13 to 14 August 2000, using images through
+  B, V, and R filters, for a total exposure time of 4 minutes only. North is up and
+  East is to the left. The data were extracted from the ESO Science Archive and further
+  processed by Henri Boffin (ESO).'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0627a/L{1}X{2}Y{3}.png
+name: The starburst galaxy NGC 908
+ra_hr: 2.384971078445727
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0627a/thumb.jpg
+zoom_level: 0.93506052357
+---
+_uuid: c4b420f1-912f-4410-8471-4f593c31da2d
+annotation: '{"channel": "eso", "itemid": "eso0809a", "publishedUTCISO8601": "2008-04-15T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -50.90389401746917
+description: 'Using HARPS on the ESO 3.6-metre telescope at La Silla, astronomers
+  were able to study in great detail the star Iota Horologii, known to harbour a giant
+  planet, and make a very precise portrait of it: its temperature is 6150 K, its mass
+  is 1.25 times that of the Sun, and its age is 625 million years. Moreover, the star
+  is found to be more metal-rich than the Sun by about 50%. This means the star must
+  have drifted from the Hyades cluster where it formed.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso0809a/L{1}X{2}Y{3}.png
+name: The planet-host star Iota Horologii
+ra_hr: 2.698681482110662
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso0809a/thumb.jpg
+zoom_level: 6.869234108064591
+---
+_uuid: a3cb0f3c-4f94-4a75-9b9c-c2977b16b0c4
+annotation: '{"channel": "eso", "itemid": "eso2110e", "publishedUTCISO8601": "2021-07-16T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.49898894869906774
+description: This image, taken with the Multi-Unit Spectroscopic Explorer (MUSE) on
+  ESO’s Very Large Telescope (VLT), shows the nearby galaxy NGC 1087. NGC 1087 is
+  a spiral galaxy located approximately 80 million light-years from Earth in the constellation
+  of Cetus. The image is a combination of observations conducted at different wavelengths
+  of light to map stellar populations and warm gas. The golden glows mainly correspond
+  to clouds of ionised hydrogen, oxygen and sulphur gas, marking the presence of newly
+  born stars, while the bluish regions in the background reveal the distribution of
+  slightly older stars.  The image was taken as part of the Physics at High Angular
+  resolution in Nearby GalaxieS (PHANGS) project, which is making high-resolution
+  observations of nearby galaxies with telescopes operating across the electromagnetic
+  spectrum.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2110e/L{1}X{2}Y{3}.png
+name: NGC 1087 as seen with MUSE on ESO’s VLT at several wavelengths of light
+ra_hr: 2.7736525402644725
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2110e/thumb.jpg
+zoom_level: 0.3375902872681752
+---
+_uuid: ec488ea2-390d-453b-ac80-291f04f9e8d2
+annotation: '{"channel": "eso", "itemid": "eso2110j", "publishedUTCISO8601": "2021-07-16T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.49898894869906774
+description: This image of the nearby galaxy NGC 1087 was obtained by combining observations
+  taken with the Multi-Unit Spectroscopic Explorer (MUSE) on ESO’s Very Large Telescope
+  (VLT) and with the Atacama Large Millimeter/submillimeter Array (ALMA), in which
+  ESO is a partner. NGC 1087 is a spiral galaxy located approximately 80 million light-years
+  from Earth in the constellation Cetus. The image is a combination of observations
+  conducted at different wavelengths of light to map stellar populations and gas.
+  ALMA’s observations are represented in brownish-orange tones and highlight the clouds
+  of cold molecular gas that provide the raw material from which stars form. The MUSE
+  data show up mainly in gold and blue. The bright golden glows map warm clouds of
+  mainly ionised hydrogen, oxygen and sulphur gas, marking the presence of newly born
+  stars, while the bluish regions reveal the distribution of slightly older stars.
+  The image was taken as part of the Physics at High Angular resolution in Nearby
+  GalaxieS (PHANGS) project, which is making high-resolution observations of nearby
+  galaxies with telescopes operating across the electromagnetic spectrum.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2110j/L{1}X{2}Y{3}.png
+name: NGC 1087 as seen with the VLT and ALMA at several wavelengths of light
+ra_hr: 2.7736525402644725
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2110j/thumb.jpg
+zoom_level: 0.3375902872681752
+---
+_uuid: e8712433-9389-4983-a81c-ee143a129bf8
+annotation: '{"channel": "eso", "itemid": "eso9805d", "publishedUTCISO8601": "1998-01-29T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -1.5768310755117625
+description: This is a J band image (1.25 micron) of the galaxy cluster Abell 370
+  (A370; redshift z = 0.375), obtained in &#x27;jitter&#x27; mode, showing the famous
+  gravitational arc just below the centre. The observations consisted of 24 exposures
+  of 2 min each, made on randomly generated telescope positions within a sky region
+  of 30 x 30 arcsec. The individual exposures have been sky subtracted using a running
+  average determined from the same data and then re-centred and combined.  The scale
+  is 0.29 arcsec/pixel; the field is about 5 x 5 arcmin with North at the top and
+  East to the left. The seeing was less optimal, about 1.2 arcsec. A J = 22 mag point
+  source yields a signal-to-noise ratio of 4 within a 3 arcsec diameter aperture.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9805d/L{1}X{2}Y{3}.png
+name: Galaxy cluster Abell 370
+ra_hr: 2.664697731238181
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9805d/thumb.jpg
+zoom_level: 0.8342372702340001
+---
+_uuid: 34752376-f7c9-4589-8412-787345a35933
+annotation: '{"channel": "eso", "itemid": "eso9857c", "publishedUTCISO8601": "1998-11-26T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -1.5685256221682669
+description: This is a composite colour image of the Abell 370 cluster of galaxies.
+  The light of a very distant object is deformed by the foreground cluster. Abell
+  370, at the center of the photo, contains a large number of galaxies — most of them
+  are ellipticals. The two brightest red galaxies slightly above the gravitational
+  arc are the most massive in the cluster and give an important contribution to the
+  lensing event.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso9857c/L{1}X{2}Y{3}.png
+name: Galaxy cluster Abell 370
+ra_hr: 2.664851157728444
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso9857c/thumb.jpg
+zoom_level: 0.5846857521119999
+---
+_uuid: 645c313a-efdd-4265-8e64-e7e13078d62d
+annotation: '{"channel": "eso", "itemid": "potw1009a", "publishedUTCISO8601": "2010-03-01T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -1.1567940512808137
+description: Glowing in the cosmos at a distance of about 50 million light-years away,
+  the galaxy NGC 936 bears a striking resemblance to the Twin Ion Engine (TIE) starfighters
+  used by the evil Dark Lord Darth Vader and his crew in the epic motion picture Star
+  Wars. The galaxy’s shiny bulge and a bar-like structure crossing it bring to mind
+  the central engine and cockpit of the spacecraft; while a ring of stars surrounding
+  the galactic core completes the parallel, corresponding to the wings of the TIE
+  fighters that are equipped with solar panels. This galaxy harbours exclusively old
+  stars and shows no sign of any recent star formation. Bars such as that observed
+  in NGC 936 are common features of galaxies; however, this one is significantly more
+  marked than average. Although a perfect symbol for the dark side of the “Force”,
+  it is still debatable whether this galaxy is dominated, like most others, by a large
+  amount of dark matter. This image has been obtained using the FORS instrument mounted
+  on one of the 8.2-metre telescopes of ESO’s Very Large Telescope on top of Cerro
+  Paranal, Chile. It combines data acquired through four wide-band filters (B, V,
+  R, I). The field of view is about 7 arcminutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1009a/L{1}X{2}Y{3}.png
+name: Darth Vader’s galaxy, NGC 936
+ra_hr: 2.460782490313113
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1009a/thumb.jpg
+zoom_level: 1.1444115767615999
+---
+_uuid: 7be1f5e4-bb8d-4cf1-8fb8-30976be68123
+annotation: '{"channel": "eso", "itemid": "potw1128a", "publishedUTCISO8601": "2011-07-11T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -30.27656807471445
+description: 'Two galaxies, about 50 million light-years away, are locked in a galactic
+  embrace — literally. The Seyfert galaxy NGC 1097, in the constellation of Fornax
+  (The Furnace), is seen in this image taken with the VIMOS instrument on ESO’s Very
+  Large Telescope (VLT). A comparatively tiny elliptical companion galaxy, NGC 1097A,
+  is also visible in the top left. There is evidence that NGC 1097 and NGC 1097A have
+  been interacting in the recent past. Although NGC 1097 seems to be wrapping its
+  companion in its spiral arms, this is no gentle motherly giant. The larger galaxy
+  also has four faint jets — too extended and faint to be seen in this image — that
+  emerge from its centre, forming an X-shaped pattern, and which are the longest visible-wavelength
+  jets of any known galaxy. The jets are thought to be the remnants of a dwarf galaxy
+  that was disrupted and cannibalised by the much larger NGC 1097 up to a few billion
+  years ago. These unusual jets are not the galaxy’s only intriguing feature. As previously
+  mentioned, NGC 1097 is a Seyfert galaxy, meaning that it contains a supermassive
+  black hole in its centre. However, the core of NGC 1097 is relatively faint, suggesting
+  that the central black hole is not currently swallowing large quantities of gas
+  and stars. Instead, the most striking feature of the galaxy’s centre is the ring
+  of bright knots surrounding the nucleus. These knots are thought to be large bubbles
+  of glowing hydrogen gas about 750–2500 light-years across, ionised by the intense
+  ultraviolet light of young stars, and they indicate that the ring is a site of vigorous
+  star formation With this distinctive central star-forming ring, and the addition
+  of numerous bluish clusters of hot, young stars dotted through its spiral arms,
+  NGC 1097 makes a stunning visual object. The data were originally taken in 2004
+  (see eso0438) with the VIMOS instrument on the VLT, and additional colour information
+  from an image taken by amateur astronomer Robert Gendler has been superimposed.
+  The VLT data were taken through three visible-light filters: R (at a wavelength
+  of 652 nanometres, and shown here in red), V (a wavelength of 540 nanometres, shown
+  in green), and B (456 nanometres, shown in blue). The image covers a region of approximately
+  7.7 x 6.6 arcminutes on the sky.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1128a/L{1}X{2}Y{3}.png
+name: A galactic embrace
+ra_hr: 2.7716522234490526
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1128a/thumb.jpg
+zoom_level: 1.3675857263999998
+---
+_uuid: aee25f9e-a27b-4912-8766-95c2227213a1
+annotation: '{"channel": "eso", "itemid": "potw1332a", "publishedUTCISO8601": "2013-08-12T10:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.10414424843488439
+description: This beautiful image portrays the galaxies NGC 799 (below) and NGC 800
+  (above) located in the constellation of Cetus (The Whale). This pair of galaxies
+  was first observed by the American astronomer Lewis Swift back in 1885. Located
+  at a distance of about 300 million light-years, our face-on view allows us to clearly
+  appreciate their shapes. Like the Milky Way — our galaxy — these objects are both
+  spiral galaxies, with characteristic long arms winding towards a bright bulge at
+  the centre. In the prominent spiral arms, a large number of hot, young, blue stars
+  are forming in clusters (tiny blue dots seen in the image) whereas in the central
+  bulge a large group of cooler, redder, old stars are packed into a compact, almost
+  spherical region. At first glance, these galaxies look rather similar, but the devil
+  is in the detail. Apart from the obvious difference in size, only NGC 799 has a
+  bar structure, extending from its central bulge, and the spiral arms wind out from
+  the ends of the bar. Galactic bars are thought to act as a mechanism that channels
+  gas from the spiral arms to the centre, intensifying star formation. A supernova
+  was also observed in NGC 799 in 2004, and was given the name SN2004dt. Another interesting
+  differentiating feature is the number of spiral arms. The small NGC 800 has three
+  bright, knotty spiral arms, whilst NGC 799 only has two relatively dim, but broad
+  spiral arms. These start at the end of the bar and wrap nearly completely around
+  the galaxy forming a structure that looks almost like a ring. While it might seem
+  that this image depicts two impressive close spiral galaxies coexisting in an everlasting
+  peace, nothing can be further than the truth. We could be just witnessing the calm
+  before the storm. We don’t know exactly what the future will bring, but typically,
+  when two galaxies are close enough, they interact over hundreds of millions of years
+  by means of gravitational disturbances. In some cases, only minor interactions occur,
+  causing shape distortions, but sometimes galaxies collide, merging to form a single,
+  new and larger galaxy. The image was obtained using the FORS1 instrument on the
+  8.2-metre ESO Very Large Telescope (VLT) atop Cerro Paranal, Chile. It combines
+  exposures taken through three filters (B, V, R). Five asteroids can also be seen
+  — can you find them all? The asteroids moved between the different exposures leaving
+  colourful streaks in the image.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1332a/L{1}X{2}Y{3}.png
+name: The calm before the storm
+ra_hr: 2.0368736016728444
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1332a/thumb.jpg
+zoom_level: 1.01319175959
+---
+_uuid: ccea76fa-89c5-4b51-a71c-f3b10ba3a090
+annotation: '{"channel": "eso", "itemid": "potw1605a", "publishedUTCISO8601": "2016-02-01T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -39.04654049871858
+description: This picture of the week shows the spiral galaxy NGC 986 in the constellation
+  of Fornax (The Furnace). The galaxy, which was discovered in 1826 by the Scottish
+  astronomer James Dunlop, is not often imaged due to its proximity to the famous
+  and rich Fornax Cluster of galaxies. Which is a shame, as this galaxy is not only
+  a great scientific object, but also very pretty. The galaxy is about 56 million
+  light-years away and seen almost perfectly from the top, or — as astronomers say
+  — face-on. This allows us to see the two main spiral arms and also a central bar-shaped
+  structure, composed of stars and dust, which makes it a barred spiral galaxy. Astronomical
+  surveys have shown that about two thirds of all spiral galaxies contain a bar, including
+  the Milky Way. This makes NGC 986 the perfect place to study the structure of galaxies
+  and find out more about our own home galaxy, which is difficult to study from within.
+  This view from the FORS instrument on ESO’s Very Large Telescope at the Paranal
+  Observatory in northern Chile comes from the ESO Cosmic Gems programme, an outreach
+  initiative to produce images of interesting, intriguing or visually attractive objects
+  using ESO telescopes, for the purposes of education and public outreach. The programme
+  makes use of telescope time that cannot be used for science observations. All data
+  collected may also be suitable for scientific purposes, and are made available to
+  astronomers through ESO’s science archive.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1605a/L{1}X{2}Y{3}.png
+name: An often ignored beauty
+ra_hr: 2.5594561040024684
+thumbnail: http://data1.wwtassets.org/feeds/eso/potw1605a/thumb.jpg
+zoom_level: 1.230271154127986
+---
 _uuid: b7dc9ce4-e9fb-4597-ac0d-de970b9cda4e
 annotation: '{"channel": "noirlab", "itemid": "gemini0602f", "publishedUTCISO8601":
   "2006-01-04T00:00:00+00:00"}'
