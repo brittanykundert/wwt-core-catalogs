@@ -1,0 +1,30 @@
+browseable: true
+children:
+- imageset http://cdn.worldwidetelescope.org/wwtweb/moontoast.aspx?Q={L},{X},{Y}
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles2.aspx?q={1},{2},{3},messenger2
+- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001121{Q}?g=138
+- imageset http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_base_map
+- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000121{Q}?g=131
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},phobos_mar1kuu2
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},deimos_mar2kuu2
+- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001111{Q}?g=138
+- imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001113{Q}?g=138
+- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001120{Q}?g=138
+- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001112{Q}?g=138
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},mimas_sat1vss2
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},enceladus_sat2vuu2
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},tethys_sat3vss2
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},dione_sat4vss2
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},rhea_sat5vss2
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},iapetus_sat8vss2
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},ariel
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},umbriel
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},titania
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},oberon
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},miranda
+- imageset http://www.worldwidetelescope.org/wwtweb/mandel.aspx?q={1},{2},{3}
+group: Explorer
+name: Planets / Moons
+searchable: false
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=solarsystem
+type: Planet

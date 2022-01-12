@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="planet_rhea_visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="765000"
+    Name="Rhea (Saturn)"
+    Projection="Toast"
+    ReferenceFrame="Rhea"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},rhea_sat5vss2"
+    WidthFactor="1"
+  >
+    <Credits>Caltech/JPL/USGS. The Saturnian moon Rhea, from Voyager mission photographs.</Credits>
+    <CreditsUrl>http://maps.jpl.nasa.gov/saturn.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=rhea</ThumbnailUrl>
+  </ImageSet>
+</Folder>

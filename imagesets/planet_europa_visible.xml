@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="planet_europa_visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="1560800"
+    Name="Europa (Jupiter)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    ReferenceFrame="Europa"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="5"
+    Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001113{Q}?g=138"
+    WidthFactor="1"
+  >
+    <Credits>Image Courtesy NASA/JPL/Space Science Institute. </Credits>
+    <CreditsUrl>http://astrogeology.usgs.gov/Projects/JupiterSatellites/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=europa</ThumbnailUrl>
+  </ImageSet>
+</Folder>

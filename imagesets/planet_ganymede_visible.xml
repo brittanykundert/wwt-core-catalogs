@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="planet_ganymede_visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="2631000"
+    Name="Ganymede (Jupiter)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    ReferenceFrame="Ganymede"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="5"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001120{Q}?g=138"
+    WidthFactor="1"
+  >
+    <Credits>Image Courtesy NASA/JPL/Space Science Institute</Credits>
+    <CreditsUrl>http://astrogeology.usgs.gov/Projects/JupiterSatellites/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=ganymede</ThumbnailUrl>
+  </ImageSet>
+</Folder>

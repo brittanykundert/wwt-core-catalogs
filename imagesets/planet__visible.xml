@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="planet__visible"
+  Searchable="True"
+>
+  <ImageSet
+    AltUrl="http://wwt.nasa.gov/wwt/p/mars_base_map/{1}/{2}/{3}.png"
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    DemUrl="http://cdn.worldwidetelescope.org/wwtweb/demmars.aspx?q={0},{1},{2}"
+    ElevationModel="True"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="3396000"
+    Name="Visible Imagery"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="8"
+    Url="http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_base_map"
+    WidthFactor="2"
+  >
+    <Credits>NASA / USGS / Malin Space Science Systems / JPL</Credits>
+    <CreditsUrl>http://marsprogram.jpl.nasa.gov/mro/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mars_color</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Venus"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="5"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001121{Q}?g=138"
+    WidthFactor="1"
+  >
+    <Credits>Image Courtesy NASA/JPL/Space Science Institute</Credits>
+    <CreditsUrl>http://photojournal.jpl.nasa.gov/catalog/PIA00256</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=venus</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="1"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".jpg"
+    Generic="False"
+    Name="Mandelbrot (Sphere)"
+    Projection="Equirectangular"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="26"
+    Url="http://www.worldwidetelescope.org/wwtweb/mandel.aspx?q={1},{2},{3}"
+    WidthFactor="1"
+  >
+    <Credits>Mandelbrot Fractal Dynamically Generated</Credits>
+    <CreditsUrl>http://en.wikipedia.org/wiki/Mandelbrot_set</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mandelbrot</ThumbnailUrl>
+  </ImageSet>
+</Folder>

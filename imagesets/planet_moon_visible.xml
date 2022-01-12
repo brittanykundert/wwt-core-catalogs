@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="planet_moon_visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    DemUrl="http://cdn.worldwidetelescope.org/wwtweb/moontoastdem.aspx?Q={L},{X},{Y}"
+    ElevationModel="True"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="1738000"
+    Name="Moon"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    ReferenceFrame="Moon"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="10"
+    Url="http://cdn.worldwidetelescope.org/wwtweb/moontoast.aspx?Q={L},{X},{Y}"
+    WidthFactor="1"
+  >
+    <Credits>Image Courtesy NASA/JPL</Credits>
+    <CreditsUrl>http://photojournal.jpl.nasa.gov/targetFamily/Moon</CreditsUrl>
+    <ThumbnailUrl>http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=moon</ThumbnailUrl>
+  </ImageSet>
+</Folder>

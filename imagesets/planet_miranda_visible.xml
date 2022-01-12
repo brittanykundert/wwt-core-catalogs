@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="planet_miranda_visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="235800"
+    Name="Miranda (Uranus)"
+    Projection="Toast"
+    ReferenceFrame="Miranda"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},miranda"
+    WidthFactor="1"
+  >
+    <Credits>Caltech/JPL/USGS. Most of the Southern Hemisphere of the Uranian moon Miranda, from Voyager mission photographs.</Credits>
+    <CreditsUrl>http://maps.jpl.nasa.gov/uranus.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=miranda</ThumbnailUrl>
+  </ImageSet>
+</Folder>

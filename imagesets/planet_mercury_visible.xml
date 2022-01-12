@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="planet_mercury_visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="2440000"
+    Name="Mercury"
+    Projection="Toast"
+    ReferenceFrame="Mercury"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="8"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles2.aspx?q={1},{2},{3},messenger2"
+    WidthFactor="1"
+  >
+    <Credits> NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington</Credits>
+    <CreditsUrl>http://messenger.jhuapl.edu/index.php</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mercury</ThumbnailUrl>
+  </ImageSet>
+</Folder>
