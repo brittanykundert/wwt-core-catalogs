@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="earth__visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="1"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Earth"
+    ElevationModel="True"
+    FileType=".png"
+    Generic="False"
+    Name="Open Street Maps Bike Map"
+    Projection="Mercator"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="18"
+    Url="http://a.tile.opencyclemap.org/cycle/{L}/{X}/{Y}.png"
+    WidthFactor="1"
+  >
+    <Credits>Map data Copyright OpenStreetMap contributors, CC BY-SA</Credits>
+    <CreditsUrl>http://www.openstreetmap.org/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=bm200407</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="1"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Earth"
+    ElevationModel="True"
+    FileType=".png"
+    Generic="False"
+    Name="Open Street Maps"
+    Projection="Mercator"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="18"
+    Url="http://a.tile.openstreetmap.org/{L}/{X}/{Y}.png"
+    WidthFactor="1"
+  >
+    <Credits>Map data Copyright OpenStreetMap contributors, CC BY-SA</Credits>
+    <CreditsUrl>http://www.openstreetmap.org/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=bm200407</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="1"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Earth"
+    ElevationModel="True"
+    FileType=".jpeg"
+    Generic="False"
+    Name="Bing Maps Aerial"
+    Projection="Mercator"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    StockSet="True"
+    TileLevels="20"
+    Url="http://a{0}.ortho.tiles.virtualearth.net/tiles/a{1}.jpeg?g=16"
+    WidthFactor="1"
+  >
+    <Credits>Bing Maps Copyright Microsoft Corp. and Suppliers</Credits>
+    <CreditsUrl>http://maps.live.com/help/en-us/About.htm</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=earth</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="1"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Earth"
+    ElevationModel="True"
+    FileType=".jpeg"
+    Generic="False"
+    Name="Bing Maps Hybrid"
+    Projection="Mercator"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="20"
+    Url="http://h{0}.ortho.tiles.virtualearth.net/tiles/h{1}.jpeg?g=16"
+    WidthFactor="1"
+  >
+    <Credits>Bing Maps Copyright Microsoft Corp. and Suppliers</Credits>
+    <CreditsUrl>http://maps.live.com/help/en-us/About.htm</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=earthhybrid</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="1"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Earth"
+    ElevationModel="True"
+    FileType=".png"
+    Generic="False"
+    Name="Bing Maps Streets"
+    Projection="Mercator"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="20"
+    Url="http://r{0}.ortho.tiles.virtualearth.net/tiles/r{1}.png?g=77&amp;shading=hill"
+    WidthFactor="1"
+  >
+    <Credits>Bing Maps Copyright Microsoft Corp. and Suppliers</Credits>
+    <CreditsUrl>http://maps.live.com/help/en-us/About.htm</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=earthstreets</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Earth"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Blue Marble January 2004"
+    Projection="Toast"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="7"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},bm200401"
+    WidthFactor="1"
+  >
+    <Credits>Blue Marble Next Generation, January 2004. Visible Earth Project, NASA.</Credits>
+    <CreditsUrl>http://visibleearth.nasa.gov/view_detail.php?id=7100</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=bm200401</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Earth"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Blue Marble July 2004"
+    Projection="Toast"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="7"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},bm200407"
+    WidthFactor="1"
+  >
+    <Credits>Blue Marble Next Generation, July 2004. Visible Earth Project, NASA.</Credits>
+    <CreditsUrl>http://visibleearth.nasa.gov/view_detail.php?id=7106</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=bm200407</ThumbnailUrl>
+  </ImageSet>
+</Folder>

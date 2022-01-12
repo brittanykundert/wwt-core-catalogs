@@ -1,0 +1,16 @@
+browseable: true
+children:
+- imageset http://a{0}.ortho.tiles.virtualearth.net/tiles/a{1}.jpeg?g=16
+- imageset http://h{0}.ortho.tiles.virtualearth.net/tiles/h{1}.jpeg?g=16
+- imageset http://r{0}.ortho.tiles.virtualearth.net/tiles/r{1}.png?g=77&shading=hill
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},EarthAtNight2012
+- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000211{Q}?g=131
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},bm200401
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},bm200407
+- imageset http://a.tile.openstreetmap.org/{L}/{X}/{Y}.png
+- imageset http://a.tile.opencyclemap.org/cycle/{L}/{X}/{Y}.png
+group: Explorer
+name: Earth
+searchable: false
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=earthhybrid
+type: Earth

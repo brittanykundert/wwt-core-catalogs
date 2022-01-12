@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="earth_earth_visiblenight"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="VisibleNight"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="1"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Earth"
+    ElevationModel="False"
+    FileType=".jpg"
+    Generic="False"
+    MeanRadius="6371000"
+    Name="Earth at Night 2012"
+    Projection="Equirectangular"
+    ReferenceFrame="Earth"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="9"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},EarthAtNight2012"
+    WidthFactor="2"
+  >
+    <Credits>NASA Earth Observatory/NOAA NGDC</Credits>
+    <CreditsUrl>http://www.nasa.gov/mission_pages/NPP/news/earth-at-night.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=earthatnight</ThumbnailUrl>
+  </ImageSet>
+</Folder>
