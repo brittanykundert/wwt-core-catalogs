@@ -1,3 +1,212 @@
+_uuid: 6412442b-c6c4-4049-91f2-69fb0471ab15
+annotation: '{"channel": "noirlab", "itemid": "gemini0502b", "publishedUTCISO8601":
+  "2005-01-10T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -32.87087265530447
+description: The interacting galaxy pair NGC 1532 and NGC 1531 were imaged using the
+  Gemini Multi-Object Spectrograph (GMOS) at Gemini South in Chile on December 5,
+  2004. This view reveals spectacular details in the galactic pair embraced in a fiery
+  waltz. The larger galaxy (NGC 1532) is a spiral, and from our point of view within
+  the Milky Way it is seen as nearly edge-on. Intense reddish star-forming regions
+  spatter the edges of the dusty arms silhouetted in the foreground against the galactic
+  disk. The three-dimensional nature of the galaxy is revealed by the background spiral
+  arms dimmed by intervening gas and dust. The smaller of the galactic pair (NGC 1531)
+  is dwarfed by its larger companion in much the same fashion as the Large Magellanic
+  Cloud is by our Milky Way. Hints of interaction between these two galaxies are seen
+  in at least two stray associations of stars and glowing red clumps of hydrogen gas.
+  A warp in a background spiral arm of NGC 1532 and a possible bridge of matter that
+  connect the pair suggest continued influences between the two galaxies. This pair
+  is located about 55 million light-years away toward the southern constellation of
+  Eridanus. It is part of a larger group that includes at least one other dwarf galaxy
+  outside the field of this image. The mass of NGC 1532 is estimated to be slightly
+  greater than that of our Milky Way.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0502b/L{1}X{2}Y{3}.png
+name: Galactic Waltz NGC 1532-31
+ra_hr: 4.201147637000777
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0502b/thumb.jpg
+zoom_level: 0.791056261554661
+---
+_uuid: f9407987-de90-4a9a-86e8-94545aa0aef6
+annotation: '{"channel": "noirlab", "itemid": "iotw2110a", "publishedUTCISO8601":
+  "2021-03-10T13:26:03+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -39.18597970075966
+description: The blackness of space is punctuated by bright dots. This image could
+  almost be mistaken for a particularly detailed shot of the night sky as seen from
+  Earth, full of stars. Appearances, however, can be deceptive. This image was taken
+  from Earthʻs southern hemisphere, but the bright dots are not stars — they are galaxies.
+  In fact, the distinctive, ring-shaped galaxy on the right is LEDA 14884. This image
+  was built up using data from the Dark Energy Survey, an ambitious project which
+  mapped hundreds of millions of galaxies across the Universe. This was done using
+  the Dark Energy Camera (DECam), an instrument built by the Department of Energy
+  and mounted at the Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American
+  Observatory (CTIO), a Program of NSF’s NOIRLab.  Looking at this incredible image,
+  with its thousands of wildly diverse galaxies, it is mind-boggling to recall that
+  only about 100 years ago, most astronomers believed that our Milky Way was the only
+  galaxy in existence. It was not until 1925 that Edwin Hubble, building upon the
+  work of Henrietta Leavitt and Ejnar Hertzsprung, proved that the Andromeda Galaxy
+  must lie beyond the Milky Way, and humanity began to recognize the sheer scope of
+  the Universe.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/iotw2110a/L{1}X{2}Y{3}.png
+name: A Sky Full of Galaxies
+ra_hr: 4.331985320458468
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/iotw2110a/thumb.jpg
+zoom_level: 1.2716514846995497
+---
+_uuid: 0722289a-8a26-4b63-9a20-fded533e502d
+angular_size: 2.2032
+annotation: '{"channel": "noirlab", "itemid": "noao-j0403-43_crop1", "publishedUTCISO8601":
+  "2006-07-11T10:27:15+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.3448122412268
+description: 'Gas-rich galaxies display a wide range of structures and properties,
+  but one thing they all seem to have are some newly formed stars. Images from the
+  Survey for Ionization in Neutral Gas Galaxies (SINGG), an NOAO Survey Program (obtained
+  with the CTIO 1.5m telescope), are designed to highlight areas of star formation
+  in gas rich galaxies. This image shows a strong interaction between the barred spiral
+  NGC1512 and its Blue Compact Dwarf (BCD) companion, NGC1510. Star formation in NGC1512
+  is concentrated into two rings; the inner one has the strength of a starburst. Surprisingly
+  star formation is even stronger in the BCD NGC1510, which can be seen to the lower
+  right of NGC1512. This pair ilustrate how galaxy interactions are able to trigger
+  starbursts. The image is displayed so that stars have a cyan-blue appearance, while
+  ionized hydrogen (H-alpha) emission appears orange-red to yellow. The H-alpha emission
+  marks where the gas in the galaxies has been stripped of electrons, and is now recombining.
+  It takes very hot O stars to ionize the gas; these stars have very short lifetimes
+  (a few million years). As a result, red tones in these images typically mark the
+  location of newly formed hot stars. Gerhardt Meurer of The Johns Hopkins University,
+  Baltimore, MD, is the principal investigator for SINGG. For more information, see:
+  http://sungg.pha.jhu.edu/'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-j0403-43_crop1/L{1}X{2}Y{3}.png
+name: NGC 1512/10, SINGG Survey
+ra_hr: 4.0652103334495
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-j0403-43_crop1/thumb.jpg
+zoom_level: 2.2032
+---
+_uuid: eb200bed-0e90-4650-9605-ca28e0e9fede
+annotation: '{"channel": "noirlab", "itemid": "noao-lbn777", "publishedUTCISO8601":
+  "2020-06-30T21:34:05+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 26.402336558916986
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. LBN 777 is a
+  portion of the large cloud of dust and gas known as the Taurus Molecular Cloud.
+  The brownish color is caused by large dust grains embedded in the gas. The dust
+  reflects the light of the stars inside and near the nebula. The image was generated
+  with observations in B (blue), V (green) and I (red) filters. In this image, North
+  is down, East is to the right.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-lbn777/L{1}X{2}Y{3}.png
+name: Baby Eagle Nebula, LBN 777
+ra_hr: 4.07193874100157
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-lbn777/thumb.jpg
+zoom_level: 5.250641759999999
+---
+_uuid: 5b0945e8-f779-4e77-9967-c552974ec01e
+annotation: '{"channel": "noirlab", "itemid": "noao-n11lmc", "publishedUTCISO8601":
+  "2004-07-16T19:12:19+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -66.45372951514159
+description: An image of N11 in the Large Magellanic Cloud, taken with the Curtis
+  Schmidt telescope at Cerro Tololo Inter-American Observatory (CTIO) as part of the
+  Magellanic Clouds Emission-Line Survey (MCELS). This color image was produced using
+  three separate exposures taken in hydrogen, sulfur and oxygen bandpasses. It was
+  used to support the July 2004 release by the Hubble Heritage project.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-n11lmc/L{1}X{2}Y{3}.png
+name: N11 in the Large Magellanic Cloud
+ra_hr: 4.944377056334657
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-n11lmc/thumb.jpg
+zoom_level: 5.4783792
+---
+_uuid: 82150d39-32ec-42f0-89bd-8a200f8fad41
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc1532-31", "publishedUTCISO8601":
+  "2020-06-30T21:33:56+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -32.87239510161571
+description: The interacting galaxy pair NGC1532 and NGC1531 were imaged using the
+  Gemini Multi-Object Spectrograph (GMOS) at Gemini South in Chile on December 5,
+  2004. This view reveals spectacular details in the galactic pair embraced in a fiery
+  waltz. The larger galaxy (NGC1532) is a spiral, and from our point of view within
+  the Milky Way it is seen as nearly edge-on. Intense reddish star-forming regions
+  spatter the edges of the dusty arms silhouetted in the foreground against the galactic
+  disk. The three-dimensional nature of the galaxy is revealed by the background spiral
+  arms dimmed by intervening gas and dust. The smaller of the galactic pair (NGC1531)
+  is dwarfed by its larger companion in much the same fashion as the Large Magellanic
+  Cloud is by our Milky Way. Hints of interaction between these two galaxies are seen
+  in at least two stray associations of stars and glowing red clumps of hydrogen gas.
+  A warp in a background spiral arm of NGC1532 and a possible bridge of matter that
+  connect the pair suggest continued influences between the two galaxies. This pair
+  is located about 55 million light-years away toward the southern constellation of
+  Eridanus. It is part of a larger group that includes at least one other dwarf galaxy
+  outside the field of this image. The mass of NGC1532 is estimated to be slightly
+  greater than that of our Milky Way.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc1532-31/L{1}X{2}Y{3}.png
+name: Interacting galaxy Pair NGC 1532 and NGC 1531
+ra_hr: 4.201056992044998
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc1532-31/thumb.jpg
+zoom_level: 0.8405727877239032
+---
+_uuid: ba1af27a-6efb-4463-897c-7f4772ef3767
+angular_size: -5.908364280000001
+annotation: '{"channel": "noirlab", "itemid": "noao-ttau", "publishedUTCISO8601":
+  "2020-06-30T21:34:12+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 19.5334633199608
+description: T Tauri is a famous variable star in the constellation of Taurus. In
+  this image, it is the star at the center of the image, embedded in dust and gas.
+  The nebula itself is known as NGC 1555. T Tauri is the prototype for a class of
+  stars (known collectively as &quot;T Tau stars&quot;) that are notable because they
+  are very young stars in the process of forming. These stars have just recently emerged
+  from the dense dust and gas &quot;cocoons&quot; from which they formed.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ttau/L{1}X{2}Y{3}.png
+name: T Tauri in NGC 1555
+ra_hr: 4.36707489459565
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ttau/thumb.jpg
+zoom_level: 3.80210671835669
+---
+_uuid: 2699a4a9-b545-4f32-8aab-487e7cbff2c7
+angular_size: 53.1815621936593
+annotation: '{"channel": "noirlab", "itemid": "noirlab2018e", "publishedUTCISO8601":
+  "2020-08-04T13:18:29+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 15.580832234503042
+description: Wide-field view of the Hyades star cluster created from images forming
+  part of the Digitized Sky Survey 2.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2018e/L{1}X{2}Y{3}.png
+name: The Hyades star cluster
+ra_hr: 4.475567807049053
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2018e/thumb.jpg
+zoom_level: 53.1815621936593
+---
+_uuid: 1d568c45-edfd-4c90-a3d6-5868aa354e94
+angular_size: 1.855418322511555
+annotation: '{"channel": "noirlab", "itemid": "noirlab2018l", "publishedUTCISO8601":
+  "2020-08-04T13:18:29+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 15.248416524210736
+description: Close-up of exoplanet K2-25b’s host star K2-25.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2018l/L{1}X{2}Y{3}.png
+name: Close-up of K2-25
+ra_hr: 4.218133391384576
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2018l/thumb.jpg
+zoom_level: 1.855418322511555
+---
 _uuid: db0b944b-82c3-4329-80ff-ee71eae981cf
 angular_size: 1.0
 classification: ClusterOfGalaxies

@@ -1,3 +1,477 @@
+_uuid: 6b9b0ea3-688d-47b4-8af9-a9944bb428fa
+annotation: '{"channel": "noirlab", "itemid": "gemini-ngc7232-final", "publishedUTCISO8601":
+  "2020-08-30T05:51:13+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -45.826320010128704
+description: 'This image shows an interacting trio of galaxies known as the Lyon Group
+  of Galaxies #455 (LGG 455). It is made up of the galaxies NGC 7232 (upper right),
+  NGC 7233 (lower right), and NGC 7232B (left). The two brightest objects near the
+  center of the image are foreground stars in our Milky Way. Dark lanes of dusty material
+  can be seen in NGC 7232 and NGC 7233, while NGC 7232B shows bright spots of young,
+  blue stars along its weak spiral arms. LGG 455 has not been studied in great detail,
+  but it is thought to host a &#x27;dark galaxy&#x27;, a rare object that contains
+  the raw ingredients for making stars but which hasn&#x27;t been able to form any.
+  Even though the dark galaxy in LGG 455 contains enough gas to make more than 400
+  million Suns, the deep image by Gemini is not able to find any significant population
+  of stars (just to the left of the lower foreground star in this image). Most likely,
+  that huge amount of gas was flung out of NGC 7233 when it had a close encounter
+  with one of its two companions.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini-ngc7232-final/L{1}X{2}Y{3}.png
+name: NGC 7232/3
+ra_hr: 22.26348914456027
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini-ngc7232-final/thumb.jpg
+zoom_level: 0.8620965799596221
+---
+_uuid: 11b6443a-6d95-498f-9665-08a053d2d80f
+annotation: '{"channel": "noirlab", "itemid": "gemini0604b", "publishedUTCISO8601":
+  "2006-01-04T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -41.068791201158255
+description: The Galaxy NGC 7424 as imaged with the Gemini South Mulit-object Spectrograph.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0604b/L{1}X{2}Y{3}.png
+name: NGC 7424
+ra_hr: 22.955997584275774
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0604b/thumb.jpg
+zoom_level: 0.926880031085788
+---
+_uuid: 7594c9ef-d341-46f5-8cb8-cf98ab66ba33
+annotation: '{"channel": "noirlab", "itemid": "gemini1006b", "publishedUTCISO8601":
+  "2010-05-12T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -59.94637947441538
+description: Central region of Abell 3827 as imaged using the Gemini Multi-Object
+  Spectrograph on the Gemini South telescope in Chile. The central supermassive galaxy
+  (ESO 146-IG 005) is clearly visible among its cluster companions as well as the
+  remains of at least four nuclei that are being “digested” by the large galaxy. The
+  central galaxy is thought to be the most massive galaxy in our local universe (out
+  to about 1.5 billion light years). The field of view of this image is approximately
+  5 x 5 arcminutes and is a color composite made from g-, r- and i-band images combined
+  and processed by Travis Rector (University of Alaska Anchorage).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini1006b/L{1}X{2}Y{3}.png
+name: Abell 3827
+ra_hr: 22.03124619077222
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini1006b/thumb.jpg
+zoom_level: 0.702115532684051
+---
+_uuid: 0767ea49-2bee-4239-b845-fce297f4a297
+angular_size: 0.6929786480849567
+annotation: '{"channel": "noirlab", "itemid": "geminiann04014a", "publishedUTCISO8601":
+  "2004-10-09T05:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 33.95977717537862
+description: 'Stephan&#x27;s Quintet as imaged by the Gemini Observatory using the
+  Multi-Object Spectrograph on Gemini North. The interacting members of the cluster
+  are almost 300 million light years away. The galaxy NGC 7320 (top–center) is thought
+  by most astronomers to be in the foreground (about 8 times closer) and is distinguished
+  in this image by multiple red blobs indicating hydrogen clouds where stars are forming.
+  See Image Release for details Technical Details: AcquisitionDate(s): August 12,
+  2004 Telescope: Gemini North, Mauna Kea Hawai&#x27;i Instrument: GMOS (Gemini Multi-Object
+  Spectrograph) Field of View: 4.86 x 4.07 arcminutes Orientation: North=bottom, East=Right'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/geminiann04014a/L{1}X{2}Y{3}.png
+name: Stephan's Quintet as imaged by the Gemini North
+ra_hr: 22.60023029282074
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/geminiann04014a/thumb.jpg
+zoom_level: 0.6929786480849567
+---
+_uuid: e8e807d5-52f0-4e45-9bc1-6db98fd82d6c
+angular_size: 0.482188313253648
+annotation: '{"channel": "noirlab", "itemid": "geminiann12015a", "publishedUTCISO8601":
+  "2012-11-30T16:30:27+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -9.463340095270711
+description: CFHT color image, taken in g,r, and i filters, of J2240. The very strong
+  [OIII] emission leads to the peculiar green color of the galaxy near the center
+  of the field. In this object the ultra-luminous narrow-line region (NLR) is as large
+  as the entire object, 130,000 light-years across. The object is located some 3.7
+  billion light-years distant and the galactic nucleus doesn’t appear very active
+  in the image, contradicting the high [OIII] luminosity discussed in this story.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/geminiann12015a/L{1}X{2}Y{3}.png
+name: The Green Bean galaxy J2240
+ra_hr: 22.673435736671962
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/geminiann12015a/thumb.jpg
+zoom_level: 0.482188313253648
+---
+_uuid: 6bd2de74-0c08-4af0-a528-dd10f9e8d665
+angular_size: 0.3757464880674
+annotation: '{"channel": "noirlab", "itemid": "iotw2113a", "publishedUTCISO8601":
+  "2021-03-31T16:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 56.17365129249575
+description: This gorgeous image resembles an inky patch of space that has been smudged
+  by a giant celestial thumbprint. Actually the object is a planetary nebula named
+  PN M 2-53. It was imaged using the Gemini North telescope of the international Gemini
+  Observatory, a Program of NSF’s NOIRLab. Planetary nebulae have a wildly misleading
+  name, as they have nothing to do with planets — or even exoplanets. The misnomer
+  originates from the late 1700s, when astronomers thought that the gaseous structures
+  resembled planets. Planetary nebulae are actually formed by some dying stars, right
+  at the end of their lives. The layers of gas and dust shed by the dying stars are
+  lit by their remaining cores, creating a planetary nebula. Despite its inaccuracy,
+  the name has stuck!
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/iotw2113a/L{1}X{2}Y{3}.png
+name: Not a Planet
+ra_hr: 22.53834751125582
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/iotw2113a/thumb.jpg
+zoom_level: 0.3757464880674
+---
+_uuid: 6449117b-7ca9-4443-aaca-91c650a418e0
+annotation: '{"channel": "noirlab", "itemid": "noao-02179", "publishedUTCISO8601":
+  "2020-06-30T21:34:04+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -20.821965701676433
+description: The Helix Nebula, NGC7293, in the constellation Aquarius, as seen by
+  the Kitt Peak 4-meter Mayall telescope in 1973. NGC7293 is about a light-year across
+  and, at a distance of about 500 light-years, it is the closest known planetary nebula.
+  North is at the top.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02179/L{1}X{2}Y{3}.png
+name: The Helix Nebula, NGC 7293
+ra_hr: 22.494989624314353
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02179/thumb.jpg
+zoom_level: 4.60224
+---
+_uuid: f1a306df-ba99-4526-82aa-84597e4d525a
+annotation: '{"channel": "noirlab", "itemid": "noao-02325", "publishedUTCISO8601":
+  "2020-06-30T21:33:59.995136+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 34.41516598739748
+description: NGC7331, a type Sb spiral galaxy in the constellation Pegasus, is about
+  30000 light-years across and is located some 50 million light-years from Earth.
+  KPNO 4-meter Mayall telescope, 1975.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02325/L{1}X{2}Y{3}.png
+name: NGC 7331 in Pegasus
+ra_hr: 22.61826478261888
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02325/thumb.jpg
+zoom_level: 2.14965
+---
+_uuid: 0a447788-a9b7-4221-ba4a-632502ba13ce
+annotation: '{"channel": "noirlab", "itemid": "noao-02347", "publishedUTCISO8601":
+  "2020-06-30T21:34:01+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 33.96127255188912
+description: Stephan&#x27;s Quintet, as its name implies, is a group of five galaxies
+  (NGC7317, 7318A, 7318B, 7319 and 7320) in the constellation Pegasus. This unusual
+  system has often been used as proof that the redshift is not truly a distance indicator,
+  which would completely overturn current cosmology, because although four of the
+  galaxies have similar, large redshifts, the fifth (NGC7320), although apparently
+  a member of the group, shows a much smaller redshift. Conventional theory states
+  that the low-redshift galaxy is in a nearby group (the NGC7331 group) and by coincidence
+  appears on the sky projected against a distant background group. Opponents point
+  to debris and tails around the low-redshift galaxy, suggesting that it is interacting
+  with the high-redshift systems, which would require that all five galaxies be at
+  the same physical location in space. See also our color picture from the 0.9-meter.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02347/L{1}X{2}Y{3}.png
+name: Stephan's Quintet (NGC 7317, NGC 7318A, NGC 7318B, NGC 7319, NGC 7320)
+ra_hr: 22.599546964843572
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02347/thumb.jpg
+zoom_level: 0.7268371214714245
+---
+_uuid: d44207b5-3c31-4713-9cef-6d825d4d7569
+annotation: '{"channel": "noirlab", "itemid": "noao-hgc92", "publishedUTCISO8601":
+  "2020-06-30T21:34:01+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 33.96057429383309
+description: Stephan’s Quintet as imaged by the Gemini Observatory using the Multi-Object
+  Spectrograph on Gemini North. The interacting members of the cluster are almost
+  300 million light years away. The galaxy NGC7320 (top-center) is thought by most
+  astronomers to be in the foreground (about 8-times closer) and is distinguished
+  in this image by multiple red blobs indicating hydrogen clouds where stars are forming.
+  See also the Gemini Image Release.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-hgc92/L{1}X{2}Y{3}.png
+name: NGC 7320 Stephan’s Quintet
+ra_hr: 22.600251168080394
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-hgc92/thumb.jpg
+zoom_level: 0.693368002110168
+---
+_uuid: b162e7f0-0c73-48df-a97e-a41137ee295d
+angular_size: 2.7273817798892943
+annotation: '{"channel": "noirlab", "itemid": "noao-lbn438", "publishedUTCISO8601":
+  "2020-06-30T21:34:05+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 37.78050646515935
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. LBN 438 is a
+  dusty nebula within our galaxy. Despite being part of the Lynds Bright Nebula catalog
+  it is very faint. This is the largest fragment of the nebula. There are many smaller
+  fragments outside the field of view. The image was generated with observations in
+  the B (blue), V (green) and I (orange) filters. In this image, North is left, East
+  is down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-lbn438/L{1}X{2}Y{3}.png
+name: Dusty Nebula, LBN 438
+ra_hr: 22.686510510129665
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-lbn438/thumb.jpg
+zoom_level: 2.7273817798892943
+---
+_uuid: d4407db8-fcdf-4454-bf36-7df2285b492f
+angular_size: 1.3166873999999997
+annotation: '{"channel": "noirlab", "itemid": "noao-n7332", "publishedUTCISO8601":
+  "2020-06-30T21:34:00.064920+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 23.796520862761437
+description: This pair of galaxies is in the constellation Pegasus. A dynamically
+  isolated binary system (number 570 in the catalog of double galaxies compiled by
+  Igor Karachentsev), NGC7332 and 7339 are too far apart for obvious interaction (such
+  as tails and streamers), although they are almost certainly orbiting around each
+  other.  NGC7332 is the brighter galaxy to the right (west) of the image. It shows
+  evidence of partial dust lanes, has an extended envelope and possesses a compressed,
+  bright, box-like central bulge. It is classified S0(pec), being an intermediate
+  lenticular galaxy, and its peculiar tag refers to the unusual box-like shape of
+  the central region (sometimes called peanut-shaped).  The accompanying NGC7339 is
+  seen edge-on and is thought to be of type Sbc (a mixed spiral), but its orientation
+  makes it hard to classify exactly. It is also somewhat dimmer than its companion,
+  although at a distance of about sixty million light-years, neither is visible to
+  the naked eye.  Receding from us at over eight hundred miles per second, they are
+  orbiting each other at about sixty miles per second. This isn&#x27;t as fast as
+  it sounds for galaxies which are about a million trillion miles across.  This image
+  is a combination of observations made with the Kitt Peak National Observatory&#x27;s
+  0.9-meter telescope in November of 1998.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-n7332/L{1}X{2}Y{3}.png
+name: NGC 7332/7339
+ra_hr: 22.62671504988583
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-n7332/thumb.jpg
+zoom_level: 1.3166873999999997
+---
+_uuid: 99444c98-340f-4cb3-8d80-1a706c28549b
+angular_size: 6.153721200000001
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc7380", "publishedUTCISO8601":
+  "2020-06-30T21:34:10+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 58.047182286237444
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. Informally known
+  as the “Wizard Nebula”, NGC 7380 is an open cluster of stars still embedded in the
+  nebula out of which it formed. The stars are estimated to be about 4 million years
+  old. The cluster is about 8000 light years away. The image was generated with observations
+  in the Hydrogen alpha (red), Oxygen [OIII] (blue) and Sulfur [SII] (orange) filters.
+  In this image, North is left, East is down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc7380/L{1}X{2}Y{3}.png
+name: Wizard Nebula, NGC 7380
+ra_hr: 22.792555530399127
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc7380/thumb.jpg
+zoom_level: 6.153721200000001
+---
+_uuid: d22fae06-0a67-48ee-8dbd-612e6251d8f3
+annotation: '{"channel": "noirlab", "itemid": "noao-q2237", "publishedUTCISO8601":
+  "2020-06-30T21:34:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 3.3585952265608325
+description: This picture of the gravitationally lensed quasar Q2237+0305 and the
+  associated lensing spiral galaxy was taken by the 3.5-meter WIYN telescope, on the
+  night of October 4, 1999. This system is also known as Huchra&#x27;s Lens, after
+  its discoverer, and the Einstein Cross, because it is such an excellent example
+  of the phenomenon of gravitational lensing, postulated by Einstein as soon as he
+  realised that gravity would be able to bend light and thus could have lens-like
+  effects. The four separate appearances of the same redshift 1.7 quasar are created
+  by the redshift 0.04 galaxy whose nucleus is nicely bracketed by the quasar images.
+  It might seem surprising that such a close alignment exists, with a galaxy exactly
+  along the line of sight from Earth to a distant quasar, but one should remember
+  that the Universe is large enough that unlikely things happen really quite often.
+  This is an especially important example of a gravitational lens, because the close
+  alignment of the galaxy nucleus and the quasar mean that the four images undergo
+  color and brightness variations with a time scale of only a day or so. These changes
+  can be modelled theoretically and easily monitored observationally. This is a two-color
+  picture combining red and green images, using careful processing both to reveal
+  the strongly blue nature of the quasar, as compared to the galaxy, and to show simultaneously
+  the very bright quasar images and the very faint structure of the lensing galaxy.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-q2237/L{1}X{2}Y{3}.png
+name: Einstein Cross
+ra_hr: 22.67503921665493
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-q2237/thumb.jpg
+zoom_level: 0.19127566392783119
+---
+_uuid: e11b6a75-69b9-48df-82f2-9e86cf91d93a
+angular_size: 1.543872
+annotation: '{"channel": "noirlab", "itemid": "noao-sq2", "publishedUTCISO8601": "2020-06-30T21:34:01+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 33.965138637586996
+description: Stephan&#x27;s Quintet, as its name implies, is a group of five galaxies
+  (NGC7317, 7318A, 7318B, 7319 and 7320) in the constellation Pegasus. This unusual
+  system has often been used as proof that the redshift is not truly a distance indicator,
+  which would completely overturn current cosmology, because although four of the
+  galaxies have similar, large redshifts, the fifth (NGC7320), although apparently
+  a member of the group, shows a much smaller redshift. Conventional theory states
+  that the low-redshift galaxy is in a nearby group (the NGC7331 group) and by coincidence
+  appears on the sky projected against a distant background group. Opponents point
+  to debris and tails around the low-redshift galaxy, suggesting that it is interacting
+  with the high-redshift systems, which would require that all five galaxies be at
+  the same physical location in space. Note that this picture includes a sixth nearby
+  galaxy with similar redshift to the four high-redshift members of the group.he components
+  are identified in this picture by their NGC number, with their redshift in kilometers
+  per second given underneath each name. This picture was taken at the Kitt Peak National
+  Observatory&#x27;s 0.9-meter telescope in October of 1998 by Nigel Sharp. North
+  is up, east is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-sq2/L{1}X{2}Y{3}.png
+name: Stephan's Quintet (NGC 7317, NGC 7318A, NGC 7318B, NGC 7319, NGC 7320)
+ra_hr: 22.60074060238071
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-sq2/thumb.jpg
+zoom_level: 1.543872
+---
+_uuid: c4196f16-a22f-424a-b791-970406a9a970
+annotation: '{"channel": "noirlab", "itemid": "noao-vdb152", "publishedUTCISO8601":
+  "2020-06-30T21:34:13+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 70.31743484767293
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. Also known as
+  Barnard 175, vdB 152 is a reflection nebula atop of a dark Bok globule. Embedded
+  in the top right side of the nebula is the Herbig Haro object HH 450, a jet emitted
+  from a newly forming star. The thin, red filaments in the upper-right corner of
+  the image are the remnants of a supernova explosion. It is not yet clear whether
+  or not the supernova remnant will collide with vdB 152. The image was generated
+  with observations in the B (blue), V (green), I (yellow) and Hydrogen-Alpha (red)
+  filters. In this image, North is down and East is to the right.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-vdb152/L{1}X{2}Y{3}.png
+name: vdB 152, Barnard 175
+ra_hr: 22.233470569955557
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-vdb152/thumb.jpg
+zoom_level: 5.1774322800000006
+---
+_uuid: 17d63e3c-c058-4d1c-8077-8df8493798fd
+annotation: '{"channel": "noirlab", "itemid": "noao0307a", "publishedUTCISO8601":
+  "2003-05-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -20.838807393647926
+description: This composite picture is a seamless blend of nine ultra-sharp images
+  from the Hubble Space Telescope’s Advanced Camera for Surveys with the wide-field
+  view of the Mosaic Camera on the WIYN 0.9-meter telescope at Kitt Peak National
+  Observatory. The image shows a fine web of filamentary “bicycle-spoke” features
+  embedded in the colorful red and blue gas ring, which is one of the nearest planetary
+  nebulae to Earth. One of the largest and most detailed celestial images ever made,
+  the picture was released on May 9, 2003, by the Space Telescope Science Institute
+  and NOAO in honor of Astronomy Day 2003, which took place the following day. The
+  radiant “tie-die” colors of the planetary nebula, located in the constellation Aquarius
+  about 650 light-years distant from Earth, correspond to glowing oxygen (blue) and
+  hydrogen and nitrogen (red).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0307a/L{1}X{2}Y{3}.png
+name: The Helix Nebula, NGC 7293
+ra_hr: 22.494391646165713
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0307a/thumb.jpg
+zoom_level: 4.5296074721472
+---
+_uuid: 0fb6bdad-5d2c-4f12-ae06-af231053c035
+annotation: '{"channel": "noirlab", "itemid": "noao1303a", "publishedUTCISO8601":
+  "2013-04-01T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 62.48510160084454
+description: 'Cep OB 3b is rich young cluster located in the northern constellation
+  of Cepheus. This image was created by combining individual images observed through
+  four different filters on the 0.9 meter telescope at Kitt Peak: blue, visual (cyan),
+  near infrared (orange) and an emission line of hydrogen (red). The brightest yellow
+  star near the center of the image is a foreground star, lying between us and the
+  young cluster. The other bright stars are the massive young stars of the cluster
+  that are heating the gas and dust in the cloud and blowing out cavities. Surrounding
+  these massive cluster stars are thousands of smaller young stars that may be in
+  the process of forming planetary systems.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao1303a/L{1}X{2}Y{3}.png
+name: Rich Young Cluster Cep OB 3b
+ra_hr: 22.930477092496123
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao1303a/thumb.jpg
+zoom_level: 9.65783543737807
+---
+_uuid: 90e2ae36-c5d0-4a8d-8762-bf4e7e980901
+angular_size: -8.383558439086874
+annotation: '{"channel": "noirlab", "itemid": "noirlab2012a", "publishedUTCISO8601":
+  "2020-07-01T13:26:19+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -59.956269525149
+description: Using the Dark Energy Camera at Cerro Tololo Inter-American Observatory,
+  a Program of NSF’s NOIRLab, astronomers are measuring weak gravitational lensing
+  to map the distribution of mass in nearby galaxy clusters. As well as producing
+  remarkable images like this one, the information will shed light on the relationships
+  between the constituent parts of nearby galaxy clusters, such as gas, stellar populations,
+  and dark matter. The galaxy cluster Abell 3827 is the subject of this striking image.
+  In addition to featuring a field of galaxies and foreground stars, the image is
+  overlaid with a map with hues of red, blue and purple. Though they are attractive,
+  these colors aren’t for decoration — they represent the distribution of mass in
+  the heart of Abell 3827 with red showing the largest mass concentration.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2012a/L{1}X{2}Y{3}.png
+name: Striking image shows mass distribution of nearby galaxy cluster
+ra_hr: 22.0357901470836
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2012a/thumb.jpg
+zoom_level: 6.96777006902621
+---
+_uuid: c7089e28-ccea-4cb4-9f28-58db760be8d3
+annotation: '{"channel": "noirlab", "itemid": "noirlab2012b", "publishedUTCISO8601":
+  "2020-06-04T03:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -59.94737056476766
+description: Galaxy clusters are massive conglomerations of hundreds or even thousands
+  of galaxies, bound together by their mutual gravitational attraction.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2012b/L{1}X{2}Y{3}.png
+name: Excerpt of main image with lensing map
+ra_hr: 22.030791046827215
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2012b/thumb.jpg
+zoom_level: 2.135608147864123
+---
+_uuid: 611b589a-3b90-4a56-b020-ee8f44126c25
+angular_size: -8.383558439086874
+annotation: '{"channel": "noirlab", "itemid": "noirlab2012c", "publishedUTCISO8601":
+  "2020-07-01T13:45:46+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -59.956269525149
+description: This image is a snapshot from the Local Volume Complete Cluster Survey
+  (LoVoCCS), a survey program investigating 107 nearby galaxy clusters.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2012c/L{1}X{2}Y{3}.png
+name: Main image without lensing map
+ra_hr: 22.0357901470836
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2012c/thumb.jpg
+zoom_level: 6.96777006902621
+---
+_uuid: 9a9980fa-7eb0-4523-a255-d75af1042058
+annotation: '{"channel": "noirlab", "itemid": "noirlab2012d", "publishedUTCISO8601":
+  "2020-06-04T03:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -59.94737056476766
+description: LoVoCCS takes advantage of an astrophysical phenomenon called weak gravitational
+  lensing to measure the mass and matter distributions of these clusters.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2012d/L{1}X{2}Y{3}.png
+name: Excerpt of main image without lensing map
+ra_hr: 22.030791046827215
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2012d/thumb.jpg
+zoom_level: 2.135608147864123
+---
 _uuid: 73938bf4-fdcc-4740-9c6a-9825bf3a5550
 angular_size: 1.0
 classification: Star

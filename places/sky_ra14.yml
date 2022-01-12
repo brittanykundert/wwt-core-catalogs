@@ -1,3 +1,244 @@
+_uuid: 5f19bb91-bb13-49bc-825d-e027d188dda4
+angular_size: 0.7965477618509601
+annotation: '{"channel": "noirlab", "itemid": "gemini0805a", "publishedUTCISO8601":
+  "2008-06-26T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -6.047301044047289
+description: Gemini South image of NGC 5426-27 (Arp 271) as imaged by the Gemini Multi-Object
+  Spectrograph.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0805a/L{1}X{2}Y{3}.png
+name: Gemini South image of NGC 5426-27 (Arp 271)
+ra_hr: 14.057173703315982
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0805a/thumb.jpg
+zoom_level: 0.7965477618509601
+---
+_uuid: 552d2dfc-4457-41ce-92c2-9808edf657e0
+angular_size: 1.141557293864027
+annotation: '{"channel": "noirlab", "itemid": "noao--m101sy", "publishedUTCISO8601":
+  "2020-06-30T21:33:54+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 54.319259830000625
+description: Image of a southern section of M101, made from a combination of red (R)
+  and almost-infrared (I) bands, displayed using false color.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao--m101sy/L{1}X{2}Y{3}.png
+name: Spiral galaxy M101 (NGC 5457)
+ra_hr: 14.057548529557259
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao--m101sy/thumb.jpg
+zoom_level: 1.141557293864027
+---
+_uuid: 28d389d3-cd03-4b0a-b355-e35d6368b89e
+annotation: '{"channel": "noirlab", "itemid": "noao-02269", "publishedUTCISO8601":
+  "2020-06-30T21:33:54+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 54.35344380268259
+description: The giant pinwheel galaxy, M101, in the constellation Ursa Major. Of
+  type Sc, and quite similar to our own Galaxy, it is seen almost face-on, showing
+  the spiral arms and the intervening dust lanes (dark filaments) with great clarity
+  in this 1975 image from the Kitt Peak 4-meter Mayall telescope. It is about 15 million
+  light-years away.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02269/L{1}X{2}Y{3}.png
+name: M101, NGC 5457
+ra_hr: 14.0527925833188
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02269/thumb.jpg
+zoom_level: 3.1444377128688
+---
+_uuid: 0770043c-254a-4599-ba73-5f84365cfca9
+angular_size: 5.529685199999999
+annotation: '{"channel": "noirlab", "itemid": "noao-02881", "publishedUTCISO8601":
+  "2020-06-30T21:33:54.419609+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 54.3406086692426
+description: The well-known spiral galaxy M101 was imaged by Dr George Jacoby at the
+  Kitt Peak National Observatory&#x27;s 0.9-meter telescope, using the new wide-field
+  imaging system Mosaic. This instrument combines the pictures from eight separate
+  CCD chips, carefully mounted next to each other for a total of 8192 pixels square,
+  and can thus image a large area without sacrificing resolution. M101 (NGC5457) is
+  a type Sc spiral galaxy in the constellation Ursa Major and is quite similar to
+  our own Galaxy.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02881/L{1}X{2}Y{3}.png
+name: M101 Mosaic
+ra_hr: 14.053300403441469
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02881/thumb.jpg
+zoom_level: 5.529685199999999
+---
+_uuid: 10f7cb6f-1ba1-4a09-845b-7e198d7c5859
+angular_size: 2.4437159999999993
+annotation: '{"channel": "noirlab", "itemid": "noao-arp286", "publishedUTCISO8601":
+  "2020-06-30T21:33:46.442089+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 3.9452892902680374
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. Arp 286 consists
+  of three galaxies that are gravitationally interacting. The large spiral galaxy
+  at the center is NGC 5566. Below and to its left is the small, blue spiral galaxy
+  NGC 5569. At the top of the image is the distorted spiral NGC 5560. It is presumably
+  distorted by the gravity of NGC 5569. The image was generated with observations
+  in B (blue), V (green) and I (red) filters. In this image, North is left, East is
+  down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-arp286/L{1}X{2}Y{3}.png
+name: Arp 286 (NGC 5560, 5566 & 5569)
+ra_hr: 14.3395390287221
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-arp286/thumb.jpg
+zoom_level: 2.4437159999999993
+---
+_uuid: 58e66ab3-b214-4af6-9615-677a58969e51
+angular_size: 1.54833552
+annotation: '{"channel": "noirlab", "itemid": "noao-m101sn2011fe", "publishedUTCISO8601":
+  "2020-06-30T21:34:00.884366+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 54.30801000091589
+description: 'This close-up image of the nearby galaxy M101 was obtained with the
+  Mayall 4-meter telescope at Kitt Peak National Observatory. M101 is a spiral galaxy
+  in the constellation Ursa Major and is quite similar to our own Galaxy. It is about
+  20 million light years (6.4 Mpc) away. The supernova is clearly visible as the bright,
+  bluish star in the upper, right portion of the image. It is the closest Type 1a
+  supernova to be observed since 1972. This image was obtained on September 18th,
+  2011, about two weeks after the supernova achieved its peak brightness. This image
+  was created by combining images taken in four filters: B (blue), V (green), I (orange),
+  and Hydrogen-Alpha (red). In the image north is to the left and east is down.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m101sn2011fe/L{1}X{2}Y{3}.png
+name: Supernova SN2011fe in M101
+ra_hr: 14.054249351113839
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m101sn2011fe/thumb.jpg
+zoom_level: 1.54833552
+---
+_uuid: f1ce7814-e235-48a2-a139-36dec34d006c
+annotation: '{"channel": "noirlab", "itemid": "noao-m101ubviha", "publishedUTCISO8601":
+  "2020-06-30T21:33:54.338983+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 54.35172079024524
+description: This image was obtained with the wide-field view of the Mosaic Camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. Informally known
+  as the Pinwheel Galaxy, M101 is a spiral galaxy that is seen face on. It is a galaxy
+  similar to our own galaxy, the Milky Way. It is relatively close by, only about
+  20 million light years away, meaning that we can see detail inside very well. The
+  spiral arms of M101 are filled with numerous regions in which stars are forming
+  (seen as pink clouds of gas). This image was made with the U (violet), B (blue),
+  V (green), I (orange), and Hydrogen alpha (red) filters. In this image, North is
+  to the right and East is up.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m101ubviha/L{1}X{2}Y{3}.png
+name: M101; Pinwheel Galaxy
+ra_hr: 14.05610198787736
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m101ubviha/thumb.jpg
+zoom_level: 5.407543259999999
+---
+_uuid: 5eacc5f1-81ef-40bd-a524-2c5cc9d17899
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc5474", "publishedUTCISO8601":
+  "2020-06-30T21:33:59.071192+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 53.653399981201865
+description: Located in the constellation Ursa Major, NGC 5474 is a dwarf galaxy and
+  nearest companion to the large spiral galaxy M101. Strong gravitational interactions
+  with M101 have distorted the shape of NGC 5474, triggering star formation and offsetting
+  the nucleus of the galaxy from the disk. This image was obtained with the wide-field
+  view of the Mosaic Camera on the Mayall 4-meter telescope at Kitt Peak National
+  Observatory. In the image North is up and East is to the left. Imaged May 30, 2008
+  and February 2, 2010.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc5474/L{1}X{2}Y{3}.png
+name: Dwarf Galaxy NGC 5474
+ra_hr: 14.08369720294446
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc5474/thumb.jpg
+zoom_level: 1.5124070399999998
+---
+_uuid: b2fffc67-52c3-4ccb-9513-cf73db15933d
+annotation: '{"channel": "noirlab", "itemid": "noao0101a", "publishedUTCISO8601":
+  "2001-01-08T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 35.25032590536137
+description: This first release from the NOAO Deep Wide-Field Survey (NDWFS) consists
+  of the optical images in 1.15 x 1.15 degrees (pixel size 0.258 arc seconds) of the
+  Bootes field, one of the two NDWFS sky fields. Covering roughly 7 percent of the
+  total survey area, this region contains approximately 300,000 galaxies and stars.
+  The center of the Bootes field is J143205.7+341647.5. More than five million galaxies
+  and 10 billion years of cosmic evolution are being studied by the NDWFS. This deep
+  optical and infrared imaging survey of 18 square degrees of the sky will enable
+  astronomers to study large-scale structure in the Universe, the formation and evolution
+  of galaxies and quasars, rare stellar populations, and the structure of the Milky
+  Way. The color composite image was generated by Dr. Nigel Sharp and Mark Hanna of
+  NOAO from processed NDWFS images. The region was imaged using the Mayall 4-meter
+  telescope and MOSAIC imager at the National Science Foundation&#x27;s Kitt Peak
+  National Observatory (KPNO) near Tucson, AZ. Buell T. Jannuzi and Arjun Dey of NOAO
+  are co-Principal Investigators for the NDWFS. This image was the subject of a press
+  release during the 197th meeting of the American Astronomical Society held in January
+  2001 (release date January 8, 2001). Warning ! Please note that the full resolution
+  images are enormous !! In order to indicate the quality of the data, three randomly
+  selected 1024x1024 pieces of this image are separately available for download as
+  688kb JPEG files.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0101a/L{1}X{2}Y{3}.png
+name: NOAO Deep Wide-Field Survey (sub-section)
+ra_hr: 14.457260947048674
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0101a/thumb.jpg
+zoom_level: 11.69433020009472
+---
+_uuid: 58a833b7-0d4b-4906-8144-4d711ea71f5a
+annotation: '{"channel": "noirlab", "itemid": "noaoann16001a", "publishedUTCISO8601":
+  "2016-01-08T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 35.139428553262995
+description: Weighing in at 500 trillion times the mass of the Sun, the young galaxy
+  cluster IDCS 1426, located 10 billion light years from Earth, is the most massive
+  distant cluster known. Recently weighed using data from the Chandra X-ray Observatory
+  and the Hubble Space Telescope, it was first identified with data from the NOAO
+  Deep Wide-field Survey and data taken with the Spitzer Space Telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noaoann16001a/L{1}X{2}Y{3}.png
+name: Heavyweight Champion of the Distant Universe
+ra_hr: 14.442371265145912
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noaoann16001a/thumb.jpg
+zoom_level: 0.17761950486266398
+---
+_uuid: b1ae926f-bf6c-4db3-8df4-94c5d05781e4
+annotation: '{"channel": "noirlab", "itemid": "noirlab2014c", "publishedUTCISO8601":
+  "2020-06-24T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -39.98906331864925
+description: A circumstellar disk around star HD 129590 selected from the larger sample
+  of 26 disks obtained with the Gemini South telescope in Chile using the Gemini Planet
+  Imager (GPI).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2014c/L{1}X{2}Y{3}.png
+name: HD 129590
+ra_hr: 14.741932098382636
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2014c/thumb.jpg
+zoom_level: 0.007854767724897361
+---
+_uuid: 58b26144-b41d-49b4-9ca1-861aa5e6fb61
+annotation: '{"channel": "noirlab", "itemid": "noirlab2104e", "publishedUTCISO8601":
+  "2021-01-13T14:30:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 14.688957271858943
+description: An example of a gravitational lens found in the DESI Legacy Surveys data.
+  The four identical blue dots near the center of DESI-220.4549+14.6891 are four images
+  of the same background galaxy (an example of an Einstein cross). The red galaxy
+  at the center is the gravitational lens responsible for creating this mirage.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2104e/L{1}X{2}Y{3}.png
+name: Gravitational lens found in the DESI Legacy Surveys data
+ra_hr: 14.697002436221739
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2104e/thumb.jpg
+zoom_level: 0.37772761844100006
+---
 _uuid: b0b1e513-56d9-438e-8966-382761b05d06
 angular_size: 1.0
 classification: Galaxy

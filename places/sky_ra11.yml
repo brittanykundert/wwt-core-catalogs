@@ -1,3 +1,348 @@
+_uuid: 8689b7d0-df0b-48d0-928a-5325ec9116f8
+annotation: '{"channel": "noirlab", "itemid": "ann21023a", "publishedUTCISO8601":
+  "2021-06-08T10:17:36+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -28.393304953975466
+description: The Dark Energy Camera&#x27;s 1 millionth exposure. At the time of this
+  exposure DECam was making an of a galaxy cluster. The 1 millionth exposure has been
+  combined with 127 earlier exposures to make this view of the field.  This demonstrates
+  the power of DECam and an archive of a million exposures. The biggest galaxy in
+  the field is the face-on spiral galaxy ESO 440-11. Several galaxy clusters, thousands
+  of background galaxies and a few handfuls of foreground Milky Way stars can be seen
+  in this “random” image of the sky.  One of the most powerful digital cameras in
+  the world, the Dark Energy Camera was designed specifically for the Dark Energy
+  Survey (DES). It was funded by the Department of Energy (DOE) and was built and
+  tested at DOE&#x27;s Fermilab.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/ann21023a/L{1}X{2}Y{3}.png
+name: Dark Energy Camera's 1 millionth exposure
+ra_hr: 11.816945003762259
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/ann21023a/thumb.jpg
+zoom_level: 7.646725776923775
+---
+_uuid: 0f422551-bac0-42bb-bc06-9fc668c1a770
+annotation: '{"channel": "noirlab", "itemid": "gemini0901b", "publishedUTCISO8601":
+  "2009-04-01T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -61.31398207325718
+description: 'At the heart of a star-forming region called RCW 57, this image shows
+  the complex interaction of interstellar gas and dark dust clouds among newly formed
+  stars. The glowing gas is energized by ultraviolet radiation from the young stars.
+  The intricate wispy structures in the cloud are formed by radiation from the young
+  stars and the explosions of nearby, very massive stars that have exceptionally short
+  lives compared to stars like our sun. A study by M. Maercker in 2006 revealed that
+  the region is overly abundant with massive star formation with over 33 star-forming
+  regions in the extended area at the end stages of formation. This region of the
+  sky is only visible from observers in the southern hemisphere and is a popular showpiece
+  for small telescopes and binoculars in the far-southern constellation of Carina.
+  The Gemini image was obtained with the Gemini Multi-Object Spectrograph at the Gemini
+  South telescope using two pointings to make a mosaic image that has a field of view
+  of 9.0 x 5.0 arcsminutes. The exposures were taken through three narrowband filters:
+  [OIII] (blue), [SII] (green) and H-alpha (red).'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0901b/L{1}X{2}Y{3}.png
+name: NGC 3582 - The Heart of a Stellar Nursery
+ra_hr: 11.198522987342923
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0901b/thumb.jpg
+zoom_level: 0.84770364
+---
+_uuid: 9fc27c92-e67d-4b94-9fce-510eb0f0d610
+annotation: '{"channel": "noirlab", "itemid": "geminiann10008a", "publishedUTCISO8601":
+  "2010-03-25T16:44:19+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 55.00951645586058
+description: Gemini North image of the planetary nebula M97, also knownas the Owl
+  Nebula, imaged by the Gemini Multi-Object Spectrograph (GMOS) as part of a Canadian
+  contest for high school students. The approximately 6,000year-old nebula is located
+  about 2,600 light-years away, and has a diameter ofabout three light-years across.
+  It is located in the constellation of UrsaMajor (which contains the Big Dipper).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/geminiann10008a/L{1}X{2}Y{3}.png
+name: Gemini North image of the planetary nebula M97
+ra_hr: 11.24706302625529
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/geminiann10008a/thumb.jpg
+zoom_level: 0.7803039639074985
+---
+_uuid: cc3bb355-460d-4c25-bc1f-91aa18be31d8
+annotation: '{"channel": "noirlab", "itemid": "noao-02338", "publishedUTCISO8601":
+  "2020-06-30T21:33:57+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 53.06845644574611
+description: NGC3718 is an unusual lenticular galaxy of type S0(pec), in the constellation
+  Ursa Major. It has a number of unusual absorption features. KPNO 4-meter Mayall
+  telescope, 1975.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02338/L{1}X{2}Y{3}.png
+name: NGC 3718 in Ursa Major
+ra_hr: 11.542980476215327
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02338/thumb.jpg
+zoom_level: 2.1776999999999997
+---
+_uuid: bbcdbd37-9d0e-469a-90ee-35a8cf0d5b5a
+annotation: '{"channel": "noirlab", "itemid": "noao-02953", "publishedUTCISO8601":
+  "2020-06-30T21:33:57+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 43.947021100380525
+description: NGC4013, a large, nearby, edge-on spiral galaxy.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02953/L{1}X{2}Y{3}.png
+name: Spiral galaxy NGC 4013
+ra_hr: 11.975591478120869
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02953/thumb.jpg
+zoom_level: 0.7644267543990597
+---
+_uuid: 0f17558f-499a-43f2-8b65-7f97f90c0e8d
+annotation: '{"channel": "noirlab", "itemid": "noao-ic2944", "publishedUTCISO8601":
+  "2020-06-30T21:34:05+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -63.374017385607154
+description: IC 2944 is an emission nebula in Centaurus, 5900 light years distant.
+  Centaurus contains two of the top ten brightest stars in the universe producing
+  massive quantities of powerful UV radiation. An interesting aspect of this nebula
+  is the presence of dark globules with the eponymn of Thackery’s Globules. These
+  structures represent the remains of a large dark nebula that has been eroded by
+  this UV radiation. The globules of dense clumps of gas and dust are nearly 1.4 light
+  years in width, and often go by the name of Bok&#x27;s Globules in other structures
+  in the universe.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ic2944/L{1}X{2}Y{3}.png
+name: IC2944 (Thackery’s Globules)
+ra_hr: 11.638725669503918
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ic2944/thumb.jpg
+zoom_level: 1.7219844000000002
+---
+_uuid: b70364b8-30ec-4edb-9138-5f45e4311d84
+angular_size: 1.3180807199999995
+annotation: '{"channel": "noirlab", "itemid": "noao-m108", "publishedUTCISO8601":
+  "2020-06-30T21:33:55.066039+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 55.67289169964539
+description: M108 is a type Sc spiral galaxy in the constellation Ursa Major. Almost
+  edge-on, it shows little or no bulge and no noticeably strong center, being a motley
+  collection of features often referred to, in classic understatement, as very dusty.
+  The spiral structure is not very clearly delineated, unsurprisingly. M108 is around
+  40 to 50 million light-years away in a loose galaxy grouping which includes M109
+  and possibly M106. This picture was created from observations using the T2KA CCD
+  camera at the Kitt Peak National Observatory&#x27;s 0.9-meter telescope in January
+  of 1997.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m108/L{1}X{2}Y{3}.png
+name: M108, NGC 3556
+ra_hr: 11.1922204849471
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m108/thumb.jpg
+zoom_level: 1.3180807199999995
+---
+_uuid: ecda8801-ad2b-48a0-8dcb-93c1a591cc39
+angular_size: 1.3166874
+annotation: '{"channel": "noirlab", "itemid": "noao-m109", "publishedUTCISO8601":
+  "2020-06-30T21:33:55.136732+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 53.37529092553621
+description: M109 is a type SBc barred spiral galaxy in the constellation Ursa Major.
+  M109 is around 40 to 50 million light-years away in a loose galaxy grouping which
+  includes M108 and possibly M106. This picture was created from observations using
+  the T2KA CCD camera at the Kitt Peak National Observatory&#x27;s 0.9-meter telescope
+  in January of 1997.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m109/L{1}X{2}Y{3}.png
+name: M109, NGC 3992
+ra_hr: 11.960046151634351
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m109/thumb.jpg
+zoom_level: 1.3166874
+---
+_uuid: 3500d1d3-c750-47fd-b56e-da35acf09429
+angular_size: 1.7692919999999999
+annotation: '{"channel": "noirlab", "itemid": "noao-m65", "publishedUTCISO8601": "2020-06-30T21:33:51+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 13.092233684015119
+description: M65 is a spiral galaxy of type Sa in the constellation Leo. At a distance
+  of about 35 million light-years, M65 apparently forms a triplet with its neighbors
+  M66 and NGC3628, as seen in this lower resolution but wider field image. This image
+  was taken with the WIYN 0.9-meter telescope at the Kitt Peak National Observatory
+  on the night of December 19th 2002 UT. Image size 7.9x11.9 arc minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m65/L{1}X{2}Y{3}.png
+name: M65, NGC 3623
+ra_hr: 11.315447933993298
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m65/thumb.jpg
+zoom_level: 1.7692919999999999
+---
+_uuid: ef5cbba9-2581-418f-981a-e928182b59e4
+angular_size: 8.6292
+annotation: '{"channel": "noirlab", "itemid": "noao-m65a66", "publishedUTCISO8601":
+  "2020-06-30T21:33:51.446051+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 13.28765744702819
+description: This small group of galaxies consists of the Messier objects M65 (NGC3623),
+  lower right, and M66 (NGC3627), lower left, along with the edge-on spiral galaxy
+  NGC3628, upper left. These three galaxies form a rather attractive triplet at the
+  heart of the M66 group, which includes a number of other galaxies which are &quot;out
+  of shot&quot;. The Leo Triplet also appears in Arp&#x27;s Atlas of Peculiar Galaxies.
+  At a distance of 35 million light-years, maybe a little further, the M66 group may
+  be related to M96 (NGC3368) and the Leo I galaxy group.  This approximately true-color
+  picture was created from images taken in June 1995 using BVR colors, at the Burrell
+  Schmidt telescope of Case Western Reserve University&#x27;s Warner and Swasey Observatory
+  located on Kitt Peak, near Tucson, Arizona, during the Research Experiences for
+  Undergraduates (REU) program operated at the Kitt Peak National Observatory and
+  supported by the National Science Foundation. Image size 40.6x50.8 arc minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m65a66/L{1}X{2}Y{3}.png
+name: Leo Triplet (M66 group)
+ra_hr: 11.33020476834023
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m65a66/thumb.jpg
+zoom_level: 8.6292
+---
+_uuid: 8d23beaf-e456-4eb9-bda5-1c456283b1e6
+angular_size: 1.6870800000000004
+annotation: '{"channel": "noirlab", "itemid": "noao-m66", "publishedUTCISO8601": "2020-06-30T21:33:51.537708+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.979817164100558
+description: M66 is a spiral galaxy of type Sb in the constellation Leo. At a distance
+  of about 35 million light-years, M66 apparently forms a triplet with its neighbors
+  M65 and NGC3628, as seen in this lower resolution but wider field image. This image
+  was taken with the WIYN 0.9-meter telescope at the Kitt Peak National Observatory
+  on the nights of December 19th and 20th 2002 UT. Image size 9.1x11.3 arc minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m66/L{1}X{2}Y{3}.png
+name: M66, NGC 3627
+ra_hr: 11.337560798874932
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m66/thumb.jpg
+zoom_level: 1.6870800000000004
+---
+_uuid: 85ce685d-1994-4f2c-b5f3-a1b6206c197b
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc3582", "publishedUTCISO8601":
+  "2020-06-30T21:34:09+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -61.22152839667299
+description: NGC3582 is a minor nebula in the Sagittarius arm of the Milky Way galaxy.
+  It is part of star-forming region RCW 57 in Carina. This image was taken in 2007
+  using the Mosaic-2 imager on the Blanco 4-meter telescope at Cerro Tololo Inter-American
+  Observatory.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc3582/L{1}X{2}Y{3}.png
+name: NGC 3582 in Sagittarius
+ra_hr: 11.205855063363368
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc3582/thumb.jpg
+zoom_level: 4.572146161331999
+---
+_uuid: 70ac281b-95e8-42e3-bc48-938d737fb96c
+angular_size: 3.7771171199999998
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc3628", "publishedUTCISO8601":
+  "2020-06-30T21:33:57.671790+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 13.583938804515551
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. NGC 3628 is a
+  large, edge-on spiral galaxy. It is one of three galaxies in the &quot;Leo Triplet&quot;.
+  NGC 3628 has a warped disk and a long tidal tail (the faint blue line stretching
+  to the upper-left corner of the image) that are the result of gravitational interactions
+  with the other two galaxies in the triplet. The image was generated with observations
+  in the B (blue), V (green), I (orange) and Hydrogen-Alpha (red) filters. This image
+  is rotated 37 degrees clockwise fron North is up, East is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc3628/L{1}X{2}Y{3}.png
+name: Edge-on Spiral Galaxy NGC 3628
+ra_hr: 11.337640262302067
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc3628/thumb.jpg
+zoom_level: 3.7771171199999998
+---
+_uuid: 907f709f-27c4-4787-b735-28ce72d9cf00
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc3718", "publishedUTCISO8601":
+  "2020-06-30T21:33:57.776315+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 53.07777740124953
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. NGC 3718 is the
+  twisted spiral galaxy in the upper-right corner of the image. Its distinctive shape
+  is likely the result of gravitational interactions with the smaller spiral galaxy,
+  NGC 3729, to the left. Below and to the right of NGC 3718 is the Hickson Compact
+  Group 56, which consists of five interacting galaxies. These galaxies aren&#x27;t
+  smaller. Instead, they are about eight times further away than NGC 3718 and NGC
+  3729. The image was generated with observations in the U (violet), B (blue), V (green),
+  I (orange) and Hydrogen-Alpha (red) filters. This image is rotated 35 degrees counterclockwise
+  from North is up, East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc3718/L{1}X{2}Y{3}.png
+name: Twisted Spiral Galaxy NGC 3718
+ra_hr: 11.55031214288967
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc3718/thumb.jpg
+zoom_level: 2.679205439999999
+---
+_uuid: 1e2f9dba-9691-49bd-8c90-d43fd737d174
+angular_size: 1.841049
+annotation: '{"channel": "noirlab", "itemid": "noao0310a", "publishedUTCISO8601":
+  "2003-07-09T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 55.01719372141746
+description: This composite image of the Owl Nebula (also known as M97 or NGC3587)
+  was created from three sets of narrowband images taken at the 0.6-meter Burrell
+  Schmidt telescope at Kitt Peak National Observatory in June 1991. The colors in
+  the image correspond to oxygen [O III] in blue, nitrogen [N II] in green, and hydrogen
+  [H-alpha] in red.This image was the subject of NOAO Press Release 03-06.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0310a/L{1}X{2}Y{3}.png
+name: Owl Nebula, M97, NGC 3587
+ra_hr: 11.246805739952762
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0310a/thumb.jpg
+zoom_level: 1.841049
+---
+_uuid: d8c56dc5-3e35-4f2e-a52f-658f1a2d0685
+annotation: '{"channel": "noirlab", "itemid": "noaoann12008a", "publishedUTCISO8601":
+  "2012-06-26T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -63.36976335382528
+description: This image was obtained with the wide-field view of the Mosaic II camera
+  on the Blanco 4-meter telescope at Cerro Tololo Interamerican Observatory on January
+  12th and February 7th, 2012. An array of dark Bok globules, known as Thackeray&#x27;s
+  Globules, can be seen in silhouette against the emission nebula IC 2944 in the constellation
+  Centaurus. The image was generated with observations in the B (blue), I (orange)
+  and Hydrogen-Alpha (yellow) filters. In this image, north is to the right, and east
+  is up. This is one of the last observations completed with the Mosaic II camera
+  before it was decommissioned.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noaoann12008a/L{1}X{2}Y{3}.png
+name: IC 2944 Thackeray's Globules
+ra_hr: 11.633293300682508
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noaoann12008a/thumb.jpg
+zoom_level: 1.5525318652911833
+---
+_uuid: f8483310-2272-441a-ab48-91f8489f8a69
+angular_size: 1.4359052629949172
+annotation: '{"channel": "noirlab", "itemid": "noirlab2103a", "publishedUTCISO8601":
+  "2021-01-13T14:25:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 21.984831093148912
+description: A group of galaxies nicknamed the Copeland Septet, in the constellation
+  of Leo. Astronomers using images from Kitt Peak National Observatory and Cerro Tololo
+  Inter-American Observatory have created the largest ever map of the sky, comprising
+  over a billion galaxies. The final data release from the  ambitious DESI Legacy
+  Imaging Surveys sets the stage for a ground-breaking 5-year survey with the Dark
+  Energy Spectroscopic Instrument (DESI), which aims to provide new insights into
+  the nature of dark energy.  
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2103a/L{1}X{2}Y{3}.png
+name: Copeland Septet group of galaxies
+ra_hr: 11.630786661109276
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2103a/thumb.jpg
+zoom_level: 1.4359052629949172
+---
 _uuid: db55fe85-73ef-495c-83ac-315748595d8f
 angular_size: 1.0
 classification: Galaxy

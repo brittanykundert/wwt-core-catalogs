@@ -1,3 +1,966 @@
+_uuid: c4f7fb0c-5f96-4630-8c6d-de61185afe4c
+annotation: '{"channel": "noirlab", "itemid": "gemini-20070806-ngc6520gem-clnflattrim",
+  "publishedUTCISO8601": "2007-08-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.875886859292763
+description: 'Millions of years ago, a dust cloud about 5,200 light-years from the
+  Sun coalesced to begin the process of star birth. Today, some 190 million years
+  later, NGC 6520 is ablaze with hot, massive young stars arrayed in a dandelion seed-shaped
+  cluster. Not far away lies the gecko-shaped remains of what may be their birth cloud,
+  Barnard 86. This image, taken using the Gemini Multi-Object Spectrograph on Gemini
+  South, shows details in a 9.7- x 5.4-arcmin section of a larger, highly populated
+  region in the Sagittarius star cloud. It provides the clearest optical view of the
+  cluster and its nearby dark-cloud companion. The total mass of the stars in NGC
+  6520 is roughly equivalent to 300-400 times the mass of the Sun, while the nearby
+  cloud contains enough material to make about 3,000 more stars like the Sun. The
+  close proximity between the star cluster and its nearby dark-cloud companion suggests
+  the two are related. A survey of the southern sky (released in 2001) that singled
+  out hydrogen-alpha emissions from warm, ionized interstellar gas shows a nebula
+  extending from the dark globule to embrace the star cluster. Caption: The star cluster
+  NGC 6520 and the Bok Globule Barnard 86, as imaged by the Gemini South telescope,
+  using GMOS. The image is 9.7 x 5.4 arcminutes and is rotated 17 degrees east of
+  north. This color composite is made using the following four filters: u-band = blue;
+  g-band = cyan; r-band = yellow; and i-band = red. The cluster, is about 200 million
+  years old, and lies around 5,500 light-years away from the Sun, in the direction
+  of the constellation Sagittarius. Amateur note: NGC 6520 and Barnard 86 are popular
+  observation targets for moderate-to-large telescopes (8-14” apertures). Look for
+  the cluster and its neighboring Bok globule are set against the starry background
+  the Sagittarius star cloud, centering your telescope on RA 18H 03.3 m, DEC -27º
+  53’ for the cluster. Barnard 86 lies a few minutes to the west.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini-20070806-ngc6520gem-clnflattrim/L{1}X{2}Y{3}.png
+name: The Starry Dandelion and the Cosmic Gecko NGC 6520
+ra_hr: 18.05271122320705
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini-20070806-ngc6520gem-clnflattrim/thumb.jpg
+zoom_level: 0.8379530078217354
+---
+_uuid: c3e33ba0-40a3-4437-b42c-19f0a2315c20
+annotation: '{"channel": "noirlab", "itemid": "gemini0207a", "publishedUTCISO8601":
+  "2002-06-20T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -23.033966335837995
+description: 'Central region of the Trifid Nebula (M20 in the Messier Catalogue) taken
+  by the Gemini North 8-meter Telescope on Mauna Kea on the Big Island of Hawaii,
+  June 5, 2002. Located in the constellation of Sagittarius, the beautiful nebula
+  is a much-photographed, dynamic cloud of gas and dust where stars are being born.
+  One of the massive stars at the nebula&#x27;s center was born approximately 100,000
+  years ago. The nebula&#x27;s distance from the Solar System remains in dispute,
+  but it is generally agreed to be somewhere between 2,200 to 9,000 light years away.
+  See Image Release for details Technical Details: Acquisition Date: June 5-6, 2002
+  Telescope: Gemini North, Mauna Kea Hawai&#x27;i Instrument: GMOS (Gemini Multi-Object
+  Spectrograph) Field of View: ~ 5 x 5 arcminutes FilterColorExposure TimeWavelength
+  RangeImage Quality'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0207a/L{1}X{2}Y{3}.png
+name: Trifid Nebula (M20)
+ra_hr: 18.039223708212088
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0207a/thumb.jpg
+zoom_level: 0.8806593542466239
+---
+_uuid: 65851b7e-31a3-4f1b-af53-06cc27f0e657
+angular_size: 0.701316069832308
+annotation: '{"channel": "noirlab", "itemid": "gemini0509b", "publishedUTCISO8601":
+  "2005-08-26T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.02065164997691
+description: Gemini South image of dragon-like dark nebula NGC 6559 NGC 6559 is a
+  relatively small, nearby dust cloud in our Milky Way galaxy that measures about
+  seven light-years across. NGC 6559 is part of a larger star-forming region in the
+  southern constellation Sagittarius. The dark structure that resembles a Chinese
+  dragon is caused by cool dust that absorbs background radiation from hydrogen gas
+  that glows in red light due to ionization from nearby stars. The intricate details
+  and wispy structure in the dark cloud is determined by turbulence flow dynamics
+  influenced by variables such as nearby star radiation and motions of other nearby
+  gas and dust. These kinds of clouds illustrate how past generations of stars are
+  dispersing heavier elements into our galaxy, material that will seed future generations
+  of stars and possibly planetary systems.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0509b/L{1}X{2}Y{3}.png
+name: Chinese Dragon NGC 6559
+ra_hr: 18.16024761590986
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0509b/thumb.jpg
+zoom_level: 0.701316069832308
+---
+_uuid: 65e49305-c60c-4bbd-aed9-5fb3a1ebb75c
+angular_size: 0.6745162199536747
+annotation: '{"channel": "noirlab", "itemid": "gemini1306a", "publishedUTCISO8601":
+  "2013-08-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -16.137665932401173
+description: This FLAMINGOS-2 near-infrared image details part of the magnificent
+  Swan Nebula (M17), where ultraviolet radiation streaming from young hot stars sculpts
+  a dense region of dust and gas into myriad fanciful forms. M17 lies some 5,200 light-years
+  distant in the constellation Sagittarius and is one of the most massive and luminous
+  star-forming region&#x27;s in our Galaxy. It is also one of the most studied.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini1306a/L{1}X{2}Y{3}.png
+name: Swan Nebula (M17)
+ra_hr: 18.342551230260284
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini1306a/thumb.jpg
+zoom_level: 0.6745162199536747
+---
+_uuid: 99389a60-1416-4aa1-baf7-897f2afaaa6a
+angular_size: 0.598043033233472
+annotation: '{"channel": "noirlab", "itemid": "gemini1611a", "publishedUTCISO8601":
+  "2016-12-29T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -20.78853411673003
+description: 'Reflection nebula GGD 27 revealing the chaotic and messy environment
+  of a stellar nursery. This near-infrared image was obtained using FLAMINGOS-2, the
+  infrared imager and spectrograph on the Gemini South telescope in Chile. Image Credit:
+  Gemini Observatory/AURA. An image release by the Gemini Observatory offers a deep,
+  revealing view into an active stellar nursery. The infrared view peels back layers
+  of obscuring gas and dust to unshroud the inner workings of star formation – and
+  the chaos that accompanies the beautifully messy process of starbirth. In the direction
+  of the constellation of Sagittarius, some 5,500 light-years away in the southern
+  Milky Way, is a chaotic caldron of stellar birth known as GGD 27. While such stellar
+  nurseries are sprinkled liberally throughout our Milky Way Galaxy, GGD 27 presents
+  an especially compelling snapshot of stellar birth. At first glance it looks like
+  chaos. However, this seemingly random cloud of gas and dust is home to several nascent
+  stars interacting in complex, but predictable ways. Millions of years from now the
+  prenatal cloud of gas and dust will disperse and a cluster of stars will emerge
+  much like a butterfly from its chrysalis. Until then this beautiful cloud will slowly
+  (by human standards) evolve and allow astronomers to explore the complex process
+  of star birth. The new infrared Gemini image peers deep into GGD 27 where a massive
+  developing star (called a protostar) dominates the central region of the nebula.
+  Identified as GGD 27-ILL this future star already glows several thousand times brighter
+  than our Sun and powers a bipolar outflow where gas streams away at supersonic speeds
+  propelled by intense magnetic fields. Other forming stars in the area complicate
+  the scene while adding to its beauty. See Image Release for details Technical Details:
+  It is a color composite made using four filters: Y (blue), J (cyan), H (green),
+  and Ks (red). The total integration (exposure time) for all filters is just over
+  one hour. The image is 4.6 x 3.5 arcminutes in size and is rotated 35 degrees clockwise
+  from North is up and East is to the left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini1611a/L{1}X{2}Y{3}.png
+name: Reflection Nebula GGD 27
+ra_hr: 18.320671400472413
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini1611a/thumb.jpg
+zoom_level: 0.598043033233472
+---
+_uuid: 6aa9f6f8-6b88-4e1f-bc9d-b92ec3d8f107
+angular_size: 2.3267854961903502
+annotation: '{"channel": "noirlab", "itemid": "iotw2104a", "publishedUTCISO8601":
+  "2021-01-27T16:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -11.73328359205837
+description: 'The emission nebula Sh2-54 glows brightly in this image from the SMARTS
+  0.9-meter Telescope at Cerro Tololo Inter-American Observatory, a Program of NSF’s
+  NOIRLab. Gathering the fine details of this particular image required almost twenty
+  minutes of observations and three different wavelength filters. Situated within
+  the constellation of Serpens (The Serpent), Sh2-54 forms part of a much wider nebulosity
+  which includes the famous Eagle Nebula. Serpens is a unique constellation, the only
+  one of the official 88 used today that is split into two unconnected parts: Serpens
+  Caput — the Serpent’s Head — and Serpens Cauda — The Serpent’s Tail. '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/iotw2104a/L{1}X{2}Y{3}.png
+name: Serpent’s Nebula
+ra_hr: 18.299031121246237
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/iotw2104a/thumb.jpg
+zoom_level: 2.3267854961903502
+---
+_uuid: 854d441a-8b66-42e5-8167-97abe7694bf4
+angular_size: 2.244689101341959
+annotation: '{"channel": "noirlab", "itemid": "iotw2121a", "publishedUTCISO8601":
+  "2021-05-26T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -16.798121793343636
+description: This image shows the planetary nebula Sh2-42 in the constellation Sagittarius,
+  and was captured by using the SMARTS 0.9-meter Telescope at Cerro Tololo Inter-American
+  Observatory, a Program of NSF’s NOIRLab. Despite the name, planetary nebulae have
+  nothing to do with planets — they are spectacular funeral pyres formed by red giant
+  stars at the end of their lives. As these giant stars expand and throw their outer
+  gaseous layers into space, the hot exposed core of the star ionizes the surrounding
+  material, causing it to glow in a range of vivid colours. As it reaches the end
+  of its life, our own Sun is expected to form a planetary nebula — but not for another
+  5 billion years!
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/iotw2121a/L{1}X{2}Y{3}.png
+name: A Giant’s Funeral Pyre
+ra_hr: 18.171617776341634
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/iotw2121a/thumb.jpg
+zoom_level: 2.244689101341959
+---
+_uuid: 8496db19-b81d-4a76-a315-75aed33d3100
+annotation: '{"channel": "noirlab", "itemid": "noao-02171", "publishedUTCISO8601":
+  "2020-06-30T21:34:06+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -23.021894858862424
+description: The Trifid Nebula, Messier object 20 (M20) in the constellation of Sagittarius.
+  North is to the right. We also have a color image from the KPNO 0.9-m telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02171/L{1}X{2}Y{3}.png
+name: Trifid, M20, NGC 6514
+ra_hr: 18.0412756699287
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02171/thumb.jpg
+zoom_level: 3.3130419228068453
+---
+_uuid: 7accad30-eefa-40b5-ae24-612b72fbae81
+angular_size: 5.7727512
+annotation: '{"channel": "noirlab", "itemid": "noao-02172", "publishedUTCISO8601":
+  "2020-06-30T21:34:06.031169+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.3476874062275
+description: The Lagoon Nebula, Messier object 8 (M8) or NGC 6523, in the constellation
+  of Sagittarius, as seen by the Kitt Peak 4-meter Mayall telescope in 1973. North
+  is at the top. The lagoon nebula glows with the red light of hydrogen (H alpha)
+  excited by the radiation of very hot stars buried within its center. Deep within
+  the cloud, dark filaments of obscuring matter emit strong infrared radiation. Several
+  peculiar variable stars in the nebula occasionally flare up, increasing in brightness
+  to some 25 times their normal luminosity. The nebula is about 6500 light-years away
+  and about 60 light-years across.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02172/L{1}X{2}Y{3}.png
+name: The Lagoon Nebula, M8 (NGC 6523)
+ra_hr: 18.068926089442
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02172/thumb.jpg
+zoom_level: 5.7727512
+---
+_uuid: d8808c47-d2ef-4ab5-9403-5b6ea9736d44
+angular_size: 5.7727512
+annotation: '{"channel": "noirlab", "itemid": "noao-02173", "publishedUTCISO8601":
+  "2020-06-30T21:34:06+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.3476874062275
+description: The Lagoon Nebula, Messier object 8 (M8) or NGC 6523, in the constellation
+  of Sagittarius, as seen by the Kitt Peak 4-meter Mayall telescope in 1973. North
+  is at the top. The lagoon nebula glows with the red light of hydrogen (H alpha)
+  excited by the radiation of very hot stars buried within its center. Deep within
+  the cloud, dark filaments of obscuring matter emit strong infrared radiation. Several
+  peculiar variable stars in the nebula occasionally flare up, increasing in brightness
+  to some 25 times their normal luminosity. The nebula is about 6500 light-years away
+  and about 60 light-years across.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02173/L{1}X{2}Y{3}.png
+name: The Lagoon Nebula, M8 (NGC 6523)
+ra_hr: 18.068926089442
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02173/thumb.jpg
+zoom_level: 5.7727512
+---
+_uuid: c7726b9e-1afd-4e20-9853-5e31c408f4e8
+annotation: '{"channel": "noirlab", "itemid": "noao-02180", "publishedUTCISO8601":
+  "2020-06-30T21:34:06.251242+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -13.832871225426537
+description: 'The Eagle Nebula, Messier object 16 (M16), NGC 6611, as seen by the
+  Kitt Peak 4-meter Mayall telescope in 1973.  This picture shows an interesting emission
+  nebula and its associated galactic star cluster in the constellation of Serpens
+  (the Serpent). The star cluster was discovered in 1746 by P.L. de Cheseaux, but
+  he missed the surrounding nebulosity, leaving it to be noticed by Charles Messier
+  some twenty years later, while he was compiling the catalog that brought him permanent
+  fame in astronomy and provided the `M&#x27; numbers we use to designate so many
+  of the bright, fuzzy patches visible at night. M16 is one of the more unusual objects
+  in the sky, and although it is unfortunately not a naked-eye object, it is a fine
+  sight through a telescope of low to moderate power.  M16 is an example of a galactic
+  HII region, which is to say that most of the emission comes from the red light of
+  ionized (electrically charged) hydrogen gas. The nebula shines because of the energy
+  provided by the cluster of hot blue and white stars. These stars are about two million
+  years old, which is quite young for a star (our own middle-aged Sun clocks in at
+  over four billion years). However, these O and B stars are considerably heavier
+  than our Sun, since they contain some thirty times as much matter, and this extra
+  weight shortens their lifetime to just a few million years in total. The brightest
+  stars, such as the conspicuous double of O stars, are concentrated toward the north-west
+  (the top right of this picture). The cluster also contains a large number of faint
+  red stars, which are probably reddened by absorption in the dust surrounding them.
+  M16 is in a late stage of its evolution, where the hot stars have blown away the
+  closer material and now shine in a cavity surrounded by an expanding complex of
+  neutral lumps, which show bright edges due to shock waves created as the outwardly
+  flowing material hits other gas.  On the southern side there are several bright-edged
+  dark lanes or striations crossing the nebula: these are often called `elephant trunk&#x27;
+  structures. M16 also contains many small black globules, which are believed to be
+  compact dust clouds on their way to collapsing into proto-stellar objects, and then
+  later into new stars. Current estimates suggest that several new stars are formed
+  somewhere in our Galaxy every year. In fact, the current glowing red appearance
+  and the dark features are, respectively, the gas and dust out of which the existing
+  stars originally condensed.  There is also evidence for rapid motions in the nebula,
+  with suggestions of turbulence around the dark lanes to the north-east (the top
+  left). The nebula also contains some neutral gas clouds, which have no electrical
+  charge and are only detected by radio astronomers.  M16 is located, along with its
+  neighbor, the Omega Nebula, M17, in the Sagittarius-Carina spiral arm of our Milky
+  Way galaxy.  We also have a spectacular 0.9-meter emission-line image.  Location:
+  18h18.8m -13deg47min (2000). Distance: about 2000 parsecs (6500 light-years). Size:
+  8 arc minutes across. Magnitude: 6.4. Power source: O and B stars.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02180/L{1}X{2}Y{3}.png
+name: The Eagle Nebula, M16
+ra_hr: 18.31254411275425
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02180/thumb.jpg
+zoom_level: 3.9391685999999995
+---
+_uuid: a0b5331d-a5b3-4451-bfc8-034e5d165564
+annotation: '{"channel": "noirlab", "itemid": "noao-02181", "publishedUTCISO8601":
+  "2020-06-30T21:34:06+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -13.81099486123758
+description: 'The Eagle Nebula, Messier object 16 (M16), NGC 6611, as seen by the
+  Kitt Peak 4-meter Mayall telescope in 1973. This picture shows an interesting emission
+  nebula and its associated galactic star cluster in the constellation of Serpens
+  (the Serpent). The star cluster was discovered in 1746 by P.L. de Cheseaux, but
+  he missed the surrounding nebulosity, leaving it to be noticed by Charles Messier
+  some twenty years later, while he was compiling the catalog that brought him permanent
+  fame in astronomy and provided the `M&#x27; numbers we use to designate so many
+  of the bright, fuzzy patches visible at night. M16 is one of the more unusual objects
+  in the sky, and although it is unfortunately not a naked-eye object, it is a fine
+  sight through a telescope of low to moderate power. M16 is an example of a galactic
+  HII region, which is to say that most of the emission comes from the red light of
+  ionized (electrically charged) hydrogen gas. The nebula shines because of the energy
+  provided by the cluster of hot blue and white stars. These stars are about two million
+  years old, which is quite young for a star (our own middle-aged Sun clocks in at
+  over four billion years). However, these O and B stars are considerably heavier
+  than our Sun, since they contain some thirty times as much matter, and this extra
+  weight shortens their lifetime to just a few million years in total. The brightest
+  stars, such as the conspicuous double of O stars, are concentrated toward the north-west
+  (the top right of this picture). The cluster also contains a large number of faint
+  red stars, which are probably reddened by absorption in the dust surrounding them.
+  M16 is in a late stage of its evolution, where the hot stars have blown away the
+  closer material and now shine in a cavity surrounded by an expanding complex of
+  neutral lumps, which show bright edges due to shock waves created as the outwardly
+  flowing material hits other gas. On the southern side there are several bright-edged
+  dark lanes or striations crossing the nebula: these are often called `elephant trunk&#x27;
+  structures. M16 also contains many small black globules, which are believed to be
+  compact dust clouds on their way to collapsing into proto-stellar objects, and then
+  later into new stars. Current estimates suggest that several new stars are formed
+  somewhere in our Galaxy every year. In fact, the current glowing red appearance
+  and the dark features are, respectively, the gas and dust out of which the existing
+  stars originally condensed. There is also evidence for rapid motions in the nebula,
+  with suggestions of turbulence around the dark lanes to the north-east (the top
+  left). The nebula also contains some neutral gas clouds, which have no electrical
+  charge and are only detected by radio astronomers. M16 is located, along with its
+  neighbor, the Omega Nebula, M17, in the Sagittarius-Carina spiral arm of our Milky
+  Way galaxy. We also have a spectacular 0.9-meter emission-line image. Location:
+  18h18.8m -13deg47min (2000). Distance: about 2000 parsecs (6500 light-years). Size:
+  8 arc minutes across. Magnitude: 6.4. Power source: O and B stars.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02181/L{1}X{2}Y{3}.png
+name: The Eagle Nebula, M16
+ra_hr: 18.314008008820238
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02181/thumb.jpg
+zoom_level: 6.022080000000001
+---
+_uuid: e9f2fe69-21c2-4b05-abdd-c26763af3625
+angular_size: 2.6192987999999997
+annotation: '{"channel": "noirlab", "itemid": "noao-02182", "publishedUTCISO8601":
+  "2020-06-30T21:34:06.672196+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -16.1931103252966
+description: The Omega Nebula, Messier object 17 (M17), NGC 6618, in the constellation
+  Sagittarius, as seen by the Kitt Peak 4-meter Mayall telescope in 1973. This bright
+  nebula, criss-crossed by clouds and lanes of opaque dust and gas, is also known
+  as the Swan Nebula and the Horseshoe Nebula. M17 is estimated to contain over 800
+  times as much material as the Sun within its 17 light-year diameter. At a distance
+  of 5700 light-years, M17 is also a source of radio noise. North is at the top. We
+  also have an interesting infrared image, a newer 0.9-meter optical image, and a
+  deeper Schmidt image.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02182/L{1}X{2}Y{3}.png
+name: The Omega Nebula, M17
+ra_hr: 18.3459906012983
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02182/thumb.jpg
+zoom_level: 2.6192987999999997
+---
+_uuid: 45b04820-ae27-4f22-b9f4-ebaa3dafce3d
+annotation: '{"channel": "noirlab", "itemid": "noao-02183", "publishedUTCISO8601":
+  "2020-06-30T21:34:06+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -16.183905299612356
+description: The Omega Nebula, Messier object 17 (M17), NGC 6618, in the constellation
+  Sagittarius, as seen by the Kitt Peak 4-meter Mayall telescope in 1973. This bright
+  nebula, criss-crossed by clouds and lanes of opaque dust and gas, is also known
+  as the Swan Nebula and the Horseshoe Nebula. M17 is estimated to contain over 800
+  times as much material as the Sun within its 17 light-year diameter. At a distance
+  of 5700 light-years, M17 is also a source of radio noise. North is at the top. We
+  also have an interesting infrared image, a newer 0.9-meter optical image, and a
+  deeper Schmidt image.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02183/L{1}X{2}Y{3}.png
+name: The Omega Nebula, M17
+ra_hr: 18.35014572414536
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02183/thumb.jpg
+zoom_level: 5.1
+---
+_uuid: e138790f-abf9-4f24-914e-bc246a97453c
+angular_size: -2.5545288
+annotation: '{"channel": "noirlab", "itemid": "noao-02202", "publishedUTCISO8601":
+  "2020-06-30T21:34:06.567881+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -16.1796909561552
+description: The Omega Nebula, M17 (NGC6618), as seen by the KPNO 0.9-meter telescope
+  in 1993 (true color CCD image). M17 is a bright nebula with lanes of opaque dust;
+  it is also referred to as the Swan Nebula and the Horseshoe Nebula. M17 is about
+  5700 light-years away in the direction of Sagittarius, and contains about 800 solar
+  masses of material within its 17-light-year diameter. We also have optical pictures
+  from the KPNO Schmidt and the KPNO Mayall 4-meter telescopes, an emission line image
+  from the KPNO Schmidt, revealing physical conditions in the nebula, and an interesting
+  infrared image from the KPNO 2.1-meter telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02202/L{1}X{2}Y{3}.png
+name: The Omega Nebula, M17 (NGC 6618)
+ra_hr: 18.34983797541266
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02202/thumb.jpg
+zoom_level: 1.96853066178134
+---
+_uuid: 116b1096-999b-4c41-88e0-4d65c4ee59cb
+angular_size: 4.1412
+annotation: '{"channel": "noirlab", "itemid": "noao-02268", "publishedUTCISO8601":
+  "2020-06-30T21:53:15+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -30.0521732706565
+description: Two globular clusters seen through the dense star field in the direction
+  towards the center of our Galaxy, in the constellation Sagittarius. These systems
+  are relatively young for globular clusters, being only about 10 million years old.
+  KPNO 4-meter Mayall telescope, 1975.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02268/L{1}X{2}Y{3}.png
+name: NGC 6522 and NGC 6528
+ra_hr: 18.0712440497938
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02268/thumb.jpg
+zoom_level: 4.1412
+---
+_uuid: 0dd77188-b97c-42a4-b490-62838f52b92e
+annotation: '{"channel": "noirlab", "itemid": "noao-02678", "publishedUTCISO8601":
+  "2020-06-30T21:34:07+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 33.02919644194783
+description: 'The Ring Nebula, M57, NGC6720 This true color picture was taken using
+  Ektachrome film at the prime focus of the Kitt Peak 4m telescope on September 1st
+  1973. This is unusual: normally color images are made by combining black and white
+  images taken through different colored filters. The Ring Nebula, also known as M57
+  or NGC 6720, is found in the constellation Lyra. A spherical shell of glowing gas
+  surrounds a central hot star. The nebula was formed when the central star ejected
+  perhaps as much as ten percent of its mass, over a period of some millions of years.
+  Initially slow mass loss creates a surrounding shell of material which is later
+  ionized by hotter, faster ejecta, which can result in quite complex structures.
+  The Ring Nebula was the first planetary nebula discovered, so called because of
+  its visual spherical appearance through telescopes in the past. It has a diameter
+  a little under one light-year and is 3000 light-years from Earth (angular size 1.2
+  arc minutes). Location: 18 hrs 53.6 min +33 deg 02 min (2000) Photograph by Bill
+  Schoening.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02678/L{1}X{2}Y{3}.png
+name: M57, NGC 6720, Ring Nebula
+ra_hr: 18.893169931922156
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02678/thumb.jpg
+zoom_level: 0.650953356064024
+---
+_uuid: 2c94957d-d4e0-454d-95f7-cf11294c1ae3
+angular_size: 1.252514230024704
+annotation: '{"channel": "noirlab", "itemid": "noao-03315", "publishedUTCISO8601":
+  "2020-06-30T21:34:06+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -16.17582941131354
+description: The Simultaneous Quad Infrared Imaging detector (SQIID) has returned
+  to Kitt Peak with enhanced capabilities. This composite SQIlD multi-wavelength IR
+  image of M17 (NGC6618), a region of massive star formation known variously as the
+  Omega Nebula, the Swan Nebula, and the Horseshoe Nebula, was created by K. M. Merrill
+  to illustrate the potential of the new PAH channel. This filter is centered on the
+  location of a dust emission feature at 3.28 microns which shows up in many star
+  formation regions, and which is normally attributed to polycyclic aromatic hydrocarbons
+  (PAH). The dust is in emission due to the ultra-violet radiation of newly formed
+  hot, luminous stars. The 540-second composite J- and K-band exposures were taken
+  at the KPNO 2.1-meter telescope on 11 May 2000. The PAH data are archival data from
+  the Cryogenic Optical Bench (COB) instrument. This image can be compared to optical
+  images from the KPNO 0.9-meter, the KPNO Mayall 4-meter, and the KPNO Schmidt telescopes,
+  and an emission line image from the KPNO Schmidt, revealing physical conditions
+  in the nebula.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-03315/L{1}X{2}Y{3}.png
+name: The Omega Nebula, M17 (NGC 6618)
+ra_hr: 18.341998482550324
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-03315/thumb.jpg
+zoom_level: 1.252514230024704
+---
+_uuid: 0d50a799-58da-4e22-8973-0893a9c65857
+angular_size: 6.758814239469666
+annotation: '{"channel": "noirlab", "itemid": "noao-04086", "publishedUTCISO8601":
+  "2002-09-18T09:49:04+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -13.830500385808618
+description: This wide-field image of the Eagle Nebula was taken at the National Science
+  Foundation&#x27;s 0.9-meter telescope on Kitt Peak with the NOAO Mosaic CCD camera.
+  Located in the constellation of Serpens, the Serpent, the Eagle Nebula is a very
+  luminous open cluster of stars surrounded by dust and gas. The three pillars at
+  the center of the image, made famous in an image by the Hubble Space Telescope,
+  are being sculpted by the intense radiation from the hot stars in the cluster. This
+  image was created by combining emission-line images in Hydrogen-alpha (green), Oxygen
+  [O III] (blue) and Sulfur [S II] (red).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-04086/L{1}X{2}Y{3}.png
+name: The Eagle Nebula, M16
+ra_hr: 18.316377287914136
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-04086/thumb.jpg
+zoom_level: 6.758814239469666
+---
+_uuid: bf60ffc4-32d2-4171-a78f-6f7a48b80d81
+angular_size: 5.7727512
+annotation: '{"channel": "noirlab", "itemid": "noao-lag", "publishedUTCISO8601": "2020-06-30T21:34:06+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.3476874062275
+description: The Lagoon Nebula, Messier object 8 (M8) or NGC6523, in the constellation
+  of Sagittarius. This false-color, emission-line image was created from a total of
+  twenty-nine separate exposures taken at the Burrell Schmidt telescope of Case Western
+  Reserve University&#x27;s Warner and Swasey Observatory (the Burrell Schmidt is
+  located on Kitt Peak, near Tucson, Arizona). The observations were made through
+  three narrow pass-band filters centered at wavelengths of 4861 (blue), 5009 (green),
+  and 6563 (red) angstroms. The images were taken in May and July of 1994 during the
+  Research Experiences for Undergraduates (REU) program operated at the Kitt Peak
+  National Observatory and supported by the National Science Foundation.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-lag/L{1}X{2}Y{3}.png
+name: The Lagoon Nebula, M8 (NGC 6523)
+ra_hr: 18.068926089442
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-lag/thumb.jpg
+zoom_level: 5.7727512
+---
+_uuid: 873b7da3-edae-43f7-85af-47dbee15d6d2
+angular_size: 2.372362250409984
+annotation: '{"channel": "noirlab", "itemid": "noao-lagoon-nebula", "publishedUTCISO8601":
+  "2020-06-30T21:34:06+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.379349250512035
+description: 'The Lagoon Nebula, M8 or NGC 6523. As one of the showpiece objects of
+  the summer sky in the northern hemisphere, the Lagoon never rises very high from
+  most locations north of the equator. This image of the Lagoon was imaged from Cerro
+  Tololo Inter-American Observatory in Chile. Twenty hours of data were collected
+  over several nights with seeing usually around 0.5” and occasionally as low as the
+  mid 0.30”. Those who are familiar with other images of the Lagoon nebula may note
+  that this version shows more blue: most renditions of this nebula are decidedly
+  reddish in character. However, the object’s altitude during much of the imaging
+  – as high as 80 degrees – minimized the normal tendency for blue extinction that
+  is commonly experienced when imaging objects closer to the horizon. The numerous
+  dark Bok Globules associated with M8 are also readily apparent.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-lagoon-nebula/L{1}X{2}Y{3}.png
+name: Lagoon Nebula, M8, NGC 6523
+ra_hr: 18.061279156132457
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-lagoon-nebula/thumb.jpg
+zoom_level: 2.372362250409984
+---
+_uuid: 99d40569-92d1-4aba-bbe3-12143683bcf2
+angular_size: 2.9454336000000003
+annotation: '{"channel": "noirlab", "itemid": "noao-m11", "publishedUTCISO8601": "2020-06-30T21:34:15+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -6.275291813227073
+description: M11 is one of the richest and most compact open clusters, with nearly
+  3000 stars packed into only twenty-odd light-years. This color composite was created
+  from CCD images taken at the Burrell Schmidt telescope of the Warner and Swasey
+  Observatory of the Case Western Reserve University, located on Kitt Peak in southwestern
+  Arizona. The contributing images were taken in July 1995 during the Research Experiences
+  for Undergraduates (REU) program operated at the Kitt Peak National Observatory
+  and supported by the National Science Foundation.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m11/L{1}X{2}Y{3}.png
+name: M11, NGC 6705
+ra_hr: 18.85138585392197
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m11/thumb.jpg
+zoom_level: 2.9454336000000003
+---
+_uuid: 6bcefa76-90c3-4f42-8cca-abd3b2ed63c7
+angular_size: 2.6192987999999997
+annotation: '{"channel": "noirlab", "itemid": "noao-m17", "publishedUTCISO8601": "2020-06-30T21:34:06.512355+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -16.1724203536167
+description: The Omega Nebula, M17 or NGC6618, in the constellation Sagittarius. M17
+  is a bright emission nebula excited by young stars, but with lanes of opaque dust;
+  it is also referred to as the Swan Nebula and the Horseshoe Nebula. M17 is about
+  5700 light-years away and contains about 800 solar masses of material within its
+  17-light-year diameter. It is also a source of radio emission. M17 is located, along
+  with its neighbor, the Eagle Nebula, M16, in the Sagittarius-Carina spiral arm of
+  our Milky Way galaxy.  This image was created from 21 observations made at the Burrell
+  Schmidt telescope (owned by the Warner and Swasey Observatory of the Case Western
+  Reserve University and situated on Kitt Peak in southwest Arizona), in May 1995
+  and June 1996 during observing experience for the Research Experiences for Undergraduates
+  (REU) program operated at the Kitt Peak National Observatory and supported by the
+  National Science Foundation. Image size 28.8 arc minutes.  We also have optical
+  pictures from the KPNO 0.9-meter and the KPNO Mayall 4-meter telescopes, an emission
+  line image from the KPNO Schmidt, revealing physical conditions in the nebula, and
+  an interesting infrared image from the KPNO 2.1-meter telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m17/L{1}X{2}Y{3}.png
+name: The Omega Nebula, M17
+ra_hr: 18.3506573787745
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m17/thumb.jpg
+zoom_level: 4.092654375
+---
+_uuid: 359a2caf-449b-4620-91f0-a67c9d0f4463
+angular_size: 3.73932
+annotation: '{"channel": "noirlab", "itemid": "noao-m18", "publishedUTCISO8601": "2020-06-30T21:34:15+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -17.091762121787287
+description: M18 is an open cluster in the constellation Sagittarius. It is a widely
+  spread poor cluster with fewer than a couple of dozen members, about 5000 light-years
+  away and quite young, only around 30 million years old. This approximately true-color
+  picture was created from images taken in June 1996 using BVR colors, at the Burrell
+  Schmidt telescope of Case Western Reserve University&#x27;s Warner and Swasey Observatory
+  located on Kitt Peak, near Tucson, Arizona, during the Research Experiences for
+  Undergraduates (REU) program operated at the Kitt Peak National Observatory and
+  supported by the National Science Foundation. Image size 22.0 arc minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m18/L{1}X{2}Y{3}.png
+name: M18, NGC 6613
+ra_hr: 18.336484665128943
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m18/thumb.jpg
+zoom_level: 3.73932
+---
+_uuid: 558b5714-f172-4790-8365-9b1e44c6225a
+angular_size: -3.9899135999999995
+annotation: '{"channel": "noirlab", "itemid": "noao-m20", "publishedUTCISO8601": "2020-06-30T21:34:06.768194+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -22.9646548278006
+description: 'The Trifid Nebula, M20 or NGC6514, is a familiar sight and an excellent
+  example of an emission and reflection nebula. The red emission nebula contains a
+  bright blue star cluster near its center: it glows red because the ultraviolet light
+  of the stars ionizes the hydrogen gas, which then recombines and emits the characteristic
+  red hydrogen-alpha light. Further out, when the radiation from these hot young stars
+  becomes too weak to ionize hydrogen, the gas and dust instead glows by reflecting
+  the original blue light. M20 is in the constellation of Sagittarius, at a poorly-known
+  distance somewhere between 2200 and 7600 light-years. We also have a deep black
+  and white image from the KPNO Mayall 4-m telescope. M20 is quite close on the sky
+  to the open cluster M21, as shown in this lower resolution but wider field picture.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m20/L{1}X{2}Y{3}.png
+name: Trifid, M20, NGC 6514
+ra_hr: 18.0408664210445
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m20/thumb.jpg
+zoom_level: 2.58521941025277
+---
+_uuid: a2518dba-7b92-4797-acfa-f9e5c156144b
+angular_size: 4.88988
+annotation: '{"channel": "noirlab", "itemid": "noao-m21", "publishedUTCISO8601": "2020-06-30T21:34:16+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -22.497344470134994
+description: The open cluster M21, or NGC6531, in the constellation Sagittarius. This
+  cluster shows a strong central concentration and a wide range of star brightnesses,
+  despite its limited membership of probably fewer than 60 stars. Most likely quite
+  young (for a star cluster, that means only a few million years), its distance is
+  uncertain. M21 is quite close on the sky to M20, the Trifid Nebula, as shown in
+  this lower resolution but wider field picture. This approximately true-color picture
+  was created from eleven images taken in July 1995 and June 1996 using BVR filters,
+  at the Burrell Schmidt telescope of Case Western Reserve University&#x27;s Warner
+  and Swasey Observatory located on Kitt Peak, near Tucson, Arizona, during the Research
+  Experiences for Undergraduates (REU) program operated at the Kitt Peak National
+  Observatory and supported by the National Science Foundation. Image size 28.8 arc
+  minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m21/L{1}X{2}Y{3}.png
+name: M21, NGC 6531
+ra_hr: 18.07004717124829
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m21/thumb.jpg
+zoom_level: 4.88988
+---
+_uuid: 5232fe79-1ee5-45d8-84dc-fcd9ff41b358
+angular_size: 8.6292
+annotation: '{"channel": "noirlab", "itemid": "noao-m21a20", "publishedUTCISO8601":
+  "2020-06-30T21:34:06+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -22.786583849380147
+description: TheTrifid Nebula, M20 (upper left, NE) and the open star cluster M21
+  (lower right, SW), are close enough together on the sky that they both appear in
+  this wide-field, 51 arc minute square picture taken with the Burrell Schmidt telescope
+  of Case Western Reserve University&#x27;s Warner and Swasey Observatory located
+  on Kitt Peak, near Tucson, Arizona. The single set of BVR images was taken in June
+  1996, during the Research Experiences for Undergraduates (REU) program operated
+  at the Kitt Peak National Observatory and supported by the National Science Foundation.
+  Higher resolution images are separately available for M20 and M21.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m21a20/L{1}X{2}Y{3}.png
+name: M20 (NGC, Trifid) and M21 (NGC 6531)
+ra_hr: 18.055031356581047
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m21a20/thumb.jpg
+zoom_level: 8.6292
+---
+_uuid: 89e46ded-b0fc-41b4-9fe5-65799e642620
+angular_size: 4.4181504
+annotation: '{"channel": "noirlab", "itemid": "noao-m22", "publishedUTCISO8601": "2020-06-30T21:34:16+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -23.902651564141554
+description: M22, or NGC6656, a globular cluster in the constellation Sagittarius.
+  A conspicuous naked eye object, M22 is the brightest globular cluster visible from
+  the northern hemisphere. As such, it seems to be the first known globular, having
+  been observed by A.Ihle in 1665. It also appears in John Bevis&#x27; Uranographia
+  Britannica. About 10000 light-years from us, M22 is about 65 light-years across.
+  This color picture was made from CCD images taken in June 1995 at the Burrell Schmidt
+  telescope of the Warner and Swasey Observatory of the Case Western Reserve University,
+  located on Kitt Peak in southwestern Arizona, during the Research Experiences for
+  Undergraduates (REU) program operated at the Kitt Peak National Observatory and
+  supported by the National Science Foundation.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m22/L{1}X{2}Y{3}.png
+name: M22, NGC 6656
+ra_hr: 18.606647354940648
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m22/thumb.jpg
+zoom_level: 4.4181504
+---
+_uuid: 941c62fd-8409-4ccc-b6cd-ee9eeb762801
+angular_size: 10.491719999999999
+annotation: '{"channel": "noirlab", "itemid": "noao-m24", "publishedUTCISO8601": "2020-06-30T21:34:16+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -18.559267396816754
+description: M24 is something of an oddity, listed in Messier&#x27;s original catalog
+  as a large &quot;nebulosity&quot; a degree and a half across, and comprising a superposition
+  on the sky of many stars spread out at different distances along our line of sight.
+  It forms part of the Sagittarius spiral arm of our Galaxy. This picture shows most
+  of the central region of the cloud, including the small open star cluster, NGC6603
+  (upper left). To the NW (upper right) are the two dark nebulae Barnard 92 and 93.
+  This picture is a mosaic of seven frames taken in the BVR pass-bands in June 1996
+  at the Burrell Schmidt telescope of Case Western Reserve University&#x27;s Warner
+  and Swasey Observatory located on Kitt Peak, near Tucson, Arizona, during the Research
+  Experiences for Undergraduates (REU) program operated at the Kitt Peak National
+  Observatory and supported by the National Science Foundation, along with a further
+  nine frames taken in September 1997 at the same facility.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m24/L{1}X{2}Y{3}.png
+name: Sagittarius Star Cloud
+ra_hr: 18.291075344804767
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m24/thumb.jpg
+zoom_level: 10.491719999999999
+---
+_uuid: 8621461b-d8c8-4b2d-baef-14360cf0cca7
+angular_size: 7.190999999999999
+annotation: '{"channel": "noirlab", "itemid": "noao-m25", "publishedUTCISO8601": "2020-06-30T21:34:16+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -19.12124902380124
+description: It is unclear why M25, a reasonably conspicuous open cluster in the constellation
+  Sagittarius, did not rate an entry in the New General Catalogue and is thus relegated
+  to only an Index Catalogue number. It is a middle-aged cluster at around 90 million
+  years, somewhere around two thousand light-years away and twenty-odd light-years
+  across. This picture is a combination of six frames taken in the BVR pass-bands
+  in June 1996 at the Burrell Schmidt telescope of Case Western Reserve University&#x27;s
+  Warner and Swasey Observatory located on Kitt Peak, near Tucson, Arizona, during
+  the Research Experiences for Undergraduates (REU) program operated at the Kitt Peak
+  National Observatory and supported by the National Science Foundation. Image size
+  42.3 arc minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m25/L{1}X{2}Y{3}.png
+name: M25, IC4725
+ra_hr: 18.530414513373046
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m25/thumb.jpg
+zoom_level: 7.190999999999999
+---
+_uuid: 5620a33a-bbb6-4762-b43d-a3bca13f40a5
+angular_size: 4.026960000000001
+annotation: '{"channel": "noirlab", "itemid": "noao-m26", "publishedUTCISO8601": "2020-06-30T21:34:16+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -9.389350353951498
+description: M26 is an open cluster in the constellation Scutum. A fairly tight cluster,
+  in this deep image it has to compete with a very populous background of Milky Way
+  stars. It is about 5000 light-years away and around 90 million years old. This approximately
+  true-color picture was created from images taken in June 1996 using BVR colors,
+  at the Burrell Schmidt telescope of Case Western Reserve University&#x27;s Warner
+  and Swasey Observatory located on Kitt Peak, near Tucson, Arizona, during the Research
+  Experiences for Undergraduates (REU) program operated at the Kitt Peak National
+  Observatory and supported by the National Science Foundation. Image size 23.7 arc
+  minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m26/L{1}X{2}Y{3}.png
+name: M26, NGC 6694
+ra_hr: 18.754240349769923
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m26/thumb.jpg
+zoom_level: 4.026960000000001
+---
+_uuid: ce39d9ea-7bdd-4a4e-b9f7-fa2101d08dc5
+angular_size: 1.9740672
+annotation: '{"channel": "noirlab", "itemid": "noao-m54", "publishedUTCISO8601": "2020-06-30T21:53:13+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -30.479108445829823
+description: M54 is a globular cluster in the constellation Sagittarius. It is bright
+  but small, and its core is not resolved here. M54 was always thought to be some
+  60000 light-years away, but there is now a claim that it is actually part of an
+  extragalactic system, a member of the Local Group called the Sagittarius Dwarf,
+  which would move it out to nearly 90000 light-years. This composite was created
+  from images taken in July 1998 at the KPNO 0.9-meter telescope, during the Research
+  Experiences for Undergraduates (REU) program operated at the Kitt Peak National
+  Observatory and supported by the National Science Foundation. Image size 11.6 arc
+  minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m54/L{1}X{2}Y{3}.png
+name: M54, NGC 6715
+ra_hr: 18.917608155170363
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m54/thumb.jpg
+zoom_level: 1.9740672
+---
+_uuid: 9696e234-362e-427f-b321-5d26bed6e5b1
+annotation: '{"channel": "noirlab", "itemid": "noao-m70", "publishedUTCISO8601": "2020-06-30T21:53:14+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -32.29281174388044
+description: M70 is a globular cluster in the constellation Sagittarius. It has a
+  very dense core, and this image has been quite thoroughly stretched to show both
+  the inner crowding and the outer more sparse regions. M70 is about 65 light-years
+  across and about 30000 light-years away. This composite was created from images
+  taken in July 1998 at the KPNO 0.9-meter telescope, during the Research Experiences
+  for Undergraduates (REU) program operated at the Kitt Peak National Observatory
+  and supported by the National Science Foundation, supplemented by further images
+  taken in October 1998. Image size 7.9 arc minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m70/L{1}X{2}Y{3}.png
+name: M70, NGC 6681
+ra_hr: 18.720225548427457
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m70/thumb.jpg
+zoom_level: 1.34946
+---
+_uuid: f5086869-0b26-4890-b671-d6ef885c2ea1
+angular_size: 5.7727512
+annotation: '{"channel": "noirlab", "itemid": "noao-m8-burrell-schmidt", "publishedUTCISO8601":
+  "2020-06-30T21:34:05+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.3476874062275
+description: The Lagoon Nebula, Messier object 8 (M8) or NGC6523, in the constellation
+  of Sagittarius. This full color image was created from eight images taken in the
+  BVR pass-bands at the Burrell Schmidt telescope of Case Western Reserve University&#x27;s
+  Warner and Swasey Observatory. The Burrell Schmidt is located on Kitt Peak, near
+  Tucson, Arizona. The images were taken in June 1995 during the Research Experiences
+  for Undergraduates (REU) program operated at the Kitt Peak National Observatory
+  and supported by the National Science Foundation. North is at the top with east
+  to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m8-burrell-schmidt/L{1}X{2}Y{3}.png
+name: The Lagoon Nebula, M8 (NGC 6523)
+ra_hr: 18.068926089442
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m8-burrell-schmidt/thumb.jpg
+zoom_level: 5.7727512
+---
+_uuid: aa05f419-2ca6-4774-8cde-7508bed06680
+annotation: '{"channel": "noirlab", "itemid": "noao-noao-m17-09", "publishedUTCISO8601":
+  "2020-09-18T02:22:27+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -16.168141167524386
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the WIYN 0.9-meter Telescope at Kitt Peak National Observatory. M17, also informally
+  known as the “omega nebula”, the “lobster nebula” and the “swan nebula” (among other
+  names), is one of the largest and brightest star-forming regions inside our galaxy.
+  Its size and brightness make it one of the first nebulae to be discovered, which
+  occurred in 1745. The hydrogen gas that gives it its distinctive red color is energized
+  by hot, massive blue stars embedded in the nebula. The image was generated with
+  observations in the Hydrogen-alpha (orange), Oxygen [OIII] (green) and Sulfur [SII]
+  (blue) filters. In this image, North is left, East is down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-noao-m17-09/L{1}X{2}Y{3}.png
+name: M17, Omega
+ra_hr: 18.347397338302983
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-noao-m17-09/thumb.jpg
+zoom_level: 9.962841201375959
+---
+_uuid: 9a26ee23-d010-4cf2-abae-66db52ff4348
+annotation: '{"channel": "noirlab", "itemid": "noao-noao-m8", "publishedUTCISO8601":
+  "2020-06-30T21:34:05+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.319411194870927
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the KPNO 0.9m-meter telescope at Kitt Peak National Observatory. M8 is a giant
+  star forming region. It is so big that it is faintly visible to the naked eye. The
+  gas in the nebula is energized by a massive star at its center, causing the gas
+  to glow. The dark objects within the nebula are called Bok globules, and are dense
+  clouds of gas in which new stars are forming. The image was generated with observations
+  in Hydrogen alpha (red), Oxygen [OIII] (green) and Sulfur [SII] (blue) filters.
+  In this image, North is left, East is down
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-noao-m8/L{1}X{2}Y{3}.png
+name: M8, Lagoon Nebula
+ra_hr: 18.063843074776823
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-noao-m8/thumb.jpg
+zoom_level: 9.0498684
+---
+_uuid: 80167031-56ab-479c-ad68-e9abc4b3d414
+angular_size: 0.8802335143993327
+annotation: '{"channel": "noirlab", "itemid": "noaoann02008a", "publishedUTCISO8601":
+  "2002-08-04T09:57:44+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -23.03393966046449
+description: mage of the central region of the Trifid Nebula (M20 in the Messier Catalogue)
+  taken by the Gemini North 8-meter Telescope on Mauna Kea on the Big Island of Hawaii,
+  June 5, 2002. Located in the constellation of Sagittarius, the beautiful nebula
+  is a much-photographed, dynamic cloud of gas and dust where stars are being born.
+  One of the massive stars at the nebula&#x27;s center was born approximately 100,000
+  years ago. The nebula&#x27;s distance from the Solar System remains in dispute,
+  but it is generally agreed to be somewhere between 2,200 to 9,000 light years away.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noaoann02008a/L{1}X{2}Y{3}.png
+name: Trifid Nebula
+ra_hr: 18.039223059181374
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noaoann02008a/thumb.jpg
+zoom_level: 0.8802335143993327
+---
+_uuid: 66f7dfb3-4775-4e7b-a49d-042ef3aabd37
+annotation: '{"channel": "noirlab", "itemid": "noaoann09007a", "publishedUTCISO8601":
+  "2009-04-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.87647099438583
+description: An image of the open star cluster NGC 6520 and nearby dust cloud Barnard
+  86, in the constellation Sagittarius, one of the densest parts of our Galaxy. This
+  image was taken on June 24th, 2007 at the NSF&#x27;s Blanco 4-m telescope in CTIO,
+  with B (blue), V (green) , I (orange) and H-alpha (red) filters. The bright young
+  stars of this star cluster, which probably formed out of gas related to the nearby
+  dust cloud, stand out in contrast to the background of older stars of the bulge
+  of our Galaxy. This image was released during the 100 Hours of Astronomy webcast,
+  &quot;Around the World in 80 Telescopes&quot; held from April 3-4, 2009, during
+  the International Year of Astronomy 2009. View the recorded event from CTIO. See
+  also this image of the Medusa Nebula from KPNO, which was also released during the
+  webcast.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noaoann09007a/L{1}X{2}Y{3}.png
+name: NGC 6520 with Barnard 86
+ra_hr: 18.051526182891518
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noaoann09007a/thumb.jpg
+zoom_level: 6.291073087361715
+---
+_uuid: 06467a98-4c8d-408c-a189-a74a16bdddef
+annotation: '{"channel": "noirlab", "itemid": "noirlab2027a", "publishedUTCISO8601":
+  "2020-10-27T07:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -28.689689922798
+description: This color-composite shows a main part of the new Blanco DECam Bulge
+  Survey of 250 million stars in our galaxy’s bulge. The 4 x 2 degrees excerpt can
+  be explored in all its whopping 50,000 x 25,000 pixels in this zoomable version.
+  In the image interstellar dust and gas seemingly acts like a red “filter” in front
+  of the background stars, scattering the blue light away. Since we are surrounded
+  by dust and gas in the Milky Way, this scattering effect is important to many parts
+  of astronomy and is known as interstellar reddening. DECam was primarily funded
+  by the U.S. Department of Energy.  
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2027a/{1}/{3}/{3}_{2}.png
+name: DECam image of the bulge of the Milky Way
+ra_hr: 18.0688739742588
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2027a/thumb.jpg
+zoom_level: 15.0
+---
 _uuid: c8a955f7-07e0-45f1-aeca-29e7dfb9aabe
 classification: ''
 constellation: ''

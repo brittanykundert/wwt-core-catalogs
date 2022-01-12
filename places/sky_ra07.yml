@@ -1,3 +1,227 @@
+_uuid: 27815502-fee3-45eb-9e92-3b997f804f45
+angular_size: 0.22890291745216454
+annotation: '{"channel": "noirlab", "itemid": "gemini-2013-ngc2346-legacy", "publishedUTCISO8601":
+  "2020-06-30T21:55:20+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.809321421846806
+description: This near-infrared image obtained with GeMS adaptive optics system reveals
+  the fine detail inside NGC 2346, a planetary nebula informaly also known as the
+  &#x27;Butterfly Nebula.&#x27; At the center of the nebula is a binary star system.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini-2013-ngc2346-legacy/L{1}X{2}Y{3}.png
+name: NGC 2346
+ra_hr: 7.156387966578727
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini-2013-ngc2346-legacy/thumb.jpg
+zoom_level: 0.22890291745216454
+---
+_uuid: 74b79b14-b0c0-4ba5-8467-6c8c218af037
+angular_size: 0.897739182322606
+annotation: '{"channel": "noirlab", "itemid": "gemini0502c", "publishedUTCISO8601":
+  "2005-01-10T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -26.426550844584092
+description: An extremely active stellar nursery glows in deep reddish tones in this
+  Gemini view of NGC2467 in the southern constellation of Puppis. The image displays
+  a striking array of features that illustrate multiple phases of star birth. In the
+  lower right, young stars are emitting hot radiation, exciting the nearby gas and
+  causing it to glow and revealing denser gas and dust clouds. Dust lanes and dark
+  globules mark sites of future star formation. A cluster of young stars dominates
+  the left edge of the field of view. It is likely that several million years ago
+  this region resembled the currently active star birth regions seen in the right
+  half of the image. A “wall” of denser material dominates the right side of the image.
+  Here ultraviolet radiation from nearby stars is removing material by a process called
+  photo-evaporation and revealing underlying dense clouds that likely harbor forming
+  stars. At bottom left a star can be seen exciting the cocoon of gas and dust from
+  which it likely emerged. The NGC2467 complex lies about 17,000 light-years away.
+  Its distance has been calculated based upon a likely association with a nearby cluster
+  (Haffner 19, not within image). This image was obtained on December 5, 2004 using
+  the Gemini Multi-Object Spectrograph (GMOS) on the Gemini South telescope at Cerro
+  Pachón in Chile. See also the Gemini Image Release.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0502c/L{1}X{2}Y{3}.png
+name: NGC 2467
+ra_hr: 7.873575754069215
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0502c/thumb.jpg
+zoom_level: 0.897739182322606
+---
+_uuid: 0e465417-0dbd-4302-8798-632c81ce8fc9
+angular_size: 0.20357080508816133
+annotation: '{"channel": "noirlab", "itemid": "gemini1504a", "publishedUTCISO8601":
+  "2015-07-09T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.808773042077748
+description: 'The new image of NGC 2346 showing unprecedented resolution of the molecular
+  hydrogen gas. The image is about 1 arc minute on a side: north is up, east is to
+  the left. In contrast, the size of the full moon is 30 arc minutes'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini1504a/L{1}X{2}Y{3}.png
+name: NGC 2346 - A Cosmic Butterfly’s Delicate Wings
+ra_hr: 7.156276791368846
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini1504a/thumb.jpg
+zoom_level: 0.20357080508816133
+---
+_uuid: da88a82a-4e44-4e23-8ac4-a5734592c63b
+annotation: '{"channel": "noirlab", "itemid": "noao-02350", "publishedUTCISO8601":
+  "2020-06-30T21:33:47.459109+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 35.057811973861995
+description: KPNO 4-meter Mayall telescope, 1975.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02350/L{1}X{2}Y{3}.png
+name: Distant cluster of galaxies in Gemini
+ra_hr: 7.130243577152429
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02350/thumb.jpg
+zoom_level: 2.6724
+---
+_uuid: 7e271e41-cd74-44a6-b6bc-89136907c207
+angular_size: 3.2436612
+annotation: '{"channel": "noirlab", "itemid": "noao-ic468", "publishedUTCISO8601":
+  "2020-06-30T21:34:09+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -13.225913107235662
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the KPNO 0.9m-meter telescope at Kitt Peak National Observatory. Informally known
+  as ‘Thor’s Helmet’, NGC 2359 (IC 468) is a giant bubble that is being blown off
+  of the Wolf-Rayet star HD 56925. Wolf-Rayet stars are extremely massive stars that
+  are very hot and luminous. Their intense energy blows off the outer layers, causing
+  the bubble shape seen here. The complex shape of the bubble is due to its interaction
+  with dust and gas in which the star is embedded. The image was generated with observations
+  in Hydrogen alpha (orange), Oxygen [OIII] (blue) and Sulfur [SII] (violet) filters.
+  In this image, North is left, East is down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ic468/L{1}X{2}Y{3}.png
+name: Thor’s Helmet, NGC 2359, IC 468
+ra_hr: 7.310938450743841
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ic468/thumb.jpg
+zoom_level: 3.2436612
+---
+_uuid: 2d101f14-dd5c-4f0e-a5a9-7672d000377a
+angular_size: 3.16404
+annotation: '{"channel": "noirlab", "itemid": "noao-m93", "publishedUTCISO8601": "2020-06-30T21:53:14+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -23.856677983591453
+description: M93 is an open star cluster in the constellation Puppis. A small but
+  bright system, it contains maybe 100 members spread over some 25 light-years in
+  diameter, at a distance of around 3500 light-years. CCD color composite from data
+  taken on the nights of September 20th and 21st 1997 (UT), at the Burrell Schmidt
+  telescope of Case Western Reserve University&#x27;s Warner and Swasey Observatory.
+  The Burrell Schmidt is located on Kitt Peak, near Tucson, Arizona.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m93/L{1}X{2}Y{3}.png
+name: M93, NGC 2447
+ra_hr: 7.742405985745805
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m93/thumb.jpg
+zoom_level: 3.16404
+---
+_uuid: a47c3a6c-4bdb-4b63-8b00-ebae0bcb48a2
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc2442", "publishedUTCISO8601":
+  "2007-04-02T18:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.54279824468179
+description: 'GC2442 is a barred (SBbc) spiral galaxy in Volans with a visual magnitude
+  of 10.4 at Right Ascension (2000.0): 07:36:19.0 and Declination (2000.0): -69:31:30.
+  It is approximately 5x6 arcminute. In this image, North is toward the upper left,
+  East is to the lower left The field is approx. 10 x 10 arcmin.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc2442/L{1}X{2}Y{3}.png
+name: Barred Spiral Galaxy NGC 2442
+ra_hr: 7.6066763733392735
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc2442/thumb.jpg
+zoom_level: 1.6326528000000002
+---
+_uuid: a4614963-26e9-46c7-ad36-f93b70f0c561
+angular_size: 2.7009600000000002
+annotation: '{"channel": "noirlab", "itemid": "noao0203a", "publishedUTCISO8601":
+  "2002-06-03T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 21.55125663046828
+description: New observations of the richly populated star cluster NGC 2420 taken
+  by the refurbished WIYN 0.9-meter telescope at Kitt Peak National Observatory suggest
+  that the cluster contains a multitude of clues about the history and evolution of
+  the Milky Way. NGC 2420 consists of approximately 1,000 stars packed into a roughly
+  spherical volume of space just 30 light-years in diameter. Because all of the stars
+  in a star cluster have similar ages and initial compositions, star clusters can
+  be used as a laboratory to study many different areas of astronomy. Further details
+  of this interesting result can be found in NOAO press release 02-04.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0203a/L{1}X{2}Y{3}.png
+name: Solar composition star cluster
+ra_hr: 7.641463154048022
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0203a/thumb.jpg
+zoom_level: 2.7009600000000002
+---
+_uuid: c61de5ae-b7a6-4d50-9a38-f15e46e945e4
+annotation: '{"channel": "noirlab", "itemid": "noao0608a", "publishedUTCISO8601":
+  "2006-03-08T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -46.990844490407056
+description: The image from the Blanco 4-meter telescope was taken in four filters,
+  three of which are for blue, green and near-infrared light. The fourth is designed
+  to isolate a specific color of red, known as hydrogen-alpha, which is produced by
+  warm hydrogen gas.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0608a/L{1}X{2}Y{3}.png
+name: Cometary Globule CG4
+ra_hr: 7.564596109780211
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0608a/thumb.jpg
+zoom_level: 3.7526615999999993
+---
+_uuid: 8155832b-3c84-4ee7-a6d7-a000515711b6
+annotation: '{"channel": "noirlab", "itemid": "noaoann09008a", "publishedUTCISO8601":
+  "2009-04-21T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 13.254419591275832
+description: The Medusa nebula, known scientifically as Abell 21, is an old planetary
+  nebula some 1,500 light-years away in the constellation Gemini. It is estimated
+  to be over 4 light-years across. This image was taken on Oct 24th, 2008 at the Mayall
+  telescope with the mosaic camera, with [OIII] (assigned a blue color) and H-alpha
+  (orange) filters This image was released during the 100 Hours of Astronomy webcast,
+  &quot;Around the World in 80 Telescopes&quot; held from April 3-4, 2009, during
+  the International Year of Astronomy 2009. View the recorded event from KPNO. See
+  also this image of NGC 6520 from CTIO, which was also released during the webcast.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noaoann09008a/L{1}X{2}Y{3}.png
+name: Medusa nebula, Abell 21
+ra_hr: 7.4842885947733455
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noaoann09008a/thumb.jpg
+zoom_level: 6.103417052180662
+---
+_uuid: 65957b6b-f173-4d70-8833-06520e460574
+angular_size: -2.351304
+annotation: '{"channel": "noirlab", "itemid": "noaoann10014a", "publishedUTCISO8601":
+  "2010-06-08T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -13.224874242684
+description: Thor’s Helmet in Canis Major is about 15,000 light years distant. A large
+  bright star near the helmet’s center has created this interstellar bubble by the
+  force of its “stellar wind”. However, this star, known as a Wolf-Rayet star, may
+  go supernova in the relatively near astronomical future. In the meantime, we can
+  continue to enjoy images of NGC 2359. This image was created by first assembling
+  a simple RGB from the 2 hours/channel RGB data. The H-alpha data was layered over
+  the red in Photoshop’s lighten mode; the same with the OIII data for the green and
+  blue channels. This allowed us to create an image with RGB stars but enhanced nebula
+  detail from the H-alpha and OIII data. Then a composite (H-alpha+OIII) layer was
+  pasted over the (R+Ha)(G+OIII)(B+OIII) image. The opacity of the composite layer
+  was reduced somewhat to allow the RGB stars to shine through. The star appearance
+  was kept relatively subdued, so as not to detract from the nebula.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noaoann10014a/L{1}X{2}Y{3}.png
+name: Thor’s Helmet, NGC 2359
+ra_hr: 7.30838961540545
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noaoann10014a/thumb.jpg
+zoom_level: 2.08633851485842
+---
 _uuid: 3b10fd74-4801-49bb-b3fa-88fb3977358f
 angular_size: 1.0
 classification: Galaxy

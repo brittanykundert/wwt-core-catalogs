@@ -1,3 +1,344 @@
+_uuid: 2249ceee-c3c7-4fd7-8fb1-36a63a8d2917
+angular_size: 0.8639437603248039
+annotation: '{"channel": "noirlab", "itemid": "gemini-20080825-gemini-deepf-quasar-0001",
+  "publishedUTCISO8601": "2004-08-17T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 2.0295245833387696
+description: 'Obtained during the commissioning and system verification phase of GMOS,
+  the Gemini Multi-Object Spectrograph, this Gemini Deep Field image is centered on
+  the z=4 quasar QSO PMN2314+0201. The final image is the result of a combination
+  of several frames taken with g&#x27;, r&#x27; and i&#x27; filters. The colors represented
+  in this image indicate the different ages of stars within the galaxies as well as
+  the stretching of light toward the red end of the spectrum as it travels across
+  the expanding universe. Because of the filters used, and the fact that this is an
+  RGB composite image, the quasar and some other red objects appear green. This image
+  will be used to identify objects for which spectroscopy will be later obtained on
+  Gemini. The large 8-10m class ground-based telescope can deliver much deeper (x10)
+  spectroscopic data than HST that is limited by its 2.4 m aperture. See Image Release
+  for details Technical Details: Acquisition Date(s): August 23-24, 2002 &amp; Nov.
+  16, 2001 (r&#x27; band) Telescope: Gemini North, Mauna Kea Hawai&#x27;i Instrument:
+  GMOS (Gemini Multi-Object Spectrograph) Field of View: ~ 5 x 5 arcminutes [url=http://www.gemin'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini-20080825-gemini-deepf-quasar-0001/L{1}X{2}Y{3}.png
+name: Quasar & Deep Galaxy Field
+ra_hr: 23.24687967991632
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini-20080825-gemini-deepf-quasar-0001/thumb.jpg
+zoom_level: 0.8639437603248039
+---
+_uuid: c9cc1137-1de7-4b05-8914-ce29d2f88766
+angular_size: 3.7175736
+annotation: '{"channel": "noirlab", "itemid": "gemini-ic5332final", "publishedUTCISO8601":
+  "2014-05-23T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.91141764715871
+description: 'This stunning image shows the dynamic spiral galaxy IC 5332 in a field
+  of view studded with smaller, more distant, galaxies. Popularly known as the Corsage
+  Galaxy, IC 5332 displays beautifully symmetric spiral arms that unwind gracefully
+  from a small and compact central bulge.   Actually, IC 5332 features two main spiral
+  arms that continually split into more feathery ones as they extend outwards. Pink
+  “bubbles” of nebulous matter dot the arms. These are massive regions of glowing
+  hydrogen gas and the sites of active star formation.   The abundance of galaxies
+  surrounding IC 5332 is a chance alignment with an assortment of more distant galaxies
+  providing a extragalactic backdrop. Astronomers suspect that IC 5332 belongs to
+  the Sculptor group of galaxies — one of the closest to our Local Group at a distance
+  of about 10 million light years.   Isobelle Teljega (a student at St. Margaret’s
+  Anglican Girls School in the Brisbane suburb of Ascot, Queensland, Australia) suggested
+  Gemini South take this image as part of her winning entry in the student division
+  of Australia’s 2013 Gemini Astronomy Imaging Contest.   '
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini-ic5332final/L{1}X{2}Y{3}.png
+name: A Graceful Spiral in a Blizzard of Galaxies
+ra_hr: 23.593711324312956
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini-ic5332final/thumb.jpg
+zoom_level: 3.7175736
+---
+_uuid: 0a68bbe5-68ab-4a02-873b-262b07aa7938
+angular_size: 0.2824915145026974
+annotation: '{"channel": "noirlab", "itemid": "gemini1306d", "publishedUTCISO8601":
+  "2013-08-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -42.3869313728579
+description: Spiral galaxy NGC 7582 is the brightest member of the Grus Quartet of
+  galaxies, some 60 million light-years distant traveling together through space.
+  In this near-infrared image, FLAMINGOS-2 resolved its high quantity of dust that
+  line NGC 7582’s arms as well as regions rich in star formation.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini1306d/L{1}X{2}Y{3}.png
+name: NGC 7582
+ra_hr: 23.3091702938108
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini1306d/thumb.jpg
+zoom_level: 0.2824915145026974
+---
+_uuid: 9b8707d7-dbc7-4685-82ed-a49844c985b8
+angular_size: 0.9033559549792012
+annotation: '{"channel": "noirlab", "itemid": "geminiann02007a", "publishedUTCISO8601":
+  "2002-09-10T05:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 2.0309892288845544
+description: Gemini Deep Field is centered on z=4 quasar QSO PMN2314+0201.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/geminiann02007a/L{1}X{2}Y{3}.png
+name: Gemini Deep Field is centered on z=4 quasar QSO PMN2314+0201
+ra_hr: 23.246909484791217
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/geminiann02007a/thumb.jpg
+zoom_level: 0.9033559549792012
+---
+_uuid: a92ca96c-c9e1-4105-bb0f-c69d07138f88
+angular_size: 0.33698669794033154
+annotation: '{"channel": "noirlab", "itemid": "geminiann11015a", "publishedUTCISO8601":
+  "2011-11-15T14:27:12+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -42.5998939548495
+description: 'Gemini GMOS image of the barred spiral galaxy NGC 7552. Benjamin Reynolds,
+  a 10th grade student at Sutherland Shire Christian School, suggested this target
+  for Australia’s 2011 Gemini School Astronomy Contest and won. The picture consists
+  of separate images taken with different filters: H-alpha (red), g (blue), r (green),
+  and i (yellow).'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/geminiann11015a/L{1}X{2}Y{3}.png
+name: Gemini GMOS image of the barred spiral galaxy NGC 7552
+ra_hr: 23.272795591537
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/geminiann11015a/thumb.jpg
+zoom_level: 0.33698669794033154
+---
+_uuid: 65e7fa14-5ff4-4a28-84df-069e25b7429b
+annotation: '{"channel": "noirlab", "itemid": "iotw2136a", "publishedUTCISO8601":
+  "2021-09-08T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -32.59072852187765
+description: This observation from the international Gemini Observatory — a Program
+  of NSF’s NOIRLab — showcases a flocculent spiral galaxy that lies nearly 12 million
+  light-years away in the constellation Sculptor. The word flocculent means “fluffy”
+  or “wooly,” and refers to these galaxies’ strangely tufty appearance when compared
+  to the elegant spiral arms of galaxies such as Andromeda. The constellation Sculptor
+  lies close to the south Galactic pole. This means that celestial objects within
+  Sculptor — such as NGC 7793 — can be studied by telescopes in Earth’s southern hemisphere,
+  like Gemini South. From its mountaintop perch in the Chilean Andes, Gemini South
+  has a spectacular view of intriguing southern-sky objects such as NGC 7793, the
+  Magellanic Clouds, and the center of the Milky Way.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/iotw2136a/L{1}X{2}Y{3}.png
+name: A Very Wooly Galaxy
+ra_hr: 23.96107316718595
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/iotw2136a/thumb.jpg
+zoom_level: 0.7634160728389809
+---
+_uuid: a39c1145-d3cf-4ea3-b236-0ce57b4e67d0
+angular_size: 0.8487495975747499
+annotation: '{"channel": "noirlab", "itemid": "noao-bubble", "publishedUTCISO8601":
+  "2020-06-30T21:34:02+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 61.19664866213584
+description: The Bubble Nebula is a shell of gas and dust carved out by the stellar
+  wind of the massive central star (BD+602522, for the cognoscenti), and ionized by
+  the same star&#x27;s high-energy light. The Bubble Nebula is in the constellation
+  Cassiopeia, and is bright enough to be seen with a small telescope. It is about
+  10 light-years across, and is part of a much larger complex of stars and gaseous
+  shells. This picture was created from several exposures in each of three filters
+  made with the T1KA CCD camera at the Kitt Peak National Observatory&#x27;s 2.1-meter
+  telescope in August of 1999. See also the wide-angle view of the Bubble, including
+  M52.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-bubble/L{1}X{2}Y{3}.png
+name: The Bubble Nebula, NGC 7635
+ra_hr: 23.34575486028436
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-bubble/thumb.jpg
+zoom_level: 0.8487495975747499
+---
+_uuid: 5dce28cf-8912-460e-8487-00566d814a48
+angular_size: 2.279441490994466
+annotation: '{"channel": "noirlab", "itemid": "noao-jones1", "publishedUTCISO8601":
+  "2020-06-30T21:34:05+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 30.47152096994215
+description: PK 104-29.1, also known as &quot;Jones 1&quot;, is a very faint, ghostlike
+  planetary nebula in the constellation of Pegasus. This image was taken at the Mayall
+  telescope with the Mosaic camera, with [OIII] (assigned a blue color) and H-alpha
+  (orange) filters. In the image North is up and East is to the left. Imaged August
+  28, 2009.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-jones1/L{1}X{2}Y{3}.png
+name: Jones 1, PK 104-29.1
+ra_hr: 23.598707913794158
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-jones1/thumb.jpg
+zoom_level: 2.279441490994466
+---
+_uuid: 765c37fa-5913-4a69-8d58-c04fb3dd45aa
+angular_size: 1.4069880000000001
+annotation: '{"channel": "noirlab", "itemid": "noao-kjpn8", "publishedUTCISO8601":
+  "2020-06-30T21:34:05+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 60.962250703714915
+description: This image was taken with the KPNO Mayall 4-meter telescope on November
+  5, 2010. Located in the constellation of Cassiopeia, KjPn8 (also known as PN G112.5-00.1)
+  is a very unusual bipolar planetary nebula. Its complex structure is the result
+  of irregular ejections of gas in different directions. It was observed in the narrowband
+  filters of Oxygen [OIII] (blue) and Hydrogen-Alpha (red). North is down, East is
+  to the right.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-kjpn8/L{1}X{2}Y{3}.png
+name: Bipolar Planetary Nebula KjPn8 (PN G112.5-00.1)
+ra_hr: 23.402866031653716
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-kjpn8/thumb.jpg
+zoom_level: 1.4069880000000001
+---
+_uuid: c97de054-8a8b-416d-9420-9d940c5df57f
+angular_size: 10.038064799999999
+annotation: '{"channel": "noirlab", "itemid": "noao-m52r", "publishedUTCISO8601":
+  "2020-06-30T21:34:07+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 61.425432545958024
+description: Open star cluster M52 (NGC7654) and the Bubble emission nebula (NGC7635).
+  This combination of CCD images from the Kitt Peak Burrell Schmidt telescope extends
+  more than a degree across the sky (twice the diameter of the full moon). A closer
+  view of M52 is also available, as well as an excellently detailed image of the Bubble
+  Nebula from the KPNO 2.1-meter telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m52r/L{1}X{2}Y{3}.png
+name: M52 and the Bubble Nebula
+ra_hr: 23.377336336589494
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m52r/thumb.jpg
+zoom_level: 10.038064799999999
+---
+_uuid: 244b0f22-541a-454e-b892-5b17ee73c8f4
+angular_size: 2.0902676399999995
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc7635podi", "publishedUTCISO8601":
+  "2012-09-04T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 61.16567970874457
+description: This central, cosmetically corrected view of NGC 7635 shows the nebulosity
+  carved out by the winds of the massive central star and demonstrates the exquisite
+  image quality of the new One Degree Imager camera on the WIYN 3.5-m telescope. A
+  wide-view image of the nebula, demonstrating the large field of view of the camera,
+  is found here.  For more information, see NOAO Press Release 12-07.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc7635podi/L{1}X{2}Y{3}.png
+name: Bubble Nebula (NGC 7635)
+ra_hr: 23.344935656422123
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc7635podi/thumb.jpg
+zoom_level: 2.0902676399999995
+---
+_uuid: a4861032-dcd9-4625-88b1-b6031239bd3d
+angular_size: 3.399659999999999
+annotation: '{"channel": "noirlab", "itemid": "noao-peg", "publishedUTCISO8601": "2020-06-30T21:33:47.158732+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 14.74015247002711
+description: 'The Pegasus Local Group dwarf galaxy, as observed with the KPNO Mayall
+  4-m telescope and Mosaic camera as part of the NOAO-sponsored Local Group Survey
+  (PI: Philip Massey, Lowell Observatory). The image is a true-color combination of
+  images in three of the filters used by the survey. The full complement of survey
+  data include images in broad-band/ UBVRI/, as well as through filters centered on
+  the H-alpha, [SII], and [OIII] emission lines. All of the data, description of the
+  analysis, and UBVRI photometry are available through the Local Group Survey website.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-peg/L{1}X{2}Y{3}.png
+name: The Pegasus Local Group dwarf galaxy
+ra_hr: 23.476713531079866
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-peg/thumb.jpg
+zoom_level: 3.399659999999999
+---
+_uuid: 380aebf2-d98a-47fd-b42a-51a1b5f8b17d
+angular_size: 3.3879971825993285
+annotation: '{"channel": "noirlab", "itemid": "noao-wr157", "publishedUTCISO8601":
+  "2020-06-30T21:53:16+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 60.4763249383662
+description: This image of Supernova 2002ic was taken at the Swope 1-meter telescope
+  at Las Campanas Observatory in Chile on January 7, 2003. The supernova is the bright
+  point of light in the center, at the intersection of two background galaxies. The
+  host galaxy of the supernova is extremely faint and is not visible. A strong signal
+  of hydrogen was detected in ground-based spectroscopic observations of the supernova,
+  leading a team of astronomers in Chile and the U.S. to conclude that the source
+  of this Type Ia supernova consisted of a white dwarf that suddenly exploded after
+  gaining hydrogen gas blown off by its gravitational partner, a common asymptotic
+  giant branch (AGB) star three to seven times as massive as the Sun. This is the
+  first unambiguous detection of the progenitor of a Type Ia supernova. Four spectroscopic
+  observations of SN2002ic were made using the Baade 6.5-meter and 2.5-meter Dupont
+  telescopes at Las Campanas between November 2002 and January 2003.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-wr157/L{1}X{2}Y{3}.png
+name: Sharpless 157 (WR 157)
+ra_hr: 23.268030491444776
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-wr157/thumb.jpg
+zoom_level: 3.3879971825993285
+---
+_uuid: 4ba75c02-3a17-4a94-9d9f-a210b0ba8bbf
+annotation: '{"channel": "noirlab", "itemid": "noao0702a", "publishedUTCISO8601":
+  "2007-01-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 61.24927446669929
+description: The Bubble Nebula (NGC7635) is one of three shells of gas surrounding
+  the massive star BD+602522, the bright star near the center of the bubble. Energetic
+  radiation from the star ionizes the shell, causing it to glow. About six light-years
+  in diameter, the Bubble Nebula is located in the direction of the constellation
+  Cassiopeia. The magenta wisps near the bottom-right of the image are an unexpected
+  bonus—the wisps are the remnants of a supernova that exploded thousands of years
+  ago. This is the first optical image of the supernova remnant, which was discovered
+  at radio wavelengths by the Canadian Galactic Plane Survey in 2005.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0702a/L{1}X{2}Y{3}.png
+name: The Bubble Nebula (NGC 7635)
+ra_hr: 23.34186253851704
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0702a/thumb.jpg
+zoom_level: 6.164308799999999
+---
+_uuid: 63375b06-3ee7-4ba8-a64e-1bd7a7f89729
+annotation: '{"channel": "noirlab", "itemid": "noao1207a", "publishedUTCISO8601":
+  "2012-12-04T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 61.17809018235457
+description: This wide field view of NGC 7635 shows the nebulosity carved out by the
+  winds of the massive central star and demonstrates the exquisite image quality of
+  the new One Degree Imager camera on the WIYN 3.5-m telescope. An image of the central
+  portion of the nebula, cosmetically corrected, is found here. For more information,
+  see NOAO Press Release 12-07.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao1207a/L{1}X{2}Y{3}.png
+name: Wide field view of NGC 7635
+ra_hr: 23.345064958916144
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao1207a/thumb.jpg
+zoom_level: 5.300763587919184
+---
+_uuid: 5c323ef0-b4cf-4097-b199-d168802145a0
+angular_size: 5.7803043
+annotation: '{"channel": "noirlab", "itemid": "noao1301a", "publishedUTCISO8601":
+  "2013-02-12T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 80.9220289520928
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. Sh2-174 is an
+  unusual ancient planetary nebula. A planetary nebula is created when a low-mass
+  star blows off its outer layers at the end of its life. The core of the star remains
+  and is called a white dwarf. Usually the white dwarf can be found very near the
+  center of the planetary nebula. But in the case of Sh2-174 it off to the right.
+  (It is the very blue star near the center of the blue gas). This asymmetry is due
+  to the planetary nebula&#x27;s interaction with the interstellar medium that surrounds
+  it. The image was generated with observations in the B (blue), I (orange), Hydrogen-alpha
+  (red) and Oxygen [OIII] (blue) filters. In this image, North is up, East is to the
+  left. This image was the subject of NOAO Press Release 13-01.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao1301a/L{1}X{2}Y{3}.png
+name: Planetary Nebula Sh2-174
+ra_hr: 23.788937962145177
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao1301a/thumb.jpg
+zoom_level: 5.7803043
+---
 _uuid: f4ab942e-b3ed-4a7c-a88b-785a1f7a3256
 angular_size: 1.0
 classification: Galaxy

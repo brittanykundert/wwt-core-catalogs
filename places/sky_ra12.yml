@@ -1,3 +1,846 @@
+_uuid: b40adfed-7818-4f0b-a55f-b30254ac0a66
+annotation: '{"channel": "noirlab", "itemid": "gemini0406a", "publishedUTCISO8601":
+  "2004-10-08T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.803213851527595
+description: This Canada-France-Hawaii Telescope image shows a small section of the
+  nearby Virgo cluster of galaxies dominated by two giant elliptical galaxies on the
+  left side of the image. The Gemini Deep Deep Survey (GDDS) studied much more distant
+  galaxies than those shown in this image. However, the nearby elliptical galaxies
+  in this image are thought to be older and even more massive, yet similar to some
+  of the larger distant galaxies studied in the GDDS. Note the bright, smaller and
+  bluer spiral galaxies on the right (center and bottom). These nearby spiral galaxies
+  have active star formation occurring that makes them appear brighter and bluer.
+  The limited number of galaxies observed spectroscopically in the redshift desert
+  prior to the GDDS were mostly of this type. The GDDS allowed astronomers to thoroughly
+  survey the more massive, redder yet dimmer galaxies as well. Light from galaxies
+  in the nearby Virgo cluster has traveled for approximately 45 million years, whereas
+  light from the galaxies studied in the GDDS has been traveling between 8-11 billion
+  years to reach us.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0406a/L{1}X{2}Y{3}.png
+name: Nearby Galaxies Illustrate the Power of the Gemini Deep Deep Survey
+ra_hr: 12.429154037451502
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0406a/thumb.jpg
+zoom_level: 5.505194843618393
+---
+_uuid: 6d6c58ef-f54a-4135-a07b-268dc11b85b9
+angular_size: 4.246403427260831
+annotation: '{"channel": "noirlab", "itemid": "geminiann08018a", "publishedUTCISO8601":
+  "2008-07-31T15:52:08+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 37.80872169086304
+description: SDSS g-r-i’ band image of the late-type spiral NGC 4244 seen edge-on.
+  The NSC is visible as a small, almost point-like, white spot at the center.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/geminiann08018a/L{1}X{2}Y{3}.png
+name: Image of the late-type spiral NGC 4244
+ra_hr: 12.291541689019773
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/geminiann08018a/thumb.jpg
+zoom_level: 4.246403427260831
+---
+_uuid: 4d42288d-edf5-49ae-bcc7-d6aa50d296f9
+annotation: '{"channel": "noirlab", "itemid": "noao-02270", "publishedUTCISO8601":
+  "2020-06-30T21:33:54+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -11.623477925058038
+description: The Sombrero Galaxy, of type Sa/Sb in the constellation Virgo, as seen
+  by the KPNO 4-meter Mayall telescope in 1974.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02270/L{1}X{2}Y{3}.png
+name: M104, NGC 4594
+ra_hr: 12.666413711064111
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02270/thumb.jpg
+zoom_level: 1.8054000000000001
+---
+_uuid: 32123f93-41cb-4ed2-b738-4b6d2b49c9c4
+annotation: '{"channel": "noirlab", "itemid": "noao-02275", "publishedUTCISO8601":
+  "2020-06-30T21:33:50+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 7.999015221406024
+description: An elliptical galaxy of type E1 in the constellation Virgo, M49 is a
+  perhaps less well known member of the Virgo Cluster, which contains M87, M86 and
+  M84, amongst others. Nearly spherical, it has almost no gas or dust between its
+  stars and shows no evidence of recent star formation. It is about 60 million light-years
+  away and about 50000 light-years across. KPNO 4-meter Mayall telescope, 1975. We
+  also have a newer color image from the KPNO 0.9-m telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02275/L{1}X{2}Y{3}.png
+name: M49, NGC 4472
+ra_hr: 12.496228064296417
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02275/thumb.jpg
+zoom_level: 1.7365499999999998
+---
+_uuid: 2f0f8c92-183d-4b3c-ac9e-aae428db2685
+annotation: '{"channel": "noirlab", "itemid": "noao-02284", "publishedUTCISO8601":
+  "2020-06-30T21:33:53+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.120616675182504
+description: M94, a type Sb spiral galaxy in the constellation Canes Venatici, as
+  seen by the KPNO 4-meter Mayall telescope in 1975.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02284/L{1}X{2}Y{3}.png
+name: M94, NGC 4736
+ra_hr: 12.84822262765746
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02284/thumb.jpg
+zoom_level: 1.25868
+---
+_uuid: 953171b6-9538-461a-b8bc-5f46446b2294
+annotation: '{"channel": "noirlab", "itemid": "noao-02286", "publishedUTCISO8601":
+  "2020-06-30T21:33:58+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 25.994933972912328
+description: NGC4565 is an edge-on spiral galaxy of type Sb in the constellation Coma
+  Berenices. KPNO 2.1-meter telescope, 1973.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02286/L{1}X{2}Y{3}.png
+name: Edge-on spiral NGC 4565
+ra_hr: 12.604787017555537
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02286/thumb.jpg
+zoom_level: 2.5296
+---
+_uuid: b5f54a4a-8678-4235-8b3a-4ff8459da429
+angular_size: 2.4888
+annotation: '{"channel": "noirlab", "itemid": "noao-02287", "publishedUTCISO8601":
+  "2020-06-30T21:33:58+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 32.5340615022418
+description: NGC4631, a type Sc spiral galaxy in the constellation Canes Venatici,
+  as seen by the KPNO 4-meter Mayall telescope in 1975. The small companion galaxy
+  is NGC4627.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02287/L{1}X{2}Y{3}.png
+name: NGC 4631, Arp 281
+ra_hr: 12.701796454512
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02287/thumb.jpg
+zoom_level: 1.592832
+---
+_uuid: 5e43a167-95b9-43f0-a951-de90b7f4cd92
+annotation: '{"channel": "noirlab", "itemid": "noao-02328", "publishedUTCISO8601":
+  "2020-06-30T21:33:52+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.945674565451315
+description: M86 is a lenticular galaxy, although some prefer to call it an elliptical,
+  and a member of the large Virgo Cluster of galaxies, in the constellation Virgo.
+  M86 is about 60 million light-years away, maybe 25000 light-years across, and was
+  imaged by the KPNO 4-meter Mayall telescope in 1975. We also have a newer color
+  image from the KPNO 0.9-m telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02328/L{1}X{2}Y{3}.png
+name: M86, NGC 4406
+ra_hr: 12.436825260893261
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02328/thumb.jpg
+zoom_level: 0.8975999999999997
+---
+_uuid: 1bd912a9-e0f3-45f0-9713-574531958671
+annotation: '{"channel": "noirlab", "itemid": "noao-02330", "publishedUTCISO8601":
+  "2020-06-30T21:33:51+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 21.681707925652898
+description: M64, or NGC4826, also known as the `Black Eye&#x27; galaxy, is a type
+  Sa/Sb spiral galaxy in the constellation Coma Berenices. KPNO 4-meter Mayall telescope,
+  1975.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02330/L{1}X{2}Y{3}.png
+name: M64, NGC 4826
+ra_hr: 12.945732402705824
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02330/thumb.jpg
+zoom_level: 1.6136400000000002
+---
+_uuid: 53f36c06-9a4e-43eb-93ca-29c5a0818f42
+annotation: '{"channel": "noirlab", "itemid": "noao-02335", "publishedUTCISO8601":
+  "2020-06-30T21:33:58+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -1.195368093293593
+description: NGC4753 is an unusual lenticular galaxy of type S0(pec), in the constellation
+  Virgo. Although the underlying galaxy is smooth and nearly elliptical, the irregular
+  dust lanes are not common. KPNO 4-meter Mayall telescope, 1975.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02335/L{1}X{2}Y{3}.png
+name: NGC 4753 in Virgo
+ra_hr: 12.872850272429934
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02335/thumb.jpg
+zoom_level: 1.2484799999999998
+---
+_uuid: b86a9ed3-ec7b-493c-80af-dba9d0a9f802
+annotation: '{"channel": "noirlab", "itemid": "noao-02345", "publishedUTCISO8601":
+  "2020-06-30T21:33:46.935532+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 27.98298369609153
+description: The Coma Berenices cluster of galaxies contains more than 1000 galaxies,
+  with a large number of E (elliptical) and S0 (lenticular) types. KPNO 4-meter Mayall
+  telescope, 1974.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02345/L{1}X{2}Y{3}.png
+name: Cluster of galaxies in Coma Berenices
+ra_hr: 12.994669950145262
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02345/thumb.jpg
+zoom_level: 2.55
+---
+_uuid: ec30d638-ca89-4d74-aa55-bc72ef94722c
+angular_size: 8.822999999999999
+annotation: '{"channel": "noirlab", "itemid": "noao-02346", "publishedUTCISO8601":
+  "2020-06-30T21:34:01+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.8509992785441
+description: The Virgo cluster of galaxies includes M84 and M86. Thousands of galaxies
+  form a rich, loose, irregular cluster which is not strongly concentrated towards
+  the center. KPNO 4-meter Mayall telescope, 1974. See also this Schmidt image.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02346/L{1}X{2}Y{3}.png
+name: Cluster of galaxies in Virgo
+ra_hr: 12.4418708398052
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02346/thumb.jpg
+zoom_level: 5.64672
+---
+_uuid: a1b1e88f-2b6f-4931-b80f-f94b3e12b5a1
+annotation: '{"channel": "noirlab", "itemid": "noao-02353", "publishedUTCISO8601":
+  "2020-06-30T21:33:46.677631+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -41.385923545550405
+description: This cluster of galaxies in the constellation Centaurus is more easily
+  seen from the Southern Hemisphere. CTIO 4-meter Blanco telescope, 1975.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02353/L{1}X{2}Y{3}.png
+name: Cluster of galaxies in Centaurus
+ra_hr: 12.832130678541207
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02353/thumb.jpg
+zoom_level: 4.202399999999999
+---
+_uuid: c11f954d-2e42-4f3a-beef-92fad4f1d5ce
+angular_size: 2.277558
+annotation: '{"channel": "noirlab", "itemid": "noao-m100", "publishedUTCISO8601":
+  "2003-03-07T12:35:21+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 15.832750978713916
+description: M100 is one of the brighter galaxies in the Virgo Cluster, although it&#x27;s
+  actually located in the constellation Coma Berenices. It is a spiral galaxy of type
+  Sc, nearly face-on and showing strong blue (young star) spiral arms. In addition,
+  this picture shows two nearby dwarf galaxies, while still managing not to saturate
+  the inner regions of M100.  The Virgo cluster also includes Messier galaxies M49,
+  M58, M59, M60, M61, M84, M85, M86, M87, M88, M89, M90, M91, M98, and M99.  This
+  image was taken with the WIYN 0.9-meter telescope at the Kitt Peak National Observatory
+  on the night of December 20th 2002 UT. Image size 15.3 arc minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m100/L{1}X{2}Y{3}.png
+name: M100, NGC 4321
+ra_hr: 12.382177757861797
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m100/thumb.jpg
+zoom_level: 2.277558
+---
+_uuid: eaaf0647-1eee-4787-9e43-d4b1425f188a
+angular_size: 1.4884247999999998
+annotation: '{"channel": "noirlab", "itemid": "noao-m104", "publishedUTCISO8601":
+  "2020-06-30T21:33:54.844561+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -11.623813790612987
+description: M104, or NGC4594, is a spiral galaxy, type Sa/Sb, in the constellation
+  Virgo. M104 is popularly known as the Sombrero Galaxy due to its dark rim of obscuring
+  dust around a large central bulge. In this picture, the dust shows up as brown due
+  to its absorption of blue light (an effect known as reddening), while the bulge
+  has been reduced in significance by compressing the dynamic range of the data, better
+  to show the inner details.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m104/L{1}X{2}Y{3}.png
+name: M104, NGC 4594
+ra_hr: 12.666454869967822
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m104/thumb.jpg
+zoom_level: 1.4884247999999998
+---
+_uuid: a317fb93-4e44-4006-822e-fd99d5bbf7b5
+angular_size: 5.890867200000001
+annotation: '{"channel": "noirlab", "itemid": "noao-m106", "publishedUTCISO8601":
+  "2020-06-30T21:33:54.993253+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.313526656166445
+description: M106 is a type Sb spiral galaxy in the constellation Canes Venatici.
+  More edge-on than not, at a similar inclination to M31, its prominent dust lanes
+  trace spiral structure back almost to its nucleus. M106 is around 25 million light-years
+  away and may be a member of a loose galaxy grouping which includes M108 and M109,
+  although some have placed it in a different group. A somewhat peculiar spiral, sometimes
+  considered to have hints of a bar, M106 is also a Seyfert galaxy, showing strong
+  emission lines in spectra of its nucleus. This full color image was created from
+  nine images taken in the BVR pass-bands at the Burrell Schmidt telescope of Case
+  Western Reserve University&#x27;s Warner and Swasey Observatory. The Burrell Schmidt
+  is located on Kitt Peak, near Tucson, Arizona. The images were taken in June 1996
+  during the Research Experiences for Undergraduates (REU) program operated at the
+  Kitt Peak National Observatory and supported by the National Science Foundation.
+  North is at the top with east to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m106/L{1}X{2}Y{3}.png
+name: M106, NGC 4258
+ra_hr: 12.316287637182874
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m106/thumb.jpg
+zoom_level: 5.890867200000001
+---
+_uuid: ffdb82ce-1bc5-41cf-8c3c-0a9e22775ef6
+angular_size: 1.97197824
+annotation: '{"channel": "noirlab", "itemid": "noao-m58", "publishedUTCISO8601": "2020-06-30T21:33:50.667330+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 11.818591357655178
+description: M58 is a spiral galaxy of type SBc in the constellation Virgo, although
+  the bar is not prominent and some have classified it as intermediate between normal
+  and barred spirals. This CCD composite picture was taken in April 1998 at the Kitt
+  Peak 0.9-meter telescope. M58 is a member of the Virgo Cluster of galaxies, which
+  is the dominant cluster in our Local Supercluster and about 60 million light-years
+  away. The Virgo cluster also includes Messier galaxies M49, M59, M60, M61, M84,
+  M85, M86, M87, M88, M89, M90, M91, M98, M99, and M100.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m58/L{1}X{2}Y{3}.png
+name: M58, NGC 4579
+ra_hr: 12.628798806921637
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m58/thumb.jpg
+zoom_level: 1.97197824
+---
+_uuid: 7d65b303-8d9d-4f62-ab97-84dea019da98
+angular_size: 2.3133600000000003
+annotation: '{"channel": "noirlab", "itemid": "noao-m60", "publishedUTCISO8601": "2020-06-30T21:33:50.869798+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 11.572898871696227
+description: 'M60 is a large elliptical galaxy in the constellation Virgo, being about
+  120000 light-years across. It stands out in even small telescopes due to the proximity
+  of the late-type spiral NGC4647 (to the NW), but such apertures may only see the
+  central brighter regions, making M60 look considerably smaller. M60 has a large
+  system of faint globular clusters, many thousands being visible in deep pictures:
+  more than a few can be seen here. M60 is a member of the Virgo Cluster of galaxies,
+  which is the dominant cluster in our Local Supercluster and about 60 million light-years
+  away. This picture was taken in April 1998 at the KPNO 0.9-meter telescope.  The
+  Virgo cluster also includes Messier galaxies M49, M58, M59, M61, M84, M85, M86,
+  M87, M88, M89, M90, M91, M98, M99, and M100.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m60/L{1}X{2}Y{3}.png
+name: M60, NGC 4649
+ra_hr: 12.726747434073438
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m60/thumb.jpg
+zoom_level: 2.3133600000000003
+---
+_uuid: 49fe427b-f3f2-461b-b308-ec791be1d26b
+angular_size: 1.52796
+annotation: '{"channel": "noirlab", "itemid": "noao-m61", "publishedUTCISO8601": "2020-06-30T21:33:50.959986+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 4.473192840062091
+description: The SABbc spiral galaxy M61 is one of the larger galaxies in the Virgo
+  cluster, with a core dimension some 100000 light-years (6 arc minutes) across, comparable
+  to the size of our own Galaxy. This picture was taken in February 1996 at the KPNO
+  0.9-meter telescope. The Virgo cluster also includes Messier galaxies M49, M58,
+  M59, M60, M84, M85, M86, M87, M88, M89, M90, M91, M98, M99, and M100. Image size
+  15.9 arc minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m61/L{1}X{2}Y{3}.png
+name: M61, NGC 4303
+ra_hr: 12.365305575857604
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m61/thumb.jpg
+zoom_level: 1.52796
+---
+_uuid: 085968c5-75db-477b-9ed2-ce770440c684
+angular_size: 2.467584
+annotation: '{"channel": "noirlab", "itemid": "noao-m64", "publishedUTCISO8601": "2020-06-30T21:33:51.229694+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 21.684110207492004
+description: 'The &quot;Black Eye&quot; or &quot;Sleeping Beauty&quot; galaxy, M64
+  is a spiral galaxy of type Sb in the constellation Coma Berenices. The peculiar
+  dust lane to the north of the nucleus (top of image) may have been created from
+  a small companion galaxy absorbed into the main spiral, but not yet relaxed into
+  the mean orbital plane. This speculation is bolstered by the fact that M64 contains
+  two counter-rotating streams of gas and stars, whereas in most galaxies the material
+  all circulates the same way. Some 20 million light-years away, M64 is about 55000
+  light-years across (roughly half the size of M31/Andromeda or our Galaxy). M64 is
+  considered by some (but not others) to be in a group including M94 and various fainter
+  galaxies.  The present picture is a color composite of CCD images from the 0.9-meter
+  telescope of the Kitt Peak National Observatory, near Tucson, Arizona, taken in
+  January 1997 (and even when I was observing it I couldn&#x27;t understand why it
+  has the names it has: I must suffer from lack of imagination).  Image size 14.5
+  arc minutes.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m64/L{1}X{2}Y{3}.png
+name: M64, NGC 4826
+ra_hr: 12.945328333902715
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m64/thumb.jpg
+zoom_level: 2.467584
+---
+_uuid: 2b5000e1-8631-44c5-9b21-c3a7112e3f0d
+angular_size: 0.8670000000000001
+annotation: '{"channel": "noirlab", "itemid": "noao-m84", "publishedUTCISO8601": "2020-06-30T21:33:52.682390+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.88273469375431
+description: M84 is an elliptical galaxy of type E1 and a member of the large Virgo
+  Cluster of galaxies. There are also some suggestions that it is actually a face-on
+  lenticular galaxy. Lenticulars, type S0, are mostly smooth and featureless, like
+  elliptical galaxies, but have a significant amount of dust and often some disk-like
+  component, similar to the disk of a spiral galaxy without the arms. M84 contains
+  a small central active region, with two oppositely directed jets visible at radio
+  wavelengths. This image was taken at the KPNO 0.9-meter telescope in December 1996.  The
+  Virgo cluster also includes Messier galaxies M49, M58, M59, M60, M61, M85, M86,
+  M87, M88, M89, M90, M91, M98, M99, and M100.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m84/L{1}X{2}Y{3}.png
+name: M84, NGC 4374
+ra_hr: 12.417817889898494
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m84/thumb.jpg
+zoom_level: 0.8670000000000001
+---
+_uuid: f1a03b66-8f05-431a-b79b-e569504bbe2c
+angular_size: 0.8670000000000001
+annotation: '{"channel": "noirlab", "itemid": "noao-m85", "publishedUTCISO8601": "2020-06-30T21:33:52.784751+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 18.190540849121273
+description: A lenticular galaxy of type S0, M85 is the northernmost member of the
+  Virgo Cluster, and is therefore situated in the constellation Coma Berenices. M85
+  is very similar to M84. This picture was made from observations taken at KPNO&#x27;s
+  0.9-meter telescope in December 1996. The Virgo cluster also includes Messier galaxies
+  M49, M58, M59, M60, M61, M84, M86, M87, M88, M89, M90, M91, M98, M99, and M100.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m85/L{1}X{2}Y{3}.png
+name: M85, NGC 4382
+ra_hr: 12.423987800240447
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m85/thumb.jpg
+zoom_level: 0.8670000000000001
+---
+_uuid: eceb8e1c-57e7-4df8-9817-8409c18279c2
+angular_size: 0.8299331999999999
+annotation: '{"channel": "noirlab", "itemid": "noao-m87i", "publishedUTCISO8601":
+  "2020-06-30T21:33:53.060196+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.393663518831481
+description: A giant elliptical galaxy (E0) in the Virgo Cluster, M87 is a strong
+  radio source, known as 3C274 or Virgo A. This image was taken at the KPNO 0.9-meter
+  telescope in December 1996, and shows the inner regions of the galaxy, including
+  the well-known jet. The full extent of the galaxy can be better appreciated in this
+  composite mosaiced image of part of the Virgo cluster, or in this deep black and
+  white image from the KPNO Mayall 4-m telescope.  The Virgo cluster also includes
+  Messier galaxies M49, M58, M59, M60, M61, M84, M85, M86, M88, M89, M90, M91, M98,
+  M99, and M100.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m87i/L{1}X{2}Y{3}.png
+name: M87, NGC 4486
+ra_hr: 12.513957922349356
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m87i/thumb.jpg
+zoom_level: 0.8299331999999999
+---
+_uuid: 3170e124-9804-4974-b3e3-1c4e5222c855
+angular_size: 1.0418688
+annotation: '{"channel": "noirlab", "itemid": "noao-m88", "publishedUTCISO8601": "2020-06-30T21:33:53.349485+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 14.415899064311118
+description: M88, a symmetrical type Sc spiral galaxy in the constellation Coma Berenices,
+  is a member of the Virgo Cluster of galaxies. This picture is from the KPNO 0.9-meter
+  telescope. The Virgo cluster also includes Messier galaxies M49, M58, M59, M60,
+  M61, M84, M85, M86, M87, M89, M90, M91, M98, M99, and M100.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m88/L{1}X{2}Y{3}.png
+name: M88, NGC 4501
+ra_hr: 12.532974524420673
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m88/thumb.jpg
+zoom_level: 1.0418688
+---
+_uuid: e6300522-381b-49ba-bff9-28127cc2b806
+angular_size: 2.40975
+annotation: '{"channel": "noirlab", "itemid": "noao-m90", "publishedUTCISO8601": "2020-06-30T21:33:53.549980+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 13.18295743253937
+description: M90 is a large spiral galaxy of type Sb in the constellation Virgo. Although
+  large, it seems to have a relatively small mass and thus be of low density. The
+  nearby high surface brightness spiral, IC3583, is clearly visible to the north and
+  seems a bit distorted, which led H.C.Arp to include this system in his Atlas of
+  Peculiar Galaxies. M90 is a member of the Virgo Cluster of galaxies, which is the
+  dominant cluster in our Local Supercluster and about 60 million light-years away.
+  This CCD composite picture was taken in April 1998 at the Kitt Peak 0.9-meter telescope.  The
+  Virgo cluster also includes Messier galaxies M49, M58, M59, M60, M61, M84, M85,
+  M86, M87, M88, M89, M91, M98, M99, and M100.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m90/L{1}X{2}Y{3}.png
+name: M90, NGC 4569
+ra_hr: 12.613857690690558
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m90/thumb.jpg
+zoom_level: 2.40975
+---
+_uuid: 7a86ef9c-b261-4a02-a511-881e1809e283
+angular_size: 1.97615616
+annotation: '{"channel": "noirlab", "itemid": "noao-m91", "publishedUTCISO8601": "2020-06-30T21:33:53+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 14.495575142738035
+description: 'M91 is a spiral galaxy of type SBb in the constellation Coma Berenices.
+  The bar is quite conspicuous. M91 was considered the `lost&#x27; Messier object:
+  see the discussion at the Web site of Students for the Exploration and Development
+  of Space. M91 is a member of the Virgo Cluster of galaxies, which is the dominant
+  cluster in our Local Supercluster and about 60 million light-years away. This CCD
+  composite picture was taken in April 1998 at the Kitt Peak 0.9-meter telescope.
+  The Virgo cluster also includes Messier galaxies M49, M58, M59, M60, M61, M84, M85,
+  M86, M87, M88, M89, M90, M98, M99, and M100.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m91/L{1}X{2}Y{3}.png
+name: M91, NGC 4548
+ra_hr: 12.590730562125593
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m91/thumb.jpg
+zoom_level: 1.97615616
+---
+_uuid: c80aa8da-b859-4838-8dcf-21473c59a258
+angular_size: 2.8917
+annotation: '{"channel": "noirlab", "itemid": "noao-m94", "publishedUTCISO8601": "2002-12-16T11:48:56+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.12024939018799
+description: The Sab spiral galaxy M94 in the constellation Canes Venatici is considered
+  by some (but not others) to be in a group including M64 and various fainter galaxies.
+  It has an extremely bright innner region surrounded by a blue ring of young star
+  clusters, then a fainter yellowish region of older stars also surrounded by traces
+  of young stars, and even further out a very much fainter outer ring. All of these
+  features are visible in this picture, due to the use of a drastically compressed
+  intensity mapping. This stretch also reveals quite a few small faint background
+  galaxies. This picture was taken in May 1998 at the KPNO 0.9-meter telescope. Image
+  size 17.0 arc minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m94/L{1}X{2}Y{3}.png
+name: M94, NGC 4736
+ra_hr: 12.847901106701826
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m94/thumb.jpg
+zoom_level: 2.8917
+---
+_uuid: 5a1cabe5-41c6-42e0-aca9-0c15f2c6c2ec
+annotation: '{"channel": "noirlab", "itemid": "noao-m98", "publishedUTCISO8601": "2020-06-30T21:33:54.048147+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 14.90094639824033
+description: 'M98 is a nearly edge-on type Sb spiral galaxy in the constellation Coma
+  Berenices. It contains a great deal of dust, which reddens the light of the small
+  but bright central nucleus: some new star formation regions show up as blue knots.
+  Note that in astronomical parlance, &quot;reddening&quot; makes the nucleus appear
+  noticeably orange. M98 is a member of the Virgo Cluster of galaxies, which is the
+  dominant cluster in our Local Supercluster and about 60 million light-years away.
+  This picture was taken in February 1996 at the KPNO 0.9-meter telescope.  The Virgo
+  cluster also includes Messier galaxies M49, M58, M59, M60, M61, M84, M85, M86, M87,
+  M88, M89, M90, M91, M99, and M100.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m98/L{1}X{2}Y{3}.png
+name: M98, NGC 4192
+ra_hr: 12.2301618401546
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m98/thumb.jpg
+zoom_level: 2.07366
+---
+_uuid: f8f72b49-424a-4b52-bd8a-473f85ef8a6c
+annotation: '{"channel": "noirlab", "itemid": "noao-m99", "publishedUTCISO8601": "2020-06-30T21:33:54.133178+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 14.417776051994874
+description: M99 is a type Sc spiral galaxy in the constellation Coma Berenices. Its
+  face-on orientation fully reveals its spiral arms, and this picture has been `flattened&#x27;
+  to show arm structure both near the nucleus and into the outer regions of the galaxy
+  (most representations either saturate the center or do not go deep enough to see
+  the edges). M99 is a member of the Virgo Cluster of galaxies, which is the dominant
+  cluster in our Local Supercluster and about 60 million light-years away. The Virgo
+  cluster also includes Messier galaxies M49, M58, M59, M60, M61, M84, M85, M86, M87,
+  M88, M89, M90, M91, M98, and M100. M99 was the second nebula to be recognized for
+  its spiral structure, by Lord Rosse in 1848 (his first being M51 in 1845). This
+  picture was taken in February 1996 at the KPNO 0.9-meter telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m99/L{1}X{2}Y{3}.png
+name: M99; NGC 4254
+ra_hr: 12.313848871724725
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m99/thumb.jpg
+zoom_level: 1.3047839999999997
+---
+_uuid: 2e95512c-01ef-44f7-aa00-539e0a6bab37
+angular_size: 2.091969
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc4214", "publishedUTCISO8601":
+  "2020-06-30T21:33:57+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 36.278393487892025
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. NGC 4214 is a
+  dwarf galaxy that is much smaller than our own galaxy, the Milky Way. Despite its
+  small size, NGC 4214 is undergoing vigorous star formation, made visible by the
+  many red clouds of hydrogen gas. NGC 4214 has a companion, the very small galaxy
+  UGCA 276, which is faintly visible in the upper-right corner of the picture. The
+  image was generated with observations in B (blue), V (cyan), I (orange) and H-alpha
+  (red) filters. This image is rotated counterclockwise 55 degrees from North is up,
+  East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc4214/L{1}X{2}Y{3}.png
+name: Dwarf Galay NGC 4214
+ra_hr: 12.258223317713913
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc4214/thumb.jpg
+zoom_level: 2.091969
+---
+_uuid: e5f54c9d-6652-4e56-b479-c1e64e4b4a18
+angular_size: 2.5694360999999994
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc4395", "publishedUTCISO8601":
+  "2020-06-30T21:33:58.077806+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 33.546602928076744
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. NGC 4395 is a
+  spiral galaxy with a very low surface brightness. Unlike most galaxies the center
+  of the galaxy is small and faint. Nearly all galaxies are known to contain a supermassive
+  black hole in the center. NGC 4395 has one of the smallest known such black holes.
+  It is six times smaller than the one at the center of our galaxy, the Milky Way.
+  The image was generated with observations in B (blue), V (green), I (orange) and
+  Hydrogen-Alpha (red) filters. In this image, North is down, East is right.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc4395/L{1}X{2}Y{3}.png
+name: Spiral Galaxy NGC 4395
+ra_hr: 12.431612722549474
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc4395/thumb.jpg
+zoom_level: 2.5694360999999994
+---
+_uuid: d4817cc1-4dbb-48c4-a9af-127e75f03566
+angular_size: 1.6617911399999998
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc4490", "publishedUTCISO8601":
+  "2020-06-30T21:33:58.234876+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.64172794522932
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. NGC 4490 is a
+  barred spiral galaxy (center) that is in the early stages of merging with the smaller
+  galaxy NGC 4485 (upper right). The gravitational pull between the two galaxies is
+  triggering star formation in both galaxies, which can be seen as the bright red
+  clouds of gas inside and between the two galaxies. The image was generated with
+  observations in B (blue), V (cyan), I (orange) and H-alpha (red) filters. In this
+  image, North is up, East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc4490/L{1}X{2}Y{3}.png
+name: NGC 4490, Barred Spiral Galaxy
+ra_hr: 12.510546998492565
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc4490/thumb.jpg
+zoom_level: 1.6617911399999998
+---
+_uuid: a5a3886d-4aba-435a-95ce-2a01f4e5af17
+angular_size: 3.02063616
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc4656", "publishedUTCISO8601":
+  "2020-06-30T21:33:58.569337+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 32.1818112589355
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. NGC 4656, also
+  known informally as the &quot;hockey stick galaxy,&quot; is a distorted edge-on
+  spiral galaxy. Its distinctive shape is due to a recent gravitational interaction
+  with the galaxy NGC 4631. It is not yet certain, but these two galaxies may be in
+  the early stages of merging. The faint object in the upper-left corner may not be
+  part of the galaxy, but instead be a dwarf galaxy in the process of merging with
+  NGC 4656. The image was generated with observations in the B (blue), V (green),
+  I (orange) and Hydrogen-Alpha (red) filters. In this image, North is up, East is
+  to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc4656/L{1}X{2}Y{3}.png
+name: Hockey Stick Galaxy NGC 4656
+ra_hr: 12.7330982496841
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc4656/thumb.jpg
+zoom_level: 3.02063616
+---
+_uuid: b346b7f5-eda0-4aab-86f1-0ae02dd54bb8
+angular_size: 5.64672
+annotation: '{"channel": "noirlab", "itemid": "noao-virgo", "publishedUTCISO8601":
+  "2020-06-30T21:34:01+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.483978410404
+description: 'The Virgo cluster of galaxies contains over 2000 galaxies and dominates
+  the Local Supercluster: this picture shows the western central region of the cluster.
+  To the lower left is the giant elliptical galaxy M87, believed to be the dominant
+  member and close to the dynamical center of the cluster. The inner regions of M87,
+  including its well-known jet, can be seen in our close-up from the KPNO 0.9-meter
+  telescope. The two bright elliptical galaxies on the right (west) are M86 (left-most)
+  and M84. We have a deeper black-and-white view of this part of the cluster from
+  the KPNO Mayall 4-meter telescope. This image needs a more detailed caption: meanwhile,
+  you can learn a great deal about the Virgo cluster from the SEDS Web site. The Virgo
+  cluster includes Messier galaxies M49, M58, M59, M60, M61, M84, M85, M86, M87, M88,
+  M89, M90, M91, M98, M99, and M100. This approximately true-color picture was created
+  from sixteen images taken in June 1995 and January 1997 using BVR filters, at the
+  Burrell Schmidt telescope of Case Western Reserve University&#x27;s Warner and Swasey
+  Observatory located on Kitt Peak, near Tucson, Arizona. These images were of different
+  parts of the cluster and were mosaiced together, which is why the picture is an
+  odd shape inside the frame. The most obvious effect of this mosaicing is a change
+  in sky noise along the boundaries where different numbers of original exposures
+  contributed. Image size 122x86 arc minutes (yes, 2x1.5 degrees, or 12 full moons).'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-virgo/L{1}X{2}Y{3}.png
+name: Cluster of galaxies in Virgo
+ra_hr: 12.4846037263973
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-virgo/thumb.jpg
+zoom_level: 5.64672
+---
+_uuid: 3b2b8ecf-20f0-4141-9020-73a2adc4857d
+angular_size: 0.4155843671698497
+annotation: '{"channel": "noirlab", "itemid": "noao0407a", "publishedUTCISO8601":
+  "2004-06-03T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 13.114386219591767
+description: This three-color composite image of spiral galaxy NGC 4402 shows several
+  key lines of evidence for the galaxy being stripped bare of its star-forming material
+  by its violent ongoing encounter with the hot gas in the center of the Virgo galaxy
+  cluster, as NGC4402 falls into it. First, the galaxy’s dust disk appears to be truncated;
+  second, the dusty disk appears to be “bowed” upward, bent by the wind of hot gas
+  blowing from the southeast (from the lower left of the image); third, it appears
+  that the light emitted by the north side of the stellar disk has been reddened and
+  dimmed by dust that has been pushed up in front of it by the pressure of the cluster
+  gas; and fourth, the linear filaments of dust to the south of its main disk are
+  being “ablated,” or stripped away, in an outside-in fashion. This extremely disruptive
+  process is believed to be a major influence on the evolution of galaxies and their
+  star-forming ability over time. See NOAO Press Release 04-06 for more information.
+  The image was taken at the WIYN 3.5-meter telescope on Kitt Peak using the WIYN
+  Tip-Tilt module, an adaptive optics device that uses a movable mirror to provide
+  first-order compensation for the jittery motion of the incoming image caused by
+  variable atmospheric conditions and telescope vibrations.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0407a/L{1}X{2}Y{3}.png
+name: Spiral Galaxy NGC 4402
+ra_hr: 12.435396162762721
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0407a/thumb.jpg
+zoom_level: 0.4155843671698497
+---
+_uuid: e22f981f-7c81-449f-8522-f17e71f567d0
+angular_size: 3.939146201495487
+annotation: '{"channel": "noirlab", "itemid": "noao1601b", "publishedUTCISO8601":
+  "2016-05-25T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 27.97306655016532
+description: Coma Cluster image from the Sloan Digital Sky Survey.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao1601b/L{1}X{2}Y{3}.png
+name: A Young Mammoth Cluster of Galaxies Sighted in the Early Universe
+ra_hr: 12.997144669877912
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao1601b/thumb.jpg
+zoom_level: 3.939146201495487
+---
+_uuid: 56411463-1c48-401f-9c2a-021cf900c396
+annotation: '{"channel": "noirlab", "itemid": "noirlab2014e", "publishedUTCISO8601":
+  "2020-06-24T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -49.86358140231605
+description: A circumstellar disk around star HD 111520 selected from the larger sample
+  of 26 disks obtained with the Gemini South telescope in Chile using the Gemini Planet
+  Imager (GPI).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2014e/L{1}X{2}Y{3}.png
+name: HD 111520
+ra_hr: 12.838819928145847
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2014e/thumb.jpg
+zoom_level: 0.00753877583617464
+---
+_uuid: bf3f7b5e-c1df-4062-823c-7e049440b8f5
+annotation: '{"channel": "noirlab", "itemid": "noirlab2014f", "publishedUTCISO8601":
+  "2020-06-24T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -39.86950206996362
+description: A circumstellar disk around star HR 4796 A selected from the larger sample
+  of 26 disks obtained with the Gemini South telescope in Chile using the Gemini Planet
+  Imager (GPI).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2014f/L{1}X{2}Y{3}.png
+name: HR 4796 A
+ra_hr: 12.600290037720452
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2014f/thumb.jpg
+zoom_level: 0.006892485227396638
+---
+_uuid: bb6d2f10-179a-40de-a2ca-c374dfc2dbe6
+annotation: '{"channel": "noirlab", "itemid": "noirlab2017c", "publishedUTCISO8601":
+  "2020-07-14T08:17:59+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 14.5964991482877
+description: The afterglow of GRB181123B, captured by the Gemini North telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2017c/L{1}X{2}Y{3}.png
+name: Gamma-ray burst afterglow
+ra_hr: 12.291169107288718
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2017c/thumb.jpg
+zoom_level: 0.3216394695871853
+---
+_uuid: 0f7e8072-0ad0-49f4-bd16-5eb63c25e609
+angular_size: 0.3405985947887165
+annotation: '{"channel": "noirlab", "itemid": "noirlab2019d", "publishedUTCISO8601":
+  "2020-08-05T06:05:40+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 15.824844145551168
+description: Hubble Space Telescope image of SN 2019ehk in its spiral host galaxy,
+  Messier 100.  The image is a composite made of pre- and post-explosion images.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2019d/L{1}X{2}Y{3}.png
+name: Hubble Space Telescope image of SN 2019ehk
+ra_hr: 12.382277262047772
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2019d/thumb.jpg
+zoom_level: 0.3405985947887165
+---
+_uuid: c57ec1ad-1934-42ee-bcc2-97ff4bd97468
+angular_size: 2.5400613524051527
+annotation: '{"channel": "noirlab", "itemid": "noirlab2112a", "publishedUTCISO8601":
+  "2021-03-16T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.30295078032794
+description: 'This image of the spiral galaxy Messier 106, or NGC 4258, was taken
+  with the Nicholas U. Mayall 4-meter Telescope at Kitt Peak National Observatory,
+  a Program of NSF’s NOIRLab. A popular target for amateur astronomers, Messier 106
+  can also be spotted with a small telescope in the constellation Canes Venatici.
+  This view captures the entire galaxy, detailing the glowing spiral arms, wisps of
+  gas, and dust lanes at the center of Messier 106 as well as the leisurely twisting
+  bands of stars at the galaxy’s outer edges. Two dwarf galaxies also appear in the
+  image: NGC 4248 in the lower right and UGC 7358 in the lower left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2112a/L{1}X{2}Y{3}.png
+name: Spiral Galaxy Messier 106
+ra_hr: 12.315258279863123
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2112a/thumb.jpg
+zoom_level: 2.5400613524051527
+---
+_uuid: 09d633c0-7a96-429b-b7ad-f1e2c1dc0509
+angular_size: 5.2807218449388
+annotation: '{"channel": "noirlab", "itemid": "noirlab2112b", "publishedUTCISO8601":
+  "2021-03-16T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.3050656316495
+description: 'This image of the spiral galaxy Messier 106, or NGC 4258, was taken
+  with the Nicholas U. Mayall 4-meter Telescope at Kitt Peak National Observatory,
+  a Program of NSF’s NOIRLab. A popular target for amateur astronomers, Messier 106
+  can also be spotted with a small telescope in the constellation Canes Venatici.
+  This view captures the entire galaxy, detailing the glowing spiral arms, wisps of
+  gas, and dust lanes at the center of Messier 106 as well as the leisurely twisting
+  bands of stars at the galaxy’s outer edges. Two dwarf galaxies also appear in the
+  image: NGC 4248 is to the lower right of Messier 106, and UGC 7358 is the left of
+  Messier 106. Explore the details of these galaxies and even more background galaxies
+  by diving into the zoomable version of this image.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2112b/L{1}X{2}Y{3}.png
+name: Wide View of Spiral Galaxy Messier 106
+ra_hr: 12.315557832444384
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2112b/thumb.jpg
+zoom_level: 5.2807218449388
+---
 _uuid: 5ecffcd2-2bc6-42cd-b1ce-264b52c191b5
 angular_size: 1.0
 classification: ClusterOfGalaxies

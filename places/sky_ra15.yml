@@ -1,3 +1,100 @@
+_uuid: fdb25e16-81ac-47a2-8fac-7320c8a0ccf0
+annotation: '{"channel": "noirlab", "itemid": "noao-02216", "publishedUTCISO8601":
+  "2020-06-30T21:34:14+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 2.078050547392986
+description: M5, or NGC5904, a globular cluster in the constellation Serpens, as seen
+  by the KPNO 4-m telescope in 1975. This large cluster is amongst the most massive
+  in orbit around our Galaxy, at about two million times the mass of the Sun. At a
+  distance of about 26000 light-years, M5 is about 13 billion years old.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02216/L{1}X{2}Y{3}.png
+name: M5, NGC 5904
+ra_hr: 15.309031913844631
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02216/thumb.jpg
+zoom_level: 4.0596
+---
+_uuid: 5a8bd025-3b3d-4b70-bee2-3680b9d6051d
+angular_size: 2.46430776
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc5905", "publishedUTCISO8601":
+  "2020-06-30T21:33:59.162265+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 55.4693190383939
+description: This image was taken with the KPNO Mayall 4-meter telescope on April
+  10, 2007. Located in the constellation of Draco, NGC 5905 and NGC 5908 are two spiral
+  galaxies that are relatively near to each other. NGC 5905, in the upper-right corner,
+  is seen face-on; whereas NGC 5908, in the lower left is seen edge-on. NGC 5908 looks
+  remarkably similar to M104, the Sombrero Galaxy. The many bright, reddish stars
+  in the image are stars within our own galaxy. These galaxies were observed with
+  B (blue), V (green) and I (red) filters. North is up, East is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc5905/L{1}X{2}Y{3}.png
+name: Spiral Galaxies NGC 5905 & NGC 5908
+ra_hr: 15.266915559348
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc5905/thumb.jpg
+zoom_level: 2.46430776
+---
+_uuid: e95a8381-9db7-4e96-a108-8750cdcd80e0
+angular_size: 3.51604302
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc5982", "publishedUTCISO8601":
+  "2020-06-30T21:33:59.259440+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 59.28215074443277
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. The edge-on galaxy
+  NGC 5981 (top), the elliptical galaxy NGC 5982 (middle) and the spiral galaxy NGC
+  5985 (bottom) form a distinct trio. It is not clear if or when these galaxies might
+  merge with each other. But there is already evidence that NGC 5982 has already merged
+  with one or more smaller galaxies in the recent past. The image was generated with
+  observations in the B (blue), V (green), and I (red) filters. In this image, North
+  is left, East is down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc5982/L{1}X{2}Y{3}.png
+name: Trio of Galaxies (NGC 5981, NGC 5982 and NGC 5985)
+ra_hr: 15.643429357766088
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc5982/thumb.jpg
+zoom_level: 3.51604302
+---
+_uuid: c3e35faa-62ae-4db4-b9fb-cbcf23c9dc0f
+angular_size: 0.43995379369643994
+annotation: '{"channel": "noirlab", "itemid": "noaoann18017a", "publishedUTCISO8601":
+  "2018-09-11T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 18.610679378064777
+description: he slideshow above highlights images from the Legacy Surveys’ Data Release
+  7 (DR7), which covers more than a quarter of the sky. More DR7 images of galaxies
+  in Halton Arp’s Atlas of Peculiar Galaxies are available online. Read more about
+  DR7 in the latest issue of NOAO Currents, which also describes exoplanet observing
+  time available with CHIRON, news from the SOAR and Blanco telescopes, research opportunities
+  for time domain astronomy (ZTF, ANTARES), and more.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noaoann18017a/L{1}X{2}Y{3}.png
+name: DESI Imaging Legacy Surveys Publish Seventh Data Release
+ra_hr: 15.892809291998901
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noaoann18017a/thumb.jpg
+zoom_level: 0.43995379369643994
+---
+_uuid: 4aed71ed-6529-488d-8466-c570daa956dd
+angular_size: 0.7776165007901503
+annotation: '{"channel": "noirlab", "itemid": "noirlab2006a", "publishedUTCISO8601":
+  "2020-02-20T03:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -55.548363635263506
+description: The international Gemini Observatory composite color image of the planetary
+  nebula CVMP 1 imaged by the Gemini Multi-Object Spectrograph on the Gemini South
+  telescope on Cerro Pachón in Chile.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2006a/L{1}X{2}Y{3}.png
+name: Gemini South Captures Planetary Nebula CVMP 1
+ra_hr: 15.157114124348723
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2006a/thumb.jpg
+zoom_level: 0.7776165007901503
+---
 _uuid: 4f7adfe5-25e3-4b55-b547-9f0761d45578
 angular_size: 1.0
 classification: Galaxy

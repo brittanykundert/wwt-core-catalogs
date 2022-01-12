@@ -1,3 +1,476 @@
+_uuid: a55a2eb0-6ec4-4edc-a26e-94f2e533d45a
+angular_size: 0.578195547050016
+annotation: '{"channel": "noirlab", "itemid": "gemini1108a", "publishedUTCISO8601":
+  "2011-07-25T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 38.310717881966674
+description: Gemini Observatory image of Kronberger 61 showing the ionized shell of
+  expelled gas resembling a soccer ball. The light of the nebula is primarily due
+  to ionized oxygen (oxygen-III) emission and its central star can be seen as the
+  slightly bluer star very close to the center of the nebula. The field of view is
+  2.2 x 3.4 arcminutes with north up (rotated 22 degrees west of north). Image processing
+  by Travis Rector, University of Alaska Anchorage. A color composite image, it consists
+  of two narrow-band images (O-III and Hydrogen-alpha with three, 500-second integrations
+  each) obtained with the Gemini Multi-Object Spectrograph (GMOS) on the Gemini North
+  telescope on Mauna Kea in Hawai‘i. Below the bright star at left is a barred spiral
+  galaxy in the distant background, careful inspection will reveal several additional
+  distant galaxies in the image.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini1108a/L{1}X{2}Y{3}.png
+name: k61 Planetary Nebula
+ra_hr: 19.361051801825944
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini1108a/thumb.jpg
+zoom_level: 0.578195547050016
+---
+_uuid: 75351f7e-f815-4227-81cc-8f8423b72b36
+angular_size: 0.6059677316137893
+annotation: '{"channel": "noirlab", "itemid": "gemini1205a", "publishedUTCISO8601":
+  "2012-05-14T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 2.1525907020622106
+description: 'Gemini Legacy image of the complex planetary nebula Sh2-71 as imaged
+  by the Gemini Multi-Object Spectrograph on Gemini North on Mauna Kea in Hawai‘i.
+  The long-assumed central star is the brightest star near the center, but some astronomers
+  wonder if the much dimmer and bluer star (just to the right and down a bit) might
+  be the parent of this beautiful object. See Image Release for details Technical
+  Details: The image is composed of three narrow-band images, and each is assigned
+  a color as follows: H-alpha (orange), HeII (blue) and [OIII] (cyan). Each image
+  is 15 minutes in duration, the field-of-view is 5.3 x 3.6 arcminutes, and the image
+  is rotated 110 degrees clockwise from north up, east left.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini1205a/L{1}X{2}Y{3}.png
+name: Complex Planetary Nebula Sh2-71
+ra_hr: 19.033316758205913
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini1205a/thumb.jpg
+zoom_level: 0.6059677316137893
+---
+_uuid: e6e3e349-b754-4c77-8711-b5b12d8bc4da
+angular_size: 0.683012149380594
+annotation: '{"channel": "noirlab", "itemid": "geminiann09019a", "publishedUTCISO8601":
+  "2009-09-21T20:46:26+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -5.992963535755983
+description: Gemini South image of planetary nebula NGC 6751, the &quot;Glowing Eye
+  Nebula.&quot; The image is the result of the winning entry in the 2009 Gemini School
+  Astronomy Contest, submitted by high school student Daniel Tran of PAL College,
+  Cabramatta, NSW, Australia. Using narrow-band filters in the imaging mode of the
+  Gemini Multi-object Spectrograph (GMOS), the locations of hydrogen, ionized sulfur,
+  and doubly-ionized oxygen are color-coded in the image as yellow, red, and blue,
+  respectively. The 3,000-year-old Glowing Eye Nebula is located about 7,000 light
+  years from Earth and the bright inner portion of the nebula has a diameter of about
+  0.8 light years. In addition to the emission of the nebula, other wisps of gas in
+  the interstellar medium (upper-left-hand corner of the image) are being ionized
+  by the nebula&#x27;s central star, which has a temperature of over 100,000 degrees
+  Celsius.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/geminiann09019a/L{1}X{2}Y{3}.png
+name: NGC 6751 Glowing Eye Nebula
+ra_hr: 19.098752883486654
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/geminiann09019a/thumb.jpg
+zoom_level: 0.683012149380594
+---
+_uuid: 8f179fbe-e5b2-4127-b3d3-7988248efb83
+annotation: '{"channel": "noirlab", "itemid": "noao-02184", "publishedUTCISO8601":
+  "2020-06-30T21:34:07.208552+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.71865038375905
+description: The Dumbbell Nebula, Messier object 27 (M27), NGC 6853, in the constellation
+  Vulpecula, as seen by the Kitt Peak 4-meter Mayall telescope in 1988.  This false
+  colour image was made from a combination of two CCD frames, taken at the Kitt Peak
+  4m telescope in 1988. Each image was processed to correct for detector sensitivity
+  variations and to remove incorrect regions caused by manufacturing defects and by
+  the arrival of cosmic rays at the telescope. The red filamentary structure comes
+  from H-alpha emission, imaged using a very narrow filter tuned to exactly the right
+  wavelength. The green, broader and more diffuse, structure was imaged using a filter
+  chosen to show the general (``continuum&#x27;&#x27;) emission from the nebula. The
+  blue structure is a composite of the green and the red, but processed to show the
+  fainter features surrounding the brighter inner area of the nebula.  The Dumbbell
+  Nebula (M27, NGC 6853) is a planetary nebula in Vulpecula, whose central blue star
+  (only just visible in this picture) continues to ionize the surrounding gas. The
+  designation is now a historical curiosity, as these nebulae are believed to be a
+  normal stage in stellar evolution involving the expulsion of significant matter
+  back into the interstellar medium, and not to be connected in any way with the formation
+  of planetary systems. The nebula is about 850 light-years away and 1.5 light-years
+  across, but these numbers are not known very accurately because it is intrinsically
+  very hard to determine the distance of any planetary nebula.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02184/L{1}X{2}Y{3}.png
+name: M27, NGC 6853, Dumbbell Nebula
+ra_hr: 19.993538878831558
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02184/thumb.jpg
+zoom_level: 2.3128092
+---
+_uuid: ba031d72-c185-40a3-9504-eb77c743b7fc
+annotation: '{"channel": "noirlab", "itemid": "noao-02185", "publishedUTCISO8601":
+  "2020-06-30T21:34:07+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.721649164465152
+description: The Dumbbell Nebula, Messier object 27 (M27), NGC6853, in the constellation
+  Vulpecula, as seen by the Kitt Peak 4-meter Mayall telescope in 1973. The nebula
+  is about 850 light-years away from Earth and about 1.5 light-years in diameter (although
+  both distance and size are very poorly constrained).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02185/L{1}X{2}Y{3}.png
+name: M27, NGC 6853, Dumbbell Nebula
+ra_hr: 19.99270903782694
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02185/thumb.jpg
+zoom_level: 2.6315999999999997
+---
+_uuid: eb5e4463-9fc6-4940-a39f-b883068f3ab0
+annotation: '{"channel": "noirlab", "itemid": "noao-02323", "publishedUTCISO8601":
+  "2020-06-30T21:33:59+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -63.84361670423711
+description: Probably the largest known barred spiral galaxy (type SBc), NGC6744 in
+  the constellation Pavo was imaged by the CTIO 4-meter Blanco telescope in 1975.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02323/L{1}X{2}Y{3}.png
+name: NGC 6744 in Pavo
+ra_hr: 19.16347649490632
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02323/thumb.jpg
+zoom_level: 4.386
+---
+_uuid: cb3dd7dc-8455-41ba-b866-1461092ee4bf
+annotation: '{"channel": "noirlab", "itemid": "noao-02674", "publishedUTCISO8601":
+  "2020-06-30T21:34:07+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.722234387340624
+description: 'This true color picture was taken using Ektachrome film at the prime
+  focus of the Kitt Peak 4m telescope on July 2nd 1973. This is unusual: normally
+  color images are made by combining black and white images taken through different
+  colored filters. The Dumbbell Nebula (M27, NGC6853) is a planetary nebula in Vulpecula,
+  whose central blue star continues to ionize the surrounding gas. The designation
+  is now a historical curiosity, as these nebulae are believed to be a normal stage
+  in stellar evolution involving the expulsion of significant matter back into the
+  interstellar medium, and not to be connected in any way with the formation of planetary
+  systems. At a distance of approximately 850 light-years, this is one of the closest
+  known planetary nebulae: however, as with all planetary nebulae this distance is
+  not very well known and could be wrong by even as much as a factor of two. Photograph
+  by Bill Schoening.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02674/L{1}X{2}Y{3}.png
+name: M27, NGC 6853, Dumbbell Nebula
+ra_hr: 19.993454307321294
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02674/thumb.jpg
+zoom_level: 1.6866220109317922
+---
+_uuid: d8a77c4d-44b2-486b-bdce-b89bb145faef
+angular_size: 3.6575159978636713
+annotation: '{"channel": "noirlab", "itemid": "noao-cyg_x1", "publishedUTCISO8601":
+  "2020-06-30T21:34:13+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 35.23409694903231
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. Cygnus X-1 is
+  a binary star system that contains a black hole. The Cygnus X-1 system looks like
+  a single star in this image. It is the brighter (bottom) of the two stars near the
+  center of the image. Gas from the companion star is being pulled into the black
+  hole. Before it falls in the gas becomes incredibly hot, so hot that it emits X-rays
+  (which is how it was discovered). Some of that gas doesn&#x27;t fall into the black
+  hole but instead is shot out as &#x27;jets&#x27; of hot gas. The jet itself isn&#x27;t
+  visible in this image but you can see the bowshock, the bluish umbrella-like shape
+  at the top center of the image, that is produced when gas in the jet collides with
+  other gas in the nebula. The bright orange gas to the left is the western edge of
+  an emission nebula called Sharpless 101 (Sh2-101). The image was generated with
+  observations in Hydrogen alpha (red) and Sulphur [S II] (blue) filters. In this
+  image, North is up, East is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-cyg_x1/L{1}X{2}Y{3}.png
+name: Cygnus X-1 binary star system
+ra_hr: 19.972711462721747
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-cyg_x1/thumb.jpg
+zoom_level: 3.6575159978636713
+---
+_uuid: 549010f8-e7f2-4c10-bef9-85ce69e81a3a
+annotation: '{"channel": "noirlab", "itemid": "noao-dumb", "publishedUTCISO8601":
+  "2020-06-30T21:34:07+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.71715708370044
+description: 'This false-color image of the Dumbbell Nebula M27, or NGC6853, was taken
+  by the 3.5-meter WIYN telescope using a new 2k x 2k high resistivity, thick, p-channel
+  CCD manufactured by the Lawrence Berkeley National Laboratories. These CCDs have
+  excellent quantum efficiency at red wavelengths, and are currently being tested
+  by NOAO (for further details, see the September 2001 NOAO Newsletter, currently
+  only available in PDF format). The picture was created from images taken through
+  narrow-band filters centered roughly on the H-alpha (blue) and the [SIII] 9532A
+  emission lines (green), and an intermediate band filter centered at 1.02 microns
+  which includes emission from HeII at 10124 A (red). The background stars show clearly
+  in the one micron image: these stars are dimmed by foreground dust at shorter wavelengths
+  and are not seen in a standard `true color&#x27; image, nor in a nice deep image,
+  nor in an emission line image such as this one, also from WIYN. This is an impressive
+  achievement for an optical imager.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-dumb/L{1}X{2}Y{3}.png
+name: Far red/near infrared image of the Dumbbell Nebula
+ra_hr: 19.993431399796023
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-dumb/thumb.jpg
+zoom_level: 0.7698388907455774
+---
+_uuid: eaf57397-712f-48a2-b8cd-4f2d9b17e9c6
+annotation: '{"channel": "noirlab", "itemid": "noao-hst0034", "publishedUTCISO8601":
+  "2020-06-30T21:33:59+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 40.7468391
+description: 'This is a Hubble Heritage image created by current and former NOAO staff
+  members. The text is modified from the STScI press release, number STScI-PRC00-34
+  (Heritage). NGC6745 in the constellation of Lyra is a striking example of a galaxy-galaxy
+  collision. A large spiral galaxy, with its nucleus still intact, has interacted
+  with a smaller passing galaxy (nearly out of the field of view at lower right),
+  where bright blue and bright whitish-blue features show the distinct path taken
+  during the smaller galaxy&#x27;s journey. These galaxies did not merely interact
+  gravitationally as they passed one another, they actually collided. When galaxies
+  collide, the stars that normally comprise the major portion of the luminous mass
+  of each of the two galaxies will almost never collide with each other, but will
+  pass rather freely between each other with little damage. This occurs because the
+  physical size of individual stars is tiny compared to their typical separations,
+  making the chance of physical encounter relatively small. In our own Milky Way galaxy,
+  the space between our Sun and our nearest stellar neighbor, Proxima Centauri (part
+  of the Alpha Centauri triple system), is a vast 4.3 light-years. However, the situation
+  is quite different for the interstellar media in the above two galaxies - material
+  consisting largely of clouds of atomic and molecular gases and of tiny particles
+  of matter and dust, strongly coupled to the gas. Wherever the interstellar clouds
+  of the two galaxies collide, they do not freely move past each other without interruption
+  but, rather, suffer a damaging collision. High relative velocities cause ram pressures
+  at the surface of contact between the interacting interstellar clouds. This pressure,
+  in turn, produces material densities sufficiently extreme as to trigger star formation
+  through gravitational collapse. The hot blue stars in this image are evidence of
+  this star formation. This image was created by the Hubble Heritage Team using NASA
+  Hubble Space Telescope archive data taken with the Wide Field Planetary Camera 2
+  in March 1996. Members of the science team, which include Roger Lynds (KPNO/NOAO)
+  and Earl J. O&#x27;Neil, Jr. (Steward Obs.), used infrared, red, visual and ultraviolet
+  filters to image this galaxy system. Lynds and O&#x27;Neil are currently using the
+  Hubble data along with ground-based radio observations to further study the interactions
+  within NGC6745. Image Credit: NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgement:
+  Roger Lynds (KPNO/NOAO)'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-hst0034/L{1}X{2}Y{3}.png
+name: Interacting galaxies NGC 6745
+ra_hr: 19.02796272
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-hst0034/thumb.jpg
+zoom_level: 0.2039002755564377
+---
+_uuid: 4aef4164-e103-491e-8adb-027d8a7aa6a0
+angular_size: 6.164820385080855
+annotation: '{"channel": "noirlab", "itemid": "noao-ldn673", "publishedUTCISO8601":
+  "2020-06-30T21:34:05+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 11.228623468704242
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. LDN 673 is part
+  of a giant cloud of dust and gas in the constellation of Aquilla. It is fragmented
+  into many pieces, inside of which are forming stars. Some of these stars are illuminating
+  parts of the nebula, such as in the upper-left and upper-right corners. The image
+  was generated with observations in B (blue), V (cyan), I (orange) and H-alpha (red)
+  filters. In this image, North is left, East is down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ldn673/L{1}X{2}Y{3}.png
+name: Lynds’ Dark Nebula 673
+ra_hr: 19.348679260904163
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ldn673/thumb.jpg
+zoom_level: 6.164820385080855
+---
+_uuid: 750b657a-ade0-46ad-8f84-cc959635a24c
+annotation: '{"channel": "noirlab", "itemid": "noao-ldn810", "publishedUTCISO8601":
+  "2020-06-30T21:34:05+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 27.83058282920091
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. LDN 810 is a
+  dark nebula that was first cataloged by B.T. Lynds in 1962. The dark region at the
+  center contains gas and dust out of which new stars are forming. A bipolar outflow
+  of gas from one of these stars has also been detected. A faint trail of dust and
+  gas extends from the center of the image to the upper-left corner. The image was
+  generated with observations in the Us (violet), B (blue), V (green) and I (red)
+  filters. In this image, North is up, East is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ldn810/L{1}X{2}Y{3}.png
+name: Dark Nebula LDN 810
+ra_hr: 19.756308915693378
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ldn810/thumb.jpg
+zoom_level: 5.014203717808132
+---
+_uuid: 4e721173-17de-4398-a769-4fdcfe79ee34
+angular_size: 5.465159999999999
+annotation: '{"channel": "noirlab", "itemid": "noao-m55", "publishedUTCISO8601": "2020-06-30T21:53:14+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -30.96176037044383
+description: M55 is a globular cluster in the constellation Sagittarius. Quite large
+  on the sky (about two thirds of the Moon&#x27;s diameter), but with a very loose,
+  almost non-globular, appearance, M55 is about 18000 light-years away and about 100
+  light-years across. This composite was created from images taken in June 1996 at
+  the Burrell Schmidt telescope of Case Western Reserve University&#x27;s Warner and
+  Swasey Observatory, during the Research Experiences for Undergraduates (REU) program
+  operated at the Kitt Peak National Observatory and supported by the National Science
+  Foundation.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m55/L{1}X{2}Y{3}.png
+name: M55, NGC 6809
+ra_hr: 19.666420856868825
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m55/thumb.jpg
+zoom_level: 5.465159999999999
+---
+_uuid: 85d68e0e-6ad8-44d4-a3fc-1e26bbf7f0fe
+angular_size: 5.3150976
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc6820", "publishedUTCISO8601":
+  "2020-06-30T21:34:09+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 23.25914212236542
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the KPNO 0.9m-meter telescope at Kitt Peak National Observatory. NGC 6820 is
+  a diffuse emission nebula that surrounds the open cluster of stars NGC 6823 (at
+  the center of the image). The intense light from the hot, massive stars in the cluster
+  is blowing away the gas in the nebula, causing the distinctive &quot;pillar&quot;
+  shapes on the left side of the image. The image was generated with observations
+  in Hydrogen alpha (red), Oxygen [OIII] (green) and Sulfur [SII] (blue) filters.
+  In this image, North is up, East is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc6820/L{1}X{2}Y{3}.png
+name: NGC 6820/3, Emission Nebula/Open Cluster
+ra_hr: 19.720755702183318
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc6820/thumb.jpg
+zoom_level: 5.3150976
+---
+_uuid: a4d1e2d2-c2ec-4674-9287-b79fb419ccb5
+angular_size: 1.5980872354156799
+annotation: '{"channel": "noirlab", "itemid": "noao0121a", "publishedUTCISO8601":
+  "2020-06-30T21:34:07+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.714077116995202
+description: This excellent image of the Dumbbell Nebula (M27, NGC6853), a planetary
+  nebula in the constellation of Vulpecula, was taken at the 3.5-meter WIYN telescope
+  using the mini-mosaic imager (described in an NOAO newsletter article). The nebula
+  was formed when an evolved, red giant star ejected its outer envelope near the end
+  of its lifetime. The expanding cloud of gas becomes visible once the hot core of
+  the star, visible near the center, is exposed and the high-energy, ultraviolet light
+  from the core causes the cloud to fluoresce. As a result, the cloud emits light
+  at discrete wavelengths resulting in an emission-line spectrum. The strongest of
+  these lines at visible wavelengths are those of singly and doubly ionized Oxygen
+  (372.7 nm, OII, and 500.7 nm, OIII, respectively) and Hydrogen (656.3 nm, H alpha).
+  This color image was obtained by combining three separate pictures, each one taken
+  through a narrow filter centered at these wavelengths, choosing red to be H alpha
+  (30 minute exposure), green to be OIII (30 minutes) and blue to be OII (60 minutes).
+  The combination produces an unusual, semi-realistic image of the Dumbbell Nebula
+  (see also the more usual color image from the Mayall 4-meter telescope, the nice
+  deep image from the 2.1-meter telescope, and another WIYN image including neutral
+  Oxygen). The green regions indicate locations within the gas cloud where the highest
+  energy radiation is absorbed and doubly ionized Oxygen is present. In contrast,
+  regions that are predominantly blue and red indicate where lower energy radiation
+  is being absorbed and the line from doubly ionized Oxygen is weaker compared with
+  those of singly ionized Oxygen (blue) and Hydrogen (red). Since the hot central
+  star emits the same spectrum in all directions, these differences are thought to
+  originate from variations in the density of the expanding cloud. The Dumbbell nebula
+  is about 850 light-years away from Earth and about 1.5 light-years in diameter (although
+  both distance and size are very poorly constrained).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0121a/L{1}X{2}Y{3}.png
+name: Emission line image of M27
+ra_hr: 19.99297064456455
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0121a/thumb.jpg
+zoom_level: 1.5980872354156799
+---
+_uuid: 095a685f-8caf-4c9c-b564-cd2ea1187301
+annotation: '{"channel": "noirlab", "itemid": "noao0202a", "publishedUTCISO8601":
+  "2002-01-10T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -14.8058667681327
+description: 'A new color image of the nearby irregular galaxy NGC6822 shows a myriad
+  of hot blue massive stars and several famous nebulae in impressive detail. NGC6822
+  is located approximately 1.6 million light-years from Earth, in the constellation
+  Sagittarius. A member of the Milky Way galaxy&#x27;s Local Group, it was discovered
+  by E.E. Barnard in the early 1880s. Edwin P. Hubble conducted the first detailed
+  investigation of the galaxy in 1925, using the new 100-inch telescope on Mount Wilson.
+  An analysis of these plates by then-graduate student Susan E. Kayser in 1966 has
+  remained the most complete study of this galaxy until now. New images of NGC6822
+  in eight filters were taken using the National Science Foundation&#x27;s Blanco
+  4-meter telescope at Cerro Tololo Inter-American Observatory (CTIO) near La Serena,
+  Chile, by CTIO staff members Knut Olsen and Chris Smith. They, along with Phil Massey
+  [PI, Lowell Observatory], Paul Hodge (Univ Washington), Shay Holmes (Lowell Obs),
+  George Jacoby (WIYN), Nichole King (STScI), and Abi Saha (NOAO) comprise the &quot;Local
+  Group Galaxies Survey Team&quot;. This color representation was put together by
+  Travis Rector (NRAO), by combining images taken in seven of the eight filters: U
+  (violet), B (blue), V (green), R (orange), I (red), Hydrogen-Alpha (red) and Oxygen
+  [OIII] (blue). The images were obtained as part of the NOAO Local Group Galaxies
+  Survey, one of 13 active survey projects fostered by the National Optical Astronomy
+  Observatory. Further details can be found at http://www.lowell.edu/users/massey/lgsurvey.html.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0202a/L{1}X{2}Y{3}.png
+name: NGC 6822 and its rich neighborhood
+ra_hr: 19.74948803449164
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0202a/thumb.jpg
+zoom_level: 6.123824999999999
+---
+_uuid: 32e11ba4-eabd-41ab-b5fc-b4ab6293f11c
+angular_size: 4.42048133338213
+annotation: '{"channel": "noirlab", "itemid": "noirlab2010a", "publishedUTCISO8601":
+  "2020-04-16T03:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -14.833460299943667
+description: Barnard’s Galaxy, a dwarf galaxy neighboring the Milky Way, is revealed
+  in this stunning image from the Víctor M. Blanco 4-m Telescope at the Cerro Tololo
+  Inter-American Observatory, operated by NSF’s NOIRLab. The image reveals regions
+  of intense star formation and a scattering of immense cosmic bubbles. Despite its
+  small size, the galaxy contains some spellbinding cosmic objects. Glowing red regions
+  of star formation are scattered throughout Barnard’s Galaxy and indicate that incandescent
+  star birth is widespread. Several other regions are well known in their own right
+  and have been well studied since they were first detected by Edwin Hubble in 1925.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2010a/L{1}X{2}Y{3}.png
+name: NOIRLab releases best view yet of a neighboring dwarf galaxy
+ra_hr: 19.74930133261124
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2010a/thumb.jpg
+zoom_level: 4.42048133338213
+---
+_uuid: 9b796dc9-3b02-44e9-949c-8c01db89855a
+angular_size: 0.4222271189062079
+annotation: '{"channel": "noirlab", "itemid": "noirlab2029a", "publishedUTCISO8601":
+  "2020-11-24T08:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 27.314107544542253
+description: The enigmatic CK Vulpeculae nebula. The team of astronomers measured
+  the speeds and changes in positions of the two small reddish arcs about 1/4 of the
+  way up from the bottom and 1/4 of the way down from the top to help determine that
+  the nebula is expanding five times faster than previously thought.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2029a/L{1}X{2}Y{3}.png
+name: CK Vulpeculae seen with Gemini North
+ra_hr: 19.793894982890492
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2029a/thumb.jpg
+zoom_level: 0.4222271189062079
+---
+_uuid: 22ea0278-fe80-4d78-8d2f-4a394662cb21
+annotation: '{"channel": "noirlab", "itemid": "noirlab2029c", "publishedUTCISO8601":
+  "2020-11-24T08:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 27.322862891929663
+description: This wide-field view shows the sky around the location of the historical
+  exploding star CK Vulpeculae. The remains of the nova are only very faintly visible
+  at the center of this picture.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2029c/L{1}X{2}Y{3}.png
+name: Wide-field view of the sky around CK Vulpeculae
+ra_hr: 19.793823153045206
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2029c/thumb.jpg
+zoom_level: 17.43610812658393
+---
 _uuid: 16d9618f-ff3e-4ee0-9013-7b3dd565552f
 classification: ''
 constellation: ''

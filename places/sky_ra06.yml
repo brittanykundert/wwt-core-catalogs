@@ -1,3 +1,262 @@
+_uuid: a38a51a4-37e6-448d-acb0-2b2fcb1cb41a
+annotation: '{"channel": "noirlab", "itemid": "iotw2048a", "publishedUTCISO8601":
+  "2020-11-25T16:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -6.3822641243103915
+description: This striking image, streaked with bright swathes of color, captures
+  the beautiful reflection nebula NGC 2170. The diffuse clouds of interstellar dust
+  in the nebula scatter and reflect light from nearby stars, creating this vividly
+  colorful scene. Dust grains reflect blue light from hot stars embedded in the nebula.
+  And warm hydrogen gas glows a deep red. Seen as dark tendrils, dust also absorbs
+  the light from stars and gas behind it. This particular nebula lies in the constellation
+  Monoceros (The Unicorn) — a faint constellation on the celestial equator. It was
+  observed using the SMARTS 0.9-meter Telescope at Cerro Tololo Inter-American Observatory
+  in Chile, a Program of NSF’s NOIRLab.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/iotw2048a/L{1}X{2}Y{3}.png
+name: Colorful Cosmic Reflections
+ra_hr: 6.130330133033842
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/iotw2048a/thumb.jpg
+zoom_level: 2.0937403776098
+---
+_uuid: fa84db7a-f5ce-41ab-a518-690979b9dfb3
+annotation: '{"channel": "noirlab", "itemid": "noao-02189", "publishedUTCISO8601":
+  "2020-06-30T21:34:04+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 8.765220105318244
+description: This is an image of Hubble&#x27;s Variable Nebula, found in the constellation
+  Monoceros. The image was taken at the Kitt Peak National Observatory 0.9-meter telescope
+  in 1968. North is to the right.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02189/L{1}X{2}Y{3}.png
+name: Hubble's Variable Nebula, NGC 2261
+ra_hr: 6.652705644287289
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02189/thumb.jpg
+zoom_level: 1.6768799999999997
+---
+_uuid: 8d6be5ec-295d-470a-bc2d-efb4d587e26a
+annotation: '{"channel": "noirlab", "itemid": "noao-02190", "publishedUTCISO8601":
+  "2020-06-30T21:34:11+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 4.959219090029506
+description: The Rosette Nebula, NGC2237, in the constellation of Monoceros, as seen
+  by the Curtis Schmidt telescope at the Cerro Tololo Interamerican Observatory. The
+  nebula is about 2600 light-years away and about 55 light-years across. The central
+  star cluster is known as NGC2244. North is at the top.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02190/L{1}X{2}Y{3}.png
+name: Rosette Nebula, NGC 2237
+ra_hr: 6.541310619944884
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02190/thumb.jpg
+zoom_level: 21.909599999999998
+---
+_uuid: 84436a5f-af92-4f60-9c3e-726471b4fde2
+annotation: '{"channel": "noirlab", "itemid": "noao-02191", "publishedUTCISO8601":
+  "2020-06-30T21:34:10+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 4.893911697468244
+description: The Rosette Nebula, NGC2237, in the constellation of Monoceros, as seen
+  in close-up by the KPNO 4-meter Mayall telescope in 1974. The nebula is about 2600
+  light-years away and about 55 light-years across. The central star cluster is known
+  as NGC2244. North is at the top.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02191/L{1}X{2}Y{3}.png
+name: Rosette Nebula, NGC 2237
+ra_hr: 6.536197661727966
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02191/thumb.jpg
+zoom_level: 5.1674322
+---
+_uuid: c03b03d2-4216-44c0-927b-06c58b702698
+annotation: '{"channel": "noirlab", "itemid": "noao-02339", "publishedUTCISO8601":
+  "2020-06-30T21:33:56+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 78.3594508390892
+description: NGC2146 is a peculiar spiral galaxy, type Sab(pec), in the constellation
+  Camelopardalis. This picture from the KPNO 2.1-meter telescope shows the galaxy&#x27;s
+  distorted spiral arms.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02339/L{1}X{2}Y{3}.png
+name: NGC 2146 in Camelopardalis
+ra_hr: 6.311674600159875
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02339/thumb.jpg
+zoom_level: 1.1749176
+---
+_uuid: 57afdbe0-7ea6-45fd-b473-c8243778cb50
+angular_size: 9.734008410282152
+annotation: '{"channel": "noirlab", "itemid": "noao-04493", "publishedUTCISO8601":
+  "2020-06-30T21:34:02+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 9.726597815408208
+description: This wide-field image of the Christmas Tree Cluster was taken at the
+  National Science Foundation&#x27;s 0.9-meter telescope on Kitt Peak with the NOAO
+  Mosaic CCD camera. Also known as NGC2264, it is an open cluster of stars embedded
+  in a diffuse nebula. It is located in the constellation of Monoceros, the Unicorn.
+  The image also contains two famous nebula. At the bottom center of the image is
+  the Cone Nebula, and to the upper left is the Fox Fur Nebula. The bright star just
+  above the center of the image is known as S Mon. The gentle arcs in orange and blue
+  near the center of the image are Herbig Haro objects, jets of gas from protostars
+  embedded in the nebula. In this image north is up and east is to the right. This
+  image was created by combining emission-line images in Hydrogen-alpha (red-orange),
+  Oxygen [O III] (light blue) and Sulfur [S II] (blue-violet).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-04493/L{1}X{2}Y{3}.png
+name: NGC 2264, Cone Nebula, Fox Fur Nebula
+ra_hr: 6.6844858465447174
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-04493/thumb.jpg
+zoom_level: 9.734008410282152
+---
+_uuid: c9278480-71f6-43d9-9f0c-a7928838fdfd
+angular_size: 6.90336
+annotation: '{"channel": "noirlab", "itemid": "noao-m35", "publishedUTCISO8601": "2020-06-30T21:34:17+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 24.287430861387097
+description: The open cluster M35 in the constellation Gemini contains a couple of
+  hundred stars and is visible to the naked eye under good conditions. NGC2158, its
+  fainter but compact neighbor to the south-west (lower right), is much harder to
+  see in small telescopes, although prominent in this CCD image from a research telescope
+  on a good mountain. M35 is about 2800 light-years away and some 110 million years
+  old. This approximately true-color picture was created from twelve images taken
+  in January 1997 using BVR colors, at the Burrell Schmidt telescope of Case Western
+  Reserve University&#x27;s Warner and Swasey Observatory located on Kitt Peak, near
+  Tucson, Arizona. Image size
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m35/L{1}X{2}Y{3}.png
+name: M35, NGC 2158
+ra_hr: 6.141843076140759
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m35/thumb.jpg
+zoom_level: 6.90336
+---
+_uuid: cf385309-82d9-4344-902b-0d132afe40d3
+annotation: '{"channel": "noirlab", "itemid": "noao-mon_r2", "publishedUTCISO8601":
+  "2020-06-30T21:34:08.576858+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -6.398736333056464
+description: This image was obtained with the wide-field view of the Mosaic II camera
+  on the Blanco 4-meter telescope at Cerro Tololo Interamerican Observatory on January
+  11th, 2012. It shows a portion of the giant Monceros R2 molecular cloud. It is a
+  location of massive star formation, particularly in the location of the bright red
+  nebula just below the center of the image. The image was generated with observations
+  in the Sulphur [SII] (blue) and Hydrogen-Alpha (red) filters. In this image, north
+  is to the right, and east is up.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-mon_r2/L{1}X{2}Y{3}.png
+name: Monoceros R2 Molecular Cloud
+ra_hr: 6.135464656649721
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-mon_r2/thumb.jpg
+zoom_level: 5.01709236
+---
+_uuid: f546b0c8-9527-4185-9aab-e62a6ecd6f6e
+angular_size: 1.9740672
+annotation: '{"channel": "noirlab", "itemid": "noao-n2261a", "publishedUTCISO8601":
+  "2020-06-30T21:34:04+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 8.793398938743946
+description: This image of Hubble&#x27;s Variable Nebula in the constellation of Monoceros
+  was taken with the Kitt Peak National Observatory&#x27;s 0.9-meter telescope in
+  March 1995. This deep version of the image shows the faint tail extending down to
+  the south from the nebula. To the north, almost directly above the nebula, is a
+  cluster of faint red dots comprising the Herbig Haro object known as HH39. This
+  object shows strong emission lines, especially those of hydrogen and nitrogen (which
+  provide the red color), and gets its energy from a strong outflow, or jet, emitted
+  by R Monocerotis, which is the young star at the southern end of NGC2261. A shallower
+  realization shows the interior details of the nebula.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-n2261a/L{1}X{2}Y{3}.png
+name: NGC 2261, Hubble's Variable Nebula
+ra_hr: 6.652444343441399
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-n2261a/thumb.jpg
+zoom_level: 1.9740672
+---
+_uuid: 9b4bd85a-b22c-482d-bd7a-f38c194c90d3
+angular_size: 11.438023538754527
+annotation: '{"channel": "noirlab", "itemid": "noao-rosette", "publishedUTCISO8601":
+  "2020-06-30T21:34:10+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 4.976651312230689
+description: The Rosette Nebula in the constellation Monoceros. This image, despite
+  being a degree across, still does not include the full size of this magnificent
+  nebula. This color picture was made from CCD images taken in September 1997 at the
+  Burrell Schmidt telescope of the Warner and Swasey Observatory of the Case Western
+  Reserve University, located on Kitt Peak in southwestern Arizona. The image is rather
+  fuzzy, as the weather conditions gave rather poor seeing, and there is a low level
+  noise pattern due to an electrical problem with the CCD imager. As a result, the
+  high resolution version is not really of much use, but it is included for completeness.
+  This image will be replaced when a better one becomes available.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-rosette/L{1}X{2}Y{3}.png
+name: Rosette Nebula, NGC 2237
+ra_hr: 6.537110725193063
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-rosette/thumb.jpg
+zoom_level: 11.438023538754527
+---
+_uuid: 5f6f70a8-bbf9-437a-a5cf-8a19b168aa37
+annotation: '{"channel": "noirlab", "itemid": "noao0403a", "publishedUTCISO8601":
+  "2004-01-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 5.055248613719932
+description: This stunning emission-line image of the Rosette nebula (NGC2237) has
+  been re-processed in support of NOAO Press Release 04-03. The Rosette nebula is
+  found in the constellation Monoceros (the Unicorn). This images was taken at the
+  National Science Foundation&#x27;s 0.9-m telescope on Kitt Peak with the Mosaic
+  camera, and is presented here in false color (hydrogen alpha, OIII oxygen, and SII
+  sulfur respectively red, green and blue, using five ten-minute exposures each).
+  The Rosette is a prominent star formation region, glowing due to ultraviolet light
+  from the young, hot, blue stars whose winds also cleared the central hole. It is
+  enormously large on the sky, covering more than six times the area of the full moon.
+  An approximately true color version at lower resolution from the Schmidt telescope
+  is also available.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0403a/L{1}X{2}Y{3}.png
+name: Rosette emission-line image
+ra_hr: 6.538492828835908
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0403a/thumb.jpg
+zoom_level: 9.85014
+---
+_uuid: db5919fe-ae9b-4626-8722-a8b6c1d9e8d2
+angular_size: 0.7221299940439199
+annotation: '{"channel": "noirlab", "itemid": "noao0403c", "publishedUTCISO8601":
+  "2004-01-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 4.884595054566893
+description: This is a zoomed in image of the area containing the Young Stellar Object
+  Rosette HH1. The area is indicated by the box in Image 2 above.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0403c/L{1}X{2}Y{3}.png
+name: Rosette HH1
+ra_hr: 6.539082001827012
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0403c/thumb.jpg
+zoom_level: 0.7221299940439199
+---
+_uuid: 5903ba6f-789f-4874-83b1-fc433945f48f
+annotation: '{"channel": "noirlab", "itemid": "noirlab2104c", "publishedUTCISO8601":
+  "2021-01-13T14:30:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.96832653200866
+description: An example of a gravitational lens found in the DESI Legacy Surveys data.
+  There are four sets of lensed images in DESI-090.9854-35.9683, corresponding to
+  four distinct background galaxies — from the outermost giant red arc to the innermost
+  bright blue arc, arranged in four concentric circles. All of them are gravitationally
+  warped — or lensed — by the orange galaxy at the very center.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2104c/L{1}X{2}Y{3}.png
+name: Gravitational lens found in the DESI Legacy Surveys data
+ra_hr: 6.065695218511091
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2104c/thumb.jpg
+zoom_level: 0.38013337847640005
+---
 _uuid: bd26e031-448f-4ed7-99bd-c6ea70382abe
 angular_size: 1.0
 classification: Nebula

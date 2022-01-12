@@ -1,3 +1,527 @@
+_uuid: bf78ca49-ebb6-4fed-a313-24b91b2ff244
+annotation: '{"channel": "noirlab", "itemid": "gemini0605b", "publishedUTCISO8601":
+  "2006-06-04T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -65.97628045119997
+description: NGC 5189 imaged at Gemini South. NGC 5189, a chaotic-looking planetary
+  nebula that lies about 550 parsecs (1,800 light-years) away in the southern hemisphere
+  constellation Musca, is a parallelogram-shaped cloud of glowing gas. The GMOS image
+  of this nebula shows long streamers of gas, glowing dust clouds, and cometary knots
+  pointing away from the central star. Its unruly appearance suggests some extraordinary
+  action at the heart of this planetary nebula.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0605b/L{1}X{2}Y{3}.png
+name: Nebula NGC 5189
+ra_hr: 13.559140283208638
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0605b/thumb.jpg
+zoom_level: 0.8478870330053534
+---
+_uuid: b30093e1-4c24-4ad1-a790-abfa68b992bd
+angular_size: 1.8075626855286
+annotation: '{"channel": "noirlab", "itemid": "iotw2051b", "publishedUTCISO8601":
+  "2020-12-17T15:22:10+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -30.408477122436516
+description: This observation from the SMARTS 0.9-meter Telescope at Cerro Tololo
+  Inter-American Observatory shows the result of a truly spectacular galactic collision.
+  The elliptical galaxy NGC 5291 — the hazy oval cloud at the center of this image
+  — was struck by a careening rogue galaxy over 300 million years ago. The aftermath
+  of this cataclysmic collision is a ring of galactic debris — visible as the tenuous
+  luminous clouds spreading left and right from the golden oval of NGC 5291. This
+  image also shows more gentle galactic interactions — NGC 5291 is interacting sedately
+  with the unusually curved galaxy to the right of it, which is known as the Seashell.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/iotw2051b/L{1}X{2}Y{3}.png
+name: NGC 5291
+ra_hr: 13.789745905595524
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/iotw2051b/thumb.jpg
+zoom_level: 1.8075626855286
+---
+_uuid: 2e717ef3-1498-4312-b32d-99927733b366
+annotation: '{"channel": "noirlab", "itemid": "noao-02214", "publishedUTCISO8601":
+  "2020-06-30T21:34:14+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 28.378431461180945
+description: M3, NGC5272, a globular cluster in the constellation Canes Venatici,
+  as seen by the KPNO 4-m telescope in 1975.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02214/L{1}X{2}Y{3}.png
+name: M3, NGC 5272
+ra_hr: 13.703257012252797
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02214/thumb.jpg
+zoom_level: 2.9172
+---
+_uuid: 7d448234-b653-46be-ad76-3f3f543f5536
+annotation: '{"channel": "noirlab", "itemid": "noao-02272", "publishedUTCISO8601":
+  "2020-06-30T21:33:50+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.19614899495245
+description: The Whirlpool Nebula in the constellation Canes Venatici was the first
+  in which spiral structure was clearly seen. It is actually a pair of interacting
+  galaxies. Kitt Peak 4-meter Mayall telescope, 1975.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02272/L{1}X{2}Y{3}.png
+name: M51, the Whirlpool Nebula, NGC 5194/5195
+ra_hr: 13.497995944774344
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02272/thumb.jpg
+zoom_level: 3.493499999999999
+---
+_uuid: 1445bebb-a071-44b5-8319-e350e3350fff
+annotation: '{"channel": "noirlab", "itemid": "noao-02333", "publishedUTCISO8601":
+  "2020-06-30T21:33:58+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 5.014098916844805
+description: The type Sb/Sc peculiar spiral galaxy NGC5364, in the constellation Virgo,
+  was imaged by the KPNO 4-meter Mayall telescope in 1975.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02333/L{1}X{2}Y{3}.png
+name: NGC 5364 in Virgo
+ra_hr: 13.93654177735635
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02333/thumb.jpg
+zoom_level: 1.52745
+---
+_uuid: ea68871a-7fc4-45ba-a15c-a32b7fb177d3
+angular_size: 1.1698176
+annotation: '{"channel": "noirlab", "itemid": "noao-04106", "publishedUTCISO8601":
+  "2002-06-20T09:40:01+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -19.518253011143756
+description: This image of Supernova 2002dj was taken at the 0.9-meter telescope at
+  Cerro Tololo Inter-American Observatory (CTIO) in Chile on 14 June 2002.  SN 2002dj
+  is a Type-Ia supernova located in the nearby, early-type galaxy NGC5018. The supernova
+  is the bluish object to the right of the galactic center. NGC5018 is located in
+  the constellation Coma Berenices, at an estimated distance of 130 million light-years
+  from Earth.  The supernova was caught almost two weeks before its maximum light,
+  one of the earliest observations to date. The supernova was discovered by D.Hutchings
+  and W.D.Li of the Lick Observatory and Tenagra Observatory Supernova Searches (LOTOSS),
+  using the 0.8-meter Katzman Automatic Imaging Telescope at Lick.  The data shown
+  here were taken as part of the CTIO Bright Supernova Project, conducted by Nicholas
+  Suntzeff, Chris Smith, Kevin Krisciunas, and Pablo Candia of CTIO. The aim of the
+  survey is to characterize Type-Ia supernovae in the infrared where dust extinction
+  is very small. These data will be used to measure distances accurate to 5 percent
+  for the measurement of the Hubble constant and the acceleration of the Universe.
+  Data taken with the CTIO 0.9-meter and YALO 1-meter telescopes, and at the Las Campanas
+  Observatory 1-meter and 2.5-meter telescopes (in collaboration with Mark Phillips
+  of LCO), will be used in these measurements.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-04106/L{1}X{2}Y{3}.png
+name: SN2002dj in NGC 5018
+ra_hr: 13.21712986533251
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-04106/thumb.jpg
+zoom_level: 1.1698176
+---
+_uuid: 817cfcf1-3e8e-48ed-94f7-56a3cb0ccad8
+angular_size: 2.4480000000000004
+annotation: '{"channel": "noirlab", "itemid": "noao-J1337-29_crop1", "publishedUTCISO8601":
+  "2006-11-09T13:15:28+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.8747066261856
+description: 'Gas-rich galaxies display a wide range of structures and properties,
+  but one thing they all seem to have are some newly formed stars. Images from the
+  Survey for Ionization in Neutral Gas Galaxies (SINGG), an NOAO Survey Program (obtained
+  with the CTIO 1.5m telescope), are designed to highlight areas of star formation
+  in gas rich galaxies.  This image shows Messier 83 (M83), one of the brightest spiral
+  galaxies. The disks of these classic galaxies (what one usually thinks of when hearing
+  the word), form when the gas in the system collapses. The spiral pattern is caused
+  by a density wave in the disk which can cause enhanced star formation along the
+  arms to make a grand design spiral. M83 hosts a strong starburst in its nuclear
+  regions which appears white in this image.  The image is displayed so that stars
+  have a cyan-blue appearance, while ionized hydrogen (H-alpha) emission appears orange-red
+  to yellow. The H-alpha emission marks where the gas in the galaxies has been stripped
+  of electrons, and is now recombining. It takes very hot O stars to ionize the gas;
+  these stars have very short lifetimes (a few million years). As a result, red tones
+  in these images typically mark the location of newly formed hot stars.  Gerhardt
+  Meurer of The Johns Hopkins University, Baltimore, MD, is the principal investigator
+  for SINGG. For more information, see: http://sungg.pha.jhu.edu/'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-J1337-29_crop1/L{1}X{2}Y{3}.png
+name: NGC 5236 (M83), SINGG Survey
+ra_hr: 13.6166702259343
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-J1337-29_crop1/thumb.jpg
+zoom_level: 2.4480000000000004
+---
+_uuid: dc8fefbe-35b1-46b5-a9b9-d5781cb63d35
+angular_size: 1.44748608
+annotation: '{"channel": "noirlab", "itemid": "noao-arp-104", "publishedUTCISO8601":
+  "2020-06-30T21:33:46.234090+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 62.729191109626406
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. Arp 104, also
+  known as Keenan’s System, consists of the two spiral galaxies NGC 5216 (bottom)
+  and NGC 5218 (top). The two are connected by a thin stream of gas, in which new
+  stars are forming. The stream was created when the two galaxies passed by each other,
+  their mutual gravity pulling the gas out. The newly formed hot, massive stars turn
+  the stream blue. The stream is about 150,000 light years in length. The image was
+  generated with observations in B (blue), V (green) and I (red) filters. In this
+  image, North is up, East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-arp-104/L{1}X{2}Y{3}.png
+name: Arp 104 Keenan’s System (NGC 5216 & NGC 5218)
+ra_hr: 13.535984409337075
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-arp-104/thumb.jpg
+zoom_level: 1.44748608
+---
+_uuid: bf09c53e-458e-41bd-8da0-87dd53b68d4e
+angular_size: 3.9429119999999998
+annotation: '{"channel": "noirlab", "itemid": "noao-comacol", "publishedUTCISO8601":
+  "2020-06-30T21:33:46.854721+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 27.98116879292872
+description: The Coma Berenices cluster of galaxies contains more than 1000 galaxies,
+  with a large number of E (elliptical) and S0 (lenticular) types. The color image
+  was created from three separate exposures taken in blue, red and almost-infrared
+  light, using the Kitt Peak National Observatory&#x27;s 0.9-meter telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-comacol/L{1}X{2}Y{3}.png
+name: Cluster of galaxies in Coma Berenices
+ra_hr: 13.00293168643313
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-comacol/thumb.jpg
+zoom_level: 3.9429119999999998
+---
+_uuid: 6e7df162-c1a0-4699-bcd9-2682f7e77425
+angular_size: 1.4688
+annotation: '{"channel": "noirlab", "itemid": "noao-j1318-21_crop1", "publishedUTCISO8601":
+  "2020-06-30T21:33:58.765350+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.037960890018116
+description: 'Gas-rich galaxies display a wide range of structures and properties,
+  but one thing they all seem to have are some newly formed stars. Images from the
+  Survey for Ionization in Neutral Gas Galaxies (SINGG), an NOAO Survey Program (obtained
+  with the CTIO 1.5m telescope), are designed to highlight areas of star formation
+  in gas rich galaxies.  This image shows the spiral galaxy NGC5068. The disks of
+  these classic galaxies (what one usually thinks of when hearing the word), form
+  when the gas in the system collapses. IN many cases, a strong spiral pattern is
+  caused by a density wave in the disk which enhances star formation along the arms
+  resulting in a grand design spiral. In other cases, such as with this galaxy, the
+  star formation is more random resulting in a spiral galaxy with bold flocculent
+  HII regions.  Gerhardt Meurer of The Johns Hopkins University, Baltimore, MD, is
+  the principal investigator for SINGG. For more information, see: http://sungg.pha.jhu.edu/'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-j1318-21_crop1/L{1}X{2}Y{3}.png
+name: NGC 5068, SINGG Survey
+ra_hr: 13.315159291151382
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-j1318-21_crop1/thumb.jpg
+zoom_level: 1.4688
+---
+_uuid: 7f2c56ae-0229-46d6-aedc-e10c5cef8547
+annotation: '{"channel": "noirlab", "itemid": "noao-j1339-31_crop1", "publishedUTCISO8601":
+  "2020-06-30T21:53:33.315121+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -31.64712574672876
+description: 'Gas-rich galaxies display a wide range of structures and properties,
+  but one thing they all seem to have are some newly formed stars. Images from the
+  Survey for Ionization in Neutral Gas Galaxies (SINGG), an NOAO Survey Program (obtained
+  with the CTIO 1.5m telescope), are designed to highlight areas of star formation
+  in gas rich galaxies.  Galaxies with intense star formation and low mass are most
+  able to eject their gas in a galactic wind. This Blue Compact Dwarf (BCD) galaxy
+  has a very strong outflow resulting in a spectacular display of galactic wind.  The
+  image is displayed so that stars have a cyan-blue appearance, while ionized hydrogen
+  (H-alpha) emission appears orange-red to yellow. The H-alpha emission marks where
+  the gas in the galaxies has been stripped of electrons, and is now recombining.
+  It takes very hot O stars to ionize the gas; these stars have very short lifetimes
+  (a few million years). As a result, red tones in these images typically mark the
+  location of newly formed hot stars.  Gerhardt Meurer of The Johns Hopkins University,
+  Baltimore, MD, is the principal investigator for SINGG. For more information, see:
+  http://sungg.pha.jhu.edu/'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-j1339-31_crop1/L{1}X{2}Y{3}.png
+name: NGC 5253, SINGG Survey
+ra_hr: 13.665302131845369
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-j1339-31_crop1/thumb.jpg
+zoom_level: 1.4688
+---
+_uuid: ea28e2a3-9c4e-46b6-90b5-d3c4a8ed58cf
+angular_size: 5.752800000000001
+annotation: '{"channel": "noirlab", "itemid": "noao-m3-burrell-schmid", "publishedUTCISO8601":
+  "2020-06-30T21:34:14+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 28.380544129683884
+description: M3, or NGC5272, is a sixth magnitude globular cluster in the constellation
+  Canes Venatici. A fairly striking globular of about half a million stars, M3 was
+  Messier&#x27;s first previously uncatalogued object, and probably the impetus for
+  his systematic search leading to the Messier Catalog. This picture was made from
+  CCD images taken at the Burrell Schmidt telescope of the Warner and Swasey Observatory
+  of the Case Western Reserve University, located on Kitt Peak in southwestern Arizona.
+  The contributing images were taken in June 1996 during the Research Experiences
+  for Undergraduates (REU) program operated at the Kitt Peak National Observatory
+  and supported by the National Science Foundation.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m3-burrell-schmid/L{1}X{2}Y{3}.png
+name: M3, NGC 5272
+ra_hr: 13.703016532657855
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m3-burrell-schmid/thumb.jpg
+zoom_level: 5.752800000000001
+---
+_uuid: 2ede3d2b-6404-404f-9ce0-e291f9e5d61a
+angular_size: 5.752800000000001
+annotation: '{"channel": "noirlab", "itemid": "noao-m3-kpno-mayall-4-m", "publishedUTCISO8601":
+  "2020-06-30T21:34:14+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 28.380544129683884
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. M3 is a giant
+  globular cluster that consists of several hundred thousand stars. It is slightly
+  larger and more distant than M13. Like in all globular clusters, the stars are all
+  old. Because the core of the cluster is very bright, many short exposures had to
+  be taken so that it would not be over exposed. The image was generated with observations
+  in B (blue), V (green) and I (red) filters. In this image, North is left, East is
+  down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m3-kpno-mayall-4-m/L{1}X{2}Y{3}.png
+name: M3, NGC 5272
+ra_hr: 13.703016532657855
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m3-kpno-mayall-4-m/thumb.jpg
+zoom_level: 5.752800000000001
+---
+_uuid: f4c09b5f-a889-4093-bc8a-8e31ee197163
+angular_size: 2.5061400000000003
+annotation: '{"channel": "noirlab", "itemid": "noao-m53", "publishedUTCISO8601": "2020-06-30T21:53:13+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 18.167937499754192
+description: M53 is a globular cluster in the constellation Coma Berenices. It is
+  an outlying globular, being about 60000 light-years distant both from us and from
+  the Galactic Center. This composite was created from images taken in July 1997 at
+  the KPNO 0.9-meter telescope, during the Research Experiences for Undergraduates
+  (REU) program operated at the Kitt Peak National Observatory and supported by the
+  National Science Foundation, and again in May 1998. Image size 14.7 arc minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m53/L{1}X{2}Y{3}.png
+name: M53, NGC 5024
+ra_hr: 13.21534703551901
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m53/thumb.jpg
+zoom_level: 2.5061400000000003
+---
+_uuid: 00b9dffa-cc43-4618-bb9d-7a753018aa7c
+angular_size: 2.6333748
+annotation: '{"channel": "noirlab", "itemid": "noao-m63", "publishedUTCISO8601": "2020-06-30T21:33:51.048278+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 42.03718670505819
+description: M63 is a type Sbc spiral galaxy in the constellation Canes Venatici.
+  M63, occasionally called the Sunflower Galaxy for no very good reason, is around
+  10Mpc away and may be part of a loose physical group including M51 and several other
+  smaller galaxies. This composite color image was created from CCD observations made
+  at the Kitt Peak National Observatory&#x27;s 0.9-meter telescope in May 1998.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m63/L{1}X{2}Y{3}.png
+name: M63, NGC 5055
+ra_hr: 13.262579486983668
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m63/thumb.jpg
+zoom_level: 2.6333748
+---
+_uuid: bd2a2822-2417-4fd5-973f-84938809a70a
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc5364", "publishedUTCISO8601":
+  "2020-06-30T21:33:58+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 5.119744918355459
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. NGC 5363 is the
+  elliptical galaxy in the upper-left corner of the image. And NGC 5364 is the spiral
+  galaxy in the lower right. These two galaxies are likely in the early stages of
+  gravitational interaction. The image was generated with observations in the B (blue),
+  V (green), and I (red) filters. This image is rotated 15 degrees clockwise from
+  North is left, East is down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc5364/L{1}X{2}Y{3}.png
+name: Elliptical Galaxy NGC 5363 and Spiral Galaxy NGC 5364
+ra_hr: 13.936445147401406
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc5364/thumb.jpg
+zoom_level: 2.78079744
+---
+_uuid: 132756ea-5953-4411-af02-a31d63e84c2e
+angular_size: 3.008999999999999
+annotation: '{"channel": "noirlab", "itemid": "noao0124a", "publishedUTCISO8601":
+  "2020-06-30T21:33:50+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.196300825070836
+description: This image of M51 was taken with the NOAO Mosaic CCD camera on the National
+  Science Foundation&#x27;s 0.9-meter telescope located at Kitt Peak National Observatory
+  near Tucson, AZ. Located in the constellation of Canes Venatici, the &quot;hunting
+  dogs&quot;, M51 consists of the large spiral galaxy NGC5194 and its smaller companion
+  NGC5195. Hot, massive stars which recently formed in NGC5194 give the galaxy its
+  bluish color. The reddish areas are nebulae in the galaxy in which stars are rapidly
+  forming. M51 is approximately 31 million light-years away and over 65,000 light-years
+  in diameter. The color image was generated by combining images taken through five
+  filters (B, V, R, I and Hydrogen-alpha). The image shown above is only one tenth
+  of the entire field of view of Mosaic on the 0.9-meter telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0124a/L{1}X{2}Y{3}.png
+name: M51, the Whirlpool Nebula, NGC 5194/5195
+ra_hr: 13.497879873945962
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0124a/thumb.jpg
+zoom_level: 3.008999999999999
+---
+_uuid: 933759b7-85e7-47ba-936c-b6b13adc0749
+angular_size: 5.266107
+annotation: '{"channel": "noirlab", "itemid": "noao1309a", "publishedUTCISO8601":
+  "2013-07-25T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.24231621270324
+description: The spiral galaxy M51, (the Whirlpool Galaxy) observed with the ODI camera
+  on the WIYN telescope at Kitt Peak National Observatory, May 2013. Even though the
+  galaxy is almost 30 million light years away, the image clearly shows clusters of
+  young, hot stars that light up the spiral arms. Threaded through the arms are dark
+  “dust lanes”, where sooty material left over from previous generations of stars
+  has settled. More dust lanes can be seen in the bridge of luminous stars and gas
+  that connects Messier 51 to its companion, the peculiar galaxy NGC 5195, in the
+  upper part of the image. For more details, and an alternate version of this image,
+  see NOAO press release 1309.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao1309a/L{1}X{2}Y{3}.png
+name: M51, Whirlpool Galaxy
+ra_hr: 13.498951499654126
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao1309a/thumb.jpg
+zoom_level: 5.266107
+---
+_uuid: 670d6460-8883-427c-b88b-0319e2414b48
+angular_size: 1.3993003471235343
+annotation: '{"channel": "noirlab", "itemid": "noao1309b", "publishedUTCISO8601":
+  "2013-07-25T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.20036432895287
+description: Cropped view of Spiral Galaxy M51, demonstrating the excellent sharpness
+  of the One Degree Imager (ODI) on the WIYN 3.5-m telescope on Kitt Peak.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao1309b/L{1}X{2}Y{3}.png
+name: M51, the Whirlpool Galaxy, seen with new ODI Camera on WIYN Telescope
+ra_hr: 13.498755965143694
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao1309b/thumb.jpg
+zoom_level: 1.3993003471235343
+---
+_uuid: 7ff988c2-ed26-4ff8-b75d-08fd76735200
+annotation: '{"channel": "noirlab", "itemid": "noaoann19007a", "publishedUTCISO8601":
+  "2019-04-04T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.19829602996612
+description: 'On April 1, the Mayall telescope at Kitt Peak emerged from hibernation—its
+  dome reopened to the night sky, and starlight poured through the six large lenses
+  of its powerful new research tool: the Dark Energy Spectroscopic Instrument (DESI).
+  Early next year, DESI will begin the greatest cosmic cartography experiment attempted
+  to date, surveying 40 million galaxies and quasars out to a distance of 10 billion
+  light years, and 10 million stars in our Galaxy. DESI&#x27;s commissioning camera
+  captured this image of the Whirlpool Galaxy, a.k.a. M51.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noaoann19007a/L{1}X{2}Y{3}.png
+name: Dark Energy Spectroscopic Instrument’s Lenses See First Light
+ra_hr: 13.498202026556735
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noaoann19007a/thumb.jpg
+zoom_level: 0.7722384724376017
+---
+_uuid: cafdb383-08dc-4685-b09b-3fccb434fc92
+angular_size: 0.7891453179370447
+annotation: '{"channel": "noirlab", "itemid": "noirlab1912a", "publishedUTCISO8601":
+  "2019-12-19T03:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 37.436961588717914
+description: Image of the interacting galaxy pair NGC 5394/5 obtained with NSF’s National
+  Optical-Infrared Astronomy Research Laboratory’s Gemini North 8-meter telescope
+  on Hawai’i’s Maunakea using the Gemini Multi-Object Spectrograph in imaging mode.
+  This four-color composite image has a total exposure time of 42 minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab1912a/L{1}X{2}Y{3}.png
+name: Galactic Dance
+ra_hr: 13.97646013843817
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab1912a/thumb.jpg
+zoom_level: 0.7891453179370447
+---
+_uuid: 044023b9-0bf5-4bc2-9a4c-505109397095
+annotation: '{"channel": "noirlab", "itemid": "noirlab2014d", "publishedUTCISO8601":
+  "2020-06-24T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -58.48454808443415
+description: A circumstellar disk around star HD 117214 selected from the larger sample
+  of 26 disks obtained with the Gemini South telescope in Chile using the Gemini Planet
+  Imager (GPI).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2014d/L{1}X{2}Y{3}.png
+name: HD 117214
+ra_hr: 13.502502235534681
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2014d/thumb.jpg
+zoom_level: 0.007512202320320159
+---
+_uuid: a844b8b2-c1d4-4cbf-b498-587eb96c0a0f
+angular_size: 1.5200090011936649
+annotation: '{"channel": "noirlab", "itemid": "noirlab2107a", "publishedUTCISO8601":
+  "2021-02-08T10:03:02+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.868776024564088
+description: Nicknamed the Southern Pinwheel, Messier 83 (or NGC 5236) is a stunning
+  face-on spiral galaxy located about 15 million light-years away in the southern
+  constellation of Hydra. Its spiral arms are lined with dark lanes of dust and peppered
+  with reddish, star-forming clouds of hydrogen gas. One of the deepest images ever
+  taken of the Southern Pinwheel (combining more than 11 hours of exposure time),
+  this view was captured with the Dark Energy Camera (DECam), which was built by the
+  US Department of Energy (DOE) and is mounted on the Víctor M. Blanco 4-meter Telescope
+  at Cerro Tololo Inter-American Observatory (CTIO), a Program of NSF’s NOIRLab. Numerous
+  background galaxies, which lie much farther away than Messier 83, appear around
+  the edges of the image.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2107a/L{1}X{2}Y{3}.png
+name: Southern Pinwheel Galaxy, Messier 83
+ra_hr: 13.616820149174032
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2107a/thumb.jpg
+zoom_level: 1.5200090011936649
+---
+_uuid: c1e93938-2b0f-4bcd-8725-37ac60e4a2b0
+annotation: '{"channel": "noirlab", "itemid": "noirlab2125a", "publishedUTCISO8601":
+  "2021-08-31T09:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.02339156945755
+description:   The galaxy Centaurus A, which lies over 12 million light-years away
+  in the direction of the southern-hemisphere constellation Centaurus (The Centaur),
+  is the leading light of this striking image. This image provides a spectacular view
+  of the luminous glow of stars and dark tendrils of dust that hide the bright center
+  of the galaxy. This dust is the result of a past galactic collision, in which a
+  giant elliptical galaxy merged with a smaller spiral galaxy. As well as large amounts
+  of gas and dust, Centaurus A’s dust lane contains widespread star formation, as
+  indicated by the red clouds of hydrogen and by the large numbers of faint blue stars
+  visible at each end of the dust lane.  Zoom into the image to see more.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2125a/L{1}X{2}Y{3}.png
+name: Centaurus A captured by the Dark Energy Camera
+ra_hr: 13.424183558037896
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2125a/thumb.jpg
+zoom_level: 1.5281833066165813
+---
+_uuid: 76640da0-6acf-4d07-af15-010958d6070e
+annotation: '{"channel": "noirlab", "itemid": "rubin-rubin-stills-0051", "publishedUTCISO8601":
+  "2017-11-30T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -47.450784587704746
+description: In March 2017 a multimedia team visited Cerro Pachón to document LSST
+  Facility construction.  More details are at https://www.lsst.org/news/cerro-pach%C3%B3n-goes-hollywood.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/rubin-rubin-stills-0051/L{1}X{2}Y{3}.png
+name: Summit Multimedia Visit 2017
+ra_hr: 13.446946854741915
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/rubin-rubin-stills-0051/thumb.jpg
+zoom_level: 12.232899658617855
+---
 _uuid: c394ab94-a478-4f65-a1fd-dc415f3c61bb
 classification: ''
 constellation: ''

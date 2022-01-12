@@ -1,3 +1,494 @@
+_uuid: 73bd1b69-bc43-473f-beec-ea4773d93db7
+angular_size: 0.7812381934355486
+annotation: '{"channel": "noirlab", "itemid": "gemini-vv166-final", "publishedUTCISO8601":
+  "2015-01-05T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 30.06809241080902
+description: '&quot;This compelling image from the Gemini North telescope peers into
+  the heart of VV 166, a galaxy group 300 million light years distant. It presents,
+  at a glance, a sampling of the wide diversity of systems that populate the deep
+  reaches of the nearby Universe. One of its most fascinating features is a striking
+  alignment of three disparate galaxies in a near equilateral triangle: Spiral-shaped
+  NGC 70 at top, elliptical galaxy NGC 68 to its lower right, and lenticular galaxy
+  NGC 71 to its lower left. NGC 70’s spiral arms are dominated by extensive areas
+  of active star formation which appear blue in this image due to the colors used
+  to assemble this color composite. NGC 68 looks monochromatic because it’s a much
+  older system devoid of star formation and spiral structure. NGC 71 is a lenticular
+  galaxy with attributes of both spiral and elliptical systems. NGC 70’s spiral arms
+  also appear distorted between NGC 68 and NGC 71, indicating a possible tidal dance
+  with one or more of the group’s galaxies. These graceful interactions are choreographed
+  as VV 166’s members whiz collectively through space at about 6,500 kilometers per
+  second. Barred spiral galaxy NGC 72 lies to the triangle’s lower left. Our own Milky
+  Way galaxy has a similar bar-like structure, but its arms are of a “grand design”—
+  more splendid, organized, and numerous. Obtained using the Gemini Multi-Object Spectrograph
+  (GMOS), at the Gemini North telescope located on Mauna Kea, Hawai‘i. In this image,
+  north is up, east left, and the field of view is 5.2 x 5.2 arcminutes. Composite
+  color image produced by Travis Rector, University of Alaska Anchorage.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini-vv166-final/L{1}X{2}Y{3}.png
+name: Galaxy Group VV 166
+ra_hr: 0.30649746436691316
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini-vv166-final/thumb.jpg
+zoom_level: 0.7812381934355486
+---
+_uuid: cd3a9134-9b0f-4a60-bafb-3fc69f4e91cc
+angular_size: 0.9478454423734199
+annotation: '{"channel": "noirlab", "itemid": "gemini0603a", "publishedUTCISO8601":
+  "2006-04-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -11.872741022328505
+description: Gemini South Image of the planetary nebula NGC 246 NGC 246 is a planetary
+  nebula that lies about 1,600 light-years away in the constellation Cetus. Its central
+  star shines at 12th magnitude and is whisking through space at about 80 kilometers
+  (50 miles) per second.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0603a/L{1}X{2}Y{3}.png
+name: Skull Nebula NGC 246
+ra_hr: 0.7845047354570625
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0603a/thumb.jpg
+zoom_level: 0.9478454423734199
+---
+_uuid: bd25a594-dd35-4c05-bb93-8e0b00df6ce8
+annotation: '{"channel": "noirlab", "itemid": "gemini1306c", "publishedUTCISO8601":
+  "2013-08-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -25.2838226351406
+description: In this near-infrared image, FLAMINGOS-2 peered deep into the heart of
+  spiral galaxy NGC 253, which lies about 11.5 million light-years nearby in the constellation
+  of Sculptor. The new instrument captured an intricate whirlpool of dust spiraling
+  in to a diffuse nuclear region, where violent star formation may be occurring around
+  a supermassive black hole. The instrument also imaged a dusting of star forming
+  sites in its spiral arms.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini1306c/L{1}X{2}Y{3}.png
+name: NGC 253
+ra_hr: 0.7924766000244384
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini1306c/thumb.jpg
+zoom_level: 0.6949076554163106
+---
+_uuid: d30356b1-b664-46e4-ba95-fa1575853df2
+angular_size: 2.6360064
+annotation: '{"channel": "noirlab", "itemid": "noao-02204", "publishedUTCISO8601":
+  "2020-06-30T21:33:55.618779+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -25.288427137161165
+description: The Spiral Galaxy NGC253, as seen by the KPNO 0.9-meter telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02204/L{1}X{2}Y{3}.png
+name: The Spiral Galaxy NGC 253
+ra_hr: 0.7916608331722799
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02204/thumb.jpg
+zoom_level: 2.6360064
+---
+_uuid: 32aa4947-9f23-4f09-a087-49508ce8f66c
+annotation: '{"channel": "noirlab", "itemid": "noao-02212", "publishedUTCISO8601":
+  "2020-06-30T21:34:13+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.0849276523859
+description: 47 Tucanae, or NGC104, a globular cluster in the constellation Tucana,
+  as seen by the CTIO 4-meter Blanco telescope in 1975. One of the nearest globular
+  clusters, at only 16000 light-years, 47 Tuc has a diameter of 210 light-years and
+  a mass about one million times that of the Sun.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02212/L{1}X{2}Y{3}.png
+name: 47 Tucanae, NGC 104
+ra_hr: 0.4020030256819785
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02212/thumb.jpg
+zoom_level: 5.6508
+---
+_uuid: f56b1103-9e07-4abe-9f12-374e0df95a66
+annotation: '{"channel": "noirlab", "itemid": "noao-02331", "publishedUTCISO8601":
+  "2020-06-30T21:33:55+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -39.20889684783694
+description: NGC55, an irregular barred spiral (type SBm) in the constellation Sculptor,
+  is seen nearly edge-on in this pohotgraph. One of the closer galaxies outside our
+  Local Group, at about 7.5 million light-years, it is part of the Sculptor Cluster
+  of galaxies. CTIO 4-meter Blanco telescope, 1975.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02331/L{1}X{2}Y{3}.png
+name: NGC 55 in Sculptor
+ra_hr: 0.25176171108482576
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02331/thumb.jpg
+zoom_level: 5.079599999999999
+---
+_uuid: 558f9ed8-35b3-4f80-bf6b-49d2844c1833
+annotation: '{"channel": "noirlab", "itemid": "noao-02352", "publishedUTCISO8601":
+  "2020-06-30T21:34:00.435256+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 17.157985027443445
+description: Another distant cluster of galaxies. KPNO 4-meter Mayall telescope, 1975.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02352/L{1}X{2}Y{3}.png
+name: Cluster of galaxies in Pisces
+ra_hr: 0.44329782555913233
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02352/thumb.jpg
+zoom_level: 1.54785
+---
+_uuid: 74c68ee2-c5ad-4c8f-a46e-45bfc01c2361
+annotation: '{"channel": "noirlab", "itemid": "noao-6051", "publishedUTCISO8601":
+  "2020-06-30T21:34:00.614006+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.7755535106398
+description: The Small Magellanic Cloud is an irregular dwarf galaxy in the constellation
+  Tucana, and is a satellite of our own Milky Way Galaxy. The SMC is visible to the
+  naked eye from the southern hemisphere. CTIO Curtis Schmidt telescope photograph.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-6051/L{1}X{2}Y{3}.png
+name: Small Magellanic Cloud
+ra_hr: 0.8826464852898231
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-6051/thumb.jpg
+zoom_level: 18.499454399999998
+---
+_uuid: 4ae788bb-d82d-4a90-8c8d-cfbfc6357a46
+annotation: '{"channel": "noirlab", "itemid": "noao-abell98", "publishedUTCISO8601":
+  "2020-06-30T21:33:45+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 20.55426779093437
+description: Galaxy cluster Abell 98 in a colour composite derived from R and I images.
+  Data taken at the 3.5-meter WIYN telescope on Kitt Peak by Mike Pierce, Indiana
+  University.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-abell98/L{1}X{2}Y{3}.png
+name: Galaxy cluster Abell 98
+ra_hr: 0.7740391581635726
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-abell98/thumb.jpg
+zoom_level: 2.2737330000000004
+---
+_uuid: f8e7e2e3-6108-4b75-94e8-6b5f1003c835
+angular_size: 3.8556
+annotation: '{"channel": "noirlab", "itemid": "noao-m110", "publishedUTCISO8601":
+  "2020-06-30T21:33:55.201102+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.6876609523128
+description: M110 is the second small companion (along with M32) to our sister galaxy,
+  M31, the Andromeda Nebula. It is classified as type E5 or E6, often with the additional
+  &quot;p&quot; for peculiar because of the structure clearly visible in this short
+  exposure image, which is probably due to dust clouds. Because of its small size,
+  it is usually counted as a dwarf spheroidal rather than a normal elliptical. Although
+  it was definitely discovered by Messier and sketched by him, it was not included
+  in his list (perhaps due to carelessness), and was the last object to be added (in
+  1966). The present picture is a color composite of CCD images from the 0.9-meter
+  telescope of the Kitt Peak National Observatory, near Tucson, Arizona. A deeper
+  exposure showing more of the outer regions of the galaxy appears in this picture
+  of all three of M31, M32 and M110.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m110/L{1}X{2}Y{3}.png
+name: M110, NGC 205
+ra_hr: 0.6728671763331775
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m110/thumb.jpg
+zoom_level: 3.8556
+---
+_uuid: c20f97e8-645c-4dd6-a994-4cfc2ac5dbf0
+angular_size: 9.970121007197537
+annotation: '{"channel": "noirlab", "itemid": "noao-m31", "publishedUTCISO8601": "2020-06-30T21:33:48+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.28386661860606
+description: 'This detailed image of the Andromeda Galaxy was taken at the National
+  Science Foundation&#x27;s 0.9-meter telescope on Kitt Peak with the NOAO Mosaic
+  CCD camera. Located in the constellation of Andromeda, the Princess, the Andromeda
+  Galaxy is a large spiral galaxy very similar to our own Galaxy, the Milky Way. It
+  is over 65,000 light-years in diameter and approximately 2.2 million light-years
+  in distance. The area shown in this image is quite large on the sky, covering about
+  five times the area of the full Moon. This true-color image was created by combining
+  images taken in seven filters: U (violet), B (blue), V (green), R (orange), I (red),
+  Hydrogen-Alpha (red) and Oxygen [OIII] (green).'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m31/L{1}X{2}Y{3}.png
+name: The Andromeda Galaxy
+ra_hr: 0.7129035334159042
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m31/thumb.jpg
+zoom_level: 9.970121007197537
+---
+_uuid: 6f1c8338-9dfe-4784-bb3e-9a3c6f367502
+angular_size: 9.32770242241828
+annotation: '{"channel": "noirlab", "itemid": "noao-m31lgs_ubvIha", "publishedUTCISO8601":
+  "2020-06-30T21:33:48+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.21023351974203
+description: This image was created with data from the Local Group Survey, completed
+  with the Mosaic camera on the Mayall 4-meter telescope at Kitt Peak National Observatory.
+  M31, M33 and our Milky Way are the three largest members of the Local Group of galaxies.
+  M31 is a spiral galaxy very similar in size and mass to our own. Ten &#x27;pointings&#x27;
+  of the camera along the galaxy in five filters were used to make the image. You
+  could line seven full moons across the image. The image was generated with observations
+  with the U (violet), B (blue), V (cyan), I (orange) and H-alpha (red) filters. The
+  five filters show the star colors and HII star forming regions in vivid detail.
+  About 600 million pixels in size, it is the largest and most detailed image of M31
+  ever completed that covers the entire galaxy. This image is rotated CW 127 degrees
+  from North is up, East to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m31lgs_ubvIha/{1}/{3}/{3}_{2}.png
+name: Panorama of Spiral Galaxy, M31
+ra_hr: 0.7136418341101134
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m31lgs_ubvIha/thumb.jpg
+zoom_level: 9.32770242241828
+---
+_uuid: 28e47065-d00f-47c2-9fdc-eaa7ce1c0059
+angular_size: 2.0839007999999994
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc-253", "publishedUTCISO8601":
+  "2020-06-30T21:34:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -25.282071896820735
+description: NGC 253 also goes by the name of “Sculptor Galaxy” after its parent constellation,
+  or by the name “Silver Dollar Galaxy”, presumably after its visual appearance in
+  the eyepiece. NGC 253 is classified as a starburst galaxy, but interestingly, only
+  1 supernova has been found within it. It is a bright galaxy, easily visible in binoculars,
+  about 10 million light years from us.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc-253/L{1}X{2}Y{3}.png
+name: Sculptor Galaxy, NGC 253
+ra_hr: 0.7927537771315372
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc-253/thumb.jpg
+zoom_level: 2.0839007999999994
+---
+_uuid: a922f1c4-dac5-4156-8c67-c6234daee4b2
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc206", "publishedUTCISO8601":
+  "2020-06-30T21:53:15+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 40.833610987491674
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the WIYN 0.9m-meter telescope at Kitt Peak National Observatory. NGC 206 is a
+  massive star-forming region (also known as an “OB association”) embedded in the
+  Andromeda Galaxy (M31). It is clearly visible in the center to upper-left corner
+  of the image. It is estimated to have a mass about 200,000 times that of our Sun.
+  Its distinctive bluish color is from very young hot, massive stars in the cluster.
+  The presence of these massive stars indicate that the cluster is less than 10 million
+  years old, which is very young for stars. The red nebulae in the galaxies are locations
+  in M31 where star formation is currently underway. The image was generated with
+  observations in the B (blue), V (green) and Hydrogen-Alpha (red) filters. In this
+  image, North is down, East is right.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc206/L{1}X{2}Y{3}.png
+name: Star forming region, NGC 206
+ra_hr: 0.6810909683575233
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc206/thumb.jpg
+zoom_level: 5.423421599999999
+---
+_uuid: c9635b2d-931d-4500-9b4b-39cccd8337ac
+angular_size: 3.1050432000000003
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc253", "publishedUTCISO8601":
+  "2006-09-28T12:44:24+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -25.2881901828885
+description: This image of spiral galaxy NGC253 was taken with the National Science
+  Foundation’s Blanco 4-meter telescope at Cerro Tololo Inter-American Observatory
+  in Chile.  NGC253 is the brightest member of the Sculptor group of galaxies, which
+  is grouped around the south galactic pole (and therefore is sometimes named “South
+  Polar Group”). The Sculptor group may be the next closest group of galaxies beyond
+  our Local Group, located about 8 million light-years from Earth.  NGC253 is considered
+  a starburst galaxy, where stars form and explode at an unusually high rate. NGC253
+  is one of the brightest galaxies beyond the Local Group; it is also referred to
+  as the Sculptor Galaxy  NGC253 was also one of the major discoveries of Caroline
+  Herschel, the sister of William Herschel, who discovered the object on September
+  23, 1783.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc253/L{1}X{2}Y{3}.png
+name: The Sculptor Galaxy, NGC 253
+ra_hr: 0.7920447432342002
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc253/thumb.jpg
+zoom_level: 3.1050432000000003
+---
+_uuid: d04a32cf-f81f-4c5d-b3c1-b56965821e3e
+angular_size: 8.445599999999999
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc281", "publishedUTCISO8601":
+  "2006-04-04T15:16:39+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 56.623783428604085
+description: This image is a wide-field view of the star-forming region NGC281 taken
+  with the WIYN 0.9-meter at Kitt Peak National Observatory.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc281/L{1}X{2}Y{3}.png
+name: NGC 281
+ra_hr: 0.878304849106808
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc281/thumb.jpg
+zoom_level: 8.445599999999999
+---
+_uuid: 2ab9ceaf-0fc2-444a-8b1f-f6b48581138a
+angular_size: 6.389279999999998
+annotation: '{"channel": "noirlab", "itemid": "noao-wlm-dwarf", "publishedUTCISO8601":
+  "2020-06-30T21:34:01.741303+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -15.4175937627213
+description: 'The WLM Local Group dwarf galaxy, as observed with the CTIO Blanco 4-m
+  telescope and Mosaic II camera as part of the NOAO-sponsored Local Group Survey
+  (PI: Philip Massey, Lowell Observatory). The image is a true-color combination of
+  images in three of the filters used by the survey. The full complement of survey
+  data include images in broad-band/ UBVRI/, as well as through filters centered on
+  the H-alpha, [SII], and [OIII] emission lines. All of the data, description of the
+  analysis, and UBVRI photometry are available through the Local Group Survey website.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-wlm-dwarf/L{1}X{2}Y{3}.png
+name: The WLM Local Group dwarf galaxy
+ra_hr: 0.0352145619587176
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-wlm-dwarf/thumb.jpg
+zoom_level: 6.389279999999998
+---
+_uuid: 8d20591b-43cd-467a-93bb-7d6841f2f796
+angular_size: 4.933484999999999
+annotation: '{"channel": "noirlab", "itemid": "noao-wlm", "publishedUTCISO8601": "2020-06-30T21:34:01+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -15.4606643419552
+description: This image was obtained with the wide-field view of the Mosaic II camera
+  on the Blanco 4-meter telescope at Cerro Tololo Interamerican Observatory. Wolf–Lundmark–Melotte
+  (WLM) is an irregular galaxy located on the outer edges of the Local Group. WLM
+  is about ten times smaller than our own galaxy, the Milky Way. This image was made
+  using data from the Local Group Survey. The image was generated with observations
+  in U (violet), B (blue), V (cyan), I (orange) and H-alpha (red) filters. In this
+  image, North is up, East is left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-wlm/L{1}X{2}Y{3}.png
+name: Wolf–Lundmark–Melotte (WLM) Irregular Galaxy
+ra_hr: 0.0328399487791238
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-wlm/thumb.jpg
+zoom_level: 4.0
+---
+_uuid: 9cddd028-1985-46be-96df-edfad944a5ae
+annotation: '{"channel": "noirlab", "itemid": "noao0104a", "publishedUTCISO8601":
+  "2001-01-11T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.93775946016794
+description: A beautifully detailed image of the northwest portion of the Andromeda
+  galaxy, M31, demonstrates the power of an on-going sky survey project sponsored
+  by the National Optical Astronomy Observatory (NOAO). This image of M31, the closest
+  spiral galaxy to our own Milky Way, was taken by Phil Massey of Lowell Observatory,
+  Flagstaff, AZ, and Nichole King of the Space Telescope Science Institute, Baltimore,
+  as part of a survey project titled &quot;The Resolved Stellar Content of Local Group
+  Galaxies Currently Forming Stars.&quot; This color image shows 20 percent of the
+  planned survey region in M31. It is constructed from two overlapping 35 arc minute
+  x 35 arc minute fields. Blue stars are the youngest, most luminous and most massive,
+  while yellow and red stars show a somewhat older population. The image was taken
+  with the Mosaic CCD imager on the National Science Foundation&#x27;s Mayall 4-meter
+  telescope at Kitt Peak National Observatory near Tucson, AZ. For more details, see
+  http://www.lowell.edu/users/massey/lgsurvey.html. This image was the subject of
+  a press release during the 197th meeting of the American Astronomical Society held
+  in January 2001.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0104a/L{1}X{2}Y{3}.png
+name: M31, NGC 224
+ra_hr: 0.7599365341393477
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0104a/thumb.jpg
+zoom_level: 8.35584
+---
+_uuid: 1ae00f75-83d9-49ab-8aa2-dffd9c0c5dee
+annotation: '{"channel": "noirlab", "itemid": "noao0601a", "publishedUTCISO8601":
+  "2006-01-09T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.76946393209569
+description: The glowing gas of the interstellar medium (ISM) is the breeding ground
+  for the formation of new stars, and the cemetery where the ashes of dead stars ultimately
+  return. A team led by astronomers from the National Optical Astronomy Observatory
+  (NOAO) has conducted a new study called the Magellanic Cloud Emission Line Survey
+  (MCELS) that focused expressly on the ISM in the Large Magellanic Cloud and Small
+  Magellanic Cloud—the nearest major galaxies to the Milky Way. More than 500 individual
+  images from MCELS have been assembled into this large mosaic of the Small Magellanic
+  Cloud, released to the public in Washington, DC, in January 2006 at the annual meeting
+  of the American Astronomical Society. See also NOAO Press Release 06-01.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0601a/L{1}X{2}Y{3}.png
+name: Small Magellanic Cloud
+ra_hr: 0.9997013106918028
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0601a/thumb.jpg
+zoom_level: 43.4826
+---
+_uuid: 8d34d740-4154-447e-93ed-136309200f0e
+annotation: '{"channel": "noirlab", "itemid": "noao0906a", "publishedUTCISO8601":
+  "2009-12-21T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 85.25696841662932
+description: NGC188 is an open star cluster in the constellation Cepheus. With a membership
+  of around 120, it may be the oldest known open cluster, although age estimates have
+  varied from as much as 24 billion years (which some may notice is a bit of an anomaly
+  when compared to the current estimates of the age of the Universe), to as `little&#x27;
+  as only five billion years. NGC188 was first noticed by John Herschel before 1833.
+  NGC188&#x27;s most recent claim to fame is as item number 1 in Patrick Moore&#x27;s
+  Caldwell list of challenging objects for observers bored with the Messier catalogue.
+  This image was taken with the WIYN 0.9-meter telescope at the Kitt Peak National
+  Observatory on the night of December 19th 2002 UT. Image size 21.5 arc minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0906a/L{1}X{2}Y{3}.png
+name: NGC 188, Caldwell 1
+ra_hr: 0.805673461529693
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0906a/thumb.jpg
+zoom_level: 3.1977
+---
+_uuid: b9d41ce7-a972-4c4f-bcb0-0aba04834dff
+angular_size: 1.895685156848764
+annotation: '{"channel": "noirlab", "itemid": "noirlab2013a", "publishedUTCISO8601":
+  "2020-06-18T12:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 59.30095144517113
+description: KPNO captures irregular starburst galaxy IC 10 in glorious detail This
+  striking image from NOIRLab’s Kitt Peak National Observatory (KPNO) presents a portrait
+  of the irregular galaxy IC 10, a disorderly starburst galaxy close to the Milky
+  Way. As well as a population of bright young stars, this irregular galaxy harbors
+  exotic Wolf-Rayet stars and a black hole. IC 10 lies around 2 million light-years
+  from Earth in the direction of the constellation of Cassiopeia. Though this distance
+  seems huge, it puts IC 10 in the ever-growing Local Group of galaxies.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2013a/L{1}X{2}Y{3}.png
+name: Portrait of a Starburst Galaxy
+ra_hr: 0.3382825829350118
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2013a/thumb.jpg
+zoom_level: 1.895685156848764
+---
+_uuid: 6cf581bb-113e-45a5-aaa1-f0d5876b3102
+annotation: '{"channel": "noirlab", "itemid": "noirlab2030b", "publishedUTCISO8601":
+  "2020-12-01T08:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.86829013358269
+description: Part of the SMASH dataset showing what is arguably the best wide-angle
+  view of the Small Magellanic Cloud to date. The Large and Small Magellanic Clouds
+  are the largest satellite galaxies of the Milky Way and, unlike the rest of the
+  satellite galaxies, are still actively forming stars — and at a rapid pace.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2030b/L{1}X{2}Y{3}.png
+name: Deepest, widest view of the Small Magellanic Cloud from SMASH
+ra_hr: 0.9103581434443554
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2030b/thumb.jpg
+zoom_level: 45.158860862043056
+---
+_uuid: b00dbb59-3f47-4000-ac96-dba0d89bc75b
+annotation: '{"channel": "noirlab", "itemid": "noirlab2104d", "publishedUTCISO8601":
+  "2021-01-13T14:30:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -20.621412775602035
+description: An example of a gravitational lens found in the DESI Legacy Surveys data.
+  The two red streaks near the middle of DESI-010.8534-20.6214 are the gravitationally
+  lensed arcs (“straight” arcs) — highly magnified and stretched images — of background
+  galaxies. The gravitational lens responsible for this warping is, collectively,
+  the two concentrations of orange galaxies above and below the straight arcs.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2104d/L{1}X{2}Y{3}.png
+name: Gravitational lens found in the DESI Legacy Surveys data
+ra_hr: 0.7235597660493681
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2104d/thumb.jpg
+zoom_level: 0.37995809510556
+---
 _uuid: 4af053ed-2f9d-496d-a288-483e57d8d6d6
 angular_size: 1.0
 classification: Galaxy

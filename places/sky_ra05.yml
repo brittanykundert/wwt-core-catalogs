@@ -1,3 +1,1099 @@
+_uuid: 8bfbeaf8-1207-4834-8ee1-11fa683c2c42
+angular_size: 0.13574193453628705
+annotation: '{"channel": "noirlab", "itemid": "ann21013c", "publishedUTCISO8601":
+  "2021-03-18T13:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.01269803092616
+description: This image was “liberated” with the FITS Liberator from the FITS file
+  from the Gemini North telescope. It captures the heart of Messier 1, the Crab Nebula.
+  Formed by a colossal supernova explosion in the year 1054, the Crab Nebula consists
+  of the outer layers of a now-dead massive star strewn across a region of space roughly
+  10 light-years across. The ripple-like structures visible in this image emanate
+  from the heart of the nebula, where a pulsar — the dense, quickly rotating remains
+  of the supernova’s progenitor star — is unleashing a hail of charged particles into
+  the surrounding gas. The boundary where these charged particles slow down and pile
+  up creates the bright ripples shown here. These ripples then expand outward over
+  the course of months, causing the Crab Nebula to resemble a pool of disturbed water
+  on an unimaginably vast scale.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/ann21013c/L{1}X{2}Y{3}.png
+name: Cosmic Ripples — image created with FITS Liberator
+ra_hr: 5.575421066007738
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/ann21013c/thumb.jpg
+zoom_level: 0.13574193453628705
+---
+_uuid: 52065d94-1884-4018-9672-e1d240da477c
+annotation: '{"channel": "noirlab", "itemid": "gemini-20080825-trapezium-m42-0001",
+  "publishedUTCISO8601": "2004-08-17T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -5.437801986455163
+description: 'Gemini South image showing a section of the &quot;Trapezium&quot; region
+  of the Orion Nebula as seen at infrared wavelengths using the Flamingos-I near infrared
+  imager. Technical Details: This image is a combination of 3 separate &quot;B&amp;W&quot;
+  images centered on the J, H and K bands to produce this color image.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini-20080825-trapezium-m42-0001/L{1}X{2}Y{3}.png
+name: Trapezium (M42)
+ra_hr: 5.587727458547296
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini-20080825-trapezium-m42-0001/thumb.jpg
+zoom_level: 0.3650931752924649
+---
+_uuid: 98ffab38-b3ae-4a18-bb95-0759faca428e
+annotation: '{"channel": "noirlab", "itemid": "gemini0402a", "publishedUTCISO8601":
+  "2004-03-30T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.09404796929535696
+description: 'A timely discovery by American amateur astronomer Jay McNeil, followed
+  immediately by observations at the Gemini Observatory, has provided a rare glimpse
+  into the slow, yet violent birth of a star about 1,500 light-years away. The resulting
+  findings reveal some of the strongest stellar winds ever detected around an embryonic
+  Sun-like star. See Image Release for details Technical Details: Acquisition Date:
+  February 14, 2004 Telescope: Gemini North, Mauna Kea Hawai&#x27;i Instrument: GMOS
+  (Gemini Multi-Object Spectrograph) FilterColorExposure TimeWavelength RangeImage
+  Quality g&#x27; Blue 3x60sec 398-552nm'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0402a/L{1}X{2}Y{3}.png
+name: McNeil's Nebula
+ra_hr: 5.770353807613867
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0402a/thumb.jpg
+zoom_level: 0.330086751553344
+---
+_uuid: 96e0db17-a678-4d3b-9980-c0922ed9c66a
+annotation: '{"channel": "noirlab", "itemid": "gemini0601a", "publishedUTCISO8601":
+  "2006-01-04T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -67.93614484825596
+description: Known as the N44 superbubble complex, this cloudy tempest is dominated
+  by a vast bubble about 325 by 250 light-years across. A cluster of massive stars
+  inside the cavern has cleared away gas to form a distinctive mouth-shaped hollow
+  shell. While astronomers do not agree on exactly how this bubble has evolved, for
+  as long as 10 million years, they do know that the central cluster of massive stars
+  is responsible for the cloud’s unusual appearance. It is likely that the explosive
+  death of one or more of the cluster’s most massive and short-lived stars played
+  a key role in the formation of the large bubble. The image provides one of the most
+  detailed views ever obtained of this relatively large region in the Large Magellanic
+  Cloud, a satellite galaxy to the Milky Way, located some 150,000 light-years away
+  and visible from the Southern Hemisphere. The image captures light of specific colors
+  that reveal the compression of material and the presence of gases (primarily excited
+  hydrogen gas and lesser amounts of oxygen and “shocked” sulfur) in the cloud. Multiple
+  smaller bubbles appear in the image as bulbous growths clinging to the central superbubble.
+  Most of these regions were probably formed as part of the same process that shaped
+  the central cluster. Their formation could also have been “sparked” by compression
+  as the central stars pushed the surrounding gas outward. Our view into this cavern
+  is believed to be like looking through an elongated tube, which gives the object
+  its monstrous mouth-like appearance.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0601a/L{1}X{2}Y{3}.png
+name: Superbubble Complex N44
+ra_hr: 5.372380000985864
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0601a/thumb.jpg
+zoom_level: 0.8487693282891182
+---
+_uuid: cec4dbd2-a7f5-4ed7-8771-8b539e6cc401
+annotation: '{"channel": "noirlab", "itemid": "gemini0703a", "publishedUTCISO8601":
+  "2007-03-22T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -5.3478766419847
+description: Gemini&#x27;s Laser Vision Reveals Striking New Details in Orion Nebula
+  This composite image at infrared wavelengths was obtained using the Gemini North
+  laser guide star system in conjunction with the ALTAIR adaptive optics system and
+  the NIRI near-infrared imager. The image shows the Orion &quot;bullets&quot; as
+  blue features and represents the light emitted by hot iron (Fe) gas. The light from
+  the wakes, shown in orange, is from excited hydrogen gas.This image brings into
+  focus a remarkably detailed view of supersonic “bullets” of gas and the wakes created
+  as they pierce through clouds of molecular hydrogen in the famous Orion Nebula.
+  The image was made possible with laser guide star adaptive optics technology that
+  corrects in real-time for image distortions caused by the Earth’s atmosphere. The
+  Orion bullets were first seen in a visible-light image in 1983. By 1992, images
+  taken at infrared wavelengths led astronomers to conclude that these clumps of gas
+  were being ejected from deep within the nebula following an unknown violent event
+  connected with the recent formation of a cluster of massive stars there. The bullets
+  are speeding outward from the cloud at up to 400 kilometers (250 miles) per second
+  – more than a thousand times faster than the speed of sound. The name “bullet” is
+  somewhat misleading since these objects are made of gas and truly gigantic. The
+  typical size of one of the bullet’s tips is about ten times the size of Pluto’s
+  orbit around the Sun. The wakes shown in the image are about a fifth of a light-year
+  long. Clouds of iron atoms at the tip of each bullet glow brightly (blue in this
+  image) as they are shock-heated by friction to around 5000°C (9,000°F). Molecular
+  hydrogen, which makes up the bulk of both the bullets and the surrounding gas cloud,
+  is destroyed at the tips by the violent collisions between the high-speed bullets
+  and the surrounding cloud. However, on the trailing edges of the bullets the hydrogen
+  molecules are not destroyed, but instead are heated to about 2000°C (4000°F). As
+  the bullets plow through the clouds they leave behind distinctive tubular wakes
+  (colored orange in this image). These wakes shine like bullet tracers due to the
+  heated molecular hydrogen gas. The bullets are relatively young, with their ages
+  estimated to be less than a thousand years since ejection.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0703a/L{1}X{2}Y{3}.png
+name: Orion Bullets
+ra_hr: 5.586829628365246
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0703a/thumb.jpg
+zoom_level: 0.1399226859581605
+---
+_uuid: 10120537-b814-4470-a0d6-c4f04bd1c76f
+annotation: '{"channel": "noirlab", "itemid": "gemini0801a", "publishedUTCISO8601":
+  "2008-01-08T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.70318051287806
+description: The Gemini South Multi-Object Spectrograph (GMOS) recently captured a
+  dramatic image of a vast cloud complex named DEM L316 located in the Large Magellanic
+  Cloud. The peanut-shaped nebula appears to be a single object, but the latest research
+  indicates that it is really comprised of two distinct gas and dust clouds formed
+  by different types of supernova explosions.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0801a/L{1}X{2}Y{3}.png
+name: Supernova Remnant DEM L316
+ra_hr: 5.785255349591727
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0801a/thumb.jpg
+zoom_level: 0.8461415998417304
+---
+_uuid: 1fb5c84e-5184-402e-8e9e-e442eabee8aa
+annotation: '{"channel": "noirlab", "itemid": "gemini1301a", "publishedUTCISO8601":
+  "2013-01-08T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -5.3441338641743075
+description: 'This image, obtained during the late commissioning phase of the GeMS
+  adaptive optics system, with the Gemini South AO Imager (GSAOI) on the night of
+  December 28, 2012, reveals exquisite details in the outskirts of the Orion Nebula.
+  The large adaptive optics field-of-view (85 arcseconds across) demonstrates the
+  system&#x27;s extreme resolution and uniform correction across the entire field.
+  The three filters used for this composite color image include [Fe II], H2, and,
+  K(short)-continuum (2.093 microns) for blue, orange, and white layers respectively.
+  The natural seeing while these data were taken ranged from about 0.8 to 1.1 arcseconds,
+  with AO corrected images ranging from 0.084 to 0.103 arcsecond. Each filter had
+  a total integration (exposure) of 600 seconds. In this image, the blue spots are
+  clouds of gaseous iron &quot;bullets&quot; being propelled at supersonic speeds
+  from a region of massive star formation outside, and below, this image&#x27;s field-of-view.
+  As these &quot;bullets&quot; pass through neutral hydrogen gas it heats up the hydrogen
+  and produces the pillars that trace the passage of the iron clouds. Principal Investigator(s):
+  John Bally and Adam Ginsberg, University of Colorado and the GeMS/GSAOI commissioning
+  team; Data processing/reduction (using the Gemini IRAF package v1.12beta): Rodrigo
+  Carrasco, Gemini Observatory; Color image composite: Travis Rector, University of
+  Alaska Anchorage.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini1301a/L{1}X{2}Y{3}.png
+name: Orion "Bullets with GeMS
+ra_hr: 5.586982026214528
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini1301a/thumb.jpg
+zoom_level: 0.21997145701215265
+---
+_uuid: 1e910491-d6c2-4ba8-8a4d-2c8fc5c2066e
+angular_size: 0.6329417838651674
+annotation: '{"channel": "noirlab", "itemid": "gemini1307c", "publishedUTCISO8601":
+  "2013-08-09T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -5.362787296763157
+description: This near-infrared image shows supersonic &#x27;bullets&#x27; of gas
+  and the wakes created as they pierce through clouds of molecular hydrogen in the
+  Orion Nebula. The bullets are speeding outward from the cloud at up to 400 kilometers
+  (250 miles) per second. This is more than a thousand times faster than the speed
+  of sound. This image is a mosaic of three pointings with the GeMS multi-conjugate
+  adaptive optics (AO) technology that corrects in real time for image distortions
+  caused by Earth&#x27;s atmosphere. Previous images of this region were obtained
+  with GeMS at Gemini South and the Gemini Altair AO system at Gemini North. Both
+  of these images can also be found on this gallery.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini1307c/L{1}X{2}Y{3}.png
+name: Orion Bullets Mosaic
+ra_hr: 5.587500897545617
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini1307c/thumb.jpg
+zoom_level: 0.6329417838651674
+---
+_uuid: 468d6e71-a444-4d65-a134-37e458b7f83e
+angular_size: 0.8728441115386953
+annotation: '{"channel": "noirlab", "itemid": "gemini1508a", "publishedUTCISO8601":
+  "2015-09-25T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.1713626942113856
+description: This Gemini North telescope image reveals no less than six gas jets emerging
+  at supersonic speeds from the reddish Herbig-Haro 24 (HH 24) complex — a small cluster
+  of young stars embedded in a molecular cloud some 1,300 light years distant in the
+  constellation Orion. It is the most detailed image ever obtained from the ground
+  of this remarkable region, which contains the highest concentration of jets known
+  anywhere. One jet is highly disturbed, suggesting that the source may be a close
+  binary whose orbit perturbs the jet body. This dynamic environment also may be responsible
+  for expelling some of the lowest mass stars in the area. Most puzzling are the five
+  very-low-mass protostars seen well outside the star-forming cloud core. As the gas
+  is far too tenuous for the stars to have formed in their present locations, these
+  orphaned protostars were most likely ejected shortly after birth from the core,
+  which hosts a small multiple protostellar system known as SSV 63. Such ejections
+  may occur when the crowded stars start moving around each other in a chaotic dance,
+  ultimately leading to the ejection of the smallest ones. The bright nebulous star
+  to the south is the visible T Tauri star SSV 59.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini1508a/L{1}X{2}Y{3}.png
+name: Star-Birth “Fireworks”
+ra_hr: 5.769184897255926
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini1508a/thumb.jpg
+zoom_level: 0.8728441115386953
+---
+_uuid: ce241393-5e75-4c64-8e44-2319f9e28c37
+annotation: '{"channel": "noirlab", "itemid": "gemini1604a", "publishedUTCISO8601":
+  "2016-06-17T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.76565819390025
+description: 'Gemini South GeMS/GSAOI near-infrared image of the N159W field in the
+  Large Magellanic Cloud. Color composite image by Travis Rector, University of Alaska
+  Anchorage. See Image Release for details Technical Details: The image spans 1.5
+  arcminutes across, resolves stars to about 0.09 arcseconds, and is a composite of
+  three filters (J, H, and Ks). Integration (exposure) time for each filter was 25
+  minutes.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini1604a/L{1}X{2}Y{3}.png
+name: N159W GeMS/GSAOI Image
+ra_hr: 5.661252339128512
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini1604a/thumb.jpg
+zoom_level: 0.2360975499823062
+---
+_uuid: c7a9ef2f-5563-4ebc-9fd9-7ff1f0cd6260
+annotation: '{"channel": "noirlab", "itemid": "geminiann08002e", "publishedUTCISO8601":
+  "2021-07-29T02:08:16+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.09400860565192375
+description: A timely discovery by American amateur astronomer Jay McNeil, followed
+  immediately by observations at the Gemini Observatory, has provided a rare glimpse
+  into the slow, yet violent birth of a star about 1,500 light-years away. The resulting
+  findings reveal some of the strongest stellar winds ever detected around an embryonic
+  Sun-like star. Gemini Multi-Object Spectrograph image of the McNeil Nebula obtained
+  on Feb 14th with the Frederick C. Gillett Gemini Telescope on Mauna Kea Hawaii. 
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/geminiann08002e/L{1}X{2}Y{3}.png
+name: McNeil's Nebula
+ra_hr: 5.7703519083125
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/geminiann08002e/thumb.jpg
+zoom_level: 0.33031441478304
+---
+_uuid: 8e7aa97c-943b-4154-a939-32038282bc8f
+angular_size: 0.07495361861801363
+annotation: '{"channel": "noirlab", "itemid": "iotw2043a", "publishedUTCISO8601":
+  "2020-10-21T07:48:23+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.01439778672459
+description: 'In the heart of the Crab Nebula (Messier 1) a neutron star is rotating
+  30 times every single second. This pirouetting star, known as the Crab Pulsar, consists
+  purely of neutrons, and has an intense magnetic field which ejects jets of material
+  from its poles at nearly the speed of light. The Crab Pulsar has a mass about one
+  and a half times that of our Sun, yet all this mass is packed into a sphere only
+  28 km (17 miles) in diameter — roughly the size of Mars’s small moon Phobos. The
+  wispy structures shown in this image are caused by material flowing equatorially
+  outwards from the pulsar and careening into the surrounding nebula. These dynamic
+  features, known as termination shocks, move and change shape as outflow from the
+  puslar ebbs and flows.  This changeability is showcased by this composite image,
+  which is a compilation of three Gemini North observations taken over a 5-year period
+  at the same infrared wavelength: observations from October 2009 are shown in blue
+  and observations from December 2014 are shown in red. This color coding of the observations
+  produces a striking rainbow effect highlighting the high speed motion of the termination
+  shocks, which have noticeably changed position between observations. Gemini North
+  on Maunakea, Hawai‘i, is one of the pair of telescopes that make up the international
+  Gemini Observatory, a Program of NSF’s NOIRLab.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/iotw2043a/L{1}X{2}Y{3}.png
+name: Heart of the Crab
+ra_hr: 5.5755208278655815
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/iotw2043a/thumb.jpg
+zoom_level: 0.07495361861801363
+---
+_uuid: 1518cc40-671e-41d3-a3b2-f49dabfd7eb3
+annotation: '{"channel": "noirlab", "itemid": "noao-02176", "publishedUTCISO8601":
+  "2020-06-30T21:34:07+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -5.414609790957386
+description: 'This picture shows the great nebula in the constellation of Orion the
+  Hunter. On a good clear night, from a dark site well away from the lights of modern
+  civilization, this glowing cloud of gas and dust can be seen with the naked eye
+  as a fuzzy patch surrounding the star Theta Orionis in the Hunter&#x27;s Sword,
+  below Orion&#x27;s belt. It is probably the most spectacular of all the objects
+  cataloged by Charles Messier and now called by their `M&#x27; numbers. M42 had been
+  known since the beginnings of recorded astronomy as a star, but it is so outstanding
+  that it was first noted as an extended nebula in 1610, only a year after Galileo&#x27;s
+  first use of the telescope. Detailed descriptions started appearing later in the
+  seventeenth century, and it has been a popular target for anyone with a telescope
+  ever since. So many details are visible in even a small telescope that M42 will
+  more than repay the observer who makes it a frequent target, and who will find that
+  it is hard to make a realistic sketch that can capture all of the finer features.
+  M42 is our closest example of an HII region, being composed mainly of ionized hydrogen
+  which gives off the red glow so dominant in every picture of the nebula. Deep photographs
+  such as this one show that it is nearly a degree across, larger than the full Moon
+  (although the Moon is so bright that it looks much larger). The energy to keep the
+  nebula glowing comes from the very hot young stars in a formation called the Trapezium,
+  embedded in the brightest part of the nebula and not visible in this photograph.
+  The nebula and the brighter stars are very young indeed by astronomical standards,
+  at about 30000 years. Compare this to our own Sun, which is considered to be a middle-aged
+  star at over 4 billion years! M42 probably contains several hundred stars younger
+  than a million years, still bursting with the energy of youth. Stars are still being
+  born in a dense cloud behind the nebula, but they are hidden from our view by a
+  concentration of dust which reduces their light to only a million-millionth of its
+  original intensity. Fortunately, astronomers have developed special cameras and
+  other detectors which are sensitive to infra-red radiation, more popularly known
+  as heat, which penetrates the dust and reveals to us this stellar nursery. Although
+  M42 is mostly hydrogen, in both neutral and ionized states, with a fair quantity
+  of dust, it does contain significant amounts of other elements, especially oxygen.
+  The green glow of doubly-ionized oxygen is strongest near the intense ultraviolet
+  starlight at the middle of the nebula. To the north-east (the lower left in this
+  picture, which is oriented with north to the left) is a feature called the Dark
+  Bay, which is a thick cloud of neutral gas which has not yet been ionized. M42,
+  NGC 1976 Location: 05h 35.4m -05deg27m (2000). Distance: nearly 500 parsecs (1600
+  light-years). Size: 66x60 arc minutes Mass: about 300 solar masses Magnitude: 4.0.
+  Power source: O and B stars. Photograph: Bill Schoening, KPNO 4m telescope, 1973.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02176/L{1}X{2}Y{3}.png
+name: The great nebula in Orion, M42
+ra_hr: 5.58559878486033
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02176/thumb.jpg
+zoom_level: 6.438239999999999
+---
+_uuid: 4d259622-9da2-45ad-b5ae-c86d71944c59
+angular_size: 2.853144
+annotation: '{"channel": "noirlab", "itemid": "noao-02188", "publishedUTCISO8601":
+  "2020-06-30T21:34:04.286153+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -2.4675334628545285
+description: 'This color picture was made by combining several exposures taken on
+  the night of December 28th 1994 (UT of observation 29/12/94 around 04:00) with a
+  2048x2048 CCD detector at the 0.9m telescope of the Kitt Peak National Observatory.
+  Observing conditions were not ideal throughout, and so only a select few of the
+  original observations were used. The final tally used five frames in the B (blue)
+  filter for a total of 22 minutes, three frames with the V (green) filter, 15 minutes,
+  and two with the R (red), total 10 minutes. Each frame was carefully cleaned, a
+  particularly difficult task for the blue filter due to internal reflection problems
+  in the telescope, and then aligned and combined by computer to create this (approximately)
+  true color picture. The pixel size on the sky is 0.68 arc seconds; after combination,
+  the final size is 1480x1366, or about 17x15 arc minutes. Orientation of thumbnail
+  image: N to the left, E down. About this object The Horsehead Nebula, a part of
+  the optical nebula IC434 and also known as Barnard 33, was first recorded in 1888
+  on a photographic plate taken at the Harvard College Observatory. Its coincidental
+  appearance as the profile of a horse&#x27;s head and neck has led to its becoming
+  one of the most familiar astronomical objects. It is, in fact, an extremely dense
+  cloud projecting in front of the ionized gas that provides the pink glow so nicely
+  revealed in this picture. We know this not only because the underside of the &#x27;neck&#x27;
+  is especially dark, but because it actually casts a shadow on the field to its east
+  (below the &#x27;muzzle&#x27;). The marked change in the density of stars visible
+  on either side indicates that the strip of glowing hydrogen marks the edge of a
+  substantial dark cloud. As a cloud core emerging from its parental cloud, and as
+  an active site of low-mass star formation, the Horsehead is a simple system of considerable
+  use for testing models of photodissociation regions, and revealing the intricate
+  interrelations between gas, dust, and the light from hot stars. Polarization maps
+  suggest that the entire region is illuminated by the bright OB star Sigma Orionis,
+  which is also responsible for exciting the emission nebula. (The much brighter Zeta
+  Orionis is a foreground star, not related to the nebulosity.) The &#x27;streamers&#x27;
+  visible in the brighter region appear to be due to a magnetic field which leaves
+  the Horsehead cloud approximately radially, having been entrained by outflowing
+  matter. Small red spots in the base of the Horsehead betray the presence of hidden
+  protostars, and red streaks near the yellowish nebula surrounding V615 Orionis (bottom
+  left) are Herbig-Haro objects, which are jets of material ejected from protostars.
+  The Horsehead is a fascinating, active, and complex neighborhood. Location: 05 38
+  27 -02 29 (1950.0), constellation of Orion. Distance: about 1600 light-years.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02188/L{1}X{2}Y{3}.png
+name: The Horsehead Nebula
+ra_hr: 5.684099691172168
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02188/thumb.jpg
+zoom_level: 2.853144
+---
+_uuid: 8ae04972-09b9-44d0-8e15-30927a6b2294
+annotation: '{"channel": "noirlab", "itemid": "noao-02332", "publishedUTCISO8601":
+  "2020-06-30T21:33:48+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.36284880132281
+description: A nearby irregular galaxy, the LMC is visible to the naked eye from the
+  Southern Hemisphere and is a satellite to our own Galaxy. The large gaseous nebula
+  is 30 Doradus, the Tarantula Nebula. From the CTIO Curtis Schmidt telescope, 1975.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02332/L{1}X{2}Y{3}.png
+name: The Large Magellanic Cloud
+ra_hr: 5.435110919022167
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02332/thumb.jpg
+zoom_level: 35.088
+---
+_uuid: b32314e4-fda5-49ed-848f-8340cb054f97
+angular_size: 1.86240372
+annotation: '{"channel": "noirlab", "itemid": "noao-02673", "publishedUTCISO8601":
+  "2020-06-30T21:34:05.834379+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.016020502244785
+description: The famous Crab Nebula, Messier object 1 and NGC1952. This image of the
+  well-known Crab Nebula was taken using Ektachrome film at the prime focus of the
+  Kitt Peak 4-meter telescope on October 1st 1973. This is unusual because most astronomical
+  pictures are coloured by combining three different exposures taken through red,
+  green and blue filters. In this relatively short exposure, the pulsar is clearly
+  visible (slightly below and to the right of the central star, which is actually
+  a projected foreground object). North is up with east to the left.  About this object
+  The Crab Nebula was originally given this name due to its resemblance to a crab&#x27;s
+  claw (not the full-body image of a crab), in an early sketch made in 1855 by Lord
+  Rosse&#x27;s staff astronomer R.J. Mitchell. With higher resolution pictures, this
+  appearance became far less compelling, but the name has stuck. It is the remnant
+  of a supernova explosion in the year 1054 A.D., which was recorded in five separate
+  accounts from Chinese astronomers in the Far East. It is perhaps odd that no western
+  observation has survived, since it was certainly one of the most spectacular historical
+  supernovae. The red tendrils are excited gas, emitting strong H-alpha radiation.
+  The nebula was probably first noticed in 1731 by John Bevis, and it was significant
+  enough to be the first entry in Charles Messier&#x27;s list of nebulae (compiled
+  to avoid mistaking them for comets). The nebula continues to expand and change the
+  details of its appearance, and this is partly due to the violence of the original
+  explosion. However, the star which exploded left behind a rotating neutron star,
+  which continues to beam energy out into the nebula, as well as flashing with a period
+  of only 33 milliseconds. The details of this energy input are important for our
+  understanding both of neutron stars and of the physical conditions in the nebula,
+  and are revealed in the patterns of filaments, their brightness and colors, and
+  the way they change with time. Despite the name, it is actually in the constellation
+  Taurus. Photograph by Bill Schoening.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02673/L{1}X{2}Y{3}.png
+name: M1, NGC 1952, Crab Nebula
+ra_hr: 5.575605110604187
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02673/thumb.jpg
+zoom_level: 1.86240372
+---
+_uuid: f91b1d40-e901-4000-aa01-0ddafed083d4
+angular_size: 8.567999999999998
+annotation: '{"channel": "noirlab", "itemid": "noao-02677", "publishedUTCISO8601":
+  "2020-06-30T21:34:07+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -5.483193652557307
+description: 'The Orion Nebula (M42/M43, NGC1976/1982) This picture shows the great
+  nebula in the constellation of Orion the Hunter. On a good clear night, from a dark
+  site well away from the lights of modern civilization, this glowing cloud of gas
+  and dust can be seen with the naked eye as a fuzzy patch surrounding the star Theta
+  Orionis in the Hunter&#x27;s Sword, below Orion&#x27;s belt. It is probably the
+  most spectacular of all the objects cataloged by Charles Messier and now called
+  by their `M&#x27; numbers. M42 had been known since the beginnings of recorded astronomy
+  as a star, but it is so outstanding that it was first noted as an extended nebula
+  in 1610, only a year after Galileo&#x27;s first use of the telescope. Detailed descriptions
+  started appearing later in the seventeenth century, and it has been a popular target
+  for anyone with a telescope ever since. So many details are visible in even a small
+  telescope that M42 will more than repay the observer who makes it a frequent target,
+  and who will find that it is hard to make a realistic sketch that can capture all
+  of the finer features. So outstanding is this nebula that it has two numbers. M43/NGC1982
+  is the separated portion to the north-east (top left), surrounding an irregular
+  variable star. Although Messier stopped at only two, other parts of the nebula in
+  this region have received further NGC numbers. M42 is our closest example of an
+  HII region, being composed mainly of ionized hydrogen which gives off the red glow
+  so dominant in every picture of the nebula. Deep photographs such as this one show
+  that it is nearly a degree across, larger than the full Moon (although the Moon
+  is so bright that it looks much larger). The energy to keep the nebula glowing comes
+  from the very hot young stars in a formation called the Trapezium, embedded in the
+  brightest part of the nebula and not visible in this photograph. The nebula and
+  the brighter stars are very young indeed by astronomical standards, at about 30000
+  years. Compare this to our own Sun, which is considered to be a middle-aged star
+  at over four billion years! M42 probably contains several hundred stars younger
+  than a million years, still bursting with the energy of youth. Stars are still being
+  born in a dense cloud behind the nebula, but they are hidden from our view by a
+  concentration of dust which reduces their light to only a million-millionth of its
+  original intensity. Fortunately, astronomers have developed special cameras and
+  other detectors which are sensitive to infra-red radiation, more popularly known
+  as heat, which penetrates the dust and reveals to us this stellar nursery. Although
+  M42 is mostly hydrogen, in both neutral and ionized states, with a fair quantity
+  of dust, it does contain significant amounts of other elements, especially oxygen.
+  The green glow of doubly-ionized oxygen is strongest near the intense ultraviolet
+  starlight at the middle of the nebula. To the north-east (the upper left in this
+  picture) is a feature called the Dark Bay, which is a thick cloud of neutral gas
+  which has not yet been ionized. Location: 05 hrs 35.4 min, -05 deg. 27 min (2000).
+  Distance: nearly 500 parsecs (1600 light-years). Size: about 66 by 60 arc minutes.
+  Mass: about 300 solar masses. Magnitude: 4.0. Power source: O and B stars. Photograph:
+  Bill Schoening, KPNO 4m telescope, October 1st 1973. Original Ektachrome color transparency.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02677/L{1}X{2}Y{3}.png
+name: M42/M43, NGC 1976, Orion Nebula
+ra_hr: 5.5823621096235385
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02677/thumb.jpg
+zoom_level: 8.567999999999998
+---
+_uuid: 19a78776-19f8-4c50-af0f-6463fce388de
+annotation: '{"channel": "noirlab", "itemid": "noao-03470", "publishedUTCISO8601":
+  "2020-06-30T21:53:41.245548+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.20580644530429
+description: Supernova 1987A in the Large Magellanic Cloud appears as a very bright
+  object near the center of this color photograph made by Marcelo Bass of the National
+  Optical Astronomy Observatories (NOAO). The photograph was taken at NOAO&#x27;s
+  Cerro-Tololo Inter-American Observatory, on March 2nd 1987, using the CTIO Curtis
+  Schmidt telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-03470/L{1}X{2}Y{3}.png
+name: Supernova 1987A in the Large Magellanic Cloud
+ra_hr: 5.606446090962909
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-03470/thumb.jpg
+zoom_level: 11.338034399999998
+---
+_uuid: 65076bad-4f51-4e49-8bbb-4c7b9ee9c184
+annotation: '{"channel": "noirlab", "itemid": "noao-2123", "publishedUTCISO8601":
+  "2020-06-30T21:33:48.180558+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.09469141992007
+description: The Large Magellanic Cloud, a satellite of our own Galaxy, is visible
+  to the naked eye from the southern hemisphere. Because of its proximity, it can
+  be studied in detail, and provides valuable insight into all galactic processes,
+  especially by comparison to our own Galaxy. The most prominent gaseous nebula in
+  the LMC is 30 Doradus, also known as the Tarantula nebula (qv). CTIO Curtis Schmidt
+  telescope photograph.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-2123/L{1}X{2}Y{3}.png
+name: Large Magellanic Cloud
+ra_hr: 5.415243322045457
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-2123/thumb.jpg
+zoom_level: 26.1222
+---
+_uuid: f016721e-3cda-485d-89b5-e327108c7b64
+annotation: '{"channel": "noirlab", "itemid": "noao-30-doradus", "publishedUTCISO8601":
+  "2005-10-19T09:59:53+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.66513769333629
+description: This image of 30 Doradus, the Tarantula Nebula, in the Large Magellanic
+  Cloud (LMC) was taken with the Curtis Schmidt telescope at Cerro Tololo Inter-American
+  Observatory (CTIO) in Chile, as part of the Magellanic Cloud Emission Line Survey
+  (MCELS) project. The Tarantula Nebula is a giant star-forming region, where energy
+  from hot, young stars in the region creates dramatic voids and filaments in the
+  surrounding gas. Located 160,000 light-years distant in the southern constellation
+  Dorado, the LMC is considered the closest large galaxy to Earth. Because of the
+  proximity and low foreground absorption of the LMC, it is an ideal laboratory both
+  for studies of individual HII regions, supernova remnants, and superbubbles, and
+  for investigations of global properties using samples of these objects. MCELS is
+  designed to provide uniform datasets in optical emission lines that are necessary
+  to conduct this research. The MCELS observations toward the 30 Doradus region have
+  been used to investigate the physical properties of the HII region, examine the
+  physical conditions of supernova remnants in the field, and study the large-scale
+  structure of the ionized gas. This color image was produced using three separate
+  exposures taken in hydrogen (red), sulfur (green), and oxygen (blue) filters.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-30-doradus/L{1}X{2}Y{3}.png
+name: 30 Doradus, the Tarantula Nebula, in the Large Magellanic Cloud (LMC)
+ra_hr: 5.6447586351854255
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-30-doradus/thumb.jpg
+zoom_level: 30.5694
+---
+_uuid: d6193999-bdcf-4393-88e6-a12e8b3a2d82
+angular_size: 0.8946807288936617
+annotation: '{"channel": "noirlab", "itemid": "noao-crab1", "publishedUTCISO8601":
+  "2020-06-30T21:34:05+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.014251217809495
+description: 'This is a color composite formed from two images of the well-known Crab
+  Nebula, taken on the night of October 27th 1995 with the NOAO/STIS/Tektronix 2048x2048
+  CCD detector on the 3.5-meter WIYN telescope. At the focal plane of the WIYN, this
+  detector has a sampling scale of 0.2 arc seconds per pixel. This picture shows the
+  full imaging power of the WIYN telescope: the &quot;seeing&quot;, or image size,
+  is about 0.6 arc seconds, or about twice the resolution of typical ground-based
+  images. Some shell-like features in the center of the nebula, and the subtle filamentary
+  structure evident throughout the region, are impossible to see in fuzzier (that
+  is, more typical) pictures. Image processing can reveal even more detail. About
+  this object The Crab Nebula was originally given this name due to its resemblance
+  to a crab&#x27;s claw in an early sketch made in 1855 by Lord Rosse&#x27;s staff
+  astronomer R.J. Mitchell. It is the remnant of a supernova explosion in the year
+  1054 A.D., which was recorded in five separate accounts in the Far East, although,
+  oddly, no western observation has survived. The nebula was probably first noticed
+  in 1731 by John Bevis, and it was significant enough to be the first entry in Charles
+  Messier&#x27;s list of nebulae (compiled to avoid mistaking them for comets). The
+  nebula continues to expand and change the details of its appearance, and this is
+  partly due to the violence of the original explosion. However, the star which exploded
+  left behind a rotating neutron star, which continues to beam energy out into the
+  nebula, as well as flashing with a period of only 33 milliseconds. The details of
+  this energy input are important for our understanding both of neutron stars and
+  of the physical conditions in the nebula, and are revealed in the patterns of filaments,
+  their brightness and colors, and the way they change with time.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-crab1/L{1}X{2}Y{3}.png
+name: M1, NGC 1952, Crab Nebula
+ra_hr: 5.575197992058833
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-crab1/thumb.jpg
+zoom_level: 0.8946807288936617
+---
+_uuid: 57d02c34-7281-4e06-8a46-b74b52fd27b6
+angular_size: 0.8946807288936617
+annotation: '{"channel": "noirlab", "itemid": "noao-crab3", "publishedUTCISO8601":
+  "2020-06-30T21:34:05+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 22.014251217809495
+description: 'This is an enhanced color composite formed from two images of the well-known
+  Crab Nebula, taken on the night of October 27th 1995 with the NOAO/STIS/Tektronix
+  2048x2048 CCD detector on the 3.5-meter WIYN telescope. At the focal plane of the
+  WIYN, this detector has a sampling scale of 0.2 arc seconds per pixel. This picture
+  shows the full imaging power of the WIYN telescope: the &quot;seeing&quot;, or image
+  size, is about 0.6 arc seconds, or about twice the resolution of typical ground-based
+  images. Some shell-like features in the center of the nebula, and the subtle filamentary
+  structure evident throughout the region, are impossible to see in fuzzier (that
+  is, more typical) pictures. This picture has been enhanced from its original appearance
+  using unsharp masking, to reveal even more clearly the amazing filamentary detail
+  brought to light by the excellent image quality attainable with the WIYN telescope.
+  About this object The Crab Nebula was originally given this name due to its resemblance
+  to a crab&#x27;s claw in an early sketch made in 1855 by Lord Rosse&#x27;s staff
+  astronomer R.J. Mitchell. It is the remnant of a supernova explosion in the year
+  1054 A.D., which was recorded in five separate accounts in the Far East, although,
+  oddly, no western observation has survived. The nebula was probably first noticed
+  in 1731 by John Bevis, and it was significant enough to be the first entry in Charles
+  Messier&#x27;s list of nebulae (compiled to avoid mistaking them for comets). The
+  nebula continues to expand and change the details of its appearance, and this is
+  partly due to the violence of the original explosion. However, the star which exploded
+  left behind a rotating neutron star, which continues to beam energy out into the
+  nebula, as well as flashing with a period of only 33 milliseconds. The details of
+  this energy input are important for our understanding both of neutron stars and
+  of the physical conditions in the nebula, and are revealed in the patterns of filaments,
+  their brightness and colors, and the way they change with time.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-crab3/L{1}X{2}Y{3}.png
+name: M1, NGC 1952, Crab Nebula
+ra_hr: 5.575197992058833
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-crab3/thumb.jpg
+zoom_level: 0.8946807288936617
+---
+_uuid: 4540ee14-dbf1-4f3d-a155-44f62b77d561
+angular_size: 2.4634509382643843
+annotation: '{"channel": "noirlab", "itemid": "noao-ic417", "publishedUTCISO8601":
+  "2020-06-30T21:34:04+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 34.40511540007061
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. Informally known
+  as the spider, IC 417 is an emission nebula that is energized by embedded hot, massive
+  blue stars. The bluish clouds of gas at the top of the image are locations of new
+  star formation. The image was generated with observations in the B (blue), I (orange)
+  and Hydrogen-Alpha (red) filters. In this image, North is left, East is down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ic417/L{1}X{2}Y{3}.png
+name: Emission Nebula IC 417
+ra_hr: 5.473416304964502
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ic417/thumb.jpg
+zoom_level: 2.4634509382643843
+---
+_uuid: 0ef4c60d-e888-4862-9f7e-45cf311f1d99
+angular_size: 2.21544
+annotation: '{"channel": "noirlab", "itemid": "noao-ic426", "publishedUTCISO8601":
+  "2020-06-30T21:34:04.652236+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.331667120559734
+description: IC 426 is a reflection nebula in the constellation of Orion. Reflection
+  nebulae often look a ghostly bluish color because they reflect scattered light from
+  bright stars nearby (the red light is absorbed by dust in the nebula). Mintaka,
+  the westernmost star in the belt of Orion, is thought to be the star illuminating
+  IC 426.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ic426/L{1}X{2}Y{3}.png
+name: Reflection Nebula IC426
+ra_hr: 5.61056937728156
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ic426/thumb.jpg
+zoom_level: 2.21544
+---
+_uuid: 20b73ba4-0a7f-4046-951f-51fe5fe7dbfe
+angular_size: 3.47004
+annotation: '{"channel": "noirlab", "itemid": "noao-m36", "publishedUTCISO8601": "2020-06-30T21:34:17+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 34.143692714431836
+description: M36 is one of three bright open star clusters in the southern part of
+  the constellation Auriga, along with M37 and M38. All three lie at similar distances
+  of about 4000 light-years, but M36 is significantly younger and contains no evolved
+  red giant stars. The present picture is a color composite of CCD images from the
+  0.9-meter telescope of the Kitt Peak National Observatory, near Tucson, Arizona,
+  taken in January 1997. Image size 20.4 arc minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m36/L{1}X{2}Y{3}.png
+name: M36, NGC 1960
+ra_hr: 5.6049724429070835
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m36/thumb.jpg
+zoom_level: 3.47004
+---
+_uuid: 5d045059-600b-483c-a489-bd55213b7a2a
+angular_size: 8.039639999999999
+annotation: '{"channel": "noirlab", "itemid": "noao-m38", "publishedUTCISO8601": "2020-06-30T21:34:17+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 35.87006386128271
+description: M38 is an open cluster in the constellation Auriga. Of intermediate age
+  (about 200 million years) and somewhat over 4000 light-years away, M38 lies close
+  to M36 and M37 on the sky and was discovered by several people before Messier added
+  it to his list. More fanciful eyes consider that its brightest stars form a pattern
+  resembling an oblique cross, or the Greek letter pi. This approximately true-color
+  picture was created from twelve images taken in January 1997 using BVR colors, at
+  the Burrell Schmidt telescope of Case Western Reserve University&#x27;s Warner and
+  Swasey Observatory located on Kitt Peak, near Tucson, Arizona. Image size 47.4 arc
+  minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m38/L{1}X{2}Y{3}.png
+name: M38, NGC 1912
+ra_hr: 5.478631179052268
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m38/thumb.jpg
+zoom_level: 8.039639999999999
+---
+_uuid: 3a9a649c-cc7b-4550-a97c-c33465020f89
+angular_size: -6.211799999999999
+annotation: '{"channel": "noirlab", "itemid": "noao-m78", "publishedUTCISO8601": "2006-08-09T12:13:35+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 0.0929014996881184
+description: This image of M78, the brightest diffuse reflection nebula in the sky,
+  was taken in 2006 with the Mosaic imager on the Mayall 4-meter telescope on Kitt
+  Peak. Located some 1600 light-years away and around 4 light-years across, M78 is
+  part of the Orion complex, a large region of star-forming gas and dust.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m78/L{1}X{2}Y{3}.png
+name: M78, NGC 2068
+ra_hr: 5.77333319644486
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m78/thumb.jpg
+zoom_level: 4.28608643911722
+---
+_uuid: 6fe4def0-aa77-45d7-9ce7-c2b12bd36de4
+angular_size: -6.211799999999999
+annotation: '{"channel": "noirlab", "itemid": "noao-m78ns", "publishedUTCISO8601":
+  "2020-06-30T21:34:08.168174+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 0.13451707812753
+description: 'M78 is part of the Orion complex, a large region of star-forming gas
+  and dust centred around M42 and M43. It is the brightest diffuse reflection nebula
+  in the sky, and fairly easy to see with binoculars (and almost visible to the naked
+  eye, claim some observers). M78 is some 1600 light-years away and around 4 light-years
+  across. Other parts of this giant molecular cloud have their own labels: NGC2071
+  to the northeast (upper left), NGC2067 in close to the northwest (upper right) and
+  NGC2064 (faint, southwest, lower right), as well as other pieces not in this picture.
+  The present picture is a color composite mosaic of CCD images from the 0.9-meter
+  telescope of the Kitt Peak National Observatory, near Tucson, Arizona, taken in
+  November 1998. Image size 22.1x28.3 arc minutes.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m78ns/L{1}X{2}Y{3}.png
+name: M78, NGC 2068
+ra_hr: 5.77872253138576
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m78ns/thumb.jpg
+zoom_level: 3.30754137840642
+---
+_uuid: 876671ae-e026-40b7-a4a1-3bb3bb96f484
+angular_size: 0.8670000000000001
+annotation: '{"channel": "noirlab", "itemid": "noao-m79", "publishedUTCISO8601": "2020-06-30T21:53:14+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.52394578216543
+description: M79, an attractive globular cluster in the constellation Lepus, is rare,
+  in that it is one of the few globulars further out in the Galaxy than our own Sun&#x27;s
+  location. This picture is from the KPNO 0.9-meter telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m79/L{1}X{2}Y{3}.png
+name: M79, NGC 1904
+ra_hr: 5.403307071602704
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m79/thumb.jpg
+zoom_level: 0.8670000000000001
+---
+_uuid: 8783d0f9-21d5-4d2a-816c-4db3d6bc44f3
+angular_size: 6.017999999999998
+annotation: '{"channel": "noirlab", "itemid": "noao-n1999lg", "publishedUTCISO8601":
+  "2020-06-30T21:34:09+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -6.574346115086045
+description: NOAO astronomers captured this spectacular panorama of star formation
+  with the National Science Foundation&#x27;s 0.9-meter telescope on Kitt Peak. Located
+  in the constellation of Orion (the Hunter), the area in this image is located about
+  two degrees south of the Orion Nebula, where a surviving portion of one of Orion&#x27;s
+  giant molecular clouds (known as &quot;Orion A&quot;) is continuing to spawn new
+  stars. Powerful jets of outflowing gas are often the first visible manifestations
+  of the birth of young stars. These jets punch holes through the opaque clouds in
+  which the star is formed, holes through which the light of the new-born stars can
+  escape to produce what are known as reflection nebulae. Several such nebulae are
+  seen in this image. The bright object below and to the left of center is the reflection
+  nebula NGC1999, which contains the young star V380 Orionis. A small, triangle shaped
+  patch of dusty material is seen in silhouette against the reflection nebula. NGC1999
+  lies at the center of a network of nebulous filaments which billow out and away
+  like the spokes of a bicycle wheel. These features may trace a wide-angle wind emerging
+  from NGC1999. Near the upper half of the image, bright young stars in a forming
+  cluster named L1641N light up another reflection nebula which contains several dense
+  clumps of opaque material. Infrared images have identified over 50 forming stars
+  in this region. More than six jets and outflows are erupting from this region. Outflowing
+  jets from young stars also power luminous shock waves known as Herbig-Haro (HH)
+  objects, which move through the surrounding gas at speeds of up to hundreds of kilometers
+  per second (over 100,000 miles an hour). As these shock waves ram their surroundings,
+  they heat up bow-shaped nebulae of glowing plasma. This image shows dozens of such
+  objects. The region below the NGC1999 reflection nebula contains a cluster of deeply
+  embedded young stars which power oppositely directed bow shocks. These objects were
+  first recognized by Guillermo Haro and George Herbig around 1950 and today they
+  are known as HH 1 and HH 2. Recent observations indicate that the cone shape located
+  near the right edge of the image (known as HH 401) may be a giant bow shock powered
+  by the source of the HH 1 &amp; 2 outflow. If so, this outflow is more than 10 light-years
+  long! The arc of light which looks like a waterfall (located above and to the left
+  of HH 401) is the enigmatic object HH 222. Unlike most other HH objects, it is a
+  source of polarized, non-thermal radio waves. The nature of this feature remains
+  largely unknown. Between HH 401 and HH 222 runs a long chain of Herbig-Haro objects
+  associated with the object HH 34. HH 34 itself is the bright and compact bow shock
+  located near the bottom of HH 222. Just above HH 34, a compact jet can be seen to
+  emerge from the source star, which is not visible in this image. This jet and its
+  first bow shock (HH 34) mark the inner portion of a chain of shocks which trace
+  a graceful S-shaped curve from the upper right hand corner of the image down towards
+  HH 1 &amp; 2. The north end of the flow is just below the top of the image (objects
+  HH 33 &amp; 40); the south end of the flow terminates in a group of small bow shocks
+  known as HH 86 &amp; 87, which reside in the dark region between HH 401 and NGC
+  1999. Many other smaller nebulous patches in this image mark small reflection nebulae,
+  Herbig-Haro objects, and stellar jets. The rich detail in this image reveals one
+  of the most fascinating areas of the night sky.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-n1999lg/L{1}X{2}Y{3}.png
+name: NGC 1999/L1641N
+ra_hr: 5.598792803676631
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-n1999lg/thumb.jpg
+zoom_level: 6.017999999999998
+---
+_uuid: 54632189-2c52-4174-be6d-3bf1e585a361
+annotation: '{"channel": "noirlab", "itemid": "noao-n44", "publishedUTCISO8601": "2020-06-30T21:34:08+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -67.94195865978945
+description: In the area of NGC1929 in the LMC is found the complex nebula seen above.
+  Known as the N44 superbubble complex, this turbulent emission nebula is dominated
+  by a vast bubble about 325 by 250 light-years across. The bubble’s interior is formed
+  either by massive winds produced by a cluster of a few to many OB stars combined
+  with the remnant shell of old supernovae. If you look closely along the right of
+  the nebula you can discern the presence of a second bubble. As superbubbles expand
+  and age their surface brightness diminishes. Finally it is thought that superbubbles
+  can trigger new star formation in areas of the shells where gases condense.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-n44/L{1}X{2}Y{3}.png
+name: N44 Superbubble Complex
+ra_hr: 5.36854952602053
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-n44/thumb.jpg
+zoom_level: 1.4980503483213552
+---
+_uuid: 7194209a-f243-497a-b282-f5f5b8667f32
+angular_size: 6.171530074713567
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc1788", "publishedUTCISO8601":
+  "2020-06-30T21:34:09+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -3.3568397404487365
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. NGC 1788 is an
+  unusual reflection nebula (bluish white at the center of the image) surrounded by
+  a glowing red ring of hydrogen gas. The stars inside the nebula are only about a
+  million years old, which is very young compared to most stars. The ring of glowing
+  hydrogen gas is energized by nearby hot, massive stars not visible in the image.
+  The image was generated with observations in the B (blue), I (orange) and Hydrogen-Alpha
+  (red) filters. In this image, North is up, East is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc1788/L{1}X{2}Y{3}.png
+name: Reflection Nebula NGC 1788
+ra_hr: 5.115367245771793
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc1788/thumb.jpg
+zoom_level: 6.171530074713567
+---
+_uuid: 559e5c01-074a-4c96-bf99-b259494b1e06
+annotation: '{"channel": "noirlab", "itemid": "noao0126a", "publishedUTCISO8601":
+  "2015-11-23T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -2.482012476304646
+description: This exceptional image of the Horsehead nebula was taken at the National
+  Science Foundation&#x27;s 0.9-meter telescope on Kitt Peak with the NOAO Mosaic
+  CCD camera. Located in the constellation of Orion, the Hunter, the Horsehead is
+  part of a dense cloud of gas in front of an active star-forming nebula known as
+  IC434. The nebulosity of the Horsehead is believed to be excited by the bright star
+  Sigma Orionis, which is located above the top of the image. Just off the left side
+  of the image is the bright star Zeta Orionis, which is the easternmost of the three
+  stars that form Orion&#x27;s belt. Zeta Orionis is a foreground star, and is not
+  related to the nebula. The streaks in the nebulosity that extend above the Horsehead
+  are likely due to magnetic fields within the nebula. Close study reveals that many
+  more stars are visible in the top half of the image. Stars in the lower half of
+  the image are obscured by a dark cloud of hydrogen gas. The edge of this large cloud
+  is the horizontal strip of glowing gas that bisects the image. The Horsehead is
+  located about 1,600 light-years away from Earth. The area shown in this image is
+  quite large on the sky, covering about five times the area of the full Moon. This
+  false-color image was created by combining emission-line images taken in hydrogen-alpha
+  (red), oxygen [OIII] (green) and sulfur [SII] (blue).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0126a/L{1}X{2}Y{3}.png
+name: The Horsehead Nebula/IC434
+ra_hr: 5.682641638393005
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0126a/thumb.jpg
+zoom_level: 9.7804536
+---
+_uuid: 737e75b7-8c8c-4b93-94b9-ddea1e4b8376
+annotation: '{"channel": "noirlab", "itemid": "noao0140a", "publishedUTCISO8601":
+  "2020-06-30T21:33:48+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.24788277160306
+description: The Large Magellanic Cloud, a satellite of our own Galaxy, is visible
+  to the naked eye from the southern hemisphere. Because of its proximity, it can
+  be studied in detail, and provides valuable insight into all galactic processes,
+  especially by comparison to our own Galaxy. The most prominent gaseous nebula in
+  the LMC is 30 Doradus, also known as the Tarantula nebula (qv). CTIO 4-meter Blanco
+  telescope image.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0140a/L{1}X{2}Y{3}.png
+name: Large Magellanic Cloud
+ra_hr: 5.524116870047295
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0140a/thumb.jpg
+zoom_level: 26.85597211130618
+---
+_uuid: 0876a1b9-d480-4a4b-8240-c89361e3b8a5
+angular_size: 7.4851884
+annotation: '{"channel": "noirlab", "itemid": "noao0157a", "publishedUTCISO8601":
+  "2020-06-30T21:34:01+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 34.30767959809152
+description: This spectacular image of the star AE Aurigae and its surrounding nebulosity
+  was taken at the National Science Foundation&#x27;s 0.9-meter telescope on Kitt
+  Peak with the NOAO Mosaic CCD camera. Located in the constellation of Auriga, the
+  Charioteer, AE Aurigae is the bright blue star at the center of the image. The incredible
+  energy from this hot, massive star is energizing the surrounding gas, causing it
+  to glow dramatically. As a result it is also known as &quot;the flaming star&quot;.
+  This false-color image was created by combining emission-line images taken in Hydrogen-alpha
+  (yellow), Oxygen [OIII] (violet) and Sulfur [SII] (blue).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0157a/L{1}X{2}Y{3}.png
+name: AE Aurigae
+ra_hr: 5.271719101242965
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0157a/thumb.jpg
+zoom_level: 7.4851884
+---
+_uuid: 7dabf749-c3ac-4a38-a67d-7e054708994c
+angular_size: 80.529
+annotation: '{"channel": "noirlab", "itemid": "noao0601b", "publishedUTCISO8601":
+  "2006-01-09T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -68.3594350603908
+description: The glowing gas of the interstellar medium (ISM) is the breeding ground
+  for the formation of new stars, and the cemetery where the ashes of dead stars ultimately
+  return. A team led by astronomers from the National Optical Astronomy Observatory
+  (NOAO) has conducted a new study called the Magellanic Cloud Emission Line Survey
+  (MCELS) that focused expressly on the ISM in the Large Magellanic Cloud and Small
+  Magellanic Cloud—the nearest major galaxies to the Milky Way. More than 1,500 individual
+  images from MCELS have been assembled into this large mosaic of the Large Magellanic
+  Cloud, released to the public in Washington, DC, in January 2006 at the annual meeting
+  of the American Astronomical Society. See also NOAO Press Release 06-01.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0601b/L{1}X{2}Y{3}.png
+name: Large Magellanic Cloud
+ra_hr: 5.29341940293126
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0601b/thumb.jpg
+zoom_level: 80.529
+---
+_uuid: dc8b8dbb-72f5-4648-b02d-3cc60d416553
+angular_size: 6.114280860000001
+annotation: '{"channel": "noirlab", "itemid": "noao1104a", "publishedUTCISO8601":
+  "2011-08-31T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -6.4891304806994
+description: 'This wide-field panorama of star formation was captured with the National
+  Science Foundation’s Mayall 4-meter telescope on Kitt Peak. Located in the constellation
+  of Orion (the Hunter), the image show a portion of one of Orion’s giant molecular
+  clouds (known as “Orion A”) where new stars are forming. The bright object in the
+  bottom-left corner is the reflection nebula NGC 1999, which contains the young star
+  V380 Orionis. A small, triangle shaped patch of dusty material is seen in silhouette
+  against the reflection nebula. NGC 1999 lies at the center of a network of nebulous
+  filaments which billow out and away like the spokes of a bicycle wheel.  Powerful
+  jets of gas are often the first visible manifestations of the birth of young stars.
+  These jets punch holes through the opaque clouds in which the star is formed, holes
+  through which the light of the new-born stars can escape to produce what are known
+  as reflection nebulae. Several such nebulae are seen in this image. Outflowing jets
+  from young stars also power luminous shock waves known as Herbig-Haro (HH) objects,
+  which move through the surrounding gas at speeds of up to hundreds of kilometers
+  per second (over 100,000 miles an hour). As these shock waves ram their surroundings,
+  they heat up bow-shaped nebulae of glowing plasma. This image shows dozens of such
+  objects.  The region below NGC 1999 reflection nebula contains a cluster of deeply
+  embedded young stars. These objects were first recognized by Guillermo Haro and
+  George Herbig around 1950 and today they are known as HH 1 and HH 2. Recent observations
+  indicate that the cone shape located near the right edge of the image (known as
+  HH 401) may be a giant bow shock powered by the source of the HH 1 &amp; 2 outflow.
+  If so, this outflow is more than 10 light-years long! The arc of light which looks
+  like a waterfall (located above and to the right of the center of the image) is
+  the enigmatic object HH 222. Unlike most other HH objects, it is a source of polarized,
+  non-thermal radio waves. The nature of this feature remains largely unknown. From
+  the upper-right to the lower-right of the image runs a long chain of Herbig-Haro
+  objects associated with the object HH 34. HH 34 itself is the bright and compact
+  bow shock located near the bottom of HH 222. Just above HH 34, a compact jet can
+  be seen to emerge from the source star, which is not visible in this image. This
+  jet and its first bow shock (HH 34) mark the inner portion of a chain of shocks
+  which trace a graceful S-shaped curve from the upper right hand corner of the image
+  down towards HH 1 &amp; 2. The north end of the flow is just below the top of the
+  image (objects HH 33 &amp; 40); the south end of the flow terminates in a group
+  of small bow shocks known as HH 86 &amp; 87, which reside in the dark region between
+  HH 401 and NGC 1999. This image was used as the gorund-based image in Hubble News
+  Release Number: STScI-2011-20. Many other smaller nebulous patches in this image
+  mark small reflection nebulae, Herbig-Haro objects, and stellar jets. The rich detail
+  in this image reveals one of the most fascinating areas of the night sky.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao1104a/L{1}X{2}Y{3}.png
+name: Reflection Nebula NGC 1999
+ra_hr: 5.60148818196121
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao1104a/thumb.jpg
+zoom_level: 6.114280860000001
+---
+_uuid: 9904bc38-9591-4f04-ace8-e8cf9131c8f2
+annotation: '{"channel": "noirlab", "itemid": "noaoann09009a", "publishedUTCISO8601":
+  "2009-05-18T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -5.372692078655487
+description: The Orion Nebula seen with the infrared eyes of the WIYN High Resolution
+  Infrared Camera (WHIRC) in the emission lines of HeI (1083 nm; blue), FeII (1644
+  nm; green), and H2 (2122 nm; red). The HeI shows the location of the ionized gas
+  and the holes around the O-type stars show the location where the gas is highly
+  ionized by the stars. The H2 shows the shocked molecular gas in what seems to be
+  an apparent explosion of molecular cloud material. The FeII shows the location of
+  the shocked gas fronts at the head of the molecular bullets.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noaoann09009a/L{1}X{2}Y{3}.png
+name: Orion Nebula, M42
+ra_hr: 5.587850240885502
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noaoann09009a/thumb.jpg
+zoom_level: 0.7535481485258231
+---
+_uuid: 03afd044-e73c-4f81-9350-cbfad21d339e
+annotation: '{"channel": "noirlab", "itemid": "noirlab2014h", "publishedUTCISO8601":
+  "2020-06-24T06:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 7.461020799839423
+description: A circumstellar disk around star HD 32297 selected from the larger sample
+  of 26 disks obtained with the Gemini South telescope in Chile using the Gemini Planet
+  Imager (GPI).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2014h/L{1}X{2}Y{3}.png
+name: HD 32297
+ra_hr: 5.040954452451954
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2014h/thumb.jpg
+zoom_level: 0.00761339553356808
+---
+_uuid: de69edea-3263-469f-92aa-097d52e9538b
+annotation: '{"channel": "noirlab", "itemid": "noirlab2030a", "publishedUTCISO8601":
+  "2020-12-01T08:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -71.56477446533543
+description: Part of the SMASH dataset showing an unprecedented wide-angle view of
+  the Large Magellanic Cloud. The Large and Small Magellanic Clouds are the largest
+  satellite galaxies of the Milky Way and, unlike the rest of the satellite galaxies,
+  are still actively forming stars — and at a rapid pace. The depth of these survey
+  data can be appreciated by the number of stars visible in the outer regions of the
+  galaxy, as seen in the lower part of the image.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2030a/L{1}X{2}Y{3}.png
+name: Deepest, widest view of the Large Magellanic Cloud from SMASH
+ra_hr: 5.252857508824116
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2030a/thumb.jpg
+zoom_level: 92.52385743560467
+---
 _uuid: 65e8a33b-c706-4167-bb58-42d98a8d0557
 classification: ''
 constellation: ''

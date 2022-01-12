@@ -1,3 +1,231 @@
+_uuid: b7dc9ce4-e9fb-4597-ac0d-de970b9cda4e
+annotation: '{"channel": "noirlab", "itemid": "gemini0602f", "publishedUTCISO8601":
+  "2006-01-04T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -30.27591711839275
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0602f/L{1}X{2}Y{3}.png
+name: NGC 1097
+ra_hr: 2.7717458463284523
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0602f/thumb.jpg
+zoom_level: 0.9474466405574902
+---
+_uuid: f97edbe9-0e21-4de1-83f1-266e14d54b71
+annotation: '{"channel": "noirlab", "itemid": "iotw2023a", "publishedUTCISO8601":
+  "2020-06-03T05:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 42.34736575949487
+description: The Silver Sliver Galaxy — more formally known as NGC 891 — is shown
+  in this striking image from the Mosaic instrument on the 4-meter Nicholas U. Mayall
+  Telescope at Kitt Peak National Observatory, a Program of NSF’s NOIRLab. NGC 891
+  is a spiral galaxy that lies almost perfectly edge-on to us, leading to its elongated
+  appearance and its striking resemblance to our home galaxy, the Milky Way, as seen
+  from the Earth. Since NGC 891 is oriented edge-on, it’s great for investigating
+  the galactic fountain model. When stellar winds and supernovae from the disk of
+  a galaxy eject gas into the surrounding medium, it can create condensation that
+  rains back down onto the disk. The condensed gas then provides new fuel for star
+  formation. In addition to the portrait of NGC 891, this image is littered with astronomical
+  objects near and far — bright foreground stars from our own galaxy intrude upon
+  the view of NGC 891 and distant galaxies lurk in the background.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/iotw2023a/L{1}X{2}Y{3}.png
+name: Silver Galactic Sliver
+ra_hr: 2.37557538083253
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/iotw2023a/thumb.jpg
+zoom_level: 2.444017077156267
+---
+_uuid: 109d9150-594c-4a30-839a-e9fcf09198a4
+annotation: '{"channel": "noirlab", "itemid": "noao-hcper", "publishedUTCISO8601":
+  "2020-06-30T21:34:13+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 57.12241264334052
+description: The double cluster in the constellation Perseus, normally known by its
+  Greek designation transliterated. chi Persei (NGC884, on the left) and h Persei
+  (NGC869) are about 7000 light-years away and less than 100 light-years apart. Although
+  open clusters are quite common, this pair is exceptional due to the large number
+  of young bright O and B stars in each, and their closeness whilst still being clearly
+  distinguished. This color picture was made from CCD images taken in September 1997
+  at the Burrell Schmidt telescope of the Warner and Swasey Observatory of the Case
+  Western Reserve University, located on Kitt Peak in southwestern Arizona.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-hcper/L{1}X{2}Y{3}.png
+name: h and chi Persei
+ra_hr: 2.3417251789556257
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-hcper/thumb.jpg
+zoom_level: 7.858324799999998
+---
+_uuid: 8461d24f-9c56-4f58-9edd-dd3b10b0deaa
+angular_size: 6.15268227340642
+annotation: '{"channel": "noirlab", "itemid": "noao-ic1805", "publishedUTCISO8601":
+  "2020-06-30T21:34:05+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 61.41169625148695
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. IC 1805 is an
+  open cluster of stars embedded in a giant emission nebula that is informally known
+  as the Heart Nebula. Only the inner portion of the nebula is visible in this image.
+  The image was generated with observations in B (blue), I (orange) and Hydrogen-Alpha
+  (red) filters. In this image, North is up, East is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ic1805/L{1}X{2}Y{3}.png
+name: Open Cluster IC 1805
+ra_hr: 2.5701983633349315
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ic1805/thumb.jpg
+zoom_level: 6.15268227340642
+---
+_uuid: 450094d0-7f62-4d40-8009-cc0555be4eb3
+angular_size: 0.8670000000000001
+annotation: '{"channel": "noirlab", "itemid": "noao-m77", "publishedUTCISO8601": "2020-06-30T21:33:51+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.016078520011025613
+description: M77 is a type Sb spiral galaxy in the constellation Cetus. For various
+  reasons, it is much more commonly referred to by its NGC number. NGC1068 is the
+  nearest and brightest example of a type II Seyfert galaxy, showing broad and strong
+  emission lines due to high velocity gas in the galaxy&#x27;s inner regions. A strong
+  radio source known as Cetus A sits in the nucleus.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m77/L{1}X{2}Y{3}.png
+name: M77, NGC 1068
+ra_hr: 2.71117290623042
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m77/thumb.jpg
+zoom_level: 0.8670000000000001
+---
+_uuid: 3eb360af-c3ed-486c-a8e5-ba1f57360017
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc1097", "publishedUTCISO8601":
+  "2020-06-30T21:33:56+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -30.274416174110506
+description: A Seyfert galaxy revealing its bright and active nucleus. This false-color
+  image was made from several J-band (1.25 micron) observations and has a final FWHM
+  of 0.5 arc seconds. This image was obtained with the Abu thermal infrared camera
+  built by the National Optical Astronomy Observatory, on the Gemini South 8-meter
+  telescope as part of the commissioning and dedication.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc1097/L{1}X{2}Y{3}.png
+name: NGC 1097 at J
+ra_hr: 2.7719497075684245
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc1097/thumb.jpg
+zoom_level: 0.0914504724979323
+---
+_uuid: 0a859843-d962-4f24-bb0c-af70ef043142
+annotation: '{"channel": "noirlab", "itemid": "noaoann14003a", "publishedUTCISO8601":
+  "2014-02-14T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -1.5803146815051434
+description: 'Nearly every &quot;star&quot; in this image is actually a galaxy. The
+  SOAR Adaptive Module (SAM), built by CTIO/NOAO-S, is mounted on the SOAR 4.1 meter
+  telescope: it creates an artificial laser guide star which enables the exquisite
+  resolution seen here. The dark shadow on the left ( as seen in the full image) is
+  produced by the SAM guide probe. Data were taken in September 2013 for the SAM science
+  verification proposal by D. Caminha et al.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noaoann14003a/L{1}X{2}Y{3}.png
+name: SAM images gravitational arcs in the Abel 370 cluster of galaxies
+ra_hr: 2.665041677585619
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noaoann14003a/thumb.jpg
+zoom_level: 0.193597105878288
+---
+_uuid: ef0088ad-7aa4-422b-9b75-35d2fd6f54f0
+angular_size: 10.030802399999999
+annotation: '{"channel": "noirlab", "itemid": "noaoann14005a", "publishedUTCISO8601":
+  "2014-05-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 61.98906626135178
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the KPNO 0.9m-meter telescope at Kitt Peak National Observatory. NGC 896 is part
+  of a large, diffuse nebula. Star formation inside NGC 896 energizes the gas. However,
+  most of the star formation is obscured by dark dust lanes that stretch across the
+  nebula. The image was generated with observations in Hydrogen alpha (red), Oxygen
+  [OIII] (green) and Sulfur [SII] (blue) filters. In this image, North is up, East
+  is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noaoann14005a/L{1}X{2}Y{3}.png
+name: NGC 896
+ra_hr: 2.4287862850041435
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noaoann14005a/thumb.jpg
+zoom_level: 10.030802399999999
+---
+_uuid: 97afc622-d24d-4c9c-9758-c7bfcee6b9f4
+angular_size: 1.6103976668208166
+annotation: '{"channel": "noirlab", "itemid": "noirlab2016a", "publishedUTCISO8601":
+  "2020-07-02T13:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 33.58083644454522
+description: The spiral galaxy NGC 925 reveals cosmic pyrotechnics in its spiral arms
+  where bursts of star formation are taking place in the red, glowing clouds scattered
+  throughout it. 
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2016a/L{1}X{2}Y{3}.png
+name: Cosmic Fireworks
+ra_hr: 2.4547509645543
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2016a/thumb.jpg
+zoom_level: 1.6103976668208166
+---
+_uuid: 14217f27-9cd8-427f-8c67-a18c96e7f6e3
+annotation: '{"channel": "noirlab", "itemid": "noirlab2016b", "publishedUTCISO8601":
+  "2020-07-02T13:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 33.58041057306817
+description: The spiral galaxy NGC 925 reveals cosmic pyrotechnics in its spiral arms
+  where bursts of star formation are taking place in the red, glowing clouds scattered
+  throughout it.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2016b/L{1}X{2}Y{3}.png
+name: Cosmic Fireworks (wide angle)
+ra_hr: 2.4553699508971976
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2016b/thumb.jpg
+zoom_level: 2.595350875153852
+---
+_uuid: aff2d2d2-beb4-40ec-8e2e-29bed39de498
+angular_size: 1.4214872942967394
+annotation: '{"channel": "noirlab", "itemid": "noirlab2101a", "publishedUTCISO8601":
+  "2021-01-05T08:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 40.87028051516832
+description: A stunning long-exposure observation lasting 70 minutes from the Nicholas
+  U. Mayall 4-meter Telescope at Kitt Peak National Observatory, a Program of NSF’s
+  NOIRLab, reveals the spiral galaxy NGC 1003 in glorious detail. NGC 1003 resides
+  in front of a galaxy cluster — a vast collection of galaxies bound together by gravity.
+  The long exposure time of this deep observation allowed these usually overlooked
+  red background cluster galaxies to be captured.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2101a/L{1}X{2}Y{3}.png
+name: NGC 1003
+ra_hr: 2.654722339476983
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2101a/thumb.jpg
+zoom_level: 1.4214872942967394
+---
+_uuid: ec2993ce-a671-4f7a-82ff-bb391041846e
+angular_size: 6.4474592280306435
+annotation: '{"channel": "noirlab", "itemid": "noirlab2101b", "publishedUTCISO8601":
+  "2021-01-05T12:36:42+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 40.86506760026164
+description: A stunning long-exposure observation lasting 70 minutes from the Nicholas
+  U. Mayall 4-meter Telescope at Kitt Peak National Observatory, a Program of NSF’s
+  NOIRLab, reveals the surroundings of the spiral galaxy NGC 1003 in glorious detail.
+  NGC 1003 resides in front of a galaxy cluster — a vast collection of galaxies bound
+  together by gravity. The long exposure time of this deep observation allowed these
+  usually overlooked red background cluster galaxies to be captured.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2101b/L{1}X{2}Y{3}.png
+name: NGC 1003 (wide crop)
+ra_hr: 2.6556373012212084
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2101b/thumb.jpg
+zoom_level: 6.4474592280306435
+---
 _uuid: 200861e7-c2c3-475f-847e-0b4b76910bb9
 classification: ''
 constellation: ''

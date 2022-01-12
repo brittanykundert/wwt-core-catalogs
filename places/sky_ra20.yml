@@ -1,3 +1,794 @@
+_uuid: 3f56fb4b-85c3-4e44-8b2f-bf92fbce6570
+annotation: '{"channel": "noirlab", "itemid": "gemini0101a", "publishedUTCISO8601":
+  "2001-07-23T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 40.186390177343505
+description: AFGL 2591 is located within the Milky Way more than 3,000 light-years
+  from Earth, in the constellation of Cygnus. Over the course of the last few thousand
+  years, it has created a vast expanding nebula larger than 500 times the diameter
+  of our solar system. The star is at least 10 times the size of the Sun, and over
+  20,000 times as bright, but perhaps only one million years old. The wispy white
+  and blue structure in the expanding nebula to the right of the young star is a huge
+  outflow of gas and dust driven by the infall of material onto the star&#x27;s surface.
+  Gemini scientists believe that the outflow is likely occurring symmetrically around
+  the star - a second giant-sized expanding nebula to the left of the star is hidden
+  from view by a dense and extensive disk (or torus) of material encircling AFGL 2591.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0101a/L{1}X{2}Y{3}.png
+name: Stellar Gusts From AFGL 2591
+ra_hr: 20.490249771444535
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0101a/thumb.jpg
+zoom_level: 0.29726738339084996
+---
+_uuid: 1b56206a-6e87-4223-b76b-c3e40894b276
+annotation: '{"channel": "noirlab", "itemid": "gemini0101b", "publishedUTCISO8601":
+  "2001-07-23T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 40.18744753338971
+description: This false-color image of AFGL 2591 shows some high-resolution details
+  in the expanding outflow of gas and dust around the massive stars that are not fully
+  visible in the color version of the image.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0101b/L{1}X{2}Y{3}.png
+name: Gemini Spies Strong Stellar Gusts in Nearby Massive Star
+ra_hr: 20.4899206513972
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0101b/thumb.jpg
+zoom_level: 0.11555192686283397
+---
+_uuid: 1688029d-0162-459e-9607-00609189f425
+annotation: '{"channel": "noirlab", "itemid": "gemini0101c", "publishedUTCISO8601":
+  "2001-07-23T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 40.18654521919025
+description: This black-and-white, K-band image of AFGL 2591 shows some fainter lobe
+  structure and a bow shock to the left of the massive star that is not readily apparentl
+  in the color version. This part of the expanding nebula of gas and dust around AFGL
+  2591 is hidden from view by a dense and extensive disk (or torus) of material encircling
+  the star.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0101c/L{1}X{2}Y{3}.png
+name: Gemini Spies Strong Stellar Gusts in Nearby Massive Star
+ra_hr: 20.490235089062303
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0101c/thumb.jpg
+zoom_level: 0.22729923467757596
+---
+_uuid: 0f8cd35e-a35d-4242-8d8d-a6734d34bbf6
+angular_size: 0.6803455822946722
+annotation: '{"channel": "noirlab", "itemid": "gemini0302a", "publishedUTCISO8601":
+  "2003-06-30T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -19.84570409465826
+description: 'During commissioning in early 2003 of the Gemini Multi-Object Spectrograph
+  (GMOS) on the Gemini South Telescope, images and spectra were obtained of the group
+  of galaxies known as the Hickson Compact Group 87 (HCG 87). The Gemini image compares
+  very favorably with space-based image of this same field and illustrates the remarkable
+  resolution that is possible with Gemini when atmospheric conditions are optimal.
+  See Image Release for details Technical Details: Acquisition Date(s): May 25, 2003
+  Telescope: Gemini South, Cerro Pachón, Chile Instrument: GMOS (Gemini Multi-Object
+  Spectrograph) Field of View: ~ 4x4 arcminutes (0.073 arcsec/pixel) [url=http://www.gemini.edu/sciops/in'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0302a/L{1}X{2}Y{3}.png
+name: Hickson Compact Group 87
+ra_hr: 20.803620720717888
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0302a/thumb.jpg
+zoom_level: 0.6803455822946722
+---
+_uuid: 12b313fc-6a99-4784-932b-e7d0391cda1b
+angular_size: 0.4142485009993176
+annotation: '{"channel": "noirlab", "itemid": "gemini0302b", "publishedUTCISO8601":
+  "2003-06-30T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -19.843018888954894
+description: HCG 87 imaged with the Hubble Space Telescope
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0302b/L{1}X{2}Y{3}.png
+name: 'Looking Sharp: Images from New Gemini Spectrograph Rival View from Space'
+ra_hr: 20.803362478610524
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0302b/thumb.jpg
+zoom_level: 0.4142485009993176
+---
+_uuid: e93e217f-6e4d-46de-9be8-1970d66821e0
+angular_size: 0.8170757659172989
+annotation: '{"channel": "noirlab", "itemid": "gemini0501a", "publishedUTCISO8601":
+  "2005-01-01T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 60.151687916780766
+description: '&quot;A Mysterious Rash of Star Birth In this crisp Gemini North image,
+  pink bubbles of glowing hydrogen gas spread across the arms of the face-on spiral
+  galaxy NGC 6946 like a rash. This amazing infusion of color is fueled by the ubiquitous
+  birth of massive stars throughout NGC 6946; these hot young stars blast copious
+  amounts of ultraviolet radiation into their natal shrouds of hydrogen gas, causing
+  the clouds to glow red. For reasons unknown, NGC 6946 has a much higher rate of
+  star formation than all of the other large galaxies in our local neighborhood. The
+  prodigious output of stellar nurseries in this extragalactic neighbor — which lies
+  about 20 million light years away in the direction of the constellation of Cepheus
+  — eventually leads to accelerated numbers of supernovae explosions. NGC 6946’s supernovae
+  have occurred in rapid-fire fashion for tens of millions of years. Over the past
+  century, eight supernovae are known to have exploded in the arms of this stellar
+  metropolis. NGC 6946 is, in fact, the most prolific known galaxy for supernovae
+  during the past 100 years. These events have led to its popular nickname, the “Fireworks
+  Galaxy.” If we could compress just a million years of NGC 6946’s history into a
+  time-lapse movie, lasting but a few seconds, we would bear witness to a stream of
+  nearly constant outbursts of light as new stars flare into view, while old ones
+  expire in spectacular explosions.&quot; Technical Details: Acquisition Date(s):
+  August 12, 2004 Telescope: Gemini North, Mauna Kea Hawai&#x27;i Instrument: GMOS
+  (Gemini Multi-Object Spectrograph) Field of View: 5.80 x 5.58 arcminutes Orientation:
+  184 deg CCW from N up, E to the'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0501a/L{1}X{2}Y{3}.png
+name: A Mysterious Rash of Star Birth
+ra_hr: 20.581132698656248
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini0501a/thumb.jpg
+zoom_level: 0.8170757659172989
+---
+_uuid: 66a47b16-4d91-453e-8a7d-132a8f90e2b5
+angular_size: 0.6614618981089919
+annotation: '{"channel": "noirlab", "itemid": "gemini1004a", "publishedUTCISO8601":
+  "2010-02-11T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 37.37641934380125
+description: Sharpless 2-106 as imaged by the Gemini Multi-Object Spectrograph on
+  the Gemini North telescope on Mauna Kea in Hawai‘i. This color composite image shows
+  the nursery of a massive star (hidden within the cloud) obtained with four narrow-band
+  optical filters available for Gemini users at both Gemini North and South
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini1004a/L{1}X{2}Y{3}.png
+name: Sharpless 2-106
+ra_hr: 20.45701895616876
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini1004a/thumb.jpg
+zoom_level: 0.6614618981089919
+---
+_uuid: b92ce52d-c238-4c6f-844a-ef151864a14f
+annotation: '{"channel": "noirlab", "itemid": "gemini1104a", "publishedUTCISO8601":
+  "2011-03-29T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -70.76757708204137
+description: 'Image of NGC 6872 (left) and companion galaxy IC 4970 (right) locked
+  in a tango as the two galaxies gravitationally interact. The galaxies lie about
+  200 million light-years away in the direction of the constellation Pavo (the Peacock).
+  Minimum Credit: Gemini Observatory/AURA/Australian Gemini Office. Full Credit: Gemini
+  Observatory/AURA/Australian Gemini Office, Sydney Girls High School Astronomy Club,
+  Travis Rector (University of Alaska, Anchorage), and Ángel López-Sánchez (Australian
+  Astronomical Observatory/Macquarie University).'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini1104a/L{1}X{2}Y{3}.png
+name: Dancing Galaxies NGC 6872 & IC 4970
+ra_hr: 20.282202216344007
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini1104a/thumb.jpg
+zoom_level: 0.8474973784574362
+---
+_uuid: 36c7b52a-8c91-4c1e-b1a7-2846cec50842
+annotation: '{"channel": "noirlab", "itemid": "noao-02186", "publishedUTCISO8601":
+  "2020-06-30T21:34:12+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 31.53285979125518
+description: The north central portion of the Veil Nebula in the constellation Cygnus,
+  as seen by the Kitt Peak 4-meter Mayall telescope in 1973. This large loop of gas
+  was ejected about 30 to 40 thousand years ago from a supernova. It is also known
+  as the Cygnus Loop. North is to the right.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02186/L{1}X{2}Y{3}.png
+name: The Veil Nebula, NGC 6960.
+ra_hr: 20.80644461345033
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02186/thumb.jpg
+zoom_level: 6.311759999999999
+---
+_uuid: a21dd36e-c062-49ed-9c7e-a1083115a905
+annotation: '{"channel": "noirlab", "itemid": "noao-02324", "publishedUTCISO8601":
+  "2020-06-30T21:33:59+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 60.14425457799509
+description: NGC6946 (Arp 29) is a face-on SAB(rs)cd galaxy in the constellation Cygnus.
+  This classification refers to the presence of a small core with multiple well-defined
+  arms (cd), with a poorly-developed bar across the middle (AB) and an inner confused
+  ring (rs). Nearly twenty million light-years from Earth, it is over seventy thousand
+  light-years across and more than fills this picture. At least one supernova has
+  been observed in this galaxy. KPNO 4-meter Mayall telescope, 1975.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02324/L{1}X{2}Y{3}.png
+name: NGC 6946 in Cygnus
+ra_hr: 20.581168082226913
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02324/thumb.jpg
+zoom_level: 2.142
+---
+_uuid: 53dd3533-2d6e-43f1-9c79-084411ff0fd8
+angular_size: 9.875538
+annotation: '{"channel": "noirlab", "itemid": "noao-04494", "publishedUTCISO8601":
+  "2003-04-01T12:51:36+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 38.417820321202086
+description: This wide-field image of the Crescent Nebula was taken at the National
+  Science Foundation&#x27;s 0.9-meter telescope on Kitt Peak with the NOAO Mosaic
+  CCD camera. Also known as NGC6888, the nebula is a shell of gas that is being energized
+  by the strong stellar wind from the Wolf-Rayet star WR 136, the bright star at the
+  center of the nebula. It is located in the constellation of Cygnus, the Swan. Wolf-Rayet
+  stars are very hot, massive stars that are blowing off their outer layers. In this
+  image north is down and east is to the right. This image was created by combining
+  emission-line images in Hydrogen-alpha (red), Oxygen [O III] (blue) and Sulfur [S
+  II] (yellow).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-04494/L{1}X{2}Y{3}.png
+name: Crescent, NGC 6888
+ra_hr: 20.20805020292572
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-04494/thumb.jpg
+zoom_level: 9.875538
+---
+_uuid: 7ffff68e-e25a-4cd3-b105-1540d000c151
+annotation: '{"channel": "noirlab", "itemid": "noao-04745", "publishedUTCISO8601":
+  "2003-10-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 44.325010889135775
+description: 'These images were obtained with the MOSAIC CCD camera at the prime focus
+  of the Mayall 4-meter reflector, and show a 36 arc minute field of view that contains
+  the well known Pelican nebula, located at the northwest rim of the giant HII region
+  W80 (the North America/Pelican Nebula) in Cygnus. These narrow-band images, obtained
+  in the red light of recombining hydrogen atoms and singly ionized sulfur, reveal
+  a population of hitherto unrecognized shocks which trace outflows from forming stars
+  embedded within the molecular clouds that rim the nebula. The visibility of these
+  protostellar outflows is enhanced by the ultraviolet radiation field of several
+  massive stars located off the image. This radiation is eroding the surrounding molecular
+  cloud. In regions shadowed by dense clumps of gas and dust, parts of the dense and
+  cold molecular cloud survive to produce the long pillars of dusty material. A faint
+  jet (known as Herbig-Haro object 555) squirts out of the tip of one of the pillars,
+  apparently indicating the presence of an unseen protostar. North is up and west
+  is to the right in this image. This image was produced by NOAO Survey Program &quot;Deep
+  Imaging Survey of Nearby Star-Forming Clouds&quot;, and is the subject of a related
+  press release. Note: the large “donut” in the middle is an artifact of the coma
+  corrector in the KPNO 4-meter that was not completely removed in the reduction.
+  This is the full size image complete with ragged edges revealing the dither pattern
+  of the different fields. A clipped version at lower resolution is also available.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-04745/L{1}X{2}Y{3}.png
+name: Pelican Nebula Ionization Front
+ra_hr: 20.836293271859
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-04745/thumb.jpg
+zoom_level: 6.48724488
+---
+_uuid: 4413ca54-4950-47e9-9550-8a67093b1246
+angular_size: 1.55575092
+annotation: '{"channel": "noirlab", "itemid": "noao-ear", "publishedUTCISO8601": "2020-06-30T21:34:03.011384+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 46.90915349409115
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. Informally known
+  as the &quot;Ear Nebula&quot;, this relatively old and very faint planetary nebula
+  was discovered by the INT/WFC Photometric H-alpha Survey of the Northern Galactic
+  Plane (IPHAS) in 2005. The image was generated with observations in the Hydrogen
+  alpha (red) and Oxygen [OIII] (blue) filters. In this image, North is up, East is
+  to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ear/L{1}X{2}Y{3}.png
+name: IPHASX J205013.7+465518, the Ear Nebula
+ra_hr: 20.83699631970339
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ear/thumb.jpg
+zoom_level: 1.55575092
+---
+_uuid: 142271f3-d746-42b2-8e6e-f20b74fe1e68
+angular_size: 2.9863786060526136
+annotation: '{"channel": "noirlab", "itemid": "noao-g70-51-9", "publishedUTCISO8601":
+  "2020-06-30T21:34:03+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 33.888818541594134
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. G70.5+1.9 is
+  located near the edge of the giant HII emission nebula Sharpless 100 (Sh2-100).
+  It is likely a supernova remnant, the leftovers of a star that exploded as a supernova
+  years ago. The image was generated with observations in Hydrogen alpha (red) and
+  Sulphur [S II] (blue) filters. In this image, North is left, East is down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-g70-51-9/L{1}X{2}Y{3}.png
+name: Supernova Remnant, G70.5+1.9
+ra_hr: 20.009927423582496
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-g70-51-9/thumb.jpg
+zoom_level: 2.9863786060526136
+---
+_uuid: 6feea89d-6d14-4280-afd8-05ee7905867b
+angular_size: 3.950419199999999
+annotation: '{"channel": "noirlab", "itemid": "noao-ic1311", "publishedUTCISO8601":
+  "2020-06-30T21:34:04.727773+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.21756815611766
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. IC 1311 is an
+  open cluster of stars (seen near the top center of the image) that is embedded in
+  a giant emission nebula. The nebula is glowing from the ultraviolet light from hot,
+  massive blue stars in the nebula. The image was generated with observations in B
+  (blue), V (green), I (orange) and Hydrogen-Alpha (red) filters. In this image, North
+  is left, East is down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ic1311/L{1}X{2}Y{3}.png
+name: Open Cluster IC 1311
+ra_hr: 20.187123681767012
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ic1311/thumb.jpg
+zoom_level: 3.950419199999999
+---
+_uuid: dd2ba588-b3c6-4e0d-b782-f3a2946d0f5a
+angular_size: 5.0791104
+annotation: '{"channel": "noirlab", "itemid": "noao-ic1340", "publishedUTCISO8601":
+  "2020-06-30T21:34:04.799433+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 31.0694197071602
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. IC 1340 is part
+  of a large supernova remnant called the Cygnus Loop. It is located about 1,500 light-years
+  from Earth. Astronomers estimate the supernova explosion that produced the nebula
+  occurred between 5,000 to 10,000 years ago. The image was generated with observations
+  in the Oxygen [OIII] (blue), Sulphur [S II] (green) and Hydrogen-Alpha (orange)
+  filters. In this image, North is left, East is down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ic1340/L{1}X{2}Y{3}.png
+name: IC 1340, part of supernova remnant Cygnus Loop
+ra_hr: 20.9463946774381
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ic1340/thumb.jpg
+zoom_level: 5.0791104
+---
+_uuid: cf0fbac0-f0c1-4340-88f3-d9f1584891d4
+annotation: '{"channel": "noirlab", "itemid": "noao-ic5070", "publishedUTCISO8601":
+  "2020-06-30T21:34:10+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 44.37938914645197
+description: This image was taken with the KPNO/WIYN 0.9m telescope on May 24, 2002.
+  It shows the “ionization front” in the Pelican nebula, a giant nearby star-formation
+  region. The Pelican Nebula (IC 5070) is located in the constellation of Cygnus,
+  the Swan. Its pillars are being sculpted by the intense ultraviolet radiation from
+  massive stars which have recently formed within the nebula. The image was produced
+  Oxygen [OIII] (blue), Hydrogen-Alpha (green) and Sulphur [SII] (red) narrowband
+  filters. 7x6min in H-alpha, 4x6min in [OIII], 5x6min in [SII]. The image is rotated
+  135 degrees CW from North is up, East to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ic5070/L{1}X{2}Y{3}.png
+name: The Pelican Nebula (IC 5070)
+ra_hr: 20.84867984300054
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ic5070/thumb.jpg
+zoom_level: 8.4324216
+---
+_uuid: 1f53c8aa-a77b-4f7b-b4dd-071ae2df7bca
+angular_size: 1.0786499999999997
+annotation: '{"channel": "noirlab", "itemid": "noao-m29", "publishedUTCISO8601": "2020-06-30T21:34:16+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 38.51081014984076
+description: M29 is an open cluster in the constellation Cygnus. Coarser and less
+  impressive than some others, it is in a crowded area of our Galaxy, the Milky Way.
+  Its distance is uncertain, being somewhere between 4000 and 6000 light-years, due
+  to rather strong and poorly known absorption by intervening dust, without which
+  it would be several times brighter. This approximately true color picture was created
+  from sixteen frames taken at the KPNO 2.1-meter telescope on the night of June 18/19,
+  2003.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m29/L{1}X{2}Y{3}.png
+name: M29, NGC 6913
+ra_hr: 20.399010457814427
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m29/thumb.jpg
+zoom_level: 1.0786499999999997
+---
+_uuid: 4aebae83-bf26-4cc6-93ce-13dcf829071e
+angular_size: 1.73502
+annotation: '{"channel": "noirlab", "itemid": "noao-m73", "publishedUTCISO8601": "2020-06-30T21:53:14+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.633624183170015
+description: M73, a small open cluster in the constellation Aquarius, is a minor though
+  genuine Messier object, probably appearing just nebulous enough through Messier&#x27;s
+  early-generation telescope to qualify. It is a group of four bright stars with not
+  much else around. Although some people think it is an asterism, that is, an accidental
+  grouping on the sky of unrelated stars, others think it may be a genuine physical
+  group, though sparse (in the extreme). Very little research has so far been devoted
+  to settling this question. This picture was taken with the Kitt Peak 0.9-meter telescope
+  in July 1997 during the Research Experiences for Undergraduates (REU) program operated
+  at the Kitt Peak National Observatory and supported by the National Science Foundation.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m73/L{1}X{2}Y{3}.png
+name: M73, NGC 6994
+ra_hr: 20.982215505822012
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m73/thumb.jpg
+zoom_level: 1.73502
+---
+_uuid: 818e0e2b-eef4-4d47-9a89-8e673593ba77
+angular_size: 1.543872
+annotation: '{"channel": "noirlab", "itemid": "noao-m75", "publishedUTCISO8601": "2020-06-30T21:53:14+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.920986357105633
+description: M75 is a globular cluster in the constellation Sagittarius. It is one
+  of the more remote globulars, over 61000 light-years away and as much as 100000
+  according to some sources. Quite centrally condensed, it is also large and bright
+  (over 100 light-years across and a couple of hundred thousand times as bright as
+  the Sun). This image was created from data taken in October 1998 at the KPNO 0.9-meter
+  telescope. Image size 9.1 arc minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m75/L{1}X{2}Y{3}.png
+name: M75, NGC 6864
+ra_hr: 20.101466615430127
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m75/thumb.jpg
+zoom_level: 1.543872
+---
+_uuid: 47ae7fef-9acb-4a60-99f5-e69ae9315507
+angular_size: 0.9514141768127692
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc6946", "publishedUTCISO8601":
+  "2020-06-30T21:33:59+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 60.1523949184788
+description: NGC6946, the “Fireworks Galaxy,” lies between 10 and 20 million light-years
+  away on the border between the constellations of Cepheus and Cygnus, and was discovered
+  by Sir William Herschel (1738-1822) on September 9, 1798. It continues to fascinate
+  astronomers, who estimate that it contains about half as many stars as the Milky
+  Way. They often use it to study and characterize the evolution of massive stars
+  and the properties of interstellar gas. As viewed in the new Gemini optical image,
+  we see only the “tip of the iceberg” of this galaxy. Its optical angular diameter
+  is about 13 arcminutes, but viewed at radio wavelength at the frequency of neutral
+  hydrogen (1420 Mhz or 21-cm line), it extends considerably more than the angular
+  diameter of the Moon. This Gemini North Gemini Multi-Object Spectrograph (GMOS)
+  image of NGC6946 utilizes a selective filter specifically designed to detect the
+  radiation emanating from the starbirth regions. Additional filters help to distinguish
+  other details in the galaxy, including clusters of massive blue stars, dust lanes,
+  and a yellowish core where older more evolved stars dominate.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc6946/L{1}X{2}Y{3}.png
+name: NGC 6946 “Fireworks Galaxy”
+ra_hr: 20.581203894278005
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc6946/thumb.jpg
+zoom_level: 0.9514141768127692
+---
+_uuid: 1da1de16-5491-4ff4-9edb-ffcf2b86eb01
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc6992", "publishedUTCISO8601":
+  "2020-06-30T21:34:10+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 31.535946887478072
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the WIYN 0.9-meter telescope on Kitt Peak, Arizona. NGC 6992 is part of a large
+  supernova remnant called the Cygnus Loop. It is located about 1,500 light-years
+  from Earth. The Cynus Loop is the remains of a star that exploded 5,000 to 10,000
+  years ago. The image was generated with observations in the Oxygen [OIII] (blue),
+  Sulphur [S II] (green) and Hydrogen-Alpha (orange) filters. In this image, North
+  is right, East is up.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc6992/L{1}X{2}Y{3}.png
+name: NGC 6992 (Cygnus Loop)
+ra_hr: 20.93674016868753
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc6992/thumb.jpg
+zoom_level: 9.7323096
+---
+_uuid: 205cc203-0cf9-4a98-beee-16646256a1d0
+angular_size: 5.437864799999999
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc7000east", "publishedUTCISO8601":
+  "2020-06-30T21:34:10+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 43.57812480640784
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the KPNO 0.9m-meter telescope at Kitt Peak National Observatory. NGC 7000, also
+  known as the North America Nebula, is a giant emission nebula in the constellation
+  of Cygnus. This image shows the eastern part of the nebula, where beautiful dust
+  lanes are visible. The dust is slowly being eroded and blown away by the light from
+  stars embedded in the nebula. The image was generated with observations in Hydrogen
+  alpha (red), Oxygen [OIII] (green) and Sulfur [SII] (blue) filters. In this image,
+  North is left, East is down. An image of the southern part of the nebula is also
+  available on this website.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc7000east/L{1}X{2}Y{3}.png
+name: North America Nebula, NGC 7000 East
+ra_hr: 20.871725885140577
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc7000east/thumb.jpg
+zoom_level: 5.437864799999999
+---
+_uuid: 9482633b-8450-4f31-bf10-9436cf74701b
+angular_size: 3.71974824
+annotation: '{"channel": "noirlab", "itemid": "noao-pvcep", "publishedUTCISO8601":
+  "2020-06-30T21:53:16+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 67.9459237400928
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. PV Cep is the
+  star embedded in the cloud of gas near the center of the image. It is a star in
+  the process of forming. As it forms, it is also ejecting hot jets of gas, which
+  can be seen as the gently curved, &quot;S-shaped&quot; line of red blobs of gas
+  that extend to the upper-right and lower-left of PV Cep. The V-shaped cone of light
+  just above PV Cep is red on the right side because the H-alpha data for this image
+  was obtained on two nights over a year apart (June 10th, 2010 and September 16th,
+  2011). During that time, the illumination of the cone of light by PV Cep changed
+  dramatically. The image was generated with B (blue), V (green), I (orange) and Hydrogen-Alpha
+  (red) filters. In this image, north is up, and east is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-pvcep/L{1}X{2}Y{3}.png
+name: Star PV Cep
+ra_hr: 20.7654926198258
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-pvcep/thumb.jpg
+zoom_level: 3.71974824
+---
+_uuid: 50e65515-60c9-4965-bd8e-c620bd664613
+angular_size: 9.01629
+annotation: '{"channel": "noirlab", "itemid": "noao-veil-wiyn-0-9-m", "publishedUTCISO8601":
+  "2020-06-30T21:34:12+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 30.73481087291716
+description: This image of the Veil Nebula was taken with the Mosaic camera on the
+  WIYN 0.9-meter telescope at Kitt Peak National Observatory. The Veil Nebula (NGC6960)
+  is part of a supernova remnant known as the Cygnus Loop. It is the shattered remains
+  of one, and possibly two, supernovae that exploded more than 15,000 years ago at
+  a distance of 2,500 light-years from Earth in the direction of the constellation
+  of Cygnus, the Swan. At the time of the explosion, it would have been seen as a
+  very bright star, rivaling the crescent Moon. The bright star near the center of
+  the image, known as 52 Cygnus, is not associated with the supernova. The color image
+  was generated by combining data from narrowband filters; data from H-alpha was assigned
+  a red color, [OIII] is blue and [SII] is green. North is to the left and East is
+  down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-veil-wiyn-0-9-m/L{1}X{2}Y{3}.png
+name: The Veil Nebula, NGC 6960
+ra_hr: 20.762086464361495
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-veil-wiyn-0-9-m/thumb.jpg
+zoom_level: 9.01629
+---
+_uuid: 974c263c-db48-4d24-9233-dee8b0e1f10c
+angular_size: 11.747217599999999
+annotation: '{"channel": "noirlab", "itemid": "noao-veile", "publishedUTCISO8601":
+  "2020-06-30T21:34:12.711998+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 31.46353629544469
+description: 'The Veil nebula, also known as the Cygnus Loop, is an enormous region
+  of diffuse gas emission, covering several degrees on the sky. Although this image
+  is over a degree across (more than 40 light-years), using the full wide-field capability
+  of the Schmidt telescope, it still shows only the north-eastern segment (NGC6992/5)
+  of the entire object (over 100 light-years in width). The nebula is the remnant
+  of a supernova explosion which occurred more than 20000 years ago. It consists mostly
+  of interstellar matter swept up by the material flung off by the exploding star,
+  and it still shines because of excitation due to the collision between this expanding
+  shock wave and the interstellar medium. The Veil nebula also emits X-rays, although
+  they are weaker than those from younger supernova remnants such as Cassiopeia A,
+  since the shock loses energy as it plows through its surroundings. Supernova explosions
+  are perhaps the most spectacular events in our Galaxy, occurring when a star throws
+  off its outer layers at speeds of ten to twenty thousand kilometers per second,
+  leaving behind sometimes nothing, sometimes a shriveled remnant neutron star, or
+  sometimes even a totally collapsed black hole.  Location: 20h 56m 24s +31deg 43min
+  (1950.0), constellation of Cygnus.  Distance: around 2500 light-years.  This image
+  was made by combining a number of exposures taken on the night of July 15th 1996,
+  with a 2048x2048 CCD detector at the Burrell Schmidt telescope of the Warner and
+  Swasey Observatory of Case Western Reserve University (CWRU), situated on Kitt Peak
+  in southern Arizona. These observations were made during the telescope training
+  part of the Research Experience for Undergraduates (REU) program operated by NOAO/Tucson
+  and funded by the National Science Foundation.  See also this western section of
+  the nebula.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-veile/L{1}X{2}Y{3}.png
+name: Veil Nebula (partial)
+ra_hr: 20.935127829944136
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-veile/thumb.jpg
+zoom_level: 11.747217599999999
+---
+_uuid: 214c307a-e4cd-47be-a6b5-0b43a8af2841
+angular_size: 11.747217599999999
+annotation: '{"channel": "noirlab", "itemid": "noao-veilw", "publishedUTCISO8601":
+  "2020-06-30T21:34:12+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 30.7457909011448
+description: 'The Veil nebula, also known as the Cygnus Loop, is an enormous region
+  of diffuse gas emission, covering several degrees on the sky. Although this image
+  is over a degree across (more than 40 light-years), using the full wide-field capability
+  of the Schmidt telescope, it still shows only the western segment (NGC6960) of the
+  entire object (over 100 light-years in width). The nebula is the remnant of a supernova
+  explosion which occurred more than 20000 years ago. It consists mostly of interstellar
+  matter swept up by the material flung off by the exploding star, and it still shines
+  because of excitation due to the collision between this expanding shock wave and
+  the interstellar medium. The Veil nebula also emits X-rays, although they are weaker
+  than those from younger supernova remnants such as Cassiopeia A, since the shock
+  loses energy as it plows through its surroundings. Supernova explosions are perhaps
+  the most spectacular events in our Galaxy, occurring when a star throws off its
+  outer layers at speeds of ten to twenty thousand kilometers per second, leaving
+  behind sometimes nothing, sometimes a shriveled remnant neutron star, or sometimes
+  even a totally collapsed black hole. Location: 20h 56m 24s +31deg 43min (1950.0),
+  constellation of Cygnus. Distance: around 2500 light-years. This image was made
+  by combining a number of exposures taken on the night of July 15th 1996, with a
+  2048x2048 CCD detector at the Burrell Schmidt telescope of the Warner and Swasey
+  Observatory of Case Western Reserve University (CWRU), situated on Kitt Peak in
+  southern Arizona. These observations were made during the telescope training part
+  of the Research Experience for Undergraduates (REU) program operated by NOAO/Tucson
+  and funded by the National Science Foundation. See also this eastern section of
+  the nebula.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-veilw/L{1}X{2}Y{3}.png
+name: Veil Nebula (partial)
+ra_hr: 20.7826624014112
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-veilw/thumb.jpg
+zoom_level: 8.0
+---
+_uuid: a7c2aab3-9b7b-4146-b925-2178f7f291bd
+angular_size: 3.5135760198782084
+annotation: '{"channel": "noirlab", "itemid": "noao-wr134", "publishedUTCISO8601":
+  "2020-06-30T21:53:17+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 36.17986488036457
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. WR 134 is the
+  brightest star below the center of the image. It is a Wolf-Rayet star, which is
+  a very hot, massive star that is blowing off its outer layers. The layers are blown
+  off at very high speeds. Part of these layers can be seen as the blue arc in the
+  upper-left part of the image. The arc was created when the outer layer collided
+  with the ambient nebula surrounding the star. The image was generated with observations
+  in Hydrogen alpha (red) and Sulphur [SII] (blue) filters. In this image, North is
+  left, East is down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-wr134/L{1}X{2}Y{3}.png
+name: Wolf-Rayet star, WR 134
+ra_hr: 20.165949992429994
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-wr134/thumb.jpg
+zoom_level: 3.5135760198782084
+---
+_uuid: 5444df56-0819-40d7-bd27-1c8a674b885a
+angular_size: 11.342399999999998
+annotation: '{"channel": "noirlab", "itemid": "noao0314a", "publishedUTCISO8601":
+  "2003-10-06T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 44.299482911368
+description: 'This image of the clouds of gas and dust next to the “neck” and “body”
+  of the Pelican Nebula was taken by the National Science Foundation’s Mayall 4-meter
+  telescope at Kitt Peak National Observatory near Tucson, AZ. Narrow-band filters
+  were used to isolate the red emission lines of hydrogen and singly-ionized sulfur.
+  The image reveals many previously unseen shockwaves, evidence for powerful outflows
+  from newly formed stars embedded within the molecular clouds that rim the nebula.
+  North is up and west is to the right in this image. This image was produced by an
+  NOAO Survey Program known as the Deep Imaging Survey of Nearby Star-Forming Clouds,
+  which is led by John Bally of the University of Colorado and Bo Reipurth of the
+  University of Hawaii. It is also the subject of a related press release. Note: the
+  large “donut” in the middle is an artifact of the coma corrector in the KPNO 4-meter
+  that was not completely removed in the reduction. This image has been clipped to
+  remove ragged edges caused by the dither pattern of the different fields. An un-clipped
+  version, with higher resolution, is also available.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0314a/L{1}X{2}Y{3}.png
+name: Pelican Nebula Ionization Front
+ra_hr: 20.8363182086903
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0314a/thumb.jpg
+zoom_level: 4.27008
+---
+_uuid: 2622b9a7-ae62-4d51-9485-c32719435dbe
+annotation: '{"channel": "noirlab", "itemid": "noao0801a", "publishedUTCISO8601":
+  "2008-01-08T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 31.61868143219961
+description: A new wide-field image of Pickering&#x27;s Triangle taken with the National
+  Science Foundation&#x27;s Mayall 4-meter telescope at Kitt Peak National Observatory
+  is being released today in Austin, Texas, at the 211th meeting of the American Astronomical
+  Society. Pickering&#x27;s Triangle is part of the Cygnus Loop supernova remnant,
+  which includes the famous Veil Nebula. It is located about 1,500 light-years from
+  Earth, in the constellation Cygnus, the Swan. Astronomers estimate that the supernova
+  explosion that produced the nebula occurred between 5,000 to 10,000 years ago; the
+  entire shell stretches more than six full Moons in width across the sky. This new
+  image was obtained in September 2007 by Travis Rector and Heidi Schweiker by combining
+  two full pointings of the 64-megapixel NOAO Mosaic-1 imager mounted on the National
+  Science Foundation&#x27;s historic Mayall 4-meter telescope. The image was released
+  in Austin, Texas, at the 211th meeting of the American Astronomical Society, and
+  was the subject of NOAO Press Release 08-01.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0801a/L{1}X{2}Y{3}.png
+name: Double-Wide Image of Pickering's Triangle
+ra_hr: 20.813658743583336
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0801a/thumb.jpg
+zoom_level: 6.030892799999998
+---
+_uuid: 9a8b2ae7-b95e-4d7b-8e68-31822ca87926
+angular_size: -2.573969999999999
+annotation: '{"channel": "noirlab", "itemid": "noao0904a", "publishedUTCISO8601":
+  "2009-10-15T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 38.0423186777872
+description: Informally known as the &quot;Soap Bubble Nebula&quot;, this planetary
+  nebula (officially known as PN G75.5+1.7) was discovered by amateur astronomer Dave
+  Jurasevich on July 6th, 2008. It was noted and reported by Keith Quattrocchi and
+  Mel Helm on July 17th, 2008. This image was obtained with the Kitt Peak Mayall 4-meter
+  telescope on June 19th, 2009 in the H-alpha (orange) and [OIII] (blue) narrowband
+  filters. In this image, north is to the left and east is down. PN G75.5+1.7 is located
+  in the constellation of Cygnus, not far from the Crescent Nebula (NGC 6888). It
+  is embedded in a diffuse nebula which, in conjunction with its faintness, is the
+  reason it was not discovered until recently. The spherical symmetry of the shell
+  is remarkable, making it very similar to Abell 39.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0904a/L{1}X{2}Y{3}.png
+name: Soap Bubble Nebula, PN G75.5+1.7
+ra_hr: 20.2615216834267
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0904a/thumb.jpg
+zoom_level: 1.41015159839846
+---
+_uuid: efab13fa-3a5b-4177-aadd-1c58a023f7c7
+annotation: '{"channel": "noirlab", "itemid": "noao1209a", "publishedUTCISO8601":
+  "2012-12-18T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 31.03766108582665
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the WIYN 0.9-meter telescope on Kitt Peak, Arizona. It shows faint filaments
+  that are part of a large supernova remnant called the Cygnus Loop. The Cygnus Loop
+  is a giant supernova remnant. It is the remains of a star that exploded 5000 to
+  10,000 years ago. The distance to it is estimated at about 1500 light years. Because
+  of its immense size, it contains several individually named objects, including NGC
+  6992 and IC 1340 on the left side as well as NGC 6960 and Pickering&#x27;s Triangle
+  on the right. Separate, high-quality images of these four objects can also be found
+  in this gallery. To create this image, nine separate images were taken and stitched
+  together. The full-resolution image is over 600 megapixels in size. It covers an
+  area of the sky that is about 45 times that of the full moon. The image was generated
+  with observations in the Oxygen [OIII] (blue), Sulphur [S II] (green) and Hydrogen-Alpha
+  (orange) filters. In this image, North is up, East is left. Please note that the
+  full resolution version of this image is extremely large at more than 24,000 pixels
+  on a side, and the file size of the TIFF is 1.65 Gigabytes. Read more about this
+  image in NOAO Press Release 12-09.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao1209a/{1}/{3}/{3}_{2}.png
+name: Panoramic Loop in Cygnus
+ra_hr: 20.860647206220502
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao1209a/thumb.jpg
+zoom_level: 29.574135000000002
+---
+_uuid: 32562c33-e4ac-4463-8ea8-40de7942ecba
+angular_size: 1.8179717682436798
+annotation: '{"channel": "noirlab", "itemid": "noaoann09014a", "publishedUTCISO8601":
+  "2009-09-23T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 44.37097085158541
+description: IC 5067, a star forming region in Cygnus, is also sometimes called the
+  Pelican Nebula. This image was taken May 24, 2009 by Gregor Rothfuss, a first time
+  visitor to the Kitt Peak Advanced Observing Program, with the help of Kitt Peak
+  Visitor Center operator Flynn Haase. They used the VC 20-inch RC telescope with
+  an SBIG STL-6303E camera and AstroDon LRGB filters. Exposures were 120:40:40:40
+  respectively. This was Mr. Rothfuss’s first experience doing CCD imaging. The Kitt
+  Peak Visitor Center program, which receives no financial support from the observatory,
+  offers paying guests the opportunity to do their own observing and imaging.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noaoann09014a/L{1}X{2}Y{3}.png
+name: IC 5067, Pelican Nebula
+ra_hr: 20.84877445330506
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noaoann09014a/thumb.jpg
+zoom_level: 1.8179717682436798
+---
+_uuid: e4a30dc2-c831-4967-ab3e-7f3839fb6b02
+angular_size: 9.8521049962824
+annotation: '{"channel": "noirlab", "itemid": "noaoann15004a", "publishedUTCISO8601":
+  "2015-04-15T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 43.6848195919706
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the KPNO 0.9m-meter telescope at Kitt Peak National Observatory. NGC 7000, also
+  known as the North America Nebula, is a giant emission nebula in the constellation
+  of Cygnus. This image shows only the southern tip of the nebula (the Mexico part
+  of the nebula). The nebula is being energized by the light from stars embedded within.
+  The image was generated with observations in Hydrogen alpha (red), Oxygen [OIII]
+  (green) and Sulfur [SII] (blue) filters. In this image, North is up, East is to
+  the left. An image of the eastern part of the nebula is also available on this website.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noaoann15004a/L{1}X{2}Y{3}.png
+name: North America Nebula, NGC 7000 South
+ra_hr: 20.981302710514605
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noaoann15004a/thumb.jpg
+zoom_level: 9.8521049962824
+---
 _uuid: e06f7ad4-2030-4d4e-84bc-44fc254ac0da
 angular_size: 1.0
 classification: ClusterOfGalaxies

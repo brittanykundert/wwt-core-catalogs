@@ -1,3 +1,399 @@
+_uuid: 3354008e-1913-4510-8cbf-4458254afea0
+angular_size: 0.111514486254816
+annotation: '{"channel": "noirlab", "itemid": "gemini-20061001-ngc7009-ao", "publishedUTCISO8601":
+  "2007-12-28T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -11.363181273008701
+description: This Gemini North image shows the well-known planetary nebula NGC 7009
+  (the Saturn Nebula) in the near infrared with adaptive optics. The image has a full-width-half-maximum
+  of 0.1 arcsecond (K band) and was produced by combining ALTAIR/NIRI images in K,
+  Br-gamma, and H₂ (1-0) bands. The data were obtained in October, 2006 and are now
+  available on the Gemini Science Archive.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini-20061001-ngc7009-ao/L{1}X{2}Y{3}.png
+name: AO Image NGC 7009
+ra_hr: 21.06966670965147
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini-20061001-ngc7009-ao/thumb.jpg
+zoom_level: 0.111514486254816
+---
+_uuid: c68a6966-7444-4d7e-8bf4-baa294d895d4
+annotation: '{"channel": "noirlab", "itemid": "geminiann09001a", "publishedUTCISO8601":
+  "2009-01-05T14:34:49+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 42.23600783987187
+description: NIRI/Altair + Laser-guide-star image of NGC 7027 from Gemini North. The
+  image is a two-color composite, [Fe II] emission is coded in the white color, molecular
+  hydrogen emission [H2 (S 1-0)] is shown in red. The central star of the system is
+  apparent in the middle of the nebula. Details as small as ~0.125” are discernable
+  in the image. Particularly interesting is the appearance of the dust lane that runs
+  approximately top to bottom across the nebula. This is also visible in the HST data
+  shown below.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/geminiann09001a/L{1}X{2}Y{3}.png
+name: Gemini Researchers Receive Prestigious Canadian Award
+ra_hr: 21.11715242892761
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/geminiann09001a/thumb.jpg
+zoom_level: 0.04949590879006649
+---
+_uuid: 1eaaa337-7208-4318-aee6-f7fe8694ba72
+annotation: '{"channel": "noirlab", "itemid": "noao-02215", "publishedUTCISO8601":
+  "2020-06-30T21:34:15+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.171821737203185
+description: 'M15, or NGC7078, a globular cluster in the constellation Pegasus, as
+  seen by the KPNO 4-m telescope in 1975. M15 is a strong X-ray source, about 34000
+  light-years away and about 130 light-years across. It is unusual in that it contains
+  a small planetary nebula (K648) in the northeast side (just below the center at
+  the left). Orientation: north left, east down.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02215/L{1}X{2}Y{3}.png
+name: M15, NGC 7078
+ra_hr: 21.499415986107937
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02215/thumb.jpg
+zoom_level: 3.7943999999999996
+---
+_uuid: 78c7b0fc-be73-433c-8351-60487d994217
+angular_size: 4.326885900000001
+annotation: '{"channel": "noirlab", "itemid": "noao-abell74", "publishedUTCISO8601":
+  "2020-06-30T21:34:02+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 24.14440925321811
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. Abell 74 is an
+  ancient planetary nebula. Because of its age it is a very faint target. Ancient
+  planetary nebulae are often distorted in shape due to interactions with the interstellar
+  medium. Interestingly, Abell 74 is remarkably symmetric despite its age. The image
+  was generated with observations in the Hydrogen alpha (red) and Oxygen [OIII] (blue)
+  filters. In this image, North is left, East is down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-abell74/L{1}X{2}Y{3}.png
+name: Planetary Nebula Abell 74
+ra_hr: 21.281774081302046
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-abell74/thumb.jpg
+zoom_level: 4.326885900000001
+---
+_uuid: 50b20e43-5f28-423f-8935-fcf2d5a42d32
+angular_size: 3.851519999999999
+annotation: '{"channel": "noirlab", "itemid": "noao-ic1396", "publishedUTCISO8601":
+  "2020-06-30T21:34:05.086965+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 57.4796600304563
+description: This image of the Elephant Trunk Nebula was taken with the Mosaic camera
+  on the WIYN 0.9-meter telescope at Kitt Peak National Observatory near Tucson, Arizona.
+  The Elephant Trunk is a dense, elongated cloud of gas inside a bright cluster of
+  stars known as IC 1396. The trunk conceals many young protostars that are in the
+  process of forming.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ic1396/L{1}X{2}Y{3}.png
+name: IC1396, The Elephant Trunk Nebula
+ra_hr: 21.59935097575952
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ic1396/thumb.jpg
+zoom_level: 3.851519999999999
+---
+_uuid: 20c5c71c-9ea2-4314-9949-d24963088bae
+angular_size: 5.932982631960525
+annotation: '{"channel": "noirlab", "itemid": "noao-ic1396a", "publishedUTCISO8601":
+  "2020-06-30T21:34:04+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 58.26900616745413
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. IC 1396 is a
+  giant emission nebula that is over 3 degrees in diameter. It is illuminated by a
+  hot, massive O-type star (HD 206267) near its center. The star is not visible in
+  this image- it is off of the top edge. This image is of a portion of IC 1396 in
+  the northern part of the nebula. It shows only about 5% of the entire nebula. Images
+  of other parts of IC 1396 are also available in this gallery. The image was generated
+  with observations in the Hydrogen alpha (red) and Sulphur [SII] (blue) filters.
+  In this image, North is down, East is right.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ic1396a/L{1}X{2}Y{3}.png
+name: IC 1396 North
+ra_hr: 21.68079717199069
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ic1396a/thumb.jpg
+zoom_level: 5.932982631960525
+---
+_uuid: c5d6f032-c2ae-4a5d-81b7-02c23507f143
+angular_size: 6.1021326600000005
+annotation: '{"channel": "noirlab", "itemid": "noao-ic1396b", "publishedUTCISO8601":
+  "2020-06-30T21:34:04+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 57.73810225231407
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. IC 1396 is a
+  giant emission nebula that is over 3 degrees in diameter. It is illuminated by a
+  hot, massive O-type star (HD 206267) near its center. The star is not visible in
+  this image- it is off of the top edge. This image is of a portion of IC 1396 in
+  the north-eastern part of the nebula. It shows only about 5% of the entire nebula.
+  Images of other parts of IC 1396 are also available in this gallery. The image was
+  generated with observations in the Hydrogen alpha (red) and Sulphur [SII] (blue)
+  filters. In this image, North is left, East is down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ic1396b/L{1}X{2}Y{3}.png
+name: IC 1396 Northeast
+ra_hr: 21.7728293503811
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ic1396b/thumb.jpg
+zoom_level: 6.1021326600000005
+---
+_uuid: d1e83435-daa0-4d78-ab1f-d3c262770a95
+angular_size: 6.179128453525995
+annotation: '{"channel": "noirlab", "itemid": "noao-ic1396c", "publishedUTCISO8601":
+  "2020-06-30T21:34:04+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 57.132343032278676
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. IC 1396 is a
+  giant emission nebula that is over 3 degrees in diameter. It is illuminated by a
+  hot, massive O-type star (HD 206267) near its center. The star is not visible in
+  this image- it is off of the top edge. This image is of a portion of IC 1396 in
+  the south-eastern part of the nebula. It shows only about 5% of the entire nebula.
+  Images of other parts of IC 1396 are also available in this gallery. The image was
+  generated with observations in the Hydrogen alpha (red) and Sulphur [SII] (blue)
+  filters. In this image, North is left, East is down.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ic1396c/L{1}X{2}Y{3}.png
+name: IC 1396 Southeast
+ra_hr: 21.77006134353833
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ic1396c/thumb.jpg
+zoom_level: 6.179128453525995
+---
+_uuid: fa286c7f-39b7-4ddd-9213-bf0a7639dcf7
+angular_size: 2.69892
+annotation: '{"channel": "noirlab", "itemid": "noao-m15-kpno-0-9-m", "publishedUTCISO8601":
+  "2020-09-18T02:09:46+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.165666243149145
+description: Somewhat over 33000 light-years away and 120 light-years across, M15
+  in the constellation Pegasus is one of the more conspicuous of the large globular
+  star clusters, almost visible to the naked eye. This picture was made from CCD images
+  taken at the WIYN 0.9-meter Telescope in July and September of 1998. The dynamic
+  range has been compressed considerably to show both the dense inner region of the
+  cluster and the much fainter outer areas. Image size 15.9 arc minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m15-kpno-0-9-m/L{1}X{2}Y{3}.png
+name: M15, NGC 7078
+ra_hr: 21.49952584412278
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m15-kpno-0-9-m/thumb.jpg
+zoom_level: 2.69892
+---
+_uuid: bf1f97d9-6a1f-4331-b367-bc81c4dd008c
+angular_size: 2.69892
+annotation: '{"channel": "noirlab", "itemid": "noao-m30", "publishedUTCISO8601": "2020-06-30T21:34:16+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -23.178918510983255
+description: M30, or NGC7099, a globular cluster in the constellation Capricornus,
+  is about 75 light-years across and about 26,000 light-years away. This image was
+  taken in July 1997 at the Kitt Peak 0.9-meter telescope, during the Research Experiences
+  for Undergraduates (REU) program operated at the Kitt Peak National Observatory
+  and supported by the National Science Foundation.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m30/L{1}X{2}Y{3}.png
+name: M30, NGC 7099
+ra_hr: 21.6728725983792
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m30/thumb.jpg
+zoom_level: 2.69892
+---
+_uuid: 5d36f254-6d7b-4781-8099-f0f6e8698ac1
+angular_size: 7.907603823745559
+annotation: '{"channel": "noirlab", "itemid": "noao-m39", "publishedUTCISO8601": "2004-06-29T19:03:39+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 48.464070800144114
+description: M39 is a loose, widely spaced open cluster in the constellation Cygnus.
+  Quite close to Earth at about 800 light-years away, M39 has around 30 members and
+  is two to three hundred million years old. This picture is a combination of 33 dithered
+  frames in BVR colors taken with the Mosaic camera at the WIYN 0.9-meter telescope
+  on Kitt Peak, near Tucson, Arizona, on the night of September 15th, 2003. This camera
+  uses eight separate CCD detectors to cover a large area of the sky, but requires
+  small dither motions between multiple exposures to fill in the gaps between the
+  individual chips.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m39/L{1}X{2}Y{3}.png
+name: M39, NGC 7092
+ra_hr: 21.53028081313586
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m39/thumb.jpg
+zoom_level: 7.907603823745559
+---
+_uuid: 94af92ac-0ae5-4e97-a639-8358e32bece5
+angular_size: 2.2326677999999998
+annotation: '{"channel": "noirlab", "itemid": "noao-mwp1", "publishedUTCISO8601":
+  "2020-06-30T21:34:08.437788+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 34.1973031867715
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. MWP1 is a very
+  usually shaped, unusually large, and unusually old, planetary nebulae. The progenitor
+  star is also one of the hottest stars known, so hot it is producing large amounts
+  of X-rays. The image was generated with observations in the Oxygen [OIII] (blue)
+  and Hydrogen-Alpha (orange) filters. In this image, North is up, East is to the
+  left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-mwp1/L{1}X{2}Y{3}.png
+name: Planetary Nebula MWP1
+ra_hr: 21.286306665665897
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-mwp1/thumb.jpg
+zoom_level: 2.2326677999999998
+---
+_uuid: 9bdfce4e-1a23-49ba-86f4-3570312775bf
+angular_size: 1.7237999999999998
+annotation: '{"channel": "noirlab", "itemid": "noao-n7129", "publishedUTCISO8601":
+  "2020-06-30T21:34:10.354659+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 66.09816666015055
+description: NGC7129 is a star-forming and photodissociation region and reflection
+  nebula in the constellation Cepheus. Studies suggest that the principal stars in
+  this region are well under a million years old, and are all still contributing to
+  further star formation. To the right somewhat below center in this image, those
+  of you with good eyesight, clear screens, and a good dose of wishful thinking, should
+  be able to see two small red patches, which constitute the Herbig Haro object number
+  103. In fact, this complex region contains several HH objects, of which HH103 is
+  the brightest and the only one visible in this relatively shallow picture. HH objects
+  are formed when the energetic outflow from a young stellar object (on its way to
+  becoming a full-fledged star) ionizes a slightly denser part of the interstellar
+  medium, which then glows in the red light of H-alpha, given off as the hydrogen
+  recombines. This energetic region also includes several molecular masers. This picture
+  was obtained during the year 2000 Research Experiences for Undergraduates program,
+  funded by the National Science Foundation, using the Kitt Peak National Observatory&#x27;s
+  2.1-meter telescope.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-n7129/L{1}X{2}Y{3}.png
+name: NGC 7129 in Cepheus
+ra_hr: 21.714656497526697
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-n7129/thumb.jpg
+zoom_level: 1.7237999999999998
+---
+_uuid: 0ecabe29-a9ad-4081-b22f-9be71eb18bb2
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc7023", "publishedUTCISO8601":
+  "2020-06-30T21:34:10.306273+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 68.1210186056888
+description: This image was obtained with the wide-field view of the Mosaic Camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory on August 29th,
+  2009. NGC 7023, also known as the Iris Nebula because of its flower-like shape,
+  is a bright reflection nebula. The bluish glow of the nebula comes from a hot, massive
+  star at the center of the nebula, named HD 200775. Blue light from the star is scattered
+  off dust grains in the nebula, giving it its distinctive color. The dust can also
+  be seen on the outer portions of the nebula, where it has a faint brownish color
+  and blocks out stars behind it. It was observed in the filters B (blue), V (green),
+  R (orange) and Hydrogen-Alpha (red). The image is rotated 30 degrees CCW from North
+  is up, East is to the left.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc7023/L{1}X{2}Y{3}.png
+name: Iris Nebula NGC 7023
+ra_hr: 21.024535874722595
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc7023/thumb.jpg
+zoom_level: 3.77289432
+---
+_uuid: d224a021-061a-4f77-85a5-f87b8405fa51
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc7129", "publishedUTCISO8601":
+  "2020-06-30T21:53:16+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 66.11305541386305
+description: NGC 7129 is a star-forming region and reflection nebula in the constellation
+  of Cepheus. It is about 3000 light years away from the Earth. The stars in this
+  nebula are very young, only about a million years old. The red blobs above and below
+  the nebula are Herbig Haro objects, which are the result of jets of gas streaming
+  away from young stars in the nebula.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc7129/L{1}X{2}Y{3}.png
+name: Star forming region NGC 7129
+ra_hr: 21.717802643649406
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc7129/thumb.jpg
+zoom_level: 2.5063113599999993
+---
+_uuid: fb470001-260c-4b83-85e0-1551fb7302f0
+annotation: '{"channel": "noirlab", "itemid": "noao-vdb141", "publishedUTCISO8601":
+  "2020-06-30T21:34:03+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 68.26127541119344
+description: This image was obtained with the wide-field view of the Mosaic Camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. vdB 141 is a
+  reflection nebula located in the constellation Cepheus. Sometimes referred to as
+  the ghost nebula, its awkward name is its catalog number in Sidney van den Bergh&#x27;s
+  catalog of reflection nebulae, published in 1966. Several stars are embedded in
+  the nebula. Their light gives it a ghoulish brown color. North is down and East
+  is to the right. Imaged August 28, 2009.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-vdb141/L{1}X{2}Y{3}.png
+name: Ghost Nebula, vdB 141
+ra_hr: 21.275592567606044
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-vdb141/thumb.jpg
+zoom_level: 1.51031808
+---
+_uuid: bb68628c-c184-4c63-a205-71e4e982f425
+annotation: '{"channel": "noirlab", "itemid": "noao-vdb141se", "publishedUTCISO8601":
+  "2020-06-30T21:34:13.048875+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 68.06746025559474
+description: This image was obtained with the wide-field view of the Mosaic Camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. This globule
+  is located just south of vdB 141, a reflection nebula located in the constellation
+  Cepheus. This very faint nebula looks like a bird about to take flight. North is
+  down and East is to the right. Imaged August 28, 2009.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-vdb141se/L{1}X{2}Y{3}.png
+name: vdB 141 South
+ra_hr: 21.259878997865904
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-vdb141se/thumb.jpg
+zoom_level: 1.5103180799999998
+---
+_uuid: 6dbc212f-52d6-4cd2-bbeb-92c61541c83f
+annotation: '{"channel": "noirlab", "itemid": "noao0702b", "publishedUTCISO8601":
+  "2007-01-07T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 57.00560310167066
+description: Barnard 163 is a dark nebula within IC1396, a very large emission nebula
+  complex in the constellation Cepheus. This interstellar cloud was discovered by
+  Edward Emerson (E. E.) Barnard (1857-1923), an American astronomer and pioneer of
+  astrophotography who began as an amateur comet hunter, earned a degree in mathematics
+  and later worked at Lick Observatory and the University of Chicago. He is also the
+  namesake of Barnard’s star, the second closest known star system to Earth.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0702b/L{1}X{2}Y{3}.png
+name: Barnard 163
+ra_hr: 21.698535080120315
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0702b/thumb.jpg
+zoom_level: 6.095764799999999
+---
+_uuid: c3fee2d2-0754-4299-9f93-e05b55022f0f
+annotation: '{"channel": "noirlab", "itemid": "noao1507a", "publishedUTCISO8601":
+  "2015-11-11T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 57.48173014132636
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the Mayall 4-meter telescope at Kitt Peak National Observatory. IC 1396 is a
+  giant emission nebula that is over 3 degrees in diameter. It is illuminated by a
+  hot, massive O-type star (HD 206267) near its center. The star is not visible in
+  this image- it is off of the top edge. This image is of IC 1396A, a dark, dense
+  cloud of gas embedded in the nebula. It is informally known as the “Elephant Trunk
+  Nebula” because of its distinctive shape. Images of other parts of IC 1396 are also
+  available in this gallery. The image was generated with observations in the Hydrogen
+  alpha (red), Sulphur [SII] (blue) and I (orange) filters. In this image, North is
+  right, East is up.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao1507a/L{1}X{2}Y{3}.png
+name: IC 1396A Elephant Trunk Nebula
+ra_hr: 21.59323208602662
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao1507a/thumb.jpg
+zoom_level: 5.097710422659366
+---
 _uuid: 2dd3dc6f-7888-405a-9b04-65119ae07c14
 angular_size: 1.0
 classification: Nebula

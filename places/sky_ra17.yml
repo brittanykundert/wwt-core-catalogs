@@ -7,6 +7,413 @@ foreground_image_set_url: http://cdn.worldwidetelescope.org/wwtweb/g360.aspx?q={
 name: GLIMPSE 360
 ra_hr: 17.75
 ---
+_uuid: e42c19af-e7ca-4a5a-b76d-14d1e11d04cd
+angular_size: 0.12200495826173952
+annotation: '{"channel": "noirlab", "itemid": "gemini-20080825-galactic-center-abu-0001",
+  "publishedUTCISO8601": "2004-09-01T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.007052084087764
+description: 'The center of our Milky Way Galaxy showing emission from hot gas that
+  will either form stars or feed the supermassive black hole at the center of our
+  galaxy. Technical Details: The image quality for this Brackett-alpha (hydrogen)
+  line image is FWHM=0.35 arcsec. This image was obtained with the &quot;Abu&quot;
+  thermal-infrared camera built by the National Optical Astronomy Observatory.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini-20080825-galactic-center-abu-0001/L{1}X{2}Y{3}.png
+name: Galactic Center in Thermal IR
+ra_hr: 17.761171186585173
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini-20080825-galactic-center-abu-0001/thumb.jpg
+zoom_level: 0.12200495826173952
+---
+_uuid: a01ae5cb-1826-4f6a-b3a3-5b1916614c42
+angular_size: 0.117850823341629
+annotation: '{"channel": "noirlab", "itemid": "gemini-20080825-m2-9-0001", "publishedUTCISO8601":
+  "2005-11-22T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -10.14227627456928
+description: 'Color composite adaptive optics image of the planetary nebula M2-9 using
+  the ALTAIR adaptive optics system on Gemini North. This image reveals remarkable
+  details in the dynamic gas outflows from a dying star. It is thought that our Sun
+  might meet a similar fate in 4-5 billion years once its hydrogen nuclear fuel becomes
+  scarce and instabilities expel gas into space. The concentric shells of gas are
+  still a mystery to astronomers and these data will help to understand the complexities
+  surrounding this beautiful object. Technical Details: Image made from near-infrared
+  images in K&#x27; band (green), K+H2=1-0 (violet) and FeII (orange). Field of view
+  is 38.5 x 42.5 arcseconds with the Gemini Near Infrared Imager (NIRI) at f/14.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini-20080825-m2-9-0001/L{1}X{2}Y{3}.png
+name: M2-9 with Adaptive Optics
+ra_hr: 17.093875712156702
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini-20080825-m2-9-0001/thumb.jpg
+zoom_level: 0.117850823341629
+---
+_uuid: d0ed918a-681c-4ab2-80a6-f81b5d78abbf
+annotation: '{"channel": "noirlab", "itemid": "gemini-20080825-ngc6357-0001", "publishedUTCISO8601":
+  "2004-09-01T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -34.17967474762956
+description: 'Star forming region in Scorpius obtained with Gemini South using the
+  University of Florida&#x27;s &quot;Flamingos-I&quot; near-infrared imager/spectrograph.
+  Technical Details: Made from J, H and K-short band images with a mean image quality
+  of FWHM = 0.56 arcsec.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini-20080825-ngc6357-0001/L{1}X{2}Y{3}.png
+name: Star Forming Region NGC 6357
+ra_hr: 17.413584623797068
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini-20080825-ngc6357-0001/thumb.jpg
+zoom_level: 0.23481443491679466
+---
+_uuid: 204336d8-a89c-4df7-a60b-029efa223c14
+angular_size: 0.016560026797611094
+annotation: '{"channel": "noirlab", "itemid": "gemini-bowshock-color", "publishedUTCISO8601":
+  "2000-10-16T20:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -28.9999496473917
+description: 'The object, known by the unglamorous name of IRS8, was only an ill-defined
+  smudge until Gemini came along. Now, the Gemini telescope&#x27;s advanced optics
+  show that IRS8 appears to be a star that is plowing through a poorly understood
+  gas and dust cloud near the galactic center. Moving relative to the cloud, the star
+  creates a very obvious bow-shock wave, similar to the wave that forms in front of
+  a boat as it goes through water. See Image Release for details Technical Details:
+  Images obtained in July and August 2000 using Gemini with Hokupa&#x27;a/QUIRC Adaptive
+  Optics system. Each image is made from H (1.65µm) and K&#x27; (2.1µm) filters. Pixel
+  scale is approximately 0.02 arcsec/pixel. Integration times ranged from 10-15 minutes
+  pe'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini-bowshock-color/L{1}X{2}Y{3}.png
+name: IRS-8 Bow-Shock
+ra_hr: 17.761160063106
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini-bowshock-color/thumb.jpg
+zoom_level: 0.016560026797611094
+---
+_uuid: 1626ec02-8e5c-4f34-a262-a7d82c66c302
+angular_size: 0.11191783560821496
+annotation: '{"channel": "noirlab", "itemid": "gemini-gccolor", "publishedUTCISO8601":
+  "2004-08-17T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.003600697108613
+description: 'This extremely high resolution image of the region around the galactic
+  center (at lower right) shows new details including a bow-shock structure in an
+  infrared source called IRS-8 (see close-up on this album). See Image Release for
+  details Technical Details: Image is moasic of 4 images combined to produce the largest,
+  high-resolution image of the region around the galactic center ever obtained (as
+  of 2000). Images obtained in July and August 2000 using Gemini with Hokupa&#x27;a/QUIRC
+  Adaptive Optics system. Ea'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini-gccolor/L{1}X{2}Y{3}.png
+name: Galactic Center
+ra_hr: 17.761315158323363
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini-gccolor/thumb.jpg
+zoom_level: 0.11191783560821496
+---
+_uuid: 07efee3d-c14b-412d-a9d6-9914cd0591c1
+annotation: '{"channel": "noirlab", "itemid": "geminiann02010a", "publishedUTCISO8601":
+  "2002-11-06T05:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.00358692309431
+description: Hokupa&#x27;a image of full field of Galactic Center (JHK&#x27; color
+  composite).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/geminiann02010a/L{1}X{2}Y{3}.png
+name: Hokupa'a image of full field of Galactic Center
+ra_hr: 17.76132561675437
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/geminiann02010a/thumb.jpg
+zoom_level: 0.11188836155473776
+---
+_uuid: 638dd40c-1a03-47f7-a2a6-7024a3a6a8f9
+angular_size: 0.016560026797611094
+annotation: '{"channel": "noirlab", "itemid": "geminiann02010b", "publishedUTCISO8601":
+  "2002-11-06T05:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -28.99967025375384
+description: RS-8 smaller field JHK&#x27; color composite and K&#x27; image with stars
+  subtracted. See https://www.gemini.edu/gallery/media/irs-8-bow-shock for more information.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/geminiann02010b/L{1}X{2}Y{3}.png
+name: IRS-8 Bow-Shock
+ra_hr: 17.761144699288558
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/geminiann02010b/thumb.jpg
+zoom_level: 0.016560026797611094
+---
+_uuid: 8f7b6d9d-34b7-406d-bbbc-6cb23c3da28b
+annotation: '{"channel": "noirlab", "itemid": "noao-02637", "publishedUTCISO8601":
+  "2020-06-30T21:34:14+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -32.24065288376476
+description: The open star cluster M6, or NGC6405, is also known as the Butterfly
+  Cluster. M6 is visible to the naked eye in the constellation Scorpius. The visually
+  most conspicuous star is rather reddish and is actually a slow, semiregular variable.
+  M6 is variously estimated as between 50 and 100 million years old. The images were
+  taken in June 1995 at the Burrell Schmidt telescope of Case Western Reserve University&#x27;s
+  Warner and Swasey Observatory, during the Research Experiences for Undergraduates
+  (REU) program operated at the Kitt Peak National Observatory and supported by the
+  National Science Foundation.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02637/L{1}X{2}Y{3}.png
+name: M6, NGC 6405; Butterfly Cluster
+ra_hr: 17.670760408875605
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02637/thumb.jpg
+zoom_level: 7.47864
+---
+_uuid: 3ba63830-f154-462b-b50a-988afed4d6f0
+angular_size: 0.7596959999999999
+annotation: '{"channel": "noirlab", "itemid": "noao-a102", "publishedUTCISO8601":
+  "2020-06-30T21:33:46+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 49.0366019576932
+description: 'This is a combination of several exposures taken on the night of June
+  22nd 1995 (UT of observation 23/06/95:06:18 to 09:34) with a CCD detector on loan
+  from Morley Block and the manufacturer, Scientific Imaging Technologies (SITe),
+  Inc. This was one of the first of their new 2048x4096, 15 micron, three side buttable,
+  thinned, back-illuminated devices, quickly inserted into a Kitt Peak standard dewar
+  and installed on the WIYN 3.5m telescope. Three exposures were taken through each
+  of three different filters approximating red (five minutes each), blue (fifteen
+  minutes each), and green (ten minutes each). The result is therefore a combination
+  of an hour and a half of observations. The individual colors were aligned and combined
+  in the computer to create this (approximately) true color picture. The pixel size
+  on the sky is 0.139 arc seconds; after combination, the final size is 1900x3960,
+  or about 4.4x9.2 arc minutes. The image quality was changing during the exposure
+  sequence, and to make the final picture the &quot;seeing&quot; measurement (average
+  full-width half-maximum (FWHM) for several stars) had to be matched across all nine
+  of the original frames, for a final value of about 1.0 arc seconds, although the
+  best single frame measured at 0.7 arc seconds. Orientation: N to the right, E up.
+  About this object This interesting interacting spiral/elliptical pair of galaxies
+  was first described in the Catalogue of Peculiar Galaxies, compiled by Halton Arp
+  in 1966. It is also pair number 508 in Igor Karachentsev&#x27;s catalog of binary
+  galaxies. The large spiral galaxy (type SABb pec) shows long blue tidal tails caused
+  by its interaction with the southerly elliptical. In fact, this &quot;elliptical&quot;
+  is much the more interesting galaxy, despite its more nondescript appearance. It
+  is a broad line radio galaxy with an unresolved core and a sub-parsec VLBI component
+  at 6cm. It is also an intermediate type Seyfert, meaning it has an active nucleus,
+  and it shows a double-peaked emission line profile (separation about 5000 km/s),
+  which is considered to be strong evidence for the presence of an accretion disk,
+  probably around a central supermassive black hole. In this picture we also see the
+  presence of numerous more distant background galaxies, showing as clusters of small,
+  diffuse red objects and scattered diffuse blue objects. These objects are very difficult
+  to detect and require excellent conditions and superb optics. Location: 17 18 00
+  +49 04 (1950.0), constellation of Hercules (just!). Distance: approximately 320
+  million light-years.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-a102/L{1}X{2}Y{3}.png
+name: Interacting galaxy system Arp 102
+ra_hr: 17.31993139226899
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-a102/thumb.jpg
+zoom_level: 0.7596959999999999
+---
+_uuid: 4a41b0cc-d1d1-471b-8adf-95662ded7796
+angular_size: 1.9740672
+annotation: '{"channel": "noirlab", "itemid": "noao-m14", "publishedUTCISO8601": "2020-06-30T21:34:15+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -3.245631053573626
+description: M14 is a somewhat looser globular cluster than many, with a very small
+  ellipticity (deviation from being exactly circular on the sky). Appearing in the
+  constellation Ophiuchus, it is about 29000 light-years away and about 72 light-years
+  across. This picture was made from CCD images taken at the KPNO 0.9-meter telescope
+  in April of 1998. Image size 11.6 arc minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m14/L{1}X{2}Y{3}.png
+name: M14, NGC 6402
+ra_hr: 17.626645160150005
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m14/thumb.jpg
+zoom_level: 1.9740672
+---
+_uuid: 7f33435c-1ad4-4bf2-8869-8c32b2aa4708
+angular_size: 2.6333748
+annotation: '{"channel": "noirlab", "itemid": "noao-m19", "publishedUTCISO8601": "2020-06-30T21:34:15+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -26.264292435913493
+description: M19 is a globular cluster in the constellation of Ophiuchus, located
+  about nine degrees above (north) of the galactic plane and slightly west of the
+  line of sight from Earth to the galactic center. It&#x27;s actually on the opposite
+  side of the galactic center from Earth, so despite being over 28000 light-years
+  from Earth, M19 is one of the Messier globulars closest to the center of the Milky
+  Way, at a little more than 5000 light-years. M19 is moving away from us at a rate
+  of 146 kilometers per second. M19 is a rich, fairly dense globular cluster, and
+  one of the most elongated. The distance along its major axis is around 65 light-years.
+  The brightest stars have an average magnitude of 14.8, and although its total absolute
+  magnitude is -9, the apparent magnitude to us is 6.8. This is bright enough for
+  easy viewing through binoculars and small telescopes. Because of its location near
+  the plane and central region of the Milky Way, it has a background of faint dust
+  and appears embedded in a rich field of stars. As with other globular clusters,
+  which are the oldest, densest, and most populous star clusters in the Milky Way,
+  M19 is made up of stars that are all the same age. These are amongst the oldest
+  stars in our Galaxy, at an age of about 13 billion years. Because the stars in a
+  globular cluster are all the same age and all at the same distance from Earth, they
+  provide an excellent laboratory in which astronomers can study stellar evolution.
+  The stars of a globular cluster can also be used to understand &quot;standard candles&quot;,
+  which is to say, types of stars that all have the same intrinsic brightness, and
+  can therefore be used to measure distances. One such type is RR-Lyrae variables,
+  only four of which are observed in M19. This picture was created from six images
+  taken in July 1997 at the KPNO 0.9-meter telescope during the summer Research Experiences
+  for Undergraduates (REU) program operated at the Kitt Peak National Observatory
+  and supported by the National Science Foundation. Image size 15.9x15.5 arc minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m19/L{1}X{2}Y{3}.png
+name: M19, NGC 6273
+ra_hr: 17.0435899244491
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m19/thumb.jpg
+zoom_level: 2.6333748
+---
+_uuid: e620d74b-d085-4e41-b52e-5534d85a4699
+angular_size: 5.890867199999999
+annotation: '{"channel": "noirlab", "itemid": "noao-m23", "publishedUTCISO8601": "2020-06-30T21:34:16+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -19.00209116683952
+description: 'The irregular star cluster M23, or NGC6494, is a bright, large, rich,
+  rather attractive, cluster in the constellation Sagittarius. Some 2200 light-years
+  away, M23 has a diameter of about 20 light-years (around 30 minutes of arc): this
+  picture is 35 minutes across. M23 is over 200 million years old. As M23 is in the
+  galactic plane, the background stars are increasingly reddened by dust absorption,
+  and this image has several black areas where any distant stars are hidden by the
+  thick dust. The bright star to the NW (upper right) is a foreground object. This
+  true-color picture was created from six images taken in the BVR pass-bands at the
+  Burrell Schmidt telescope of Case Western Reserve University&#x27;s Warner and Swasey
+  Observatory. The Burrell Schmidt is located on Kitt Peak, near Tucson, Arizona.
+  The images were taken in July 1995 during the Research Experiences for Undergraduates
+  (REU) program operated at the Kitt Peak National Observatory and supported by the
+  National Science Foundation.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m23/L{1}X{2}Y{3}.png
+name: M23, NGC 6494
+ra_hr: 17.94727079044008
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m23/thumb.jpg
+zoom_level: 5.890867199999999
+---
+_uuid: b89cbf56-566b-4bb5-be8f-1a430d60fcb9
+annotation: '{"channel": "noirlab", "itemid": "noao-m7", "publishedUTCISO8601": "2020-06-30T21:34:14+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -34.7717238405844
+description: M7 is an open star cluster in the constellation Scorpius, set against
+  the dramatic backdrop of the Milky Way, stars scattered like dust. This provides
+  an interesting contrast with its near neighbor M6. M7 was known as early as the
+  year 130 AD (or 130 CE), when it was mentioned by Ptolemy. At its (uncertain) distance
+  of 800 light-years, M7&#x27;s 80-odd stars spread over some 20 light-years and are
+  in excess of 200 million years old. Recent work suggests a distance of 1000 light-years,
+  which increases the size to 25 light-years but does not affect the age. This color
+  composite was created from CCD images taken at the Burrell Schmidt telescope of
+  the Warner and Swasey Observatory of the Case Western Reserve University, located
+  on Kitt Peak in southwestern Arizona. The contributing images were taken in June
+  and July of 1995 during the Research Experiences for Undergraduates (REU) program
+  operated at the Kitt Peak National Observatory and supported by the National Science
+  Foundation.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m7/L{1}X{2}Y{3}.png
+name: M7, NGC 6475
+ra_hr: 17.89656689448766
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m7/thumb.jpg
+zoom_level: 10.067400000000001
+---
+_uuid: ad887f5d-72e4-44f1-91f5-a9df9a0c33fe
+annotation: '{"channel": "noirlab", "itemid": "noao-m92", "publishedUTCISO8601": "2020-06-30T21:53:14+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 43.14200940589322
+description: M92 is a globular cluster in the constellation Hercules, slightly further
+  away and a little younger than its near neighbor M13. M92 is about 28000 light-years
+  away, over 100 light-years across, and approximately 15 billion years old. It&#x27;s
+  even visible to the naked eye under excellent sky conditions. This approximately
+  true-color picture was created from images taken in June 1996 using BVR colors,
+  at the Burrell Schmidt telescope of Case Western Reserve University&#x27;s Warner
+  and Swasey Observatory located on Kitt Peak, near Tucson, Arizona, during the Research
+  Experiences for Undergraduates (REU) program operated at the Kitt Peak National
+  Observatory and supported by the National Science Foundation. Image size 28.8 arc
+  minutes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m92/L{1}X{2}Y{3}.png
+name: M92, NGC 6341
+ra_hr: 17.285659545632413
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m92/thumb.jpg
+zoom_level: 4.88988
+---
+_uuid: e3670b46-ec3a-4f5d-b2e7-44e87f33b5a2
+annotation: '{"channel": "noirlab", "itemid": "noao-ngc6334", "publishedUTCISO8601":
+  "2020-06-30T21:34:09+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.95920683659464
+description: This image of emission nebula NGC6334 (the Cat’s Paw Nebula), a star-forming
+  region in the constellation Scorpius, was taken in 2007 using the Mosaic-2 imager
+  on the Blanco 4-meter telescope at Cerro Tololo Inter-American Observatory. The
+  colors of the nebula are reddened by intervening dust in the plane of the Milky
+  Way galaxy. The image was taken as part of a continuing campaign of public-release
+  images using both NOAO 4-meter telescopes.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-ngc6334/L{1}X{2}Y{3}.png
+name: NGC 6334, The Cat’s Paw Nebula
+ra_hr: 17.338182716609538
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-ngc6334/thumb.jpg
+zoom_level: 6.0427247999999985
+---
+_uuid: 06d7e4fa-a22d-432c-a55a-e70e7ef5b305
+annotation: '{"channel": "noirlab", "itemid": "noao1308a", "publishedUTCISO8601":
+  "2013-06-05T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.956572869647864
+description: In this false-color image of NGC 6334, red represents the Herschel 70
+  micron IR image, green represents the IRAC 8 micron image and blue represents the
+  NEWFIRM 1 micron J band. The region is about 70 light years wide.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao1308a/L{1}X{2}Y{3}.png
+name: NGC 6334 - A Mini Starburst Region?
+ra_hr: 17.33386645861173
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao1308a/thumb.jpg
+zoom_level: 7.710595527881031
+---
+_uuid: e95d3f0e-4f5a-487b-84f5-e480d8f40fa4
+angular_size: 2.5306535741455027
+annotation: '{"channel": "noirlab", "itemid": "noirlab2027b", "publishedUTCISO8601":
+  "2020-10-27T07:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.199493702348427
+description: This image of a region near the center of the Milky Way galaxy covers
+  0.5 by 0.25 degrees on the sky (an area about twice as wide as the full Moon) and
+  contains over 180,000 stars. The image captures a portion of our galaxy about 220
+  by 110 light-years across. It was taken with the Dark Energy Camera on the Víctor
+  M. Blanco 4-meter Telescope at the Cerro Tololo Inter-American Observatory in Chile,
+  a Program of NSF’s NOIRLab. By studying the brightnesses of these stars at different
+  wavelengths of light, astronomers were able to determine how many heavy elements
+  they contain, which is related to their formation history.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2027b/L{1}X{2}Y{3}.png
+name: Center of the Milky Way with DECam
+ra_hr: 17.943008018452204
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2027b/thumb.jpg
+zoom_level: 2.5306535741455027
+---
+_uuid: 38b1846a-1e7f-42cb-b794-679e6cd3146d
+angular_size: 0.33398723493574567
+annotation: '{"channel": "noirlab", "itemid": "noirlab2028c", "publishedUTCISO8601":
+  "2020-11-09T04:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 38.155556213804076
+description: An infrared image of the cold brown dwarf BDR J1750+3809 taken with Gemini
+  North’s acquisition camera for the Gemini Near-Infrared Spectrograph (GNIRS) and
+  Gemini’s Near InfraRed Imager and spectrograph (NIRI). The image is a color composite
+  showing the infrared filters in chromatic order, which is why the brown dwarf appears
+  blue.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2028c/L{1}X{2}Y{3}.png
+name: Infrared detection of the cold brown dwarf
+ra_hr: 17.833657123627795
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2028c/thumb.jpg
+zoom_level: 0.33398723493574567
+---
 _uuid: b171b6bc-425f-4991-8573-1bf2fc47062a
 classification: ''
 constellation: ''

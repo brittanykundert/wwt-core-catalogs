@@ -1,3 +1,177 @@
+_uuid: 7e355feb-ddda-4e4c-8456-b164bb50cc05
+annotation: '{"channel": "noirlab", "itemid": "gemini-2013-rcw41-legacy", "publishedUTCISO8601":
+  "2020-06-30T21:55:20+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -47.94546049679736
+description: This near-infrared image obtained with GeMS adaptive optics system resolves
+  the stars inside RCW 41, a star-forming region harboring a massive star cluster
+  surrounded by dust and gas. It lies in the Vela Molecular Ridge, a vast star-forming
+  complex in the plane of our Milky Way galaxy.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini-2013-rcw41-legacy/L{1}X{2}Y{3}.png
+name: RCW 41
+ra_hr: 9.278864815104434
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/gemini-2013-rcw41-legacy/thumb.jpg
+zoom_level: 0.2460679555468435
+---
+_uuid: 3efbe05d-7595-42c0-ae8b-1c3823e4af99
+angular_size: 1.182486237253877
+annotation: '{"channel": "noirlab", "itemid": "geminiann09013c", "publishedUTCISO8601":
+  "2009-06-24T13:41:57+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 69.68736222923432
+description: A ground- and space-based HST/WIYN composite image of M82 and its optically
+  bright superwind. This has been colour-coded to show its supergalactic wind running
+  left-right (north-south) and a nearly vertical disk of stars. Broad blue, green
+  and red filters were used to render the relatively smooth stellar disk. Purple represents
+  emission from hydrogen.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/geminiann09013c/L{1}X{2}Y{3}.png
+name: ground- and space-based HST/WIYN composite image of M82
+ra_hr: 9.931561884256737
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/geminiann09013c/thumb.jpg
+zoom_level: 1.182486237253877
+---
+_uuid: 779908de-dc99-4e2f-a749-480d3c130348
+annotation: '{"channel": "noirlab", "itemid": "noao-02283", "publishedUTCISO8601":
+  "2020-06-30T21:33:52.019624+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 69.07915205824399
+description: M81, a type Sb spiral galaxy in the constellation Ursa Major, as seen
+  by the KPNO 4-meter Mayall telescope in 1975.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-02283/L{1}X{2}Y{3}.png
+name: M81, NGC 3031
+ra_hr: 9.925340331158507
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-02283/thumb.jpg
+zoom_level: 4.515305399999999
+---
+_uuid: 6fd0ed1a-2e07-4c1a-9e0c-7fc007eb9fb8
+angular_size: 3.9423510000000004
+annotation: '{"channel": "noirlab", "itemid": "noao-m81", "publishedUTCISO8601": "2020-06-30T21:33:51.923135+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 69.06804816209187
+description: M81, a type Sb spiral galaxy in the constellation Ursa Major. This composite
+  color image was created from CCD observations made at the Kitt Peak National Observatory&#x27;s
+  0.9-meter telescope in late December 1994.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m81/L{1}X{2}Y{3}.png
+name: M81, NGC 3031
+ra_hr: 9.929675229580546
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m81/thumb.jpg
+zoom_level: 3.9423510000000004
+---
+_uuid: 3229df54-12da-46be-b5c8-de1baca330be
+annotation: '{"channel": "noirlab", "itemid": "noao-m81m82", "publishedUTCISO8601":
+  "2020-06-30T21:33:52+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 69.31928190292632
+description: This image was obtained with the wide-field view of the Mosaic camera
+  on the KPNO 0.9m-meter telescope at Kitt Peak National Observatory. M81 (the spiral
+  galaxy on the left) and M82 (the galaxy on the right) are two relatively nearby
+  galaxies that are gravitationally interacting with each other. This interaction
+  is triggering the formation of new stars in M82 at a massive rate, which can be
+  seen from the filaments of red hydrogen gas in the galaxy. The very faint irregular
+  dwarf galaxy Holmberg IX can barely be seen above M81. The image was generated with
+  observations in B (blue), V (cyan), R (green), I (orange) and Hydrogen-Alpha (red).
+  In this image, North is right, East is up.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m81m82/L{1}X{2}Y{3}.png
+name: Galaxies M81 & M82
+ra_hr: 9.92159419991845
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m81m82/thumb.jpg
+zoom_level: 5.587111200000001
+---
+_uuid: 9cf5f66d-185f-4c06-98be-7337889d964b
+angular_size: 1.3139007599999997
+annotation: '{"channel": "noirlab", "itemid": "noao-m82", "publishedUTCISO8601": "2020-06-30T21:33:52.374120+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 69.68084572395935
+description: M82, an irregular galaxy in the constellation Ursa Major. This composite
+  color image was created from CCD observations made at the Kitt Peak National Observatory&#x27;s
+  0.9-meter telescope in late December 1994.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao-m82/L{1}X{2}Y{3}.png
+name: M82, NGC 3034
+ra_hr: 9.925444701804707
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao-m82/thumb.jpg
+zoom_level: 1.3139007599999997
+---
+_uuid: 74a91a52-8c56-4b93-9aeb-d752d84e45db
+annotation: '{"channel": "noirlab", "itemid": "noao0404a", "publishedUTCISO8601":
+  "2004-05-21T00:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 69.67920364732797
+description: This image is a color-coded picture of the archetypal starburst galaxy
+  M82. It shows the horizontal stellar disk of the galaxy, which harbors its active
+  star formation, and a perpendicular supergalactic wind of ionized gas powered by
+  the energy released in the starburst. To make this image, data from the WIYN 3.5-meter
+  telescope on Kitt Peak were combined with data from the WFPC2 camera on the Hubble
+  Space Telescope. Purple represents emission in ionized hydrogen (H-alpha) and ionized
+  nitrogen, and the green is ionized sulfur in the WIYN data. In the HST image, these
+  colors refer to H-alpha and nitrogen separately. Note the varying angular resolution
+  of the dust lanes in the central part of the superwind on either side of the stellar
+  disk. These data are being used in a study of the connection between structures
+  within M82 and its galactic superwind. This image was first presented at the “Essential
+  Science in Hubble’s Final Years” symposium, held 3-6 May 2004 at the Space Telescope
+  Science Institute. The WIYN 3.5-meter and 0.9-meter telescopes on Kitt Peak are
+  operated by a consortium of the University of Wisconsin, Indiana University, Yale
+  University, and the National Optical Astronomy Observatory (NOAO).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noao0404a/L{1}X{2}Y{3}.png
+name: Starburst Galaxy M82
+ra_hr: 9.931480820919813
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0404a/thumb.jpg
+zoom_level: 1.2804876
+---
+_uuid: ca46a586-3e7f-409b-a488-f33787851aa0
+annotation: '{"channel": "noirlab", "itemid": "noirlab2115a", "publishedUTCISO8601":
+  "2021-04-28T14:00:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 5.328773718113711
+description: Sextans B is an irregular dwarf galaxy, meaning that it is irregularly
+  shaped and smaller than our galaxy, the Milky Way. It lies around 4.5 million light-years
+  from Earth and is located in the constellation Sextans in the southern sky. Captured
+  with the Nicholas U. Mayall 4-meter Telescope, this image of Sextans B features
+  red-colored star-forming regions near the galaxy’s center. Surrounding the galaxy
+  are several bright stars that are located much closer to us in our galaxy, identified
+  by the crisscross patterns created by light interacting with the structure of the
+  telescope, as well as numerous fuzzy-looking background galaxies that appear small
+  because they are much farther away than Sextans B.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2115a/L{1}X{2}Y{3}.png
+name: Sextans B
+ra_hr: 9.99985844779949
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2115a/thumb.jpg
+zoom_level: 1.6685259817684845
+---
+_uuid: fb92c4cf-795f-4eeb-a5ca-67c9b011fb9f
+annotation: '{"channel": "noirlab", "itemid": "noirlab2118a", "publishedUTCISO8601":
+  "2021-05-27T08:30:00+00:00"}'
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 1.306064590379599
+description: Ten areas in the sky were selected as “deep fields” that the Dark Energy
+  Camera imaged several times during the survey, providing a glimpse of distant galaxies
+  and helping determine their 3D distribution in the cosmos. The image is teeming
+  with galaxies — in fact, nearly every single object in this image is a galaxy. Some
+  exceptions include a couple of dozen asteroids as well as a few handfuls of foreground
+  stars in our own Milky Way.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2118a/L{1}X{2}Y{3}.png
+name: Dark Energy Survey deep field image
+ra_hr: 9.98706811690639
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2118a/thumb.jpg
+zoom_level: 1.6392738793702921
+---
 _uuid: bba976a2-b797-4a13-a1b4-f31d699f5840
 classification: ''
 constellation: ''
