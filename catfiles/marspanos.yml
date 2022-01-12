@@ -11,7 +11,6 @@ children:
   searchable: false
   thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia01466
   type: Earth
-  version_dependent: false
 - browseable: true
   children:
   - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002021{Q}?g=182
@@ -54,7 +53,6 @@ children:
   searchable: false
   thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=spiritmarvinpatch
   type: Earth
-  version_dependent: false
 - browseable: true
   children:
   - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001330{Q}?g=182
@@ -75,7 +73,6 @@ children:
   searchable: false
   thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=opportunitydaffypatch
   type: Earth
-  version_dependent: false
 - browseable: true
   children:
   - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002031{Q}?g=182
@@ -84,10 +81,8 @@ children:
   searchable: false
   thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=phoenixpatch
   type: Earth
-  version_dependent: false
 group: Explorer
 name: Panoramas
 searchable: false
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pano
 type: Panorama
-version_dependent: false
