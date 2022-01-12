@@ -449,9 +449,11 @@ def _emit_one(path: Path, idb: ImagesetDatabase, pdb: PlaceDatabase):
                 if spec.startswith("imageset "):
                     f.children.append(idb.get_by_url(spec[9:]))
                 elif spec.startswith("place "):
-                    f.children.append(pdb.reconst_by_id(spec[6:]))
+                    f.children.append(pdb.reconst_by_id(spec[6:], idb))
                 else:
-                    f.children.append(reconst_folder(spec))
+                    assert False, f"unexpected terse folder child `{spec}`"
+            else:
+                f.children.append(reconst_folder(spec))
 
         return f
 
