@@ -1,3 +1,25 @@
+_uuid: bd26e031-448f-4ed7-99bd-c6ea70382abe
+angular_size: 1.0
+classification: Nebula
+constellation: MON
+data_set_type: Sky
+dec_deg: 9.43138888888889
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002100{Q}?g=138
+name: Edifice of Gas and Dust in the Cone Nebula
+ra_hr: 6.68694444444444
+zoom_level: 1.0
+---
+_uuid: 9cc24305-7947-49a4-899a-de1588756e0e
+angular_size: 1.0
+classification: Nebula
+constellation: MON
+data_set_type: Sky
+dec_deg: 9.43138888888889
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010120{Q}?g=138
+name: Cone Nebula;NGC 2264
+ra_hr: 6.68694444444444
+zoom_level: 1.0
+---
 _uuid: fd1bf0da-fa52-4d1a-bfc2-50bf77d4c53d
 angular_size: 1.0
 classification: NebulousCluster
@@ -9,6 +31,39 @@ name: Snowflake Cluster (Far IR)
 ra_hr: 6.68
 zoom_level: 11.0566666666667
 ---
+_uuid: af1f81b3-d891-4650-ad44-f9f9cbf5f1d5
+angular_size: 1.0
+classification: Nebula
+constellation: MON
+data_set_type: Sky
+dec_deg: 9.43138888888889
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003101{Q}?g=138
+name: Dense Gas and Dust Beyond the Outer Layers of the Cone Nebula
+ra_hr: 6.68694444444444
+zoom_level: 1.0
+---
+_uuid: 45732c52-41e6-41c9-a581-5c09d8180447
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: CMA
+data_set_type: Sky
+dec_deg: -21.3747222222222
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003201{Q}?g=138
+name: Spiral Galaxies NGC 2207 and IC 2163
+ra_hr: 6.27333333333333
+zoom_level: 2.0
+---
+_uuid: c90d8827-433d-40c2-8fc3-7575b431ba23
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: CMA
+data_set_type: Sky
+dec_deg: -21.3730555555556
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010011{Q}?g=138
+name: A Grazing Encounter Between Two Spiral Galaxies (NGC 2207 and IC2163)
+ra_hr: 6.27305555555556
+zoom_level: 1.99333333333333
+---
 _uuid: 70caef47-7fd2-400c-930e-57e0985b3e76
 angular_size: 1.0
 classification: NebulousCluster
@@ -19,6 +74,39 @@ foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Snowflake Cluster (Near/Mid IR)
 ra_hr: 6.68
 zoom_level: 11.0566666666667
+---
+_uuid: 12721454-cabd-4c67-a3ec-f1428d2c7443
+angular_size: 1.0
+classification: Galaxy
+constellation: AND
+data_set_type: Sky
+dec_deg: -47.1794444444444
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000013021{Q}?g=182
+name: ESO 255-7;ESO 255-IG007;AM 0626-470
+ra_hr: 6.45638888888889
+zoom_level: 0.836666666666667
+---
+_uuid: ff08e22d-9eca-4f3c-8a14-b4b6bd96c910
+angular_size: 1.0
+classification: Galaxy
+constellation: MON
+data_set_type: Sky
+dec_deg: 4.96361111111111
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002002{Q}?g=138
+name: DSS-I
+ra_hr: 6.52777777777778
+zoom_level: 7.96333333333333
+---
+_uuid: 48ca3d4d-5c8f-425c-a548-95b65a961a31
+angular_size: 1.0
+classification: Galaxy
+constellation: VOL
+data_set_type: Sky
+dec_deg: -74.2369444444444
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003032{Q}?g=138
+name: Ring Galaxy AM 0644-741
+ra_hr: 6.72138888888889
+zoom_level: 1.415
 ---
 _uuid: ba3c9417-8a77-496a-80cd-95eb9e55ca6a
 angular_size: 1.0
@@ -41,6 +129,17 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Snowflake Nebula
 ra_hr: 6.68
 zoom_level: 11.0566666666667
+---
+_uuid: 125dc2fe-2fea-4b8b-a937-07cc17be3fda
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: CAR
+data_set_type: Sky
+dec_deg: -55.9441666666667
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010113{Q}?g=138
+name: Visible-Light and X-Ray Composite Image of Galaxy Cluster 1E 0657-556
+ra_hr: 6.97444444444444
+zoom_level: 2.79833333333333
 ---
 _uuid: 680a1625-e045-448d-bbcf-b62880c7e1fd
 angular_size: 1.0

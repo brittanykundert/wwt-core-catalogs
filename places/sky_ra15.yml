@@ -1,3 +1,47 @@
+_uuid: 4f7adfe5-25e3-4b55-b547-9f0761d45578
+angular_size: 1.0
+classification: Galaxy
+constellation: DRA
+data_set_type: Sky
+dec_deg: 55.7622222222222
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001310{Q}?g=138
+name: NGC 5866;Full Hubble ACS Image of NGC 5866
+ra_hr: 15.1083333333333
+zoom_level: 1.415
+---
+_uuid: b4d1ee84-a359-45c2-ab32-ede6d66c55e2
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: SER1
+data_set_type: Sky
+dec_deg: 20.7588888888889
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010000{Q}?g=138
+name: 'Seyfert''s Sextet: Four Colliding Galaxies, and Two Bystanders'
+ra_hr: 15.9863888888889
+zoom_level: 1.08333333333333
+---
+_uuid: c1abf9d2-a764-44ac-858a-6b6b911cc67c
+angular_size: 1.0
+classification: Galaxy
+constellation: AND
+data_set_type: Sky
+dec_deg: 23.5036111111111
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013331{Q}?g=131
+name: Arp 220;IC 1127;VV 540;KPG 470;UGC 09913
+ra_hr: 15.5822222222222
+zoom_level: 1.40666666666667
+---
+_uuid: 8191a700-02e4-43f8-8705-f74175a1d6ba
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: SER1
+data_set_type: Sky
+dec_deg: 21.4297222222222
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002201{Q}?g=138
+name: Hubble Identifies Primeval Galaxies, Uncovers New Clues to the Universe's Evolution
+ra_hr: 15.8302777777778
+zoom_level: 1.0
+---
 _uuid: ef90dada-34d6-4fb6-a6c7-d39d4eb79ed1
 angular_size: 1.0
 classification: Galaxy
@@ -20,6 +64,39 @@ name: C153
 ra_hr: 15.6864339192667
 zoom_level: 1.0
 ---
+_uuid: e774e1c7-bbc4-4440-9980-06b39d3fd0eb
+angular_size: 1.0
+classification: Galaxy
+constellation: SER1
+data_set_type: Sky
+dec_deg: 21.5852777777778
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000202{Q}?g=138
+name: Ring of Hot Blue Stars Pinwheels Around Yellow Nucleus of Hoag's Object Galaxy
+ra_hr: 15.2875
+zoom_level: 1.0
+---
+_uuid: d52b7553-a69c-4f16-a080-8797d44cef8d
+angular_size: 1.0
+classification: Galaxy
+constellation: DRA
+data_set_type: Sky
+dec_deg: 66.2630555555556
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002222{Q}?g=138
+name: Galaxy C153 in Cluster Abell 2125, Shown in Visible Light
+ra_hr: 15.6861111111111
+zoom_level: 0.491666666666667
+---
+_uuid: 4a77dfba-3e77-4b5f-858e-cd58cdd94930
+angular_size: 1.0
+classification: MultipleStars
+constellation: SER1
+data_set_type: Sky
+dec_deg: 23.5030555555556
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003232{Q}?g=138
+name: Super Star Clusters in Dust-Enshrouded Galaxy
+ra_hr: 15.5825
+zoom_level: 0.5
+---
 _uuid: 2a75ba9d-bb26-46ce-94b3-c8089977475c
 angular_size: 1.0
 classification: Galaxy
@@ -30,6 +107,28 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: NGC 5907;Splinter Galaxy
 ra_hr: 15.2647222222222
 zoom_level: 4.73
+---
+_uuid: f9af31cc-f248-46c5-8193-ba75c0a02c4f
+angular_size: 1.0
+classification: Galaxy
+constellation: AND
+data_set_type: Sky
+dec_deg: -63.1266666666667
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000013012{Q}?g=131
+name: ESO 99-4;ESO 099-G004
+ra_hr: 15.4161111111111
+zoom_level: 1.40666666666667
+---
+_uuid: 83ed8910-d20e-4073-90ea-c587ab30c78d
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 42.7427777777778
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000013132{Q}?g=182
+name: VV 705;Mrk 848;I Zw 107
+ra_hr: 15.3017611111111
+zoom_level: -1.0
 ---
 _uuid: 324b2f6e-a0ea-49e9-a374-d71abcd0bf80
 angular_size: 1.0

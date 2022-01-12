@@ -1,3 +1,47 @@
+_uuid: 53a1a2b0-0678-4a7c-ae78-b04985434e06
+angular_size: 1.0
+classification: PlanetaryNebula
+constellation: CEN
+data_set_type: Sky
+dec_deg: -51.2047222222222
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001020{Q}?g=138
+name: Spiral-Structured Planetary Nebula NGC 5307
+ra_hr: 13.8508333333333
+zoom_level: 0.25
+---
+_uuid: 07049c7e-34c7-4df7-b12b-5d0f338d7e85
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: -1.34472222222222
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002030{Q}?g=138
+name: Galaxies Magnified by Galaxy Cluster Abell 1689's 'Graviational Lens'
+ra_hr: 13.1911111111111
+zoom_level: 1.0
+---
+_uuid: 794b908e-8b5c-492a-b363-cab95c31167b
+angular_size: 1.0
+classification: Galaxy
+constellation: HYA
+data_set_type: Sky
+dec_deg: -26.7786111111111
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002120{Q}?g=138
+name: Warped Edge-On Galaxy ESO 510-G13
+ra_hr: 13.9177777777778
+zoom_level: 0.841666666666667
+---
+_uuid: c509d3a7-dbcc-44d5-b4b1-4803dd84b20c
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: -1.34472222222222
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003200{Q}?g=138
+name: Galaxies Magnified by Galaxy Cluster Abell 1689's 'Graviational Lens'
+ra_hr: 13.1911111111111
+zoom_level: 1.0
+---
 _uuid: f366834d-a8e7-486b-8229-f3a3bbb3169c
 angular_size: 1.0
 classification: Galaxy
@@ -8,6 +52,94 @@ foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: M51;Whirlpool Galaxy;Messier 51;NGC 5194;
 ra_hr: 13.4980555555556
 zoom_level: 2.85
+---
+_uuid: f2538675-cf16-4929-b68f-99ddda3e083a
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 0.834416666666667
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013110{Q}?g=182
+name: NGC 5257/8;Arp 240;VV 055;KPG 389
+ra_hr: 13.6654666666667
+zoom_level: -1.0
+---
+_uuid: ab420b8a-0657-4097-a631-5b01712ec475
+angular_size: 1.0
+classification: Galaxy
+constellation: AND
+data_set_type: Sky
+dec_deg: -24.4863888888889
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013312{Q}?g=131
+name: AM 1316-241;ESO 508-45
+ra_hr: 13.3255555555556
+zoom_level: 0.698333333333333
+---
+_uuid: 5ecf720c-e2a0-491f-84e6-b61c6bdc0ddd
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 55.88625
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013330{Q}?g=182
+name: Mrk 273;UGC 8696;I Zw 071
+ra_hr: 13.7450805555555
+zoom_level: -1.0
+---
+_uuid: cf2f2014-bb3e-4edc-bc06-be203dbe3393
+angular_size: 1.0
+classification: BlackHole
+constellation: CEN
+data_set_type: Sky
+dec_deg: -43.0188888888889
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002031{Q}?g=138
+name: Nearby Galaxy Centaurus A
+ra_hr: 13.4244444444444
+zoom_level: 3.82166666666667
+---
+_uuid: 282d38f1-df66-41d4-914a-a698c9f2b989
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: VIR
+data_set_type: Sky
+dec_deg: -1.33833333333333
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003131{Q}?g=138
+name: Galaxy Abell 1689's 'Gravitational Lens' Magnifies Light of Distant Galaxies
+ra_hr: 13.1916666666667
+zoom_level: 2.0
+---
+_uuid: c8c74d03-2ea1-4400-8eb4-50b170262028
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: -1.34472222222222
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010101{Q}?g=138
+name: Galaxies Magnified by Galaxy Cluster Abell 1689's Graviational Lens
+ra_hr: 13.1911111111111
+zoom_level: 1.0
+---
+_uuid: 4836f8c8-b167-4942-9926-351b5fa9451b
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 4.33308333333333
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012011{Q}?g=182
+name: VV 283;CGCG 043-099;MCG+01-33-036
+ra_hr: 13.0308305555555
+zoom_level: -1.0
+---
+_uuid: 6d2d93cf-a8cf-44ea-b1a5-99e8037f8ce4
+angular_size: 1.0
+classification: Galaxy
+constellation: UMA
+data_set_type: Sky
+dec_deg: 62.1275
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012101{Q}?g=131
+name: UGC 8335;VV 250a';Arp 238;KPG 369B
+ra_hr: 13.2591666666667
+zoom_level: 0.836666666666667
 ---
 _uuid: ef445f66-dadb-432b-bad8-f7132bb51b9f
 angular_size: 1.0
@@ -31,6 +163,40 @@ name: Centaurus A;Cen A
 ra_hr: 13.4243611666667
 zoom_level: 1.0
 ---
+_uuid: 3757e870-cbfc-4984-9d6a-3b8f1375685c
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: -1.34472222222222
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001002{Q}?g=138
+name: Galaxies Magnified by Galaxy Cluster Abell 1689's 'Graviational Lens'
+ra_hr: 13.1911111111111
+zoom_level: 1.0
+---
+_uuid: fe22cb6f-bd68-41cf-b647-69c7455d0faf
+angular_size: 1.0
+classification: SpiralGalaxy
+constellation: CVN
+data_set_type: Sky
+dec_deg: 47.1972222222222
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003102{Q}?g=138
+name: 'Out of This Whirl: the Whirlpool Galaxy (M51) and Companion Galaxy;Messier
+  51;M51'
+ra_hr: 13.4977777777778
+zoom_level: 2.82833333333333
+---
+_uuid: c473e261-7c81-473d-838e-0ed7ca70b11e
+angular_size: 1.0
+classification: Galaxy
+constellation: VIR
+data_set_type: Sky
+dec_deg: -11.6097222222222
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010022{Q}?g=138
+name: 'POX 186: A Tiny Galaxy is Born'
+ra_hr: 13.4302777777778
+zoom_level: 0.248333333333333
+---
 _uuid: c58c807f-d1f0-45bc-aa09-07dd75cff444
 angular_size: 1.0
 classification: ClusterOfGalaxies
@@ -42,6 +208,39 @@ name: NGC 5291
 ra_hr: 13.7897222222222
 zoom_level: 2.39666666666667
 ---
+_uuid: 1a58ce3a-b116-4e82-9137-61da6b510e56
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 48.2762777777778
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012022{Q}?g=182
+name: NGC 5256;Mrk 0266;I Zw 067;KPG 388
+ra_hr: 13.6382444444445
+zoom_level: -1.0
+---
+_uuid: 577f21c4-d486-4e6d-be97-3adb2ee304f1
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 2.10416666666667
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012122{Q}?g=182
+name: NGC 5331;VV 253;KPG 401
+ra_hr: 13.8712194444445
+zoom_level: -1.0
+---
+_uuid: 1542e6e9-3774-4628-b29c-fca14211abe3
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: -23.9222222222222
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012322{Q}?g=182
+name: ESO 507-70;ESO 507-G070;AM 1300-233
+ra_hr: 13.0480555555555
+zoom_level: -1.0
+---
 _uuid: 571a379e-e342-43ca-9430-206a51b8d20f
 angular_size: 1.0
 classification: Galaxy
@@ -52,6 +251,72 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Centaurus A Arcs
 ra_hr: 13.4178476969333
 zoom_level: 1.0
+---
+_uuid: 15c2a7be-9bb6-4184-bc8a-b08620fc509d
+angular_size: 1.0
+classification: GlobularCluster
+constellation: CEN
+data_set_type: Sky
+dec_deg: -47.4816666666667
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001233{Q}?g=138
+name: Peering into the Core of  Globular Cluster Omega Centauri
+ra_hr: 13.4475
+zoom_level: 2.82833333333333
+---
+_uuid: 7499a1d9-d980-4372-b79a-ad402feb8269
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: -1.34472222222222
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001313{Q}?g=138
+name: Galaxies Magnified by Galaxy Cluster Abell 1689's 'Graviational Lens'
+ra_hr: 13.1911111111111
+zoom_level: 1.0
+---
+_uuid: 649e6fd0-e2b2-47a4-b3e6-e6156196b7e4
+angular_size: 1.0
+classification: SpiralGalaxy
+constellation: CVN
+data_set_type: Sky
+dec_deg: 47.1972222222222
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002103{Q}?g=138
+name: Whirpool Galaxy Closeup;M51;Messier 51
+ra_hr: 13.4977777777778
+zoom_level: 2.82833333333333
+---
+_uuid: c6d113aa-9ac0-4cd4-8ca2-f0fa96c16ab1
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: -1.34472222222222
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003033{Q}?g=138
+name: Galaxies Magnified by Galaxy Cluster Abell 1689's 'Graviational Lens'
+ra_hr: 13.1911111111111
+zoom_level: 1.0
+---
+_uuid: ebbc0fea-df0e-4183-adf0-fa4d7b2e1c6d
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: CEN
+data_set_type: Sky
+dec_deg: -38.1822222222222
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003203{Q}?g=138
+name: Hubble Illuminates Cluster of Diverse Galaxies
+ra_hr: 13.7263888888889
+zoom_level: 1.0
+---
+_uuid: 46d219ff-ab5f-4689-9511-9d673b435cd3
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 34.1393055555556
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012223{Q}?g=182
+name: IC 883;UGC 08387;Arp 193;VV 821;I Zw 056
+ra_hr: 13.3432055555555
+zoom_level: -1.0
 ---
 _uuid: 84e2f863-5780-4560-991f-28cedbbb9335
 angular_size: 1.0

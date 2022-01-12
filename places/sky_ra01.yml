@@ -1,3 +1,69 @@
+_uuid: 3178e1ca-1127-495c-a397-ec3b3f9fb1a1
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: TUC
+data_set_type: Sky
+dec_deg: -72.035
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003110{Q}?g=138
+name: Supernova Remnant E0102 in the Small Magellanic Cloud
+ra_hr: 1.06555555555556
+zoom_level: 1.19
+---
+_uuid: 8d48ca34-d870-400c-a9aa-8afa2dda80de
+angular_size: 1.0
+classification: Galaxy
+constellation: PHE
+data_set_type: Sky
+dec_deg: -55.4002777777778
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000012010{Q}?g=131
+name: NGC 454
+ra_hr: 1.23916666666667
+zoom_level: 0.761666666666667
+---
+_uuid: c3690ad7-81a3-4a96-a41b-c39f0e3db553
+angular_size: 1.0
+classification: Galaxy
+constellation: AND
+data_set_type: Sky
+dec_deg: 14.3630555555556
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000012333{Q}?g=131
+name: CGCG 436-030;IRAS 01173+1405
+ra_hr: 1.33416666666667
+zoom_level: 1.40666666666667
+---
+_uuid: e8a39702-b482-4957-93ab-416d73110c15
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: -17.5065833333333
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013220{Q}?g=182
+name: IC 1623A/B;Arp 236;VV 114
+ra_hr: 1.12983055555555
+zoom_level: -1.0
+---
+_uuid: 9cd7f978-a822-499d-a50b-423e37ee9271
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 3.79861111111111
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013320{Q}?g=182
+name: NGC 520;Arp 157;VV 231;KPG 031
+ra_hr: 1.40983888888889
+zoom_level: -1.0
+---
+_uuid: 7454a533-426f-44d7-9331-93a586cf83aa
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 22.5829722222222
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000020020{Q}?g=182
+name: NGC 695;V Zw 123
+ra_hr: 1.85399444444445
+zoom_level: -1.0
+---
 _uuid: 2dc77f0e-2bba-4aa4-9534-0677d8fdb801
 angular_size: 1.0
 classification: Supernova
@@ -8,6 +74,39 @@ foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Supernova Dust Factory in M74;M74;NGC628;Messier 74;NGC 628;Supernova 2003gd
 ra_hr: 1.61166666666667
 zoom_level: 1.415
+---
+_uuid: f5223399-6db0-4f94-b5fc-693db0d5f473
+angular_size: 1.0
+classification: Nebula
+constellation: HYI
+data_set_type: Sky
+dec_deg: -73.555
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001311{Q}?g=138
+name: Hubble Observes Infant Stars in Nearby Galaxy
+ra_hr: 1.49111111111111
+zoom_level: 1.0
+---
+_uuid: df17b331-da32-4849-be30-69434e3e925a
+angular_size: 1.0
+classification: Galaxy
+constellation: TRI
+data_set_type: Sky
+dec_deg: 30.7830555555556
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000322{Q}?g=138
+name: WFPC2 Mosaic of NGC 604 in M33
+ra_hr: 1.57555555555556
+zoom_level: 1.415
+---
+_uuid: f301a8a2-94c3-438f-be0c-ed0437dcd3c9
+angular_size: 1.0
+classification: Galaxy
+constellation: TRI
+data_set_type: Sky
+dec_deg: 30.7838888888889
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001212{Q}?g=138
+name: Firestorm of Star Birth In Galaxy NGC 604
+ra_hr: 1.57583333333333
+zoom_level: 1.93
 ---
 _uuid: 37f3ab69-cb77-4ecc-8945-f235d34a80ac
 angular_size: 1.0

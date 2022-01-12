@@ -9,6 +9,28 @@ name: Coronet Cluster
 ra_hr: 19.0291951466667
 zoom_level: 1.0
 ---
+_uuid: b5d27dd3-5957-42ae-888a-d8a200df0f1b
+angular_size: 1.0
+classification: Nebula
+constellation: VUL
+data_set_type: Sky
+dec_deg: 22.7208333333333
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002300{Q}?g=138
+name: M27, the Dumbbell Nebula
+ra_hr: 19.9933333333333
+zoom_level: 1.6
+---
+_uuid: bbaa35a6-3e54-4bad-923f-c15f0d1cb553
+angular_size: 1.0
+classification: Galaxy
+constellation: DRA
+data_set_type: Sky
+dec_deg: 73.4169444444445
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000012120{Q}?g=131
+name: NGC 6786;UGC11415;VV 414;KPG 538;LEDA 62867
+ra_hr: 19.1830555555556
+zoom_level: 0.836666666666667
+---
 _uuid: d64c839c-14fa-4918-a676-82bfef486206
 angular_size: 1.0
 classification: ClusterOfGalaxies
@@ -31,6 +53,28 @@ name: Coronet Cluster
 ra_hr: 19.0291951466667
 zoom_level: 1.0
 ---
+_uuid: 8887e6b2-f8f5-4803-b8fa-facff58f9cce
+angular_size: 1.0
+classification: Galaxy
+constellation: SGR
+data_set_type: Sky
+dec_deg: -17.6805555555556
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002101{Q}?g=138
+name: Sagittarius Dwarf Galaxy
+ra_hr: 19.4994444444444
+zoom_level: 1.40666666666667
+---
+_uuid: 5b9b662d-6569-427d-a5d5-02afb79a14d3
+angular_size: 1.0
+classification: PlanetaryNebula
+constellation: AQL
+data_set_type: Sky
+dec_deg: -5.99194444444444
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002121{Q}?g=138
+name: The Glowing Eye of Planetary Nebula NGC 6751
+ra_hr: 19.0986111111111
+zoom_level: 0.5
+---
 _uuid: ead78c68-3550-4bbd-9d9e-5a13e67a15f5
 angular_size: 1.0
 classification: ClusterOfGalaxies
@@ -41,3 +85,102 @@ foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Infrared Coronet Cluster;Coronet Cluster
 ra_hr: 19.0297222222222
 zoom_level: 8.0
+---
+_uuid: 52f87738-a464-40fe-9d32-8194317965be
+angular_size: 1.0
+classification: Star
+constellation: AQL
+data_set_type: Sky
+dec_deg: 11.0327777777778
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000212{Q}?g=138
+name: 'Herbig Haro 32: Jets of Material Ejected From  a Young Star'
+ra_hr: 19.3419444444444
+zoom_level: 0.493333333333333
+---
+_uuid: 3c7930d6-f410-45a5-bd44-7a9022fb6c8b
+angular_size: 1.0
+classification: Nebula
+constellation: SGR
+data_set_type: Sky
+dec_deg: -14.7188888888889
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001302{Q}?g=138
+name: A Giant Star Factory in Neighboring Galaxy NGC 6822
+ra_hr: 19.7480555555556
+zoom_level: 1.0
+---
+_uuid: d1dafecd-4128-49d4-bee1-1cc3d7fa4e9d
+angular_size: 1.0
+classification: Nebula
+constellation: SGR
+data_set_type: Sky
+dec_deg: -14.7188888888889
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001302{Q}?g=138
+name: A Giant Star Factory in Neighboring Galaxy NGC 6822
+ra_hr: 19.7480555555556
+zoom_level: 1.0
+---
+_uuid: 4239d899-f478-4af3-aef4-9b16e68435fd
+angular_size: 1.0
+classification: PlanetaryNebula
+constellation: CYG
+data_set_type: Sky
+dec_deg: 50.5252777777778
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003012{Q}?g=138
+name: Eye-Shaped Planetary Nebula NGC 6826
+ra_hr: 19.7466666666667
+zoom_level: 1.0
+---
+_uuid: 60a0e466-64b3-4923-8e18-95b8ab02af53
+angular_size: 1.0
+classification: Galaxy
+constellation: SGR
+data_set_type: Sky
+dec_deg: -21.3183333333333
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012222{Q}?g=131
+name: ESO 593-8;ESO 593-IG008
+ra_hr: 19.2419444444444
+zoom_level: 0.716666666666667
+---
+_uuid: 09f33230-2f10-4522-9225-4c38dc63cbdb
+angular_size: 1.0
+classification: Nebula
+constellation: VUL
+data_set_type: Sky
+dec_deg: 22.7130555555556
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000133{Q}?g=138
+name: Close-Up of M27, the Dumbbell Nebula
+ra_hr: 19.9922222222222
+zoom_level: 2.0
+---
+_uuid: 24208c23-29d3-4d61-a3f9-839386d03440
+angular_size: 1.0
+classification: Nebula
+constellation: VUL
+data_set_type: Sky
+dec_deg: 22.7130555555556
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000133{Q}?g=138
+name: Close-Up of M27, the Dumbbell Nebula
+ra_hr: 19.9922222222222
+zoom_level: 2.0
+---
+_uuid: 1afdc0e2-b174-4626-9440-4862c2f6c27e
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: LYR
+data_set_type: Sky
+dec_deg: 40.7469444444444
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003023{Q}?g=138
+name: A Bird's Eye View of a Galaxy Collision
+ra_hr: 19.0280555555556
+zoom_level: 0.558333333333333
+---
+_uuid: a2bfe7ee-b52d-46fc-885b-94e5e014df82
+angular_size: 1.0
+classification: Galaxy
+constellation: PAV
+data_set_type: Sky
+dec_deg: -59.9216666666667
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003333{Q}?g=138
+name: Galaxy NGC 6882 in Ultraviolet Light
+ra_hr: 19.3994444444444
+zoom_level: 0.935

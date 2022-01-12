@@ -9,6 +9,106 @@ name: Crab Nebula
 ra_hr: 5.57553405762
 zoom_level: 1.0
 ---
+_uuid: a01b6a87-b079-4568-b96b-e9616736ee7e
+angular_size: 1.0
+classification: Nebula
+constellation: ORI
+data_set_type: Sky
+dec_deg: -5.40555555555556
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000310{Q}?g=138
+name: Hubble Probes the Great Orion Nebula
+ra_hr: 5.58833333333333
+zoom_level: 8.0
+---
+_uuid: 47b0410a-1f2f-4a68-b37c-71dd257ec5d4
+angular_size: 1.0
+classification: Nebula
+constellation: DOR
+data_set_type: Sky
+dec_deg: -66.3675
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001120{Q}?g=138
+name: Star-Forming Region LH 95 in the Large Magellanic Cloud
+ra_hr: 5.61777777777778
+zoom_level: 1.19
+---
+_uuid: a7146ef6-22f7-4b54-899b-8ae7fa94ebf6
+angular_size: 1.0
+classification: Nebula
+constellation: ORI
+data_set_type: Sky
+dec_deg: -5.38388888888889
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002110{Q}?g=138
+name: Orion Nebula ( NGC 1976, M42)
+ra_hr: 5.58722222222222
+zoom_level: 8.0
+---
+_uuid: f3c6eb51-b4eb-4000-ab2e-b31277c8dea0
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: 22.0166666666667
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003020{Q}?g=138
+name: Peering into the Heart of the Crab Nebula
+ra_hr: 5.57555555555555
+zoom_level: 1.0
+---
+_uuid: a0390e2c-80fe-48ef-a81b-667821a445ca
+angular_size: 1.0
+classification: Supernova
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.2688888888889
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003100{Q}?g=138
+name: Supernova 1987A - 6 December 2006;Supernova 1987A - 28 November 2003
+ra_hr: 5.59111111111111
+zoom_level: 0.0316666666666667
+---
+_uuid: f015c1d5-6094-46c5-a120-afe6c9075954
+angular_size: 1.0
+classification: Supernova
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.2688888888889
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003120{Q}?g=138
+name: Supernova 1987A Mosaic
+ra_hr: 5.59111111111111
+zoom_level: 1.0
+---
+_uuid: 3d5a2858-5dda-4139-b2a3-3659c2f9bac9
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.0997222222222
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003210{Q}?g=138
+name: 'R136: A Cluster of Massive Stars in Nebula 30 Doradus'
+ra_hr: 5.64472222222222
+zoom_level: 2.0
+---
+_uuid: 9448ffdf-11a6-4245-80e8-e94048c85b47
+angular_size: 1.0
+classification: GlobularCluster
+constellation: DOR
+data_set_type: Sky
+dec_deg: -68.7636111111111
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003320{Q}?g=138
+name: 'Double Cluster NGC 1850: Second Brightest Star Cluster in the Large Magellanic
+  Cloud'
+ra_hr: 5.14611111111111
+zoom_level: 0.6
+---
+_uuid: 3a10ffaa-6894-4627-a4f3-af1dde10dcad
+angular_size: 1.0
+classification: Nebula
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.0922222222222
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010100{Q}?g=138
+name: Vast Star-Forming Region 30 Doradus
+ra_hr: 5.64444444444444
+zoom_level: 3.36333333333333
+---
 _uuid: a0100583-17b0-406f-a38d-7ab194469aa6
 angular_size: 1.0
 classification: GiantMolecularCloud
@@ -30,6 +130,127 @@ foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Orion Nebula
 ra_hr: 5.58083333333333
 zoom_level: 19.59
+---
+_uuid: e6865297-f0c2-4a58-a854-ef0b554a23dc
+angular_size: 1.0
+classification: Nebula
+constellation: ORI
+data_set_type: Sky
+dec_deg: -5.41333333333333
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011320{Q}?g=138
+name: Messier 42;M42
+ra_hr: 5.58611111111111
+zoom_level: 15.9233333333333
+---
+_uuid: 33784ebc-ea45-4e6c-896a-3dc6137b756c
+angular_size: 1.0
+classification: Galaxy
+constellation: AND
+data_set_type: Sky
+dec_deg: -62.0680555555556
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000012232{Q}?g=131
+name: AM 0500-620
+ra_hr: 5.00944444444444
+zoom_level: 0.841666666666667
+---
+_uuid: fb2baa18-2e2c-43dd-98aa-6ec9fdf5f911
+angular_size: 1.0
+classification: MultipleStars
+constellation: MEN
+data_set_type: Sky
+dec_deg: -70.4880555555556
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000201{Q}?g=138
+name: Astronomers Use Image to Measure Star's Mass
+ra_hr: 5.27805555555556
+zoom_level: 0.245
+---
+_uuid: dc773e56-487f-42bf-89ad-bf98af0a7ffd
+angular_size: 1.0
+classification: Nebula
+constellation: ORI
+data_set_type: Sky
+dec_deg: -6.46277777777778
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001001{Q}?g=138
+name: HH-34
+ra_hr: 5.59166666666667
+zoom_level: 2.0
+---
+_uuid: 601bb50e-0a0a-4fd9-9968-3851573c7bf1
+angular_size: 1.0
+classification: Star
+constellation: ORI
+data_set_type: Sky
+dec_deg: -5.42305555555556
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001121{Q}?g=138
+name: Bow Shock Near Young Star LL Ori
+ra_hr: 5.58472222222222
+zoom_level: 4.0
+---
+_uuid: 6492b213-8592-443a-9fcf-f57bb06925e3
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: TAU
+data_set_type: Sky
+dec_deg: 22.0166666666667
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001321{Q}?g=138
+name: Giant Hubble Mosaic of the Crab Nebula
+ra_hr: 5.57555555555555
+zoom_level: 1.0
+---
+_uuid: f4bb83ec-bda0-43fc-aedf-6c2d3687c0e2
+angular_size: 1.0
+classification: Galaxy
+constellation: COL
+data_set_type: Sky
+dec_deg: -37.5125
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002111{Q}?g=138
+name: The Center of Barred Spiral Galaxy NGC 1808
+ra_hr: 5.12833333333333
+zoom_level: 0.5
+---
+_uuid: dfae6e2f-cdaa-4f31-b79b-0f7e78bb3719
+angular_size: 1.0
+classification: Supernova
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.2688888888889
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003211{Q}?g=138
+name: Supernova 1987A Mosaic
+ra_hr: 5.59111111111111
+zoom_level: 1.0
+---
+_uuid: ead2e56b-ffcd-4f85-819d-6b633842843f
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: DOR
+data_set_type: Sky
+dec_deg: -66.0358333333333
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003231{Q}?g=138
+name: Supernova Remnant N 63A Menagerie
+ra_hr: 5.59555555555556
+zoom_level: 0.906666666666667
+---
+_uuid: aa71b3a6-f939-487f-bf09-5e6a8347b3b1
+angular_size: 1.0
+classification: GiantMolecularCloud
+constellation: MEN
+data_set_type: Sky
+dec_deg: -70.075
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003311{Q}?g=138
+name: N 180B in the Large Magellanic Cloud
+ra_hr: 5.81388888888889
+zoom_level: 1.96166666666667
+---
+_uuid: 4bba641a-310d-4fe5-9d5d-d18ac73d1306
+angular_size: 1.0
+classification: Nebula
+constellation: DOR
+data_set_type: Sky
+dec_deg: -67.9858333333333
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003321{Q}?g=138
+name: Gaseous Streamers from Nebula N44C Flutter in Stellar Breeze
+ra_hr: 5.36833333333333
+zoom_level: 2.0
 ---
 _uuid: ac394dc8-53f6-4c81-9bd6-a39f2d6c3ec5
 angular_size: 1.0
@@ -97,6 +318,39 @@ name: Baby Stars in the Witch Head Nebula;Witch Head nebula
 ra_hr: 5.09638888888889
 zoom_level: 16.0
 ---
+_uuid: a53fef93-8015-439d-ac42-06c37d66858f
+angular_size: 1.0
+classification: Nebula
+constellation: ORI
+data_set_type: Sky
+dec_deg: -5.40555555555556
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000302{Q}?g=138
+name: Hubble Probes the Great Orion Nebula
+ra_hr: 5.58833333333333
+zoom_level: 3.97833333333333
+---
+_uuid: 0d75c0e0-0184-435d-804b-04a267355003
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: TAU
+data_set_type: Sky
+dec_deg: 22.0166666666667
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001102{Q}?g=138
+name: 'Crab Nebula : Dead Star Creates Celestial Havoc'
+ra_hr: 5.57555555555555
+zoom_level: 1.0
+---
+_uuid: 6e99321c-8ca7-4801-8b2d-02e4696dfbf6
+angular_size: 1.0
+classification: Supernova
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.2688888888889
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001132{Q}?g=138
+name: Supernova 1987A - 28 November 2003
+ra_hr: 5.59111111111111
+zoom_level: 0.0316666666666667
+---
 _uuid: 01edb4d6-cfe2-4e37-b2da-fb0226f2b35e
 angular_size: 1.14166666666667
 classification: SupernovaRemnant
@@ -118,6 +372,17 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: N 63A
 ra_hr: 5.59222222222222
 zoom_level: 1.99666666666667
+---
+_uuid: bf2cc6c4-9c9d-41cd-a29e-c60062ada876
+angular_size: 1.0
+classification: Supernova
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.2688888888889
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003002{Q}?g=138
+name: Supernova 1987A Difference Composite;Supernova 1987A - 28 November 2003
+ra_hr: 5.59111111111111
+zoom_level: 0.0316666666666667
 ---
 _uuid: 2bf131ce-f952-46f4-9dfe-5e465e768bdc
 angular_size: 1.0
@@ -163,6 +428,28 @@ name: N49
 ra_hr: 5.43300374348667
 zoom_level: 1.0
 ---
+_uuid: 68a11385-4499-432b-a48c-2a42e7dac999
+angular_size: 1.0
+classification: Nebula
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.6438888888889
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000323{Q}?g=138
+name: The Ghost Head Nebula (NGC 2080)
+ra_hr: 5.66194444444444
+zoom_level: 1.0
+---
+_uuid: da440de6-b4ae-4f78-9490-a2b587551070
+angular_size: 1.0
+classification: Nebula
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.6438888888889
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000323{Q}?g=138
+name: The Ghost Head Nebula (NGC 2080)
+ra_hr: 5.66194444444444
+zoom_level: 1.0
+---
 _uuid: 67fdb4c5-9d0a-48da-8aa4-02617d07d2ae
 angular_size: 1.0
 classification: SupernovaRemnant
@@ -174,6 +461,50 @@ name: Supernova Remnant N 63A
 ra_hr: 5.59222222222222
 zoom_level: 1.99666666666667
 ---
+_uuid: da4a7d76-5030-4667-b93a-1421930930c3
+angular_size: 1.0
+classification: Stellar
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.6419444444444
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001103{Q}?g=138
+name: NASA Great Space Observatories Glimpse Faint Afterglow of Nearby Stellar Explosion
+ra_hr: 5.41722222222222
+zoom_level: 0.568333333333333
+---
+_uuid: 90e80567-5b1e-4016-ba90-e4a1574c0626
+angular_size: 1.0
+classification: Galaxy
+constellation: COL
+data_set_type: Sky
+dec_deg: -37.5108333333333
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001223{Q}?g=138
+name: Barred Spiral Galaxy NGC 1808
+ra_hr: 5.12888888888889
+zoom_level: 2.0
+---
+_uuid: 1625314a-26b2-43d1-8ade-93ea5cbb20a1
+angular_size: 1.0
+classification: GiantMolecularCloud
+constellation: DOR
+data_set_type: Sky
+dec_deg: -67.4619444444444
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001333{Q}?g=138
+name: '''Double Bubble'' of Gas and Dust in the Large Magellanic Cloud'
+ra_hr: 5.23083333333333
+zoom_level: 1.11
+---
+_uuid: 7bcc0350-4346-413b-9801-e4a82edf5dad
+angular_size: 1.0
+classification: Nebula
+constellation: DOR
+data_set_type: Sky
+dec_deg: -67.9086111111111
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002223{Q}?g=138
+name: Hubble Peers Inside Interstellar Bubble N44F
+ra_hr: 5.3625
+zoom_level: 0.811666666666667
+---
 _uuid: 3791728a-effc-40a1-86c9-300a1bc3aeaf
 angular_size: 1.14166666666667
 classification: SupernovaRemnant
@@ -184,6 +515,74 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Supernova Remnant LMC N 63A in X-Ray, Optical and Radio Radiation
 ra_hr: 5.59555555555556
 zoom_level: 0.906666666666667
+---
+_uuid: a1049fd8-ef44-436e-b634-7a98e7765603
+angular_size: 1.0
+classification: Supernova
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.2688888888889
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003013{Q}?g=138
+name: Supernova 1987A - 12 December 2004;Supernova 1987A - 28 November 2003
+ra_hr: 5.59111111111111
+zoom_level: 0.0316666666666667
+---
+_uuid: b53e2a3a-b0cf-45d3-9b4d-0e8cd7e761f0
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: TAU
+data_set_type: Sky
+dec_deg: 22.0166666666667
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003103{Q}?g=138
+name: Combined X-Ray and Optical Images of the Crab Nebula
+ra_hr: 5.57555555555555
+zoom_level: 1.0
+---
+_uuid: 2762be22-cda9-48f3-bb2a-e1dd94e1a700
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: DOR
+data_set_type: Sky
+dec_deg: -66.0816666666667
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003323{Q}?g=138
+name: 'Celestial Fireworks: Sheets of Debris From a Stellar Explosion (N 49, DEM L
+  190)'
+ra_hr: 5.43361111111111
+zoom_level: 1.0
+---
+_uuid: e86f4367-4c53-4f0b-a811-9aee107d2d80
+angular_size: 1.0
+classification: Supernova
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.2688888888889
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010003{Q}?g=138
+name: Supernova 1987A Composite;A String of 'Cosmic Pearls' Surrounds an Exploding
+  Star
+ra_hr: 5.59111111111111
+zoom_level: 0.0316666666666667
+---
+_uuid: 3a65205d-c23c-4603-8d97-845bbc4a0f13
+angular_size: 1.0
+classification: Nebula
+constellation: ORI
+data_set_type: Sky
+dec_deg: -5.40527777777778
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010123{Q}?g=138
+name: 'The Orion Nebula: Stellar Birthplace'
+ra_hr: 5.58833333333333
+zoom_level: 3.93666666666667
+---
+_uuid: cee81fbc-035c-4e83-8213-59c03231408a
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 49.6947777777778
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013323{Q}?g=182
+name: MCG+08-11-002
+ra_hr: 5.67889166666667
+zoom_level: -1.0
 ---
 _uuid: be503c8c-35da-4460-908e-76ae20f88a52
 angular_size: 1.0

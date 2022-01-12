@@ -1,3 +1,25 @@
+_uuid: db0b944b-82c3-4329-80ff-ee71eae981cf
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: -18.8130555555556
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000012100{Q}?g=182
+name: ESO 550-2;ESO 550-IG02
+ra_hr: 4.35555555555555
+zoom_level: -1.0
+---
+_uuid: f78fdd0c-36ff-4a76-9e82-f3221afe814e
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: -8.57855555555556
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000012300{Q}?g=182
+name: NGC 1614;Arp 186;Mrk 0617;II Zw 015
+ra_hr: 4.56666388888889
+zoom_level: -1.0
+---
 _uuid: ab980721-dd73-4860-bb4a-53d0c7d71d11
 angular_size: 1.0
 classification: Galaxy
@@ -8,6 +30,17 @@ foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Abell 520
 ra_hr: 4.90544643902324
 zoom_level: 1.0
+---
+_uuid: c5f04d86-655b-4b25-9dcb-d2d831495709
+angular_size: 1.0
+classification: SpiralGalaxy
+constellation: DOR
+data_set_type: Sky
+dec_deg: -59.2455555555556
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000301{Q}?g=138
+name: Hubble’s View of Barred Spiral Galaxy NGC 1672
+ra_hr: 4.76166666666667
+zoom_level: 1.895
 ---
 _uuid: 77abcb11-88f6-4fa6-b067-56679e4dc74b
 angular_size: 1.0
@@ -30,6 +63,39 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Abell 520
 ra_hr: 4.905277778
 zoom_level: 1.0
+---
+_uuid: e6f72511-28db-45fe-839c-d7eb3a7abb5d
+angular_size: 1.0
+classification: SpiralGalaxy
+constellation: HOR
+data_set_type: Sky
+dec_deg: -43.3494444444444
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010012{Q}?g=138
+name: Barred Spiral Galaxy NGC 1512 in Many Wavelengths
+ra_hr: 4.06583333333333
+zoom_level: 1.0
+---
+_uuid: 2bb6e0d5-6ab9-4ef2-8b34-f84d18098749
+angular_size: 1.0
+classification: Nebula
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.1747222222222
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000303{Q}?g=138
+name: Massive Stars Sculpt Gas of Nebula N83B (NGC 1748)
+ra_hr: 4.90777777777778
+zoom_level: 1.0
+---
+_uuid: 39c59b74-316f-4fbc-b050-e53ccf9921eb
+angular_size: 1.0
+classification: Supernova
+constellation: CAM
+data_set_type: Sky
+dec_deg: 64.8494444444444
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010023{Q}?g=138
+name: Supernova Bonanza in Nearby Galaxy NGC 1569
+ra_hr: 4.51388888888889
+zoom_level: 0.528333333333333
 ---
 _uuid: ca5e4f29-2984-40db-9bc1-a460af9dced4
 angular_size: 1.0

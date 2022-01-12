@@ -1,3 +1,147 @@
+_uuid: d82f4bbb-3dfb-484c-896f-af88eca90de8
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: FOR
+data_set_type: Sky
+dec_deg: -27.9480555555556
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001100{Q}?g=138
+name: An Eclectic Mix of Galaxies
+ra_hr: 3.54388888888889
+zoom_level: 0.5
+---
+_uuid: 2f3de7e6-3872-4e4d-8e93-ae748bb80292
+angular_size: 1.0
+classification: Galaxy
+constellation: FOR
+data_set_type: Sky
+dec_deg: -37.2072222222222
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001230{Q}?g=138
+name: The Dusty Galaxy NGC 1316
+ra_hr: 3.37833333333333
+zoom_level: 3.305
+---
+_uuid: fee19b2d-ddca-4bd3-935a-86f8b13cb44e
+angular_size: 1.0
+classification: Galaxy
+constellation: FOR
+data_set_type: Sky
+dec_deg: -30.2133333333333
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002130{Q}?g=138
+name: A Tiny, Youthful Spiral Galaxy, ESO 418-008
+ra_hr: 3.52527777777778
+zoom_level: 0.726666666666667
+---
+_uuid: 42affcd3-33c2-4c9c-91e5-8147bd8ceb58
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: -1.300873
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003300{Q}?g=138
+name: Intergalactic 'Pipeline' Funnels Matter Between Colliding Galaxies NGC 1410
+  and NGC 1409
+ra_hr: 3.68644426666667
+zoom_level: 1.0
+---
+_uuid: d72fdea1-a1cf-43d5-acf1-9d1f10920da3
+angular_size: 1.0
+classification: Galaxy
+constellation: PER
+data_set_type: Sky
+dec_deg: 41.5183333333333
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001301{Q}?g=138
+name: NGC 1275
+ra_hr: 3.33
+zoom_level: 1.76166666666667
+---
+_uuid: 68a82f7b-51b8-419d-9060-0628adf3c973
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: FOR
+data_set_type: Sky
+dec_deg: -27.7933333333333
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002301{Q}?g=138
+name: Hubble Ultra Deep Field
+ra_hr: 3.54416666666667
+zoom_level: 1.68166666666667
+---
+_uuid: 8a02fa52-6c55-4042-b50c-68a0d4f52224
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: FOR
+data_set_type: Sky
+dec_deg: -27.8111111111111
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003111{Q}?g=138
+name: Galaxy HUDF-JD2 From the Hubble Ultra Deep Field
+ra_hr: 3.54416666666667
+zoom_level: 0.5
+---
+_uuid: eae379b5-de63-45e8-bd9e-dec7ec11e09d
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: PER
+data_set_type: Sky
+dec_deg: 41.5169444444444
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010121{Q}?g=138
+name: Freewheeling Galaxies Collide in a Blaze of Star Birth (NGC 1275)
+ra_hr: 3.32972222222222
+zoom_level: 0.688333333333333
+---
+_uuid: f6bef738-930c-4faa-a6cb-93638d3186f0
+angular_size: 1.0
+classification: Galaxy
+constellation: ERI
+data_set_type: Sky
+dec_deg: -35.6230555555556
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001022{Q}?g=138
+name: Galaxy NGC 1427A Plunges Toward the Fornax Galaxy Cluster
+ra_hr: 3.66916666666667
+zoom_level: 1.07
+---
+_uuid: 37963ab2-741b-43c2-ae39-02354edb130e
+angular_size: 1.0
+classification: Galaxy
+constellation: FOR
+data_set_type: Sky
+dec_deg: -37.2033333333333
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001312{Q}?g=138
+name: NGC 1316;Elliptical Galaxy NGC 1316 Shows Aftermath of Cosmic Collision
+ra_hr: 3.37777777777778
+zoom_level: 1.0
+---
+_uuid: 614f0df5-9887-4f2e-8e12-8b78cfc65371
+angular_size: 1.0
+classification: Galaxy
+constellation: RET
+data_set_type: Sky
+dec_deg: -66.4925
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002032{Q}?g=138
+name: Barred Spiral Galaxy NGC 1313 - VLT
+ra_hr: 3.30583333333333
+zoom_level: 2.18
+---
+_uuid: 3bb906c5-87a7-482b-8ffc-3f287ea58643
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: FOR
+data_set_type: Sky
+dec_deg: -27.9427777777778
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003202{Q}?g=138
+name: A Zoo of Galaxies
+ra_hr: 3.54472222222222
+zoom_level: 1.0
+---
+_uuid: 18cfc141-ead2-45d4-b3ce-8f6a61fa312b
+angular_size: 1.0
+classification: SpiralGalaxy
+constellation: ERI
+data_set_type: Sky
+dec_deg: -15.3952777777778
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010202{Q}?g=138
+name: Full ACS Field of NGC 1309
+ra_hr: 3.36833333333333
+zoom_level: 2.0
+---
 _uuid: 670bee9e-08e9-4e86-8fba-b333b38be6b2
 angular_size: 1.0
 classification: ReflectionNebula
@@ -19,6 +163,61 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Pleiades
 ra_hr: 3.78138888888889
 zoom_level: 16.0
+---
+_uuid: 04bba304-f1e9-454a-bdc2-c2b4d251a31f
+angular_size: 1.0
+classification: SpiralGalaxy
+constellation: ERI
+data_set_type: Sky
+dec_deg: -19.1105555555556
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000233{Q}?g=138
+name: Wide View of Giant Radio Jet Coming From Spiral Galaxy 0313-192
+ra_hr: 3.26444444444444
+zoom_level: 1.0
+---
+_uuid: 90f981da-6d89-4a36-9ef6-38d8d8cad9ba
+angular_size: 1.0
+classification: SpiralGalaxy
+constellation: ERI
+data_set_type: Sky
+dec_deg: -15.4002777777778
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001113{Q}?g=138
+name: Hubble Snaps Images of a Pinwheel-Shaped Galaxy
+ra_hr: 3.36833333333333
+zoom_level: 1.0
+---
+_uuid: 67cb034a-1708-41b4-b5bb-af8b6e15a3a1
+angular_size: 1.0
+classification: SpiralGalaxy
+constellation: RET
+data_set_type: Sky
+dec_deg: -66.4975
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001303{Q}?g=138
+name: Barred Spiral Galaxy NGC 1313 - HST
+ra_hr: 3.30444444444444
+zoom_level: 1.98666666666667
+---
+_uuid: 1b4922b5-d7f9-4b56-ba6a-70886371f850
+angular_size: 1.0
+classification: StellarGroupings
+constellation: TAU
+data_set_type: Sky
+dec_deg: 24.1536111111111
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002033{Q}?g=138
+name: Hubble Refines Distance to the Pleiades Star Cluster
+ra_hr: 3.78083333333333
+zoom_level: 31.615
+---
+_uuid: 2f838673-6917-4cd2-9400-cde18bb35bf5
+angular_size: 1.0
+classification: SpiralGalaxy
+constellation: ERI
+data_set_type: Sky
+dec_deg: -19.41
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003133{Q}?g=138
+name: Barred Spiral Galaxy NGC 1300
+ra_hr: 3.32777777777778
+zoom_level: 1.915
 ---
 _uuid: 4580c848-d59e-43d5-b3a8-32fc3a8c2d4b
 angular_size: 1.0

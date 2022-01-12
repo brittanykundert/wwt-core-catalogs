@@ -42,6 +42,28 @@ name: DR21 (Composite IR)
 ra_hr: 20.6405555555556
 zoom_level: 9.51333333333333
 ---
+_uuid: 79ea098e-0f37-49fa-a810-dabe9b9e73a4
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 17.1262777777778
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000013101{Q}?g=182
+name: II Zw 96;ZW II 96;CGCG 448-020;2MASX J20572362+1707445
+ra_hr: 20.9565305555555
+zoom_level: -1.0
+---
+_uuid: b3d086ed-c5ea-430e-8ba8-dac506270ecf
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: CYG
+data_set_type: Sky
+dec_deg: 38.4541666666667
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002012{Q}?g=138
+name: Star WR 136 Tears Apart a Shell of Gas
+ra_hr: 20.2088888888889
+zoom_level: 1.955
+---
 _uuid: 589fbe16-9826-4945-8fa5-880d50d9738c
 angular_size: 1.0
 classification: Galaxy
@@ -52,6 +74,28 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Crescent Nebula;NGC 6888
 ra_hr: 20.2103271484667
 zoom_level: 1.0
+---
+_uuid: 5c990bf4-7095-4abb-8ac7-66d3bd1147c3
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: -42.6494444444444
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013103{Q}?g=182
+name: ESO 286-19, ESO 286-IG019, AM 2055-425
+ra_hr: 20.9741666666667
+zoom_level: -1.0
+---
+_uuid: b42fe933-7cef-4ac6-abe6-d1f5ec4c1d4f
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 25.5273611111111
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013223{Q}?g=182
+name: IRAS 20351+2521;2MASX J20371771+2531377
+ra_hr: 20.6216722222222
+zoom_level: -1.0
 ---
 _uuid: d81dba67-26be-4b44-9f3d-a75957ad1f9e
 angular_size: 1.0

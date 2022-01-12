@@ -9,6 +9,50 @@ name: Eagle Nebula;M16
 ra_hr: 18.3145568847333
 zoom_level: 1.0
 ---
+_uuid: 08bd7904-6e8e-44f4-9a5a-61cc621ef0cf
+angular_size: 1.0
+classification: Nebula
+constellation: SGR
+data_set_type: Sky
+dec_deg: -24.3794444444444
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001010{Q}?g=138
+name: Giant 'Twisters' in the Lagoon Nebula
+ra_hr: 18.0613888888889
+zoom_level: 0.491666666666667
+---
+_uuid: 66998f7b-3bc5-4acf-bf3e-8ca273c1a4f1
+angular_size: 1.0
+classification: Nebula
+constellation: SGR
+data_set_type: Sky
+dec_deg: -23.0266666666667
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003230{Q}?g=138
+name: Closeup of Filamentary Structure in Trifid Nebula
+ra_hr: 18.0405555555556
+zoom_level: 0.848333333333333
+---
+_uuid: 2b288222-441e-4d86-8851-b95a491f5da0
+angular_size: 1.0
+classification: Nebula
+constellation: SGR
+data_set_type: Sky
+dec_deg: -16.1566666666667
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003330{Q}?g=138
+name: Omega Nebula;Swan Nebula;M17;Messier 17
+ra_hr: 18.3427777777778
+zoom_level: 4.22833333333333
+---
+_uuid: a0a4bdc8-5028-409a-ab48-2412bace6e14
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 1.52794444444444
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013030{Q}?g=182
+name: IRAS 18090+0130;2MASX J18113342+0131427
+ra_hr: 18.19375
+zoom_level: -1.0
+---
 _uuid: 035da989-94a2-449a-8ac6-8de760428d7c
 angular_size: 1.0
 classification: GiantMolecularCloud
@@ -31,6 +75,61 @@ name: Eagle Nebula;M16
 ra_hr: 18.3145568847333
 zoom_level: 1.0
 ---
+_uuid: 521e1b44-3d5f-44c6-8647-b367ac46ce77
+angular_size: 1.0
+classification: Nebula
+constellation: SER2
+data_set_type: Sky
+dec_deg: -13.7522222222222
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001011{Q}?g=138
+name: 'Eagle Nebula (M16) Pillar Detail: Portion of Top'
+ra_hr: 18.3183333333333
+zoom_level: 1.0
+---
+_uuid: d3ed473c-a10c-4c61-b80f-1fdd7bb002b4
+angular_size: 1.0
+classification: Nebula
+constellation: LYR
+data_set_type: Sky
+dec_deg: 33.0283333333333
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001201{Q}?g=138
+name: The Ring Nebula (M57)
+ra_hr: 18.8930555555556
+zoom_level: 0.565
+---
+_uuid: a3c1d473-5179-48b5-b491-661d0dea5c4a
+angular_size: 1.0
+classification: Nebula
+constellation: SER2
+data_set_type: Sky
+dec_deg: -13.7566666666667
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001231{Q}?g=138
+name: 'The Eagle Has Risen: Stellar Spire in the Eagle Nebula'
+ra_hr: 18.3211111111111
+zoom_level: 4.0
+---
+_uuid: ed00dcd9-45af-4ad3-96f0-b0652753557d
+angular_size: 1.0
+classification: Star
+constellation: SGR
+data_set_type: Sky
+dec_deg: -32.18
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003031{Q}?g=138
+name: 'Gomez''s Hamburger: A Sun-Like Star Near the End of Its Life'
+ra_hr: 18.1536111111111
+zoom_level: 0.245
+---
+_uuid: 8c71501d-6b1b-4638-bcbf-0ead6b78399f
+angular_size: 1.0
+classification: Unfiltered
+constellation: SGR
+data_set_type: Sky
+dec_deg: -29.48
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010001{Q}?g=138
+name: Comet Hale-Bopp (26 Sep 1995)
+ra_hr: 18.2727777777778
+zoom_level: 3.67333333333333
+---
 _uuid: 29c92308-4142-4788-a47b-eba6600f60fc
 angular_size: 1.0
 classification: Nebula
@@ -41,6 +140,39 @@ foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Ring Beholds a Delicate Flower;Messier 57;M57;NGC 6720;Ring Nebula
 ra_hr: 18.8930555555556
 zoom_level: 2.82833333333333
+---
+_uuid: cac433a1-a9eb-4d10-a662-8d6c625834ed
+angular_size: 1.0
+classification: Nebula
+constellation: SER2
+data_set_type: Sky
+dec_deg: -13.7561111111111
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001202{Q}?g=138
+name: 'Eagle Nebula (M16) Pillar Detail: Portion of Base'
+ra_hr: 18.3236111111111
+zoom_level: 0.841666666666667
+---
+_uuid: 15be52fb-fbff-4ed0-89b1-e0380b9130d4
+angular_size: 1.0
+classification: Nebula
+constellation: SER2
+data_set_type: Sky
+dec_deg: -13.8311111111111
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003302{Q}?g=138
+name: Pillars of Creation in a Star-Forming Region (Gas Pillars in M16 - Eagle Nebula)
+ra_hr: 18.3141666666667
+zoom_level: 2.0
+---
+_uuid: 8fc0bea5-b4aa-41bf-a9fe-301454342584
+angular_size: 1.0
+classification: Nebula
+constellation: SGR
+data_set_type: Sky
+dec_deg: -23.0266666666667
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010112{Q}?g=138
+name: Trifid Nebula;Messier 20;NGC 6514
+ra_hr: 18.0405555555556
+zoom_level: 0.848333333333333
 ---
 _uuid: 08d007b2-588e-4cd4-8020-b6427b01bd53
 angular_size: 1.0
@@ -53,6 +185,17 @@ name: Messier 20;M20;Trifid Nebula
 ra_hr: 18.0408333333333
 zoom_level: 7.57833333333333
 ---
+_uuid: f378084f-9442-4dbb-a7af-6ca09e7ed18f
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: -57.7252777777778
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012102{Q}?g=182
+name: IC 4687/6;IC 4689;AM 1809-574
+ra_hr: 18.2277722222222
+zoom_level: -1.0
+---
 _uuid: 11018fb6-cfde-417f-9c2c-0d6cea477457
 angular_size: 1.0
 classification: Galaxy
@@ -64,6 +207,62 @@ name: Kes 75
 ra_hr: 18.7736022949333
 zoom_level: 1.0
 ---
+_uuid: c7042016-b722-42a7-a116-0d340361e2f3
+angular_size: 1.0
+classification: Nebula
+constellation: SGR
+data_set_type: Sky
+dec_deg: -24.3791666666667
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000313{Q}?g=138
+name: Giant 'Twisters' and Star Wisps in the Lagoon Nebula
+ra_hr: 18.0611111111111
+zoom_level: 2.42
+---
+_uuid: ab9e7614-6385-4ffd-b1c5-d41c21f24f5a
+angular_size: 1.0
+classification: Nebula
+constellation: SER2
+data_set_type: Sky
+dec_deg: -13.8147222222222
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001033{Q}?g=138
+name: Stellar 'Eggs' Emerge from Molecular Cloud (Closeup) (Evaporating Globules in
+  M16)
+ra_hr: 18.3138888888889
+zoom_level: 0.281666666666667
+---
+_uuid: 084c568e-37c7-4559-bc64-c57fbf4ad1ee
+angular_size: 1.0
+classification: Nebula
+constellation: SER2
+data_set_type: Sky
+dec_deg: -13.8161111111111
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002203{Q}?g=138
+name: Stellar 'Eggs' Emerge from Molecular Cloud (Star-Birth Clouds in M16)
+ra_hr: 18.3141666666667
+zoom_level: 1.05166666666667
+---
+_uuid: 5724f8ae-d8d6-40ae-81b3-af3c8a76ce2d
+angular_size: 1.0
+classification: Nebula
+constellation: SER2
+data_set_type: Sky
+dec_deg: -13.8161111111111
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002203{Q}?g=138
+name: Stellar 'Eggs' Emerge from Molecular Cloud (Star-Birth Clouds in M16)
+ra_hr: 18.3141666666667
+zoom_level: 1.05166666666667
+---
+_uuid: a0b412c7-1cd9-490a-ad9f-a7c6fd8735ad
+angular_size: 1.0
+classification: Star
+constellation: SGR
+data_set_type: Sky
+dec_deg: -28.8944444444444
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002303{Q}?g=138
+name: Planetary Host Star
+ra_hr: 18.0877777777778
+zoom_level: 0.251666666666667
+---
 _uuid: 57be411e-a299-4811-969e-37aaef2a0f1e
 angular_size: 1.0
 classification: Nebula
@@ -74,6 +273,28 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Messier 20;M20;Trifid Nebula
 ra_hr: 18.0408333333333
 zoom_level: 7.57833333333333
+---
+_uuid: 8cfa10bd-fd09-4505-9cc5-9b713385eaba
+angular_size: 1.0
+classification: Galaxy
+constellation: DRA
+data_set_type: Sky
+dec_deg: 59.8891666666667
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012003{Q}?g=131
+name: NGC 6670A/B;VII Zw 812
+ra_hr: 18.5602777777778
+zoom_level: 0.703333333333333
+---
+_uuid: 498eaf16-f0ef-4530-8e9f-aca33b661801
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 68.3636111111111
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012213{Q}?g=182
+name: NGC 6621;NGC 6622;VV 247;Arp 81;VII Zw 778;KPG 534A
+ra_hr: 18.2151944444445
+zoom_level: -1.0
 ---
 _uuid: a2728a16-b5b1-4bf9-974f-086678306423
 angular_size: 1.0

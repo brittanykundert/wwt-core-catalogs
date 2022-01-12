@@ -1,3 +1,69 @@
+_uuid: b0b1e513-56d9-438e-8966-382761b05d06
+angular_size: 1.0
+classification: Galaxy
+constellation: UMA
+data_set_type: Sky
+dec_deg: 54.3513888888889
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000012020{Q}?g=182
+name: Hubble's Largest Galaxy Portrait showcases Messier 101;M101
+ra_hr: 14.0533333333333
+zoom_level: 4.0
+---
+_uuid: fee4b827-b422-4008-b69b-c39765488a54
+angular_size: 1.0
+classification: Nebula
+constellation: LUP
+data_set_type: Sky
+dec_deg: -44.1508333333333
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001101{Q}?g=138
+name: 'The Retina Nebula: Dying Star IC 4406'
+ra_hr: 14.3738888888889
+zoom_level: 1.0
+---
+_uuid: 377ddc89-ff97-426e-8aeb-c532fab1efc0
+angular_size: 1.0
+classification: Galaxy
+constellation: BOO
+data_set_type: Sky
+dec_deg: 24.6147222222222
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012111{Q}?g=131
+name: UGC 9618;VV 340A;Arp 302;VV 340B;KPG 446B;
+ra_hr: 14.95
+zoom_level: 0.74
+---
+_uuid: 5ab9a92c-6aaf-4c05-a531-93065df7243a
+angular_size: 1.0
+classification: Galaxy
+constellation: CIR
+data_set_type: Sky
+dec_deg: -65.3380555555556
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000132{Q}?g=138
+name: Circinus Galaxy Spews Gas Into Space
+ra_hr: 14.2194444444444
+zoom_level: 1.0
+---
+_uuid: c51e5ace-40ed-492a-a6cf-c6badf7df997
+angular_size: 1.0
+classification: SpiralGalaxy
+constellation: UMA
+data_set_type: Sky
+dec_deg: 54.3855555555556
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002312{Q}?g=138
+name: A Detailed Look at Spiral Galaxy M101
+ra_hr: 14.0555555555556
+zoom_level: 1.0
+---
+_uuid: 815b25b3-48ff-46b0-a6e8-fe632909ad5b
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 38.7316666666667
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012033{Q}?g=182
+name: NGC 5754;NGC 5752/4;Arp 297;
+ra_hr: 14.7554555555555
+zoom_level: -1.0
+---
 _uuid: a8de7ce5-6e7f-48dd-8708-b83a14f36928
 angular_size: 1.0
 classification: SpiralGalaxy

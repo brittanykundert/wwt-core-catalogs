@@ -1,3 +1,14 @@
+_uuid: 2dd3dc6f-7888-405a-9b04-65119ae07c14
+angular_size: 1.0
+classification: Nebula
+constellation: CYG
+data_set_type: Sky
+dec_deg: 36.6952777777778
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002010{Q}?g=138
+name: Rainbow Image of the Egg Nebula
+ra_hr: 21.0386111111111
+zoom_level: 0.493333333333333
+---
 _uuid: 47c25ad7-72e5-48e1-a2ed-30b0c8adc7fb
 angular_size: 1.0
 classification: Nebula
@@ -31,6 +42,28 @@ name: L1014
 ra_hr: 21.4019444444444
 zoom_level: 1.88833333333333
 ---
+_uuid: 63971a87-44e8-4065-8c96-eaa3abea413a
+angular_size: 1.0
+classification: GlobularCluster
+constellation: PEG
+data_set_type: Sky
+dec_deg: 12.1655555555556
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000332{Q}?g=138
+name: Globular Cluster M15
+ra_hr: 21.4994444444444
+zoom_level: 0.995
+---
+_uuid: ceff9eff-139b-4447-a454-7af0459c5d2d
+angular_size: 1.0
+classification: GlobularCluster
+constellation: PEG
+data_set_type: Sky
+dec_deg: 12.1655555555556
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001222{Q}?g=138
+name: A Dying Star in Globular Cluster M15
+ra_hr: 21.4994444444444
+zoom_level: 0.52
+---
 _uuid: d456b610-3070-482e-b14a-72bda3bb00c0
 angular_size: 1.0
 classification: Nebula
@@ -41,3 +74,14 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Elephant's Trunk Nebula
 ra_hr: 21.6008333333333
 zoom_level: 9.51333333333333
+---
+_uuid: cf8ad326-91d8-4ea7-a5bf-eddfc9ab2157
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 58.3843333333333
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013213{Q}?g=182
+name: IRAS 21101+5810;2MASX J21112926+5823074
+ra_hr: 21.1913666666667
+zoom_level: -1.0

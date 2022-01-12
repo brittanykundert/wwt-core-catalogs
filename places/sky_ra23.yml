@@ -1,3 +1,58 @@
+_uuid: f4ab942e-b3ed-4a7c-a88b-785a1f7a3256
+angular_size: 1.0
+classification: Galaxy
+constellation: CAS
+data_set_type: Sky
+dec_deg: 61.2097222222222
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003130{Q}?g=138
+name: 'The Bubble Nebula: NGC 7635'
+ra_hr: 23.345
+zoom_level: 2.0
+---
+_uuid: 29558496-7cf8-4ea7-814a-3522e5e5ea4a
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: CAS
+data_set_type: Sky
+dec_deg: 58.8169444444444
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010020{Q}?g=138
+name: Details of Supernova Remnant Cassiopeia A
+ra_hr: 23.3911111111111
+zoom_level: 0.706666666666667
+---
+_uuid: 3c28466c-e458-4b0e-ae65-6a67ed3ea627
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: CAS
+data_set_type: Sky
+dec_deg: 58.8169444444444
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010130{Q}?g=138
+name: 'Cassiopeia A: Colorful, Shredded Remains of Old Supernova'
+ra_hr: 23.3911111111111
+zoom_level: 0.706666666666667
+---
+_uuid: 73a9e065-e16d-424c-86ad-b2d80c89f296
+angular_size: 1.0
+classification: Galaxy
+constellation: IND
+data_set_type: Sky
+dec_deg: -69.2155555555556
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000012023{Q}?g=131
+name: ESO 77-14;ESO 077-IG014;AM 2317-692
+ra_hr: 23.3513888888889
+zoom_level: 1.005
+---
+_uuid: f30da3ae-ed8b-4868-a19f-c16b4f8ee585
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 20.5821944444444
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013010{Q}?g=182
+name: UGC 12812;NGC 7771;Mrk 9006;KPG 592B
+ra_hr: 23.8567111111111
+zoom_level: -1.0
+---
 _uuid: 77b6dc6d-a869-4854-8fcb-a68dfc76eccd
 angular_size: 1.0
 classification: Galaxy
@@ -20,6 +75,72 @@ name: Cosmic Ornament of Gas and Dust;Cassiopeia A
 ra_hr: 23.3905555555556
 zoom_level: 2.82833333333333
 ---
+_uuid: b01ebc59-9406-41b0-9b64-c4803d0ca9ee
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: SCL
+data_set_type: Sky
+dec_deg: -26.0786111111111
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001131{Q}?g=138
+name: Hubble Sees 'Comet Galaxy' Being Ripped Apart By Galaxy Cluster
+ra_hr: 23.8613888888889
+zoom_level: 1.0
+---
+_uuid: 0c0b836a-4af5-470b-acb9-92a579098d4a
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: CAS
+data_set_type: Sky
+dec_deg: 58.8169444444444
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002231{Q}?g=138
+name: Details of Supernova Remnant Cassiopeia A
+ra_hr: 23.3911111111111
+zoom_level: 0.706666666666667
+---
+_uuid: fea5a19e-d1bc-489e-b5d5-5a52f547353f
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: CAS
+data_set_type: Sky
+dec_deg: 58.8169444444444
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003021{Q}?g=138
+name: Supernova Remnant Cassiopeia A - December 2004
+ra_hr: 23.3911111111111
+zoom_level: 2.0
+---
+_uuid: 1f118417-1a26-4a54-99af-d6a040283da7
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 25.5574166666667
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012321{Q}?g=182
+name: IC 5298
+ra_hr: 23.2668861111111
+zoom_level: -1.0
+---
+_uuid: 6fcc8e51-565e-47dc-90a7-9d0643d18cbe
+angular_size: 1.0
+classification: Galaxy
+constellation: AND
+data_set_type: Sky
+dec_deg: -59.0536111111111
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000013211{Q}?g=182
+name: ESO 148-2;ESO 148-IG002;AM 2312-591
+ra_hr: 23.2630555555556
+zoom_level: 0.703333333333333
+---
+_uuid: 598a240c-a5d5-47e6-8446-2e4ea52e9806
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 8.77777777777778
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000020001{Q}?g=182
+name: NGC 7674;Mrk 533;HCG 96;Arp 182;VV 343a
+ra_hr: 23.4661111111111
+zoom_level: 1.48
+---
 _uuid: 6477ecbf-c198-4c92-b915-91dc6c7ea66a
 angular_size: 1.0
 classification: Galaxy
@@ -41,6 +162,17 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Cassiopeia A;Cas A
 ra_hr: 23.394562443066
 zoom_level: 1.0
+---
+_uuid: a095e58b-6530-4527-8840-e9211645b9fd
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: CAS
+data_set_type: Sky
+dec_deg: 58.8169444444444
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003312{Q}?g=138
+name: Details of Supernova Remnant Cassiopeia A
+ra_hr: 23.3911111111111
+zoom_level: 0.706666666666667
 ---
 _uuid: 6b73d93c-5b6a-4c33-a851-808f4cb370d2
 angular_size: 1.0
@@ -85,6 +217,50 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Cassiopeia A
 ra_hr: 23.3910868326667
 zoom_level: 1.0
+---
+_uuid: 98559261-db0d-4c72-b0a7-dcdf0e88384e
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: CAS
+data_set_type: Sky
+dec_deg: 58.8169444444444
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002333{Q}?g=138
+name: Supernova Remnant Cassiopeia A
+ra_hr: 23.3911111111111
+zoom_level: 2.0
+---
+_uuid: 33d3ff99-d2e6-43fb-8d79-5303d3f36b43
+angular_size: 1.0
+classification: SpiralGalaxy
+constellation: PEG
+data_set_type: Sky
+dec_deg: 10.7666666666667
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003003{Q}?g=138
+name: Black Hole-Powered Spiral Galaxy NGC 7742
+ra_hr: 23.7377777777778
+zoom_level: 0.91
+---
+_uuid: fbff10e0-b997-421f-9447-00bf49bb342c
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: CAS
+data_set_type: Sky
+dec_deg: 58.8169444444444
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012133{Q}?g=182
+name: Supernova Remnant Cassiopeia A - March 2004
+ra_hr: 23.3911111111111
+zoom_level: 2.0
+---
+_uuid: 00bcf56c-e552-45ae-8b36-b02c74c543b7
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 8.88511111111111
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013133{Q}?g=182
+name: NGC 7469;QSO J2303+0852;Arp 298;Mrk 1514;IC 5283;KPG 575A
+ra_hr: 23.0547
+zoom_level: -1.0
 ---
 _uuid: 3929b087-625f-4a9b-8f94-31a20d41fcf9
 angular_size: 1.0

@@ -9,6 +9,62 @@ name: G292.0+1.8 Supernova Remnant
 ra_hr: 11.4097866734987
 zoom_level: 1.0
 ---
+_uuid: 1e54c08d-ef49-4425-aec6-4a5003ebf5b0
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: UMA
+data_set_type: Sky
+dec_deg: 58.5636111111111
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000300{Q}?g=138
+name: A Cosmic Collision Between Two Galaxies, UGC 06471 and UGC 06472
+ra_hr: 11.4752777777778
+zoom_level: 1.0
+---
+_uuid: 65617ba8-3943-4c62-97f9-879b8e42a03f
+angular_size: 1.0
+classification: Nebula
+constellation: CEN
+data_set_type: Sky
+dec_deg: -63.3436111111111
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010030{Q}?g=138
+name: 'Thackeray''s Globules: Dense, Opaque Dust Clouds in Star-Forming Region IC
+  2944'
+ra_hr: 11.6394444444444
+zoom_level: 4.01833333333333
+---
+_uuid: 59334b8e-2cc4-4af3-bc5a-687ad936b96c
+angular_size: 1.0
+classification: PlanetaryNebula
+constellation: CEN
+data_set_type: Sky
+dec_deg: -57.1816666666667
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000221{Q}?g=138
+name: Planetary Nebula NGC 3918
+ra_hr: 11.8383333333333
+zoom_level: 0.351666666666667
+---
+_uuid: 0000da9c-1af2-4f86-9e42-fb33cfd8fcee
+angular_size: 1.0
+classification: Galaxy
+constellation: UMA
+data_set_type: Sky
+dec_deg: 47.8597222222222
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001111{Q}?g=138
+name: 'Spiral Galaxy NGC 3949: A Galaxy Similar to the Milky Way'
+ra_hr: 11.895
+zoom_level: 0.841666666666667
+---
+_uuid: 3a42e45a-ebbb-44c1-a2f3-c5c17d6dffaa
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: HYA
+data_set_type: Sky
+dec_deg: -26.49
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003011{Q}?g=138
+name: Full Hubble ACS  View of Spiderweb Galaxy Field
+ra_hr: 11.6797222222222
+zoom_level: 1.0
+---
 _uuid: 895edda7-654e-42a7-83a7-88c9087e161e
 angular_size: 1.0
 classification: Galaxy
@@ -19,3 +75,69 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Messier 66;NGC 3627;M66
 ra_hr: 11.3375
 zoom_level: 3.36333333333333
+---
+_uuid: 2ce4c16d-dd90-4db0-9199-659747b59a19
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 14.6763888888889
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000013032{Q}?g=182
+name: IC 2810
+ra_hr: 11.4292222222222
+zoom_level: -1.0
+---
+_uuid: c941eef2-96e4-4979-804f-021cbe9289b7
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 58.5630277777778
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000013222{Q}?g=182
+name: NGC 3690;IC 694;Mrk 171;Arp 299;VV 118;KPG 288
+ra_hr: 11.4755833333333
+zoom_level: -1.0
+---
+_uuid: 7451cfb7-b9c0-4dd0-8210-59f0aded4e9e
+angular_size: 1.0
+classification: Galaxy
+constellation: UMA
+data_set_type: Sky
+dec_deg: 43.9541666666667
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001203{Q}?g=138
+name: 'NGC 4013: A Galaxy on the Edge'
+ra_hr: 11.9763888888889
+zoom_level: 1.0
+---
+_uuid: a5f4d14e-4198-421e-8f0f-56887804393a
+angular_size: 1.0
+classification: Galaxy
+constellation: UMA
+data_set_type: Sky
+dec_deg: 43.9555555555556
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001203{Q}?g=138
+name: 'NGC 4013: A Galaxy on the Edge'
+ra_hr: 11.9763888888889
+zoom_level: 0.706666666666667
+---
+_uuid: faa527f6-5287-4e8b-ba7a-8409c9cbf25d
+angular_size: 1.0
+classification: Galaxy
+constellation: UMA
+data_set_type: Sky
+dec_deg: 65.2002777777778
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010103{Q}?g=138
+name: Host Galaxy of Gamma Ray Burst 971214
+ra_hr: 11.9405555555556
+zoom_level: 0.5
+---
+_uuid: f7b4975f-6668-4370-8a42-9d6321779db0
+angular_size: 1.0
+classification: Galaxy
+constellation: UMA
+data_set_type: Sky
+dec_deg: 40.8511111111111
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012313{Q}?g=131
+name: Arp 148;VV 032;Mayall's Object;MCG+07-23-019
+ra_hr: 11.0647222222222
+zoom_level: 0.361666666666667

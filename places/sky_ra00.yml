@@ -9,6 +9,149 @@ name: Cartwheel Galaxy
 ra_hr: 0.627120526632
 zoom_level: 1.0
 ---
+_uuid: a6b15f59-9aad-4c91-9744-388a05f9b48b
+angular_size: 1.0
+classification: Nebula
+constellation: TUC
+data_set_type: Sky
+dec_deg: -72.1747222222222
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000230{Q}?g=138
+name: Young Stars Sculpt Gas with Powerful Outflows in the Small Magellanic Cloud
+ra_hr: 0.985277777777778
+zoom_level: 1.68166666666667
+---
+_uuid: 1ba4d24b-e418-402f-8c3d-8ed74379ee1b
+angular_size: 1.0
+classification: Nebula
+constellation: TUC
+data_set_type: Sky
+dec_deg: -72.1761111111111
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001030{Q}?g=138
+name: Hubble's Black and White View of the Universe
+ra_hr: 0.985277777777778
+zoom_level: 1.0
+---
+_uuid: 22be6842-0deb-479a-a5ae-32046531fcd2
+angular_size: 1.0
+classification: GlobularCluster
+constellation: TUC
+data_set_type: Sky
+dec_deg: -73.1616666666667
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002330{Q}?g=138
+name: Star Cluster NGC 290
+ra_hr: 0.854166666666667
+zoom_level: 1.0
+---
+_uuid: c4df00f4-6e7a-45ff-9478-99282ae95427
+angular_size: 1.0
+classification: Galaxy
+constellation: SCL
+data_set_type: Sky
+dec_deg: -37.6822222222222
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003000{Q}?g=138
+name: Myriad of Stars in Spiral Galaxy NGC 300
+ra_hr: 0.915
+zoom_level: 2.0
+---
+_uuid: ee95e791-c38f-45a8-923f-a071174b9239
+angular_size: 1.0
+classification: SpiralGalaxy
+constellation: SCL
+data_set_type: Sky
+dec_deg: -37.6819444444444
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003000{Q}?g=138
+name: NGC 300;Myriad of Stars in Spiral Galaxy NGC 300
+ra_hr: 0.915
+zoom_level: 2.0
+---
+_uuid: 17202384-c1c6-4c06-9461-44a38f2d7d51
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: PSC
+data_set_type: Sky
+dec_deg: 17.1647222222222
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003310{Q}?g=138
+name: Hubble Finds Dark Matter Ring in Galaxy Cluster
+ra_hr: 0.442777777777778
+zoom_level: 2.0
+---
+_uuid: 3fc7d6a8-0d66-4540-afb6-0d70d7080ff6
+angular_size: 1.0
+classification: Galaxy
+constellation: SCL
+data_set_type: Sky
+dec_deg: -33.71
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010010{Q}?g=138
+name: Cartwheel Galaxy
+ra_hr: 0.628055555555556
+zoom_level: 1.0
+---
+_uuid: a66ed820-c415-4b93-8c8a-431321cae5ec
+angular_size: 1.0
+classification: Galaxy
+constellation: CET
+data_set_type: Sky
+dec_deg: -12.1069444444444
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013102{Q}?g=131
+name: NGC 17, NGC 34*
+ra_hr: 0.185277777777778
+zoom_level: 0.995
+---
+_uuid: 0d92c1c5-18a5-425a-a5d1-844fdf5e1f3f
+angular_size: 1.0
+classification: Galaxy
+constellation: SCL
+data_set_type: Sky
+dec_deg: -33.71
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000231{Q}?g=138
+name: Cartwheel Galaxy Image Close-up
+ra_hr: 0.628055555555556
+zoom_level: 1.0
+---
+_uuid: dba6bf42-6b42-490e-aff9-b242d532d3e1
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: PSC
+data_set_type: Sky
+dec_deg: 17.1625
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000311{Q}?g=138
+name: Searching for Dark Matter in a Galaxy Cluster
+ra_hr: 0.443055555555556
+zoom_level: 1.35833333333333
+---
+_uuid: 6984d5ff-5131-4336-9826-893a55150247
+angular_size: 1.0
+classification: InterstellarDust
+constellation: CAS
+data_set_type: Sky
+dec_deg: 56.6447222222222
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002211{Q}?g=138
+name: Nearby Dust Clouds in the Milky Way
+ra_hr: 0.884444444444444
+zoom_level: 3.945
+---
+_uuid: 8d5908fb-c602-462e-96c0-ca982b8fa621
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 73.0874444444444
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012331{Q}?g=182
+name: MCG+12-02-001
+ra_hr: 0.901075
+zoom_level: -1.0
+---
+_uuid: baed4ca6-1c04-4774-8d5d-7f9a37c56218
+angular_size: 1.0
+classification: Galaxy
+constellation: CET
+data_set_type: Sky
+dec_deg: -10.3677777777778
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000013031{Q}?g=131
+name: Arp 256;UGC 9618;VV 340A;Arp 302;VV 340B;KPG 446B;
+ra_hr: 0.314166666666667
+zoom_level: 0.995
+---
 _uuid: 7ee0f582-8914-4342-86f7-7ddc2dc555bc
 angular_size: 1.0
 classification: Galaxy
@@ -20,6 +163,28 @@ name: Dissection of a Galaxy;NGC 300
 ra_hr: 0.914444444444445
 zoom_level: 5.56833333333333
 ---
+_uuid: da363adf-db87-4843-8135-d222f4dd5255
+angular_size: 1.0
+classification: GlobularCluster
+constellation: TUC
+data_set_type: Sky
+dec_deg: -72.0822222222222
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001232{Q}?g=138
+name: Hubble Space Telescope (ACS) Image of 47 Tucanae
+ra_hr: 0.401388888888889
+zoom_level: 1.0
+---
+_uuid: d4e6b07f-d8fc-4796-afff-3986018d5c66
+angular_size: 1.0
+classification: Supernova
+constellation: CAS
+data_set_type: Sky
+dec_deg: 64.1880555555556
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003322{Q}?g=138
+name: 'Chandra X-ray Observatory: Expanding Bubble of Tycho''s Supernova'
+ra_hr: 0.416388888888889
+zoom_level: 0.25
+---
 _uuid: eb4caf48-92b5-4b91-93c2-85423945f618
 angular_size: 1.0
 classification: Galaxy
@@ -30,6 +195,39 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Three Faces of Andromeda;Andromeda Galaxy;Messier 31;M31
 ra_hr: 0.686944444444444
 zoom_level: 36.6383333333333
+---
+_uuid: 8f44f961-49c1-4f47-8faf-d7fd6e57c05a
+angular_size: 1.0
+classification: GiantMolecularCloud
+constellation: TUC
+data_set_type: Sky
+dec_deg: -72.1758333333333
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001133{Q}?g=138
+name: Infant Stars in the Small Magellanic Cloud
+ra_hr: 0.985277777777778
+zoom_level: 4.16333333333333
+---
+_uuid: c111f99b-0726-42f5-9cd9-216965c7d5bf
+angular_size: 1.0
+classification: GlobularCluster
+constellation: TUC
+data_set_type: Sky
+dec_deg: -73.4780555555556
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003213{Q}?g=138
+name: Star Cluster NGC 265
+ra_hr: 0.786111111111111
+zoom_level: 1.0
+---
+_uuid: 0336cb1a-56aa-443d-82ea-32b7d1b26291
+angular_size: 1.0
+classification: StellarGroupings
+constellation: AND
+data_set_type: Sky
+dec_deg: 40.71
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003303{Q}?g=138
+name: Young and Old Stars Found in Andromeda's Halo
+ra_hr: 0.768611111111111
+zoom_level: 2.82833333333333
 ---
 _uuid: a561141b-f312-4eb0-9cd3-ed97e6f4e5da
 angular_size: 1.0

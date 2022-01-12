@@ -18,6 +18,83 @@ name: NGC 6543;Cat's Eye Nebula
 ra_hr: 17.9759602864667
 zoom_level: 1.0
 ---
+_uuid: f8eec05b-b4c7-4f5c-a4d4-09d7333c8b7a
+angular_size: 1.0
+classification: GlobularCluster
+constellation: ARA
+data_set_type: Sky
+dec_deg: -53.6725
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000220{Q}?g=138
+name: Too Close for Comfort
+ra_hr: 17.6783333333333
+zoom_level: 1.0
+---
+_uuid: f73f9476-7bbc-4acb-831e-8748cacb67dd
+angular_size: 1.0
+classification: Star
+constellation: SGR
+data_set_type: Sky
+dec_deg: -29.1888888888889
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000330{Q}?g=138
+name: Detail of SWEEPS ACS/WFC Color Composite
+ra_hr: 17.9816666666667
+zoom_level: 0.42
+---
+_uuid: e9595e48-93c4-4b0c-be9b-746ac2044099
+angular_size: 1.0
+classification: Nebula
+constellation: DRA
+data_set_type: Sky
+dec_deg: 66.6330555555555
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001110{Q}?g=138
+name: Hubble Probes the Complex History of a Dying Star
+ra_hr: 17.9758333333333
+zoom_level: 0.5
+---
+_uuid: 733a89fc-ef43-48ed-8277-dca03273b01b
+angular_size: 1.0
+classification: Star
+constellation: ARA
+data_set_type: Sky
+dec_deg: -53.7455555555556
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001330{Q}?g=138
+name: Faint Red Star in NGC 6397
+ra_hr: 17.6825
+zoom_level: 1.0
+---
+_uuid: 9ca32e6e-6769-4adc-8c17-7ab07d6a716a
+angular_size: 1.0
+classification: GlobularCluster
+constellation: ARA
+data_set_type: Sky
+dec_deg: -53.6741666666667
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002230{Q}?g=138
+name: Location of ACS detail in NGC 6397
+ra_hr: 17.6780555555556
+zoom_level: 8.0
+---
+_uuid: 7c5e431d-a4e5-48bb-a720-15765c09bfe8
+angular_size: 1.0
+classification: Nebula
+constellation: OPH
+data_set_type: Sky
+dec_deg: -23.7586111111111
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003220{Q}?g=138
+name: An Old Star Gives Up the Ghost
+ra_hr: 17.4891666666667
+zoom_level: 0.5
+---
+_uuid: 6d417225-d00d-4b6b-9144-95ead2dbd9be
+angular_size: 1.0
+classification: OtherNGC
+constellation: ARA
+data_set_type: Sky
+dec_deg: -53.7244444444444
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003331{Q}?g=138
+name: Faint White Dwarf Star in Globular Cluster NGC 6397
+ra_hr: 17.6836111111111
+zoom_level: 1.0
+---
 _uuid: 12725b30-ea96-4cad-b58c-2bacbfa21506
 angular_size: 1.0
 classification: SupernovaRemnant
@@ -28,6 +105,116 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Kepler's Supernova Remnant
 ra_hr: 17.5113888888889
 zoom_level: 1.40666666666667
+---
+_uuid: abc4969d-1de6-420e-8c58-0c3574c205e3
+angular_size: 1.0
+classification: GlobularCluster
+constellation: ARA
+data_set_type: Sky
+dec_deg: -53.7386111111111
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001012{Q}?g=138
+name: NGC 6397
+ra_hr: 17.6827777777778
+zoom_level: 2.045
+---
+_uuid: 0fc6cc12-0bcb-4e1f-ab15-b932c378235a
+angular_size: 1.0
+classification: Nebula
+constellation: SGR
+data_set_type: Sky
+dec_deg: -24.2144444444444
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001032{Q}?g=138
+name: Silkworm Nebula (IRAS 17441-2411)
+ra_hr: 17.7869444444444
+zoom_level: 1.0
+---
+_uuid: c059d8b8-0372-48be-baa6-4ee2103c6f38
+angular_size: 1.0
+classification: Nebula
+constellation: SCO
+data_set_type: Sky
+dec_deg: -37.1038888888889
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001122{Q}?g=138
+name: A Dying Star Shrouded by a Blanket of Hailstones Forms the Bug Nebula (NGC 6302)
+ra_hr: 17.2294444444444
+zoom_level: 1.0
+---
+_uuid: 6ac6c8c1-bdd9-4a98-8e86-6016acc1c02d
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: OPH
+data_set_type: Sky
+dec_deg: -21.4766666666667
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002232{Q}?g=138
+name: Close-Up Visible Light Image of Kepler's Supernova Remnant
+ra_hr: 17.5105555555556
+zoom_level: 1.34333333333333
+---
+_uuid: f0ff0419-ca85-4d4c-b916-6748cb9f79fe
+angular_size: 1.0
+classification: Nebula
+constellation: SGR
+data_set_type: Sky
+dec_deg: -29.2005555555556
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003122{Q}?g=138
+name: SWEEPS ACS/WFC Color Composite
+ra_hr: 17.9825
+zoom_level: 1.0
+---
+_uuid: aafcf151-2375-4e8a-8ec4-14f398055302
+angular_size: 1.0
+classification: Nebula
+constellation: SCO
+data_set_type: Sky
+dec_deg: -34.1852777777778
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003212{Q}?g=138
+name: Pismis 24 and NGC 6357
+ra_hr: 17.4122222222222
+zoom_level: 2.0
+---
+_uuid: ea988d08-799c-4b95-aed3-8393b27f3a1e
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: OPH
+data_set_type: Sky
+dec_deg: -21.4908333333333
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010032{Q}?g=138
+name: Shock Wave in Kepler's Supernova Remnant
+ra_hr: 17.5113888888889
+zoom_level: 1.40666666666667
+---
+_uuid: 6e45d2cc-767c-4d56-bb0f-43b54dc43cad
+angular_size: 1.0
+classification: Nebula
+constellation: OPH
+data_set_type: Sky
+dec_deg: -10.1413888888889
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010132{Q}?g=138
+name: Supersonic Exhaust from Nebula M2-9
+ra_hr: 17.0938888888889
+zoom_level: 0.5
+---
+_uuid: 0ba3b99b-69e0-4136-b843-839681ec939d
+angular_size: 1.0
+classification: PlanetaryNebula
+constellation: DRA
+data_set_type: Sky
+dec_deg: 66.6330555555555
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001323{Q}?g=138
+name: The Cat's Eye Nebula
+ra_hr: 17.9758333333333
+zoom_level: 0.5
+---
+_uuid: 4cd0ca6f-192f-451b-921a-0a5959c2128c
+angular_size: 1.0
+classification: MultipleStars
+constellation: SGR
+data_set_type: Sky
+dec_deg: -29.2038888888889
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010133{Q}?g=138
+name: 'The Sagittarius Star Cloud: A Sky Full of Glittering Jewels'
+ra_hr: 17.9830555555556
+zoom_level: 1.415
 ---
 _uuid: c5ced5c5-b09a-41d9-a96e-27ff1ce6f191
 angular_size: 360.0

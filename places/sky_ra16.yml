@@ -31,6 +31,17 @@ name: ELAIS-N1
 ra_hr: 16.1102777777778
 zoom_level: 8.14
 ---
+_uuid: 0853dfea-01cc-42ee-82e2-7bbd8e30f525
+angular_size: 1.0
+classification: Galaxy
+constellation: AND
+data_set_type: Sky
+dec_deg: -68.4416666666667
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013322{Q}?g=131
+name: ESO 69-6;ESO 069-IG006;AM 1633-682
+ra_hr: 16.6366666666667
+zoom_level: 1.36833333333333
+---
 _uuid: d67d29e0-f5b9-40b2-82f2-dc479ebb7061
 angular_size: 1.0
 classification: Galaxy
@@ -41,6 +52,105 @@ foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Ant Nebula;Mz 3;Menzel 3
 ra_hr: 16.2875508626
 zoom_level: 1.0
+---
+_uuid: a9558dcf-5251-45a8-995b-f22c3e9bdcc4
+angular_size: 1.0
+classification: BlackHole
+constellation: SCO
+data_set_type: Sky
+dec_deg: -39.8458333333333
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000312{Q}?g=138
+name: Black Hole Companion Star GRO J1655-40
+ra_hr: 16.9
+zoom_level: 0.248333333333333
+---
+_uuid: 13be8e31-75b8-456a-a541-4fc3875ee2e0
+angular_size: 1.0
+classification: Nebula
+constellation: NOR
+data_set_type: Sky
+dec_deg: -51.9861111111111
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002202{Q}?g=138
+name: 'The Ant Nebula (Menzel 3): Fiery Lobes Protrude From Dying, Sun-like Star'
+ra_hr: 16.2869444444444
+zoom_level: 1.0
+---
+_uuid: 305f1089-3e0d-49c2-b9f7-9e8605af67c4
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: AND
+data_set_type: Sky
+dec_deg: 52.4569444444444
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012012{Q}?g=182
+name: NGC 6090;Mrk 0496;VV 626;I Zw 135;KPG 486
+ra_hr: 16.1945277777778
+zoom_level: -1.0
+---
+_uuid: fbaad9f5-c88e-46f7-b8f2-73bec6c81e39
+angular_size: 1.0
+classification: MultipleStars
+constellation: SCO
+data_set_type: Sky
+dec_deg: -26.5294444444444
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002023{Q}?g=138
+name: Close Up of Ancient, White Dwarf Stars in the Milky Way Galaxy
+ra_hr: 16.3991666666667
+zoom_level: 1.0
+---
+_uuid: 1393c91d-26e3-45d5-871e-a05649a96fb4
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: DRA
+data_set_type: Sky
+dec_deg: 66.2077777777778
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002123{Q}?g=138
+name: Hubble and Keck Team Up to Find the Farthest Known Galaxy
+ra_hr: 16.5972222222222
+zoom_level: 0.5
+---
+_uuid: 1994c9bb-873a-483c-84ab-3b8e622f4c5f
+angular_size: 1.0
+classification: GlobularCluster
+constellation: SCO
+data_set_type: Sky
+dec_deg: -22.975
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002313{Q}?g=138
+name: 'Globular Cluster M80: A Swarm of Ancient Stars in the Milky Way'
+ra_hr: 16.2841666666667
+zoom_level: 2.0
+---
+_uuid: b1a29933-96f3-465d-883d-e38982d35a24
+angular_size: 1.0
+classification: Galaxy
+constellation: DRA
+data_set_type: Sky
+dec_deg: 55.4319444444444
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002323{Q}?g=138
+name: Rich Background of Galaxies Behind the Tadpole Galaxy
+ra_hr: 16.1033333333333
+zoom_level: 2.0
+---
+_uuid: 877ae142-349f-4af2-9f57-05c2ad12466e
+angular_size: 1.0
+classification: Galaxy
+constellation: AND
+data_set_type: Sky
+dec_deg: 17.7575
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013113{Q}?g=131
+name: NGC 6050;IC 1179;Arp 272
+ra_hr: 16.0897222222222
+zoom_level: 0.496666666666667
+---
+_uuid: 63ddd1f0-6b61-4909-9d26-91a9c3e9b601
+angular_size: 1.0
+classification: Galaxy
+constellation: OPH
+data_set_type: Sky
+dec_deg: 2.40027777777778
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013203{Q}?g=131
+name: NGC 6240;VV 617
+ra_hr: 16.8830555555556
+zoom_level: 0.981666666666667
 ---
 _uuid: f104f094-f19c-42f8-8b0f-c9efee38be72
 angular_size: -1.0
