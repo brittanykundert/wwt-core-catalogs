@@ -83,6 +83,14 @@ children:
 - browseable: true
   children: []
   group: Explorer
+  name: ESO Studies
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=eso
+  type: Sky
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=eso
+- browseable: true
+  children: []
+  group: Explorer
   name: Gemini Studies
   searchable: true
   thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=geminiobservatory
