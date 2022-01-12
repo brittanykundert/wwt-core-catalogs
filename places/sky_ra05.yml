@@ -3654,28 +3654,6 @@ name: Peering into the Heart of the Crab Nebula
 ra_hr: 5.57555555555555
 zoom_level: 1.0
 ---
-_uuid: a0390e2c-80fe-48ef-a81b-667821a445ca
-angular_size: 1.0
-classification: Supernova
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.2688888888889
-foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003100{Q}?g=138
-name: Supernova 1987A - 6 December 2006;Supernova 1987A - 28 November 2003
-ra_hr: 5.59111111111111
-zoom_level: 0.0316666666666667
----
-_uuid: f015c1d5-6094-46c5-a120-afe6c9075954
-angular_size: 1.0
-classification: Supernova
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.2688888888889
-foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003120{Q}?g=138
-name: Supernova 1987A Mosaic
-ra_hr: 5.59111111111111
-zoom_level: 1.0
----
 _uuid: 3d5a2858-5dda-4139-b2a3-3659c2f9bac9
 angular_size: 1.0
 classification: ClusterOfGalaxies
@@ -3963,17 +3941,6 @@ name: 'Crab Nebula : Dead Star Creates Celestial Havoc'
 ra_hr: 5.57555555555555
 zoom_level: 1.0
 ---
-_uuid: 6e99321c-8ca7-4801-8b2d-02e4696dfbf6
-angular_size: 1.0
-classification: Supernova
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.2688888888889
-foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001132{Q}?g=138
-name: Supernova 1987A - 28 November 2003
-ra_hr: 5.59111111111111
-zoom_level: 0.0316666666666667
----
 _uuid: 01edb4d6-cfe2-4e37-b2da-fb0226f2b35e
 angular_size: 1.14166666666667
 classification: SupernovaRemnant
@@ -3995,17 +3962,6 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: N 63A
 ra_hr: 5.59222222222222
 zoom_level: 1.99666666666667
----
-_uuid: bf2cc6c4-9c9d-41cd-a29e-c60062ada876
-angular_size: 1.0
-classification: Supernova
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.2688888888889
-foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003002{Q}?g=138
-name: Supernova 1987A Difference Composite;Supernova 1987A - 28 November 2003
-ra_hr: 5.59111111111111
-zoom_level: 0.0316666666666667
 ---
 _uuid: 2bf131ce-f952-46f4-9dfe-5e465e768bdc
 angular_size: 1.0
@@ -4138,17 +4094,6 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Supernova Remnant LMC N 63A in X-Ray, Optical and Radio Radiation
 ra_hr: 5.59555555555556
 zoom_level: 0.906666666666667
----
-_uuid: a1049fd8-ef44-436e-b634-7a98e7765603
-angular_size: 1.0
-classification: Supernova
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.2688888888889
-foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003013{Q}?g=138
-name: Supernova 1987A - 12 December 2004;Supernova 1987A - 28 November 2003
-ra_hr: 5.59111111111111
-zoom_level: 0.0316666666666667
 ---
 _uuid: b53e2a3a-b0cf-45d3-9b4d-0e8cd7e761f0
 angular_size: 1.0

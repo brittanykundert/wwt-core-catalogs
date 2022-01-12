@@ -29158,30 +29158,6 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="0.00116408668848891"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="83.8650610114788"
-    CenterY="-69.2689138621194"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Supernova 1987A - 28 November 2003"
-    Projection="Tan"
-    QuadTreeMap="0123"
-    Rotation="-2.96696059701587"
-    Sparse="True"
-    TileLevels="1"
-    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003100{Q}?g=138"
-    WidthFactor="2"
-  >
-    <Credits>Credit: NASA, ESA, P. Challis and R. Kirshner (Harvard-Smithsonian Center for Astrophysics)</Credits>
-    <CreditsUrl>http://hubblesite.org/newscenter/newsdesk/archive/releases/2007/10/</CreditsUrl>
-    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=768511775</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="0.0568352136034423"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -29203,30 +29179,6 @@
     <Credits>Credit: NASA, ESA, and the Hubble Heritage Team (STScI/AURA) Acknowledgment: J. Green (University of Colorado, Boulder)</Credits>
     <CreditsUrl>http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/35/</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=550509559</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="0.0566216173214641"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="83.8616586369722"
-    CenterY="-69.2712905890321"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Supernova 1987A Mosaic"
-    Projection="Tan"
-    QuadTreeMap="0123"
-    Rotation="17.2828777505377"
-    Sparse="True"
-    TileLevels="3"
-    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003120{Q}?g=138"
-    WidthFactor="2"
-  >
-    <Credits>Credit: The Hubble Heritage Team (AURA/STScI/NASA)</Credits>
-    <CreditsUrl>http://hubblesite.org/newscenter/newsdesk/archive/releases/1999/04/</CreditsUrl>
-    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=299382599</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -32596,30 +32548,6 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="0.00133339633282473"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="83.8650610114788"
-    CenterY="-69.2689138621194"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Supernova 1987A - 28 November 2003"
-    Projection="Tan"
-    QuadTreeMap="0123"
-    Rotation="-2.96696059701587"
-    Sparse="True"
-    TileLevels="1"
-    Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001132{Q}?g=138"
-    WidthFactor="2"
-  >
-    <Credits>Credit: NASA, P. Challis, R. Kirshner (Harvard-Smithsonian  Center for Astrophysics) and B. Sugerman (STScI)</Credits>
-    <CreditsUrl>http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/09/</CreditsUrl>
-    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=45606958</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="0.0284309084825328"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -33145,30 +33073,6 @@
     <Credits>Credit: NASA, ESA, Y. Izotov (Main Astronomical Observatory, Kyiv, UA) and T. Thuan (University of Virginia)</Credits>
     <CreditsUrl>http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/35/</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1964128802</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="0.00116408668848891"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="83.8649674924887"
-    CenterY="-69.2689233205216"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Supernova 1987A - 28 November 2003"
-    Projection="Tan"
-    QuadTreeMap="0123"
-    Rotation="65.693039402984"
-    Sparse="True"
-    TileLevels="2"
-    Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003002{Q}?g=138"
-    WidthFactor="2"
-  >
-    <Credits> NASA, Peter Challis and Robert Kirshner (Harvard-Smithsonian Center for Astrophysics), Peter Garnavich (University of Notre Dame), and the SINS Collaboration</Credits>
-    <CreditsUrl>http://hubblesite.org/newscenter/newsdesk/archive/releases/2000/11/</CreditsUrl>
-    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1809026627</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -34897,30 +34801,6 @@
     <Credits>Credit: The Hubble Heritage Team (AURA/STScI/NASA)</Credits>
     <CreditsUrl>http://hubblesite.org/newscenter/newsdesk/archive/releases/1998/28/</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=282077515</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="0.00116408668848891"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="83.8650610114788"
-    CenterY="-69.2689138621194"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Supernova 1987A - 28 November 2003"
-    Projection="Tan"
-    QuadTreeMap="0123"
-    Rotation="-2.96696059701587"
-    Sparse="True"
-    TileLevels="1"
-    Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003013{Q}?g=138"
-    WidthFactor="2"
-  >
-    <Credits>Credit: NASA, ESA, P. Challis and R. Kirshner (Harvard-Smithsonian Center for Astrophysics)</Credits>
-    <CreditsUrl>http://hubblesite.org/newscenter/newsdesk/archive/releases/2007/10/</CreditsUrl>
-    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=727317674</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
