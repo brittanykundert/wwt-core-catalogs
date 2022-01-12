@@ -1,0 +1,21 @@
+_uuid: d64c839c-14fa-4918-a676-82bfef486206
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: CRA
+data_set_type: Sky
+dec_deg: -36.9766666666667
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000120220{Q}?g=182
+name: 'Coronet: A Star-Formation Neighbor;Coronet Cluster'
+ra_hr: 19.0297222222222
+zoom_level: 8.0
+---
+_uuid: ead78c68-3550-4bbd-9d9e-5a13e67a15f5
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: CRA
+data_set_type: Sky
+dec_deg: -36.9766666666667
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000120221{Q}?g=182
+name: Infrared Coronet Cluster;Coronet Cluster
+ra_hr: 19.0297222222222
+zoom_level: 8.0

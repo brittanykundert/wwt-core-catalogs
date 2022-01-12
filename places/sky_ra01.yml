@@ -1,0 +1,32 @@
+_uuid: 2dc77f0e-2bba-4aa4-9534-0677d8fdb801
+angular_size: 1.0
+classification: Supernova
+constellation: PSC
+data_set_type: Sky
+dec_deg: 15.7405555555556
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000120200{Q}?g=182
+name: Supernova Dust Factory in M74;M74;NGC628;Messier 74;NGC 628;Supernova 2003gd
+ra_hr: 1.61166666666667
+zoom_level: 1.415
+---
+_uuid: 37f3ab69-cb77-4ecc-8945-f235d34a80ac
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: TUC
+data_set_type: Sky
+dec_deg: -72.0163888888889
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000120132{Q}?g=182
+name: Dusty Death of a Massive Star;E0102.2-7219;N76;
+ra_hr: 1.06194444444444
+zoom_level: 11.3133333333333
+---
+_uuid: ec507658-501c-46cd-816d-580cd0e62dcb
+angular_size: 1.0
+classification: Supernova
+constellation: PSC
+data_set_type: Sky
+dec_deg: 15.7405555555556
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000120133{Q}?g=182
+name: Supernova Dust Factory in M74;M74;NGC628;Messier 74;NGC 628;Supernova 2003gd
+ra_hr: 1.61166666666667
+zoom_level: 1.415

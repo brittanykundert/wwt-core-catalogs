@@ -1,0 +1,43 @@
+_uuid: f65c7098-2d22-4662-bba2-9660ac227621
+angular_size: 1.0
+classification: MultipleStars
+constellation: DRA
+data_set_type: Sky
+dec_deg: 54.9069444444444
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011110{Q}?g=131
+name: SWIRE Zoom of deep space in ELAIS-N1
+ra_hr: 16.1380555555556
+zoom_level: 2.035
+---
+_uuid: e8ed5cf6-039e-4c65-9b8b-adaeedb4e2b1
+angular_size: 1.0
+classification: Galaxy
+constellation: DRA
+data_set_type: Sky
+dec_deg: 55.4283333333333
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011120{Q}?g=131
+name: Tadpole Galaxy
+ra_hr: 16.1030555555556
+zoom_level: 2.035
+---
+_uuid: 8a3e2ecb-0331-40bb-8372-01a6f16f09c0
+angular_size: 1.0
+classification: MultipleStars
+constellation: DRA
+data_set_type: Sky
+dec_deg: 54.9955555555556
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011210{Q}?g=131
+name: ELAIS-N1
+ra_hr: 16.1102777777778
+zoom_level: 8.14
+---
+_uuid: f104f094-f19c-42f8-8b0f-c9efee38be72
+angular_size: -1.0
+classification: Nebula
+constellation: ARA
+data_set_type: Sky
+dec_deg: -48.865
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},152197268
+name: Massive Young Stars Trigger Stellar Birth;RCW 108
+ra_hr: 16.6663888888889
+zoom_level: 4.5

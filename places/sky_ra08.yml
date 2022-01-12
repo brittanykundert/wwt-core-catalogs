@@ -1,0 +1,21 @@
+_uuid: 792df8a6-d4f5-4a8e-b5ef-72b224fe0cab
+angular_size: 1.0
+classification: Galaxy
+constellation: CNC
+data_set_type: Sky
+dec_deg: 25.2044444444444
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000011131{Q}?g=131
+name: Arp 82 Galaxy Pair;NGC 2535;NGC 2536
+ra_hr: 8.18666666666667
+zoom_level: 2.0
+---
+_uuid: cc9e3109-d2bf-4446-b592-76c41e8197c0
+angular_size: 1.0
+classification: Star
+constellation: VEL
+data_set_type: Sky
+dec_deg: -51.0111111111111
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000120222{Q}?g=182
+name: Bubbly Little Star;HH 46/47
+ra_hr: 8.42833333333333
+zoom_level: 1.0

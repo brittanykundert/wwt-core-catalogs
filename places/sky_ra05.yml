@@ -1,0 +1,153 @@
+_uuid: a0100583-17b0-406f-a38d-7ab194469aa6
+angular_size: 1.0
+classification: GiantMolecularCloud
+constellation: ORI
+data_set_type: Sky
+dec_deg: 12.2697222222222
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010330{Q}?g=131
+name: Barnard 30
+ra_hr: 5.52333333333333
+zoom_level: 11.3133333333333
+---
+_uuid: fc6d3836-8443-43b0-80f0-62a072746f37
+angular_size: 1.0
+classification: Nebula
+constellation: ORI
+data_set_type: Sky
+dec_deg: -5.44416666666667
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011020{Q}?g=131
+name: Orion Nebula
+ra_hr: 5.58083333333333
+zoom_level: 19.59
+---
+_uuid: ac394dc8-53f6-4c81-9bd6-a39f2d6c3ec5
+angular_size: 1.0
+classification: GiantMolecularCloud
+constellation: ORI
+data_set_type: Sky
+dec_deg: 12.2697222222222
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010211{Q}?g=131
+name: Barnard 30
+ra_hr: 5.52333333333333
+zoom_level: 11.3133333333333
+---
+_uuid: 5730afcd-b5bc-44c2-9177-5a00b386bc94
+angular_size: 1.0
+classification: Nebula
+constellation: ORI
+data_set_type: Sky
+dec_deg: -5.44416666666667
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010231{Q}?g=131
+name: Orion Nebula
+ra_hr: 5.58083333333333
+zoom_level: 19.59
+---
+_uuid: d4d57830-46d8-461a-bd4b-e5a2f51eedd8
+angular_size: 1.0
+classification: GiantMolecularCloud
+constellation: MEN
+data_set_type: Sky
+dec_deg: -71.0566666666667
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010331{Q}?g=131
+name: Star Formation in Henize 206;Henize 206
+ra_hr: 5.50194444444444
+zoom_level: 7.64666666666667
+---
+_uuid: 12c7db9c-4010-4622-a52a-5a670881e84e
+angular_size: 1.0
+classification: Nebula
+constellation: ORI
+data_set_type: Sky
+dec_deg: -5.44416666666667
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000011021{Q}?g=131
+name: Orion Nebula
+ra_hr: 5.58083333333333
+zoom_level: 19.59
+---
+_uuid: a428e777-1c59-4773-bb1e-0a5717465cfb
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: TAU
+data_set_type: Sky
+dec_deg: 22.0172222222222
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000011031{Q}?g=131
+name: Crab Nebula;M1;Messier 1;NGC 1952
+ra_hr: 5.57527777777778
+zoom_level: 2.0
+---
+_uuid: d046381a-19ad-4a53-b583-665e6adec4fa
+angular_size: 1.0
+classification: GiantMolecularCloud
+constellation: PSC
+data_set_type: Sky
+dec_deg: -6.46166666666667
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000120201{Q}?g=182
+name: Baby Stars in the Witch Head Nebula;Witch Head nebula
+ra_hr: 5.09638888888889
+zoom_level: 16.0
+---
+_uuid: 71beabaf-b599-4ad3-8143-82b138888f3c
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: DOR
+data_set_type: Sky
+dec_deg: -66.0108333333333
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002122{Q}?g=138
+name: N 63A
+ra_hr: 5.59222222222222
+zoom_level: 1.99666666666667
+---
+_uuid: 2bf131ce-f952-46f4-9dfe-5e465e768bdc
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: TAU
+data_set_type: Sky
+dec_deg: 22.0172222222222
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010322{Q}?g=131
+name: Crab Nebula;M1;Messier 1;NGC 1952
+ra_hr: 5.57527777777778
+zoom_level: 2.0
+---
+_uuid: 4f3e53d0-60f0-4d90-a9ca-69d8bf82724f
+angular_size: 1.0
+classification: Nebula
+constellation: ERI
+data_set_type: Sky
+dec_deg: -6.28361111111111
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000011012{Q}?g=131
+name: Witch Head Nebula
+ra_hr: 5.12555555555555
+zoom_level: 4.78666666666667
+---
+_uuid: 04be97b4-75f7-4932-bb51-0aede69ea835
+angular_size: 1.0
+classification: GiantMolecularCloud
+constellation: MEN
+data_set_type: Sky
+dec_deg: -71.0566666666667
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000120232{Q}?g=182
+name: Star Formation in Henize 206;Henize 206
+ra_hr: 5.50194444444444
+zoom_level: 7.64666666666667
+---
+_uuid: 67fdb4c5-9d0a-48da-8aa4-02617d07d2ae
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: DOR
+data_set_type: Sky
+dec_deg: -66.0108333333333
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001013{Q}?g=138
+name: Supernova Remnant N 63A
+ra_hr: 5.59222222222222
+zoom_level: 1.99666666666667
+---
+_uuid: be503c8c-35da-4460-908e-76ae20f88a52
+angular_size: 1.0
+classification: GiantMolecularCloud
+constellation: MEN
+data_set_type: Sky
+dec_deg: -71.0566666666667
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000120233{Q}?g=182
+name: Star Formation in Henize 206;Henize 206
+ra_hr: 5.50194444444444
+zoom_level: 7.64666666666667

@@ -1,0 +1,32 @@
+_uuid: 7ee0f582-8914-4342-86f7-7ddc2dc555bc
+angular_size: 1.0
+classification: Galaxy
+constellation: SCL
+data_set_type: Sky
+dec_deg: -37.6766666666667
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000120301{Q}?g=182
+name: Dissection of a Galaxy;NGC 300
+ra_hr: 0.914444444444445
+zoom_level: 5.56833333333333
+---
+_uuid: eb4caf48-92b5-4b91-93c2-85423945f618
+angular_size: 1.0
+classification: Galaxy
+constellation: AND
+data_set_type: Sky
+dec_deg: 41.0613888888889
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000120322{Q}?g=182
+name: Three Faces of Andromeda;Andromeda Galaxy;Messier 31;M31
+ra_hr: 0.686944444444444
+zoom_level: 36.6383333333333
+---
+_uuid: a561141b-f312-4eb0-9cd3-ed97e6f4e5da
+angular_size: 1.0
+classification: GiantMolecularCloud
+constellation: TUC
+data_set_type: Sky
+dec_deg: -72.1786111111111
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1748854392
+name: Stellar Work of Art;NGC 346
+ra_hr: 0.986666666666667
+zoom_level: 2.79

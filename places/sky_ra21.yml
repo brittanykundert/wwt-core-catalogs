@@ -1,0 +1,43 @@
+_uuid: 47c25ad7-72e5-48e1-a2ed-30b0c8adc7fb
+angular_size: 1.0
+classification: Nebula
+constellation: CEP
+data_set_type: Sky
+dec_deg: 57.4702777777778
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010320{Q}?g=131
+name: Elephant's Trunk Nebula
+ra_hr: 21.6008333333333
+zoom_level: 9.51333333333333
+---
+_uuid: 7b19a06a-8e65-43f9-8571-a78f9d34277a
+angular_size: 1.0
+classification: InterstellarDust
+constellation: CEP
+data_set_type: Sky
+dec_deg: 57.4702777777778
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000120230{Q}?g=182
+name: Dark Globule in IC 1396;Elephant's trunk Nebula
+ra_hr: 21.6008333333333
+zoom_level: 9.51333333333333
+---
+_uuid: 5f8fd495-dd8a-4cf5-b2fe-94f6bf0fb8bd
+angular_size: 1.0
+classification: Other
+constellation: CYG
+data_set_type: Sky
+dec_deg: 49.9855555555556
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010221{Q}?g=131
+name: L1014
+ra_hr: 21.4019444444444
+zoom_level: 1.88833333333333
+---
+_uuid: d456b610-3070-482e-b14a-72bda3bb00c0
+angular_size: 1.0
+classification: Nebula
+constellation: CEP
+data_set_type: Sky
+dec_deg: 57.4702777777778
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010302{Q}?g=131
+name: Elephant's Trunk Nebula
+ra_hr: 21.6008333333333
+zoom_level: 9.51333333333333

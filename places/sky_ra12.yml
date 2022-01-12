@@ -1,3 +1,36 @@
+_uuid: 76f3fbdf-6d7a-4e4b-863a-49a45264497a
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: COM
+data_set_type: Sky
+dec_deg: 27.9677777777778
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010210{Q}?g=131
+name: Coma Cluster
+ra_hr: 12.9997222222222
+zoom_level: 10.7683333333333
+---
+_uuid: 29de2eb7-b4b8-4e4a-b0ba-05543e0cd216
+angular_size: 1.0
+classification: Galaxy
+constellation: VIR
+data_set_type: Sky
+dec_deg: -11.6219444444444
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010230{Q}?g=131
+name: Sombrero Galaxy;M104;Messier 104
+ra_hr: 12.6663888888889
+zoom_level: 2.0
+---
+_uuid: 4c813d4e-6651-4161-abb7-221cf6c169f6
+angular_size: 1.0
+classification: StellarGroupings
+constellation: MUS
+data_set_type: Sky
+dec_deg: -65.1480555555556
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000120211{Q}?g=182
+name: Spitzer Digs Up Hidden Stars;BHR 71
+ra_hr: 12.0288888888889
+zoom_level: 4.41333333333333
+---
 _uuid: 6c939749-1e7e-42e8-8059-2896c631893b
 angular_size: 360.0
 classification: Stellar
@@ -7,3 +40,58 @@ dec_deg: 13.27
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wtl11{Q}?g=155&band=wwt_rgb
 name: Big Picture
 ra_hr: 12.390277777777778
+---
+_uuid: e8931c64-15ae-4b11-9efa-c907a8a8eed9
+angular_size: 1.0
+classification: Galaxy
+constellation: VIR
+data_set_type: Sky
+dec_deg: -11.6219444444444
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010222{Q}?g=131
+name: Sombrero Galaxy
+ra_hr: 12.6663888888889
+zoom_level: 2.0
+---
+_uuid: f67af397-17e4-4aa3-a471-cf2a4b136340
+angular_size: 1.0
+classification: Galaxy
+constellation: COM
+data_set_type: Sky
+dec_deg: 25.5030555555556
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010213{Q}?g=131
+name: NGC 4725
+ra_hr: 12.8408333333333
+zoom_level: 4.0
+---
+_uuid: 66081f1f-9802-43e7-b571-e4817e40798e
+angular_size: 1.0
+classification: Galaxy
+constellation: VIR
+data_set_type: Sky
+dec_deg: 11.8205555555556
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000011013{Q}?g=131
+name: Messier 58;M58;NGC 4579
+ra_hr: 12.6286111111111
+zoom_level: 2.37833333333333
+---
+_uuid: 721e23eb-99c8-42e6-a182-5f4a5cb10d84
+angular_size: 1.0
+classification: Galaxy
+constellation: CRV
+data_set_type: Sky
+dec_deg: -18.8775
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000120303{Q}?g=182
+name: Fire within Antennae Galaxies;Antennae Galaxies
+ra_hr: 12.0313888888889
+zoom_level: 1.99
+---
+_uuid: d97cdb80-b33e-4902-9352-68d9ac82f3bc
+angular_size: 1.0
+classification: Galaxy
+constellation: CVN
+data_set_type: Sky
+dec_deg: 47.3119444444444
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000120333{Q}?g=182
+name: Anomalous Arms;Messier 106;NGC 4258
+ra_hr: 12.3158333333333
+zoom_level: 5.625
