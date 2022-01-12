@@ -16,7 +16,7 @@
     ElevationModel="False"
     FileType=".png"
     Generic="False"
-    Name="THEMIS_IR_Day_100m"
+    Name="Mars Odyssey THEMIS Infrared"
     Projection="Toast"
     ReferenceFrame="Mars"
     Rotation="0"
@@ -27,7 +27,7 @@
   >
     <Credits>THEMIS Team / Arizona State University</Credits>
     <CreditsUrl>https://planetarymaps.usgs.gov/mosaic/Mars_MO_THEMIS-IR-Day_mosaic_global_100m_v12.tif</CreditsUrl>
-    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/02_themis/thumb.jpg</ThumbnailUrl>
+    <ThumbnailUrl>http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mars</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
