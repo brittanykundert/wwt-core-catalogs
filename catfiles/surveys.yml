@@ -21,7 +21,7 @@ children:
 - imageset http://www.worldwidetelescope.org/wwtweb/galex4far.aspx?q={1},{2},{3}
 - imageset http://www.worldwidetelescope.org/wwtweb/galexTOAST.aspx?q={1},{2},{3}
 - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001132{Q}?g=182 # ROSAT RASS
-- imageset http://wwtfiles.blob.core.windows.net/fermilatyear8/Fermi LAT 8-yearL{1}X{2}Y{3}.png
+- imageset http://wwtfiles.blob.core.windows.net/fermilatyear8/Fermi%20LAT%208-yearL{1}X{2}Y{3}.png
 - place 6c939749-1e7e-42e8-8059-2896c631893b # "Big Picture" (not all-sky)
 - 'imageset ' # Black Sky Background
 - browseable: true

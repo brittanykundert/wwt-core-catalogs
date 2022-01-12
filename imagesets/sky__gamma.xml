@@ -167,7 +167,7 @@
     Rotation="0"
     Sparse="False"
     TileLevels="6"
-    Url="http://wwtfiles.blob.core.windows.net/fermilatyear8/Fermi LAT 8-yearL{1}X{2}Y{3}.png"
+    Url="http://wwtfiles.blob.core.windows.net/fermilatyear8/Fermi%20LAT%208-yearL{1}X{2}Y{3}.png"
     WidthFactor="2"
   >
     <Credits>Gamma-ray intensity map (photons cm^-2 s-1 sr^-1, &gt;1 GeV) =&gt;1000 MeV
