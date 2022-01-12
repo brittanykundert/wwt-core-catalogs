@@ -634,7 +634,7 @@ def do_report(_settings):
 # trace
 
 
-def _trace_catfile(path: Path, idb: ImagesetDatabase):
+def _trace_catfile(path: Path, pdb: PlaceDatabase, idb: ImagesetDatabase):
     # TODO: fairly redundant with "emit"
 
     with path.open("rt", encoding="utf-8") as f:
@@ -647,7 +647,13 @@ def _trace_catfile(path: Path, idb: ImagesetDatabase):
                     imgset = idb.get_by_url(spec[9:])
                     imgset.rmeta.touched = True
                 elif spec.startswith("place "):
-                    pass  # for now?
+                    place = pdb.reconst_by_id(spec[6:], idb)
+                    if place.image_set is not None:
+                        place.image_set.rmeta.touched = True
+                    if place.background_image_set is not None:
+                        place.background_image_set.rmeta.touched = True
+                    if place.foreground_image_set is not None:
+                        place.foreground_image_set.rmeta.touched = True
                 else:
                     assert False, f"unexpected terse folder child `{spec}`"
             else:
@@ -663,7 +669,7 @@ def _trace_catfile(path: Path, idb: ImagesetDatabase):
 
                         if catpath.exists():
                             print(f"Recursing into `{catname}`")
-                            _trace_catfile(catpath, idb)
+                            _trace_catfile(catpath, pdb, idb)
                         else:
                             print(
                                 f"Skipping `{catname}` which does not seem to be managed by this framework"
@@ -681,7 +687,7 @@ def do_trace(_settings):
     for imgset in idb.by_url.values():
         imgset.rmeta.touched = False
 
-    _trace_catfile(BASEDIR / "catfiles" / "exploreroot6.yml", idb)
+    _trace_catfile(BASEDIR / "catfiles" / "exploreroot6.yml", pdb, idb)
 
     for imgset in idb.by_url.values():
         if imgset.rmeta.touched:
