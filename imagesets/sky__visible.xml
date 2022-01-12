@@ -1470,6 +1470,106 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.17066667974656"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="266.398683656"
+    CenterY="-28.9777503616"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType="png"
+    Generic="False"
+    Name="Sgr A 6cm (Radio)"
+    OffsetX="-0.0157345593308965"
+    OffsetY="-0.030190533730469"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0.3174436986"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011321{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>Farhad Yusef-Zadeh; Mark Wardle; NRAO</Credits>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=6cm_fin_r-9.vts.2</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.69777777291264"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="266.493299881"
+    CenterY="-28.9674416572"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType="png"
+    Generic="False"
+    Name="Galactic Center 90cm (Radio)"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0.3174504042"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011322{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>T.J.W.Lazio (NRL); J.Imamura (TJHSST); D.G.Briggs (NRL); N.E.Kassim</Credits>
+    <CreditsUrl>http://rsd-www.nrl.navy.mil/7213/lazio/GC/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=gc-p-bcd</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.1137777864704"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="266.416795464"
+    CenterY="-29.0077462072"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType="png"
+    Generic="False"
+    Name="CND in HCN (Radio)"
+    OffsetX="-5.55555598e-05"
+    OffsetY="0.0041111114252"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011323{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>Michol Christophe; Nick Scoville</Credits>
+    <CreditsUrl>http://arxiv.org/abs/astro-ph?papernum=0502532</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=hcn</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.1137777864704"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="266.416795464"
+    CenterY="-29.0077462072"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType="png"
+    Generic="False"
+    Name="Sgr A West 3.6cm (Radio)"
+    OffsetX="-5.55555598e-05"
+    OffsetY="0.0041111114252"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011330{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>Farhad Yusef-Zadeh; Mark Wardle; NRAO</Credits>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=sgra-x</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.0515913587460267"
     BaseTileLevel="0"
     BottomsUp="False"
