@@ -216,6 +216,16 @@ name: 'The Sagittarius Star Cloud: A Sky Full of Glittering Jewels'
 ra_hr: 17.9830555555556
 zoom_level: 1.415
 ---
+_uuid: e49297e4-b53f-434b-94d5-db4430a6858f
+classification: Unfiltered
+constellation: OPH
+data_set_type: Sky
+dec_deg: -10.1429388888889
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/322257724/{1}/{3}/{3}_{2}.png
+name: The Butterfly Planetary Nebula M2-9
+ra_hr: 17.0938755555556
+zoom_level: 1.2
+---
 _uuid: c5ced5c5-b09a-41d9-a96e-27ff1ce6f191
 angular_size: 360.0
 classification: Galactic

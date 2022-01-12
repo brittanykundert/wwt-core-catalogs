@@ -64,6 +64,16 @@ name: NGC 5754;NGC 5752/4;Arp 297;
 ra_hr: 14.7554555555555
 zoom_level: -1.0
 ---
+_uuid: a88a09be-d242-4892-a9a0-3aae42d194b2
+classification: Unfiltered
+constellation: VIR
+data_set_type: Sky
+dec_deg: -6.02841666666667
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/217826522/{1}/{3}/{3}_{2}.png
+name: Twin Galaxies NGC 5426-27
+ra_hr: 14.057125
+zoom_level: 1.2
+---
 _uuid: a8de7ce5-6e7f-48dd-8708-b83a14f36928
 angular_size: 1.0
 classification: SpiralGalaxy

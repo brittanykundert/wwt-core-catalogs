@@ -595,6 +595,26 @@ name: Star Formation in Henize 206;Henize 206
 ra_hr: 5.50194444444444
 zoom_level: 7.64666666666667
 ---
+_uuid: 4e418f74-e0ba-4538-a0ae-d8a1118aca67
+classification: Unfiltered
+constellation: DOR
+data_set_type: Sky
+dec_deg: -67.9593611111111
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/204114155/{1}/{3}/{3}_{2}.png
+name: Super Bubble Complex N44
+ra_hr: 5.36772777777778
+zoom_level: 1.2
+---
+_uuid: 7c892b8d-8133-4bd5-99d1-fdb18dd40e1a
+classification: Unfiltered
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.7038888888889
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/485824566/{1}/{3}/{3}_{2}.png
+name: Supernova Remnants DEM L316
+ra_hr: 5.78597222222222
+zoom_level: 1.2
+---
 _uuid: 1988eb77-3f64-4ab8-852d-95c00ed40863
 angular_size: 1.0
 classification: Galaxy

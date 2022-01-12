@@ -318,6 +318,16 @@ name: Stellar 'Incubators' Seen Cooking up Stars;Messier 20;M20;Trifid Nebula;;;
 ra_hr: 18.0408333333333
 zoom_level: 7.57833333333333
 ---
+_uuid: e5b54836-2163-4369-b8a5-41974d80b4c1
+classification: Unfiltered
+constellation: SGR
+data_set_type: Sky
+dec_deg: -23.03
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/869831676/{1}/{3}/{3}_{2}.png
+name: Trifid Nebula M20
+ra_hr: 18.0397222222222
+zoom_level: 1.2
+---
 _uuid: 797dae26-fa7f-4f67-affb-e13596504be2
 angular_size: 1.0
 classification: SupernovaRemnant

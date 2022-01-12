@@ -97,6 +97,26 @@ name: IRAS 20351+2521;2MASX J20371771+2531377
 ra_hr: 20.6216722222222
 zoom_level: -1.0
 ---
+_uuid: d7f139c7-bd62-42ee-a509-83e91bfb3b54
+classification: Unfiltered
+constellation: CAP
+data_set_type: Sky
+dec_deg: -19.8430555555556
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/135095378/{1}/{3}/{3}_{2}.png
+name: Hickson Compact Group 87
+ra_hr: 20.8030555555556
+zoom_level: 1.2
+---
+_uuid: a8b9c5f3-862d-4d12-861e-f344156270b2
+classification: Unfiltered
+constellation: CYG
+data_set_type: Sky
+dec_deg: 60.155
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/1675058594/{1}/{3}/{3}_{2}.png
+name: Fireworks Galaxy NGC 6946
+ra_hr: 20.5809444444444
+zoom_level: 1.2
+---
 _uuid: d81dba67-26be-4b44-9f3d-a75957ad1f9e
 angular_size: 1.0
 classification: SpiralGalaxy
