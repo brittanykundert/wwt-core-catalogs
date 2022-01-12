@@ -445,6 +445,10 @@ def _emit_one(path: Path, idb: ImagesetDatabase, pdb: PlaceDatabase):
         if v:
             f.url = v
 
+        v = info.get("version_dependent")
+        if v is not None:
+            f.version_dependent = v
+
         f.children = []
 
         for spec in info["children"]:
@@ -531,6 +535,9 @@ def do_ingest(settings):
 
         if f.url:
             info["url"] = f.url
+
+        if f.version_dependent is not None:
+            info["version_dependent"] = f.version_dependent
 
         children = []
 
