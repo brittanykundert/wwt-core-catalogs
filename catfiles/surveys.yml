@@ -1,173 +1,183 @@
 browseable: true
 children:
-- imageset http://cdn.worldwidetelescope.org/wwtweb/dss.aspx?q={1},{2},{3}
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000132{Q}?g=131 # VLSS
-- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_ilc_200uK
-- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},planck
-- imageset http://wwtfiles.blob.core.windows.net/plnk/planck4channelL{1}X{2}Y{3}.png
-- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},dust
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001130{Q}?g=182 # IRAS/IRIS
-- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={L},{X},{Y},wise
-- place 5a984643-cab2-41a3-8de6-9dacda018cfd # GLIMPSE360
-- place c5ced5c5-b09a-41d9-a96e-27ff1ce6f191 # GLIMPSE
-- place d645f2b7-7e0b-4a02-991c-30bf89638f0f # GLIMPSE/MIPSGAL
-- imageset http://www.worldwidetelescope.org/wwtweb/TwoMassToast.aspx?q={1},{2},{3}
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000312{Q}?g=138 # 2MASS catalog synthetic
-- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},halpha
-- imageset http://data1.wwtassets.org/packages/2020/09_gaia_dr2/{1}/{3}/{3}_{2}.png
-- imageset http://data1.wwtassets.org/packages/2020/10_dsm2020/{1}/{3}/{3}_{2}.png
-- imageset http://mastimg.stsci.edu/surveys/toast/panstarrs/ps_color/{1}/{3}/{3}_{2}.png
-- imageset http://www.worldwidetelescope.org/wwtweb/sdsstoast.aspx?q={1},{2},{3}
-- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000131{Q}?g=131 # Tycho synthetic
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001210{Q}?g=182 # USNO-B synthetic
-- imageset http://www.worldwidetelescope.org/wwtweb/galex4near.aspx?q={1},{2},{3}
-- imageset http://www.worldwidetelescope.org/wwtweb/galex4far.aspx?q={1},{2},{3}
-- imageset http://www.worldwidetelescope.org/wwtweb/galexTOAST.aspx?q={1},{2},{3}
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001132{Q}?g=182 # ROSAT RASS
-- imageset http://wwtfiles.blob.core.windows.net/fermilatyear8/Fermi%20LAT%208-yearL{1}X{2}Y{3}.png
-- place 6c939749-1e7e-42e8-8059-2896c631893b # "Big Picture" (not all-sky)
-- 'imageset ' # Black Sky Background
-
-# "More Surveys:"
 - browseable: true
   children:
-  - browseable: true
-    children:
-    - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000132{Q}?g=131 # VLSS
-    - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001022{Q}?g=138 # FIRST
-    - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001023{Q}?g=138 # NVSS
-    - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001030{Q}?g=138 # SUMSS
-    - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001031{Q}?g=138 # WENSS
-    - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001102{Q}?g=138 # Bonn 1420
-    - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000302{Q}?g=138 # Haslam HI
-    group: View
-    name: Radio
-    searchable: true
-    type: ''
-
-  - browseable: true
-    children:
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_ilc_200uK
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_23GHz_K_200uK
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_23GHz_K_nonlin
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_K_50uK
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_33GHz_Ka_200uK
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_33GHz_Ka_nonlin
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_Ka_35uK
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_41GHz_Q_200uK
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_41GHz_Q_nonlin
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_Q_35uK
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_61GHz_V_200uK
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_61GHz_V_nonlin
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_V_35uK
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_94GHz_W_200uK
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_94GHz_W_nonlin
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_W_35uK
-    group: View
-    name: WMAP (5 Years)
-    searchable: true
-    type: ''
-
-  - browseable: true
-    children:
-    - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000112{Q}?g=131 # WMAP3 CMB
-    - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000213{Q}?g=131 # QVW power
-    - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000212{Q}?g=131 # QVW linear
-    - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000233{Q}?g=131 # K
-    - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000220{Q}?g=131 # Ka
-    - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000221{Q}?g=131 # Q
-    - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000222{Q}?g=131 # V
-    - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001033{Q}?g=138 # W
-    group: View
-    name: WMAP (3 Years)
-    searchable: true
-    type: ''
-
-  - browseable: true
-    children:
-    - imageset http://wwtfiles.blob.core.windows.net/plnk/planck4channelL{1}X{2}Y{3}.png
-    - imageset http://wwtfiles.blob.core.windows.net/plnk/planckthermaldustL{1}X{2}Y{3}.png
-    - imageset http://wwtfiles.blob.core.windows.net/plnk/planckspinningdustL{1}X{2}Y{3}.png
-    - imageset http://wwtfiles.blob.core.windows.net/plnk/planckcoL{1}X{2}Y{3}.png
-    - imageset http://wwtfiles.blob.core.windows.net/plnk/planckfreefreeL{1}X{2}Y{3}.png
-    - imageset http://wwtfiles.blob.core.windows.net/plnk/plancksynchrotronL{1}X{2}Y{3}.png
-    - imageset http://wwtfiles.blob.core.windows.net/plnk/planckmassmapL{1}X{2}Y{3}.png
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},planck # Planck CMB
-    group: View
-    name: Planck
-    searchable: true
-    type: ''
-
-  - browseable: true
-    children:
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},dust # SFD
-    - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001130{Q}?g=182 # IRIS
-    - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000312{Q}?g=138 # 2MASS synthetic
-    - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000333{Q}?g=138 # IRIS 12um
-    - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001000{Q}?g=138 # IRIS 25um
-    - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001001{Q}?g=138 # IRIS 60um
-    - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001002{Q}?g=138 # IRIS 100um
-    - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000332{Q}?g=138 # SFD 100um
-    - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001003{Q}?g=138 # COBE DIRBE
-    - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001011{Q}?g=138 # COBE DIRBE annual average
-    - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001010{Q}?g=138 # COBE DIRBE Zodi-subtracted
-    group: View
-    name: Infrared
-    searchable: true
-    type: ''
-
-  - browseable: true
-    children:
-    - imageset http://www.worldwidetelescope.org/wwtweb/galex4near.aspx?q={1},{2},{3}
-    - imageset http://www.worldwidetelescope.org/wwtweb/galex4far.aspx?q={1},{2},{3}
-    - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000003212{Q}?g=209 # GALEX 2 combined
-    - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000003210{Q}?g=209 # GALEX 2 NUV
-    - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000003211{Q}?g=209 # GALEX 2 FUV
-    - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001131{Q}?g=182 # EUVE
-    - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000003{Q}?g=131 # EUVE 83 AA
-    - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001012{Q}?g=138 # EUVE 171 AA
-    - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001013{Q}?g=138 # EUVE 405 AA
-    - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001020{Q}?g=138 # EUVE 555 AA
-    group: View
-    name: Ultraviolet
-    searchable: true
-    type: ''
-
-  - browseable: true
-    children:
-    - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001132{Q}?g=182 # RASS RGB composite
-    - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000320{Q}?g=138 # ROSAT soft counts
-    - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000313{Q}?g=138 # ROSAT hard counts
-    - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001133{Q}?g=182 # ROSAT broad counts
-    - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000322{Q}?g=138 # ROSAT soft intensity
-    - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000321{Q}?g=138 # ROSAT hard intensity
-    - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000323{Q}?g=138 # ROSAT PSPC
-    - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000330{Q}?g=138 # Swift BAT significance
-    - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000331{Q}?g=138 # Swift BAT flux
-    - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001032{Q}?g=138 # GRANAT/SIGMA significance
-    - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001100{Q}?g=138 # GRANAT SIGMA flux
-    group: View
-    name: X-Ray
-    searchable: true
-    type: ''
-
-  - browseable: true
-    children:
-    - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002000{Q}?g=182 # Fermi 6 mo
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},FermiYearTwo
-    - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},FermiYearThree
-    - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001021{Q}?g=138 # CGRO 3-channel
-    - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000203{Q}?g=131 # EGRET soft
-    - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000231{Q}?g=131 # EGRET hard
-    group: View
-    name: Gamma
-    searchable: true
-    type: ''
-
+  - imageset http://cdn.worldwidetelescope.org/wwtweb/dss.aspx?q={1},{2},{3}
+  - imageset http://mastimg.stsci.edu/surveys/toast/panstarrs/ps_color/{1}/{3}/{3}_{2}.png
+  - imageset http://data1.wwtassets.org/packages/2020/09_gaia_dr2/{1}/{3}/{3}_{2}.png
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},halpha
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={L},{X},{Y},wise
+  - imageset http://www.worldwidetelescope.org/wwtweb/TwoMassToast.aspx?q={1},{2},{3}
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},dust # SFD
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},planck # Planck CMB
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001023{Q}?g=138 # NVSS
+  - imageset http://www.worldwidetelescope.org/wwtweb/galexTOAST.aspx?q={1},{2},{3}
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001132{Q}?g=182 # RASS RGB composite
+  - imageset http://wwtfiles.blob.core.windows.net/fermilatyear8/Fermi%20LAT%208-yearL{1}X{2}Y{3}.png
   group: View
-  name: More Surveys
+  name: Highlights
   searchable: true
   type: ''
+
+- browseable: true
+  children:
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000132{Q}?g=131 # VLSS
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001022{Q}?g=138 # FIRST
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001023{Q}?g=138 # NVSS
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001030{Q}?g=138 # SUMSS
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001031{Q}?g=138 # WENSS
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001102{Q}?g=138 # Bonn 1420
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000302{Q}?g=138 # Haslam HI
+  group: View
+  name: Radio
+  searchable: true
+  type: ''
+
+- browseable: true
+  children:
+  # WMAP 5-year
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_ilc_200uK
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_23GHz_K_200uK
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_23GHz_K_nonlin
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_K_50uK
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_33GHz_Ka_200uK
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_33GHz_Ka_nonlin
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_Ka_35uK
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_41GHz_Q_200uK
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_41GHz_Q_nonlin
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_Q_35uK
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_61GHz_V_200uK
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_61GHz_V_nonlin
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_V_35uK
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_94GHz_W_200uK
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_94GHz_W_nonlin
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_W_35uK
+  # WMAP 3-year
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000112{Q}?g=131 # WMAP3 CMB
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000213{Q}?g=131 # QVW power
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000212{Q}?g=131 # QVW linear
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000233{Q}?g=131 # K
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000220{Q}?g=131 # Ka
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000221{Q}?g=131 # Q
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000222{Q}?g=131 # V
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001033{Q}?g=138 # W
+  group: View
+  name: WMAP
+  searchable: true
+  type: ''
+
+- browseable: true
+  children:
+  - imageset http://wwtfiles.blob.core.windows.net/plnk/planck4channelL{1}X{2}Y{3}.png
+  - imageset http://wwtfiles.blob.core.windows.net/plnk/planckthermaldustL{1}X{2}Y{3}.png
+  - imageset http://wwtfiles.blob.core.windows.net/plnk/planckspinningdustL{1}X{2}Y{3}.png
+  - imageset http://wwtfiles.blob.core.windows.net/plnk/planckcoL{1}X{2}Y{3}.png
+  - imageset http://wwtfiles.blob.core.windows.net/plnk/planckfreefreeL{1}X{2}Y{3}.png
+  - imageset http://wwtfiles.blob.core.windows.net/plnk/plancksynchrotronL{1}X{2}Y{3}.png
+  - imageset http://wwtfiles.blob.core.windows.net/plnk/planckmassmapL{1}X{2}Y{3}.png
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},planck # Planck CMB
+  group: View
+  name: Planck
+  searchable: true
+  type: ''
+
+- browseable: true
+  children:
+  - imageset http://www.worldwidetelescope.org/wwtweb/TwoMassToast.aspx?q={1},{2},{3}
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={L},{X},{Y},wise
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},dust # SFD
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001130{Q}?g=182 # IRIS
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000312{Q}?g=138 # 2MASS synthetic
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000333{Q}?g=138 # IRIS 12um
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001000{Q}?g=138 # IRIS 25um
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001001{Q}?g=138 # IRIS 60um
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001002{Q}?g=138 # IRIS 100um
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000332{Q}?g=138 # SFD 100um
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001003{Q}?g=138 # COBE DIRBE
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001011{Q}?g=138 # COBE DIRBE annual average
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001010{Q}?g=138 # COBE DIRBE Zodi-subtracted
+  group: View
+  name: Infrared
+  searchable: true
+  type: ''
+
+- browseable: true
+  children:
+  - imageset http://cdn.worldwidetelescope.org/wwtweb/dss.aspx?q={1},{2},{3}
+  - imageset http://mastimg.stsci.edu/surveys/toast/panstarrs/ps_color/{1}/{3}/{3}_{2}.png
+  - imageset http://data1.wwtassets.org/packages/2020/09_gaia_dr2/{1}/{3}/{3}_{2}.png
+  - imageset http://data1.wwtassets.org/packages/2020/10_dsm2020/{1}/{3}/{3}_{2}.png
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},halpha
+  - imageset http://www.worldwidetelescope.org/wwtweb/sdsstoast.aspx?q={1},{2},{3}
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000131{Q}?g=131 # Tycho synthetic
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001210{Q}?g=182 # USNO-B synthetic
+  group: View
+  name: Optical
+  searchable: true
+  type: ''
+
+- browseable: true
+  children:
+  - imageset http://www.worldwidetelescope.org/wwtweb/galex4near.aspx?q={1},{2},{3}
+  - imageset http://www.worldwidetelescope.org/wwtweb/galex4far.aspx?q={1},{2},{3}
+  - imageset http://www.worldwidetelescope.org/wwtweb/galexTOAST.aspx?q={1},{2},{3}
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000003212{Q}?g=209 # GALEX 2 combined
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000003210{Q}?g=209 # GALEX 2 NUV
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000003211{Q}?g=209 # GALEX 2 FUV
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001131{Q}?g=182 # EUVE
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000003{Q}?g=131 # EUVE 83 AA
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001012{Q}?g=138 # EUVE 171 AA
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001013{Q}?g=138 # EUVE 405 AA
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001020{Q}?g=138 # EUVE 555 AA
+  group: View
+  name: Ultraviolet
+  searchable: true
+  type: ''
+
+- browseable: true
+  children:
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001132{Q}?g=182 # RASS RGB composite
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000320{Q}?g=138 # ROSAT soft counts
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000313{Q}?g=138 # ROSAT hard counts
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001133{Q}?g=182 # ROSAT broad counts
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000322{Q}?g=138 # ROSAT soft intensity
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000321{Q}?g=138 # ROSAT hard intensity
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000323{Q}?g=138 # ROSAT PSPC
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000330{Q}?g=138 # Swift BAT significance
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000331{Q}?g=138 # Swift BAT flux
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001032{Q}?g=138 # GRANAT/SIGMA significance
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001100{Q}?g=138 # GRANAT SIGMA flux
+  group: View
+  name: X-Ray
+  searchable: true
+  type: ''
+
+- browseable: true
+  children:
+  - imageset http://wwtfiles.blob.core.windows.net/fermilatyear8/Fermi%20LAT%208-yearL{1}X{2}Y{3}.png
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002000{Q}?g=182 # Fermi 6 mo
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},FermiYearTwo
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},FermiYearThree
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001021{Q}?g=138 # CGRO 3-channel
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000203{Q}?g=131 # EGRET soft
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000231{Q}?g=131 # EGRET hard
+  group: View
+  name: Gamma
+  searchable: true
+  type: ''
+
+- browseable: true
+  children:
+  - place 5a984643-cab2-41a3-8de6-9dacda018cfd # GLIMPSE360
+  - place c5ced5c5-b09a-41d9-a96e-27ff1ce6f191 # GLIMPSE
+  - place d645f2b7-7e0b-4a02-991c-30bf89638f0f # GLIMPSE/MIPSGAL
+  - place 6c939749-1e7e-42e8-8059-2896c631893b # "Big Picture" (not all-sky)
+  group: View
+  name: Big Maps
+  searchable: true
+  type: ''
+
+- 'imageset ' # Black Sky Background
 
 group: Explorer
 name: All-Sky Surveys
