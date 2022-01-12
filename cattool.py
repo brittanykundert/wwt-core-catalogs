@@ -631,8 +631,8 @@ def entrypoint():
     subparsers = parser.add_subparsers(dest="subcommand")
 
     _emit = subparsers.add_parser("emit")
-    _format_imagesets = subparsers.add_parser("format_imagesets")
-    _format_places = subparsers.add_parser("format_places")
+    _format_imagesets = subparsers.add_parser("format-imagesets")
+    _format_places = subparsers.add_parser("format-places")
 
     ingest = subparsers.add_parser("ingest")
     ingest.add_argument(
