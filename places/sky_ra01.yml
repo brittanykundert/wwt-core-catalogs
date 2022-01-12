@@ -643,6 +643,149 @@ ra_hr: 1.04896188932667
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1802a.jpg
 zoom_level: 0.114305581139561
 ---
+_uuid: 457c71d9-ddfb-4c7b-a617-d24c06f6d7f8
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.0164023
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig06-016aL{1}X{2}Y{3}.png
+name: E0102
+ra_hr: 1.06201851333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig06-016a.jpg
+zoom_level: 1.67108608
+---
+_uuid: ce5918a6-0ab4-4621-aa0f-168098eadc06
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 15.7834384813402
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig06-018L{1}X{2}Y{3}.png
+name: Messier 74
+ra_hr: 1.61160792843188
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig06-018.jpg
+zoom_level: 1.13758533668156
+---
+_uuid: 973262bd-4ef0-4a68-a60c-f8609888f898
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 15.7834384813402
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig06-018cL{1}X{2}Y{3}.png
+name: Messier 74
+ra_hr: 1.61160792843188
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig06-018c.jpg
+zoom_level: 1.1722648381433
+---
+_uuid: 109b90bb-d554-4f71-b7ba-66fb7d7627a9
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 30.667077
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig09-003L{1}X{2}Y{3}.png
+name: Triangulum Galaxy
+ra_hr: 1.56571193333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig09-003.jpg
+zoom_level: 6.82666666666667
+---
+_uuid: 5ee00859-c5ce-44ae-8c86-c3823cb7a59d
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 30.667077
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig09-004L{1}X{2}Y{3}.png
+name: Triangulum Galaxy
+ra_hr: 1.56571193333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig09-004.jpg
+zoom_level: 6.82666666666667
+---
+_uuid: a5d6dce8-c223-48d8-9fc1-0f9a17e3f7bc
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 3.4123526
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig11-005aL{1}X{2}Y{3}.png
+name: NGC 470
+ra_hr: 1.33249724
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig11-005a.jpg
+zoom_level: 1.36561139712
+---
+_uuid: 55920fac-e61b-426c-bdac-65fa7199460d
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 51.5767
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig13-015L{1}X{2}Y{3}.png
+name: Little Dumbbell Nebula
+ra_hr: 1.7054
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig13-015.jpg
+zoom_level: 0.606814208
+---
+_uuid: 6204f88c-fd0e-46e8-8df2-9dc25ab0214e
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 30.6535271015026
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2009-08a1L{1}X{2}Y{3}.png
+name: Triangulum Galaxy
+ra_hr: 1.565255766126
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2009-08a1.jpg
+zoom_level: 8.55557921701933
+---
+_uuid: bc4d2c55-356a-47c9-98e3-7091cecd9373
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 30.6535271015026
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2009-08b1L{1}X{2}Y{3}.png
+name: Triangulum Galaxy
+ra_hr: 1.565255766126
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2009-08b1.jpg
+zoom_level: 8.55557921701933
+---
+_uuid: 0d81a288-b719-4132-afbd-00cb5db70961
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.8191968567584
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2010-02a1L{1}X{2}Y{3}.png
+name: SMC
+ra_hr: 1.06320786383233
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2010-02a1.jpg
+zoom_level: 18.1847165865165
+---
+_uuid: 0b2de985-2aec-4977-a72f-58cc73561863
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -73.9588288036227
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2010-02bL{1}X{2}Y{3}.png
+name: SMC
+ra_hr: 1.45304971810985
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2010-02b.jpg
+zoom_level: 36.4088888885248
+---
+_uuid: 88e477db-1f28-4fca-a25e-a0c77d0d7731
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -73.9588288036227
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2010-02cL{1}X{2}Y{3}.png
+name: SMC
+ra_hr: 1.45304971810985
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2010-02c.jpg
+zoom_level: 27.3066666662298
+---
+_uuid: 4b4e3b36-d1e1-41ba-83de-6386f2dd2c90
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.58534463794
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-01bL{1}X{2}Y{3}.png
+name: SMC
+ra_hr: 1.47963485195667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2012-01b.jpg
+zoom_level: 27.3066666666656
+---
 _uuid: a845ac41-8000-499d-9530-8d6dd3da49b4
 classification: ''
 constellation: ''

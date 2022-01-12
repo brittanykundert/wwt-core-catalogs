@@ -1191,3 +1191,91 @@ name: Messier 62
 ra_hr: 17.0192899550667
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1915a.jpg
 zoom_level: 0.227828137554739
+---
+_uuid: 16739cbf-dbb0-43e1-b514-596e30131876
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -28.5284202
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig06-004L{1}X{2}Y{3}.png
+name: Double Helix Nebula
+ra_hr: 17.71358476
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig06-004.jpg
+zoom_level: 0.961138688
+---
+_uuid: 290b94e7-3603-4a32-aefc-ca30e439a41f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 66.666931
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig09-001L{1}X{2}Y{3}.png
+name: Cat's Eye Nebula
+ra_hr: 17.97031278
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig09-001.jpg
+zoom_level: 0.68266663936
+---
+_uuid: b33cbe75-692e-40ef-9958-8be2be5f8b99
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -28.9361747
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig11-003L{1}X{2}Y{3}.png
+name: Milky Way
+ra_hr: 17.76033928
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig11-003.jpg
+zoom_level: 21.8453333331149
+---
+_uuid: 418b60df-d1eb-4152-9ea9-695f622f60e3
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -38.44756839
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig11-007aL{1}X{2}Y{3}.png
+name: RCW 120
+ra_hr: 17.2064473633333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig11-007a.jpg
+zoom_level: 2.73066666655744
+---
+_uuid: 64ce512b-996f-4aae-9d4a-f85daf4066cb
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.4919935211785
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-15a1L{1}X{2}Y{3}.png
+name: Kepler's Supernova Remnant
+ra_hr: 17.5115330168091
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2004-15a1.jpg
+zoom_level: 0.453236623730885
+---
+_uuid: 0378fd66-6f7c-42a9-a529-1518abe550c6
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.4905677863644
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-15b1L{1}X{2}Y{3}.png
+name: Kepler's Supernova Remnant
+ra_hr: 17.511405390437
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2004-15b1.jpg
+zoom_level: 0.695823519729909
+---
+_uuid: fe99e68b-4cac-43ae-b0bb-fdbde5b48be7
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -36.065661915
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2018-14aL{1}X{2}Y{3}.png
+name: Cat's Paw Nebula
+ra_hr: 17.3214598728667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2018-14a.jpg
+zoom_level: 5.46893692928
+---
+_uuid: ddf368bf-0783-4961-8846-734c9f115f22
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -36.065661915
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2018-14bL{1}X{2}Y{3}.png
+name: Cat's Paw Nebula
+ra_hr: 17.3214598728667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2018-14b.jpg
+zoom_level: 5.46893692928

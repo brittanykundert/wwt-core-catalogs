@@ -624,6 +624,39 @@ ra_hr: 7.63576730393333
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1908a.jpg
 zoom_level: 0.180322759604634
 ---
+_uuid: 48a85ae4-e080-4ea8-85cc-c5f817ef0b15
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 20.911874
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig12-006bL{1}X{2}Y{3}.png
+name: Eskimo Nebula
+ra_hr: 7.4863135
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig12-006b.jpg
+zoom_level: 0.341271994368
+---
+_uuid: 16882802-0917-4858-8ee2-0bbb021ba1aa
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 37.7456367
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig14-006aL{1}X{2}Y{3}.png
+name: J0717
+ra_hr: 7.29311311333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig14-006a.jpg
+zoom_level: 0.682877026304
+---
+_uuid: c7b16243-b716-4ee3-aacf-1b98db65ff48
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -10.47325851
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2013-05bL{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 7.15842819333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2013-05b.jpg
+zoom_level: 5.461333327872
+---
 _uuid: 7c9bce0e-ec57-4309-aa81-76af5ef9574f
 classification: ''
 constellation: ''

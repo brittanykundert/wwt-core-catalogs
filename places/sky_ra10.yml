@@ -1261,3 +1261,135 @@ name: NGC 3384
 ra_hr: 10.8046994928
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1919a.jpg
 zoom_level: 0.22765957430313
+---
+_uuid: 50b0ec6e-ecfc-43f0-9f67-6ba81f984f79
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 30.0619295
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig05-006aL{1}X{2}Y{3}.png
+name: Arp 107
+ra_hr: 10.87132204
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig05-006a.jpg
+zoom_level: 0.329238528
+---
+_uuid: 9cc4c62d-12fa-4cf6-b56b-44378efcb5cd
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 11.6803291224
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig05-015L{1}X{2}Y{3}.png
+name: Messier 95
+ra_hr: 10.7289315482667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig05-015.jpg
+zoom_level: 0.851928278666158
+---
+_uuid: 1b251b21-e193-4f56-84ce-36d3c2365c7f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -57.7524971
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig08-018L{1}X{2}Y{3}.png
+name: NGC 3247
+ra_hr: 10.3992327266667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig08-018.jpg
+zoom_level: 2.72785408
+---
+_uuid: 709bd9f0-6379-4af3-a3e9-6bdf37df8793
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 54.3018181
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig11-005bL{1}X{2}Y{3}.png
+name: NGC 3448
+ra_hr: 10.90928774
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig11-005b.jpg
+zoom_level: 0.98246500352
+---
+_uuid: b4b8a884-169b-4f62-8cca-0c4f1c64d6fd
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -59.8096720352476
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig11-006L{1}X{2}Y{3}.png
+name: Carina Nebula
+ra_hr: 10.7513396137819
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig11-006.jpg
+zoom_level: 5.45496093433399
+---
+_uuid: 83d07a99-5514-4f59-ac82-866fb0543c5b
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -18.644115
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig13-014L{1}X{2}Y{3}.png
+name: Ghost of Jupiter
+ra_hr: 10.4129864
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig13-014.jpg
+zoom_level: 0.682668032
+---
+_uuid: ec74d8fb-373a-479c-bec5-f055b27bf17f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 2.2095467
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig14-023L{1}X{2}Y{3}.png
+name: COSMOS Field
+ra_hr: 10.0207279733333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig14-023.jpg
+zoom_level: 0.68263378944
+---
+_uuid: bf145d8a-f48d-4b68-8ee3-6c39dba03064
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 19.89852
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig14-029aL{1}X{2}Y{3}.png
+name: NGC 3226
+ra_hr: 10.3908353333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig14-029a.jpg
+zoom_level: 2.55345164288
+---
+_uuid: 0e78cf98-64db-48ea-8294-90a0f3b7dd07
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -57.7524971
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-08a1L{1}X{2}Y{3}.png
+name: NGC 3247
+ra_hr: 10.3992327266667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2004-08a1.jpg
+zoom_level: 2.72785408
+---
+_uuid: f0985d56-16c9-4da1-a385-53f72c4b995f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 2.200973097
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2008-12a1L{1}X{2}Y{3}.png
+name: J100054_023436
+ra_hr: 10.0077547533333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2008-12a1.jpg
+zoom_level: 0.0145868947035897
+---
+_uuid: 2bf63210-5092-4de0-91f8-7eea3c56bbc8
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 56.6753895
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2015-03aL{1}X{2}Y{3}.png
+name: SpARCS1049+56
+ra_hr: 10.8229856133333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2015-03a.jpg
+zoom_level: 0.102425074297763
+---
+_uuid: 1924ac7a-6e95-4f10-9b2d-50b97f497045
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 56.6753895
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2015-03bL{1}X{2}Y{3}.png
+name: SpARCS1049+56
+ra_hr: 10.8229856133333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2015-03b.jpg
+zoom_level: 0.1023785385984

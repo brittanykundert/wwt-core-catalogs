@@ -589,6 +589,61 @@ ra_hr: 4.90870123517333
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1848a.jpg
 zoom_level: 0.360569925874483
 ---
+_uuid: 0962600c-2a3f-4321-845a-431acea796e8
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -54.9319798442
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig05-013L{1}X{2}Y{3}.png
+name: NGC 1566
+ra_hr: 4.33797651036667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig05-013.jpg
+zoom_level: 0.854716211921347
+---
+_uuid: 6e806f6b-c7b6-42d2-9828-18ae6f5178d6
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 40.949664
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2008-18a1L{1}X{2}Y{3}.png
+name: Comet Holmes
+ra_hr: 4.0705832
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2008-18a1.jpg
+zoom_level: 11.15029504
+---
+_uuid: 6ba9a375-f51c-45cd-ad95-bc9403b5dbcf
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 40.949664
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2008-18a2L{1}X{2}Y{3}.png
+name: Comet Holmes
+ra_hr: 4.0705832
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2008-18a2.jpg
+zoom_level: 11.15029504
+---
+_uuid: 3fe333ef-94d7-4d92-9044-f95154c2ab44
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 27.6846292
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2009-21a1L{1}X{2}Y{3}.png
+name: Proto Brown Dwarf
+ra_hr: 4.29939839333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2009-21a1.jpg
+zoom_level: 0.2143207424
+---
+_uuid: d655ef8b-2449-4ab6-808c-5a23bdb17729
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 45.08884811
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2013-05d1L{1}X{2}Y{3}.png
+name: Perseus-Pisces supercluster
+ra_hr: 4.83865584
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2013-05d1.jpg
+zoom_level: 5.46133327872
+---
 _uuid: 7a0dc5f2-55ea-4359-bd16-9b0ba7df5e38
 classification: ''
 constellation: ''
