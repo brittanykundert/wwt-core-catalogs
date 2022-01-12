@@ -631,6 +631,64 @@ def do_report(_settings):
     print(f"number of imagesets: {len(idb.by_url)}")
 
 
+# trace
+
+
+def _trace_catfile(path: Path, idb: ImagesetDatabase):
+    # TODO: fairly redundant with "emit"
+
+    with path.open("rt", encoding="utf-8") as f:
+        root_info = yaml.load(f, yaml.SafeLoader)
+
+    def trace_folder(info: dict):
+        for spec in info["children"]:
+            if isinstance(spec, str):
+                if spec.startswith("imageset "):
+                    imgset = idb.get_by_url(spec[9:])
+                    imgset.rmeta.touched = True
+                elif spec.startswith("place "):
+                    pass  # for now?
+                else:
+                    assert False, f"unexpected terse folder child `{spec}`"
+            else:
+                # Folder
+                url = spec.get("url")
+
+                if not spec["children"] and url:
+                    if url.startswith(
+                        "http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W="
+                    ):
+                        catname = url.split("=")[1]
+                        catpath = BASEDIR / "catfiles" / f"{catname}.yml"
+
+                        if catpath.exists():
+                            print(f"Recursing into `{catname}`")
+                            _trace_catfile(catpath, idb)
+                        else:
+                            print(
+                                f"Skipping `{catname}` which does not seem to be managed by this framework"
+                            )
+                else:
+                    trace_folder(spec)
+
+    trace_folder(root_info)
+
+
+def do_trace(_settings):
+    idb = ImagesetDatabase()
+
+    for imgset in idb.by_url.values():
+        imgset.rmeta.touched = False
+
+    _trace_catfile(BASEDIR / "catfiles" / "exploreroot6.yml", idb)
+
+    for imgset in idb.by_url.values():
+        if imgset.rmeta.touched:
+            continue
+
+        print(f"{imgset.url}: {imgset.name}")
+
+
 # generic driver
 
 
@@ -653,6 +711,7 @@ def entrypoint():
     )
 
     _report = subparsers.add_parser("report")
+    _trace = subparsers.add_parser("trace")
 
     settings = parser.parse_args()
 
@@ -670,6 +729,8 @@ def entrypoint():
         do_prettify(settings)
     elif settings.subcommand == "report":
         do_report(settings)
+    elif settings.subcommand == "trace":
+        do_trace(settings)
     else:
         die(f"unknown subcommand `{settings.subcommand}`", prefix="usage error:")
 
