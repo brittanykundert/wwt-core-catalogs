@@ -1,0 +1,77 @@
+browseable: true
+children:
+- imageset http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_base_map
+- imageset http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_terrain_color
+- imageset http://cdn.worldwidetelescope.org/wwtweb/Marshirise.aspx?q={1},{2},{3}
+- imageset http://cdn.worldwidetelescope.org/wwtweb/MarsMoc.aspx?q={1},{2},{3}&v=2
+- browseable: true
+  children:
+  - imageset http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_historic_green
+  - imageset http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_historic_schiaparelli
+  - imageset http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_historic_lowell
+  - imageset http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_historic_antoniadi
+  - imageset http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_historic_mec1
+  group: View
+  name: Historical Maps
+  searchable: true
+  type: Planet
+- browseable: true
+  children: []
+  group: Explorer
+  name: Panoramas
+  searchable: true
+  thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pano
+  type: ''
+  url: http://cdn.worldwidetelescope.org/wwtweb/catalog.aspx?W=marspanos
+- browseable: true
+  children: []
+  group: Explorer
+  name: Solar System
+  searchable: true
+  thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=solarsystem
+  type: ''
+  url: http://cdn.worldwidetelescope.org/wwtweb/catalog.aspx?W=solarsystemsky
+- browseable: true
+  children: []
+  group: Explorer
+  name: Mars Top Ten
+  searchable: true
+  thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mars
+  type: ''
+  url: http://cdn.worldwidetelescope.org/wwtweb/catalog.aspx?W=MarsTopTen
+- browseable: true
+  children: []
+  group: Explorer
+  name: Mars Named Features
+  searchable: true
+  thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mars
+  type: ''
+  url: http://cdn.worldwidetelescope.org/wwtweb/catalog.aspx?W=MarsNamedFeatures
+- browseable: true
+  children: []
+  group: Explorer
+  name: HIRISE Spotlight
+  searchable: true
+  thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=hirise
+  type: ''
+  url: http://cdn.worldwidetelescope.org/wwtweb/catalog.aspx?W=HiriseSpotlight
+- browseable: true
+  children: []
+  group: Explorer
+  name: HIRISE Single Images
+  searchable: true
+  thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=hirise
+  type: ''
+  url: http://cdn.worldwidetelescope.org/wwtweb/catalog.aspx?W=Hiriseone
+- browseable: true
+  children: []
+  group: Explorer
+  name: MOC Catalog
+  searchable: true
+  thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=moc
+  type: ''
+  url: http://cdn.worldwidetelescope.org/wwtweb/catalog.aspx?W=moccatalog
+group: Explorer
+name: WorldWide Telescope Mars
+searchable: true
+type: ''

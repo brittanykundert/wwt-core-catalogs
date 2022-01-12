@@ -6,6 +6,60 @@
   Searchable="True"
 >
   <ImageSet
+    AltUrl="http://wwt.nasa.gov/wwt/p/mars_moc/{1}/{2}/{3}.png"
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    DemUrl="http://cdn.worldwidetelescope.org/wwtweb/tiles2.aspx?q={0},{1},{2},MarsToastDem"
+    ElevationModel="True"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="3396000"
+    Name="Mars Orbiter Camera Imagery"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="16"
+    Url="http://cdn.worldwidetelescope.org/wwtweb/MarsMoc.aspx?q={1},{2},{3}&amp;v=2"
+    WidthFactor="2"
+  >
+    <Credits>NASA / USGS / Malin Space Science Systems / JPL</Credits>
+    <CreditsUrl>http://www.msss.com/all_projects/mgs-mars-orbiter-camera.php</CreditsUrl>
+    <ThumbnailUrl>http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=moc</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    AltUrl="http://wwt.nasa.gov/wwt/p/mars_hirise/{1}/{2}/{3}.auto"
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    DemUrl="http://cdn.worldwidetelescope.org/wwtweb/tiles2.aspx?q={0},{1},{2},MarsToastDem"
+    ElevationModel="True"
+    FileType=".auto"
+    Generic="False"
+    MeanRadius="3396000"
+    Name="HiRISE Imagery"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="18"
+    Url="http://cdn.worldwidetelescope.org/wwtweb/Marshirise.aspx?q={1},{2},{3}"
+    WidthFactor="2"
+  >
+    <Credits>University of Arizona / NASA / USGS / Malin Space Science Systems / JPL</Credits>
+    <CreditsUrl>http://hirise.lpl.arizona.edu/science_themes/themes.php</CreditsUrl>
+    <ThumbnailUrl>http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=hirise</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
     AltUrl="http://wwt.nasa.gov/wwt/p/mars_base_map/{1}/{2}/{3}.png"
     BandPass="Visible"
     BaseDegreesPerTile="360"
@@ -31,6 +85,168 @@
     <Credits>NASA / USGS / Malin Space Science Systems / JPL</Credits>
     <CreditsUrl>http://marsprogram.jpl.nasa.gov/mro/</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mars_color</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    AltUrl="http://wwt.nasa.gov/wwt/p/mars_historic_antoniadi/{1}/{2}/{3}.png"
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    DemUrl="http://cdn.worldwidetelescope.org/wwtweb/tiles2.aspx?q={0},{1},{2},MarsToastDem"
+    ElevationModel="True"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="3396000"
+    Name="Eugene Antoniadi (1909)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_historic_antoniadi"
+    WidthFactor="2"
+  >
+    <Credits>NASA</Credits>
+    <CreditsUrl>http://mars.jpl.nasa.gov/</CreditsUrl>
+    <ThumbnailUrl>http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=antoniadi</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    AltUrl="http://wwt.nasa.gov/wwt/p/mars_historic_green/{1}/{2}/{3}.png"
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    DemUrl="http://cdn.worldwidetelescope.org/wwtweb/tiles2.aspx?q={0},{1},{2},MarsToastDem"
+    ElevationModel="True"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="3396000"
+    Name="Nathaniel Green (1877)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="5"
+    Url="http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_historic_green"
+    WidthFactor="2"
+  >
+    <Credits>Memoirs of the Royal Astronomical Society, 1877-1879</Credits>
+    <CreditsUrl>http://www.ras.org.uk/</CreditsUrl>
+    <ThumbnailUrl>http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=green</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    AltUrl="http://wwt.nasa.gov/wwt/p/mars_historic_lowell/{1}/{2}/{3}.png"
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    DemUrl="http://cdn.worldwidetelescope.org/wwtweb/tiles2.aspx?q={0},{1},{2},MarsToastDem"
+    ElevationModel="True"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="3396000"
+    Name="Percival Lowell (1896)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_historic_lowell"
+    WidthFactor="2"
+  >
+    <Credits>Annals of the Lowell Observatory, 1905. Courtesy Lowell Observatory Archives.</Credits>
+    <CreditsUrl>http://www.lowell.edu/</CreditsUrl>
+    <ThumbnailUrl>http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=lowell</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    AltUrl="http://wwt.nasa.gov/wwt/p/mars_historic_mec1/{1}/{2}/{3}.png"
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    DemUrl="http://cdn.worldwidetelescope.org/wwtweb/tiles2.aspx?q={0},{1},{2},MarsToastDem"
+    ElevationModel="True"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="3396000"
+    Name="USAF (1962)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="5"
+    Url="http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_historic_mec1"
+    WidthFactor="2"
+  >
+    <Credits>Aeronautical Chart and Information Systems, US Air Force</Credits>
+    <CreditsUrl>http://mars.jpl.nasa.gov/</CreditsUrl>
+    <ThumbnailUrl>http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mec</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    AltUrl="http://wwt.nasa.gov/wwt/p/mars_historic_schiaparelli/{1}/{2}/{3}.png"
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    DemUrl="http://cdn.worldwidetelescope.org/wwtweb/tiles2.aspx?q={0},{1},{2},MarsToastDem"
+    ElevationModel="True"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="3396000"
+    Name="Giovanni Schiaparelli (1890)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="5"
+    Url="http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_historic_schiaparelli"
+    WidthFactor="2"
+  >
+    <Credits>"Osservazioni astronomiche e fisiche sull'asse di rotazione e sulla topografia del planeta Marte," Atti della R. Accademia del Lincel, Memoria 7, 1910.</Credits>
+    <CreditsUrl>http://mars.jpl.nasa.gov/</CreditsUrl>
+    <ThumbnailUrl>http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=schiaparelli</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    AltUrl="http://wwt.nasa.gov/wwt/p/mars_terrain_color/{1}/{2}/{3}.png"
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    DemUrl="http://cdn.worldwidetelescope.org/wwtweb/tiles2.aspx?q={0},{1},{2},MarsToastDem"
+    ElevationModel="True"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="3396000"
+    Name="Colorized Terrain"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="8"
+    Url="http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_terrain_color"
+    WidthFactor="2"
+  >
+    <Credits>NASA</Credits>
+    <CreditsUrl>http://marsprogram.jpl.nasa.gov/mro/</CreditsUrl>
+    <ThumbnailUrl>http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mola</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
