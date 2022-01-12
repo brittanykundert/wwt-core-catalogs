@@ -961,6 +961,29 @@ ra_hr: 18.0688739742588
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2027a/thumb.jpg
 zoom_level: 15.0
 ---
+_uuid: c15e12cd-4fda-4ef0-ac98-d89ae3a3ed33
+angular_size: 0.691031832846452
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: -13.84
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1501a/L{1}X{2}Y{3}.png
+name: New view of the Pillars of Creation — visible
+ra_hr: 18.3145
+zoom_level: 0.8
+---
+_uuid: 3b7b654b-23a7-4e69-8878-57151275fb28
+angular_size: 0.691031832846452
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: -13.84
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1501b/L{1}X{2}Y{3}.png
+name: New view of the Pillars of Creation — infrared
+ra_hr: 18.3145
+thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1501b/thumb.jpg
+zoom_level: 0.691031832846452
+---
 _uuid: c8a955f7-07e0-45f1-aeca-29e7dfb9aabe
 classification: ''
 constellation: ''

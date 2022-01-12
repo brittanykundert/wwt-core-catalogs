@@ -310,6 +310,17 @@ name: A Bright Supernova in the Nearby Galaxy NGC 2403
 ra_hr: 7.61611111111111
 zoom_level: 1.96166666666667
 ---
+_uuid: f99f2444-f012-4f47-8ce1-7cecc5f63daf
+angular_size: 1.0
+classification: Nebula
+constellation: GEM
+data_set_type: Sky
+dec_deg: 20.9119444444444
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001331{Q}?g=138
+name: NGC 2392
+ra_hr: 7.486388888888889
+zoom_level: 0.25
+---
 _uuid: 7a9839fe-d181-4976-b44b-5a24653e939c
 angular_size: 1.0
 classification: Nebula

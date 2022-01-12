@@ -522,6 +522,42 @@ ra_hr: 13.446946854741915
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/rubin-rubin-stills-0051/thumb.jpg
 zoom_level: 12.232899658617855
 ---
+_uuid: e99659aa-90bd-4a32-9ceb-5a28429149b1
+angular_size: 1.5457488722350439
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: -47.47
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic0809a/L{1}X{2}Y{3}.png
+name: The majestic globular Omega Centauri
+ra_hr: 13.446
+thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/heic0809a/thumb.jpg
+zoom_level: 1.5457488722350439
+---
+_uuid: 10783b70-40ea-444d-88a1-b4d4d67d9af8
+angular_size: 48.325715492169046
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: -47.5
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic0809b/L{1}X{2}Y{3}.png
+name: Wide-field of Omega Centauri and its surroundings (DSS2, ground-based image)
+ra_hr: 13.448
+thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/heic0809b/thumb.jpg
+zoom_level: 48.325715492169046
+---
+_uuid: 2cade805-916c-4eaa-999b-83ad972a1505
+angular_size: 0.34
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: -47.492
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic0910g/L{1}X{2}Y{3}.png
+name: Colourful stars galore inside the globular star cluster Omega Centauri
+ra_hr: 13.4471
+thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/heic0910g/thumb.jpg
+zoom_level: 0.34
+---
 _uuid: c394ab94-a478-4f65-a1fd-dc415f3c61bb
 classification: ''
 constellation: ''
@@ -727,6 +763,17 @@ name: 'Out of This Whirl: the Whirlpool Galaxy (M51) and Companion Galaxy;Messie
   51;M51'
 ra_hr: 13.4977777777778
 zoom_level: 2.82833333333333
+---
+_uuid: d50f590d-387b-45ff-88d9-1f8d07c78228
+angular_size: 2.82833333333333
+classification: SpiralGalaxy
+constellation: CVN
+data_set_type: Sky
+dec_deg: 47.2
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003102{Q}?g=138
+name: 'Out of This Whirl: the Whirlpool Galaxy (M51) and Companion Galaxy'
+ra_hr: 13.497777777777799
+zoom_level: 1.9
 ---
 _uuid: c473e261-7c81-473d-838e-0ed7ca70b11e
 angular_size: 1.0

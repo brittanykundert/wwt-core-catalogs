@@ -451,6 +451,41 @@ ra_hr: 10.725169418106939
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2025d/thumb.jpg
 zoom_level: 0.26128700013710826
 ---
+_uuid: 042d8bee-fbc9-4381-be8c-90e8506cfba9
+angular_size: 3.36333333333333
+classification: Nebula
+constellation: CAR
+data_set_type: Sky
+dec_deg: -59.6
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic0707a/L{1}X{2}Y{3}.png
+name: Star birth in the extreme
+ra_hr: 10.74
+zoom_level: 3.36333333333333
+---
+_uuid: 0776f932-dd8c-4103-bc7f-503b43765589
+angular_size: 0.4149875891519991
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.681
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1208a/L{1}X{2}Y{3}.png
+name: Hubble view of NGC 3314
+ra_hr: 10.620378736575098
+thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1208a/thumb.jpg
+zoom_level: 0.4149875891519991
+---
+_uuid: 175fd742-44e8-43e2-96ce-64efb9138f25
+angular_size: 0.9471072653441663
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: -57.76
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1509a/L{1}X{2}Y{3}.png
+name: Westerlund 2 — Hubble’s 25th anniversary image
+ra_hr: 10.402
+thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1509a/thumb.jpg
+zoom_level: 0.9471072653441663
+---
 _uuid: 596a1b3f-6a73-4ce9-a369-f4d00a72095b
 angular_size: 1.0
 classification: Galaxy
@@ -571,6 +606,17 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Light and Shadow in the Carina Nebula (NGC 3372)
 ra_hr: 10.745
 zoom_level: 3.36333333333333
+---
+_uuid: 1856b8a2-d75b-4642-aefa-10bb1cdab25e
+angular_size: 3.36333333333333
+classification: Nebula
+constellation: CAR
+data_set_type: Sky
+dec_deg: -59.6480555555556
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002132{Q}?g=138
+name: Light and Shadow in the Carina Nebula (NGC 3372)
+ra_hr: 10.7453
+zoom_level: 0.4
 ---
 _uuid: ae53030f-00ae-47b7-b5a4-ae097d28c013
 angular_size: 1.0

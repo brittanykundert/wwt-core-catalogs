@@ -789,6 +789,30 @@ ra_hr: 20.981302710514605
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noaoann15004a/thumb.jpg
 zoom_level: 9.8521049962824
 ---
+_uuid: 404e7b49-a931-4ddc-a0df-0345e1851eb5
+angular_size: 0.8062653952336927
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: 30.96365995197231
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1520a/L{1}X{2}Y{3}.png
+name: Revisiting the Veil Nebula
+ra_hr: 20.762
+thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1520a/thumb.jpg
+zoom_level: 1.1
+---
+_uuid: 8cb59ebc-f16e-434d-86db-52f38f512fb3
+angular_size: 0.28344319065560214
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: -42.507
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1919a/image.jpg
+name: Arp-Madore 2026-424
+ra_hr: 20.4925
+thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1919a/thumb.jpg
+zoom_level: 0.28344319065560214
+---
 _uuid: e06f7ad4-2030-4d4e-84bc-44fc254ac0da
 angular_size: 1.0
 classification: ClusterOfGalaxies

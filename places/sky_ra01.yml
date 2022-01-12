@@ -514,6 +514,30 @@ ra_hr: 1.0962745563514729
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2106d/thumb.jpg
 zoom_level: 7.448579549818199
 ---
+_uuid: 7be6dd4c-7612-4544-b30e-e9abcd126cbb
+angular_size: 0.48295111638769317
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: -73.555
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/ngc602/L{1}X{2}Y{3}.png
+name: NGC602
+ra_hr: 1.491
+thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/ngc602/thumb.jpg
+zoom_level: 0.48295111638769317
+---
+_uuid: f89b893c-4a84-4eea-b1a6-aa671f0398a9
+angular_size: 2.3
+classification: Galaxy
+constellation: TRI
+data_set_type: Sky
+dec_deg: 30.668333333333333
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_phat_m33/{1}/{3}/{3}_{2}.png
+name: The sharpest view ever of the Triangulum Galaxy
+ra_hr: 1.5661111111111126
+thumbnail: http://data1.wwtassets.org/packages/2020/07_phat_m33/thumb.jpg
+zoom_level: 2.5
+---
 _uuid: 3178e1ca-1127-495c-a397-ec3b3f9fb1a1
 angular_size: 1.0
 classification: SupernovaRemnant
@@ -590,6 +614,17 @@ foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Supernova Dust Factory in M74;M74;NGC628;Messier 74;NGC 628;Supernova 2003gd
 ra_hr: 1.61166666666667
 zoom_level: 1.415
+---
+_uuid: 1505d98d-1840-473e-99d3-dffbb22ff833
+angular_size: 0.48295111638769317
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: -73.555
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001311{Q}?g=138
+name: Hubble Observes Infant Stars in Nearby Galaxy
+ra_hr: 1.491
+zoom_level: 0.48295111638769317
 ---
 _uuid: f5223399-6db0-4f94-b5fc-693db0d5f473
 angular_size: 1.0

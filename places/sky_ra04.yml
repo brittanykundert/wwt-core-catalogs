@@ -207,6 +207,30 @@ ra_hr: 4.218133391384576
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2018l/thumb.jpg
 zoom_level: 1.855418322511555
 ---
+_uuid: 89e62b31-fe56-41fc-bcc1-6d7a9054c488
+angular_size: 0.46871875046402667
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.37
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1712a/L{1}X{2}Y{3}.png
+name: NGC 1512 and NGC 1510
+ra_hr: 4.062
+thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1712a/thumb.jpg
+zoom_level: 1.0
+---
+_uuid: 47ff2335-30ac-4760-9a74-8c3fccd61362
+angular_size: 0.5531953302390442
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.074
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1820b/L{1}X{2}Y{3}.png
+name: Galaxy Cluster MACSJ0416
+ra_hr: 4.2690017600605294
+thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1820b/thumb.jpg
+zoom_level: 0.5531953302390442
+---
 _uuid: db0b944b-82c3-4329-80ff-ee71eae981cf
 angular_size: 1.0
 classification: ClusterOfGalaxies

@@ -841,6 +841,66 @@ ra_hr: 12.315557832444384
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2112b/thumb.jpg
 zoom_level: 5.2807218449388
 ---
+_uuid: d3f5473b-c289-41f9-ae9e-abde11df5d5b
+angular_size: 0.8755942001279999
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.30427823775423
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1302a/L{1}X{2}Y{3}.png
+name: Hubble view of Messier 106
+ra_hr: 12.3161
+thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1302a/thumb.jpg
+zoom_level: 0.8755942001279999
+---
+_uuid: 85aa4bfc-d156-4d53-bc6f-340470fafbbe
+angular_size: 0.8923362880935022
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: 14.59331939706941
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1709a/L{1}X{2}Y{3}.png
+name: A close galactic pair
+ra_hr: 12.360408446123984
+thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1709a/thumb.jpg
+zoom_level: 0.8923362880935022
+---
+_uuid: 2d6e144b-719d-4909-b587-ea7e9b85a919
+angular_size: 0.4202596424350856
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: 15.821015164745274
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/opo9402b/image.jpg
+name: M100 Full Field
+ra_hr: 12.382384436286067
+thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/opo9402b/thumb.jpg
+zoom_level: 0.4202596424350856
+---
+_uuid: fcf35a21-2a47-4e15-918c-11f1e5498ce6
+angular_size: 0.07515368550446402
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: 15.822265393019313
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/potw1203a/image.jpg
+name: Core of Messier 100 in super high res
+ra_hr: 12.381890987475465
+thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/potw1203a/thumb.jpg
+zoom_level: 0.07515368550446402
+---
+_uuid: f1e748d0-78e9-4824-aabb-fff80e10e81b
+angular_size: 0.40920219111601974
+classification: Unidentified
+constellation: ''
+data_set_type: Sky
+dec_deg: 15.817801700632929
+foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/potw1850a/L{1}X{2}Y{3}.png
+name: 25 years of stunning definition
+ra_hr: 12.381616031821657
+thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/potw1850a/thumb.jpg
+zoom_level: 0.40920219111601974
+---
 _uuid: 4515944e-15f5-4a38-bbf5-dd6070d7266c
 classification: ''
 constellation: ''
@@ -1017,6 +1077,17 @@ name: '''The Mice'' (NGC 4676): Colliding Galaxies Stream Stars and Gas'
 ra_hr: 12.7697222222222
 zoom_level: 1.975
 ---
+_uuid: 4e909e38-d66a-4ad7-b96d-86389e5106dc
+angular_size: 1.975
+classification: ClusterOfGalaxies
+constellation: COM
+data_set_type: Sky
+dec_deg: 30.73
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010131{Q}?g=138
+name: 'The Mice - NGC 4676: Colliding Galaxies Stream Stars and Gas'
+ra_hr: 12.7697222222222
+zoom_level: 0.7
+---
 _uuid: d99af5b7-cfda-464f-9f1e-e77c120e381a
 angular_size: 1.0
 classification: Galaxy
@@ -1081,6 +1152,17 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Messier 64;HST Image Overlay on Ground-based Image
 ra_hr: 12.9458333333333
 zoom_level: 1.68166666666667
+---
+_uuid: 9fc230a1-f461-4ef8-95f8-6a798c17b57c
+angular_size: 1.68166666666667
+classification: Galaxy
+constellation: CRV
+data_set_type: Sky
+dec_deg: -18.8808333333333
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001332{Q}?g=138
+name: The Antennae Galaxies/NGC 4038-4039
+ra_hr: 12.031388888888898
+zoom_level: 0.5
 ---
 _uuid: 16564c42-08ec-4823-8472-f839f800413b
 angular_size: 1.0
