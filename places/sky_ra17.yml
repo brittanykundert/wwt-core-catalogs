@@ -1,0 +1,28 @@
+_uuid: 5a984643-cab2-41a3-8de6-9dacda018cfd
+classification: Galactic
+constellation: SGR
+data_set_type: Sky
+dec_deg: -28.9
+foreground_image_set_url: http://cdn.worldwidetelescope.org/wwtweb/g360.aspx?q={1},{2},{3}
+name: GLIMPSE 360
+ra_hr: 17.75
+---
+_uuid: c5ced5c5-b09a-41d9-a96e-27ff1ce6f191
+angular_size: 360.0
+classification: Galactic
+constellation: SGR
+data_set_type: Sky
+dec_deg: -28.9
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/glimpse.aspx?q={1},{2},{3}
+name: GLIMPSE
+ra_hr: 17.75
+---
+_uuid: d645f2b7-7e0b-4a02-991c-30bf89638f0f
+angular_size: 360.0
+classification: Galactic
+constellation: SGR
+data_set_type: Sky
+dec_deg: -28.9
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/mipsgal.aspx?q={1},{2},{3}
+name: GLIMPSE/MIPSGAL
+ra_hr: 17.75

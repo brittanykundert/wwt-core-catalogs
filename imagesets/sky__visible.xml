@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="sky__visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Black Sky Background"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="0"
+    WidthFactor="2"
+  >
+    <Credits>Public Domain</Credits>
+  </ImageSet>
+  <ImageSet
+    AltUrl="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wtl00{Q}?g=121&amp;band=wwt_rgb"
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Digitized Sky Survey (Color)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    StockSet="True"
+    TileLevels="12"
+    Url="http://cdn.worldwidetelescope.org/wwtweb/dss.aspx?q={1},{2},{3}"
+    WidthFactor="2"
+  >
+    <Credits>Copyright DSS Consortium</Credits>
+    <CreditsUrl>http://gsss.stsci.edu/Acknowledgements/DataCopyrights.htm</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/thumbnails/DSS.png</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},USNOBToast_6"
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="USNOB: US Naval Observatory B 1.0 (Synthetic, Optical)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="6"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001210{Q}?g=182"
+    WidthFactor="2"
+  >
+    <Credits>Monet D.G., Levine S.E., Casian B., et al. Astron. J., 125, 984 (2003). Rendering by Jina Suh (Microsoft).</Credits>
+    <CreditsUrl>http://cdsarc.u-strasbg.fr/viz-bin/Cat?I/284</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=usnob</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Big Picture (Optical)"
+    Projection="Equirectangular"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="13"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wtl11{Q}?g=155&amp;band=wwt_rgb"
+    WidthFactor="2"
+  >
+    <Credits>George Djorgovski, IPAC/CalTech. This single continuous digital sky image is a cut through the core of the Virgo Cluster of galaxies, derived from the Palomar-Quest digital sky survey. This image contains nearly a million faint galaxies, about half a million stars in our Milky Way and about a thousand distant quasars.</Credits>
+    <CreditsUrl>http://bigpicture.caltech.edu/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=dss</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tychooct.aspx?q={1},{2},{3}"
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Tycho (Synthetic, Optical)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="5"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000131{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>NASA/Goddard Space Flight Center Scientific Visualization Studio</Credits>
+    <CreditsUrl>http://svs.gsfc.nasa.gov/vis/a000000/a003400/a003442/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=tychobrahe</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="SDSS: Sloan Digital Sky Survey (Optical)"
+    Projection="Toast"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="13"
+    Url="http://www.worldwidetelescope.org/wwtweb/sdsstoast.aspx?q={1},{2},{3}"
+    WidthFactor="2"
+  >
+    <Credits>Copyright SDSS</Credits>
+    <CreditsUrl>http://www.sdss.org/collaboration/credits.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=sloan</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Planck CMB"
+    Projection="Toast"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="6"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},planck"
+    WidthFactor="2"
+  >
+    <Credits>Planck is a European Space Agency mission, with significant participation from NASA. NASAs Planck Project Office is based at JPL. JPL contributed mission-enabling technology for both of Plancks science instruments. European, Canadian and U.S. Planck scientists work together to analyze the Planck data.</Credits>
+    <CreditsUrl>http://www.nasa.gov/mission_pages/planck/index.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=planck</ThumbnailUrl>
+  </ImageSet>
+</Folder>

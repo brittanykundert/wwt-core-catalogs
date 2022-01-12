@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="sky__ultraviolet"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="EUVE 555 : Extreme Ultraviolet Explorer 555 Angstroms"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="5"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001020{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>Center for Extreme UV Astronomy, University of California at Berkeley. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (euve555, Min=5, Max=500).</Credits>
+    <CreditsUrl>http://archive.stsci.edu/euve/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=euvebw_jbis_map</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="GALEX 2 Near-UV"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="10"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000003210{Q}?g=209"
+    WidthFactor="2"
+  >
+    <Credits>Space Telescope Science Institute. The GALEX, Galaxy Explorer, instrument allows imaging and spectroscopic observations to be made in two ultraviolet bands, Far UV 1350-1780A and Near UV 1770-2730A. This is the GR2/3 release, not the most recent GR4 release. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope.</Credits>
+    <CreditsUrl>http://galex.stsci.edu/GR2/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=galexnear</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},euveColor_555_405_83_5"
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Extreme Ultraviolet Explorer"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="5"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001131{Q}?g=182"
+    WidthFactor="2"
+  >
+    <Credits>Data from Center for Extreme UV Astronomy, University of California at Berkeley. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope. Red is 555 Angstroms (euve555), Green 405 Angstroms, Red 83 Angstroms.</Credits>
+    <CreditsUrl>http://archive.stsci.edu/euve/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=euve_jbis_map</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="GALEX 2 Far-UV"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="10"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000003211{Q}?g=209"
+    WidthFactor="2"
+  >
+    <Credits>Space Telescope Science Institute. The GALEX, Galaxy Explorer, instrument allows imaging and spectroscopic observations to be made in two ultraviolet bands, Far UV 1350-1780A and Near UV 1770-2730A. This is the GR2/3 release, not the most recent GR4 release. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope.</Credits>
+    <CreditsUrl>http://galex.stsci.edu/GR2/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=galexfar</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="EUVE 171 : Extreme Ultraviolet Explorer 171 Angstroms"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="5"
+    Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001012{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>Center for Extreme UV Astronomy, University of California at Berkeley. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (euve171, Min=4, Max=200).</Credits>
+    <CreditsUrl>http://archive.stsci.edu/euve/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=euvebw_jbis_map</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="GALEX 2 Combined"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="10"
+    Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000003212{Q}?g=209"
+    WidthFactor="2"
+  >
+    <Credits>Space Telescope Science Institute. The GALEX, Galaxy Explorer, instrument allows imaging and spectroscopic observations to be made in two ultraviolet bands, Far UV 1350-1780A and Near UV 1770-2730A. This is the GR2/3 release, not the most recent GR4 release. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope.</Credits>
+    <CreditsUrl>http://galex.stsci.edu/GR2/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=galexboth</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="EUVE 83 : Extreme Ultraviolet Explorer 83 Angstroms"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="5"
+    Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000003{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>Center for Extreme UV Astronomy, University of California at Berkeley. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (euve83, Min=1, Max=150).</Credits>
+    <CreditsUrl>http://archive.stsci.edu/euve/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=euvebw_jbis_map</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="EUVE 405 : Extreme Ultraviolet Explorer 405 Angstroms"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="5"
+    Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001013{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>Center for Extreme UV Astronomy, University of California at Berkeley. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (euve405, Min=0.7, Max=70).</Credits>
+    <CreditsUrl>http://archive.stsci.edu/euve/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=euvebw_jbis_map</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="GALEX 4 Far-UV"
+    Projection="Toast"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="10"
+    Url="http://www.worldwidetelescope.org/wwtweb/galex4far.aspx?q={1},{2},{3}"
+    WidthFactor="2"
+  >
+    <Credits>This is the Far UV band(1350-1780A) of the GALEX GR4 data release archived at MAST/STScI.
+TOAST-formatted mosaics were obtained using facilities of NASA's SkyView Virtual Telescope.
+</Credits>
+    <CreditsUrl>http://galex.stsci.edu/GR4/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=galexfar</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="GALEX 4 Near-UV"
+    Projection="Toast"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="10"
+    Url="http://www.worldwidetelescope.org/wwtweb/galex4near.aspx?q={1},{2},{3}"
+    WidthFactor="2"
+  >
+    <Credits>This is the Near UV band (1770-2730A) of the GALEX GR4 data release archived at MAST/STScI.
+TOAST-formatted mosaics were obtained using facilities of NASA's SkyView Virtual Telescope.
+</Credits>
+    <CreditsUrl>http://galex.stsci.edu/GR4/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=galexnear</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="GALEX (Ultraviolet)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="10"
+    Url="http://www.worldwidetelescope.org/wwtweb/galexTOAST.aspx?q={1},{2},{3}"
+    WidthFactor="2"
+  >
+    <Credits>Space Telescope Science Institute. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope. The Galaxy Explorer instrument allows observations to be made in ultraviolet bands Far UV 1350-1780A and Near UV 1770-2730A. This is the GR2/3 release. </Credits>
+    <CreditsUrl>http://galex.stsci.edu/GR2/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=galexboth</ThumbnailUrl>
+  </ImageSet>
+</Folder>

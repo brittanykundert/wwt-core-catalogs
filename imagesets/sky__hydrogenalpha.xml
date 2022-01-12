@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="sky__hydrogenalpha"
+  Searchable="True"
+>
+  <ImageSet
+    AltUrl="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000120{Q}?g=131"
+    BandPass="HydrogenAlpha"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Hydrogen Alpha Full Sky Map"
+    Projection="Toast"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="6"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},halpha"
+    WidthFactor="2"
+  >
+    <Credits>Image Courtesy Douglas Finkbeiner. The full-sky H-alpha map (6' FWHM resolution) is a composite of the Virginia Tech Spectral line Survey (VTSS) in the north and the Southern H-Alpha Sky Survey Atlas (SHASSA) in the south. The Wisconsin H-Alpha Mapper (WHAM) survey provides a stable zero-point over 3/4 of the sky on a one degree scale. </Credits>
+    <CreditsUrl>http://www.astro.princeton.edu/~dfink/halpha/processing.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=halpha</ThumbnailUrl>
+  </ImageSet>
+</Folder>

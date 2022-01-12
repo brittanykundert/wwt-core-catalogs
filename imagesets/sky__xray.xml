@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="sky__xray"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="ROSAT Soft Band Count Map (X-Ray)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="7"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000320{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>We have made use of the ROSAT Data Archive of the Max-Planck-Institut fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (RASS3sb, Min=0.2, Max=50).</Credits>
+    <CreditsUrl>http://www.xray.mpe.mpg.de/cgi-bin/rosat/rosat-survey</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=rosat</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Swift BAT All-Sky Survey: Significance 14-195 keV (X-Ray)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="5"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000330{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>NASA BAT Team. TOASTing of images done by NASA's SkyView Virtual Telescope (BATSig, Min=1, Max=10).</Credits>
+    <CreditsUrl>http://skyview.gsfc.nasa.gov/cgi-bin/survey.pl#Swift%20BAT%20All-Sky%20Survey:%20Significance%2014-195%20keV</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=batsig</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="ROSAT Hard Band Intensity (X-Ray)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="7"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000321{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>We have made use of the ROSAT Data Archive of the Max-Planck-Institut fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (RASSHB, Min=0.0002, Max=10).</Credits>
+    <CreditsUrl>http://www.xray.mpe.mpg.de/cgi-bin/rosat/rosat-survey</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=rosathard</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Swift BAT All-Sky Survey: Flux 14-195 keV (X-Ray)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="5"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000331{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>NASA BAT Team. TOASTing of images done by NASA's SkyView Virtual Telescope (BATFlux, Min=1e-5, Max=1e-3).</Credits>
+    <CreditsUrl>http://skyview.gsfc.nasa.gov/cgi-bin/survey.pl#Swift%20BAT%20All-Sky%20Survey:%20Flux%2014-195%20keV</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=batflux</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="ROSAT Soft Band Intensity (X-Ray)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="7"
+    Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000322{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>We have made use of the ROSAT Data Archive of the Max-Planck-Institut fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (RASSSB, Min=0.0002, Max=10).</Credits>
+    <CreditsUrl>http://www.xray.mpe.mpg.de/cgi-bin/rosat/rosat-survey</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=rosathard</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},RASS3Color_3sb_3bb0.8_3hb_7"
+    BandPass="XRay"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="RASS: ROSAT All Sky Survey (X-ray)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="7"
+    Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001132{Q}?g=182"
+    WidthFactor="2"
+  >
+    <Credits>This is a composite of three RASS3 surveys from the ROSAT Data Archive of the Max-Planck-Institut fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope. Red is soft band (RASS3sb), Green is broad band (RASS3bb), Blue is hard band (RASS3hb)</Credits>
+    <CreditsUrl>http://www.xray.mpe.mpg.de/cgi-bin/rosat/rosat-survey</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=rosatcolor</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="ROSAT Hard Band Count Map (X-Ray)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="7"
+    Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000313{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>We have made use of the ROSAT Data Archive of the Max-Planck-Institut fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (RASS3hb, Min=0.2, Max=50).</Credits>
+    <CreditsUrl>http://www.xray.mpe.mpg.de/cgi-bin/rosat/rosat-survey</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=rosat</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="ROSAT PSPC summed pointed observations, 2 degree cutoff, intensity (X-Ray)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="8"
+    Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000323{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>Observational data from NASA Goddard Space Flight Center, mosaicking and TOASTing of images done by NASA's SkyView Virtual Telescope (PSPC2int, Min=0.00002, Max=0.01).</Credits>
+    <CreditsUrl>http://skyview.gsfc.nasa.gov/help/pspc_generation.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=rosatpspc2int</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},RASS3bb_0.2_50_7"
+    BandPass="XRay"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="ROSAT Broad Band Count Map (X-Ray)"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="7"
+    Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001133{Q}?g=182"
+    WidthFactor="2"
+  >
+    <Credits>We have made use of the ROSAT Data Archive of the Max-Planck-Institut fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (RASS3bb, Min=0.2, Max=50).</Credits>
+    <CreditsUrl>http://www.xray.mpe.mpg.de/cgi-bin/rosat/rosat-survey</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=rosat</ThumbnailUrl>
+  </ImageSet>
+</Folder>
