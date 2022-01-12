@@ -623,6 +623,14 @@ def do_prettify(settings):
         prettify(elem, sys.stdout)
 
 
+# report
+
+
+def do_report(_settings):
+    idb = ImagesetDatabase()
+    print(f"number of imagesets: {len(idb.by_url)}")
+
+
 # generic driver
 
 
@@ -644,6 +652,8 @@ def entrypoint():
         "xml", metavar="XML-PATH", help="Path to an XML file to prettify"
     )
 
+    _report = subparsers.add_parser("report")
+
     settings = parser.parse_args()
 
     if settings.subcommand is None:
@@ -658,6 +668,8 @@ def entrypoint():
         do_ingest(settings)
     elif settings.subcommand == "prettify":
         do_prettify(settings)
+    elif settings.subcommand == "report":
+        do_report(settings)
     else:
         die(f"unknown subcommand `{settings.subcommand}`", prefix="usage error:")
 
