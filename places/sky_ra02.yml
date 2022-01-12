@@ -215,3 +215,47 @@ name: NGC 1068
 ra_hr: 2.71127905333333
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-92.jpg
 zoom_level: 0.0663689306171893
+---
+_uuid: 44b6de8d-5cec-40c6-b992-e863b3694fd3
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 60.2065345
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-005L{1}X{2}Y{3}.png
+name: Maffei 1
+ra_hr: 2.58431728666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-005.jpg
+zoom_level: 12.5153624064
+---
+_uuid: f409e266-9458-424e-9ab2-cecca8c3cedf
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 60.3979115
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-010L{1}X{2}Y{3}.png
+name: W5
+ra_hr: 2.87091900666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-010.jpg
+zoom_level: 7.28069423104
+---
+_uuid: 21af357d-743f-42fc-9860-88a76a1b4d1b
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 61.209793
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-012L{1}X{2}Y{3}.png
+name: IC 1795
+ra_hr: 2.39581
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-012.jpg
+zoom_level: 6.25777769088778
+---
+_uuid: b1a78414-6d33-4e6c-b3b9-6e29fda85402
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 61.16347
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-018L{1}X{2}Y{3}.png
+name: Heart and Soul Nebula
+ra_hr: 2.69812933333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-018.jpg
+zoom_level: 24.8490657806385

@@ -392,3 +392,36 @@ name: C153
 ra_hr: 15.6860163733333
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-79.jpg
 zoom_level: 0.0577568444748108
+---
+_uuid: bcb0f191-0921-4140-8e44-2325f6e39712
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -26.1450811
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-033L{1}X{2}Y{3}.png
+name: DG 129
+ra_hr: 15.9359340466667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-033.jpg
+zoom_level: 12.51036430336
+---
+_uuid: c787d926-a307-4c16-937b-7125589cd4f4
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -62.940694
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-039L{1}X{2}Y{3}.png
+name: Circinus Molecular Cloud
+ra_hr: 15.1523972
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-039.jpg
+zoom_level: 24.5760002136244
+---
+_uuid: a7b649dc-23a3-469a-8f2c-06582ab250ab
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 56.328889
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020gL{1}X{2}Y{3}.png
+name: NGC 5907
+ra_hr: 15.2649444666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020g.jpg
+zoom_level: 3.12888884544307

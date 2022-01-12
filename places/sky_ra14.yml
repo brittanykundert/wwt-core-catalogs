@@ -337,3 +337,47 @@ name: Image File
 ra_hr: 14.2842194533333
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-638.jpg
 zoom_level: 0.21802319872
+---
+_uuid: 5fa17d15-c2a6-4737-9fba-c046aff4a7bc
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -65.3392836
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-012L{1}X{2}Y{3}.png
+name: Circinus Galaxy
+ra_hr: 14.2194740466667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-012.jpg
+zoom_level: 3.13460277248
+---
+_uuid: ce3fcf94-4431-4a57-9743-339ff58f131c
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 54.3485233
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-025L{1}X{2}Y{3}.png
+name: Pinwheel Galaxy
+ra_hr: 14.0535206733333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-025.jpg
+zoom_level: 3.130642432
+---
+_uuid: 4282c1ea-0f61-43d8-88c3-b547f2a841c3
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -62.4631333802834
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-028aL{1}X{2}Y{3}.png
+name: RCW 86
+ra_hr: 14.7168674216903
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-028a.jpg
+zoom_level: 6.25777769088778
+---
+_uuid: 8a074526-c8b4-47a2-94c5-9bfe8d90f949
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -62.4631333802834
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-028bL{1}X{2}Y{3}.png
+name: RCW 86
+ra_hr: 14.7168674216903
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-028b.jpg
+zoom_level: 6.25777769088778

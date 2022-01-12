@@ -337,3 +337,25 @@ name: Image File
 ra_hr: 19.9911432533333
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-587d.jpg
 zoom_level: 0.205425573888
+---
+_uuid: 3f808977-6c26-442f-b882-f256b9f91069
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -63.8574312
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-019L{1}X{2}Y{3}.png
+name: NGC 6744
+ra_hr: 19.1629095733333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-019.jpg
+zoom_level: 3.12888884544389
+---
+_uuid: 5170110f-a0a6-4c58-aeea-9cb02cc9ac80
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -14.78929
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020iL{1}X{2}Y{3}.png
+name: NGC 6822
+ra_hr: 19.7490626666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020i.jpg
+zoom_level: 3.12888884544307

@@ -214,3 +214,36 @@ name: Image File
 ra_hr: 20.5404891666667
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-643.jpg
 zoom_level: 0.1172313833472
+---
+_uuid: 4ac9a0bb-070e-4d1e-b4f3-a0e10cd43627
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.911567
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-020L{1}X{2}Y{3}.png
+name: Comet 65P/Gunn
+ra_hr: 20.5584834666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-020.jpg
+zoom_level: 3.12888884544389
+---
+_uuid: 6901cbe2-2576-4bed-a354-dc5a6f95cc4e
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 31.01
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-008L{1}X{2}Y{3}.png
+name: Veil Nebula
+ra_hr: 20.8333333333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-008.jpg
+zoom_level: 25.03081984
+---
+_uuid: c2adc07e-89e2-46b1-80a2-554ec24e3a21
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 38.45891535
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-021L{1}X{2}Y{3}.png
+name: Cygnus
+ra_hr: 20.3299846560667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-021.jpg
+zoom_level: 25.031081984

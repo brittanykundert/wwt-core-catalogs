@@ -273,3 +273,36 @@ name: Image File
 ra_hr: 11.5309618066667
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-563.jpg
 zoom_level: 0.0901533712384
+---
+_uuid: caf5a83a-b883-4e63-9430-15f8677c2f62
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -61.2713
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-004bL{1}X{2}Y{3}.png
+name: NGC 3603
+ra_hr: 11.2524666666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-004b.jpg
+zoom_level: 12.2880001068122
+---
+_uuid: 247a21f4-cdfa-4cbb-a15b-88add2af9a7b
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -65.5021662
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-021L{1}X{2}Y{3}.png
+name: v385 Car
+ra_hr: 11.1046347733333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-021.jpg
+zoom_level: 12.51723313152
+---
+_uuid: c7c22321-e9b9-43a7-a0dc-ef49bde18dc9
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -63.606667
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-046L{1}X{2}Y{3}.png
+name: Lambda Centauri Nebula
+ra_hr: 11.6699656
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-046.jpg
+zoom_level: 6.25777769088778

@@ -304,3 +304,47 @@ name: MACS J0717.5+3745
 ra_hr: 7.29246882
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-622b.jpg
 zoom_level: 0.406363930624
+---
+_uuid: 7c9bce0e-ec57-4309-aa81-76af5ef9574f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -13.2255641
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-014L{1}X{2}Y{3}.png
+name: Thor's Helmet
+ra_hr: 7.30936882
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-014.jpg
+zoom_level: 3.12797945856
+---
+_uuid: bcb30d56-09f8-4537-b5ec-6caa85928bb1
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -11.0015147
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-017L{1}X{2}Y{3}.png
+name: Seagull Nebula
+ra_hr: 7.067881
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-017.jpg
+zoom_level: 12.5244932096
+---
+_uuid: 4108198d-7b19-456b-b857-259bb78ac311
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 65.6025
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020fL{1}X{2}Y{3}.png
+name: NGC 2403
+ra_hr: 7.6142778
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020f.jpg
+zoom_level: 3.12888884544307
+---
+_uuid: b26fa399-bb71-4aa1-be18-92c0797793e1
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -46.9025
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-024L{1}X{2}Y{3}.png
+name: CG4
+ra_hr: 7.57369446666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-024.jpg
+zoom_level: 6.25777769088778

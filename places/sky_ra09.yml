@@ -435,3 +435,58 @@ name: Image File
 ra_hr: 9.68441318
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-633.jpg
 zoom_level: 0.065371553792
+---
+_uuid: 203d7d57-cb8e-4645-939e-aa7503c5b344
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -58.5161846862573
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-001L{1}X{2}Y{3}.png
+name: V482 Car
+ra_hr: 9.51726381676153
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-001.jpg
+zoom_level: 3.124337778688
+---
+_uuid: 25bc2599-8b3d-47b7-a40b-2069ddf2ef17
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -47.6880084
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-026L{1}X{2}Y{3}.png
+name: Vela A Region
+ra_hr: 9.24445434
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-026.jpg
+zoom_level: 6.25491836928
+---
+_uuid: 29c8ee63-db62-4862-9542-5b242e72f705
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 69.36667
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-002L{1}X{2}Y{3}.png
+name: Messier 81
+ra_hr: 9.92888866666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-002.jpg
+zoom_level: 6.25777769088614
+---
+_uuid: 1f66e83b-5489-4c2b-b704-9d67894f5f1f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 69.065278
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020cL{1}X{2}Y{3}.png
+name: Messier 81
+ra_hr: 9.92588886666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020c.jpg
+zoom_level: 3.12888884544307
+---
+_uuid: 2402bc8b-f27e-415b-9c0d-114835f737f7
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -47.8528682
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-023L{1}X{2}Y{3}.png
+name: GUM 25
+ra_hr: 9.01055934
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-023.jpg
+zoom_level: 6.25915052032

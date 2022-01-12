@@ -283,3 +283,25 @@ name: Image File
 ra_hr: 22.4286232133333
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-610f.jpg
 zoom_level: 0.252050522112
+---
+_uuid: 3471d1c7-eba9-4a49-9e7c-b585771ee6df
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 58.1078422
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-006L{1}X{2}Y{3}.png
+name: NGC 7380
+ra_hr: 22.7898454733333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-006.jpg
+zoom_level: 6.26448719872
+---
+_uuid: 3ec1d333-6684-4de7-b414-f2484ba3223c
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 65.5943518
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-034L{1}X{2}Y{3}.png
+name: IRAS 22298
+ra_hr: 22.5134606666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-034.jpg
+zoom_level: 12.51377905664

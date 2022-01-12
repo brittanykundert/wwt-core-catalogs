@@ -568,3 +568,80 @@ name: M17
 ra_hr: 18.3417702429453
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-93.jpg
 zoom_level: 1.90080483328
+---
+_uuid: eeb82332-4d17-47c4-b884-898eb35a298e
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.011655
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-013L{1}X{2}Y{3}.png
+name: NGC 6723
+ra_hr: 18.9933157333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-013.jpg
+zoom_level: 6.25777769088778
+---
+_uuid: a5cdbdda-15f0-4566-869e-aa227bd0cfcd
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.231111
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-001L{1}X{2}Y{3}.png
+name: Lagoon Nebula
+ra_hr: 18.0550434666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-001.jpg
+zoom_level: 6.25777769088778
+---
+_uuid: 8ab04e9c-39fd-4122-8ec4-27567d225a60
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -19.687778
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-027L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 18.133369
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-027.jpg
+zoom_level: 6.25777769088778
+---
+_uuid: 0f9bf8e7-2faf-4056-9393-5884a78106c6
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 27.26
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-ydwarf-b1L{1}X{2}Y{3}.png
+name: WISE 1828+2650
+ra_hr: 18.4789436666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-ydwarf-b1.jpg
+zoom_level: 1.56444442272195
+---
+_uuid: c003ff02-01a8-4c0a-9823-7c232ca16946
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 27.26
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-ydwarf-b2L{1}X{2}Y{3}.png
+name: WISE 1828+2650
+ra_hr: 18.4789436666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-ydwarf-b2.jpg
+zoom_level: 1.56444442272195
+---
+_uuid: 73e98260-7c35-4ffc-a241-17f104515fa5
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -33.2974232
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2012-003L{1}X{2}Y{3}.png
+name: WISE J18103305
+ra_hr: 18.14814638
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2012-003.jpg
+zoom_level: 6.25872224256
+---
+_uuid: 12a9de69-b2a6-44ea-87d2-804ef81b2999
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -22.716667
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2014-001L{1}X{2}Y{3}.png
+name: Trifid Nebula
+ra_hr: 18.0272416
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2014-001.jpg
+zoom_level: 6.25777769088778

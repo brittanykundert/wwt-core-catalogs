@@ -293,3 +293,47 @@ name: RCW 103
 ra_hr: 16.2934983733333
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-636.jpg
 zoom_level: 1.80799832064
+---
+_uuid: 93c47292-c0ba-4437-9a4e-90a3015839f1
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -10.601111
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-003L{1}X{2}Y{3}.png
+name: Zeta Ophiuchi
+ra_hr: 16.6153687333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-003.jpg
+zoom_level: 6.25777769088778
+---
+_uuid: 728bc958-01bb-420a-ba93-55653bdc2bd0
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.246930934
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-013L{1}X{2}Y{3}.png
+name: Rho Ophiuchus cloud complex
+ra_hr: 16.4213962678
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-013.jpg
+zoom_level: 25.031081984
+---
+_uuid: 319e549f-2b59-41ce-8b2a-21b5f8580ed7
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -20.1264044
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-030L{1}X{2}Y{3}.png
+name: IC 4601
+ra_hr: 16.34551428
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-030.jpg
+zoom_level: 12.51145580544
+---
+_uuid: f919be98-069f-4dec-8d72-fe1c088aeb9a
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -19.695995679
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-031L{1}X{2}Y{3}.png
+name: IC 4592
+ra_hr: 16.2668587701333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-031.jpg
+zoom_level: 25.031081984

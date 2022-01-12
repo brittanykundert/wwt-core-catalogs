@@ -203,3 +203,36 @@ name: M15
 ra_hr: 21.49949258
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-630.jpg
 zoom_level: 0.194917433344
+---
+_uuid: acd107b9-c43a-4044-ac13-39c1f3428af6
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -1.157829
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-035L{1}X{2}Y{3}.png
+name: Comet 103P/Hartley 2
+ra_hr: 21.1411679333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-035.jpg
+zoom_level: 4.6143685899043
+---
+_uuid: 5cdb9012-5b99-4dc0-8650-d9eecd1c8a16
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.256508
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-037L{1}X{2}Y{3}.png
+name: Cocoon Nebula
+ra_hr: 21.8881558733333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-037.jpg
+zoom_level: 6.25745936384
+---
+_uuid: 7ecc0376-db58-4af3-830e-d53b8a908654
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 57.320779371
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-022L{1}X{2}Y{3}.png
+name: IC 1396
+ra_hr: 21.6224494497333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-022.jpg
+zoom_level: 12.515540992

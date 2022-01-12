@@ -635,3 +635,69 @@ name: M83
 ra_hr: 13.6164152
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-71.jpg
 zoom_level: 0.782652727296
+---
+_uuid: 94fbd2fd-7ad7-4896-9176-97b67dee46ec
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 27.786068
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-009L{1}X{2}Y{3}.png
+name: M3
+ra_hr: 13.69576272
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-009.jpg
+zoom_level: 6.24527777792
+---
+_uuid: 61a0a7f8-919a-4577-9509-cf84272c1855
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.8655453
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-022L{1}X{2}Y{3}.png
+name: Southern Pinwheel Galaxy
+ra_hr: 13.61690108
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-022.jpg
+zoom_level: 3.12523350016
+---
+_uuid: 9ed60834-ae1e-4ac2-82b4-1e2aab80c29f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -47.4594445
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-029L{1}X{2}Y{3}.png
+name: Omega Centauri
+ra_hr: 13.4482471333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-029.jpg
+zoom_level: 6.25777983488
+---
+_uuid: 46966ff7-2e19-456c-bfc1-83a0485cfcf1
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.231389
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-045EL{1}X{2}Y{3}.png
+name: Whirlpool Nebula
+ra_hr: 13.4988055333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-045E.jpg
+zoom_level: 1.56444442272195
+---
+_uuid: 411b31a9-2eb1-4e62-92b8-62b1fa9eca88
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.231389
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020aL{1}X{2}Y{3}.png
+name: Whirlpool Galaxy
+ra_hr: 13.4988055333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020a.jpg
+zoom_level: 1.56444442272154
+---
+_uuid: befe6f6a-d78e-48a2-a1bb-3ba6e0cd9225
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.865417
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020dL{1}X{2}Y{3}.png
+name: Southern Pinwheel Galaxy
+ra_hr: 13.6169305333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020d.jpg
+zoom_level: 3.12888884544307

@@ -290,3 +290,36 @@ name: SNR 0103-72.6
 ra_hr: 1.08429454666667
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-80.jpg
 zoom_level: 0.489864757248
+---
+_uuid: a845ac41-8000-499d-9530-8d6dd3da49b4
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 30.6695389
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-047L{1}X{2}Y{3}.png
+name: Triangulum Galaxy
+ra_hr: 1.56287747333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-047.jpg
+zoom_level: 6.258294784
+---
+_uuid: 0cdc224f-b2c9-415d-8deb-fb429ed8380f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 54.270602
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-006L{1}X{2}Y{3}.png
+name: WISE Final Frame
+ra_hr: 1.8378484
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-006.jpg
+zoom_level: 3.12888884544389
+---
+_uuid: 58c595cf-f27a-43c7-8ba6-43d1d4fff5f4
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 15.783472
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020bL{1}X{2}Y{3}.png
+name: Messier 74
+ra_hr: 1.6116028
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020b.jpg
+zoom_level: 1.56444442272154

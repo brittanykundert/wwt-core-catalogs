@@ -18696,4 +18696,2396 @@ the large galaxy in the lower part of the image,...</Credits>
   >
     <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-97.jpg</ThumbnailUrl>
   </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.781084444671999"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="142.758957251423"
+    CenterY="-58.5161846862573"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="V482 Car"
+    Projection="Tan"
+    Rotation="49.15241424139"
+    Sparse="True"
+    TileLevels="2"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-001L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/WISE Team; This infrared snapshot of a region in the constellation Carina near the Milky Way was taken shortly after NASA's Wide-field Infr...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-001.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.78336"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="190.9320891734"
+    CenterY="-26.0704305833866"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="WISE NEO"
+    Projection="Tan"
+    Rotation="24.378938848563"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-002L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; The red dot at the center of this image is the first near-Earth asteroid discovered by NASA's Wide-Field Infrared Survey Explore...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-002.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.07200002670305"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="168.787"
+    CenterY="-61.2713"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 3603"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-004bL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This dramatic image of a nebula containing young, massive stars was captured by NASA's Wide-Field Infrared Survey Explorer, or W...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-004b.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="6.14400005340611"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="10.684583"
+    CenterY="41.269167"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Andromeda Galaxy"
+    Projection="Tan"
+    Rotation="-207"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-004c1L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/WISE Team; This image from NASA's Wide-field Infrared Survey Explorer, or WISE, highlights the Andromeda galaxy's older stellar population ...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-004c1.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="6.14400005340611"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="10.684583"
+    CenterY="41.269167"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Andromeda Galaxy"
+    Projection="Tan"
+    Rotation="-207"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-004c2L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/WISE Team; This image from NASA's Wide-field Infrared Survey Explorer, or WISE, highlights the dust that speckles the Andromeda galaxy's sp...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-004c2.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="6.14400005340611"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="10.684583"
+    CenterY="41.269167"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Andromeda Galaxy"
+    Projection="Tan"
+    Rotation="-207"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-004cL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/WISE Team</Credits>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-004c.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.07200002670305"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="54.621167"
+    CenterY="-35.45075"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Fornax Cluster"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-004dL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; WISE's large field of view and multi-wavelength infrared sight allowed it to form this complete view of the cluster, containing ...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-004d.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.1288406016"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="38.7647593"
+    CenterY="60.2065345"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Maffei 1"
+    Projection="Tan"
+    Rotation="65.16"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-005L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; A mosaic of images from WISE in the constellation of Cassiopeia. This region contains a large star forming nebula within the Mil...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-005.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56612179968"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="341.8476821"
+    CenterY="58.1078422"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 7380"
+    Projection="Tan"
+    Rotation="44.51"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-006L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This picture of the open star cluster NGC 7380 is a mosaic of images from the WISE mission spanning an area on the sky of about ...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-006.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.78295615488"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0.237982"
+    CenterY="67.3128741"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="AFGL 3193"
+    Projection="Tan"
+    Rotation="131.45"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-008L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; A new infrared image from NASA's Wide-field Infrared Survey Explorer, or WISE, shows a cosmic rosebud blossoming with new stars....</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-008.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56131944448"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="205.4364408"
+    CenterY="27.786068"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M3"
+    Projection="Tan"
+    Rotation="-64.02"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-009L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/WISE Team; This image from the WISE mission was taken on January 2nd, 2010, during the check-out phase, before the start of the WISE survey...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-009.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.82017355776"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="43.0637851"
+    CenterY="60.3979115"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="W5"
+    Projection="Tan"
+    Rotation="-112.78"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-010L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/WISE Team; This WISE mosaic is of the Soul Nebula (a.k.a. the Embryo Nebula, IC 1848, or W5). It is an open cluster of stars surrounded by ...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-010.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.782222211360973"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="56.702083"
+    CenterY="68.096111"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="IC 342"
+    Projection="Tan"
+    Rotation="-199.5"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-011L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; A leggy cosmic creature comes out of hiding in this new infrared view from NASA's Wide-field Infrared Survey Explorer, or WISE. ...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-011.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="35.93715"
+    CenterY="61.209793"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="IC 1795"
+    Projection="Tan"
+    Rotation="-206.563778"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-012L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This image from WISE is a view within the constellation Cassiopeia of another portion of the vast star forming complex that make...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-012.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="284.899736"
+    CenterY="-37.011655"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 6723"
+    Projection="Tan"
+    Rotation="-96.048305"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-013L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This colorful image from WISE (Wide-field Infrared Survey Explorer) is a view of an area of the sky over 12 times the size of th...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-013.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.78199486464"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="109.6405323"
+    CenterY="-13.2255641"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Thor's Helmet"
+    Projection="Tan"
+    Rotation="-80.81"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-014L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This heroic image from WISE is of a special cloud of dust and gas in the constellation Canis Major catalogued as NGC 2359. The n...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-014.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="60.217265"
+    CenterY="36.462685"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="California Nebula"
+    Projection="Tan"
+    Rotation="-191.848172"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-015L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This infrared image from NASA’s WISE (Wide-field Infrared Survey Explorer) features one of the bright stars in the constellation...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-015.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56550647808"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="80.7134201"
+    CenterY="33.4935159"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1893"
+    Projection="Tan"
+    Rotation="176.07"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-016L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/WISE Team; A new infrared image from NASA's Wide-field Infrared Survey Explorer, or WISE, showcases the Tadpole nebula, a star-forming hub ...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-016.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.1311233024"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="106.018215"
+    CenterY="-11.0015147"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Seagull Nebula"
+    Projection="Tan"
+    Rotation="277.36"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-017L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; The Seagull nebula, seen in this infrared mosaic from NASA’s Wide-field Infrared Survey Explorer, or WISE, draws its common name...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-017.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="6.21226644515963"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="40.47194"
+    CenterY="61.16347"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Heart and Soul Nebula"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-018L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; The Heart and Soul nebulae are seen in this infrared mosaic from NASA’s Wide-field Infrared Survey Explorer, or WISE.  The image...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-018.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.782222211360973"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="287.4436436"
+    CenterY="-63.8574312"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 6744"
+    Projection="Tan"
+    Rotation="-188.995949"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-019L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This image of spiral galaxy NGC 6744 from NASA’s WISE (Wide-field Infrared Survey Explorer) is a mosaic of frames covering an ar...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-019.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.782222211360973"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="308.377252"
+    CenterY="-24.911567"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Comet 65P/Gunn"
+    Projection="Tan"
+    Rotation="-14.566644"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-020L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This image from NASA’s Wide-field Infrared Survey Explorer (WISE) features comet 65P/Gunn. Comets are balls of dust and ice left...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-020.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.12930828288"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="166.5695216"
+    CenterY="-65.5021662"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="v385 Car"
+    Projection="Tan"
+    Rotation="-127.24"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-021L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Some might see a blood-red jellyfish in a forest of seaweed, while others might see a big, red eye or a pair of lips. In fact, t...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-021.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.78130837504"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="204.2535162"
+    CenterY="-29.8655453"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Southern Pinwheel Galaxy"
+    Projection="Tan"
+    Rotation="22.28"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-022L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This image from the Wide-field Infrared Survey Explorer (WISE) is of the nearby galaxy Messier 83, or M83 for short. It is a spi...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-022.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56555149312"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="84.9850271"
+    CenterY="-69.0757604"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Tarantula Nebula"
+    Projection="Tan"
+    Rotation="37.77"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-023L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Sending chills down the spine of all arachnophobes is the Tarantula Nebula in this image from NASA's Wide-field Infrared Survey ...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-023.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="6.483394"
+    CenterY="64.753869"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Tycho's Supernova"
+    Projection="Tan"
+    Rotation="-222.602802"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-024L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This image from NASA's Wide-field Infrared Survey Explorer (WISE) takes in several interesting objects in the constellation Cass...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-024.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.11751103401165"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="56.477089"
+    CenterY="24.170254"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Pleiades"
+    Projection="Tan"
+    Rotation="-180"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-025L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This image shows the famous Pleiades cluster of stars as seen through the eyes of WISE, or NASA's Wide-field Infrared Survey Exp...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-025.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56372959232"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="138.6668151"
+    CenterY="-47.6880084"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Vela A Region"
+    Projection="Tan"
+    Rotation="-144.68"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-026L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; New stars are forming inside this giant cloud of dust and gas as seen in infrared light by NASA’s Wide-field Infrared Survey Exp...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-026.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="51.9079611"
+    CenterY="58.7848445"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="AFGL 490"
+    Projection="Tan"
+    Rotation="72"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-027L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; The Wide-field Infrared Survey Explorer, or WISE, has seen a cluster of newborn stars enclosed in a cocoon of dust and gas in th...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-027.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="6.2586879729664"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="13.1045616"
+    CenterY="-73.2921265"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Small Magellanic Cloud"
+    Projection="Tan"
+    Rotation="24.94"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-028L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This image captured by NASA’s Wide-field Infrared Survey Explorer (WISE) highlights the Small Magellanic Cloud.  Also known as N...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-028.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444495872"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="201.723707"
+    CenterY="-47.4594445"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Omega Centauri"
+    Projection="Tan"
+    Rotation="-153.21"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-029L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; NASA’s Wide-field Infrared Survey Explorer, or WISE, has captured a favorite observing target of amateur astronomers -- Omega Ce...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-029.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.12871387136"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="97.8560414"
+    CenterY="4.9746608"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Rosette Nebula"
+    Projection="Tan"
+    Rotation="93.01"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-030L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Unicorns and roses are usually the stuff of fairy tales, but a new cosmic image taken by NASA’s Wide-field Infrared Explorer (WI...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-030.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="355.084801"
+    CenterY="61.930653"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="LBN 113-55"
+    Projection="Tan"
+    Rotation="-224.749752"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-032L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Nebulae are enormous clouds of dust and gas occupying the space between the stars. Some have pretty names to match their good lo...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-032.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.12759107584"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="239.0390107"
+    CenterY="-26.1450811"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="DG 129"
+    Projection="Tan"
+    Rotation="168"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-033L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Gripped in the claw of the constellation Scorpius, sits the reflection nebula DG 129, a cloud of gas and dust that reflects ligh...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-033.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.12844476416"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="337.70191"
+    CenterY="65.5943518"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="IRAS 22298"
+    Projection="Tan"
+    Rotation="-145.95"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-034L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; NASA’s Wide-field Infrared Survey Explorer, or WISE, captured this image of a hidden star-forming cloud complex of dust and gas ...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-034.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.15359214747607"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="317.117519"
+    CenterY="-1.157829"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Comet 103P/Hartley 2"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-035L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This visitor from deep space, seen here by NASA's Wide-field Infrared Survey Explorer, or WISE, is comet Hartley 2 -- the destin...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-035.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3911111056384"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="11.8901361"
+    CenterY="-25.2890457"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Sculptor Galaxy"
+    Projection="Tan"
+    Rotation="-26.26356316"
+    Sparse="True"
+    TileLevels="2"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-036BL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; The Sculptor galaxy is shown in different infrared hues, in this new mosaic from NASA's Wide-field Infrared Survey Explorer, or ...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-036B.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3911111056384"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="11.8901361"
+    CenterY="-25.2890457"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Sculptor Galaxy"
+    Projection="Tan"
+    Rotation="-26.26356316"
+    Sparse="True"
+    TileLevels="2"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-036CL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This image from NASA's Wide-field Infrared Survey Explorer, or WISE, was taken with the two shortest-wavelength detectors (3.4 a...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-036C.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3911111056384"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="11.8901361"
+    CenterY="-25.2890457"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Sculptor Galaxy"
+    Projection="Tan"
+    Rotation="-26.26356316"
+    Sparse="True"
+    TileLevels="2"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-036DL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This image of the Sculptor Galaxy from NASA's Wide-field Infrared Survey Explorer, or WISE, reveals the galaxy's emerging young ...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-036D.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3911111056384"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="11.8901361"
+    CenterY="-25.2890457"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Sculptor Galaxy"
+    Projection="Tan"
+    Rotation="-26.26356316"
+    Sparse="True"
+    TileLevels="2"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-036EL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This image of the Sculptor Galaxy from NASA's Wide-field Infrared Survey Explorer, or WISE, shows the galaxy's active side. Infa...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-036E.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56436484096"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="328.3223381"
+    CenterY="47.256508"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Cocoon Nebula"
+    Projection="Tan"
+    Rotation="-106.27"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-037L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; The aptly named Cocoon nebula is featured in this image from NASAs Wide-field Infrared Survey Explorer, or WISE. This cloud of d...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-037.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="184.375256"
+    CenterY="-60.198492"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="IRAS12116-6001"
+    Projection="Tan"
+    Rotation="-140.679607"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-038L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; NASAs Wide-field Infrared Survey Explorer, or WISE, captured this colorful image of the reflection nebula IRAS 12116-6001. This ...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-038.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="6.14400005340611"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="227.285958"
+    CenterY="-62.940694"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Circinus Molecular Cloud"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-039L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; The Wide-Field Infrared Survey Explorer, or WISE, has uncovered a striking population of young stellar objects in a complex of d...</Credits>
+    <CreditsUrl>http://wise.ssl.berkeley.edu/gallery_images.html</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-039.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.39136833536"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="74.7255652"
+    CenterY="64.5814312"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="WISEPC J045853.90+643451.9"
+    Projection="Tan"
+    Rotation="172"
+    Sparse="True"
+    TileLevels="2"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-040L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; That green dot in the middle of this image might look like an emerald amidst glittering diamonds, but it is actually a dim star ...</Credits>
+    <CreditsUrl>http://wise.ssl.berkeley.edu/gallery_images.html</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-040.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="62.320792"
+    CenterY="30.775956"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1514"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-041L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This image shows a puffy, dying star, or planetary nebula, known as NGC 1514. The object is actually a pair of stars -- one star...</Credits>
+    <CreditsUrl>http://wise.ssl.berkeley.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-041.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="62.320792"
+    CenterY="30.775956"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1514"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-041bL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>Caltech/Palomar; This visible-light image is from the Digitized Sky Survey, based at the Space Telescope Science Institute in Baltimore, Md. The ...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-041b.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="78.805464"
+    CenterY="34.136889"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Flaming Star Nebula"
+    Projection="Tan"
+    Rotation="-184.518448"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-042L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; At a time of year when many people travel long distances to be with their families for the holidays, NASAs Wide-field Infrared S...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-042.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="94.480122"
+    CenterY="22.716667"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Jellyfish Nebula"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-044L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>Spitzer Space Telescope; This oddly colorful nebula is the supernova remnant IC 443 as seen by NASAs Wide-field Infrared Survey Explorer, or WISE. Also k...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-044.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.78221940736"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="190.9172104"
+    CenterY="11.5542836"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Messier 60"
+    Projection="Tan"
+    Rotation="-156.35"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-045DL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This galaxy does not have a spiral disk, just a bulge, making it a massive elliptical galaxy. M60 is about 20 percent larger tha...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-045D.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.391111105680486"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="202.482083"
+    CenterY="47.231389"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Whirlpool Nebula"
+    Projection="Tan"
+    Rotation="35.7"
+    Sparse="True"
+    TileLevels="2"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-045EL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Messier 51, or NGC 5194, is also frequently referred to as the Whirlpool galaxy. The Whirlpool is a "grand design" spiral galaxy...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-045E.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="175.049484"
+    CenterY="-63.606667"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Lambda Centauri Nebula"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-046L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This image from the Wide-field Infrared Survey Explorer, or WISE, is an infrared view of a star forming cloud in our Galaxy call...</Credits>
+    <CreditsUrl>http://www.spitzer.caltech.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-046.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.564573696"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="23.4431621"
+    CenterY="30.6695389"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Triangulum Galaxy"
+    Projection="Tan"
+    Rotation="0.53"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-047L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This image captured by NASA’s Wide-field Infrared Survey Explorer, or WISE, shows of one of our closest neighboring galaxies, Me...</Credits>
+    <CreditsUrl>http://www.spitzer.caltech.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-047.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="270.825652"
+    CenterY="-24.231111"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Lagoon Nebula"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-001L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This colorful picture is a mosaic of the Lagoon nebula taken by NASAs Wide-field Infrared Survey Explorer, or WISE. Normally, yo...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-001.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272154"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="148.93333"
+    CenterY="69.36667"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Messier 81"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-002L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This image from NASAs Wide-Field Infrared Survey Explorer, or WISE, features two stunning galaxies engaged in an intergalactic d...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-002.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="249.230531"
+    CenterY="-10.601111"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Zeta Ophiuchi"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-003L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; The blue star near the center of this image is Zeta Ophiuchi. When seen in visible light it appears as a relatively dim red star...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-003.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.779264"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="190.760225"
+    CenterY="11.7831805556"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Messier 59"
+    Projection="Tan"
+    Rotation="-156.30919348814"
+    Sparse="True"
+    TileLevels="2"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-005L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/WISE Team; This image from NASA's Wide-field Infrared Survey Explorer, or WISE, shows four galaxies in the Virgo cluster: Messier 59, Messi...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-005.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.782222211360973"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="27.567726"
+    CenterY="54.270602"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="WISE Final Frame"
+    Projection="Tan"
+    Rotation="-207.441541"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-006L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; On the morning of February 1st, 2011, NASAs Wide-field Infrared Survey Explorer, or WISE, took its last snapshot of the sky. Thi...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-006.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="51.840074"
+    CenterY="59.063333"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="CE Camelopardalis"
+    Projection="Tan"
+    Rotation="90"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-007L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; NASA's Wide-field Infrared Survey Explorer, or WISE, captured this colorful image of the nebula BFS 29 surrounding the star CE-C...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-007.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="6.25770496"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="312.5"
+    CenterY="31.01"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Veil Nebula"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-008L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This large mosaic image from NASAs Wide-field Infrared Survey Explorer, or WISE, features the wreckage of an exploded star, as w...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-008.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="101.344921"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="LBN 211.91-01.37"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-009L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; NASAs Wide-field Infrared Survey Explorer, or WISE, captured this image of a star-forming cloud of dust and gas located in the c...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-009.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="73.5606761"
+    CenterY="66.3686201"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Alpha Camelopardalis"
+    Projection="Tan"
+    Rotation="-90.7"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-010L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Just as some drivers obey the speed limit while others treat every road as if it were the autobahn, some stars move through spac...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-010.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.128885248"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="58.1874548"
+    CenterY="53.4825577"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="TGU H942 P8"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-011L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Many consider the shamrock to be a symbol of rebirth and life, making it a fitting symbol for St. Patricks Day, which happens to...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-011.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.78365069312"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="213.2921107"
+    CenterY="-65.3392836"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Circinus Galaxy"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-012L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Theres something special going on in the nearby Circinus galaxy, as revealed by this image from NASA's Wide-field Infrared Surve...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-012.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="6.257770496"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="246.320944017"
+    CenterY="-24.246930934"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Rho Ophiuchus cloud complex"
+    Projection="Tan"
+    Rotation="-0.129662388"
+    Sparse="True"
+    TileLevels="6"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-013L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; A rich collection of colorful astronomical objects is revealed in this picturesque image of the Rho Ophiuchi cloud complex from ...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-013.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.128885248"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="84.923497721"
+    CenterY="35.593310912"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="SH 2-235"
+    Projection="Tan"
+    Rotation="-359.967783525"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-014L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>Spitzer Science Center; In the Perseus spiral arm of the Milky Way Galaxy, opposite the galactic center, lies the nebula SH 2-235. As seen in visible li...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-014.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="-12.2291764110126"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="83.78449"
+    CenterY="83.78449"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Lambda Orionis"
+    Projection="Tan"
+    Rotation="-20"
+    Sparse="True"
+    TileLevels="6"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-015L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; In Greek mythology, Orion was a hunter whose vanity was so great that he angered the goddess Artemis. As his punishment, Artemis...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-015.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="209.7152"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="360"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Milky Way"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-016L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This image is a map of the portion of the sky covered by the preliminary release of WISE data. WISE surveyed the entire sky in f...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-016.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.128885248"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="92.4706731"
+    CenterY="20.7673331"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 2174"
+    Projection="Tan"
+    Rotation="-0.1566"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-017L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; NASAs Wide-field Infrared Survey Explorer, or WISE, is a little like the Vincent van Gogh of the infrared sky. Just like the fam...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-017.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56429205504"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="61.5527223"
+    CenterY="51.2563556"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1491"
+    Projection="Tan"
+    Rotation="0.15"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-018L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This latest image from NASAs Wide-field Infrared Survey Explorer, or WISE, shows three different nebulae located in the constell...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-018.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56507860992"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="99.8540483"
+    CenterY="10.8694721"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 2259"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-019L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Star clusters such as the Pleiades are often considered some of the most beautiful objects in the sky. Yet in this image taken b...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-019.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.391111105680384"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="202.482083"
+    CenterY="47.231389"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Whirlpool Galaxy"
+    Projection="Tan"
+    Rotation="35.7"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020aL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Known by astronomers as M51, this beauty is a grand design spiral, which are galaxies with well-defined spiral arms. Its smaller...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020a.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.391111105680384"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="24.174042"
+    CenterY="15.783472"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Messier 74"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020bL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Some astronomers call the grand design spiral Messier 74 the "perfect spiral," for its exceptional symmetry. It is suspected to ...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020b.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.782222211360768"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="148.888333"
+    CenterY="69.065278"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Messier 81"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020cL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; M81 is another grand design spiral galaxy, with pronounced arms spiraling into its core. WISE highlights areas where gas and dus...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020c.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.782222211360768"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="204.253958"
+    CenterY="-29.865417"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Southern Pinwheel Galaxy"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020dL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; At about 55,500 light-years across, M83 is s a bit more than half the size of our Milky Way Galaxy, but it has a similar overall...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020d.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.391111105680384"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="54.71688"
+    CenterY="-26.3375"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1398"
+    Projection="Tan"
+    Rotation="-144.3"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020eL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This barred spiral has a dense inner ring that surrounds a bright, central core. The ring is actually two spiral arms that are c...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020e.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.782222211360768"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="114.214167"
+    CenterY="65.6025"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 2403"
+    Projection="Tan"
+    Rotation="-166.5"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020fL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This fuzzy-looking galaxy is a flocculent, or patchy, spiral. It is largely veiled by gas and dust at visible-light wavelengths,...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020f.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.782222211360768"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="228.974167"
+    CenterY="56.328889"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 5907"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020gL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This galaxy's face is angled about 90 degrees from our view, so it appears edge-on and thin as a splinter, or knife. It was disc...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020g.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.782222211360768"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="56.702083"
+    CenterY="68.096111"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="IC 342"
+    Projection="Tan"
+    Rotation="-199.5"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020hL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Sometimes called the Hidden Galaxy, this spiral beauty is shrouded behind our own galaxy, the Milky Way. Stargazers and professi...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020h.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.782222211360768"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="296.23594"
+    CenterY="-14.78929"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 6822"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020iL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Barnard's Galaxy is known as a dwarf for its small size -- it has only about one percent of the mass of the Milky Way. The galax...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020i.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="6.257770496"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="304.949769841"
+    CenterY="38.45891535"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Cygnus"
+    Projection="Tan"
+    Rotation="-23.851232457"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-021L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; NASAs Wide-field Infrared Survey Explorer, or WISE, captured this image of a huge complex of star-forming clouds and stellar clu...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-021.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.128885248"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="324.336741746"
+    CenterY="57.320779371"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="IC 1396"
+    Projection="Tan"
+    Rotation="-317.189031419"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-022L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; In the same way that dust is blown around by the wind here on Earth, space dust can be blown around by the wind and radiation fr...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-022.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56478763008"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="135.1583901"
+    CenterY="-47.8528682"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="GUM 25"
+    Projection="Tan"
+    Rotation="34.35"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-023L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This image from NASAs Wide-field Infrared Survey Explorer, or WISE, highlights several star-forming regions. There are five dist...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-023.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="113.605417"
+    CenterY="-46.9025"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="CG4"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-024L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Many people enjoy the summer pastime of imagining pictures in clouds in the sky. The same can be done with clouds in the Univers...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-024.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.782660608"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="210.8028101"
+    CenterY="54.3485233"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Pinwheel Galaxy"
+    Projection="Tan"
+    Rotation="42.5"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-025L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; A large spiral galaxy dominates this view from NASA’s Wide-field Infrared Survey Explorer, or WISE. The galaxy, often called the...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-025.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.03937215146667"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="93.7006742407703"
+    CenterY="-44.7897943899041"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="2010 TK7"
+    Projection="Tan"
+    Rotation="4.0406916335953"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-026L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Asteroid 2010 TK7 is circled in green, in this single frame taken by NASA's Wide-field Infrared Survey Explorer, or WISE. The ma...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-026.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="272.000535"
+    CenterY="-19.687778"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Image File"
+    Projection="Tan"
+    Rotation="-90"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-027L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Typically if an astronomer wants to look into or through a thick dark cloud in space, they will choose to look in infrared light...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-027.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="220.753011325354"
+    CenterY="-62.4631333802834"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="RCW 86"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-028aL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/B. Williams (NCSU); This image combines data from four different space telescopes to create a multi-wavelength view of all that remains of the oldes...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-028a.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="220.753011325354"
+    CenterY="-62.4631333802834"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="RCW 86"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-028bL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/B. Williams (NC; This image combines data from four different space telescopes to create a multi-wavelength view of all that remains of the oldes...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-028b.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56454367232"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="13.589797956"
+    CenterY="56.795085913"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 281"
+    Projection="Tan"
+    Rotation="-89.76250079753"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-029L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA
+; In visible light, the star-forming cloud catalogued as NGC 281 in the constellation of Cassiopeia appears to be chomping through...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-029.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.12786395136"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="245.1827142"
+    CenterY="-20.1264044"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="IC 4601"
+    Projection="Tan"
+    Rotation="3.26"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-030L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Between the claws of the dreaded scorpion imagined by the ancient Greeks lies this giant dust cloud, imaged by the Wide-field In...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-030.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="6.257770496"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="244.002881552"
+    CenterY="-19.695995679"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="IC 4592"
+    Projection="Tan"
+    Rotation="7.63"
+    Sparse="True"
+    TileLevels="6"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-031L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; No, it’s not a gang of intergalactic mobsters from the famous Star Wars movies. Jabbah is the name of the bright star right of c...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-031.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.128885248"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="125.567539"
+    CenterY="-42.752932879"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Puppis A"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-032L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; About 3,700 years ago, people on Earth would have seen a brand-new bright star in the sky. As it slowly dimmed out of sight, it ...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-032.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.128885248"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="55"
+    CenterY="31.96667"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Barnard 3"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-033L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; In keeping with the spirit of the holidays, NASA’s Wide-field Infrared Survey Explorer (WISE) mission presents the “Wreath Nebul...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-033.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.128885248"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="55"
+    CenterY="31.96667"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Barnard 3"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-033bL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; In keeping with the spirit of the holidays, NASA’s Wide-field Infrared Survey Explorer (WISE) mission presents the “Wreath Nebul...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-033b.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.391111105680486"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="277.184155"
+    CenterY="27.26"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="WISE 1828+2650"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="2"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-ydwarf-b1L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; NASA's Wide-field Infrared Survey Explorer, or WISE, has uncovered the coldest brown dwarf known so far (green dot in very cente...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-ydwarf-b1.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.391111105680486"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="277.184155"
+    CenterY="27.26"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="WISE 1828+2650"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="2"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-ydwarf-b2L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; NASA's Wide-field Infrared Survey Explorer, or WISE, has uncovered the coldest brown dwarf known so far (green dot in very cente...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-ydwarf-b2.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="31.2888885248"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="355.86864553"
+    CenterY="61.82043152"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Milky Way"
+    Projection="Tan"
+    Rotation="-15"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2012-001L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This enormous section of the Milky Way Galaxy is a mosaic of images from NASA’s Wide-field Infrared Survey Explorer, or WISE. Th...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2012-001.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="6.25640521728"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="351.30190945"
+    CenterY="59.140912964"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Cassiopeia A"
+    Projection="Tan"
+    Rotation="-89.78104190124"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2012-002L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; Over 11,000 years ago, a massive, supergiant star in our Galaxy came to the end of its life. The star’s core collapsed to form a...</Credits>
+    <CreditsUrl>http://wise.ssl.berkeley.edu/gallery_CassiopeiaA.html</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2012-002.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56468056064"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="272.2221957"
+    CenterY="-33.2974232"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="WISE J18103305"
+    Projection="Tan"
+    Rotation="0.01"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2012-003L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; It's a dust bunny of cosmic proportions. Astronomers used images from NASA's Wide-field Infrared Survey Explorer, or WISE, to lo...</Credits>
+    <CreditsUrl>http://wise.ssl.berkeley.edu/gallery_dusty_star.html</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2012-003.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="4.551114752"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="85.42792"
+    CenterY="-1.91222"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Flame Nebula"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2012-004L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; The Flame Nebula sits on the eastern hip of Orion the Hunter, a constellation most easily visible in the northern hemisphere dur...</Credits>
+    <CreditsUrl>http://wise.ssl.berkeley.edu/gallery_FlameNebula2.html</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2012-004.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="4.551114752"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="83.82208"
+    CenterY="-5.39111"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Orion Nebula"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="5"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2013-001L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; The Great Nebula in Orion is featured in this sweeping image from NASA’s Wide-field Infrared Survey Explorer, or WISE. The const...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2013-001.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.77141884928"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="80.2591573"
+    CenterY="8.3168695"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="1998 KN3"
+    Projection="Tan"
+    Rotation="176.49"
+    Sparse="True"
+    TileLevels="3"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2013-002L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech; This image shows the potentially hazardous near-Earth object 1998 KN3 as it zips past a cloud of dense gas and dust near the Ori...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2013-002.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="6.25777769088778"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="76.23101"
+    CenterY="-7.26563"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Witch Head Nebula"
+    Projection="Tan"
+    Rotation="-180"
+    Sparse="True"
+    TileLevels="6"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2013-003L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; A witch appears to be screaming out into space in this new image from NASA's Wide-Field Infrared Survey Explorer, or WISE. The i...</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2013-003.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.56444442272195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="270.408624"
+    CenterY="-22.716667"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Trifid Nebula"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2014-001L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; A storm of stars is brewing in the Trifid nebula, as seen in this view from NASA's Wide-field Infrared Survey Explorer, or WISE....</Credits>
+    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2014-001.jpg</ThumbnailUrl>
+  </ImageSet>
 </Folder>

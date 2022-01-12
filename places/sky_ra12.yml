@@ -899,3 +899,47 @@ name: M87
 ra_hr: 12.51281458
 thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-97.jpg
 zoom_level: 0.970532641193864
+---
+_uuid: e48a3548-109b-48c3-a9ac-8727d061e9db
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -26.0704305833866
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-002L{1}X{2}Y{3}.png
+name: WISE NEO
+ra_hr: 12.7288059448933
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-002.jpg
+zoom_level: 3.13344
+---
+_uuid: db2c5eab-b09a-4712-9852-f5c513a8886e
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -60.198492
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-038L{1}X{2}Y{3}.png
+name: IRAS12116-6001
+ra_hr: 12.2916837333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-038.jpg
+zoom_level: 6.25777769088778
+---
+_uuid: 6ea8e0ad-861b-47ee-a397-ce5d03c3a19d
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 11.5542836
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-045DL{1}X{2}Y{3}.png
+name: Messier 60
+ra_hr: 12.7278140266667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-045D.jpg
+zoom_level: 3.12887762944
+---
+_uuid: c852c93c-96d7-4e42-8819-d6200e7215f5
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 11.7831805556
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-005L{1}X{2}Y{3}.png
+name: Messier 59
+ra_hr: 12.7173483333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-005.jpg
+zoom_level: 3.117056
