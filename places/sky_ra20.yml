@@ -1068,10 +1068,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 38.355062
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-103L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-103L{1}X{2}Y{3}.png
 name: Crescent Nebula
 ra_hr: 20.2019295333333
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-103.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-103.jpg
 zoom_level: 1.07182637056
 ---
 _uuid: e4cc087f-1df4-47a6-b9d2-1932248deded
@@ -1079,10 +1079,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 40.9579535
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-208L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-208L{1}X{2}Y{3}.png
 name: Cygnus X-3
 ra_hr: 20.5404688866667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-208.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-208.jpg
 zoom_level: 0.267268816896
 ---
 _uuid: 5cf0a740-7463-418a-a951-8892902f4919
@@ -1090,10 +1090,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: -70.7699278
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-441L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-441L{1}X{2}Y{3}.png
 name: NGC 6872
 ra_hr: 20.2819900133333
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-441.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-441.jpg
 zoom_level: 0.4339367936
 ---
 _uuid: c767bef5-a4d3-421e-ac15-e49423b9cd69
@@ -1101,10 +1101,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 41.3447028
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-525L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-525L{1}X{2}Y{3}.png
 name: Cygnus OB2
 ra_hr: 20.5538921733333
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-525.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-525.jpg
 zoom_level: 7.42803161088
 ---
 _uuid: ea92e6fa-ac51-4fa9-bece-be70008f8993
@@ -1112,10 +1112,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 40.957851
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-643L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-643L{1}X{2}Y{3}.png
 name: Image File
 ra_hr: 20.5404891666667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-643.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-643.jpg
 zoom_level: 0.1172313833472
 ---
 _uuid: ea037783-ce0d-46d4-9600-4104e5dffbbe
@@ -1123,10 +1123,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: -11.6665664489
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/ESO-eso1039aL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1039aL{1}X{2}Y{3}.png
 name: Monoceros R2
 ra_hr: 20.8531006284667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1039a.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1039a.jpg
 zoom_level: 0.351191456016401
 ---
 _uuid: c6221781-7500-45b1-aea1-935f8cb6c878
@@ -1134,10 +1134,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: -27.215968
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/ESO-eso1337cL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1337cL{1}X{2}Y{3}.png
 name: HIP 102152
 ra_hr: 20.6985206666667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1337c.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1337c.jpg
 zoom_level: 9.28372129792
 ---
 _uuid: 3526a1c3-8559-466c-9f4d-b321fff4cae2
@@ -1145,10 +1145,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: -30.9454045247
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/ESO-eso1538cL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1538cL{1}X{2}Y{3}.png
 name: Au Mic
 ra_hr: 20.7544453564667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1538c.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1538c.jpg
 zoom_level: 18.3702424622203
 ---
 _uuid: 14422a57-a097-4de2-bf7a-e2a7249a813a
@@ -1156,10 +1156,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: -43.6509960694
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/ESO-potw1908aL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1908aL{1}X{2}Y{3}.png
 name: NGC 6902
 ra_hr: 20.4079194955333
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1908a.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1908a.jpg
 zoom_level: 0.790156729839616
 ---
 _uuid: cd7abb55-f529-4fce-9ccf-d6cf7d7a9510
@@ -1167,10 +1167,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 44.6530195504
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-ann0906aL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-ann0906aL{1}X{2}Y{3}.png
 name: PN K 4-55
 ra_hr: 20.7529445202
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-ann0906a.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-ann0906a.jpg
 zoom_level: 0.113930356921958
 ---
 _uuid: 1e36a84f-f34a-40cc-8590-cf45e6120e7d
@@ -1178,10 +1178,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: -10.7233819304
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-ann1121aL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-ann1121aL{1}X{2}Y{3}.png
 name: Mrk 509
 ra_hr: 20.7360348513333
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-ann1121a.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-ann1121a.jpg
 zoom_level: 0.015740163363881
 ---
 _uuid: bc5b7213-ff41-450b-bcac-dc9dd86ff4d5
@@ -1189,10 +1189,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 44.5943959784
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0510aL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0510aL{1}X{2}Y{3}.png
 name: NGC 7000
 ra_hr: 20.9535604994667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0510a.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0510a.jpg
 zoom_level: 21.5022636787302
 ---
 _uuid: 218e1b4b-446e-4e92-b375-4d38dd85221e
@@ -1200,10 +1200,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 30.9880611818
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0712aL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0712aL{1}X{2}Y{3}.png
 name: Cygnus Loop
 ra_hr: 20.7611506264667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0712a.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0712a.jpg
 zoom_level: 0.113431941072077
 ---
 _uuid: 2b811e83-c25e-4a5f-9b20-046069b1d198
@@ -1211,10 +1211,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 31.1376199467
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0712bL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0712bL{1}X{2}Y{3}.png
 name: Cygnus Loop
 ra_hr: 20.9468732140667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0712b.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0712b.jpg
 zoom_level: 0.113334302683955
 ---
 _uuid: aecc974a-3b9a-4cfe-a7f9-8cfdac6f1ffb
@@ -1222,10 +1222,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 30.3652967353
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0712cL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0712cL{1}X{2}Y{3}.png
 name: Cygnus Loop
 ra_hr: 20.9383718574667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0712c.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0712c.jpg
 zoom_level: 0.113435475915571
 ---
 _uuid: 7947e9cd-2f74-458b-a7ad-ff650c9c7dc7
@@ -1233,10 +1233,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 30.4888983986
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0712gL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0712gL{1}X{2}Y{3}.png
 name: Cygnus Loop
 ra_hr: 20.8577985760667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0712g.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0712g.jpg
 zoom_level: 18.3314764559155
 ---
 _uuid: 45eed6d1-fba6-45b5-a187-f6c739dff718
@@ -1244,10 +1244,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 22.7054903358
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0720dL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0720dL{1}X{2}Y{3}.png
 name: HD 189733b
 ra_hr: 20.0120313147333
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0720d.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0720d.jpg
 zoom_level: 18.5454005942354
 ---
 _uuid: 739285fc-e7f4-4577-a099-061ec93019e1
@@ -1255,10 +1255,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 22.7054903358
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0807bL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0807bL{1}X{2}Y{3}.png
 name: HD 189733b
 ra_hr: 20.0120313147333
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0807b.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0807b.jpg
 zoom_level: 18.5454005942354
 ---
 _uuid: 11da9ae7-c150-4daa-94d9-4ddfc1de824e
@@ -1266,10 +1266,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 30.9649765181
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1520aL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1520aL{1}X{2}Y{3}.png
 name: Cygnus Loop
 ra_hr: 20.7618392416667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1520a.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1520a.jpg
 zoom_level: 0.363736428170445
 ---
 _uuid: f7b1dfda-fac7-4196-a280-2fea91c6dcef
@@ -1277,10 +1277,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 30.7295989441
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1520bL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1520bL{1}X{2}Y{3}.png
 name: Cygnus Loop
 ra_hr: 20.7800258865333
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1520b.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1520b.jpg
 zoom_level: 18.3519764278149
 ---
 _uuid: dca4aaf0-6a91-4d76-acf7-dc77c8594a49
@@ -1288,10 +1288,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: -30.9453102479
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1521bL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1521bL{1}X{2}Y{3}.png
 name: AU Microscopii
 ra_hr: 20.7544452552667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1521b.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1521b.jpg
 zoom_level: 18.3487467254579
 ---
 _uuid: fbb85d28-28d3-4f1c-91a3-f1ab03175507
@@ -1299,10 +1299,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: -47.3953558571
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1702fL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1702fL{1}X{2}Y{3}.png
 name: WFI2033-4723
 ra_hr: 20.5617180543333
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1702f.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1702f.jpg
 zoom_level: 0.00708795055939584
 ---
 _uuid: fd80efc2-4e91-4178-9e12-eb837a56f535
@@ -1310,10 +1310,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 44.6530195504
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-opo0921aL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-opo0921aL{1}X{2}Y{3}.png
 name: PN K 4-55
 ra_hr: 20.7529445202
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-opo0921a.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-opo0921a.jpg
 zoom_level: 0.113930356921958
 ---
 _uuid: 1d73db22-09fe-4014-b44b-a8c1ebca83e8
@@ -1321,10 +1321,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 16.7315519067
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-opo9738c7L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-opo9738c7L{1}X{2}Y{3}.png
 name: IC 4997
 ra_hr: 20.3357652040667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-opo9738c7.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-opo9738c7.jpg
 zoom_level: 0.0122924003039232
 ---
 _uuid: 4f609ced-b191-4251-8562-846c898e7e7c
@@ -1332,10 +1332,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: -12.5364670673
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1001aL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1001aL{1}X{2}Y{3}.png
 name: Messier 72
 ra_hr: 20.8910497058
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1001a.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1001a.jpg
 zoom_level: 0.454706383699968
 ---
 _uuid: 28d9dbde-720c-4013-9320-cb59cc253ca2
@@ -1343,10 +1343,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 7.40465808175
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1023aL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1023aL{1}X{2}Y{3}.png
 name: NGC 6934
 ra_hr: 20.5698359796667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1023a.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1023a.jpg
 zoom_level: 0.227462605724058
 ---
 _uuid: 3fb301ff-7328-497c-9043-7fdf86d7c917
@@ -1354,10 +1354,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 41.012026284
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1030aL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1030aL{1}X{2}Y{3}.png
 name: IRAS 20068+4051
 ra_hr: 20.1439635991333
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1030a.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1030a.jpg
 zoom_level: 0.0292208311130112
 ---
 _uuid: 0cd39ace-296a-46f2-9175-95615ac59411
@@ -1365,10 +1365,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 19.9904240955
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1102aL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1102aL{1}X{2}Y{3}.png
 name: NGC 6886
 ra_hr: 20.2118726989333
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1102a.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1102a.jpg
 zoom_level: 0.0518516122525696
 ---
 _uuid: 612514ba-7e3c-4a5c-a371-513617f9bdfb
@@ -1376,10 +1376,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: -48.3699224485
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1502aL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1502aL{1}X{2}Y{3}.png
 name: NGC 6861
 ra_hr: 20.1220228932667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1502a.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1502a.jpg
 zoom_level: 0.0568854199054336
 ---
 _uuid: b1d24a8c-3658-4346-9759-2d9ca1119c6c
@@ -1387,10 +1387,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: -21.9216241565
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1916aL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1916aL{1}X{2}Y{3}.png
 name: Messier 75
 ra_hr: 20.1013499764
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1916a.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1916a.jpg
 zoom_level: 0.0902743478173696
 ---
 _uuid: 84787060-15f8-4054-b126-5e643ef51d34
@@ -1398,10 +1398,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 60.1543392143213
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig08-008L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig08-008L{1}X{2}Y{3}.png
 name: Fireworks Galaxy
 ra_hr: 20.5811950392749
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig08-008.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig08-008.jpg
 zoom_level: 1.70484296838326
 ---
 _uuid: 251c56c1-2188-49a2-89fc-a02b7d7bf78e
@@ -1409,10 +1409,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 67.897171
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-006dL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-006dL{1}X{2}Y{3}.png
 name: L1152
 ra_hr: 20.5965199933333
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig10-006d.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig10-006d.jpg
 zoom_level: 0.92606660608
 ---
 _uuid: d87c90d1-c8d4-4ec5-bb51-245845c90bac
@@ -1420,10 +1420,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 17.1278513
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-023aL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-023aL{1}X{2}Y{3}.png
 name: II Zw 096
 ra_hr: 20.95674644
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig10-023a.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig10-023a.jpg
 zoom_level: 0.113706377216
 ---
 _uuid: 00dac527-1cee-4631-96a0-98449a7ca0f6
@@ -1431,10 +1431,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 17.1278513
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-023bL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-023bL{1}X{2}Y{3}.png
 name: II Zw 096
 ra_hr: 20.95674644
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig10-023b.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig10-023b.jpg
 zoom_level: 0.113706377216
 ---
 _uuid: a20f3c28-db0b-4b06-a643-c8c0852cc90a
@@ -1442,10 +1442,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 39.72905842867
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig12-012L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig12-012L{1}X{2}Y{3}.png
 name: Cygnus OB2
 ra_hr: 20.7451962698067
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig12-012.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig12-012.jpg
 zoom_level: 0.8945729536
 ---
 _uuid: 4ac19cf9-a192-4b04-8ead-c19785605e52
@@ -1453,10 +1453,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 42.0688521218
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-06a1L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-06a1L{1}X{2}Y{3}.png
 name: DR21
 ra_hr: 20.6394898506667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2004-06a1.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2004-06a1.jpg
 zoom_level: 2.29023282624848
 ---
 _uuid: d34e5fb0-de02-45d5-af4d-b63ab796aa62
@@ -1464,10 +1464,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 42.0688521218
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-06b1L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-06b1L{1}X{2}Y{3}.png
 name: DR21
 ra_hr: 20.6394898506667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2004-06b1.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2004-06b1.jpg
 zoom_level: 2.29023282624848
 ---
 _uuid: 0978b06d-121f-4d8e-97a5-4e6ef8f651e8
@@ -1475,10 +1475,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 39.4344485805873
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-18a1L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-18a1L{1}X{2}Y{3}.png
 name: DR 6
 ra_hr: 20.4534845292081
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2004-18a1.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2004-18a1.jpg
 zoom_level: 1.390125056
 ---
 _uuid: cb811d02-7405-4543-830f-b455c61cc8dc
@@ -1486,10 +1486,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 68.0377902554105
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2007-19a1L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2007-19a1L{1}X{2}Y{3}.png
 name: L1157
 ra_hr: 20.6517077671797
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2007-19a1.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2007-19a1.jpg
 zoom_level: 2.04541411827712
 ---
 _uuid: 6982e2c0-3ac4-49c6-9f23-4da363d2203b
@@ -1497,10 +1497,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 68.0377902554105
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2007-19a2L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2007-19a2L{1}X{2}Y{3}.png
 name: L1157
 ra_hr: 20.6517077671797
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2007-19a2.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2007-19a2.jpg
 zoom_level: 2.29094206843107
 ---
 _uuid: 1e2c2d9d-3de1-4123-ba3d-e705bee94743
@@ -1508,10 +1508,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 68.0377902554105
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2007-19aL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2007-19aL{1}X{2}Y{3}.png
 name: L1157
 ra_hr: 20.6517077671797
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2007-19a.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2007-19a.jpg
 zoom_level: 2.4627627235634
 ---
 _uuid: 502db43c-c9ce-43f6-9322-ac226a960618
@@ -1519,10 +1519,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 41.352043
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2009-15a1L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2009-15a1L{1}X{2}Y{3}.png
 name: Cygnus Region
 ra_hr: 20.661750393433
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2009-15a1.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2009-15a1.jpg
 zoom_level: 1.365336064
 ---
 _uuid: 8fa9558d-b405-4abf-98d4-d416fbc48dc1
@@ -1530,10 +1530,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 44.1308131199394
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2011-03a1L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2011-03a1L{1}X{2}Y{3}.png
 name: North America Nebula
 ra_hr: 20.9260448611763
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2011-03a1.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2011-03a1.jpg
 zoom_level: 11.108352
 ---
 _uuid: d4f1e277-333e-4216-aa75-7cbe7ead5ff6
@@ -1541,10 +1541,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 44.1308131199394
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2011-03a2L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2011-03a2L{1}X{2}Y{3}.png
 name: North America Nebula
 ra_hr: 20.9260448611763
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2011-03a2.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2011-03a2.jpg
 zoom_level: 11.108352
 ---
 _uuid: c9cb14bc-d757-4894-89ce-c9b86618b8a1
@@ -1552,10 +1552,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 40.5
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-02a1L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-02a1L{1}X{2}Y{3}.png
 name: Cygnus X
 ra_hr: 20.5333333333333
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2012-02a1.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2012-02a1.jpg
 zoom_level: 31.408914432
 ---
 _uuid: 5b0628f8-0a00-424e-8d58-47d62dccf084
@@ -1563,10 +1563,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 40.5
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-02aL{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-02aL{1}X{2}Y{3}.png
 name: Cygnus X
 ra_hr: 20.5333333333333
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2012-02a.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2012-02a.jpg
 zoom_level: 15.704457216
 ---
 _uuid: 4ac9a0bb-070e-4d1e-b4f3-a0e10cd43627
@@ -1574,10 +1574,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: -24.911567
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-020L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-020L{1}X{2}Y{3}.png
 name: Comet 65P/Gunn
 ra_hr: 20.5584834666667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-020.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-020.jpg
 zoom_level: 3.12888884544389
 ---
 _uuid: 6901cbe2-2576-4bed-a354-dc5a6f95cc4e
@@ -1585,10 +1585,10 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 31.01
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-008L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-008L{1}X{2}Y{3}.png
 name: Veil Nebula
 ra_hr: 20.8333333333333
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-008.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-008.jpg
 zoom_level: 25.03081984
 ---
 _uuid: c2adc07e-89e2-46b1-80a2-554ec24e3a21
@@ -1596,8 +1596,8 @@ classification: ''
 constellation: ''
 data_set_type: Sky
 dec_deg: 38.45891535
-foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-021L{1}X{2}Y{3}.png
+foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-021L{1}X{2}Y{3}.png
 name: Cygnus
 ra_hr: 20.3299846560667
-thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-021.jpg
+thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-021.jpg
 zoom_level: 25.031081984

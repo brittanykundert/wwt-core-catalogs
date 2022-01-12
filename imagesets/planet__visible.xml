@@ -383,12 +383,12 @@
     Rotation="0"
     Sparse="False"
     TileLevels="7"
-    Url="https://data1.wwtassets.org/moons/Dione_Enhanced_ColorL{1}X{2}Y{3}.png"
+    Url="http://data1.wwtassets.org/moons/Dione_Enhanced_ColorL{1}X{2}Y{3}.png"
     WidthFactor="2"
   >
     <Credits>Dione map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
     <CreditsUrl>http://ciclops.org/view/7960/Color-maps-of-Dione---November-2014</CreditsUrl>
-    <ThumbnailUrl>https://data1.wwtassets.org/moons/Dione_Enhanced_Color.jpg</ThumbnailUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/moons/Dione_Enhanced_Color.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -406,12 +406,12 @@
     Rotation="0"
     Sparse="False"
     TileLevels="7"
-    Url="https://data1.wwtassets.org/moons/Enceladus_Color_EnhancedL{1}X{2}Y{3}.png"
+    Url="http://data1.wwtassets.org/moons/Enceladus_Color_EnhancedL{1}X{2}Y{3}.png"
     WidthFactor="2"
   >
     <Credits>Enceladus map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
     <CreditsUrl>http://ciclops.org/view/7961/Color-Maps-of-Enceladus---November-2014</CreditsUrl>
-    <ThumbnailUrl>https://data1.wwtassets.org/moons/Enceladus_Enhanced_Color.jpg</ThumbnailUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/moons/Enceladus_Enhanced_Color.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -429,12 +429,12 @@
     Rotation="0"
     Sparse="False"
     TileLevels="7"
-    Url="https://data1.wwtassets.org/moons/Iapetus_Enhanced_ColorL{1}X{2}Y{3}.png"
+    Url="http://data1.wwtassets.org/moons/Iapetus_Enhanced_ColorL{1}X{2}Y{3}.png"
     WidthFactor="2"
   >
     <Credits>Iapetus map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
     <CreditsUrl>http://ciclops.org/view/7962/Color-Maps-of-Iapetus---November-2014</CreditsUrl>
-    <ThumbnailUrl>https://data1.wwtassets.org/moons/Iapetus_Enhanced_Color.jpg</ThumbnailUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/moons/Iapetus_Enhanced_Color.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -452,12 +452,12 @@
     Rotation="0"
     Sparse="False"
     TileLevels="7"
-    Url="https://data1.wwtassets.org/moons/Mimas_Enhanced_ColorL{1}X{2}Y{3}.png"
+    Url="http://data1.wwtassets.org/moons/Mimas_Enhanced_ColorL{1}X{2}Y{3}.png"
     WidthFactor="2"
   >
     <Credits>Mimas map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
     <CreditsUrl>http://ciclops.org/view/7963/Color-Maps-of-Mimas---November-2014</CreditsUrl>
-    <ThumbnailUrl>https://data1.wwtassets.org/moons/Mimas_Enhanced_Color.jpg</ThumbnailUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/moons/Mimas_Enhanced_Color.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -475,12 +475,12 @@
     Rotation="0"
     Sparse="False"
     TileLevels="7"
-    Url="https://data1.wwtassets.org/moons/Rhea_Enhanced_ColorL{1}X{2}Y{3}.png"
+    Url="http://data1.wwtassets.org/moons/Rhea_Enhanced_ColorL{1}X{2}Y{3}.png"
     WidthFactor="2"
   >
     <Credits>Rhea map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
     <CreditsUrl>http://ciclops.org/view/7964/Color-Maps-of-Rhea---November-2014</CreditsUrl>
-    <ThumbnailUrl>https://data1.wwtassets.org/moons/Rhea_Enhanced_Color.jpg</ThumbnailUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/moons/Rhea_Enhanced_Color.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -498,11 +498,11 @@
     Rotation="0"
     Sparse="False"
     TileLevels="7"
-    Url="https://data1.wwtassets.org/moons/Tethys_Enhanced_ColorL{1}X{2}Y{3}.png"
+    Url="http://data1.wwtassets.org/moons/Tethys_Enhanced_ColorL{1}X{2}Y{3}.png"
     WidthFactor="2"
   >
     <Credits>Tethys map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
     <CreditsUrl>http://ciclops.org/view/7965/Color-Maps-of-Tethys---November-2014</CreditsUrl>
-    <ThumbnailUrl>https://data1.wwtassets.org/moons/Tethys_Enhanced_Color.jpg</ThumbnailUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/moons/Tethys_Enhanced_Color.jpg</ThumbnailUrl>
   </ImageSet>
 </Folder>
