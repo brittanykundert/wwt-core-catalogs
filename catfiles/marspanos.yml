@@ -1,0 +1,88 @@
+browseable: true
+children:
+- browseable: true
+  children:
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002101{Q}?g=182
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002020{Q}?g=182
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002023{Q}?g=182
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002100{Q}?g=182
+  group: View
+  name: Pathfinder
+  searchable: false
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia01466
+  type: Earth
+- browseable: true
+  children:
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002021{Q}?g=182
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002022{Q}?g=182
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002102{Q}?g=182
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002103{Q}?g=182
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002110{Q}?g=182
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002213{Q}?g=182
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002211{Q}?g=182
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002212{Q}?g=182
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002122{Q}?g=182
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002123{Q}?g=182
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002130{Q}?g=182
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002113{Q}?g=182
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002120{Q}?g=182
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002001{Q}?g=182
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002002{Q}?g=182
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002003{Q}?g=182
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001222{Q}?g=182
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002202{Q}?g=182
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002132{Q}?g=182
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001332{Q}?g=182
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001333{Q}?g=182
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002223{Q}?g=182
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002230{Q}?g=182
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002231{Q}?g=182
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001313{Q}?g=182
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001320{Q}?g=182
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001321{Q}?g=182
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002012{Q}?g=182
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002013{Q}?g=182
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002131{Q}?g=182
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002133{Q}?g=182
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002112{Q}?g=182
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002111{Q}?g=182
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002010{Q}?g=182
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001312{Q}?g=182
+  group: View
+  name: Spirit
+  searchable: false
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=spiritmarvinpatch
+  type: Earth
+- browseable: true
+  children:
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001330{Q}?g=182
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001331{Q}?g=182
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001213{Q}?g=182
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002222{Q}?g=182
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002210{Q}?g=182
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001323{Q}?g=182
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001322{Q}?g=182
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002030{Q}?g=182
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002203{Q}?g=182
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002121{Q}?g=182
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001310{Q}?g=182
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001311{Q}?g=182
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002011{Q}?g=182
+  group: View
+  name: Opportunity
+  searchable: false
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=opportunitydaffypatch
+  type: Earth
+- browseable: true
+  children:
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002031{Q}?g=182
+  group: View
+  name: Phoenix
+  searchable: false
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=phoenixpatch
+  type: Earth
+group: Explorer
+name: Panoramas
+searchable: false
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pano
+type: Panorama
