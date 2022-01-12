@@ -676,6 +676,7 @@ def _trace_catfile(path: Path, idb: ImagesetDatabase):
 
 def do_trace(_settings):
     idb = ImagesetDatabase()
+    pdb = PlaceDatabase()
 
     for imgset in idb.by_url.values():
         imgset.rmeta.touched = False
@@ -686,7 +687,23 @@ def do_trace(_settings):
         if imgset.rmeta.touched:
             continue
 
-        print(f"{imgset.url}: {imgset.name}")
+        u = imgset.url
+        places = []
+
+        for place in pdb.by_uuid.values():
+            if u in (
+                place.get("image_set_url"),
+                place.get("foreground_image_set_url"),
+                place.get("background_image_set_url"),
+            ):
+                places.append(place["_uuid"])
+
+        if places:
+            places = " ".join(places)
+        else:
+            places = "(no places)"
+
+        print(f"{imgset.url}: {imgset.name} -- {places}")
 
 
 # generic driver
