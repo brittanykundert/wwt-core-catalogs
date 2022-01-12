@@ -31,6 +31,17 @@ name: ELAIS-N1
 ra_hr: 16.1102777777778
 zoom_level: 8.14
 ---
+_uuid: d67d29e0-f5b9-40b2-82f2-dc479ebb7061
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: -51.9903488159
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000121{Q}?g=131
+name: Ant Nebula;Mz 3;Menzel 3
+ra_hr: 16.2875508626
+zoom_level: 1.0
+---
 _uuid: f104f094-f19c-42f8-8b0f-c9efee38be72
 angular_size: -1.0
 classification: Nebula

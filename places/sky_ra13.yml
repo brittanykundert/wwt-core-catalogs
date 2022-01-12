@@ -20,6 +20,17 @@ name: Whirlpool Galaxy and companion;M51;NGC 5194;NGC 5195
 ra_hr: 13.4980555555556
 zoom_level: 2.85
 ---
+_uuid: 1cc70b6d-4f2e-4567-88ef-9ceb14f517f7
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: -43.0188942
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000102{Q}?g=131
+name: Centaurus A;Cen A
+ra_hr: 13.4243611666667
+zoom_level: 1.0
+---
 _uuid: c58c807f-d1f0-45bc-aa09-07dd75cff444
 angular_size: 1.0
 classification: ClusterOfGalaxies
@@ -30,6 +41,17 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: NGC 5291
 ra_hr: 13.7897222222222
 zoom_level: 2.39666666666667
+---
+_uuid: 571a379e-e342-43ca-9430-206a51b8d20f
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: -42.961265564
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000123{Q}?g=131
+name: Centaurus A Arcs
+ra_hr: 13.4178476969333
+zoom_level: 1.0
 ---
 _uuid: 84e2f863-5780-4560-991f-28cedbbb9335
 angular_size: 1.0
@@ -52,3 +74,25 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: A Classic Beauty;Messier 51;Whirlpool Galaxy;NGC 5194
 ra_hr: 13.4980555555556
 zoom_level: 2.85
+---
+_uuid: c61126e8-793a-4151-80a2-09f6ad17d103
+angular_size: 2.0
+classification: ClusterOfGalaxies
+constellation: VIR
+data_set_type: Sky
+dec_deg: -1.33833333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},2055390745
+name: 'Abell 1689:  A Galaxy Cluster Makes Its Mark'
+ra_hr: 13.1916666666667
+zoom_level: 2.0
+---
+_uuid: 6de1145c-f70d-4d48-9de0-eb4cadb934db
+angular_size: 1.0
+classification: BlackHole
+constellation: CEN
+data_set_type: Sky
+dec_deg: -43.0047222222222
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},613200509
+name: Centaurus A
+ra_hr: 13.425
+zoom_level: 5.625

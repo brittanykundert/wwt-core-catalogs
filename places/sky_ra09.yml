@@ -118,3 +118,36 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: M81;NGC 3031;Bode's Galaxy
 ra_hr: 9.92583333333333
 zoom_level: 3.93833333333333
+---
+_uuid: 7422b450-9079-4902-8678-fd0dc9564d5c
+angular_size: 1.0
+classification: Unfiltered
+constellation: AND
+data_set_type: Sky
+dec_deg: 33.16762233117
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},546176351
+name: 'SN 2008D: Supernova Caught in Act of Exploding'
+ra_hr: 9.15908921762333
+zoom_level: -1.0
+---
+_uuid: f424040b-9f18-44c6-8e3d-591936348e1f
+angular_size: 1.0
+classification: SpiralGalaxy
+constellation: UMA
+data_set_type: Sky
+dec_deg: 69.0580555555556
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},788116595
+name: M81 in XRay;Messier 81
+ra_hr: 9.92861111111111
+zoom_level: 4.73833333333333
+---
+_uuid: 5c2e2536-7cf2-47c3-967c-61e5b955805f
+angular_size: 1.0
+classification: SpiralGalaxy
+constellation: UMA
+data_set_type: Sky
+dec_deg: 69.0580555555556
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},996535480
+name: M81;Messier 81
+ra_hr: 9.92861111111111
+zoom_level: 4.73833333333333

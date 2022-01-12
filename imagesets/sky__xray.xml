@@ -7,6 +7,214 @@
 >
   <ImageSet
     BandPass="XRay"
+    BaseDegreesPerTile="0.0635217752720965"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="83.6330108643"
+    CenterY="22.0144386292"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Crab Nebula"
+    OffsetX="0.00130269265694729"
+    OffsetY="0.00165938231301619"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-3.91369594669139"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000000{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>NASA/CXC/ASU/J. Hester et al.</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2006/crab/more.html#0052_xray_widefield</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1015380289</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.261233786082099"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="171.14680010248"
+    CenterY="-59.266678641361"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="G292.0+1.8 Supernova Remnant"
+    OffsetX="0.0004464444586364"
+    OffsetY="0.0004464444586364"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000010{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>NASA/CXC/Rutgers/J.Hughes et al.</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2001/0112/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1454441613</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.272897339739314"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="155.988418579"
+    CenterY="-57.7658996582"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Westerlund 2 Star Cluster;Wd 2"
+    OffsetX="0.000699565934390332"
+    OffsetY="0.00602959210117382"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-0.0150635245119234"
+    Sparse="True"
+    TileLevels="5"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000020{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>NASA/CXC/Univ. de Liège/Y. Naze et al</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2008/wd2/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1777565022</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.347407004673638"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="285.4379272"
+    CenterY="-36.97373199"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Coronet Cluster"
+    OffsetX="-0.00769570975636179"
+    OffsetY="-4.24080816252e-05"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000030{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>X-ray: NASA/UIUC/Y. Chu &amp; R. Gruendl et al. Optical: SDSU/MLO/Y. Chu et al..</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2007/coronet/more.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=212910400</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.0180536908041681"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="269.639404297"
+    CenterY="66.6330566406"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 6543; Cat's Eye Nebula"
+    OffsetX="4.40763935648636e-05"
+    OffsetY="-3.96687542083773e-05"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0.0909416346457896"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000100{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>X-ray: NASA/UIUC/Y.Chu et al., Optical: NASA/HST</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/press/01_releases/press_010801.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=3173777107</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.0566592115398009"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="9.40680789948"
+    CenterY="-33.7183380127"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Cartwheel Galaxy"
+    OffsetX="-0.0069164076586671"
+    OffsetY="-0.0128921838757555"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-89.9503358018785"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000110{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>NASA/JPL/Caltech/P.Appleton et al. X-ray: NASA/CXC/A.Wolter &amp; G.Trinchieri et al.</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2006/cartwheel/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=3555282318</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.0708315875409871"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="274.718353271"
+    CenterY="-13.8412151337"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Eagle Nebula;M16"
+    OffsetX="-0.00155635812467989"
+    OffsetY="0.0124249256953611"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-42.6346704418859"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000120{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>X-ray: NASA/CXC/U.Colorado/Linsky et al.; Optical: NASA/ESA/STScI/ASU/J.Hester &amp; P.Scowen.</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2007/m16/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=3986985799</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.0489171879226544"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="150.498382568"
+    CenterY="55.6806907654"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 3079"
+    OffsetX="0.00148089143125223"
+    OffsetY="-0.00401273807178025"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="77.6582684964536"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000130{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>NASA/CXC/STScI/U.North Carolina/G.Cecil</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2003/ngc3079/more.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=543733190</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -52,6 +260,188 @@
     <Credits>NASA BAT Team. TOASTing of images done by NASA's SkyView Virtual Telescope (BATSig, Min=1, Max=10).</Credits>
     <CreditsUrl>http://skyview.gsfc.nasa.gov/cgi-bin/survey.pl#Swift%20BAT%20All-Sky%20Survey:%20Significance%2014-195%20keV</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=batsig</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.0708315875409871"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="274.718353271"
+    CenterY="-13.8412151337"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Eagle Nebula;M16"
+    OffsetX="-0.00155635812467989"
+    OffsetY="0.0124249256953611"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-42.6346704418859"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000001{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>NASA/CXC/U.Colorado/Linsky et al.</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/m16_xray.tif</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1059454164</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="2.50287529523352"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="125.939567566"
+    CenterY="-43.4273986816"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Puppis A Supernova Remnant;RX J0822-4300"
+    OffsetX="0.318969947292944"
+    OffsetY="0.428195767366917"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-0.341920525620325"
+    Sparse="True"
+    TileLevels="5"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000011{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>Chandra: NASA/CXC/Middlebury College/F.Winkler et al; ROSAT: NASA/GSFC/S.Snowden et al.; Optical: NOAO/AURA/NSF/Middlebury College/F.Winkler et al.</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2007/puppis/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1554288739</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.347407004673638"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="285.4379272"
+    CenterY="-36.97373199"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Coronet Cluster"
+    OffsetX="-0.00769570975636179"
+    OffsetY="-4.24080816252e-05"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000021{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>Chandra: NASA/CXC/CfA/J. Forbrich</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2007/coronet/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1826955091</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.050007609079808"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="161.265"
+    CenterY="-59.685"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Eta Carinae"
+    OffsetX="-0.000826102260931672"
+    OffsetY="0.000267318367767374"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000031{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>X-ray: NASA/CXC/GSFC/M.Corcoran et al.; Optical: NASA/STScI</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2007/etacar/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=2337205018</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.268141194816476"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="303.154907227"
+    CenterY="38.3860092163"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Crescent Nebula;NGC 6888"
+    OffsetX="0.00536806102904078"
+    OffsetY="0.0439264506156873"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-33.7976279233701"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000101{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>NASA/UIUC/Y. Chu &amp; R. Gruendl et al.</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2003/ngc6888/more.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=3188233611</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.192851586124307"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="73.5816965853486"
+    CenterY="2.89504939236373"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Abell 520"
+    OffsetX="0.0283342949199773"
+    OffsetY="0.0283342949199773"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000111{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>X-ray: NASA/CXC/UVic./A.Mahdavi et al. Optical/Lensing: CFHT/UVic./A.Mahdavi et al.</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2007/a520/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=3738144698</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.023020154912135"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="244.313262939"
+    CenterY="-51.9903488159"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Ant Nebula;Mz 3;Menzel 3"
+    OffsetX="0.00401279067560165"
+    OffsetY="-0.00466472865651172"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="89.770281099186"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000121{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>X-ray: NASA/CXC/RIT/J.Kastner et al, Optical/IR: NASA/STScI/Univ. Washington/B.Balick</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2006/pne/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=3993345266</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="XRay"
@@ -103,6 +493,188 @@
   </ImageSet>
   <ImageSet
     BandPass="XRay"
+    BaseDegreesPerTile="0.21148733796352"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="73.57916667"
+    CenterY="2.896944444"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Abell 520"
+    OffsetX="0.0283342949199773"
+    OffsetY="0.0283342949199773"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000002{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>NASA/CXC/UVic./A.Mahdavi et al.</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2007/a520/more.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1377370811</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.0141219499648139"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="235.296508789"
+    CenterY="66.2645263672"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="C153"
+    OffsetX="0.00216518178171463"
+    OffsetY="-0.00184798954617682"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="4.45124968773358"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000012{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>X-ray: NASA/CXC/SAO/UMass/D.Wang et al, Optical: NASA/STScI/U.Alabama/W.Keel, Radio: NRAO/ F.Owen, Optical (OII): Gemini Obs./M.Ledlow</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2004/c153/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1615982165</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.18369295877079"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="350.91843664599"
+    CenterY="58.840324072004"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Cassiopeia A; Cas A"
+    OffsetX="0.0241675757808766"
+    OffsetY="-0.0243501915966375"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000022{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>NASA/CXC/SAO</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2002/0237/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=2082909000</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.163040521138521"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="262.666046025295"
+    CenterY="-21.5115003740456"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Kepler's Supernova Remnant"
+    OffsetX="-0.00295472251271185"
+    OffsetY="0.0209619363196211"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000032{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>NASA/CXC/NCSU/S.Reynolds et al.</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2007/kepler/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=2576892233</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.382147705141248"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="201.3654175"
+    CenterY="-43.0188942"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Centaurus A;Cen A"
+    OffsetX="-4.664888978775e-05"
+    OffsetY="-4.664888978775e-05"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000102{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>X-ray: NASA/CXC/CfA/J.Forbrich et al.; Infrared: NASA/SSC/CfA/IRAC GTO Team</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2008/cena/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=3451288342</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.0141219499648139"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="235.296508789"
+    CenterY="66.2645263672"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="C153"
+    OffsetX="0.00216518178171463"
+    OffsetY="-0.00184798954617682"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="4.45124968773358"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000112{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>X-ray: NASA/CXC/SAO/UMass/D.Wang et al. </Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2004/c153/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=3892376171</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.408406805915445"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="187.697463989"
+    CenterY="12.3635101318"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M87"
+    OffsetX="-0.00877436497083964"
+    OffsetY="0.0124137322598811"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0.092783909291474"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000122{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>X-ray: NASA/CXC/CfA/W.Forman et al.; Optical: DSS</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2006/m87/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=4001469568</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -149,6 +721,188 @@
     <Credits>This is a composite of three RASS3 surveys from the ROSAT Data Archive of the Max-Planck-Institut fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope. Red is soft band (RASS3sb), Green is broad band (RASS3bb), Blue is hard band (RASS3hb)</Credits>
     <CreditsUrl>http://www.xray.mpe.mpg.de/cgi-bin/rosat/rosat-survey</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=rosatcolor</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.111739416628324"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="350.86630249"
+    CenterY="58.8116798401"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Cassiopeia A"
+    OffsetX="-0.000190960917089422"
+    OffsetY="0.00268021943748779"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-0.00448121336062883"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000003{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>X-ray: NASA/CXC/SAO; Optical: NASA/STScI; Infrared: NASA/JPL-Caltech</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2005/casa/index.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1399433673</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.085398083165406"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="281.604034424"
+    CenterY="-2.97508049011"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Kes 75"
+    OffsetX="-0.00412812999676523"
+    OffsetY="-0.00504549221826861"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-0.405302933931406"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000013{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>NASA/CXC/GSFC/F.P.Gavriil et al.</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2008/kes75/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1681534026</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.23884201984"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="189.986634666"
+    CenterY="-11.6441220093"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M104;Sombrero Galaxy;NGC 4594"
+    OffsetX="-0.01078882524288"
+    OffsetY="0.021041929467968"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000023{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>NASA/UMass/Q.D.Wang et al.; Optical: NASA/STScI/AURA/Hubble Heritage; Infrared: NASA/JPL-Caltech/Univ. AZ/R.Kennicutt/SINGS Team</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2007/sombrero/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=2106135610</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.268141194816476"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="303.154907227"
+    CenterY="38.3860092163"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Crescent Nebula;NGC 6888"
+    OffsetX="0.00536806102904078"
+    OffsetY="0.0439264506156873"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-33.7976279233701"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000033{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>NASA/UIUC/Y. Chu &amp; R. Gruendl et al.</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2003/ngc6888/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=2765721037</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.0535715707589831"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="81.4950561523"
+    CenterY="-66.0698165894"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="N49"
+    OffsetX="-0.00133405767026765"
+    OffsetY="-0.0134582876735824"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-5.4616219093871"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000103{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>X-ray: NASA/CXC/Caltech/S.Kulkarni et al.; Optical: NASA/STScI/UIUC/Y.H.Chu &amp; R.Williams et al.; IR: NASA/JPL-Caltech/R.Gehrz et al.</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2006/n49/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=3490092028</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.050007609079808"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="161.265"
+    CenterY="-59.685"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Eta Carinae"
+    OffsetX="-0.000826102260931672"
+    OffsetY="0.000267318367767374"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000113{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>NASA/CXC/GSFC/M.Corcoran et al.</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2007/etacar/more.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=3920979722</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="XRay"
+    BaseDegreesPerTile="0.511370878061292"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="201.267715454"
+    CenterY="-42.961265564"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Centaurus A Arcs"
+    OffsetX="-0.0726606081620292"
+    OffsetY="-0.0627977421056713"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0.0613987858096624"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000123{Q}?g=131"
+    WidthFactor="2"
+  >
+    <Credits>X-ray (NASA/CXC/M. Karovska et al.); Radio 21-cm image (NRAO/AUI/NSF/J.Van Gorkom/Schminovich et al.), Radio continuum image (NRAO/AUI/NSF/J. Condon et al.); Optical (Digitized Sky Survey U.K. Schmidt Image/STScI)</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2002/0157/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=4110398841</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="XRay"

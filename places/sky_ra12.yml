@@ -41,6 +41,17 @@ foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wtl11
 name: Big Picture
 ra_hr: 12.390277777777778
 ---
+_uuid: de5f0b63-310b-429b-bd46-0876bb4a5a2d
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: 12.3635101318
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000122{Q}?g=131
+name: M87
+ra_hr: 12.5131642659333
+zoom_level: 1.0
+---
 _uuid: e8931c64-15ae-4b11-9efa-c907a8a8eed9
 angular_size: 1.0
 classification: Galaxy
@@ -51,6 +62,17 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Sombrero Galaxy
 ra_hr: 12.6663888888889
 zoom_level: 2.0
+---
+_uuid: cc579b36-0f97-490e-9cca-f9c0e0800bd1
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: -11.6441220093
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000023{Q}?g=131
+name: M104;Sombrero Galaxy;NGC 4594
+ra_hr: 12.6657756444
+zoom_level: 1.0
 ---
 _uuid: f67af397-17e4-4aa3-a471-cf2a4b136340
 angular_size: 1.0
@@ -95,3 +117,25 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Anomalous Arms;Messier 106;NGC 4258
 ra_hr: 12.3158333333333
 zoom_level: 5.625
+---
+_uuid: b06f8d18-8033-4449-8d6d-bfccbcbb5cfb
+angular_size: 1.0
+classification: Galaxy
+constellation: VIR
+data_set_type: Sky
+dec_deg: 12.3797222222222
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},251702032
+name: A Nearby Galaxy Metropolis;M87;Messier 87
+ra_hr: 12.5141666666667
+zoom_level: 2.81166666666667
+---
+_uuid: e7be6645-cbde-4210-8381-fca4385a024a
+angular_size: 1.0
+classification: Galaxy
+constellation: VIR
+data_set_type: Sky
+dec_deg: 12.3797222222222
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},788114285
+name: M87;Messier 87
+ra_hr: 12.5141666666667
+zoom_level: 2.81166666666667

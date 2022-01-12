@@ -31,6 +31,17 @@ name: Dusty Celestial Ornaments  Dusty Celestial Ornaments;Cassiopeia A
 ra_hr: 23.3905555555556
 zoom_level: 2.82833333333333
 ---
+_uuid: 384ab907-ea92-4f38-a095-a3c7dfcbcc28
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: 58.840324072004
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000022{Q}?g=131
+name: Cassiopeia A;Cas A
+ra_hr: 23.394562443066
+zoom_level: 1.0
+---
 _uuid: 6b73d93c-5b6a-4c33-a851-808f4cb370d2
 angular_size: 1.0
 classification: Galaxy
@@ -63,6 +74,17 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Dusty Celestial Ornaments  Dusty Celestial Ornaments;Cassiopeia A
 ra_hr: 23.3905555555556
 zoom_level: 2.82833333333333
+---
+_uuid: 78850e71-1bfa-427f-be36-56d53d29b7f9
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: 58.8116798401
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000003{Q}?g=131
+name: Cassiopeia A
+ra_hr: 23.3910868326667
+zoom_level: 1.0
 ---
 _uuid: 3929b087-625f-4a9b-8f94-31a20d41fcf9
 angular_size: 1.0

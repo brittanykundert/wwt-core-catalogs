@@ -20,6 +20,17 @@ name: Baby Picture of our Solar System;L 1157
 ra_hr: 20.6516666666667
 zoom_level: 2.82833333333333
 ---
+_uuid: 15fcec9d-10f5-41c1-82a5-97ea6e49ebcf
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: 38.3860092163
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000101{Q}?g=131
+name: Crescent Nebula;NGC 6888
+ra_hr: 20.2103271484667
+zoom_level: 1.0
+---
 _uuid: 64851819-eef2-4f2e-b7e0-4db70a589788
 angular_size: 1.0
 classification: ClusterOfGalaxies
@@ -30,6 +41,17 @@ foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: DR21 (Composite IR)
 ra_hr: 20.6405555555556
 zoom_level: 9.51333333333333
+---
+_uuid: 589fbe16-9826-4945-8fa5-880d50d9738c
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: 38.3860092163
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000033{Q}?g=131
+name: Crescent Nebula;NGC 6888
+ra_hr: 20.2103271484667
+zoom_level: 1.0
 ---
 _uuid: d81dba67-26be-4b44-9f3d-a75957ad1f9e
 angular_size: 1.0

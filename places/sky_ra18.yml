@@ -1,3 +1,14 @@
+_uuid: d5498cfc-b36b-4cf7-8a59-a72c18c257cc
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: -13.8412151337
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000120{Q}?g=131
+name: Eagle Nebula;M16
+ra_hr: 18.3145568847333
+zoom_level: 1.0
+---
 _uuid: 035da989-94a2-449a-8ac6-8de760428d7c
 angular_size: 1.0
 classification: GiantMolecularCloud
@@ -8,6 +19,17 @@ foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Stellar 'Incubators' Seen Cooking up Stars;Messier 20;M20;Trifid Nebula
 ra_hr: 18.0408333333333
 zoom_level: 7.57833333333333
+---
+_uuid: 13972c95-4daf-4052-9447-a50995b235cc
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: -13.8412151337
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000001{Q}?g=131
+name: Eagle Nebula;M16
+ra_hr: 18.3145568847333
+zoom_level: 1.0
 ---
 _uuid: 29c92308-4142-4788-a47b-eba6600f60fc
 angular_size: 1.0
@@ -31,6 +53,17 @@ name: Messier 20;M20;Trifid Nebula
 ra_hr: 18.0408333333333
 zoom_level: 7.57833333333333
 ---
+_uuid: 11018fb6-cfde-417f-9c2c-0d6cea477457
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: -2.97508049011
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000013{Q}?g=131
+name: Kes 75
+ra_hr: 18.7736022949333
+zoom_level: 1.0
+---
 _uuid: 57be411e-a299-4811-969e-37aaef2a0f1e
 angular_size: 1.0
 classification: Nebula
@@ -52,3 +85,36 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Stellar 'Incubators' Seen Cooking up Stars;Messier 20;M20;Trifid Nebula;;;
 ra_hr: 18.0408333333333
 zoom_level: 7.57833333333333
+---
+_uuid: 797dae26-fa7f-4f67-affb-e13596504be2
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: SGR
+data_set_type: Sky
+dec_deg: -23.4883333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1129358135
+name: 'W28: A Mixed Bag;G6.4-0.1'
+ra_hr: 18.0086111111111
+zoom_level: 11.1866666666667
+---
+_uuid: 58aa8957-8cad-47dd-a0cc-256e9d97c830
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: SGR
+data_set_type: Sky
+dec_deg: -23.4883333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1912661927
+name: 'W28: A Mixed Bag;G6.4-0.1'
+ra_hr: 18.0086111111111
+zoom_level: 11.1866666666667
+---
+_uuid: 0465219f-0284-41bf-8f72-7227a7a0b1d3
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: SGR
+data_set_type: Sky
+dec_deg: -23.4883333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},202800000
+name: 'W28: A Mixed Bag;G6.4-0.1'
+ra_hr: 18.0086111111111
+zoom_level: 11.1866666666667

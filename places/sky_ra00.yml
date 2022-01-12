@@ -1,3 +1,14 @@
+_uuid: 4af053ed-2f9d-496d-a288-483e57d8d6d6
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: -33.7183380127
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000110{Q}?g=131
+name: Cartwheel Galaxy
+ra_hr: 0.627120526632
+zoom_level: 1.0
+---
 _uuid: 7ee0f582-8914-4342-86f7-7ddc2dc555bc
 angular_size: 1.0
 classification: Galaxy
@@ -30,3 +41,14 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Stellar Work of Art;NGC 346
 ra_hr: 0.986666666666667
 zoom_level: 2.79
+---
+_uuid: a8b9b589-3acc-40fc-91b5-0040eb1e048b
+angular_size: 1.0
+classification: ClusterOfGalaxies
+constellation: CET
+data_set_type: Sky
+dec_deg: -12.3813888888889
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1872640162
+name: MACS J0025.4-1222 :A Clash of Clusters Provides Another Clue to Dark Matter
+ra_hr: 0.425277777777778
+zoom_level: 1.40666666666667

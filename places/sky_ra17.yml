@@ -7,6 +7,28 @@ foreground_image_set_url: http://cdn.worldwidetelescope.org/wwtweb/g360.aspx?q={
 name: GLIMPSE 360
 ra_hr: 17.75
 ---
+_uuid: b8aa745a-f65b-4948-b3c1-4965d00a6012
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: 66.6330566406
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000100{Q}?g=131
+name: NGC 6543;Cat's Eye Nebula
+ra_hr: 17.9759602864667
+zoom_level: 1.0
+---
+_uuid: 12725b30-ea96-4cad-b58c-2bacbfa21506
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: OPH
+data_set_type: Sky
+dec_deg: -21.4908333333333
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000032{Q}?g=131
+name: Kepler's Supernova Remnant
+ra_hr: 17.5113888888889
+zoom_level: 1.40666666666667
+---
 _uuid: c5ced5c5-b09a-41d9-a96e-27ff1ce6f191
 angular_size: 360.0
 classification: Galactic
@@ -26,3 +48,113 @@ dec_deg: -28.9
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/mipsgal.aspx?q={1},{2},{3}
 name: GLIMPSE/MIPSGAL
 ra_hr: 17.75
+---
+_uuid: 9ff8df44-f1a4-4bf3-a073-cd27d6dd2c5b
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: OPH
+data_set_type: Sky
+dec_deg: -21.4908333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1432823315
+name: Kepler's Supernova Remnant (Optical)
+ra_hr: 17.5113888888889
+zoom_level: 1.40666666666667
+---
+_uuid: c6457cee-8e2f-431f-b1d6-9508c1ff0fd3
+angular_size: 1.0
+classification: Galactic
+constellation: SGR
+data_set_type: Sky
+dec_deg: -28.0297222222222
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1730537678
+name: Infrared Panoramic image of the Galactic center
+ra_hr: 17.7772222222222
+zoom_level: 45.4066666666667
+---
+_uuid: 40515e1f-7ac3-4db4-ab5c-98729f15bbd4
+angular_size: 1.0
+classification: PlanetaryNebula
+constellation: DRA
+data_set_type: Sky
+dec_deg: 66.6319444444444
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},189400275
+name: 'NGC 6543 in XRay: The Cat''s Eye Nebula Redux;Cat''s Eye Nebula'
+ra_hr: 17.9761111111111
+zoom_level: 0.703333333333333
+---
+_uuid: 9afdf5af-e2eb-488b-8700-702f74554bbc
+angular_size: 1.0
+classification: Unfiltered
+constellation: AND
+data_set_type: Sky
+dec_deg: -27.1666666666667
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},269828725
+name: 'G1.9+0.3: Discovery of Most Recent Supernova in Our Galaxy;SNR G001.9+00.3'
+ra_hr: 17.8125
+zoom_level: 2.81166666666667
+---
+_uuid: 5590e8b7-4496-4c46-b8ef-a4014cdc3b56
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: OPH
+data_set_type: Sky
+dec_deg: -21.4908333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},341839497
+name: Kepler's Supernova Remnant (Infrared)
+ra_hr: 17.5113888888889
+zoom_level: 1.40666666666667
+---
+_uuid: b13af3f2-3f7a-4928-8921-23a23a7aef9b
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: OPH
+data_set_type: Sky
+dec_deg: -21.4908333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},378724299
+name: Kepler's Supernova Remnant
+ra_hr: 17.5113888888889
+zoom_level: 1.40666666666667
+---
+_uuid: b02eb194-646f-45b0-a326-1b8a2f162341
+angular_size: 1.0
+classification: Unfiltered
+constellation: AND
+data_set_type: Sky
+dec_deg: -27.1666666666667
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},658770390
+name: 'G1.9+0.3: Discovery of Most Recent Supernova in Our Galaxy;SNR G001.9+00.3'
+ra_hr: 17.8125
+zoom_level: 2.81166666666667
+---
+_uuid: b65dca06-a364-4a52-a80f-68caa4c5f76a
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: OPH
+data_set_type: Sky
+dec_deg: -21.4908333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},671276756
+name: Kepler's Supernova Remnant (Lower Energy XRay)
+ra_hr: 17.5113888888889
+zoom_level: 1.40666666666667
+---
+_uuid: 5653bec5-5707-4be1-a48c-47b00ae3489b
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: OPH
+data_set_type: Sky
+dec_deg: -21.4908333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},671276760
+name: Kepler's Supernova Remnant (Higher Energy XRay)
+ra_hr: 17.5113888888889
+zoom_level: 1.40666666666667
+---
+_uuid: 3663a1d0-a614-4ac3-b323-f9e00e79a88d
+angular_size: 1.0
+classification: PlanetaryNebula
+constellation: DRA
+data_set_type: Sky
+dec_deg: 66.6319444444444
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},962869576
+name: 'NGC 6543: The Cat''s Eye Nebula Redux;Cat''s Eye Nebula'
+ra_hr: 17.9761111111111
+zoom_level: 0.703333333333333

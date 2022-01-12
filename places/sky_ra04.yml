@@ -1,3 +1,14 @@
+_uuid: ab980721-dd73-4860-bb4a-53d0c7d71d11
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: 2.89504939236373
+foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000111{Q}?g=131
+name: Abell 520
+ra_hr: 4.90544643902324
+zoom_level: 1.0
+---
 _uuid: 77abcb11-88f6-4fa6-b067-56679e4dc74b
 angular_size: 1.0
 classification: Galaxy
@@ -8,3 +19,25 @@ foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: NGC 1566
 ra_hr: 4.33333333333333
 zoom_level: 4.75666666666667
+---
+_uuid: 49f1d6a5-22b6-438c-8ad4-af3fb84cb056
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: 2.896944444
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000002{Q}?g=131
+name: Abell 520
+ra_hr: 4.905277778
+zoom_level: 1.0
+---
+_uuid: ca5e4f29-2984-40db-9bc1-a460af9dced4
+angular_size: 1.0
+classification: Star
+constellation: TAU
+data_set_type: Sky
+dec_deg: 26.1058333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1614797484
+name: DG Tau
+ra_hr: 4.45111111111111
+zoom_level: 0.385

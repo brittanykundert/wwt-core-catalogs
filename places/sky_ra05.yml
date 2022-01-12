@@ -1,3 +1,14 @@
+_uuid: 54b995f9-eb0c-4e51-a8a2-f91cb071a3cd
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: 22.0144386292
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000000{Q}?g=131
+name: Crab Nebula
+ra_hr: 5.57553405762
+zoom_level: 1.0
+---
 _uuid: a0100583-17b0-406f-a38d-7ab194469aa6
 angular_size: 1.0
 classification: GiantMolecularCloud
@@ -86,6 +97,17 @@ name: Baby Stars in the Witch Head Nebula;Witch Head nebula
 ra_hr: 5.09638888888889
 zoom_level: 16.0
 ---
+_uuid: 01edb4d6-cfe2-4e37-b2da-fb0226f2b35e
+angular_size: 1.14166666666667
+classification: SupernovaRemnant
+constellation: DOR
+data_set_type: Sky
+dec_deg: -66.0358333333333
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002022{Q}?g=138
+name: Chandra 3-Color X-ray Image of N 63A
+ra_hr: 5.59555555555556
+zoom_level: 0.906666666666667
+---
 _uuid: 71beabaf-b599-4ad3-8143-82b138888f3c
 angular_size: 1.0
 classification: SupernovaRemnant
@@ -130,6 +152,17 @@ name: Star Formation in Henize 206;Henize 206
 ra_hr: 5.50194444444444
 zoom_level: 7.64666666666667
 ---
+_uuid: 775f5c9a-4608-4bd6-81e2-ae93bce16df2
+angular_size: 1.0
+classification: Galaxy
+constellation: PSC
+data_set_type: Sky
+dec_deg: -66.0698165894
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000103{Q}?g=131
+name: N49
+ra_hr: 5.43300374348667
+zoom_level: 1.0
+---
 _uuid: 67fdb4c5-9d0a-48da-8aa4-02617d07d2ae
 angular_size: 1.0
 classification: SupernovaRemnant
@@ -141,6 +174,17 @@ name: Supernova Remnant N 63A
 ra_hr: 5.59222222222222
 zoom_level: 1.99666666666667
 ---
+_uuid: 3791728a-effc-40a1-86c9-300a1bc3aeaf
+angular_size: 1.14166666666667
+classification: SupernovaRemnant
+constellation: DOR
+data_set_type: Sky
+dec_deg: -66.0358333333333
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002233{Q}?g=138
+name: Supernova Remnant LMC N 63A in X-Ray, Optical and Radio Radiation
+ra_hr: 5.59555555555556
+zoom_level: 0.906666666666667
+---
 _uuid: be503c8c-35da-4460-908e-76ae20f88a52
 angular_size: 1.0
 classification: GiantMolecularCloud
@@ -151,3 +195,25 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Star Formation in Henize 206;Henize 206
 ra_hr: 5.50194444444444
 zoom_level: 7.64666666666667
+---
+_uuid: 1988eb77-3f64-4ab8-852d-95c00ed40863
+angular_size: 1.0
+classification: Galaxy
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.6419444444444
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1433013114
+name: 'N132D: An Oxygen Factory in a Nearby Galaxy'
+ra_hr: 5.41722222222222
+zoom_level: 0.568333333333333
+---
+_uuid: 80cd93d1-86d6-4d05-be3b-49cfcebd302f
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: DOR
+data_set_type: Sky
+dec_deg: -67.5236111111111
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},182605652
+name: 'SNR 0509-67.5: Action Replay Of Powerful Stellar Explosion'
+ra_hr: 5.15833333333333
+zoom_level: 0.703333333333333

@@ -63,3 +63,14 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Towering Infernos;W5
 ra_hr: 3.04333333333333
 zoom_level: 8.66166666666667
+---
+_uuid: a409ea5d-56b3-4d29-8072-441f79420fdd
+angular_size: 1.0
+classification: Galaxy
+constellation: PER
+data_set_type: Sky
+dec_deg: 41.5105555555556
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},90554641
+name: 'Perseus A: A Monster Galaxy at the Heart of Perseus Cluster;NGC 1275'
+ra_hr: 3.33
+zoom_level: 1.40666666666667
