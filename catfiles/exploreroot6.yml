@@ -1,0 +1,134 @@
+browseable: true
+children:
+- browseable: true
+  children: []
+  group: Explorer
+  name: Constellations
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=constellations
+  type: ''
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=constellations
+- browseable: true
+  children: []
+  group: Explorer
+  name: Solar System (Sky)
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=solarsystem
+  type: ''
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=solarsystemsky
+- browseable: true
+  children: []
+  group: Explorer
+  name: All-Sky Surveys
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=aitoff
+  type: ''
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=surveys
+- browseable: true
+  children: []
+  group: Explorer
+  name: HIPS Surverys
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=aitoff
+  type: ''
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=hips
+- browseable: true
+  children: []
+  group: Explorer
+  name: Spitzer Studies
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=spitzer
+  type: Sky
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=studiesspitzer
+- browseable: true
+  children: []
+  group: Explorer
+  name: Chandra Studies
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=chandra
+  type: Sky
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=studieschandra
+- browseable: true
+  children: []
+  group: Explorer
+  name: Hubble Studies
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=hubble
+  type: Sky
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=studieshubble
+- browseable: true
+  children: []
+  group: Explorer
+  name: Astrophotography
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=egastrophoto
+  type: Sky
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=astrophoto
+- browseable: true
+  children: []
+  group: Explorer
+  name: Radio Studies
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=radiostudies
+  type: Sky
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=studiesradio
+- browseable: true
+  children: []
+  group: Explorer
+  name: NOAO Studies
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=noao
+  type: Sky
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=studiesnoao
+- browseable: true
+  children: []
+  group: Explorer
+  name: Gemini Studies
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=geminiobservatory
+  type: Sky
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=geministudies
+- browseable: true
+  children: []
+  group: Explorer
+  name: Messier Catalog
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=messier
+  type: ''
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=messier
+- browseable: true
+  children: []
+  group: Explorer
+  name: Planets/Moons
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=solarsystem
+  type: ''
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=solarsystemsphere
+- browseable: true
+  children: []
+  group: Explorer
+  name: Earth
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=earthhybrid
+  type: Planet
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=earth
+- browseable: true
+  children: []
+  group: Explorer
+  name: Mars
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mars
+  type: Planet
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=marsroot&v=2
+- browseable: true
+  children: []
+  group: Explorer
+  name: Panoramas
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pano
+  type: ''
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=panos
+group: Explorer
+name: Collections
+searchable: true
+type: ''
