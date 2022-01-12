@@ -5,17 +5,6 @@ children:
 - imageset http://cdn.worldwidetelescope.org/wwtweb/Marshirise.aspx?q={1},{2},{3}
 - imageset http://cdn.worldwidetelescope.org/wwtweb/MarsMoc.aspx?q={1},{2},{3}&v=2
 - browseable: true
-  children:
-  - imageset http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_historic_green
-  - imageset http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_historic_schiaparelli
-  - imageset http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_historic_lowell
-  - imageset http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_historic_antoniadi
-  - imageset http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_historic_mec1
-  group: View
-  name: Historical Maps
-  searchable: true
-  type: Planet
-- browseable: true
   children: []
   group: Explorer
   name: Panoramas
