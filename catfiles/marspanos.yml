@@ -2,15 +2,36 @@ browseable: true
 children:
 - browseable: true
   children:
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002101{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002020{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002023{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002100{Q}?g=182
+  - imageset http://data1.wwtassets.org/packages/2021/02_mastcam_z_first_360_panorama/{1}/{3}/{3}_{2}.png
+  - imageset http://data1.wwtassets.org/packages/2021/02_perseverance_first_360_panorama/{1}/{3}/{3}_{2}.png
+  - imageset http://data1.wwtassets.org/packages/2021/03_zcam_1st_hd_ultrawide/{1}/{3}/{3}_{2}.png
+  - imageset http://data1.wwtassets.org/packages/2021/06_pia24663/PIA24663/{1}/{3}/{3}_{2}.png
   group: View
-  name: Pathfinder
+  name: Perseverance
   searchable: false
-  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia01466
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mars
   type: Earth
+
+- browseable: true
+  children:
+  - imageset http://data1.wwtassets.org/packages/2021/02_curiosity_pano/GalePanoCuriosity/{1}/{3}/{3}_{2}.png
+  - imageset http://data1.wwtassets.org/packages/2021/05_mont_mercou/PIA24269/{1}/{3}/{3}_{2}.png
+  - imageset http://data1.wwtassets.org/packages/2021/05_mont_mercou/PIA24626/{1}/{3}/{3}_{2}.png
+  group: View
+  name: Curiosity
+  searchable: false
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mars
+  type: Earth
+
+- browseable: true
+  children:
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002031{Q}?g=182
+  group: View
+  name: Phoenix
+  searchable: false
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=phoenixpatch
+  type: Earth
+
 - browseable: true
   children:
   - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002021{Q}?g=182
@@ -53,6 +74,7 @@ children:
   searchable: false
   thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=spiritmarvinpatch
   type: Earth
+
 - browseable: true
   children:
   - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001330{Q}?g=182
@@ -73,14 +95,19 @@ children:
   searchable: false
   thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=opportunitydaffypatch
   type: Earth
+
 - browseable: true
   children:
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002031{Q}?g=182
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002101{Q}?g=182
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002020{Q}?g=182
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002023{Q}?g=182
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002100{Q}?g=182
   group: View
-  name: Phoenix
+  name: Pathfinder
   searchable: false
-  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=phoenixpatch
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia01466
   type: Earth
+
 group: Explorer
 name: Panoramas
 searchable: false
