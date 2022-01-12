@@ -1,27 +1,46 @@
 browseable: true
 children:
 - imageset http://cdn.worldwidetelescope.org/wwtweb/moontoast.aspx?Q={L},{X},{Y}
+- imageset http://data1.wwtassets.org/packages/2021/10_kaguya/{L}/{Y}/{Y}_{X}.jpg # SELENE Kaguya TC Ortho Global mosaic
+- imageset http://data1.wwtassets.org/packages/2021/10_iotm/lola_clrshade_128ppd_v4/{1}/{3}/{3}_{2}.png # Moon LRO LOLA
+- imageset http://data1.wwtassets.org/packages/2021/10_iotm/lroc_color_poles/{1}/{3}/{3}_{2}.png # CGI Moon Kit
+- imageset http://data1.wwtassets.org/packages/2021/10_iotm/unilunargeo/{1}/{3}/{3}_{2}.png # Unified Geologic moon map
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles2.aspx?q={1},{2},{3},messenger2 # Mercury
 - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001121{Q}?g=138 # Venus
 - imageset http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_base_map # Mars "Visible Imagery"
+- imageset http://data1.wwtassets.org/packages/2022/01_jupiter/Jupiter_Juno_Cassini/{1}/{3}/{3}_{2}.png # Jupiter Cassini/Juno Merged
 - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000121{Q}?g=131 # Jupiter
+- imageset http://data1.wwtassets.org/planets/Pluto_NH_Enhanced_ColorL{1}X{2}Y{3}.png  # Pluto New Horizons enhanced color
+- imageset http://wwtfiles.blob.core.windows.net/planets/Pluto_NewHorizons_ColorizedTerrainL{1}X{2}Y{3}.png
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},phobos_mar1kuu2
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},deimos_mar2kuu2
 - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001111{Q}?g=138 # Io
 - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001113{Q}?g=138 # Europa
 - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001120{Q}?g=138 # Ganymede
 - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001112{Q}?g=138 # # Callisto
+- imageset http://data1.wwtassets.org/packages/2020/08_titan/{1}/{3}/{3}_{2}.png # Titan Cassini ISS mosaic
+- imageset http://data1.wwtassets.org/packages/2020/08_titan_topo/{1}/{3}/{3}_{2}.png # Titan Cassini ISS Topo mosaic
+- imageset http://data1.wwtassets.org/moons/Mimas_Enhanced_ColorL{1}X{2}Y{3}.png
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},mimas_sat1vss2
+- imageset http://data1.wwtassets.org/moons/Enceladus_Color_EnhancedL{1}X{2}Y{3}.png # Enceladus Cassini enh color
+- imageset http://data1.wwtassets.org/packages/2020/10_enceladus_vims/{1}/{3}/{3}_{2}.png  # Enceladus VIMS
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},enceladus_sat2vuu2
+- imageset http://data1.wwtassets.org/moons/Tethys_Enhanced_ColorL{1}X{2}Y{3}.png
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},tethys_sat3vss2
+- imageset http://data1.wwtassets.org/moons/Dione_Enhanced_ColorL{1}X{2}Y{3}.png # Dione cassini enhanced color
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},dione_sat4vss2
+- imageset http://data1.wwtassets.org/moons/Rhea_Enhanced_ColorL{1}X{2}Y{3}.png
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},rhea_sat5vss2
+- imageset http://data1.wwtassets.org/moons/Iapetus_Enhanced_ColorL{1}X{2}Y{3}.png
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},iapetus_sat8vss2
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},ariel
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},umbriel
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},titania
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},oberon
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},miranda
+- imageset http://data1.wwtassets.org/moons/Charon_NH_Enhanced_ColorL{1}X{2}Y{3}.png # Charon New Horizons enh color
+- imageset http://data1.wwtassets.org/moons/Charon_NewHorizons_ColorizedTerrainL{1}X{2}Y{3}.png
+- imageset http://data1.wwtassets.org/packages/2021/02_bennu/bennu/{1}/{3}/{3}_{2}.png
 - imageset http://www.worldwidetelescope.org/wwtweb/mandel.aspx?q={1},{2},{3} # Mandelbrot set
 group: Explorer
 name: Planets / Moons
