@@ -6,6 +6,7 @@ dec_deg: -28.9
 foreground_image_set_url: http://cdn.worldwidetelescope.org/wwtweb/g360.aspx?q={1},{2},{3}
 name: GLIMPSE 360
 ra_hr: 17.75
+zoom_level: 200
 ---
 _uuid: 9d01623c-135c-426f-8f20-82dbeace58c0
 annotation: '{"channel": "eso", "itemid": "ann21010a", "publishedUTCISO8601": "2021-07-06T14:00:00+00:00"}'
@@ -1683,8 +1684,9 @@ constellation: SGR
 data_set_type: Sky
 dec_deg: -28.9
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/glimpse.aspx?q={1},{2},{3}
-name: GLIMPSE
+name: GLIMPSE Original
 ra_hr: 17.75
+zoom_level: 200
 ---
 _uuid: d645f2b7-7e0b-4a02-991c-30bf89638f0f
 angular_size: 360.0
@@ -1695,6 +1697,7 @@ dec_deg: -28.9
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/mipsgal.aspx?q={1},{2},{3}
 name: GLIMPSE/MIPSGAL
 ra_hr: 17.75
+zoom_level: 200
 ---
 _uuid: 9ff8df44-f1a4-4bf3-a073-cd27d6dd2c5b
 angular_size: 1.0
