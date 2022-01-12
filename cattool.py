@@ -401,7 +401,7 @@ class PlaceDatabase(object):
 # emit
 
 
-def _emit_one(path: Path, idb: ImagesetDatabase, pdb: PlaceDatabase):
+def _emit_one(path: Path, is_preview: bool, idb: ImagesetDatabase, pdb: PlaceDatabase):
     with path.open("rt", encoding="utf-8") as f:
         root_info = yaml.load(f, yaml.SafeLoader)
 
@@ -443,6 +443,15 @@ def _emit_one(path: Path, idb: ImagesetDatabase, pdb: PlaceDatabase):
 
         v = info.get("url")
         if v:
+            if is_preview and v.startswith(
+                "http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W="
+            ):
+                catname = v.split("=")[1]
+                catpath = BASEDIR / "catfiles" / f"{catname}.yml"
+
+                if catpath.exists():
+                    v = f"./{catname}.wtml"
+
             f.url = v
 
         f.children = []
@@ -462,18 +471,19 @@ def _emit_one(path: Path, idb: ImagesetDatabase, pdb: PlaceDatabase):
 
     f = reconst_folder(root_info)
     catname = os.path.splitext(os.path.basename(path))[0]
+    rel = "_rel" if is_preview else ""
 
-    with open(f"{catname}.wtml", "wt", encoding="utf-8") as stream:
+    with open(f"{catname}{rel}.wtml", "wt", encoding="utf-8") as stream:
         prettify(f.to_xml(), stream)
-        print(f"wrote `{catname}.wtml`")
+        print(f"wrote `{catname}{rel}.wtml`")
 
 
-def do_emit(_settings):
+def do_emit(settings):
     idb = ImagesetDatabase()
     pdb = PlaceDatabase()
 
     for path in (BASEDIR / "catfiles").glob("*.yml"):
-        _emit_one(path, idb, pdb)
+        _emit_one(path, settings.preview, idb, pdb)
 
 
 # format-imagesets
@@ -719,7 +729,11 @@ def entrypoint():
     parser = argparse.ArgumentParser()
     subparsers = parser.add_subparsers(dest="subcommand")
 
-    _emit = subparsers.add_parser("emit")
+    emit = subparsers.add_parser("emit")
+    emit.add_argument(
+        "--preview", action="store_true", help="Emit relative-URL files for previewing"
+    )
+
     _format_imagesets = subparsers.add_parser("format-imagesets")
     _format_places = subparsers.add_parser("format-places")
 
