@@ -54,6 +54,80 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="GAIA DR2"
+    Projection="Toast"
+    Rotation="72"
+    Sparse="True"
+    TileLevels="8"
+    Url="http://data1.wwtassets.org/packages/2020/09_gaia_dr2/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>Gaia Data Processing and Analysis Consortium (DPAC); A. Moitinho / A. F. Silva / M. Barros / C. Barata, University of Lisbon, Portugal; H. Savietto, Fork Research, Portugal</Credits>
+    <CreditsUrl>https://sci.esa.int/web/gaia/-/60196-gaia-s-sky-in-colour-equirectangular-projection</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2020/09_gaia_dr2/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Deep Star Maps 2020"
+    Projection="Toast"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="8"
+    Url="http://data1.wwtassets.org/packages/2020/10_dsm2020/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>Ernie Wright, Laurence Schuler, Ian Jones; NASA/Goddard Space
+    Flight Center Scientific Visualization Studio; Gaia team/ESA</Credits>
+    <Description>This set of star maps was created by plotting the position,
+    brightness, and color of 1.7 billion stars from the Hipparcos-2, Tycho-2,
+    and Gaia Data Release 2 star catalogs, with help from the Yale Bright Star
+    Catalog, UCAC3, and the XHIP Hipparcos cross-reference.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2020/10_dsm2020/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="PanSTARRS1 3pi"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="12"
+    Url="http://mastimg.stsci.edu/surveys/toast/panstarrs/ps_color/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>PanSTARRS / STScI / C. Brasseur</Credits>
+    <CreditsUrl>https://panstarrs.stsci.edu/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2020/06_ps1_3pi/thumb.png</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.60733994347112"
     BaseTileLevel="0"
     BottomsUp="False"
