@@ -19,7 +19,7 @@ children:
   searchable: true
   thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mars
   type: ''
-  url: http://cdn.worldwidetelescope.org/wwtweb/catalog.aspx?W=MarsTopTen
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=marstopten
 - browseable: true
   children: []
   group: Explorer
@@ -35,7 +35,7 @@ children:
   searchable: true
   thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=hirise
   type: ''
-  url: http://cdn.worldwidetelescope.org/wwtweb/catalog.aspx?W=HiriseSpotlight
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=hirisespotlight
 - browseable: true
   children: []
   group: Explorer
