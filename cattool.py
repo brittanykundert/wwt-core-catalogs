@@ -678,11 +678,12 @@ def _trace_catfile(path: Path, pdb: PlaceDatabase, idb: ImagesetDatabase):
                         catpath = BASEDIR / "catfiles" / f"{catname}.yml"
 
                         if catpath.exists():
-                            print(f"Recursing into `{catname}`")
+                            print(f"Recursing into `{catname}`", file=sys.stderr)
                             _trace_catfile(catpath, pdb, idb)
                         else:
                             print(
-                                f"Skipping `{catname}` which does not seem to be managed by this framework"
+                                f"Skipping `{catname}` which does not seem to be managed by this framework",
+                                file=sys.stderr,
                             )
                 else:
                     trace_folder(spec)
