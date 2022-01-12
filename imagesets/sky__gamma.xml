@@ -42,7 +42,7 @@
     ElevationModel="False"
     FileType=".png"
     Generic="False"
-    Name="Fermi (Gamma)"
+    Name="Fermi Six Months (Gamma)"
     Projection="Toast"
     QuadTreeMap="0123"
     Rotation="0"
@@ -53,7 +53,7 @@
   >
     <Credits>NASA and the FERMI-LAT Team. Survey announced 26 AUgust 2008.</Credits>
     <CreditsUrl>http://www.nasa.gov/mission_pages/GLAST/main/index.html</CreditsUrl>
-    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=glast</ThumbnailUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=fermilogo</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Gamma"
