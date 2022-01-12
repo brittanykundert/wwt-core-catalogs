@@ -1,0 +1,13 @@
+browseable: true
+children:
+- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011331{Q}?g=138
+- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000200{Q}?g=138
+- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001210{Q}?g=138
+- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002200{Q}?g=138
+- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000222{Q}?g=138
+- imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000203{Q}?g=138
+group: Explorer
+name: NOAO Studies
+searchable: false
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=noao
+type: Earth

@@ -54,6 +54,30 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.60733994347112"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="161.2672478"
+    CenterY="-59.699805"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType="png"
+    Generic="False"
+    Name="Carina Nebula"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-0.241196264606417"
+    Sparse="True"
+    TileLevels="5"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000200{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>Credit: N. Smith (University of California, Berkeley) and NOAO/AURA/NSF</Credits>
+    <CreditsUrl>http://hubblesite.org/newscenter/archive/releases/2007/16/image/l/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1768019217</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.0568737475309982"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -438,6 +462,30 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.483459160179659"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="274.7688415"
+    CenterY="-13.8125241"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType="png"
+    Generic="False"
+    Name="Wide-Field Image of the Eagle Nebula"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-89.8290026914982"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001210{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>Photo Credit: T.A.Rector (University of Alaska Anchorage, NRAO/AUI/NSF and NOAO/AURA/NSF) and B.A.Wolpa (NOAO/AURA/NSF)</Credits>
+    <CreditsUrl>http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/12/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=970077692</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.0562823773650993"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -747,6 +795,30 @@
     <Credits>Photo credits: NASA, Rogier Windhorst (Arizona State University, Tempe, AZ), and the Hubble mid-UV team</Credits>
     <CreditsUrl>http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/04/</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1809494568</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.159994685728727"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="299.9009175"
+    CenterY="22.7209533"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType="png"
+    Generic="False"
+    Name="Dumbbell Nebula;WIYN Emission Line Image of Dumbbell Nebula"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0.131835001480685"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002200{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>Credit: G. Jacoby, WIYN/NOAO/NSF</Credits>
+    <CreditsUrl>http://www.noao.edu/image_gallery/html/im0780.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1501618541</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -1567,6 +1639,32 @@
   >
     <Credits>Farhad Yusef-Zadeh; Mark Wardle; NRAO</Credits>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=sgra-x</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="13.69"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="79.5709"
+    CenterY="-68.2141"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType="png"
+    Generic="False"
+    Name="Large Magellanic Cloud;LMC"
+    OffsetX="0.025"
+    OffsetY="-0.1"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="7"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011331{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>C. Smith, S. Points, the MCELS Team and NOAO/AURA/NSF</Credits>
+    <CreditsUrl>http://www.noao.edu/image_gallery/html/im0994.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=lmc_final</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -4090,6 +4188,30 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.193490771316031"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="148.9660279"
+    CenterY="69.6767578"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType="png"
+    Generic="False"
+    Name="Messier 82;Starburst Galaxy M82"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-0.194403120999562"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000222{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>Credit: N.A. Sharp/AURA/NOAO/NSF</Credits>
+    <CreditsUrl>http://hubblesite.org/newscenter/archive/releases/2001/08/image/e/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1406695387</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.0148583600578184"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -5767,6 +5889,30 @@
     <Credits>Image Credit: NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment: C.R. O'Dell (Vanderbilt University)</Credits>
     <CreditsUrl>http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/06/</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1550435984</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.965466809370018"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="13.173994741411763"
+    CenterY="56.62393729710345"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType="png"
+    Generic="False"
+    Name="NGC 281 Star-Forming Region"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="0.722330286064768"
+    Sparse="True"
+    TileLevels="5"
+    Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000203{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>Credit: T.A. Rector/University of Alaska Anchorage and WIYN/AURA/NSF</Credits>
+    <CreditsUrl>http://hubblesite.org/newscenter/archive/releases/2006/13/image/b/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1371454398</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
