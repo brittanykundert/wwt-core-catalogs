@@ -1,5 +1,15 @@
 browseable: true
 children:
+# LOFAR (2021):
+- place 9abb8f5b-fe2b-4522-b5d9-e87bc8e502b8
+- place e6639dd3-d2ba-4d72-81a9-28ba30cd1d54
+- place 3ea6a8b9-ad7c-40f8-bf79-e91ca059bb3b
+- place 4515944e-15f5-4a38-bbf5-dd6070d7266c
+- place c4910936-3e0d-4c92-a8d3-c1a05dfdc4a1
+- place 8222b8fa-bac8-4ff5-8f03-7cff22b19497
+- place b4ab8dbd-006b-4183-9f6c-56236114a998
+- place ef737c74-1de9-4675-9af7-a0529167aaa7
+# Classic "Radio Studies"
 - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011322{Q}?g=138
 - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011321{Q}?g=138
 - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011323{Q}?g=138
