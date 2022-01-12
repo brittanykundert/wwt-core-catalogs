@@ -12032,6 +12032,190 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.0061348449645493046"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="123.400271509378"
+    CenterY="48.2173630473758"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".tif"
+    Generic="False"
+    Name="3C 196 - LOFAR"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C196/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>C. Groeneveld</Credits>
+    <CreditsUrl>https://www.astron.nl/most-detailed-ever-images-of-galaxies-revealed-using-lofar/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C196/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.009372680131162481"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="145.564166666667"
+    CenterY="13.7641666666667"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".tif"
+    Generic="False"
+    Name="3C 225 - LOFAR"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C225/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>C. Groeneveld</Credits>
+    <CreditsUrl>https://www.astron.nl/most-detailed-ever-images-of-galaxies-revealed-using-lofar/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C225/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.009517291618341273"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="187.276174850369"
+    CenterY="2.05022103429049"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".tif"
+    Generic="False"
+    Name="3C 273 - LOFAR"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C273/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>C. Groeneveld</Credits>
+    <CreditsUrl>https://www.astron.nl/most-detailed-ever-images-of-galaxies-revealed-using-lofar/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C273/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.004421834363397448"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="212.835748676869"
+    CenterY="52.2023501797996"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".tif"
+    Generic="False"
+    Name="3C 295 - LOFAR"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C295/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>C. Groeneveld</Credits>
+    <CreditsUrl>https://www.astron.nl/most-detailed-ever-images-of-galaxies-revealed-using-lofar/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C295/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.009670641767096238"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="214.784085282284"
+    CenterY="6.47633432584917"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".tif"
+    Generic="False"
+    Name="3C 298 - LOFAR"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C298/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>C. Groeneveld</Credits>
+    <CreditsUrl>https://www.astron.nl/most-detailed-ever-images-of-galaxies-revealed-using-lofar/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C298/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.00958348231788286"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="277.382602169363"
+    CenterY="48.7459836160309"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".tif"
+    Generic="False"
+    Name="3C 380 - LOFAR"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C380/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>C. Groeneveld</Credits>
+    <CreditsUrl>https://www.astron.nl/most-detailed-ever-images-of-galaxies-revealed-using-lofar/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C380/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.028158364052073476"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="172.132856052847"
+    CenterY="58.5625272063243"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".tif"
+    Generic="False"
+    Name="Arp299"
+    Projection="Tan"
+    Rotation="-7.447453038547519"
+    Sparse="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2021/08_lofar_17821/Arp299/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>N. Ramírez-Olivencia et el. [radio]; NASA, ESA, the Hubble Heritage Team (STScI/AURA)-ESA/Hubble Collaboration and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook University), edited by R. Cumming [optical]</Credits>
+    <CreditsUrl>https://www.astron.nl/most-detailed-ever-images-of-galaxies-revealed-using-lofar/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/08_lofar_17821/Arp299/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.09011714293037465"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="252.784642934999"
+    CenterY="4.99274081946267"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".tif"
+    Generic="False"
+    Name="Hercules A"
+    Projection="Tan"
+    Rotation="33.7256768547022"
+    Sparse="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2021/08_lofar_17821/HerculesA/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>R. Timmerman; LOFAR and Hubble Space Telescope</Credits>
+    <CreditsUrl>https://www.astron.nl/most-detailed-ever-images-of-galaxies-revealed-using-lofar/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/08_lofar_17821/HerculesA/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"

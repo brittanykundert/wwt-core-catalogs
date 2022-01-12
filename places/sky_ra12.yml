@@ -841,6 +841,17 @@ ra_hr: 12.315557832444384
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2112b/thumb.jpg
 zoom_level: 5.2807218449388
 ---
+_uuid: 4515944e-15f5-4a38-bbf5-dd6070d7266c
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 2.0502210342904874
+foreground_image_set_url: http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C273/{1}/{3}/{3}_{2}.png
+name: 3C 273 - LOFAR
+ra_hr: 12.485078323357932
+thumbnail: http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C273/thumb.jpg
+zoom_level: 0.059250716862232045
+---
 _uuid: 5ecffcd2-2bc6-42cd-b1ce-264b52c191b5
 angular_size: 1.0
 classification: ClusterOfGalaxies

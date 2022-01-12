@@ -187,6 +187,17 @@ ra_hr: 16.69422978159523
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao0103a/thumb.jpg
 zoom_level: 3.929162400000001
 ---
+_uuid: 9abb8f5b-fe2b-4522-b5d9-e87bc8e502b8
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 4.992740819462668
+foreground_image_set_url: http://data1.wwtassets.org/packages/2021/08_lofar_17821/HerculesA/{1}/{3}/{3}_{2}.png
+name: Hercules A
+ra_hr: 16.852309528999932
+thumbnail: http://data1.wwtassets.org/packages/2021/08_lofar_17821/HerculesA/thumb.jpg
+zoom_level: 0.45095753587148346
+---
 _uuid: f65c7098-2d22-4662-bba2-9660ac227621
 angular_size: 1.0
 classification: MultipleStars
