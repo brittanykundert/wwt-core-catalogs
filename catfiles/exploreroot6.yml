@@ -119,7 +119,7 @@ children:
   searchable: true
   thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mars
   type: Planet
-  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=marsroot&v=2
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=marsroot
 - browseable: true
   children: []
   group: Explorer
