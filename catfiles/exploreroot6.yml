@@ -99,6 +99,14 @@ children:
 - browseable: true
   children: []
   group: Explorer
+  name: WISE Studies
+  searchable: true
+  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wise
+  type: Sky
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=collection_wise
+- browseable: true
+  children: []
+  group: Explorer
   name: SOFIA Studies
   searchable: true
   thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=nasa_sofia
