@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="planet_mars_visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    DemUrl="http://cdn.worldwidetelescope.org/wwtweb/tiles2.aspx?q={0},{1},{2},MarsToastDem"
+    ElevationModel="True"
+    FileType=".auto"
+    Generic="False"
+    MeanRadius="3396000"
+    Name="HiRISE Imagery"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    ReferenceFrame="Mars"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="18"
+    Url="http://wwt.nasa.gov/wwt/p/mars_hirise/{1}/{2}/{3}.auto"
+    WidthFactor="1"
+  >
+    <Credits>University of Arizona / NASA / USGS / Malin Space Science Systems / JPL</Credits>
+    <CreditsUrl>http://hirise.lpl.arizona.edu/PSP_010221_1420</CreditsUrl>
+  </ImageSet>
+</Folder>
