@@ -15,14 +15,6 @@ children:
 - browseable: true
   children: []
   group: Explorer
-  name: Solar System
-  searchable: true
-  thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=solarsystem
-  type: ''
-  url: http://cdn.worldwidetelescope.org/wwtweb/catalog.aspx?W=solarsystemsky
-- browseable: true
-  children: []
-  group: Explorer
   name: Mars Top Ten
   searchable: true
   thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mars
