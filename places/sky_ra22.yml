@@ -228,3 +228,58 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Helix Nebula
 ra_hr: 22.494444444444447
 zoom_level: 3.893333333333333
+---
+_uuid: 24b45e01-303e-4fb5-b3da-d4e112505132
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 13.90392017
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-349L{1}X{2}Y{3}.png
+name: 3C442A
+ra_hr: 22.2466349266667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-349.jpg
+zoom_level: 1.15094953984
+---
+_uuid: 7d788fe4-b417-4590-9145-3e835d450d5c
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 33.97238515111
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-430L{1}X{2}Y{3}.png
+name: Stephan's Quintet
+ra_hr: 22.6004470134073
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-430.jpg
+zoom_level: 0.35615227904
+---
+_uuid: d94654dd-e9e6-44e6-be64-8e15d43afe3d
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 62.6314786
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-432L{1}X{2}Y{3}.png
+name: Cepheus B
+ra_hr: 22.9524698266667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-432.jpg
+zoom_level: 1.5238725632
+---
+_uuid: 754b5dcf-575f-48a6-bae2-7615bd28e11c
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 62.6314786
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-432L{1}X{2}Y{3}.png
+name: Cepheus B
+ra_hr: 22.9524698266667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-432.jpg
+zoom_level: 1.5238725632
+---
+_uuid: 6c96a54f-2bc7-402c-910c-3ee9e7e56c3a
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 65.5946166
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-610fL{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 22.4286232133333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-610f.jpg
+zoom_level: 0.252050522112

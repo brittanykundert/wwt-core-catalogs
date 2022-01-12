@@ -159,3 +159,58 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Fireworks Galaxy
 ra_hr: 20.58138888888889
 zoom_level: 3.92
+---
+_uuid: b60eaf0c-148a-423d-bfa6-c63186f246f6
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 38.355062
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-103L{1}X{2}Y{3}.png
+name: Crescent Nebula
+ra_hr: 20.2019295333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-103.jpg
+zoom_level: 1.07182637056
+---
+_uuid: e4cc087f-1df4-47a6-b9d2-1932248deded
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 40.9579535
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-208L{1}X{2}Y{3}.png
+name: Cygnus X-3
+ra_hr: 20.5404688866667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-208.jpg
+zoom_level: 0.267268816896
+---
+_uuid: 5cf0a740-7463-418a-a951-8892902f4919
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -70.7699278
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-441L{1}X{2}Y{3}.png
+name: NGC 6872
+ra_hr: 20.2819900133333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-441.jpg
+zoom_level: 0.4339367936
+---
+_uuid: c767bef5-a4d3-421e-ac15-e49423b9cd69
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.3447028
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-525L{1}X{2}Y{3}.png
+name: Cygnus OB2
+ra_hr: 20.5538921733333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-525.jpg
+zoom_level: 7.42803161088
+---
+_uuid: ea92e6fa-ac51-4fa9-bece-be70008f8993
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 40.957851
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-643L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 20.5404891666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-643.jpg
+zoom_level: 0.1172313833472

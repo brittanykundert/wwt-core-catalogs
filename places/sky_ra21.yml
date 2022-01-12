@@ -170,3 +170,36 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: NGC 7023
 ra_hr: 21.026666666666667
 zoom_level: 3.908333333333333
+---
+_uuid: 57c0395f-8b17-404d-85a1-eba6b5e540a7
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 42.2359696
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-163L{1}X{2}Y{3}.png
+name: NGC 7027
+ra_hr: 21.117137
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-163.jpg
+zoom_level: 0.0283287232512
+---
+_uuid: aeebaa9d-54c2-49b5-b8c3-e90c49ccc06c
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.1675401
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-176L{1}X{2}Y{3}.png
+name: M15
+ra_hr: 21.49952452
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-176.jpg
+zoom_level: 0.0411975000064
+---
+_uuid: 100876c2-24f6-45a9-9743-f5671b6be713
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 12.162411
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-630L{1}X{2}Y{3}.png
+name: M15
+ra_hr: 21.49949258
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-630.jpg
+zoom_level: 0.194917433344

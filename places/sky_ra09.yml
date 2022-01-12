@@ -292,3 +292,146 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: M81;Messier 81
 ra_hr: 9.92861111111111
 zoom_level: 4.73833333333333
+---
+_uuid: 6d6ebe3a-db22-4ef8-890d-0a31d9b1edf3
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 69.6777428
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-159L{1}X{2}Y{3}.png
+name: M82
+ra_hr: 9.93088064
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-159.jpg
+zoom_level: 0.508165128192
+---
+_uuid: a4bdf493-2159-4a7b-a16b-1ca53ca34fa0
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 69.6766381
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-214L{1}X{2}Y{3}.png
+name: M82
+ra_hr: 9.93091372
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-214.jpg
+zoom_level: 0.483941056512
+---
+_uuid: 3a7eedf1-2408-4b12-93ac-e3147f124871
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.0953871
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-245L{1}X{2}Y{3}.png
+name: Hydra A
+ra_hr: 9.30154106
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-245.jpg
+zoom_level: 0.397156286464
+---
+_uuid: abdb3a68-8ded-4bc6-b3fe-88246750ef31
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 50.976349
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-317L{1}X{2}Y{3}.png
+name: NGC 2841
+ra_hr: 9.3674076
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-317.jpg
+zoom_level: 0.51320455168
+---
+_uuid: 3d4ee0d1-4899-4349-a01e-b93194a7b49d
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 69.7053749827
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-320L{1}X{2}Y{3}.png
+name: M82
+ra_hr: 9.94070077866667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-320.jpg
+zoom_level: 0.977699181648054
+---
+_uuid: e5471556-cfdd-4eca-b4f2-107a6cd5bb3d
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.0321166563
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-363L{1}X{2}Y{3}.png
+name: CL0958+4702
+ra_hr: 9.97327931926667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-363.jpg
+zoom_level: 0.345346981067594
+---
+_uuid: f1b71728-2fb5-4d4e-a114-09f5b7703cd4
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.0945534
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-434L{1}X{2}Y{3}.png
+name: Hydra A
+ra_hr: 9.301585
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-434.jpg
+zoom_level: 0.748183552
+---
+_uuid: 8d3ca8d9-de93-4e6d-bead-583c6ec457c4
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 69.6810899
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-471L{1}X{2}Y{3}.png
+name: M82
+ra_hr: 9.93077334
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-471.jpg
+zoom_level: 0.958059839488
+---
+_uuid: 48f297ee-8e19-4e3a-a4a3-bfe1c62240f3
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 29.8447303
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-506L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 9.26990521333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-506.jpg
+zoom_level: 0.243910590464
+---
+_uuid: 9312b93d-13cd-41e2-8760-306340663257
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 9.49770469528
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-511L{1}X{2}Y{3}.png
+name: SN 2010jl
+ra_hr: 9.71513650966667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-511.jpg
+zoom_level: 0.0669753344
+---
+_uuid: 25f3c0bb-e7f3-4975-a579-0ed49bc8d276
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 69.6795082
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-576L{1}X{2}Y{3}.png
+name: M82 SN2014J
+ra_hr: 9.93077205333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-576.jpg
+zoom_level: 1.26825570304
+---
+_uuid: 6089acba-2249-4429-929b-e23db1dda620
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 69.6712593
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-580L{1}X{2}Y{3}.png
+name: M82X-2
+ra_hr: 9.93196424666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-580.jpg
+zoom_level: 0.697498697728
+---
+_uuid: 889f11c6-7a92-46f3-91f1-3f8105775c93
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 34.7292506
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-633L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 9.68441318
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-633.jpg
+zoom_level: 0.065371553792

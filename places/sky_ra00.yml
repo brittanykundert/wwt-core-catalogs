@@ -323,3 +323,278 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: NGC 246
 ra_hr: 0.7841666666666667
 zoom_level: 4.0
+---
+_uuid: 2897bc86-a719-4bd4-8605-2ddcda7c69d3
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 64.1423256
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-135L{1}X{2}Y{3}.png
+name: Tycho's Supernova Remnant
+ra_hr: 0.422012693333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-135.jpg
+zoom_level: 1.1931041792
+---
+_uuid: d89e3687-ddaf-4e27-8853-efea0b6e8985
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -25.2885992
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-161L{1}X{2}Y{3}.png
+name: NGC 253
+ra_hr: 0.792535206666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-161.jpg
+zoom_level: 0.251765912143958
+---
+_uuid: d7314925-cab0-4e4d-8ecf-ea4b155853e8
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.2637293
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-178L{1}X{2}Y{3}.png
+name: M31
+ra_hr: 0.71213946
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-178.jpg
+zoom_level: 0.18877816832
+---
+_uuid: d00b50b3-ee2e-42c9-a574-4426b9cafd7d
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.2686944
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-215L{1}X{2}Y{3}.png
+name: M31
+ra_hr: 0.712332853333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-215.jpg
+zoom_level: 0.13619401064448
+---
+_uuid: ee7421ac-64fb-4fe5-9487-8501ea2358d7
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -17.9864942
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-239L{1}X{2}Y{3}.png
+name: Beta Ceti
+ra_hr: 0.726501193333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-239.jpg
+zoom_level: 0.209507762176
+---
+_uuid: 68bbc577-ae35-4f03-ad71-2e5f3563a608
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 72.521954
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-294L{1}X{2}Y{3}.png
+name: NGC 40
+ra_hr: 0.2169736
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-294.jpg
+zoom_level: 0.12948799488
+---
+_uuid: cd697417-570f-43f7-a573-6ee687cfacfd
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 64.13733689301
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-302L{1}X{2}Y{3}.png
+name: Tycho's Supernova Remnant
+ra_hr: 0.422332616424
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-302.jpg
+zoom_level: 1.22018398208
+---
+_uuid: 434e6542-2565-4bee-96f3-8c1a9443fc4a
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -33.7183380127
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-314L{1}X{2}Y{3}.png
+name: Cartwheel Galaxy
+ra_hr: 0.627120526632
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-314.jpg
+zoom_level: 0.266202220423529
+---
+_uuid: 8cbb8175-4134-4c57-82e0-b996aba0cc0f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.2592125
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-324L{1}X{2}Y{3}.png
+name: Andromeda Galaxy (M31)
+ra_hr: 0.71215706
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-324.jpg
+zoom_level: 3.18549950464
+---
+_uuid: 7e98bbd4-d796-4fb0-8ea3-ea4e59362d9d
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.268814
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-355L{1}X{2}Y{3}.png
+name: Andromeda Galaxy (M31)
+ra_hr: 0.712307066666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-355.jpg
+zoom_level: 7.73554520064
+---
+_uuid: 58f1a9c6-0cfa-4115-b113-55bf4941b9a9
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -73.12194444444
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-369L{1}X{2}Y{3}.png
+name: LHa115-N19
+ra_hr: 0.789361111111333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-369.jpg
+zoom_level: 4.57738338304
+---
+_uuid: f41b07d1-e95e-4b7c-bbb5-ce7afd68e909
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 56.564947
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-378L{1}X{2}Y{3}.png
+name: NGC 281
+ra_hr: 0.8736496
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-378.jpg
+zoom_level: 3.58226362368
+---
+_uuid: 6efb2ae1-25ac-4e0a-81be-4cf5ffeb495b
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.3817059556
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-402L{1}X{2}Y{3}.png
+name: MACS J0025.4-1222
+ra_hr: 0.424915130407333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-402.jpg
+zoom_level: 0.21221605376
+---
+_uuid: 888f07ab-672f-4ddc-b665-c2333da6f7ac
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 64.13854937049
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-418L{1}X{2}Y{3}.png
+name: Tycho's SNR
+ra_hr: 0.422378188418
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-418.jpg
+zoom_level: 1.0376884224
+---
+_uuid: d453b8fe-fbb1-4ee7-b2c6-de8a443e9b99
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.269236
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-447L{1}X{2}Y{3}.png
+name: M31
+ra_hr: 0.712319733333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-447.jpg
+zoom_level: 4.9581194147797
+---
+_uuid: 79dbf02b-6056-470f-ad4a-9ac0f1c14551
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.2689541
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-454L{1}X{2}Y{3}.png
+name: M31
+ra_hr: 0.71228746
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-454.jpg
+zoom_level: 3.49970317312
+---
+_uuid: 551e84c1-9212-4af0-a725-4b6f10e148a0
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 64.1385494
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-478L{1}X{2}Y{3}.png
+name: Tycho's Supernova Remnant
+ra_hr: 0.422378186666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-478.jpg
+zoom_level: 1.444427087872
+---
+_uuid: 78fedc1b-453d-4e33-baeb-f0b307f0631b
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 64.1385494
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-481L{1}X{2}Y{3}.png
+name: Tycho's Supernova Remnant
+ra_hr: 0.422378186666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-481.jpg
+zoom_level: 1.14109739941888
+---
+_uuid: 601ecafb-1632-4f18-8c56-73b5e3709192
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -30.3998433
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-485L{1}X{2}Y{3}.png
+name: Abell 2744
+ra_hr: 0.239036566666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-485.jpg
+zoom_level: 0.509527588864
+---
+_uuid: 392352c2-fa94-4dbe-9d4d-2724fdf74de3
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 56.594963
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-491L{1}X{2}Y{3}.png
+name: NGC 281
+ra_hr: 0.882628673333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-491.jpg
+zoom_level: 1.35126818816
+---
+_uuid: af5bf5ec-8c76-467d-b3c8-6fad306524f4
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.0809849
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-534L{1}X{2}Y{3}.png
+name: 47 Tucanae
+ra_hr: 0.40136602
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-534.jpg
+zoom_level: 0.17945133056
+---
+_uuid: 90522e9a-9fd6-4cf9-a1b5-5e21d07d3267
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.2609257
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-542L{1}X{2}Y{3}.png
+name: M31
+ra_hr: 0.71162794
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-542.jpg
+zoom_level: 10.9227889012364
+---
+_uuid: 33fe80e0-0c24-4703-b581-6a3b38b2a905
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -20.5674724
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-586L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 0.73462616
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-586.jpg
+zoom_level: 0.285810163712
+---
+_uuid: 49e9b123-b43a-4afa-9e97-bdc60e68451e
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -30.3934645
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-593eL{1}X{2}Y{3}.png
+name: Abell 2744
+ra_hr: 0.239544233333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-593e.jpg
+zoom_level: 0.449967128576
+---
+_uuid: b0ede79a-df48-4519-8bd2-76133e1969b1
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 64.138614
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-627L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 0.421929786666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-627.jpg
+zoom_level: 1.184205815808

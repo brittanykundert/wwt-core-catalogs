@@ -377,3 +377,289 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Messier 92
 ra_hr: 17.285
 zoom_level: 4.876666666666667
+---
+_uuid: 864e21a6-1641-42d4-b9ab-a1e5ef8a30cf
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.0458941
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-109L{1}X{2}Y{3}.png
+name: Galactic Center
+ra_hr: 17.7558187733333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-109.jpg
+zoom_level: 6.81374154752
+---
+_uuid: 4f55b37d-d238-45e3-9930-2b3c06ead22e
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 66.323736
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-145L{1}X{2}Y{3}.png
+name: NGC 6543
+ra_hr: 17.9756985933333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-145.jpg
+zoom_level: 0.0703968945144526
+---
+_uuid: 82593ac2-a1aa-4de3-af26-61c20103bfaa
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.0073597
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-168L{1}X{2}Y{3}.png
+name: 'Sagittarius A*: Sgr A*: Galactic Center'
+ra_hr: 17.7610628133333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-168.jpg
+zoom_level: 1.082561150976
+---
+_uuid: aebe43ef-f9c2-4308-a410-fc9fa0c60f50
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -26.0928058
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-175L{1}X{2}Y{3}.png
+name: KS 1731-260
+ra_hr: 17.5702826333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-175.jpg
+zoom_level: 0.1256924299264
+---
+_uuid: 2ea4c5e6-720b-4231-8fbb-2928198d9a12
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.008397
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-216L{1}X{2}Y{3}.png
+name: Galactic Center
+ra_hr: 17.7611185866667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-216.jpg
+zoom_level: 0.157969816620059
+---
+_uuid: 6ff72a1a-7653-4845-95f2-84e181fa2386
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.51255075449
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-343L{1}X{2}Y{3}.png
+name: Kepler's Supernova Remnant
+ra_hr: 17.511220231064
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-343.jpg
+zoom_level: 0.537395220499661
+---
+_uuid: 5c98fc9b-1ee5-4e7c-b09f-765666647c4d
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 66.6320571899
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-399L{1}X{2}Y{3}.png
+name: NGC 6543
+ra_hr: 17.9760091146
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-399.jpg
+zoom_level: 0.0892233892296057
+---
+_uuid: 45144d07-63fc-4b06-81f4-b84785b67891
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -28.864102
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-444L{1}X{2}Y{3}.png
+name: Sagittarius A*
+ra_hr: 17.77197322
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-444.jpg
+zoom_level: 0.5608374272
+---
+_uuid: 6fa43f13-02ec-4cab-9dc4-f37b8ae1dba7
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -37.4458238
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-500L{1}X{2}Y{3}.png
+name: G350.1-0.3
+ra_hr: 17.3505863866667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-500.jpg
+zoom_level: 0.394104471552
+---
+_uuid: cbe762eb-01c5-4f87-a1bb-faab65e8d061
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -28.864102
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-501L{1}X{2}Y{3}.png
+name: Sagittarius A*
+ra_hr: 17.77197322
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-501.jpg
+zoom_level: 0.747783236266667
+---
+_uuid: 7608ba9b-9076-4004-9044-4ff4cfef8a96
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.482487
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-521L{1}X{2}Y{3}.png
+name: Kepler's Supernova Remnant
+ra_hr: 17.509999
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-521.jpg
+zoom_level: 0.598108438528
+---
+_uuid: b66d35f0-9eac-4452-8b03-4d969e7f8bf3
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -21.4926195
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-536L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 17.5114353666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-536.jpg
+zoom_level: 0.9221300224
+---
+_uuid: 5ea8003b-e309-4e54-b11a-b85a11710bfe
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.1696992
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-543L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 17.8127232933333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-543.jpg
+zoom_level: 0.64924106752
+---
+_uuid: 7b8be62e-479c-4b93-963e-3d140d8c7b42
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.0077984
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-547L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 17.7611138533333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-547.jpg
+zoom_level: 0.0792515772416
+---
+_uuid: 35c9b5df-ed86-48c6-8bdb-894a27ab16a6
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -28.9441659
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-552L{1}X{2}Y{3}.png
+name: Sagittarius A*
+ra_hr: 17.7646810466667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-552.jpg
+zoom_level: 1.422354825216
+---
+_uuid: d18466ad-6e0b-4a81-a964-c99947e0a69c
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.9764529
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-554aL{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 17.3412178866667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-554a.jpg
+zoom_level: 0.384031752192
+---
+_uuid: 4c535175-c2e0-480f-a441-7425b2c8f825
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.0075832
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-556L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 17.76112128
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-556.jpg
+zoom_level: 0.0926228004864
+---
+_uuid: c9372e35-ff95-4567-a1be-38375af8527a
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.1080029
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-566L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 17.4617581666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-566.jpg
+zoom_level: 1.09733707776
+---
+_uuid: 1fb67b23-7159-48db-bf28-bed745c5c62d
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.0070133
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-583L{1}X{2}Y{3}.png
+name: Sgr A*
+ra_hr: 17.7610574466667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-583.jpg
+zoom_level: 0.932067016704
+---
+_uuid: 8291e784-dbf4-497f-ab03-d678a535ddd1
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.0076993
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-588L{1}X{2}Y{3}.png
+name: Sagittarius A*
+ra_hr: 17.76112258
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-588.jpg
+zoom_level: 0.621034225664
+---
+_uuid: 1f7d69e5-6360-4675-852f-c236efd37613
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -44.7352099
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-594L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 17.6046661933333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-594.jpg
+zoom_level: 0.224012337152
+---
+_uuid: d4e38678-d0de-4866-9343-d862fd24d5c0
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.0070133
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-596L{1}X{2}Y{3}.png
+name: SGR 1745-2900
+ra_hr: 17.7610574466667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-596.jpg
+zoom_level: 0.932067016704
+---
+_uuid: 620fa34f-ae3b-4001-b57f-bf76a38cda99
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.1688425
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-624L{1}X{2}Y{3}.png
+name: G1.9+0.3
+ra_hr: 17.8125955266667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-624.jpg
+zoom_level: 0.311165108224
+---
+_uuid: cc961170-b5c6-4bf9-a254-d3d773c9ebc1
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -38.5334492
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-640fL{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 17.2430714466667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-640f.jpg
+zoom_level: 1.465168068608
+---
+_uuid: 2247db3d-b62e-43cc-8dc3-875c1e1d4d4f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -34.3174881
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-645L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 17.4186844866667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-645.jpg
+zoom_level: 3.34554267648
+---
+_uuid: 02a376ec-1b22-470f-bbfa-d6be6e4b2a54
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.0075707
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-87L{1}X{2}Y{3}.png
+name: Sagittarius A*; Galactic Center
+ra_hr: 17.7610526066667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-87.jpg
+zoom_level: 0.957734060032

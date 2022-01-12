@@ -172,3 +172,124 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Massive Young Stars Trigger Stellar Birth;RCW 108
 ra_hr: 16.6663888888889
 zoom_level: 4.5
+---
+_uuid: dca83e11-a904-499e-b89f-a8f4e8cb16ee
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -51.01998487632
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-361L{1}X{2}Y{3}.png
+name: RCW 103
+ra_hr: 16.2938996994293
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-361.jpg
+zoom_level: 1.0694623232
+---
+_uuid: d2ed6653-bd64-4a55-8b77-fe37fd941b59
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -60.75511085
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-371L{1}X{2}Y{3}.png
+name: ESO 137-001
+ra_hr: 16.2265889893333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-371.jpg
+zoom_level: 0.34674147328
+---
+_uuid: baa76134-0be6-4000-966c-6e1571a1509f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -48.865044839142
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-405L{1}X{2}Y{3}.png
+name: RCW 108
+ra_hr: 16.6663028668453
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-405.jpg
+zoom_level: 1.67346747937587
+---
+_uuid: 1d3b93d2-bd9e-466e-b190-48aea1be5da6
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 2.39952798694
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-436L{1}X{2}Y{3}.png
+name: NGC 6240
+ra_hr: 16.8833242029333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-436.jpg
+zoom_level: 0.05238857728
+---
+_uuid: ce083d3b-7023-4401-aaf7-f6431600ec5f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -60.7486092
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-445L{1}X{2}Y{3}.png
+name: Abell 3627
+ra_hr: 16.2205741666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-445.jpg
+zoom_level: 0.38376054784
+---
+_uuid: a8db02dd-ac2d-457a-8bbc-17c496add0e9
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 0.0126692
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-458L{1}X{2}Y{3}.png
+name: 4C+00.58
+ra_hr: 16.1038629333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-458.jpg
+zoom_level: 1.19196168415418
+---
+_uuid: 7dbfa8db-78b1-404f-af00-f97496360d75
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 57.583278
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-479L{1}X{2}Y{3}.png
+name: GRB 110328A
+ra_hr: 16.7471923133333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-479.jpg
+zoom_level: 0.0373499379712
+---
+_uuid: 5f472658-3263-4cb6-86da-ab02bb1f81b8
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 2.401425
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-539L{1}X{2}Y{3}.png
+name: NGC 6240
+ra_hr: 16.8830640733333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-539.jpg
+zoom_level: 0.234902552576
+---
+_uuid: c7cef620-3bcf-4449-805c-3331078459bf
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -60.7567317819
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-564L{1}X{2}Y{3}.png
+name: ESO 137-001
+ra_hr: 16.2225195812
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-564.jpg
+zoom_level: 0.122843136
+---
+_uuid: 36b18326-a43b-4d4c-ba7c-8ebab6e54aea
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 4.9920737
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-581dL{1}X{2}Y{3}.png
+name: Hercules A
+ra_hr: 16.85227066
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-581d.jpg
+zoom_level: 0.252133441536
+---
+_uuid: 3681ac2d-0598-4412-8988-d960f77dbba5
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -51.0404495
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-636L{1}X{2}Y{3}.png
+name: RCW 103
+ra_hr: 16.2934983733333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-636.jpg
+zoom_level: 1.80799832064

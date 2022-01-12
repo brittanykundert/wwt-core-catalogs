@@ -393,3 +393,245 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Whirlpool Galaxy
 ra_hr: 13.497777777777777
 zoom_level: 4.0
+---
+_uuid: d62f5b7c-fd7b-46dc-b8f5-18e1a13d9331
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.2183407
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-129L{1}X{2}Y{3}.png
+name: Whirlpool Galaxy (M51)
+ra_hr: 13.4993766533333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-129.jpg
+zoom_level: 1.29778499584
+---
+_uuid: eb03a048-ebac-4026-ad92-9ccf09c7f8be
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.0231952
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-166L{1}X{2}Y{3}.png
+name: Centaurus A
+ra_hr: 13.4244130466667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-166.jpg
+zoom_level: 0.598502858752
+---
+_uuid: 1321bb3d-da64-466b-b82f-1874fcdbc2b1
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 62.5170858
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-173L{1}X{2}Y{3}.png
+name: EMSS 1358+6245
+ra_hr: 13.9975484266667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-173.jpg
+zoom_level: 0.240300843008
+---
+_uuid: 468a87fe-2e18-477f-8d52-dd1fffdf6d68
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 26.5878436
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-185L{1}X{2}Y{3}.png
+name: Abell 1795
+ra_hr: 13.81467652
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-185.jpg
+zoom_level: 0.1163871240192
+---
+_uuid: 96634190-c5aa-481e-bb6e-df38827693ad
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 42.694703
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-220L{1}X{2}Y{3}.png
+name: Deep Field in Canes Venatici
+ra_hr: 13.2066221333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-220.jpg
+zoom_level: 1.506301526016
+---
+_uuid: a614e71c-49d3-4096-a8fc-b65c7ece2969
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.0112324
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-290L{1}X{2}Y{3}.png
+name: Centaurus A
+ra_hr: 13.4247049866667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-290.jpg
+zoom_level: 2.08747790336
+---
+_uuid: c9bb64c2-240d-4ce6-b285-0a3ebaaa3afd
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.2134616
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-380L{1}X{2}Y{3}.png
+name: Whirlpool Galaxy
+ra_hr: 13.4978857066667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-380.jpg
+zoom_level: 0.921675241964557
+---
+_uuid: d8afc6a9-7a26-41df-9821-eaed5bc25b01
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.0188942
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-382L{1}X{2}Y{3}.png
+name: Centaurus A
+ra_hr: 13.4243611666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-382.jpg
+zoom_level: 1.52859082056499
+---
+_uuid: 2765dc5b-f5d8-4246-9ce6-7b697bbebffa
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -1.33842511083
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-403L{1}X{2}Y{3}.png
+name: Abell 1689
+ra_hr: 13.1916877683333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-403.jpg
+zoom_level: 0.11442323456
+---
+_uuid: c8e7d3e0-0774-4b25-88d2-8459f20ca2a8
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 50.5565619
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-461L{1}X{2}Y{3}.png
+name: Abell 1758
+ra_hr: 13.54626372
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-461.jpg
+zoom_level: 1.013035139072
+---
+_uuid: d045a7c2-c3aa-4255-89b1-a4efebb8d138
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.8665
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-518L{1}X{2}Y{3}.png
+name: M83
+ra_hr: 13.6168666666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-518.jpg
+zoom_level: 0.7287914496
+---
+_uuid: fdbff3ce-5b79-4b0a-8bd3-edc3a1153e95
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -63.559493
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-535L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 13.36289038
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-535.jpg
+zoom_level: 1.5176962048
+---
+_uuid: 188e735c-ef2e-4bf9-ae46-00317d16ddcc
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 26.5958113
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-559L{1}X{2}Y{3}.png
+name: Abell 1795
+ra_hr: 13.81447376
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-559.jpg
+zoom_level: 0.515678486528
+---
+_uuid: 3bdd1cb2-a304-4793-b3fd-586615783f31
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.0188596
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-561L{1}X{2}Y{3}.png
+name: Centaurus A
+ra_hr: 13.4243286
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-561.jpg
+zoom_level: 1.2713283584
+---
+_uuid: e1302601-4d74-41f4-970c-7e36629a2a5d
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.2134616
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-570L{1}X{2}Y{3}.png
+name: Whirlpool Galaxy
+ra_hr: 13.4978857066667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-570.jpg
+zoom_level: 0.728123441152
+---
+_uuid: 9d6d0312-3140-4902-aa18-9d054e897748
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.2134616
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-570aL{1}X{2}Y{3}.png
+name: Whirlpool Galaxy
+ra_hr: 13.4978857066667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-570a.jpg
+zoom_level: 0.728123441152
+---
+_uuid: 870685aa-bc4c-4ba8-b8c9-c8e70e23900b
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 47.2134616
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-587aL{1}X{2}Y{3}.png
+name: M51
+ra_hr: 13.4978857066667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-587a.jpg
+zoom_level: 0.728123441152
+---
+_uuid: e2c31670-1094-4b49-8e06-ea2e273bf59d
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 62.5191122
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-593fL{1}X{2}Y{3}.png
+name: ZwCl 1358+62
+ra_hr: 13.99749618
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-593f.jpg
+zoom_level: 0.22027517952
+---
+_uuid: 13f7a422-fa14-4ca2-86ff-0e27a33c9309
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -11.7526049
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-626cL{1}X{2}Y{3}.png
+name: RXJ 1347.5-1145
+ra_hr: 13.7918373933333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-626c.jpg
+zoom_level: 0.167788003328
+---
+_uuid: e90c87d4-bd99-474a-b8ca-5b7a91a1e495
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.0188596
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-641L{1}X{2}Y{3}.png
+name: NGC 5128
+ra_hr: 13.4243286
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-641.jpg
+zoom_level: 1.45087401814551
+---
+_uuid: e9bc0039-7033-473e-91d6-31aefaaf5848
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.0127723
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-66L{1}X{2}Y{3}.png
+name: Centaurus A Jet
+ra_hr: 13.42514068
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-66.jpg
+zoom_level: 0.10825261056
+---
+_uuid: 8bd836c2-cd7b-46b4-9df3-e294b362490a
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -29.8628314
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-71L{1}X{2}Y{3}.png
+name: M83
+ra_hr: 13.6164152
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-71.jpg
+zoom_level: 0.782652727296

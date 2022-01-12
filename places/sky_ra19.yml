@@ -227,3 +227,113 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Dumbbell Nebula
 ra_hr: 19.9925
 zoom_level: 4.0
+---
+_uuid: 629b8606-69a4-4151-a623-fdb37bb3679b
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 40.7336755
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-190L{1}X{2}Y{3}.png
+name: Cygnus A
+ra_hr: 19.9911687466667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-190.jpg
+zoom_level: 0.195666624269531
+---
+_uuid: 0958166c-60cb-4ffc-97c5-9ccc20b14148
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 30.5162847
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-202L{1}X{2}Y{3}.png
+name: BD+30-3639
+ra_hr: 19.5791877866667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-202.jpg
+zoom_level: 0.0855724867584
+---
+_uuid: 2dbfaee7-8e09-4446-ae31-405fd85ef8aa
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -36.97373199
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-370L{1}X{2}Y{3}.png
+name: Coronet Cluster
+ra_hr: 19.0291951466667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-370.jpg
+zoom_level: 1.38962801869455
+---
+_uuid: 3a4aa277-2c08-495a-8ef0-b4448b2bf8e1
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 11.3000611
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-421L{1}X{2}Y{3}.png
+name: GRS 1915+105
+ra_hr: 19.2290568066667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-421.jpg
+zoom_level: 25.8151636247273
+---
+_uuid: 32125dda-6614-458d-a103-890cfb591a8e
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 18.8701168
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-449L{1}X{2}Y{3}.png
+name: G54.1+0.3
+ra_hr: 19.5080344
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-449.jpg
+zoom_level: 0.249152290816
+---
+_uuid: abb5a1a3-c2ac-4b53-a39f-2e62c9b8f2bc
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 50.2415984
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-455L{1}X{2}Y{3}.png
+name: CH Cyg
+ra_hr: 19.4092172733333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-455.jpg
+zoom_level: 0.9076298612736
+---
+_uuid: a4f51693-38ce-43f1-b22d-28a2528c9dea
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 11.300081423
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-472L{1}X{2}Y{3}.png
+name: GRS 1915+105
+ra_hr: 19.2290183843333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-472.jpg
+zoom_level: 25.89995302912
+---
+_uuid: 8d99034d-b877-4e0c-a4db-ef349e68b3f0
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 9.0999328
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-533L{1}X{2}Y{3}.png
+name: W49B
+ra_hr: 19.18552636
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-533.jpg
+zoom_level: 0.643547316224
+---
+_uuid: e868d8b7-679c-4cf9-b6be-a6f670793915
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 7.1389306
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-554bL{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 19.1262429066667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-554b.jpg
+zoom_level: 1.99616856064
+---
+_uuid: b86f9aea-cd0e-4574-8187-e9c5dc803c90
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 40.7344996
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-587dL{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 19.9911432533333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-587d.jpg
+zoom_level: 0.205425573888

@@ -94,3 +94,124 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: NGC 891
 ra_hr: 2.3758333333333335
 zoom_level: 2.331666666666667
+---
+_uuid: 70968441-b112-4539-b364-ca04c1432a6a
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 42.34679031
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-131L{1}X{2}Y{3}.png
+name: Hot Intergalactic Gas
+ra_hr: 2.37290674866667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-131.jpg
+zoom_level: 0.59379998613886
+---
+_uuid: c59f62c4-2abf-4e5c-9364-8046caa1f60b
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 64.8281129
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-169L{1}X{2}Y{3}.png
+name: 3C58
+ra_hr: 2.09386078
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-169.jpg
+zoom_level: 0.0271394832384
+---
+_uuid: 29fdaa6f-cd16-4729-9272-4ea6afe79317
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 6.03848267
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-319L{1}X{2}Y{3}.png
+name: 3C 75 in Abell 400
+ra_hr: 2.9621109
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-319.jpg
+zoom_level: 1.60719978496
+---
+_uuid: 6290bd4a-d751-4b05-a0c0-3a705a78bc9f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 62.097933
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-339L{1}X{2}Y{3}.png
+name: W3 Main
+ra_hr: 2.42725013333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-339.jpg
+zoom_level: 1.1799191552
+---
+_uuid: 4f804f6c-892c-484b-897d-b4204b27a84b
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -1.26950725417
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-385L{1}X{2}Y{3}.png
+name: NGC 1132
+ra_hr: 2.88119150868667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-385.jpg
+zoom_level: 0.18691735552
+---
+_uuid: a7ede2db-39ee-4deb-a460-6f1c195cd9a8
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -4.7017422
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-437L{1}X{2}Y{3}.png
+name: JKCS041
+ra_hr: 2.44588766
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-437.jpg
+zoom_level: 0.4878761984
+---
+_uuid: 9b6abf7a-db7c-43b0-922c-c7fc6c1227df
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.0133298
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-448L{1}X{2}Y{3}.png
+name: NGC 1068
+ra_hr: 2.71132454
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-448.jpg
+zoom_level: 0.0903981858816
+---
+_uuid: ee68b047-f040-45e1-894a-b7ba0f4e361b
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -3.528891
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-504L{1}X{2}Y{3}.png
+name: Abell 383
+ra_hr: 2.80070426666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-504.jpg
+zoom_level: 0.550676627456
+---
+_uuid: ed1b43db-aecd-4282-ac5d-f627cc4acc84
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.7901362
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-528L{1}X{2}Y{3}.png
+name: NGC 922
+ra_hr: 2.41785235333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-528.jpg
+zoom_level: 0.1255046578176
+---
+_uuid: 6b06b4d8-6b19-4859-a3de-72a536ca2afe
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -1.5801994
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-593dL{1}X{2}Y{3}.png
+name: Abell 370
+ra_hr: 2.66429274
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-593d.jpg
+zoom_level: 0.242802671616
+---
+_uuid: 8c43302b-d14e-44e9-80c8-6e13f9570016
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -0.0136389
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-92L{1}X{2}Y{3}.png
+name: NGC 1068
+ra_hr: 2.71127905333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-92.jpg
+zoom_level: 0.0663689306171893

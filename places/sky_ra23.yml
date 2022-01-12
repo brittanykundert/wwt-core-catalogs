@@ -282,3 +282,167 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: NGC 7789
 ra_hr: 23.9566666666667
 zoom_level: 20.705
+---
+_uuid: 3f8101b6-3cda-4ad5-aa10-47ed03803d12
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.1245552
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-108L{1}X{2}Y{3}.png
+name: Abell 2597
+ra_hr: 23.4221832533333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-108.jpg
+zoom_level: 0.219988164608
+---
+_uuid: fa77a7af-e4ab-45fe-bb99-be1152ea5e37
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 58.8144208
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-133L{1}X{2}Y{3}.png
+name: Cassiopeia A
+ra_hr: 23.3908268666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-133.jpg
+zoom_level: 0.473170714624
+---
+_uuid: 54233786-dc34-4f1c-9a40-a994e4211af6
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 58.8149642
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-240L{1}X{2}Y{3}.png
+name: Cassiopeia A
+ra_hr: 23.3912464466667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-240.jpg
+zoom_level: 0.830866702336
+---
+_uuid: 521a6af8-72f9-418c-a157-b4e7d2271259
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 58.8140448
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-285L{1}X{2}Y{3}.png
+name: Cassiopeia A
+ra_hr: 23.3909531066667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-285.jpg
+zoom_level: 0.9411627319296
+---
+_uuid: fef2bbbb-3d7b-4bb4-964e-d272cd4a0fb6
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 58.81472297816
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-295L{1}X{2}Y{3}.png
+name: Cassiopeia A
+ra_hr: 23.3908650999707
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-295.jpg
+zoom_level: 0.44561424384
+---
+_uuid: 828fe617-2f17-4a2c-b816-1ab0b98d51dd
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 58.840324072004
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-337L{1}X{2}Y{3}.png
+name: Cas A
+ra_hr: 23.394562443066
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-337.jpg
+zoom_level: 0.770479547313357
+---
+_uuid: 1b3545b7-37bd-43e9-bbe0-ca520108ccce
+classification: ''
+constellation: ''
+data_set_type: Sky
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-435L{1}X{2}Y{3}.png
+name: Milky Way
+ra_hr: -0.007222222222
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-435.jpg
+zoom_level: 2.39585755136
+---
+_uuid: d4187c86-f7d9-498c-97ac-d3265e0785ab
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 58.8119786
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-438L{1}X{2}Y{3}.png
+name: Cas A
+ra_hr: 23.39116274
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-438.jpg
+zoom_level: 0.222109696
+---
+_uuid: 4090f26c-36c1-40c5-90f1-377009ca2f7f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -32.5867229
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-457L{1}X{2}Y{3}.png
+name: NGC 7793
+ra_hr: 23.9647272333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-457.jpg
+zoom_level: 0.656869982208
+---
+_uuid: 916effd3-6c1e-4ac0-b0ae-f3d7eee1149a
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -2.2267297
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-463L{1}X{2}Y{3}.png
+name: BP Psc
+ra_hr: 23.37354912
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-463.jpg
+zoom_level: 1.03486538621673
+---
+_uuid: 8a8cc01c-8769-47ca-a7d5-e8a6f85cabc0
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 58.814723
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-476L{1}X{2}Y{3}.png
+name: Cassiopeia A
+ra_hr: 23.3908651
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-476.jpg
+zoom_level: 0.67402571776
+---
+_uuid: 5ceb2acd-daf5-41f0-8b0f-61c19e847cba
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 58.8172111
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-505L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 23.39051818
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-505.jpg
+zoom_level: 0.918502218309076
+---
+_uuid: 99672a5f-74a5-4bf0-8a71-241e4b13c9f9
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -42.78759845
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-519L{1}X{2}Y{3}.png
+name: Phoenix Cluster
+ra_hr: 23.7316785866667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-519.jpg
+zoom_level: 0.765601264670659
+---
+_uuid: 2015a621-b293-4ebc-bae4-ddb083f87041
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -12.124055
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-591L{1}X{2}Y{3}.png
+name: Abell 2597
+ra_hr: 23.4221498666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-591.jpg
+zoom_level: 0.1565549903872
+---
+_uuid: f2c1d045-c0a4-4b3f-8b00-b817508db05c
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -42.7201768
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-609L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 23.74553974
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-609.jpg
+zoom_level: 0.0893495361536

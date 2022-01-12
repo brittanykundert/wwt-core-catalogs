@@ -30,3 +30,135 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Bubbly Little Star;HH 46/47
 ra_hr: 8.42833333333333
 zoom_level: 1.0
+---
+_uuid: 8f469d46-c6ba-4ecc-a44a-1cdc67452d3b
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -47.5080273
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-142L{1}X{2}Y{3}.png
+name: RCW 38
+ra_hr: 8.98424862666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-142.jpg
+zoom_level: 0.7577931776
+---
+_uuid: c32fb01f-c2c6-40be-b61e-6eec85527ad2
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -45.1935034
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-164L{1}X{2}Y{3}.png
+name: Vela Pulsar (Wide-Field View)
+ra_hr: 8.58834284
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-164.jpg
+zoom_level: 2.86089494528
+---
+_uuid: a17221af-e872-45d1-9058-b4065473deb6
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -45.1803109
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-201L{1}X{2}Y{3}.png
+name: Vela Pulsar
+ra_hr: 8.58902818666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-201.jpg
+zoom_level: 0.383979012096
+---
+_uuid: 44e1c30a-d14f-42c4-bcf1-7e8994974b5f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -7.5124985
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-470L{1}X{2}Y{3}.png
+name: Abell 644
+ra_hr: 8.29045858666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-470.jpg
+zoom_level: 1.40640760004877
+---
+_uuid: 19a5406e-286e-4b0c-825f-55eb4a15ae09
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -26.4094457
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-473L{1}X{2}Y{3}.png
+name: Henize 2-10
+ra_hr: 8.60422348
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-473.jpg
+zoom_level: 0.0316996550656
+---
+_uuid: 612a074c-a7f7-4782-a00a-928c24148485
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 17.88015904148
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-526L{1}X{2}Y{3}.png
+name: Abell 30
+ra_hr: 8.781249159984
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-526.jpg
+zoom_level: 0.26993754112
+---
+_uuid: b00c50f0-63ce-4cdb-80e4-030a80d8859d
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -45.176139
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-531L{1}X{2}Y{3}.png
+name: Vela Pulsar
+ra_hr: 8.58820672666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-531.jpg
+zoom_level: 0.341205532672
+---
+_uuid: 5779b9fc-ef31-4946-b400-041d2eea539f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 29.8167159
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-540L{1}X{2}Y{3}.png
+name: 4C+29.30
+ra_hr: 8.66732120666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-540.jpg
+zoom_level: 0.0572051898368
+---
+_uuid: ff6f866d-366b-40ae-b693-8c327d5c47ac
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -43.0076723
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-577L{1}X{2}Y{3}.png
+name: Puppis A
+ra_hr: 8.37038515333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-577.jpg
+zoom_level: 6.49738289152
+---
+_uuid: d2bb7cfc-ca15-407a-9131-aa683f1d5594
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -47.5003611
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-581aL{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 8.98730200666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-581a.jpg
+zoom_level: 2.00966684672
+---
+_uuid: 59856c0d-5b83-4108-83b2-28cc92d20a32
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 65.8653523
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-640dL{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 8.51606009333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-640d.jpg
+zoom_level: 1.367419584512
+---
+_uuid: 365181d7-3664-4428-bb2e-53dc58199ffc
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -17.5268228
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-646L{1}X{2}Y{3}.png
+name: Abell 3411
+ra_hr: 8.69953482666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-646.jpg
+zoom_level: 1.33837185024

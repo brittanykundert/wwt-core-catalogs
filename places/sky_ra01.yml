@@ -169,3 +169,124 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Messier 103;M103
 ra_hr: 1.55805555555556
 zoom_level: 12.2066666666667
+---
+_uuid: e58de1cd-93ef-45ae-9e2c-c9018ef80d9e
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.0313761
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-209L{1}X{2}Y{3}.png
+name: E0102-72.3
+ra_hr: 1.06723740666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-209.jpg
+zoom_level: 0.1041102585856
+---
+_uuid: 2c1237e5-d6ca-4c17-92e2-95281c07291d
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.031088
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-217L{1}X{2}Y{3}.png
+name: E0102-72.3
+ra_hr: 1.06715388
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-217.jpg
+zoom_level: 0.1247126192128
+---
+_uuid: 81b47ffd-360b-4c35-837f-7ac3fdeba00e
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.8334294223
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-427L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 1.21073612887333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-427.jpg
+zoom_level: 0.61455056896
+---
+_uuid: 2f2aee86-d8d0-4f75-aa23-9d4c4b05a554
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.0322818
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-431L{1}X{2}Y{3}.png
+name: 1E 0102.2-7219
+ra_hr: 1.06721654
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-431.jpg
+zoom_level: 0.216174788608
+---
+_uuid: 64314825-092c-4925-a492-233d5f65f533
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -73.5513431
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-498L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 1.4812069
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-498.jpg
+zoom_level: 1.083766964224
+---
+_uuid: 6879f9dc-3e64-4c21-8d74-badd1a27c051
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -49.2609679
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-499L{1}X{2}Y{3}.png
+name: El Gordo
+ra_hr: 1.04870225333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-499.jpg
+zoom_level: 0.40580292608
+---
+_uuid: 21367dc1-cece-4f76-a824-12bbe26181f8
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -73.5590771
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-537L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 1.49141987333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-537.jpg
+zoom_level: 0.288164511744
+---
+_uuid: 683d08a7-dc95-4ea3-aa5a-b0505fc09975
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -49.2550899
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-565L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 1.04870422
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-565.jpg
+zoom_level: 0.403483066368
+---
+_uuid: 11290803-631e-4cf5-8a49-c4aaf7c3f0a7
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -28.8954771
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-593bL{1}X{2}Y{3}.png
+name: MACS J0152.5-2852
+ra_hr: 1.87619704666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-593b.jpg
+zoom_level: 0.232704802816
+---
+_uuid: c5bd942b-6a44-4034-ac71-223f3c6bc56f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 32.4124951
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-640bL{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 1.12359732666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-640b.jpg
+zoom_level: 0.0307710754816
+---
+_uuid: df2dd07f-4ba2-4744-ad7e-69d8171fb2f1
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -72.3858252
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-80L{1}X{2}Y{3}.png
+name: SNR 0103-72.6
+ra_hr: 1.08429454666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-80.jpg
+zoom_level: 0.489864757248

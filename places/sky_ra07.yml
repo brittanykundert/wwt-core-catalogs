@@ -216,3 +216,91 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Thor's Helmet
 ra_hr: 7.3086111111111105
 zoom_level: 3.746666666666667
+---
+_uuid: 2acdc742-9e7b-42c3-ba99-24dee14cf538
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 74.2481045956
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-336L{1}X{2}Y{3}.png
+name: MS 0735.6+7421
+ra_hr: 7.69509988886667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-336.jpg
+zoom_level: 0.17010376704
+---
+_uuid: 082af0cc-aea1-4644-a387-49e82c54caed
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 37.8879321
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-466L{1}X{2}Y{3}.png
+name: 3C186
+ra_hr: 7.73800082666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-466.jpg
+zoom_level: 0.350976
+---
+_uuid: 74bc7889-a030-4276-b33e-fa31bcbc6def
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 20.9119798
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-544L{1}X{2}Y{3}.png
+name: NGC 2392
+ra_hr: 7.48632854
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-544.jpg
+zoom_level: 0.0762477330432
+---
+_uuid: baa3cddc-677e-4f8a-8866-2f74bf22b7aa
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 85.7554412
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-590L{1}X{2}Y{3}.png
+name: NGC 2276
+ra_hr: 7.44928605333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-590.jpg
+zoom_level: 0.343998840832
+---
+_uuid: 60122ee2-b4ff-45fd-b7c7-01c5f93d7a0b
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 37.7519308
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-593cL{1}X{2}Y{3}.png
+name: MACS J0717.5+3745
+ra_hr: 7.29279247333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-593c.jpg
+zoom_level: 0.3443372032
+---
+_uuid: 57a2695c-9549-4f60-92dc-92f86f4100c9
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 74.2481045956
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-610dL{1}X{2}Y{3}.png
+name: MS 0735.6+7421
+ra_hr: 7.69509988886667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-610d.jpg
+zoom_level: 0.11340251136
+---
+_uuid: 6cd4c6bd-08fe-4a86-98bc-ca776e5f1e57
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 40.831235
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-621L{1}X{2}Y{3}.png
+name: B3 0727+409
+ra_hr: 7.5141424
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-621.jpg
+zoom_level: 0.761291882496
+---
+_uuid: 8f4450e7-3dd1-4ba9-b2b8-12c89de6d936
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 37.7481384
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-622bL{1}X{2}Y{3}.png
+name: MACS J0717.5+3745
+ra_hr: 7.29246882
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-622b.jpg
+zoom_level: 0.406363930624

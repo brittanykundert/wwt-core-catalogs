@@ -137,3 +137,91 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: California Nebula
 ra_hr: 4.00055555555556
 zoom_level: 43.2
+---
+_uuid: ebda6996-dc0b-4fe1-b68a-c78e0b0ad82e
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -55.7799429
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-126L{1}X{2}Y{3}.png
+name: NGC 1553
+ra_hr: 4.26957882666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-126.jpg
+zoom_level: 0.475896458186497
+---
+_uuid: b109645c-9226-40b9-ac5c-09c56f0dd56c
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 64.83029972437
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-130L{1}X{2}Y{3}.png
+name: NGC 1569
+ra_hr: 4.51533214830267
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-130.jpg
+zoom_level: 0.589975552
+---
+_uuid: c908555f-75f1-4edf-94cf-816674a46163
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 2.896944444
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-368L{1}X{2}Y{3}.png
+name: Abell 520
+ra_hr: 4.905277778
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-368.jpg
+zoom_level: 0.84594935185408
+---
+_uuid: 13591736-bd73-4732-be83-ab8698f8dce5
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -10.2501803
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-406L{1}X{2}Y{3}.png
+name: Abell 521
+ra_hr: 4.90193620666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-406.jpg
+zoom_level: 1.61254383616
+---
+_uuid: bd1de336-c866-4b88-91ca-3e15d61b03e3
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 2.9148898
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-503L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 4.90290414
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-503.jpg
+zoom_level: 0.640259571712
+---
+_uuid: 2c3d72a0-145e-41af-b836-cd375e7c8197
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -69.73314012324
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-532L{1}X{2}Y{3}.png
+name: DEM L50
+ra_hr: 4.915116785074
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-532.jpg
+zoom_level: 1.55476508672
+---
+_uuid: 3d2d73d6-0630-4a74-a3ea-7b95f358c676
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.0745467
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-593aL{1}X{2}Y{3}.png
+name: MACS J0416.1–2403
+ra_hr: 4.26908925333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-593a.jpg
+zoom_level: 0.245886353408
+---
+_uuid: 37878806-a1ae-4442-bb3a-af1b1f96926d
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -24.074654
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-622aL{1}X{2}Y{3}.png
+name: MACS J0416.1-2403
+ra_hr: 4.26909288
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-622a.jpg
+zoom_level: 0.255819005952

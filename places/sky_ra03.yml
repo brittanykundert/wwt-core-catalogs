@@ -305,3 +305,168 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Pleiades
 ra_hr: 3.783333333333333
 zoom_level: 23.459999999999997
+---
+_uuid: e8fffec0-ce3a-4038-ab7a-ada0875780a4
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.8172681
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-153L{1}X{2}Y{3}.png
+name: 'Chandra Deep Field South '
+ra_hr: 3.54092819333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-153.jpg
+zoom_level: 2.21993197568
+---
+_uuid: 9874ae1a-22fc-469c-ba57-5ee9286bcce5
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.5114665
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-200L{1}X{2}Y{3}.png
+name: Perseus A
+ra_hr: 3.33000491333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-200.jpg
+zoom_level: 0.38602063872
+---
+_uuid: ceab6478-3aa1-41cc-b090-8b5dee7c5d92
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.5609016
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-308L{1}X{2}Y{3}.png
+name: Perseus Cluster
+ra_hr: 3.32828242
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-308.jpg
+zoom_level: 0.37211758592
+---
+_uuid: 0e1001d2-5c7b-4610-9046-5426f2c38925
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -36.141181
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-352L{1}X{2}Y{3}.png
+name: NGC 1365
+ra_hr: 3.56009033333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-352.jpg
+zoom_level: 0.7424999424
+---
+_uuid: 397655f4-8b59-4f73-9ea1-6760950afaa9
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.4477434
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-443L{1}X{2}Y{3}.png
+name: NGC 1399
+ra_hr: 3.64193188
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-443.jpg
+zoom_level: 0.2320171008
+---
+_uuid: d8ef9fdb-f785-41af-bb7b-bfe4cd3639ad
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 1.3143841
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-474L{1}X{2}Y{3}.png
+name: Arp 147
+ra_hr: 3.18863834666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-474.jpg
+zoom_level: 0.0680777465856
+---
+_uuid: 8461475c-4078-4e8b-865a-9c9ec39fd13c
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.7828073
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-484L{1}X{2}Y{3}.png
+name: Chandra Deep Field South
+ra_hr: 3.54412988666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-484.jpg
+zoom_level: 0.166325247363728
+---
+_uuid: 6f84278a-8539-42a1-92e6-55ec76258068
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 32.0168478
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-486L{1}X{2}Y{3}.png
+name: PSR J0357+3205
+ra_hr: 3.96831778
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-486.jpg
+zoom_level: 1.33375860736
+---
+_uuid: e5cfffc1-5ceb-4999-b7ad-4d5a50b1c651
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -20.5758602
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-546L{1}X{2}Y{3}.png
+name: NGC 1232
+ra_hr: 3.16362706
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-546.jpg
+zoom_level: 0.516740317184
+---
+_uuid: ef17e870-3b56-44d9-aeee-96df03dd2474
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -35.4499543
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-569L{1}X{2}Y{3}.png
+name: NGC 1399
+ra_hr: 3.64145578666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-569.jpg
+zoom_level: 0.491741134848
+---
+_uuid: 9fb71dc4-1c01-4f9e-ba7e-74176e2efb0f
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.511793
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-571L{1}X{2}Y{3}.png
+name: Perseus A
+ra_hr: 3.33002382666667
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-571.jpg
+zoom_level: 0.828658663424
+---
+_uuid: 15900130-de3c-4ebb-85fd-2fa779432ccc
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 41.5118326
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-582aL{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 3.33003078
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-582a.jpg
+zoom_level: 1.503012585472
+---
+_uuid: 5453c92e-1ad9-4a8f-b789-b53af1726fec
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 43.9064348
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-592L{1}X{2}Y{3}.png
+name: Image File
+ra_hr: 3.52065484
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-592.jpg
+zoom_level: 0.261611126784
+---
+_uuid: a90e5c24-3570-4094-9503-84d7fae6c68a
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: 31.3485116
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-601L{1}X{2}Y{3}.png
+name: NGC 1333
+ra_hr: 3.48388415333333
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-601.jpg
+zoom_level: 1.36700780544
+---
+_uuid: f08f9bc5-c492-4801-a019-4f99379e70ae
+classification: ''
+constellation: ''
+data_set_type: Sky
+dec_deg: -27.8097471
+foreground_image_set_url: https://wwtfiles.blob.core.windows.net/vamp/Chandra-647L{1}X{2}Y{3}.png
+name: Chandra Deep Field South
+ra_hr: 3.5411353
+thumbnail: https://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-647.jpg
+zoom_level: 1.286330810368
