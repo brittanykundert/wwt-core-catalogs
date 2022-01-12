@@ -2,100 +2,24 @@ browseable: true
 children:
 - browseable: true
   children:
-  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jsc2007e045375_6
-  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jsc2007e045376_6
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001302{Q}?g=182
-  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jsc2007e045377_6
-  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jsc2007e045379_6
-  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jsc2007e045380_6
-  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jsc2007e045384_6
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001303{Q}?g=182
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jsc2007e045375_6 # Apollo 11
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jsc2007e045376_6 # Apollo 12
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001302{Q}?g=182 # Apollo 12b
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jsc2007e045377_6 # Apollo 14
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jsc2007e045379_6 # Apollo 15
+  - imageset http://data1.wwtassets.org/packages/2021/07_apollo15/a15_stop9a_pano/{1}/{3}/{3}_{2}.png # Apollo 15 stop 9A
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jsc2007e045380_6 # Apollo 16 west
+  - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jsc2007e045384_6 # Apollo 17
+  - imageset http://data1.wwtassets.org/packages/2021/07_apollo17/a17_station5/{1}/{3}/{3}_{2}.png # Apollo 17 station 5
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001303{Q}?g=182 # Apollo 17 shorty
   group: View
   name: Apollo
   searchable: false
   thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=apollo12landingsite
   type: Earth
-- browseable: true
-  children:
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002101{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002020{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002023{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002100{Q}?g=182
-  group: View
-  name: Pathfinder
-  searchable: false
-  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia01466
-  type: Earth
-- browseable: true
-  children:
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002021{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002022{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002102{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002103{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002110{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002213{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002211{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002212{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002122{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002123{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002130{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002113{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002120{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002001{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002002{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002003{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001222{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002202{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002132{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001332{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001333{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002223{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002230{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002231{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001313{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001320{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001321{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002012{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002013{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002131{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002133{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002112{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002111{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002010{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001312{Q}?g=182
-  group: View
-  name: Spirit
-  searchable: false
-  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=spiritmarvinpatch
-  type: Earth
-- browseable: true
-  children:
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001330{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001331{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001213{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002222{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002210{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001323{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001322{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002030{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002203{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002121{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001310{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001311{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002011{Q}?g=182
-  group: View
-  name: Opportunity
-  searchable: false
-  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=opportunitydaffypatch
-  type: Earth
-- browseable: true
-  children:
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002031{Q}?g=182
-  group: View
-  name: Phoenix
-  searchable: false
-  thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=phoenixpatch
-  type: Earth
+
+- imageset http://data1.wwtassets.org/packages/2021/09_eso/potw2137b/{1}/{3}/{3}_{2}.png # ESO North Meets South
+
 - browseable: true
   children:
   - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},MK_pano_3
@@ -108,6 +32,7 @@ children:
   searchable: false
   thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=maunakea
   type: Earth
+
 - browseable: true
   children:
   - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},msr99lobby1
@@ -117,8 +42,9 @@ children:
   searchable: false
   thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=msr99lobby2
   type: Earth
+
 group: Explorer
 name: Panoramas
 searchable: false
-thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pano
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jsc2007e045376
 type: Panorama
