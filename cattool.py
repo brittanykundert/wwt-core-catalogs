@@ -377,7 +377,10 @@ class PlaceDatabase(object):
 
             lat = info.get("latitude")
             if lat is not None:
-                k += [lat, info["longitude"]]
+                k.append(lat)
+                lon = info.get("longitude")  # there is a busted dataset like this
+                if lon is not None:
+                    k.append(lon)
 
             k += [info["name"]]
             return tuple(k)
