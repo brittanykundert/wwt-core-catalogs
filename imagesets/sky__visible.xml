@@ -3823,6 +3823,52 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="2.1705386350277722"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="271.1564023048021"
+    CenterY="-24.412850966507968"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-3.500000000000002"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000113321{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn026</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3449403007041045"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="194.18279867524518"
+    CenterY="21.688981146655635"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="1.400000000000003"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000120011{Q}?g=138"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn038</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -7351,6 +7397,29 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.220216680056416"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="323.867554173434"
+    CenterY="31.702170501174"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Abell 78"
+    Projection="Tan"
+    Rotation="126.33"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1076767149"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/2553143948/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1076767149</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="1.0225299891035"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -7374,6 +7443,52 @@
 This composite shows a classic example of a mixed-morphology supernova remnant known as W28. The background stars and fine structure are seen in optical light (grey and white) by CTIO. The radio (orange) data are from the VLA, while the wide-field X-rays (blue) come from the ROSAT satellite. The white-bordered region of the center from Chandra (low-energy X-rays are red, the medium are green, and the high range is blue) shows the shape and extent of the high-energy emission in that region. By studying W28 and others like it, astronomers hope to better understand the complexities involved when a star explodes in a crowded neighborhood.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2008/w28/</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1129358135</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.13177763712908"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="94.2837748818337"
+    CenterY="22.5596775057159"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Jellyfish Nebula (H-Alpha);IC 443"
+    Projection="Tan"
+    Rotation="-4.14459999999999"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1156276697"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/377266975/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1156276697</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.13151647347263"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="327.637291602678"
+    CenterY="47.4502995230052"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Cocoon Nebula;B168"
+    Projection="Tan"
+    Rotation="-2.64"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1383150283"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://flickr.com/photos/djmccrady/501777307/in/pool-views400</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1383150283</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -7455,6 +7570,75 @@ The supernova remnant (SNR) N132D is the brightest in the Large Magellanic Cloud
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="2.13143255070119"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="359.341674284555"
+    CenterY="56.7327739309928"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 7789"
+    Projection="Tan"
+    Rotation="-178.46"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1469208079"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady. </Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/1369966264/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1469208079</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.12857869417021"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="14.7350444964528"
+    CenterY="60.9097425742429"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Gamma Cassiopiea Nebula;IC 59;IC 63"
+    Projection="Tan"
+    Rotation="183.34"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1476400319"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/1134579072/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1476400319</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.13653796102969"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="23.45009012404"
+    CenterY="30.6363799009677"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Pinwheel Galaxy;M33;Messier 33"
+    Projection="Tan"
+    Rotation="0.579999999999999"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1587164739"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/276922613/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1587164739</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.0157328605256775"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -7476,6 +7660,75 @@ The supernova remnant (SNR) N132D is the brightest in the Large Magellanic Cloud
 </Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2008/dgtau/more.html#dgtau_xray</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1614797484</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.13704347826087"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="92.0559429934228"
+    CenterY="24.2413935620873"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M35 and NGC 2158;Messier 35;NGC 2158;IC 2157;NGC 2168"
+    Projection="Tan"
+    Rotation="0.66"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1669747837"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://flickr.com/photos/djmccrady/2277549886/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1669747837</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.16103315073366"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="324.847679210162"
+    CenterY="57.8853950613742"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="IC 1396;Elephant's Trunk"
+    Projection="Tan"
+    Rotation="183.26"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1680635435"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/216092741/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1680635435</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.13357103064067"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="97.9628"
+    CenterY="4.95717"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Rosette Nebula;NGC 2239;NGC 2244;NGC 2252"
+    Projection="Tan"
+    Rotation="0"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1716920788"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady. </Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/3064492448/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1716920788</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -7504,6 +7757,29 @@ The supernova remnant (SNR) N132D is the brightest in the Large Magellanic Cloud
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="2.16979800957884"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="10.6533797571246"
+    CenterY="41.2931783082538"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Andromeda Galaxy;M31;Messier 31;NGC 206;M32;M110"
+    Projection="Tan"
+    Rotation="165.84"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1817089537"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/317214228/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1817089537</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.0229607071650611"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -7525,6 +7801,29 @@ The supernova remnant (SNR) N132D is the brightest in the Large Magellanic Cloud
     <Credits> NASA/CXC/Rutgers/J.Warren, J.Hughes. A Chandra X-ray Observatory image of the supernova remnant SNR 0509-67.5 in the Large Magellanic Cloud. The lowest energy X-rays are shown in red, the intermediate energies are green and the highest energies are blue. In 2004, scientists used Chandra to show that SNR 0509-67.5 was likely caused by a Type Ia supernova, using an analysis of the elements, such as silicon and iron, that were detected. A Type Ia is thought to result from a white dwarf star in a binary system that reaches a critical mass and explodes. In the new X-ray study of SNR 0509-67.5, spectra from Chandra and ESA's XMM-Newton Observatory were used to calculate the amount of energy involved in the original explosion, using an analysis of the supernova remnant and state-of-the-art explosion models.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2008/snr0509/</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=182605652</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.1362673949007"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="78.9722013609123"
+    CenterY="34.070268243263"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Flaming Star Nebula;IC 405"
+    Projection="Tan"
+    Rotation="178.92"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1836041805"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/2932122866/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1836041805</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -7604,6 +7903,75 @@ The supernova remnant (SNR) N132D is the brightest in the Large Magellanic Cloud
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="2.13095123184943"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="13.2644613665265"
+    CenterY="56.6647022652615"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 281;Pacman Nebula"
+    Projection="Tan"
+    Rotation="1.78"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1923770207"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady. </Credits>
+    <CreditsUrl>http://flickr.com/photos/djmccrady/1358348312/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1923770207</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.06444906444906"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="23.3667481226686"
+    CenterY="60.6451739759121"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Messier 103;M103"
+    Projection="Tan"
+    Rotation="182.100000000001"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1990763475"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/1572115628/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1990763475</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.13740993253622"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="84.978500141331"
+    CenterY="-2.41890673087152"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Horsehead Nebula"
+    Projection="Tan"
+    Rotation="269.94"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1999229395"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/359233471/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1999229395</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="1.02466106813601"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -7628,6 +7996,29 @@ The supernova remnant (SNR) N132D is the brightest in the Large Magellanic Cloud
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="2.17009816219783"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="43.8124035866481"
+    CenterY="60.3441128060696"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Embryo Nebula;IC 1848"
+    Projection="Tan"
+    Rotation="2.24"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},2049436223"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/283703108/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=2049436223</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.0566848326740156"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -7649,6 +8040,29 @@ The supernova remnant (SNR) N132D is the brightest in the Large Magellanic Cloud
 This image of Abell 1689 is a composite of data from the Chandra X-ray Observatory (purple) and the Hubble Space Telescope (yellow). Abell 1689 is a massive cluster of galaxies that shows signs of merging activity. The long arcs in the optical image, the largest system of such arcs ever found, are caused by gravitational lensing of the background galaxies by matter in the galaxy cluster. Further studies of this cluster are needed to explain the lack of agreement between mass estimates based on the X-ray data and on the gravitational lensing. </Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2008/a1689/</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=2055390745</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.12747292015633"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="291.6491136781"
+    CenterY="20.187782550327"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Brocchi's Cluster;NGC 6802;Coat Hanger"
+    Projection="Tan"
+    Rotation="1.32"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},2114372846"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/931278250/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=2114372846</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -7677,6 +8091,29 @@ This image of Abell 1689 is a composite of data from the Chandra X-ray Observato
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="2.17045723572071"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="38.3593249648465"
+    CenterY="61.3453255475004"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Heart Nebula;IC 1805;Melotte 15;NGC 896"
+    Projection="Tan"
+    Rotation="85.5599999999998"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},257836772"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/290934728/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=257836772</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.142222225664"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -7699,6 +8136,52 @@ This image of Abell 1689 is a composite of data from the Chandra X-ray Observato
     <Credits>X-ray (NASA/CXC/NCSU/S.Reynolds et al.); Radio (NSF/NRAO/VLA/Cambridge/D.Green et al.) This composite image of the supernova remnant G1.9+0.3 combines the Chandra X-ray Observatory image taken in 2007 (orange) with the Very Large Array radio image taken in 1985 (blue) and 2008 (yellow). The difference in size between the images gives clear evidence for expansion, allowing the age of the remnant and the time since the original supernova explosion (about 140 years) to be estimated. </Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2008/g19/more.html</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=269828725</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.12702134176896"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="60.8386955588947"
+    CenterY="51.3026526460565"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1491;King 7"
+    Projection="Tan"
+    Rotation="1.8"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},324405239"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady. </Credits>
+    <CreditsUrl>http://flickr.com/photos/djmccrady/1390134660/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=324405239</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.25337569499603"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="312.747687259467"
+    CenterY="31.3325990233022"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Veil Nebula;Witch's Broom"
+    Projection="Tan"
+    Rotation="-20.3"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},340925790"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.  </Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/203067429/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=340925790</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -7801,6 +8284,52 @@ This image of Abell 1689 is a composite of data from the Chandra X-ray Observato
     <Credits>NASA/CXC/Wisconsin/D.Pooley et al. On January 9, 2008, NASA's Swift satellite was used to fortuitously observe a very bright X-ray outburst in the spiral galaxy NGC 2770, located 90 million light-years from Earth. In a Nature paper, astronomers show that the properties of the X-ray outburst are consistent with a shock wave bursting through the surface of a massive star that has just collapsed, the first time such an event has been seen. This outburst marked the very early stages of a supernova explosion called SN 2008D.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2008/sn2008d/</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=546176351</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.43990866807611"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="228.948770067181"
+    CenterY="56.3416965965816"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Splinter Galaxy;NGC 5907"
+    Projection="Tan"
+    Rotation="1.44"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},555138467"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady. </Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/2559909816/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=555138467</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.1311662031029"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="99.8298648205187"
+    CenterY="10.0361842416072"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Cone Nebula;NGC 2259;Christmas Tree Cluster;Fox Fur Nebula"
+    Projection="Tan"
+    Rotation="-4.44999999999999"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},6098298"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/372784414/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=6098298</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -7958,6 +8487,75 @@ A composite image of X-ray (orange) and radio (blue) data from NASA’s Chandra 
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="2.13195253505933"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="83.7937163440805"
+    CenterY="-5.33891981804639"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Great Nebula in Orion;Messier 42;M42"
+    Projection="Tan"
+    Rotation="0.52"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},843190889"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady. </Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/2221024093/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=843190889</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.13348298611597"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="60.059404937245"
+    CenterY="36.5765056872439"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="California Nebula"
+    Projection="Tan"
+    Rotation="174.1"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},886211264"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/298297675/in/set-433000/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=886211264</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.13585030570898"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="56.7364863057999"
+    CenterY="24.1204860853152"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M45 - The Pleiades;Pleiades;Messier 45;Subaru"
+    Projection="Tan"
+    Rotation="0.520000000000001"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},891443522"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady. </Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/18369857/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=891443522</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.113786260247485"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -7979,6 +8577,52 @@ A composite image of X-ray (orange) and radio (blue) data from NASA’s Chandra 
 The active galaxy NGC 1275 lies at the center of the cluster of galaxies known as the Perseus Cluster. By combining multi-wavelength images into a single composite, the dynamics of the galaxy are more easily visible. In this composite image, X-rays from Chandra are shown in violet and reveal the presence of a black hole at the center of NGC 1275. Optical data from Hubble is depicted in red, green, and blue, and radio emission in pink traces the jets generated from the central black hole.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2008/perseus/</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=90554641</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.13583285751881"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="149.36208553952"
+    CenterY="69.2510504199092"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M81, M82, NGC 3077, et al;M82;NGC 3077;Messier 81"
+    Projection="Tan"
+    Rotation="-6.79999999999999"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},911211722"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady. </Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/349806604/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=911211722</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.440536114736696"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="271.0601322742"
+    CenterY="-30.052026599932"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 6522 and NGC 6528;NGC 6528"
+    Projection="Tan"
+    Rotation="201.34"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},939547551"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady. </Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/2557936418/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=939547551</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -8005,6 +8649,29 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
 A composite image of data from NASA’s Chandra X-ray Observatory (blue) and Hubble Space Telescope (red and purple) of NGC 6543 shows a phase that Sun-like stars undergo at the end of their lives. Material from the outer layers of the star in the Cat's Eye is flying away at about 4 million miles per hour. A hot core is left behind that eventually collapses to become a white dwarf star. The Chandra data reveal that the central star in NGC 6543 is surrounded by a cloud of multi-million-degree gas.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2008/catseye/</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=962869576</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.12844537651777"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="184.759684140979"
+    CenterY="47.3140041244262"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M106 and Friends;Messier 106;M106;NGC 4248;NGC 4217"
+    Projection="Tan"
+    Rotation="179.56"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},967184262"
+    WidthFactor="2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://flickr.com/photos/djmccrady/2319644068/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=967184262</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -8057,6 +8724,998 @@ A composite image of data from NASA’s Chandra X-ray Observatory (blue) and Hub
 </Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2008/m81/more.html</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=996535480</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.34527429107464647"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="201.3615541607747"
+    CenterY="-42.99659885355572"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-11.499999999999973"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn005"
+    WidthFactor="2"
+  >
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn005</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.34392426793371433"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="328.33639061136444"
+    CenterY="47.26729671158763"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="0.19999999999999998"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn006"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn006</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3488951624501556"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="303.06411566015845"
+    CenterY="38.33623593087686"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="1.4999999999999998"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn008"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn008</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.173746229750241"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="274.6223244312508"
+    CenterY="-13.971996604690277"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-3.3999999999999986"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn009"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn009</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3631151193164218"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="85.38622232420396"
+    CenterY="-1.8598343962385202"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-1.8000000000000003"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn010"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn010</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="5.547091589035967"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="38.070668627202906"
+    CenterY="61.39863173708034"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="1.2999999999999994"
+    Sparse="True"
+    TileLevels="5"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn011"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn011</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.6033667063788851"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="337.42002752637933"
+    CenterY="-20.856449186652096"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Helix Nebula"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="5.799999999999991"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn012"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn012</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="5.5500473828055785"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="324.5764996395632"
+    CenterY="57.56705580643502"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="1.0999999999999999"
+    Sparse="True"
+    TileLevels="5"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn013"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn013</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.35118502434930665"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="56.7238839647634"
+    CenterY="68.09884570528473"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-90.89999999999998"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn014"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn014</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3536531429700215"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="94.45514222100356"
+    CenterY="22.778815847726687"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-2.4"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn015"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn015</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.683911854426696"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="39.01125166995313"
+    CenterY="61.64406339308406"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-186.39999999999986"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn016"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn016</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.34594877791494333"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="93.16179332721144"
+    CenterY="18.010100165318608"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="5.899999999999998"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn017"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn017</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.3326605909925946"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="78.88210262205101"
+    CenterY="34.098348226890394"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="96.5"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn018"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn018</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.35161736261838894"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="322.50292458610517"
+    CenterY="12.17754128997366"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-86.20000000000003"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn019"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn019</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.1656717208849035"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="275.2965481085377"
+    CenterY="-16.08967393924218"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-3.3000000000000003"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn020"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn020</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.1599059708456"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="270.68428380155217"
+    CenterY="-22.997484829765234"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-1.8000000000000007"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn021"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn021</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="5.516654776330418"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="56.67594106730119"
+    CenterY="24.09417777722659"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="2.1000000000000005"
+    Sparse="True"
+    TileLevels="5"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn022"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn022</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.35609338959016146"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="202.47541116641548"
+    CenterY="47.21686783566329"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="0.7999999999999997"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn023"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn023</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.169777085943756"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="86.71980550882293"
+    CenterY="0.09424209136130875"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-0.3999999999999987"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn025"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn025</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="4.25851768272938"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="271.288707844191"
+    CenterY="-23.683401712216025"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-4.499999999999978"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn027"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn027</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3509186609818029"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="185.7148056165954"
+    CenterY="15.834158542322177"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-3.100000000000001"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn028"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn028</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3522047569972945"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="210.802550731416"
+    CenterY="54.329209632821815"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-1.2999999999999963"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn029"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn029</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.34660384242358383"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="189.9871367420706"
+    CenterY="-11.617716739312723"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="2.8"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn030"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn030</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.35116685811634923"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="274.7381180092986"
+    CenterY="-13.835062077832223"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-1.3000000000000005"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn031"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn031</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.35180670553570426"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="323.3747074923437"
+    CenterY="-0.8203988466804806"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-86.09999999999994"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn032"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn032</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.5328504946495388"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="299.89635806185055"
+    CenterY="22.711803682338388"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="2.7000000000000006"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn033"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn033</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.6052847011609116"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="299.90753160450413"
+    CenterY="22.728306336167957"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-176.20000000000002"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn034"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn034</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3457762776451066"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="299.8889161316856"
+    CenterY="22.745124656431653"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-129.29999999999995"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn035"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn035</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="5.565351185942195"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="83.81518967273873"
+    CenterY="-5.388545276844563"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-102.69999999999992"
+    Sparse="True"
+    TileLevels="5"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn036"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn036</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.25870917257791254"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="283.39470076802326"
+    CenterY="33.028668688764135"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-139.2"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn037"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn037</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.35244997648599663"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="189.86817979867155"
+    CenterY="-26.714717671092437"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="7.099999999999997"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn039"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn039</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3509194197263995"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="40.67121974927024"
+    CenterY="0.002388101827163654"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="176.1999999999992"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn040"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn040</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3432305212748572"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="259.28362367248576"
+    CenterY="43.138744979013694"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="257.9000000000005"
+    Sparse="True"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn041"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn041</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3459797997158128"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="259.2841101852041"
+    CenterY="43.13855636960319"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-102.20000000000022"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn042"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn042</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3528636422015981"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="11.786682528215112"
+    CenterY="-20.759666263674873"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="268.6000000000001"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn045"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn045</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.35223767520515"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="11.878664162329702"
+    CenterY="-25.283015227298886"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="269.59999999999997"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn046"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn046</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3509970797674647"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="308.766862248492"
+    CenterY="60.157675864976"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-0.20000000000000687"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn047"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn047</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3557254019863615"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="315.43630531845764"
+    CenterY="68.15838147142252"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-91.80000000000031"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn048"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn048</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.35703575342320387"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="35.63588727373081"
+    CenterY="42.342852803223344"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-86.80000000000001"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn049"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn049</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3488476963084039"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="109.6333190895351"
+    CenterY="-13.23891867135187"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="4.300000000000005"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn050"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn050</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.35250836722913403"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="11.782879648832168"
+    CenterY="-11.884613037890174"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-90.49999999999994"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn051"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn051</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.3429107904257542"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="189.07433716109438"
+    CenterY="25.991971331800727"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-2.7"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn052"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn052</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.35583609622402945"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="35.66887490705368"
+    CenterY="42.34159272004805"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-86.90000000000005"
+    Sparse="True"
+    TileLevels="2"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn053"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn053</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.69035603650511"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="98.1712948095693"
+    CenterY="4.935662842861211"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="-1.0999999999999994"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn055"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn055</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="4.798046167094031"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="75.95499743029131"
+    CenterY="-7.729029542786859"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Projection="Tan"
+    Rotation="198.39999999999972"
+    Sparse="True"
+    TileLevels="4"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn056"
+    WidthFactor="2"
+  >
+    <Credits>Copyright Jack Newton All Rights Reserved</Credits>
+    <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn056</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"

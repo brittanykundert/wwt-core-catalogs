@@ -272,3 +272,13 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Dusty Celestial Ornaments  Dusty Celestial Ornaments;Cassiopeia A
 ra_hr: 23.3905555555556
 zoom_level: 2.82833333333333
+---
+_uuid: 88791e6b-35ae-4f50-88c0-21d579dedaeb
+classification: OpenCluster
+constellation: CAS
+data_set_type: Sky
+dec_deg: 56.7083333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1469208079
+name: NGC 7789
+ra_hr: 23.9566666666667
+zoom_level: 20.705

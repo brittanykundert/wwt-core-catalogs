@@ -197,3 +197,14 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: SSTGFLS J222557+601148 (IRAC);SSTGFLS J222557+601148 Supernova Remnant
 ra_hr: 22.4291666666667
 zoom_level: 1.99166666666667
+---
+_uuid: 0a553c82-d45c-4f4a-ba3e-c93eb7426d8e
+angular_size: -1.0
+classification: PlanetaryNebula
+constellation: AQR
+data_set_type: Sky
+dec_deg: -20.839444444444442
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn012
+name: Helix Nebula
+ra_hr: 22.494444444444447
+zoom_level: 3.893333333333333

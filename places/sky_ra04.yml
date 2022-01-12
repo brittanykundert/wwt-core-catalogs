@@ -107,3 +107,23 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: DG Tau
 ra_hr: 4.45111111111111
 zoom_level: 0.385
+---
+_uuid: 7074fffa-e2d6-4bea-a0db-2fc6f605a182
+classification: EmissionNebula
+constellation: PER
+data_set_type: Sky
+dec_deg: 51.3088888888889
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},324405239
+name: NGC 1491;King 7
+ra_hr: 4.05416666666667
+zoom_level: 29.565
+---
+_uuid: 054368f0-dcc6-40c2-ba34-d1a71625da99
+classification: Nebula
+constellation: PER
+data_set_type: Sky
+dec_deg: 36.5958333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},886211264
+name: California Nebula
+ra_hr: 4.00055555555556
+zoom_level: 43.2

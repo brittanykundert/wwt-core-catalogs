@@ -345,3 +345,25 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: 'NGC 6543: The Cat''s Eye Nebula Redux;Cat''s Eye Nebula'
 ra_hr: 17.9761111111111
 zoom_level: 0.703333333333333
+---
+_uuid: 130cb5b5-815a-4ade-b399-c0c7a125b505
+angular_size: -1.0
+classification: GlobularCluster
+constellation: HER
+data_set_type: Sky
+dec_deg: 43.14055555555556
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn041
+name: Messier 92
+ra_hr: 17.285555555555558
+zoom_level: 4.406666666666666
+---
+_uuid: 58fed420-752f-46b1-a6f1-4a70cef5f930
+angular_size: -1.0
+classification: GlobularCluster
+constellation: HER
+data_set_type: Sky
+dec_deg: 43.14222222222222
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn042
+name: Messier 92
+ra_hr: 17.285
+zoom_level: 4.876666666666667

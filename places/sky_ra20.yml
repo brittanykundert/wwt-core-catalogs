@@ -107,3 +107,35 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Fireworks Galaxy;NGC 6946
 ra_hr: 20.5816666666667
 zoom_level: 5.625
+---
+_uuid: 7e17ef45-d4ad-4d84-8953-c76ccaced754
+classification: Nebula
+constellation: CYG
+data_set_type: Sky
+dec_deg: 31.1408333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},340925790
+name: Veil Nebula;Witch's Broom
+ra_hr: 20.8513888888889
+zoom_level: 40.0
+---
+_uuid: 7a30ad68-bc14-424e-94c7-199589fec441
+angular_size: 1.0
+classification: EmissionNebula
+constellation: CYG
+data_set_type: Sky
+dec_deg: 38.33555555555556
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn008
+name: Crescent Nebula
+ra_hr: 20.203611111111112
+zoom_level: 4.798333333333334
+---
+_uuid: 9734e822-5826-4de0-bb9d-595b265c6cd7
+angular_size: -1.0
+classification: SpiralGalaxy
+constellation: CYG
+data_set_type: Sky
+dec_deg: 60.153055555555554
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn047
+name: Fireworks Galaxy
+ra_hr: 20.58138888888889
+zoom_level: 3.92

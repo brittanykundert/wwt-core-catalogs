@@ -85,3 +85,14 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Pinwheel Looks 'Fab' in Infrared;M101;Messier 101
 ra_hr: 14.0533333333333
 zoom_level: 11.25
+---
+_uuid: 41894966-e692-4dfe-ba98-63087fbef07e
+angular_size: -1.0
+classification: SpiralGalaxy
+constellation: UMA
+data_set_type: Sky
+dec_deg: 54.35
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn029
+name: Pinwheel Galaxy
+ra_hr: 14.053333333333335
+zoom_level: 4.0

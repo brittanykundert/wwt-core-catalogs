@@ -361,3 +361,25 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Centaurus A
 ra_hr: 13.425
 zoom_level: 5.625
+---
+_uuid: 2b270c88-469b-4386-abfb-efbcc036853a
+angular_size: 1.0
+classification: Galaxy
+constellation: CEN
+data_set_type: Sky
+dec_deg: -43.000277777777775
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn005
+name: Centaurus A
+ra_hr: 13.42361111111111
+zoom_level: 4.0
+---
+_uuid: 92066079-5cc4-4efb-842f-9086c904e826
+angular_size: -1.0
+classification: SpiralGalaxy
+constellation: CVN
+data_set_type: Sky
+dec_deg: 47.21333333333334
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn023
+name: Whirlpool Galaxy
+ra_hr: 13.497777777777777
+zoom_level: 4.0

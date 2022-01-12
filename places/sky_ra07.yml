@@ -195,3 +195,14 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: V838 Monocerotis - 2 September 2002
 ra_hr: 7.06805555555556
 zoom_level: 0.5
+---
+_uuid: 89efd150-f4e5-4fa5-9f67-e5483dae3cdb
+angular_size: -1.0
+classification: PlanetaryNebula
+constellation: CMA
+data_set_type: Sky
+dec_deg: -13.227222222222222
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn050
+name: Thor's Helmet
+ra_hr: 7.3086111111111105
+zoom_level: 3.746666666666667

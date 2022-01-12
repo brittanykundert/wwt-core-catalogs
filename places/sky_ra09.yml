@@ -262,6 +262,16 @@ name: M81 in XRay;Messier 81
 ra_hr: 9.92861111111111
 zoom_level: 4.73833333333333
 ---
+_uuid: 91f3b4dd-5717-4ca5-8a8f-b366d5175305
+classification: ClusterOfGalaxies
+constellation: UMA
+data_set_type: Sky
+dec_deg: 69.2655555555556
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},911211722
+name: M81, M82, NGC 3077, et al;M82;NGC 3077;Messier 81
+ra_hr: 9.95361111111111
+zoom_level: 25.7733333333333
+---
 _uuid: 5c2e2536-7cf2-47c3-967c-61e5b955805f
 angular_size: 1.0
 classification: SpiralGalaxy

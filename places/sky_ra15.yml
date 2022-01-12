@@ -152,6 +152,16 @@ name: SN 1006
 ra_hr: 15.0461111111111
 zoom_level: 11.25
 ---
+_uuid: c4bf7624-335b-4d01-8f7f-a1dca3274ea0
+classification: SpiralGalaxy
+constellation: DRA
+data_set_type: Sky
+dec_deg: 56.345
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},555138467
+name: Splinter Galaxy;NGC 5907
+ra_hr: 15.2638888888889
+zoom_level: 5.08
+---
 _uuid: 9a0233a4-4368-41fa-b912-d2e11880ef04
 angular_size: 1.0
 classification: Supernova

@@ -129,3 +129,23 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Supernova Dust Factory in M74;M74;NGC628;Messier 74;NGC 628;Supernova 2003gd
 ra_hr: 1.61166666666667
 zoom_level: 1.415
+---
+_uuid: a9d5afab-ce7c-4420-bfe6-206480fbed50
+classification: SpiralGalaxy
+constellation: TRI
+data_set_type: Sky
+dec_deg: 30.6819444444444
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1587164739
+name: Pinwheel Galaxy;M33;Messier 33
+ra_hr: 1.5625
+zoom_level: 23.255
+---
+_uuid: 2529aef1-ba04-421b-be92-0f92e0f73a17
+classification: OpenCluster
+constellation: AND
+data_set_type: Sky
+dec_deg: 60.6483333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1990763475
+name: Messier 103;M103
+ra_hr: 1.55805555555556
+zoom_level: 12.2066666666667
