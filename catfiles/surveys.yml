@@ -1,29 +1,29 @@
 browseable: true
 children:
 - imageset http://cdn.worldwidetelescope.org/wwtweb/dss.aspx?q={1},{2},{3}
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000132{Q}?g=131
+- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000132{Q}?g=131 # VLSS
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_ilc_200uK
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},planck
 - imageset http://wwtfiles.blob.core.windows.net/plnk/planck4channelL{1}X{2}Y{3}.png
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},dust
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001130{Q}?g=182
+- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001130{Q}?g=182 # IRAS/IRIS
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={L},{X},{Y},wise
-- place 5a984643-cab2-41a3-8de6-9dacda018cfd
-- place c5ced5c5-b09a-41d9-a96e-27ff1ce6f191
-- place d645f2b7-7e0b-4a02-991c-30bf89638f0f
+- place 5a984643-cab2-41a3-8de6-9dacda018cfd # GLIMPSE360
+- place c5ced5c5-b09a-41d9-a96e-27ff1ce6f191 # GLIMPSE
+- place d645f2b7-7e0b-4a02-991c-30bf89638f0f # GLIMPSE/MIPSGAL
 - imageset http://www.worldwidetelescope.org/wwtweb/TwoMassToast.aspx?q={1},{2},{3}
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000312{Q}?g=138
+- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000312{Q}?g=138 # 2MASS catalog synthetic
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},halpha
 - imageset http://www.worldwidetelescope.org/wwtweb/sdsstoast.aspx?q={1},{2},{3}
-- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000131{Q}?g=131
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001210{Q}?g=182
+- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000131{Q}?g=131 # Tycho synthetic
+- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001210{Q}?g=182 # USNO-B synthetic
 - imageset http://www.worldwidetelescope.org/wwtweb/galex4near.aspx?q={1},{2},{3}
 - imageset http://www.worldwidetelescope.org/wwtweb/galex4far.aspx?q={1},{2},{3}
 - imageset http://www.worldwidetelescope.org/wwtweb/galexTOAST.aspx?q={1},{2},{3}
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001132{Q}?g=182
+- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001132{Q}?g=182 # ROSAT RASS
 - imageset http://wwtfiles.blob.core.windows.net/fermilatyear8/Fermi LAT 8-yearL{1}X{2}Y{3}.png
-- place 6c939749-1e7e-42e8-8059-2896c631893b
-- 'imageset '
+- place 6c939749-1e7e-42e8-8059-2896c631893b # "Big Picture" (not all-sky)
+- 'imageset ' # Black Sky Background
 - browseable: true
   children:
   - browseable: true
