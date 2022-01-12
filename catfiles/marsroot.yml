@@ -32,7 +32,7 @@ children:
 - browseable: true
   children: []
   group: Explorer
-  name: HIRISE Spotlight
+  name: HiRISE Spotlight
   searchable: true
   thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=hirise
   type: ''
@@ -40,7 +40,7 @@ children:
 - browseable: true
   children: []
   group: Explorer
-  name: HIRISE Single Images
+  name: HiRISE Single Images
   searchable: true
   thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=hirise
   type: ''
@@ -54,6 +54,6 @@ children:
   type: ''
   url: http://cdn.worldwidetelescope.org/wwtweb/catalog.aspx?W=moccatalog
 group: Explorer
-name: WorldWide Telescope Mars
+name: Mars
 searchable: true
 type: ''
