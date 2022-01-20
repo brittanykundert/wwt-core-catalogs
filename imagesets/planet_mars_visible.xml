@@ -147,31 +147,4 @@
     <CreditsUrl>https://planetarymaps.usgs.gov/mosaic/Mars_MO_THEMIS-IR-Day_mosaic_global_100m_v12.tif</CreditsUrl>
     <ThumbnailUrl>http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mars</ThumbnailUrl>
   </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="360"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="0"
-    CenterY="0"
-    DataSetType="Planet"
-    DemUrl="http://cdn.worldwidetelescope.org/wwtweb/tiles2.aspx?q={0},{1},{2},MarsToastDem"
-    ElevationModel="True"
-    FileType=".auto"
-    Generic="False"
-    MeanRadius="3396000"
-    Name="HiRISE Imagery"
-    Projection="Toast"
-    QuadTreeMap="0123"
-    ReferenceFrame="Mars"
-    Rotation="0"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="18"
-    Url="http://wwt.nasa.gov/wwt/p/mars_hirise/{1}/{2}/{3}.auto"
-    WidthFactor="1"
-  >
-    <Credits>University of Arizona / NASA / USGS / Malin Space Science Systems / JPL</Credits>
-    <CreditsUrl>http://hirise.lpl.arizona.edu/PSP_010221_1420</CreditsUrl>
-  </ImageSet>
 </Folder>
