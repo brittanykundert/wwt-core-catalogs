@@ -678,6 +678,86 @@ def do_prettify(settings):
         prettify(elem, sys.stdout)
 
 
+# replace-urls
+
+
+def do_replace_urls(settings):
+    """
+    A specialized utility to update imageset URLs to new URLs, using the
+    "AltUrl" mechanism to "save" the old URL, and updating references to them.
+
+    Implemented for Mars panoramas but then I realized I had it backwards! So
+    this is untested, but I think it should work.
+    """
+    idb = ImagesetDatabase()
+    replacements = {}
+
+    warn("untested!!!!!")
+    warn("tweaking QuadTreeMap and WidthFactor for Mars panos!!!")
+
+    # Imageset database  ...
+
+    with open(settings.spec_path, "rt") as f:
+        for line in f:
+            old_url, new_url = line.strip().split()
+            replacements[old_url] = new_url
+
+            imgset = idb.by_url.pop(old_url, None)
+            if imgset is None:
+                die(f"missing old-url `{old_url}`")
+
+            imgset.url = new_url
+            imgset.alt_url = old_url
+            imgset.quad_tree_map = "0123"
+            imgset.width_factor = 1
+            idb.by_url[new_url] = imgset
+
+    # Place database ...
+
+    pdb = PlaceDatabase()
+
+    def do_one(pinfo, key):
+        url = pinfo.get(key)
+        if url:
+            new_url = replacements.get(url)
+            if new_url:
+                pinfo[key] = new_url
+
+    for pinfo in pdb.by_uuid.values():
+        do_one(pinfo, "image_set_url")
+        do_one(pinfo, "background_image_set_url")
+        do_one(pinfo, "foreground_image_set_url")
+
+    idb.rewrite()
+    pdb.rewrite()
+
+    # Catalog files ...
+
+    def do_one(path: Path):
+        with path.open("rt", encoding="utf-8") as f:
+            root_info = yaml.load(f, yaml.SafeLoader)
+
+        def replace_folder(info: dict):
+            for index in range(len(info["children"])):
+                spec = info["children"][index]
+
+                if isinstance(spec, str):
+                    if spec.startswith("imageset "):
+                        url = spec[9:]
+                        new_url = replacements.get(url)
+                        if new_url:
+                            info["children"][index] = f"imageset {new_url}"
+                        f.children.append(idb.get_by_url(spec[9:]))
+                else:
+                    replace_folder(spec)
+
+        replace_folder(root_info)
+        write_one_yaml(path, root_info)
+
+    for path in (BASEDIR / "catfiles").glob("*.yml"):
+        do_one(path)
+
+
 # report
 
 
@@ -798,6 +878,11 @@ def entrypoint():
         "xml", metavar="XML-PATH", help="Path to an XML file to prettify"
     )
 
+    replace_urls = subparsers.add_parser("replace-urls")
+    replace_urls.add_argument(
+        "spec_path", metavar="TEXT-PATH", help="Path to text file of URLs to update"
+    )
+
     _report = subparsers.add_parser("report")
     _trace = subparsers.add_parser("trace")
 
@@ -817,6 +902,8 @@ def entrypoint():
         do_ingest(settings)
     elif settings.subcommand == "prettify":
         do_prettify(settings)
+    elif settings.subcommand == "replace-urls":
+        do_replace_urls(settings)
     elif settings.subcommand == "report":
         do_report(settings)
     elif settings.subcommand == "trace":
