@@ -455,33 +455,6 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="180"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="0"
-    CenterY="0"
-    DataSetType="Planet"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    MeanRadius="6051000"
-    Name="Venus"
-    Projection="Toast"
-    QuadTreeMap="0123"
-    ReferenceFrame="Venus"
-    Rotation="0"
-    Sparse="False"
-    StockSet="False"
-    TileLevels="5"
-    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001121{Q}?g=138"
-    WidthFactor="1"
-  >
-    <Credits>Image Courtesy NASA/JPL/Space Science Institute</Credits>
-    <CreditsUrl>http://photojournal.jpl.nasa.gov/catalog/PIA00256</CreditsUrl>
-    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=venus</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="90"
     BaseTileLevel="0"
     BottomsUp="False"

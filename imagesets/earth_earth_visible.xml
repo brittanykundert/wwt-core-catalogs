@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="earth_earth_visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="1"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Earth"
+    ElevationModel="True"
+    FileType=".jpeg"
+    Generic="False"
+    MeanRadius="6371000"
+    Name="Bing Maps Aerial"
+    Projection="Mercator"
+    QuadTreeMap="0123"
+    ReferenceFrame="Earth"
+    Rotation="0"
+    Sparse="False"
+    StockSet="True"
+    TileLevels="20"
+    Url="http://a{0}.ortho.tiles.virtualearth.net/tiles/a{1}.jpeg?g=16"
+    WidthFactor="1"
+  >
+    <Credits>Bing Maps Copyright Microsoft Corp. and Suppliers</Credits>
+    <CreditsUrl>http://maps.live.com/help/en-us/About.htm</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=earth</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="1"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Earth"
+    ElevationModel="True"
+    FileType=".jpeg"
+    Generic="False"
+    MeanRadius="6371000"
+    Name="Bing Maps Hybrid"
+    Projection="Mercator"
+    QuadTreeMap="0123"
+    ReferenceFrame="Earth"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="20"
+    Url="http://h{0}.ortho.tiles.virtualearth.net/tiles/h{1}.jpeg?g=16"
+    WidthFactor="1"
+  >
+    <Credits>Bing Maps Copyright Microsoft Corp. and Suppliers</Credits>
+    <CreditsUrl>http://maps.live.com/help/en-us/About.htm</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=earthhybrid</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="1"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Earth"
+    ElevationModel="True"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="6371000"
+    Name="Bing Maps Streets"
+    Projection="Mercator"
+    QuadTreeMap="0123"
+    ReferenceFrame="Earth"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="20"
+    Url="http://r{0}.ortho.tiles.virtualearth.net/tiles/r{1}.png?g=77&amp;shading=hill"
+    WidthFactor="1"
+  >
+    <Credits>Bing Maps Copyright Microsoft Corp. and Suppliers</Credits>
+    <CreditsUrl>http://maps.live.com/help/en-us/About.htm</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=earthstreets</ThumbnailUrl>
+  </ImageSet>
+</Folder>
