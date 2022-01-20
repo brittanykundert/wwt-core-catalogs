@@ -2491,82 +2491,6 @@ name: Anomalous Arms;Messier 106;NGC 4258
 ra_hr: 12.3158333333333
 zoom_level: 5.625
 ---
-_uuid: b06f8d18-8033-4449-8d6d-bfccbcbb5cfb
-angular_size: 1.0
-classification: Galaxy
-constellation: VIR
-data_set_type: Sky
-dec_deg: 12.3797222222222
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},251702032
-name: A Nearby Galaxy Metropolis;M87;Messier 87
-ra_hr: 12.5141666666667
-zoom_level: 2.81166666666667
----
-_uuid: e7be6645-cbde-4210-8381-fca4385a024a
-angular_size: 1.0
-classification: Galaxy
-constellation: VIR
-data_set_type: Sky
-dec_deg: 12.3797222222222
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},788114285
-name: M87;Messier 87
-ra_hr: 12.5141666666667
-zoom_level: 2.81166666666667
----
-_uuid: 740ed4d8-0b84-482a-9772-1d4cf0bb01d7
-classification: ClusterOfGalaxies
-constellation: CVN
-data_set_type: Sky
-dec_deg: 47.3333333333333
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},967184262
-name: M106 and Friends;Messier 106;NGC 4248;NGC 4217
-ra_hr: 12.3141666666667
-zoom_level: 42.9316666666667
----
-_uuid: 46d4b5af-5c8e-4fe4-ac19-0f07bcdf0113
-angular_size: -1.0
-classification: SpiralGalaxy
-constellation: COM
-data_set_type: Sky
-dec_deg: 15.816666666666666
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn028
-name: Messier 100
-ra_hr: 12.381666666666668
-zoom_level: 4.0
----
-_uuid: 58df62da-5c59-4942-a0aa-ab1bcdefa200
-angular_size: -1.0
-classification: SpiralGalaxy
-constellation: VIR
-data_set_type: Sky
-dec_deg: -11.616666666666667
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn030
-name: Sombrero Galaxy
-ra_hr: 12.666666666666666
-zoom_level: 4.0
----
-_uuid: 4e02c44b-979a-4125-a58a-55079e306804
-angular_size: -1.0
-classification: GlobularCluster
-constellation: HYA
-data_set_type: Sky
-dec_deg: -26.702777777777776
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn039
-name: Messier 68
-ra_hr: 12.658055555555556
-zoom_level: 4.0
----
-_uuid: 4b4f6a0d-95e1-4f28-9015-0b78dc0ffb2c
-angular_size: -1.0
-classification: SpiralGalaxy
-constellation: COM
-data_set_type: Sky
-dec_deg: 25.988611111111112
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn052
-name: NGC 4565
-ra_hr: 12.605833333333333
-zoom_level: 3.966666666666667
----
 _uuid: d893621a-1361-4786-99b0-fe5e444c4892
 classification: ''
 constellation: ''
@@ -4931,3 +4855,79 @@ name: Messier 59
 ra_hr: 12.7173483333333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-005.jpg
 zoom_level: 3.117056
+---
+_uuid: b06f8d18-8033-4449-8d6d-bfccbcbb5cfb
+angular_size: 1.0
+classification: Galaxy
+constellation: VIR
+data_set_type: Sky
+dec_deg: 12.3797222222222
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},251702032
+name: A Nearby Galaxy Metropolis;M87;Messier 87
+ra_hr: 12.5141666666667
+zoom_level: 2.81166666666667
+---
+_uuid: e7be6645-cbde-4210-8381-fca4385a024a
+angular_size: 1.0
+classification: Galaxy
+constellation: VIR
+data_set_type: Sky
+dec_deg: 12.3797222222222
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},788114285
+name: M87;Messier 87
+ra_hr: 12.5141666666667
+zoom_level: 2.81166666666667
+---
+_uuid: 740ed4d8-0b84-482a-9772-1d4cf0bb01d7
+classification: ClusterOfGalaxies
+constellation: CVN
+data_set_type: Sky
+dec_deg: 47.3333333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},967184262
+name: M106 and Friends;Messier 106;NGC 4248;NGC 4217
+ra_hr: 12.3141666666667
+zoom_level: 42.9316666666667
+---
+_uuid: 46d4b5af-5c8e-4fe4-ac19-0f07bcdf0113
+angular_size: -1.0
+classification: SpiralGalaxy
+constellation: COM
+data_set_type: Sky
+dec_deg: 15.816666666666666
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn028
+name: Messier 100
+ra_hr: 12.381666666666668
+zoom_level: 4.0
+---
+_uuid: 58df62da-5c59-4942-a0aa-ab1bcdefa200
+angular_size: -1.0
+classification: SpiralGalaxy
+constellation: VIR
+data_set_type: Sky
+dec_deg: -11.616666666666667
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn030
+name: Sombrero Galaxy
+ra_hr: 12.666666666666666
+zoom_level: 4.0
+---
+_uuid: 4e02c44b-979a-4125-a58a-55079e306804
+angular_size: -1.0
+classification: GlobularCluster
+constellation: HYA
+data_set_type: Sky
+dec_deg: -26.702777777777776
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn039
+name: Messier 68
+ra_hr: 12.658055555555556
+zoom_level: 4.0
+---
+_uuid: 4b4f6a0d-95e1-4f28-9015-0b78dc0ffb2c
+angular_size: -1.0
+classification: SpiralGalaxy
+constellation: COM
+data_set_type: Sky
+dec_deg: 25.988611111111112
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn052
+name: NGC 4565
+ra_hr: 12.605833333333333
+zoom_level: 3.966666666666667

@@ -4163,133 +4163,6 @@ name: Star Formation in Henize 206;Henize 206
 ra_hr: 5.50194444444444
 zoom_level: 7.64666666666667
 ---
-_uuid: 4e418f74-e0ba-4538-a0ae-d8a1118aca67
-classification: Unfiltered
-constellation: DOR
-data_set_type: Sky
-dec_deg: -67.9593611111111
-foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/204114155/{1}/{3}/{3}_{2}.png
-name: Super Bubble Complex N44
-ra_hr: 5.36772777777778
-zoom_level: 1.2
----
-_uuid: 7c892b8d-8133-4bd5-99d1-fdb18dd40e1a
-classification: Unfiltered
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.7038888888889
-foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/485824566/{1}/{3}/{3}_{2}.png
-name: Supernova Remnants DEM L316
-ra_hr: 5.78597222222222
-zoom_level: 1.2
----
-_uuid: 1988eb77-3f64-4ab8-852d-95c00ed40863
-angular_size: 1.0
-classification: Galaxy
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.6419444444444
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1433013114
-name: 'N132D: An Oxygen Factory in a Nearby Galaxy'
-ra_hr: 5.41722222222222
-zoom_level: 0.568333333333333
----
-_uuid: 80cd93d1-86d6-4d05-be3b-49cfcebd302f
-angular_size: 1.0
-classification: SupernovaRemnant
-constellation: DOR
-data_set_type: Sky
-dec_deg: -67.5236111111111
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},182605652
-name: 'SNR 0509-67.5: Action Replay Of Powerful Stellar Explosion'
-ra_hr: 5.15833333333333
-zoom_level: 0.703333333333333
----
-_uuid: f561610c-b3af-43a1-adcf-bfbda67816c2
-classification: Nebula
-constellation: AUR
-data_set_type: Sky
-dec_deg: 34.1025
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1836041805
-name: Flaming Star Nebula;IC 405
-ra_hr: 5.26083333333333
-zoom_level: 33.3333333333333
----
-_uuid: ec15e6d5-63cf-4f47-bbf8-5b0ea307fd13
-classification: Nebula
-constellation: ORI
-data_set_type: Sky
-dec_deg: -2.47083333333333
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1999229395
-name: Horsehead and Flame Nebulae;Barnard 33;IC 434;Flame Nebula
-ra_hr: 5.665
-zoom_level: 33.3333333333333
----
-_uuid: f94bf6e7-c6ba-4265-80cb-f538a626a263
-classification: Nebula
-constellation: ORI
-data_set_type: Sky
-dec_deg: -5.34361111111111
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},843190889
-name: Great Nebula in Orion;Messier 42;M42
-ra_hr: 5.58611111111111
-zoom_level: 33.9283333333333
----
-_uuid: c6de99da-ff65-497a-b772-9c09210a28ab
-angular_size: -1.0
-classification: EmissionNebula
-constellation: ORI
-data_set_type: Sky
-dec_deg: -1.856388888888889
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn010
-name: Flame Nebula
-ra_hr: 5.695
-zoom_level: 4.0
----
-_uuid: cfd880c0-973e-4f01-ba8e-a1eded453e86
-angular_size: -1.0
-classification: EmissionNebula
-constellation: AUR
-data_set_type: Sky
-dec_deg: 34.090833333333336
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn018
-name: Flaming Star Nebula
-ra_hr: 5.258611111111111
-zoom_level: 16.0
----
-_uuid: 453cbd21-f47e-4fc8-a7a9-6818c8a5ae62
-angular_size: -1.0
-classification: ReflectionNebula
-constellation: ORI
-data_set_type: Sky
-dec_deg: 0.05
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn025
-name: Messier 78
-ra_hr: 5.778333333333333
-zoom_level: 16.0
----
-_uuid: dbba7304-0ca1-4fc6-acca-b7d96a694117
-angular_size: -1.0
-classification: Nebula
-constellation: ORI
-data_set_type: Sky
-dec_deg: -5.423055555555556
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn036
-name: Orion Nebula
-ra_hr: 5.587777777777777
-zoom_level: 36.46666666666667
----
-_uuid: 9a62f003-dde3-4928-ac7c-f7d70e38f64f
-angular_size: -1.0
-classification: SupernovaRemnant
-constellation: ERI
-data_set_type: Sky
-dec_deg: -7.430000000000001
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn056
-name: Witch Head Nebula
-ra_hr: 5.045833333333333
-zoom_level: 56.39666666666667
----
 _uuid: 4e357d6d-a5c2-4750-8fce-c3ebed6d947b
 classification: ''
 constellation: ''
@@ -7237,3 +7110,130 @@ name: Witch Head Nebula
 ra_hr: 5.08206733333333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2013-003.jpg
 zoom_level: 25.0311107635511
+---
+_uuid: 4e418f74-e0ba-4538-a0ae-d8a1118aca67
+classification: Unfiltered
+constellation: DOR
+data_set_type: Sky
+dec_deg: -67.9593611111111
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/204114155/{1}/{3}/{3}_{2}.png
+name: Super Bubble Complex N44
+ra_hr: 5.36772777777778
+zoom_level: 1.2
+---
+_uuid: 7c892b8d-8133-4bd5-99d1-fdb18dd40e1a
+classification: Unfiltered
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.7038888888889
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/485824566/{1}/{3}/{3}_{2}.png
+name: Supernova Remnants DEM L316
+ra_hr: 5.78597222222222
+zoom_level: 1.2
+---
+_uuid: 1988eb77-3f64-4ab8-852d-95c00ed40863
+angular_size: 1.0
+classification: Galaxy
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.6419444444444
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1433013114
+name: 'N132D: An Oxygen Factory in a Nearby Galaxy'
+ra_hr: 5.41722222222222
+zoom_level: 0.568333333333333
+---
+_uuid: 80cd93d1-86d6-4d05-be3b-49cfcebd302f
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: DOR
+data_set_type: Sky
+dec_deg: -67.5236111111111
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},182605652
+name: 'SNR 0509-67.5: Action Replay Of Powerful Stellar Explosion'
+ra_hr: 5.15833333333333
+zoom_level: 0.703333333333333
+---
+_uuid: f561610c-b3af-43a1-adcf-bfbda67816c2
+classification: Nebula
+constellation: AUR
+data_set_type: Sky
+dec_deg: 34.1025
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1836041805
+name: Flaming Star Nebula;IC 405
+ra_hr: 5.26083333333333
+zoom_level: 33.3333333333333
+---
+_uuid: ec15e6d5-63cf-4f47-bbf8-5b0ea307fd13
+classification: Nebula
+constellation: ORI
+data_set_type: Sky
+dec_deg: -2.47083333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1999229395
+name: Horsehead and Flame Nebulae;Barnard 33;IC 434;Flame Nebula
+ra_hr: 5.665
+zoom_level: 33.3333333333333
+---
+_uuid: f94bf6e7-c6ba-4265-80cb-f538a626a263
+classification: Nebula
+constellation: ORI
+data_set_type: Sky
+dec_deg: -5.34361111111111
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},843190889
+name: Great Nebula in Orion;Messier 42;M42
+ra_hr: 5.58611111111111
+zoom_level: 33.9283333333333
+---
+_uuid: c6de99da-ff65-497a-b772-9c09210a28ab
+angular_size: -1.0
+classification: EmissionNebula
+constellation: ORI
+data_set_type: Sky
+dec_deg: -1.856388888888889
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn010
+name: Flame Nebula
+ra_hr: 5.695
+zoom_level: 4.0
+---
+_uuid: cfd880c0-973e-4f01-ba8e-a1eded453e86
+angular_size: -1.0
+classification: EmissionNebula
+constellation: AUR
+data_set_type: Sky
+dec_deg: 34.090833333333336
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn018
+name: Flaming Star Nebula
+ra_hr: 5.258611111111111
+zoom_level: 16.0
+---
+_uuid: 453cbd21-f47e-4fc8-a7a9-6818c8a5ae62
+angular_size: -1.0
+classification: ReflectionNebula
+constellation: ORI
+data_set_type: Sky
+dec_deg: 0.05
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn025
+name: Messier 78
+ra_hr: 5.778333333333333
+zoom_level: 16.0
+---
+_uuid: dbba7304-0ca1-4fc6-acca-b7d96a694117
+angular_size: -1.0
+classification: Nebula
+constellation: ORI
+data_set_type: Sky
+dec_deg: -5.423055555555556
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn036
+name: Orion Nebula
+ra_hr: 5.587777777777777
+zoom_level: 36.46666666666667
+---
+_uuid: 9a62f003-dde3-4928-ac7c-f7d70e38f64f
+angular_size: -1.0
+classification: SupernovaRemnant
+constellation: ERI
+data_set_type: Sky
+dec_deg: -7.430000000000001
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn056
+name: Witch Head Nebula
+ra_hr: 5.045833333333333
+zoom_level: 56.39666666666667

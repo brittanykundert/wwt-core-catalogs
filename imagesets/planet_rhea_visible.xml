@@ -22,6 +22,7 @@
     ReferenceFrame="Rhea"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="3"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},rhea_sat5vss2"
     WidthFactor="1"

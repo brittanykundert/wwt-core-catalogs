@@ -1598,49 +1598,6 @@ name: Towering Infernos;W5
 ra_hr: 3.04333333333333
 zoom_level: 8.66166666666667
 ---
-_uuid: c3eb60d5-5308-421f-8de6-f928013ddadf
-classification: StellarGroupings
-constellation: TAU
-data_set_type: Sky
-dec_deg: 24.1394444444444
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},891443522
-name: M45 - The Pleiades;Pleiades;Messier 45;Subaru
-ra_hr: 3.78
-zoom_level: 37.1533333333333
----
-_uuid: a409ea5d-56b3-4d29-8072-441f79420fdd
-angular_size: 1.0
-classification: Galaxy
-constellation: PER
-data_set_type: Sky
-dec_deg: 41.5105555555556
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},90554641
-name: 'Perseus A: A Monster Galaxy at the Heart of Perseus Cluster;NGC 1275'
-ra_hr: 3.33
-zoom_level: 1.40666666666667
----
-_uuid: feab3d29-09e5-4cbe-a9d3-0236542e3952
-angular_size: -1.0
-classification: SpiralGalaxy
-constellation: CAM
-data_set_type: Sky
-dec_deg: 68.10805555555555
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn014
-name: IC 342
-ra_hr: 3.781111111111111
-zoom_level: 4.0
----
-_uuid: bea022ed-63e7-4888-a039-52de1dbd1f27
-angular_size: -1.0
-classification: MultipleStars
-constellation: TAU
-data_set_type: Sky
-dec_deg: 24.116666666666667
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn022
-name: Pleiades
-ra_hr: 3.783333333333333
-zoom_level: 23.459999999999997
----
 _uuid: e8fffec0-ce3a-4038-ab7a-ada0875780a4
 classification: ''
 constellation: ''
@@ -3102,3 +3059,46 @@ name: Barnard 3
 ra_hr: 3.66666666666667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-033b.jpg
 zoom_level: 12.515540992
+---
+_uuid: c3eb60d5-5308-421f-8de6-f928013ddadf
+classification: StellarGroupings
+constellation: TAU
+data_set_type: Sky
+dec_deg: 24.1394444444444
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},891443522
+name: M45 - The Pleiades;Pleiades;Messier 45;Subaru
+ra_hr: 3.78
+zoom_level: 37.1533333333333
+---
+_uuid: a409ea5d-56b3-4d29-8072-441f79420fdd
+angular_size: 1.0
+classification: Galaxy
+constellation: PER
+data_set_type: Sky
+dec_deg: 41.5105555555556
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},90554641
+name: 'Perseus A: A Monster Galaxy at the Heart of Perseus Cluster;NGC 1275'
+ra_hr: 3.33
+zoom_level: 1.40666666666667
+---
+_uuid: feab3d29-09e5-4cbe-a9d3-0236542e3952
+angular_size: -1.0
+classification: SpiralGalaxy
+constellation: CAM
+data_set_type: Sky
+dec_deg: 68.10805555555555
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn014
+name: IC 342
+ra_hr: 3.781111111111111
+zoom_level: 4.0
+---
+_uuid: bea022ed-63e7-4888-a039-52de1dbd1f27
+angular_size: -1.0
+classification: MultipleStars
+constellation: TAU
+data_set_type: Sky
+dec_deg: 24.116666666666667
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn022
+name: Pleiades
+ra_hr: 3.783333333333333
+zoom_level: 23.459999999999997

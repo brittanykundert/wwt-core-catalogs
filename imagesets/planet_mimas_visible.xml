@@ -22,6 +22,7 @@
     ReferenceFrame="Mimas"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="3"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},mimas_sat1vss2"
     WidthFactor="1"

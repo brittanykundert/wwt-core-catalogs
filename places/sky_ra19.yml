@@ -1255,49 +1255,6 @@ name: Galaxy NGC 6882 in Ultraviolet Light
 ra_hr: 19.3994444444444
 zoom_level: 0.935
 ---
-_uuid: eaf3efc9-300d-479e-8076-b2767a2bcc95
-classification: Asterism
-constellation: VUL
-data_set_type: Sky
-dec_deg: 20.1902777777778
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},2114372846
-name: Brocchi's Cluster;NGC 6802;Coat Hanger
-ra_hr: 19.4397222222222
-zoom_level: 29.305
----
-_uuid: 8ed3a619-a845-4ec9-964c-9a301e35ee88
-angular_size: -1.0
-classification: PlanetaryNebula
-constellation: VUL
-data_set_type: Sky
-dec_deg: 22.716666666666665
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn033
-name: Dumbbell Nebula
-ra_hr: 19.993333333333336
-zoom_level: 4.0
----
-_uuid: 681b2f31-9168-44c9-ba2c-dd9993fb530e
-angular_size: -1.0
-classification: PlanetaryNebula
-constellation: VUL
-data_set_type: Sky
-dec_deg: 22.729999999999997
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn034
-name: Dumbbell Nebula
-ra_hr: 19.99388888888889
-zoom_level: 4.0
----
-_uuid: 788090a0-b385-4105-86ce-4c96077def19
-angular_size: -1.0
-classification: PlanetaryNebula
-constellation: VUL
-data_set_type: Sky
-dec_deg: 22.747500000000002
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn035
-name: Dumbbell Nebula
-ra_hr: 19.9925
-zoom_level: 4.0
----
 _uuid: 629b8606-69a4-4151-a623-fdb37bb3679b
 classification: ''
 constellation: ''
@@ -2188,3 +2145,46 @@ name: NGC 6822
 ra_hr: 19.7490626666667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020i.jpg
 zoom_level: 3.12888884544307
+---
+_uuid: eaf3efc9-300d-479e-8076-b2767a2bcc95
+classification: Asterism
+constellation: VUL
+data_set_type: Sky
+dec_deg: 20.1902777777778
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},2114372846
+name: Brocchi's Cluster;NGC 6802;Coat Hanger
+ra_hr: 19.4397222222222
+zoom_level: 29.305
+---
+_uuid: 8ed3a619-a845-4ec9-964c-9a301e35ee88
+angular_size: -1.0
+classification: PlanetaryNebula
+constellation: VUL
+data_set_type: Sky
+dec_deg: 22.716666666666665
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn033
+name: Dumbbell Nebula
+ra_hr: 19.993333333333336
+zoom_level: 4.0
+---
+_uuid: 681b2f31-9168-44c9-ba2c-dd9993fb530e
+angular_size: -1.0
+classification: PlanetaryNebula
+constellation: VUL
+data_set_type: Sky
+dec_deg: 22.729999999999997
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn034
+name: Dumbbell Nebula
+ra_hr: 19.99388888888889
+zoom_level: 4.0
+---
+_uuid: 788090a0-b385-4105-86ce-4c96077def19
+angular_size: -1.0
+classification: PlanetaryNebula
+constellation: VUL
+data_set_type: Sky
+dec_deg: 22.747500000000002
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn035
+name: Dumbbell Nebula
+ra_hr: 19.9925
+zoom_level: 4.0

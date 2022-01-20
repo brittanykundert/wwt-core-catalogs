@@ -1972,125 +1972,6 @@ name: Stellar 'Incubators' Seen Cooking up Stars;Messier 20;M20;Trifid Nebula;;;
 ra_hr: 18.0408333333333
 zoom_level: 7.57833333333333
 ---
-_uuid: e5b54836-2163-4369-b8a5-41974d80b4c1
-classification: Unfiltered
-constellation: SGR
-data_set_type: Sky
-dec_deg: -23.03
-foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/869831676/{1}/{3}/{3}_{2}.png
-name: Trifid Nebula M20
-ra_hr: 18.0397222222222
-zoom_level: 1.2
----
-_uuid: 797dae26-fa7f-4f67-affb-e13596504be2
-angular_size: 1.0
-classification: SupernovaRemnant
-constellation: SGR
-data_set_type: Sky
-dec_deg: -23.4883333333333
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1129358135
-name: 'W28: A Mixed Bag;G6.4-0.1'
-ra_hr: 18.0086111111111
-zoom_level: 11.1866666666667
----
-_uuid: 58aa8957-8cad-47dd-a0cc-256e9d97c830
-angular_size: 1.0
-classification: SupernovaRemnant
-constellation: SGR
-data_set_type: Sky
-dec_deg: -23.4883333333333
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1912661927
-name: 'W28: A Mixed Bag;G6.4-0.1'
-ra_hr: 18.0086111111111
-zoom_level: 11.1866666666667
----
-_uuid: 0465219f-0284-41bf-8f72-7227a7a0b1d3
-angular_size: 1.0
-classification: SupernovaRemnant
-constellation: SGR
-data_set_type: Sky
-dec_deg: -23.4883333333333
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},202800000
-name: 'W28: A Mixed Bag;G6.4-0.1'
-ra_hr: 18.0086111111111
-zoom_level: 11.1866666666667
----
-_uuid: 9fbc63bf-3786-44c0-87be-02c4d1316890
-classification: GlobularCluster
-constellation: SGR
-data_set_type: Sky
-dec_deg: -30.0436111111111
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},939547551
-name: NGC 6522 and NGC 6528;NGC 6528
-ra_hr: 18.07
-zoom_level: 5.71666666666667
----
-_uuid: 4d7bd849-ff5f-4a19-a8b0-0d087b0b0598
-angular_size: -1.0
-classification: EmissionNebula
-constellation: SER2
-data_set_type: Sky
-dec_deg: -13.857777777777777
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn009
-name: Eagle Nebula
-ra_hr: 18.303611111111113
-zoom_level: 22.905
----
-_uuid: 27fa7e9c-69f0-4789-9a97-88929d1b4313
-angular_size: -1.0
-classification: Nebula
-constellation: SGR
-data_set_type: Sky
-dec_deg: -16.183333333333334
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn020
-name: Omega Nebula
-ra_hr: 18.346666666666664
-zoom_level: 16.0
----
-_uuid: 344eadb2-2fa6-45c6-a5f8-b7534c096188
-angular_size: -1.0
-classification: Nebula
-constellation: SGR
-data_set_type: Sky
-dec_deg: -23.033333333333335
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn021
-name: Trifid Nebula
-ra_hr: 18.043333333333337
-zoom_level: 16.0
----
-_uuid: 412c2e27-5aa0-4896-b1e3-d7b7bf01312d
-angular_size: 1.0
-classification: Nebula
-constellation: SGR
-data_set_type: Sky
-dec_deg: -23.553333333333335
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn027
-name: Lagoon Nebula
-ra_hr: 18.094444444444445
-zoom_level: 32.0
----
-_uuid: d068d2d1-9cd4-4d09-85e3-a3a8f3480c64
-angular_size: -1.0
-classification: OpenCluster
-constellation: SER2
-data_set_type: Sky
-dec_deg: -13.783333333333333
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn031
-name: Eagle Nebula
-ra_hr: 18.313333333333333
-zoom_level: 5.681666666666667
----
-_uuid: 99b88402-0ab0-44e3-9c05-042dc315d1a8
-angular_size: -1.0
-classification: Nebula
-constellation: LYR
-data_set_type: Sky
-dec_deg: 33.03333333333333
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn037
-name: Ring Nebula
-ra_hr: 18.893333333333334
-zoom_level: 1.0
----
 _uuid: 5298a362-aac6-4b80-8b24-9a5f2259262e
 classification: ''
 constellation: ''
@@ -3498,3 +3379,122 @@ name: Trifid Nebula
 ra_hr: 18.0272416
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2014-001.jpg
 zoom_level: 6.25777769088778
+---
+_uuid: e5b54836-2163-4369-b8a5-41974d80b4c1
+classification: Unfiltered
+constellation: SGR
+data_set_type: Sky
+dec_deg: -23.03
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/869831676/{1}/{3}/{3}_{2}.png
+name: Trifid Nebula M20
+ra_hr: 18.0397222222222
+zoom_level: 1.2
+---
+_uuid: 797dae26-fa7f-4f67-affb-e13596504be2
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: SGR
+data_set_type: Sky
+dec_deg: -23.4883333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1129358135
+name: 'W28: A Mixed Bag;G6.4-0.1'
+ra_hr: 18.0086111111111
+zoom_level: 11.1866666666667
+---
+_uuid: 58aa8957-8cad-47dd-a0cc-256e9d97c830
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: SGR
+data_set_type: Sky
+dec_deg: -23.4883333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1912661927
+name: 'W28: A Mixed Bag;G6.4-0.1'
+ra_hr: 18.0086111111111
+zoom_level: 11.1866666666667
+---
+_uuid: 0465219f-0284-41bf-8f72-7227a7a0b1d3
+angular_size: 1.0
+classification: SupernovaRemnant
+constellation: SGR
+data_set_type: Sky
+dec_deg: -23.4883333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},202800000
+name: 'W28: A Mixed Bag;G6.4-0.1'
+ra_hr: 18.0086111111111
+zoom_level: 11.1866666666667
+---
+_uuid: 9fbc63bf-3786-44c0-87be-02c4d1316890
+classification: GlobularCluster
+constellation: SGR
+data_set_type: Sky
+dec_deg: -30.0436111111111
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},939547551
+name: NGC 6522 and NGC 6528;NGC 6528
+ra_hr: 18.07
+zoom_level: 5.71666666666667
+---
+_uuid: 4d7bd849-ff5f-4a19-a8b0-0d087b0b0598
+angular_size: -1.0
+classification: EmissionNebula
+constellation: SER2
+data_set_type: Sky
+dec_deg: -13.857777777777777
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn009
+name: Eagle Nebula
+ra_hr: 18.303611111111113
+zoom_level: 22.905
+---
+_uuid: 27fa7e9c-69f0-4789-9a97-88929d1b4313
+angular_size: -1.0
+classification: Nebula
+constellation: SGR
+data_set_type: Sky
+dec_deg: -16.183333333333334
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn020
+name: Omega Nebula
+ra_hr: 18.346666666666664
+zoom_level: 16.0
+---
+_uuid: 344eadb2-2fa6-45c6-a5f8-b7534c096188
+angular_size: -1.0
+classification: Nebula
+constellation: SGR
+data_set_type: Sky
+dec_deg: -23.033333333333335
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn021
+name: Trifid Nebula
+ra_hr: 18.043333333333337
+zoom_level: 16.0
+---
+_uuid: 412c2e27-5aa0-4896-b1e3-d7b7bf01312d
+angular_size: 1.0
+classification: Nebula
+constellation: SGR
+data_set_type: Sky
+dec_deg: -23.553333333333335
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn027
+name: Lagoon Nebula
+ra_hr: 18.094444444444445
+zoom_level: 32.0
+---
+_uuid: d068d2d1-9cd4-4d09-85e3-a3a8f3480c64
+angular_size: -1.0
+classification: OpenCluster
+constellation: SER2
+data_set_type: Sky
+dec_deg: -13.783333333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn031
+name: Eagle Nebula
+ra_hr: 18.313333333333333
+zoom_level: 5.681666666666667
+---
+_uuid: 99b88402-0ab0-44e3-9c05-042dc315d1a8
+angular_size: -1.0
+classification: Nebula
+constellation: LYR
+data_set_type: Sky
+dec_deg: 33.03333333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn037
+name: Ring Nebula
+ra_hr: 18.893333333333334
+zoom_level: 1.0

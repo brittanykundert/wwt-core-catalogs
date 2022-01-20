@@ -561,103 +561,6 @@ ra_hr: 2.7112538856008
 thumbnail: http://data1.wwtassets.org/packages/2021/02_sofia/ngc1068_sofia/thumb.jpg
 zoom_level: 0.6108791413920254
 ---
-_uuid: 753103ea-69fd-4d96-9809-c5a202e2665c
-angular_size: 1.0
-classification: Nebula
-constellation: CAS
-data_set_type: Sky
-dec_deg: 60.5508333333333
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1635746055
-name: W5 Star Formation Region (3.6 - 24 microns)
-ra_hr: 2.89916666666667
-zoom_level: 33.295
----
-_uuid: 64de7f09-53e7-4e66-a0c1-ac656d8f9c16
-classification: Nebula
-constellation: CAS
-data_set_type: Sky
-dec_deg: 60.3580555555556
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},2049436223
-name: Embryo Nebula;IC 1848
-ra_hr: 2.92194444444444
-zoom_level: 28.8
----
-_uuid: c59333ab-47fb-4172-a7f3-2d49ba298cdb
-classification: Nebula
-constellation: CAS
-data_set_type: Sky
-dec_deg: 61.2991666666667
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},257836772
-name: Heart Nebula;IC 1805;Melotte 15;NGC 896
-ra_hr: 2.55555555555556
-zoom_level: 35.41
----
-_uuid: e565e46a-4ee8-491f-b9f3-cebe1e06dac4
-angular_size: 1.0
-classification: Nebula
-constellation: CAS
-data_set_type: Sky
-dec_deg: 60.5508333333333
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},502342515
-name: W5 Star Formation Region (3.6 - 8 microns)
-ra_hr: 2.89916666666667
-zoom_level: 33.295
----
-_uuid: 52d05cc1-9323-4be4-a11f-4efab8498e02
-angular_size: -1.0
-classification: EmissionNebula
-constellation: CAS
-data_set_type: Sky
-dec_deg: 61.40277777777778
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn011
-name: Heart Nebula
-ra_hr: 2.5405555555555552
-zoom_level: 28.313333333333336
----
-_uuid: 253fc220-efb1-4345-ae40-c76b4fe9e620
-angular_size: -1.0
-classification: EmissionNebula
-constellation: PSC
-data_set_type: Sky
-dec_deg: 61.70527777777778
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn016
-name: Heart Nebula
-ra_hr: 2.600277777777778
-zoom_level: 32.0
----
-_uuid: 05343957-093f-4473-a455-f3538785f880
-angular_size: -1.0
-classification: SpiralGalaxy
-constellation: CET
-data_set_type: Sky
-dec_deg: 0.015
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn040
-name: Messier 77
-ra_hr: 2.7111111111111112
-zoom_level: 4.0
----
-_uuid: 29015004-04c7-453f-ba4b-1f4f67ac5863
-angular_size: -1.0
-classification: SpiralGalaxy
-constellation: AND
-data_set_type: Sky
-dec_deg: 42.350833333333334
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn049
-name: NGC 891
-ra_hr: 2.3758333333333335
-zoom_level: 2.0
----
-_uuid: 6e20595b-6774-421e-8f52-3f4aacc7864d
-angular_size: -1.0
-classification: SpiralGalaxy
-constellation: AND
-data_set_type: Sky
-dec_deg: 42.350833333333334
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn053
-name: NGC 891
-ra_hr: 2.3758333333333335
-zoom_level: 2.331666666666667
----
 _uuid: 70968441-b112-4539-b364-ca04c1432a6a
 classification: ''
 constellation: ''
@@ -1592,3 +1495,100 @@ name: Heart and Soul Nebula
 ra_hr: 2.69812933333333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-018.jpg
 zoom_level: 24.8490657806385
+---
+_uuid: 753103ea-69fd-4d96-9809-c5a202e2665c
+angular_size: 1.0
+classification: Nebula
+constellation: CAS
+data_set_type: Sky
+dec_deg: 60.5508333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1635746055
+name: W5 Star Formation Region (3.6 - 24 microns)
+ra_hr: 2.89916666666667
+zoom_level: 33.295
+---
+_uuid: 64de7f09-53e7-4e66-a0c1-ac656d8f9c16
+classification: Nebula
+constellation: CAS
+data_set_type: Sky
+dec_deg: 60.3580555555556
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},2049436223
+name: Embryo Nebula;IC 1848
+ra_hr: 2.92194444444444
+zoom_level: 28.8
+---
+_uuid: c59333ab-47fb-4172-a7f3-2d49ba298cdb
+classification: Nebula
+constellation: CAS
+data_set_type: Sky
+dec_deg: 61.2991666666667
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},257836772
+name: Heart Nebula;IC 1805;Melotte 15;NGC 896
+ra_hr: 2.55555555555556
+zoom_level: 35.41
+---
+_uuid: e565e46a-4ee8-491f-b9f3-cebe1e06dac4
+angular_size: 1.0
+classification: Nebula
+constellation: CAS
+data_set_type: Sky
+dec_deg: 60.5508333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},502342515
+name: W5 Star Formation Region (3.6 - 8 microns)
+ra_hr: 2.89916666666667
+zoom_level: 33.295
+---
+_uuid: 52d05cc1-9323-4be4-a11f-4efab8498e02
+angular_size: -1.0
+classification: EmissionNebula
+constellation: CAS
+data_set_type: Sky
+dec_deg: 61.40277777777778
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn011
+name: Heart Nebula
+ra_hr: 2.5405555555555552
+zoom_level: 28.313333333333336
+---
+_uuid: 253fc220-efb1-4345-ae40-c76b4fe9e620
+angular_size: -1.0
+classification: EmissionNebula
+constellation: PSC
+data_set_type: Sky
+dec_deg: 61.70527777777778
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn016
+name: Heart Nebula
+ra_hr: 2.600277777777778
+zoom_level: 32.0
+---
+_uuid: 05343957-093f-4473-a455-f3538785f880
+angular_size: -1.0
+classification: SpiralGalaxy
+constellation: CET
+data_set_type: Sky
+dec_deg: 0.015
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn040
+name: Messier 77
+ra_hr: 2.7111111111111112
+zoom_level: 4.0
+---
+_uuid: 29015004-04c7-453f-ba4b-1f4f67ac5863
+angular_size: -1.0
+classification: SpiralGalaxy
+constellation: AND
+data_set_type: Sky
+dec_deg: 42.350833333333334
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn049
+name: NGC 891
+ra_hr: 2.3758333333333335
+zoom_level: 2.0
+---
+_uuid: 6e20595b-6774-421e-8f52-3f4aacc7864d
+angular_size: -1.0
+classification: SpiralGalaxy
+constellation: AND
+data_set_type: Sky
+dec_deg: 42.350833333333334
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn053
+name: NGC 891
+ra_hr: 2.3758333333333335
+zoom_level: 2.331666666666667

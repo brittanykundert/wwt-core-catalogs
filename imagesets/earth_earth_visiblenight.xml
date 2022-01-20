@@ -22,6 +22,7 @@
     ReferenceFrame="Earth"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="9"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},EarthAtNight2012"
     WidthFactor="2"

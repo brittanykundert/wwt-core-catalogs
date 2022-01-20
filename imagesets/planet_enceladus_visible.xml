@@ -22,6 +22,7 @@
     ReferenceFrame="Enceladus"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="3"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},enceladus_sat2vuu2"
     WidthFactor="1"

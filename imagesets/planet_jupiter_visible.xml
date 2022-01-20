@@ -23,6 +23,7 @@
     ReferenceFrame="Jupiter"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="4"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000121{Q}?g=131"
     WidthFactor="1"

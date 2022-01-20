@@ -662,59 +662,6 @@ name: M81;NGC 3031;Bode's Galaxy
 ra_hr: 9.92583333333333
 zoom_level: 3.93833333333333
 ---
-_uuid: be3043c1-5023-44be-9581-d858d3edc65b
-classification: Unfiltered
-constellation: LYN
-data_set_type: Sky
-dec_deg: 33.1146888888889
-foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/1992866086/{1}/{3}/{3}_{2}.png
-name: NGC 2770 with SN 2008D
-ra_hr: 9.15847444444444
-zoom_level: 0.97163599997306
----
-_uuid: 7422b450-9079-4902-8678-fd0dc9564d5c
-angular_size: 1.0
-classification: Unfiltered
-constellation: AND
-data_set_type: Sky
-dec_deg: 33.16762233117
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},546176351
-name: 'SN 2008D: Supernova Caught in Act of Exploding'
-ra_hr: 9.15908921762333
-zoom_level: -1.0
----
-_uuid: f424040b-9f18-44c6-8e3d-591936348e1f
-angular_size: 1.0
-classification: SpiralGalaxy
-constellation: UMA
-data_set_type: Sky
-dec_deg: 69.0580555555556
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},788116595
-name: M81 in XRay;Messier 81
-ra_hr: 9.92861111111111
-zoom_level: 4.73833333333333
----
-_uuid: 91f3b4dd-5717-4ca5-8a8f-b366d5175305
-classification: ClusterOfGalaxies
-constellation: UMA
-data_set_type: Sky
-dec_deg: 69.2655555555556
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},911211722
-name: M81, M82, NGC 3077, et al;M82;NGC 3077;Messier 81
-ra_hr: 9.95361111111111
-zoom_level: 25.7733333333333
----
-_uuid: 5c2e2536-7cf2-47c3-967c-61e5b955805f
-angular_size: 1.0
-classification: SpiralGalaxy
-constellation: UMA
-data_set_type: Sky
-dec_deg: 69.0580555555556
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},996535480
-name: M81;Messier 81
-ra_hr: 9.92861111111111
-zoom_level: 4.73833333333333
----
 _uuid: 6d6ebe3a-db22-4ef8-890d-0a31d9b1edf3
 classification: ''
 constellation: ''
@@ -1979,3 +1926,56 @@ name: GUM 25
 ra_hr: 9.01055934
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-023.jpg
 zoom_level: 6.25915052032
+---
+_uuid: be3043c1-5023-44be-9581-d858d3edc65b
+classification: Unfiltered
+constellation: LYN
+data_set_type: Sky
+dec_deg: 33.1146888888889
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/1992866086/{1}/{3}/{3}_{2}.png
+name: NGC 2770 with SN 2008D
+ra_hr: 9.15847444444444
+zoom_level: 0.97163599997306
+---
+_uuid: 7422b450-9079-4902-8678-fd0dc9564d5c
+angular_size: 1.0
+classification: Unfiltered
+constellation: AND
+data_set_type: Sky
+dec_deg: 33.16762233117
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},546176351
+name: 'SN 2008D: Supernova Caught in Act of Exploding'
+ra_hr: 9.15908921762333
+zoom_level: -1.0
+---
+_uuid: f424040b-9f18-44c6-8e3d-591936348e1f
+angular_size: 1.0
+classification: SpiralGalaxy
+constellation: UMA
+data_set_type: Sky
+dec_deg: 69.0580555555556
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},788116595
+name: M81 in XRay;Messier 81
+ra_hr: 9.92861111111111
+zoom_level: 4.73833333333333
+---
+_uuid: 91f3b4dd-5717-4ca5-8a8f-b366d5175305
+classification: ClusterOfGalaxies
+constellation: UMA
+data_set_type: Sky
+dec_deg: 69.2655555555556
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},911211722
+name: M81, M82, NGC 3077, et al;M82;NGC 3077;Messier 81
+ra_hr: 9.95361111111111
+zoom_level: 25.7733333333333
+---
+_uuid: 5c2e2536-7cf2-47c3-967c-61e5b955805f
+angular_size: 1.0
+classification: SpiralGalaxy
+constellation: UMA
+data_set_type: Sky
+dec_deg: 69.0580555555556
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},996535480
+name: M81;Messier 81
+ra_hr: 9.92861111111111
+zoom_level: 4.73833333333333

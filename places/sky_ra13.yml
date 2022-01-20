@@ -2086,60 +2086,6 @@ name: A Classic Beauty;Messier 51;Whirlpool Galaxy;NGC 5194
 ra_hr: 13.4980555555556
 zoom_level: 2.85
 ---
-_uuid: 1cc1e412-156b-4b82-9d54-43c0bd80a90c
-classification: Unfiltered
-constellation: NOR
-data_set_type: Sky
-dec_deg: -65.974075
-foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/332101405/{1}/{3}/{3}_{2}.png
-name: Planetary Nebula NGC 5189
-ra_hr: 13.5591594444444
-zoom_level: 1.2
----
-_uuid: c61126e8-793a-4151-80a2-09f6ad17d103
-angular_size: 2.0
-classification: ClusterOfGalaxies
-constellation: VIR
-data_set_type: Sky
-dec_deg: -1.33833333333333
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},2055390745
-name: 'Abell 1689:  A Galaxy Cluster Makes Its Mark'
-ra_hr: 13.1916666666667
-zoom_level: 2.0
----
-_uuid: 6de1145c-f70d-4d48-9de0-eb4cadb934db
-angular_size: 1.0
-classification: BlackHole
-constellation: CEN
-data_set_type: Sky
-dec_deg: -43.0047222222222
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},613200509
-name: Centaurus A
-ra_hr: 13.425
-zoom_level: 5.625
----
-_uuid: 2b270c88-469b-4386-abfb-efbcc036853a
-angular_size: 1.0
-classification: Galaxy
-constellation: CEN
-data_set_type: Sky
-dec_deg: -43.000277777777775
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn005
-name: Centaurus A
-ra_hr: 13.42361111111111
-zoom_level: 4.0
----
-_uuid: 92066079-5cc4-4efb-842f-9086c904e826
-angular_size: -1.0
-classification: SpiralGalaxy
-constellation: CVN
-data_set_type: Sky
-dec_deg: 47.21333333333334
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn023
-name: Whirlpool Galaxy
-ra_hr: 13.497777777777777
-zoom_level: 4.0
----
 _uuid: d62f5b7c-fd7b-46dc-b8f5-18e1a13d9331
 classification: ''
 constellation: ''
@@ -4119,3 +4065,57 @@ name: Southern Pinwheel Galaxy
 ra_hr: 13.6169305333333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020d.jpg
 zoom_level: 3.12888884544307
+---
+_uuid: 1cc1e412-156b-4b82-9d54-43c0bd80a90c
+classification: Unfiltered
+constellation: NOR
+data_set_type: Sky
+dec_deg: -65.974075
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/332101405/{1}/{3}/{3}_{2}.png
+name: Planetary Nebula NGC 5189
+ra_hr: 13.5591594444444
+zoom_level: 1.2
+---
+_uuid: c61126e8-793a-4151-80a2-09f6ad17d103
+angular_size: 2.0
+classification: ClusterOfGalaxies
+constellation: VIR
+data_set_type: Sky
+dec_deg: -1.33833333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},2055390745
+name: 'Abell 1689:  A Galaxy Cluster Makes Its Mark'
+ra_hr: 13.1916666666667
+zoom_level: 2.0
+---
+_uuid: 6de1145c-f70d-4d48-9de0-eb4cadb934db
+angular_size: 1.0
+classification: BlackHole
+constellation: CEN
+data_set_type: Sky
+dec_deg: -43.0047222222222
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},613200509
+name: Centaurus A
+ra_hr: 13.425
+zoom_level: 5.625
+---
+_uuid: 2b270c88-469b-4386-abfb-efbcc036853a
+angular_size: 1.0
+classification: Galaxy
+constellation: CEN
+data_set_type: Sky
+dec_deg: -43.000277777777775
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn005
+name: Centaurus A
+ra_hr: 13.42361111111111
+zoom_level: 4.0
+---
+_uuid: 92066079-5cc4-4efb-842f-9086c904e826
+angular_size: -1.0
+classification: SpiralGalaxy
+constellation: CVN
+data_set_type: Sky
+dec_deg: 47.21333333333334
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn023
+name: Whirlpool Galaxy
+ra_hr: 13.497777777777777
+zoom_level: 4.0

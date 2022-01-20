@@ -23,6 +23,7 @@
     ReferenceFrame="Europa"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="5"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001113{Q}?g=138"
     WidthFactor="1"

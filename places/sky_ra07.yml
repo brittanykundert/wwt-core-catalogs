@@ -681,27 +681,6 @@ name: V838 Monocerotis - 2 September 2002
 ra_hr: 7.06805555555556
 zoom_level: 0.5
 ---
-_uuid: 1dda6cff-5870-45e3-a83a-a16c8fc8569b
-classification: Unfiltered
-constellation: PUP
-data_set_type: Sky
-dec_deg: -26.4416666666667
-foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/250675033/{1}/{3}/{3}_{2}.png
-name: Star Birth NGC 2467
-ra_hr: 7.87202777777778
-zoom_level: 1.2
----
-_uuid: 89efd150-f4e5-4fa5-9f67-e5483dae3cdb
-angular_size: -1.0
-classification: PlanetaryNebula
-constellation: CMA
-data_set_type: Sky
-dec_deg: -13.227222222222222
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn050
-name: Thor's Helmet
-ra_hr: 7.3086111111111105
-zoom_level: 3.746666666666667
----
 _uuid: 2acdc742-9e7b-42c3-ba99-24dee14cf538
 classification: ''
 constellation: ''
@@ -1438,3 +1417,24 @@ name: CG4
 ra_hr: 7.57369446666667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-024.jpg
 zoom_level: 6.25777769088778
+---
+_uuid: 1dda6cff-5870-45e3-a83a-a16c8fc8569b
+classification: Unfiltered
+constellation: PUP
+data_set_type: Sky
+dec_deg: -26.4416666666667
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/250675033/{1}/{3}/{3}_{2}.png
+name: Star Birth NGC 2467
+ra_hr: 7.87202777777778
+zoom_level: 1.2
+---
+_uuid: 89efd150-f4e5-4fa5-9f67-e5483dae3cdb
+angular_size: -1.0
+classification: PlanetaryNebula
+constellation: CMA
+data_set_type: Sky
+dec_deg: -13.227222222222222
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn050
+name: Thor's Helmet
+ra_hr: 7.3086111111111105
+zoom_level: 3.746666666666667

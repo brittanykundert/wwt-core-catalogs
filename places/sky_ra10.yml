@@ -1364,16 +1364,6 @@ name: IRAS F10565+2448;EQ 1056+248
 ra_hr: 10.9884194444445
 zoom_level: -1.0
 ---
-_uuid: 4e41d4c7-3ef5-4b6f-a903-aa3f88a79146
-classification: Unfiltered
-constellation: HYA
-data_set_type: Sky
-dec_deg: -27.528585
-foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/292498877/{1}/{3}/{3}_{2}.png
-name: NGC 3311 in Hydra Cluster of Galaxies
-ra_hr: 10.6118225
-zoom_level: 0.871831403894357
----
 _uuid: aad3086d-6370-4e3d-80d3-549337b4d1da
 classification: ''
 constellation: ''
@@ -3210,3 +3200,13 @@ name: SpARCS1049+56
 ra_hr: 10.8229856133333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2015-03b.jpg
 zoom_level: 0.1023785385984
+---
+_uuid: 4e41d4c7-3ef5-4b6f-a903-aa3f88a79146
+classification: Unfiltered
+constellation: HYA
+data_set_type: Sky
+dec_deg: -27.528585
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/292498877/{1}/{3}/{3}_{2}.png
+name: NGC 3311 in Hydra Cluster of Galaxies
+ra_hr: 10.6118225
+zoom_level: 0.871831403894357

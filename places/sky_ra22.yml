@@ -980,37 +980,6 @@ name: SSTGFLS J222557+601148 (IRAC);SSTGFLS J222557+601148 Supernova Remnant
 ra_hr: 22.4291666666667
 zoom_level: 1.99166666666667
 ---
-_uuid: 1575eced-5077-43f5-a59b-5feb640779a7
-classification: Unfiltered
-constellation: PEG
-data_set_type: Sky
-dec_deg: 33.9479722222222
-foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/2091410519/{1}/{3}/{3}_{2}.png
-name: Stephan's Quintet HCG 92
-ra_hr: 22.6010055555556
-zoom_level: 1.2
----
-_uuid: 008f177b-97bd-4d6e-9674-37434ad71d0a
-classification: Unfiltered
-constellation: GRU
-data_set_type: Sky
-dec_deg: -41.07375
-foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/646280305/{1}/{3}/{3}_{2}.png
-name: Spiral Galaxy NGC 7424
-ra_hr: 22.9552222222222
-zoom_level: 1.2
----
-_uuid: 0a553c82-d45c-4f4a-ba3e-c93eb7426d8e
-angular_size: -1.0
-classification: PlanetaryNebula
-constellation: AQR
-data_set_type: Sky
-dec_deg: -20.839444444444442
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn012
-name: Helix Nebula
-ra_hr: 22.494444444444447
-zoom_level: 3.893333333333333
----
 _uuid: 24b45e01-303e-4fb5-b3da-d4e112505132
 classification: ''
 constellation: ''
@@ -1747,3 +1716,34 @@ name: IRAS 22298
 ra_hr: 22.5134606666667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-034.jpg
 zoom_level: 12.51377905664
+---
+_uuid: 1575eced-5077-43f5-a59b-5feb640779a7
+classification: Unfiltered
+constellation: PEG
+data_set_type: Sky
+dec_deg: 33.9479722222222
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/2091410519/{1}/{3}/{3}_{2}.png
+name: Stephan's Quintet HCG 92
+ra_hr: 22.6010055555556
+zoom_level: 1.2
+---
+_uuid: 008f177b-97bd-4d6e-9674-37434ad71d0a
+classification: Unfiltered
+constellation: GRU
+data_set_type: Sky
+dec_deg: -41.07375
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/646280305/{1}/{3}/{3}_{2}.png
+name: Spiral Galaxy NGC 7424
+ra_hr: 22.9552222222222
+zoom_level: 1.2
+---
+_uuid: 0a553c82-d45c-4f4a-ba3e-c93eb7426d8e
+angular_size: -1.0
+classification: PlanetaryNebula
+constellation: AQR
+data_set_type: Sky
+dec_deg: -20.839444444444442
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn012
+name: Helix Nebula
+ra_hr: 22.494444444444447
+zoom_level: 3.893333333333333

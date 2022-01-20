@@ -22,6 +22,7 @@
     ReferenceFrame="Mercury"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="8"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles2.aspx?q={1},{2},{3},messenger2"
     WidthFactor="1"

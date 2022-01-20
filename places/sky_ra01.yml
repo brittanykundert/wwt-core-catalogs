@@ -974,46 +974,6 @@ name: Supernova Dust Factory in M74;M74;NGC628;Messier 74;NGC 628;Supernova 2003
 ra_hr: 1.61166666666667
 zoom_level: 1.415
 ---
-_uuid: 89af2194-184a-454c-a945-e1d9823cd34f
-classification: Unfiltered
-constellation: PSC
-data_set_type: Sky
-dec_deg: 15.7832222222222
-foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/1104816585/{1}/{3}/{3}_{2}.png
-name: The "Perfect Spiral" M74
-ra_hr: 1.61162222222222
-zoom_level: 1.2
----
-_uuid: 1f899cd2-7d85-4411-9185-02041084474c
-classification: Unfiltered
-constellation: PSC
-data_set_type: Sky
-dec_deg: 3.79163888888889
-foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/1759154497/{1}/{3}/{3}_{2}.png
-name: Knotted Galactic Embrace NGC 520
-ra_hr: 1.40966666666667
-zoom_level: 1.2
----
-_uuid: a9d5afab-ce7c-4420-bfe6-206480fbed50
-classification: SpiralGalaxy
-constellation: TRI
-data_set_type: Sky
-dec_deg: 30.6819444444444
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1587164739
-name: Pinwheel Galaxy;M33;Messier 33
-ra_hr: 1.5625
-zoom_level: 23.255
----
-_uuid: 2529aef1-ba04-421b-be92-0f92e0f73a17
-classification: OpenCluster
-constellation: AND
-data_set_type: Sky
-dec_deg: 60.6483333333333
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1990763475
-name: Messier 103;M103
-ra_hr: 1.55805555555556
-zoom_level: 12.2066666666667
----
 _uuid: e58de1cd-93ef-45ae-9e2c-c9018ef80d9e
 classification: ''
 constellation: ''
@@ -1904,3 +1864,43 @@ name: Messier 74
 ra_hr: 1.6116028
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020b.jpg
 zoom_level: 1.56444442272154
+---
+_uuid: 89af2194-184a-454c-a945-e1d9823cd34f
+classification: Unfiltered
+constellation: PSC
+data_set_type: Sky
+dec_deg: 15.7832222222222
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/1104816585/{1}/{3}/{3}_{2}.png
+name: The "Perfect Spiral" M74
+ra_hr: 1.61162222222222
+zoom_level: 1.2
+---
+_uuid: 1f899cd2-7d85-4411-9185-02041084474c
+classification: Unfiltered
+constellation: PSC
+data_set_type: Sky
+dec_deg: 3.79163888888889
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/1759154497/{1}/{3}/{3}_{2}.png
+name: Knotted Galactic Embrace NGC 520
+ra_hr: 1.40966666666667
+zoom_level: 1.2
+---
+_uuid: a9d5afab-ce7c-4420-bfe6-206480fbed50
+classification: SpiralGalaxy
+constellation: TRI
+data_set_type: Sky
+dec_deg: 30.6819444444444
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1587164739
+name: Pinwheel Galaxy;M33;Messier 33
+ra_hr: 1.5625
+zoom_level: 23.255
+---
+_uuid: 2529aef1-ba04-421b-be92-0f92e0f73a17
+classification: OpenCluster
+constellation: AND
+data_set_type: Sky
+dec_deg: 60.6483333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1990763475
+name: Messier 103;M103
+ra_hr: 1.55805555555556
+zoom_level: 12.2066666666667

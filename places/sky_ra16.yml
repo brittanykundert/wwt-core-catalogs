@@ -1190,27 +1190,6 @@ name: NGC 6240;VV 617
 ra_hr: 16.8830555555556
 zoom_level: 0.981666666666667
 ---
-_uuid: 84724ba9-eb2a-4089-9393-5a7570a14dc6
-classification: Unfiltered
-constellation: NOR
-data_set_type: Sky
-dec_deg: -48.1112433333333
-foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/512128116/{1}/{3}/{3}_{2}.png
-name: Bipolar Cloud NGC 6164-5
-ra_hr: 16.5645522222222
-zoom_level: 1.2
----
-_uuid: f104f094-f19c-42f8-8b0f-c9efee38be72
-angular_size: -1.0
-classification: Nebula
-constellation: ARA
-data_set_type: Sky
-dec_deg: -48.865
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},152197268
-name: Massive Young Stars Trigger Stellar Birth;RCW 108
-ra_hr: 16.6663888888889
-zoom_level: 4.5
----
 _uuid: dca83e11-a904-499e-b89f-a8f4e8cb16ee
 classification: ''
 constellation: ''
@@ -2376,3 +2355,24 @@ name: IC 4592
 ra_hr: 16.2668587701333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-031.jpg
 zoom_level: 25.031081984
+---
+_uuid: 84724ba9-eb2a-4089-9393-5a7570a14dc6
+classification: Unfiltered
+constellation: NOR
+data_set_type: Sky
+dec_deg: -48.1112433333333
+foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/512128116/{1}/{3}/{3}_{2}.png
+name: Bipolar Cloud NGC 6164-5
+ra_hr: 16.5645522222222
+zoom_level: 1.2
+---
+_uuid: f104f094-f19c-42f8-8b0f-c9efee38be72
+angular_size: -1.0
+classification: Nebula
+constellation: ARA
+data_set_type: Sky
+dec_deg: -48.865
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},152197268
+name: Massive Young Stars Trigger Stellar Birth;RCW 108
+ra_hr: 16.6663888888889
+zoom_level: 4.5

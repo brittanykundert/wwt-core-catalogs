@@ -564,91 +564,6 @@ name: IRAS 21101+5810;2MASX J21112926+5823074
 ra_hr: 21.1913666666667
 zoom_level: -1.0
 ---
-_uuid: d70f0665-d029-4b2d-9327-c34a8cfe02b1
-classification: PlanetaryNebula
-constellation: CYG
-data_set_type: Sky
-dec_deg: 31.7008333333333
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1076767149
-name: Abell 78
-ra_hr: 21.5913888888889
-zoom_level: 4.8
----
-_uuid: 3c811d23-7d0c-4f97-8dd7-b79ad8ce4578
-classification: Nebula
-constellation: AND
-data_set_type: Sky
-dec_deg: 47.5041666666667
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1383150283
-name: Cocoon Nebula;B168
-ra_hr: 21.8325
-zoom_level: 32.0
----
-_uuid: e8b452ac-ffaf-4016-85ea-8ad8aad2c8be
-classification: Nebula
-constellation: CEP
-data_set_type: Sky
-dec_deg: 57.8416666666667
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1680635435
-name: IC 1396;Elephant's Trunk
-ra_hr: 21.6561111111111
-zoom_level: 36.0
----
-_uuid: a5abfbb2-c4eb-4764-a2c8-9517e02df7db
-angular_size: 1.0
-classification: ReflectionNebula
-constellation: CYG
-data_set_type: Sky
-dec_deg: 47.26444444444444
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn006
-name: Cocoon Nebula
-ra_hr: 21.88861111111111
-zoom_level: 3.413333333333333
----
-_uuid: 223569c1-adb2-458c-a08d-cc2ffa0b0d97
-angular_size: -1.0
-classification: EmissionNebula
-constellation: CEP
-data_set_type: Sky
-dec_deg: 57.61333333333334
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn013
-name: Elephant's Trunk Nebula
-ra_hr: 21.641666666666666
-zoom_level: 22.626666666666665
----
-_uuid: 3cb291ca-3773-4654-98de-e27db6cde7f7
-angular_size: -1.0
-classification: GlobularCluster
-constellation: PEG
-data_set_type: Sky
-dec_deg: 12.166666666666666
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn019
-name: Messier 15
-ra_hr: 21.5
-zoom_level: 4.0
----
-_uuid: 86dd9cda-83ab-4c85-ad22-d522bd325430
-angular_size: -1.0
-classification: GlobularCluster
-constellation: AQR
-data_set_type: Sky
-dec_deg: 0.8216666666666667
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn032
-name: Messier 2
-ra_hr: 21.5575
-zoom_level: 7.72
----
-_uuid: 4213d602-afe7-48e7-a948-c06412902c71
-angular_size: -1.0
-classification: ReflectionNebula
-constellation: CEP
-data_set_type: Sky
-dec_deg: 68.16972222222223
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn048
-name: NGC 7023
-ra_hr: 21.026666666666667
-zoom_level: 3.908333333333333
----
 _uuid: 57c0395f-8b17-404d-85a1-eba6b5e540a7
 classification: ''
 constellation: ''
@@ -1143,3 +1058,88 @@ name: IC 1396
 ra_hr: 21.6224494497333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-022.jpg
 zoom_level: 12.515540992
+---
+_uuid: d70f0665-d029-4b2d-9327-c34a8cfe02b1
+classification: PlanetaryNebula
+constellation: CYG
+data_set_type: Sky
+dec_deg: 31.7008333333333
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1076767149
+name: Abell 78
+ra_hr: 21.5913888888889
+zoom_level: 4.8
+---
+_uuid: 3c811d23-7d0c-4f97-8dd7-b79ad8ce4578
+classification: Nebula
+constellation: AND
+data_set_type: Sky
+dec_deg: 47.5041666666667
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1383150283
+name: Cocoon Nebula;B168
+ra_hr: 21.8325
+zoom_level: 32.0
+---
+_uuid: e8b452ac-ffaf-4016-85ea-8ad8aad2c8be
+classification: Nebula
+constellation: CEP
+data_set_type: Sky
+dec_deg: 57.8416666666667
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1680635435
+name: IC 1396;Elephant's Trunk
+ra_hr: 21.6561111111111
+zoom_level: 36.0
+---
+_uuid: a5abfbb2-c4eb-4764-a2c8-9517e02df7db
+angular_size: 1.0
+classification: ReflectionNebula
+constellation: CYG
+data_set_type: Sky
+dec_deg: 47.26444444444444
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn006
+name: Cocoon Nebula
+ra_hr: 21.88861111111111
+zoom_level: 3.413333333333333
+---
+_uuid: 223569c1-adb2-458c-a08d-cc2ffa0b0d97
+angular_size: -1.0
+classification: EmissionNebula
+constellation: CEP
+data_set_type: Sky
+dec_deg: 57.61333333333334
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn013
+name: Elephant's Trunk Nebula
+ra_hr: 21.641666666666666
+zoom_level: 22.626666666666665
+---
+_uuid: 3cb291ca-3773-4654-98de-e27db6cde7f7
+angular_size: -1.0
+classification: GlobularCluster
+constellation: PEG
+data_set_type: Sky
+dec_deg: 12.166666666666666
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn019
+name: Messier 15
+ra_hr: 21.5
+zoom_level: 4.0
+---
+_uuid: 86dd9cda-83ab-4c85-ad22-d522bd325430
+angular_size: -1.0
+classification: GlobularCluster
+constellation: AQR
+data_set_type: Sky
+dec_deg: 0.8216666666666667
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn032
+name: Messier 2
+ra_hr: 21.5575
+zoom_level: 7.72
+---
+_uuid: 4213d602-afe7-48e7-a948-c06412902c71
+angular_size: -1.0
+classification: ReflectionNebula
+constellation: CEP
+data_set_type: Sky
+dec_deg: 68.16972222222223
+foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn048
+name: NGC 7023
+ra_hr: 21.026666666666667
+zoom_level: 3.908333333333333

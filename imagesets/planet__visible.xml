@@ -24,6 +24,7 @@
     QuadTreeMap="0123"
     Rotation="0"
     Sparse="True"
+    StockSet="False"
     TileLevels="16"
     Url="http://cdn.worldwidetelescope.org/wwtweb/MarsMoc.aspx?q={1},{2},{3}&amp;v=2"
     WidthFactor="2"
@@ -51,6 +52,7 @@
     QuadTreeMap="0123"
     Rotation="0"
     Sparse="True"
+    StockSet="False"
     TileLevels="18"
     Url="http://cdn.worldwidetelescope.org/wwtweb/Marshirise.aspx?q={1},{2},{3}"
     WidthFactor="2"
@@ -78,6 +80,7 @@
     QuadTreeMap="0123"
     Rotation="0"
     Sparse="True"
+    StockSet="False"
     TileLevels="8"
     Url="http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_base_map"
     WidthFactor="2"
@@ -105,6 +108,7 @@
     QuadTreeMap="0123"
     Rotation="0"
     Sparse="True"
+    StockSet="False"
     TileLevels="8"
     Url="http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_terrain_color"
     WidthFactor="2"
@@ -128,6 +132,7 @@
     Projection="Toast"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="7"
     Url="http://data1.wwtassets.org/moons/Charon_NH_Enhanced_ColorL{1}X{2}Y{3}.png"
     WidthFactor="2"
@@ -150,12 +155,157 @@
     Projection="Toast"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="4"
     Url="http://data1.wwtassets.org/moons/Charon_NewHorizons_ColorizedTerrainL{1}X{2}Y{3}.png"
     WidthFactor="2"
   >
     <Credits>Charon map courtesy of NASA/JHUAPL/SwRI</Credits>
     <ThumbnailUrl>http://data1.wwtassets.org/moons/Charon_NewHorizons_ColorizedTerrain.jpeg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="90"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Dione - Cassini Enhanced Color"
+    Projection="Toast"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://data1.wwtassets.org/moons/Dione_Enhanced_ColorL{1}X{2}Y{3}.png"
+    WidthFactor="2"
+  >
+    <Credits>Dione map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
+    <CreditsUrl>http://ciclops.org/view/7960/Color-maps-of-Dione---November-2014</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/moons/Dione_Enhanced_Color.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="90"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Enceladus - Cassini Enhanced Color"
+    Projection="Toast"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://data1.wwtassets.org/moons/Enceladus_Color_EnhancedL{1}X{2}Y{3}.png"
+    WidthFactor="2"
+  >
+    <Credits>Enceladus map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
+    <CreditsUrl>http://ciclops.org/view/7961/Color-Maps-of-Enceladus---November-2014</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/moons/Enceladus_Enhanced_Color.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="90"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Iapetus - Cassini Enhanced Color"
+    Projection="Toast"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://data1.wwtassets.org/moons/Iapetus_Enhanced_ColorL{1}X{2}Y{3}.png"
+    WidthFactor="2"
+  >
+    <Credits>Iapetus map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
+    <CreditsUrl>http://ciclops.org/view/7962/Color-Maps-of-Iapetus---November-2014</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/moons/Iapetus_Enhanced_Color.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="90"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Mimas - Cassini Enhanced Color"
+    Projection="Toast"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://data1.wwtassets.org/moons/Mimas_Enhanced_ColorL{1}X{2}Y{3}.png"
+    WidthFactor="2"
+  >
+    <Credits>Mimas map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
+    <CreditsUrl>http://ciclops.org/view/7963/Color-Maps-of-Mimas---November-2014</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/moons/Mimas_Enhanced_Color.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="90"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Rhea - Cassini Enhanced Color"
+    Projection="Toast"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://data1.wwtassets.org/moons/Rhea_Enhanced_ColorL{1}X{2}Y{3}.png"
+    WidthFactor="2"
+  >
+    <Credits>Rhea map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
+    <CreditsUrl>http://ciclops.org/view/7964/Color-Maps-of-Rhea---November-2014</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/moons/Rhea_Enhanced_Color.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="90"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Tethys - Cassini Enhanced Color"
+    Projection="Toast"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://data1.wwtassets.org/moons/Tethys_Enhanced_ColorL{1}X{2}Y{3}.png"
+    WidthFactor="2"
+  >
+    <Credits>Tethys map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
+    <CreditsUrl>http://ciclops.org/view/7965/Color-Maps-of-Tethys---November-2014</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/moons/Tethys_Enhanced_Color.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -173,6 +323,7 @@
     Projection="Toast"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="6"
     Url="http://data1.wwtassets.org/packages/2020/08_titan/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
@@ -198,6 +349,7 @@
     Projection="Toast"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="7"
     Url="http://data1.wwtassets.org/packages/2020/08_titan_topo/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
@@ -221,6 +373,7 @@
     Projection="Toast"
     Rotation="0"
     Sparse="True"
+    StockSet="False"
     TileLevels="5"
     Url="http://data1.wwtassets.org/packages/2020/10_enceladus_vims/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
@@ -243,6 +396,7 @@
     Projection="Toast"
     Rotation="0"
     Sparse="True"
+    StockSet="False"
     TileLevels="8"
     Url="http://data1.wwtassets.org/packages/2021/02_bennu/bennu/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
@@ -266,6 +420,7 @@
     Projection="Toast"
     Rotation="0"
     Sparse="True"
+    StockSet="False"
     TileLevels="6"
     Url="http://data1.wwtassets.org/packages/2022/01_jupiter/Jupiter_Juno_Cassini/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
@@ -289,6 +444,7 @@
     Projection="Toast"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="7"
     Url="http://data1.wwtassets.org/planets/Pluto_NH_Enhanced_ColorL{1}X{2}Y{3}.png"
     WidthFactor="2"
@@ -313,6 +469,7 @@
     QuadTreeMap="0123"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="5"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001121{Q}?g=138"
     WidthFactor="1"
@@ -336,6 +493,7 @@
     Projection="Toast"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="7"
     Url="http://wwtfiles.blob.core.windows.net/planets/Pluto_NewHorizons_ColorizedTerrainL{1}X{2}Y{3}.png"
     WidthFactor="2"
@@ -359,6 +517,7 @@
     Projection="Equirectangular"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="26"
     Url="http://www.worldwidetelescope.org/wwtweb/mandel.aspx?q={1},{2},{3}"
     WidthFactor="1"
@@ -366,143 +525,5 @@
     <Credits>Mandelbrot Fractal Dynamically Generated</Credits>
     <CreditsUrl>http://en.wikipedia.org/wiki/Mandelbrot_set</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mandelbrot</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="90"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="0"
-    CenterY="0"
-    DataSetType="Planet"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Dione - Cassini Enhanced Color"
-    Projection="Toast"
-    Rotation="0"
-    Sparse="False"
-    TileLevels="7"
-    Url="http://data1.wwtassets.org/moons/Dione_Enhanced_ColorL{1}X{2}Y{3}.png"
-    WidthFactor="2"
-  >
-    <Credits>Dione map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
-    <CreditsUrl>http://ciclops.org/view/7960/Color-maps-of-Dione---November-2014</CreditsUrl>
-    <ThumbnailUrl>http://data1.wwtassets.org/moons/Dione_Enhanced_Color.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="90"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="0"
-    CenterY="0"
-    DataSetType="Planet"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Enceladus - Cassini Enhanced Color"
-    Projection="Toast"
-    Rotation="0"
-    Sparse="False"
-    TileLevels="7"
-    Url="http://data1.wwtassets.org/moons/Enceladus_Color_EnhancedL{1}X{2}Y{3}.png"
-    WidthFactor="2"
-  >
-    <Credits>Enceladus map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
-    <CreditsUrl>http://ciclops.org/view/7961/Color-Maps-of-Enceladus---November-2014</CreditsUrl>
-    <ThumbnailUrl>http://data1.wwtassets.org/moons/Enceladus_Enhanced_Color.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="90"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="0"
-    CenterY="0"
-    DataSetType="Planet"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Iapetus - Cassini Enhanced Color"
-    Projection="Toast"
-    Rotation="0"
-    Sparse="False"
-    TileLevels="7"
-    Url="http://data1.wwtassets.org/moons/Iapetus_Enhanced_ColorL{1}X{2}Y{3}.png"
-    WidthFactor="2"
-  >
-    <Credits>Iapetus map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
-    <CreditsUrl>http://ciclops.org/view/7962/Color-Maps-of-Iapetus---November-2014</CreditsUrl>
-    <ThumbnailUrl>http://data1.wwtassets.org/moons/Iapetus_Enhanced_Color.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="90"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="0"
-    CenterY="0"
-    DataSetType="Planet"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Mimas - Cassini Enhanced Color"
-    Projection="Toast"
-    Rotation="0"
-    Sparse="False"
-    TileLevels="7"
-    Url="http://data1.wwtassets.org/moons/Mimas_Enhanced_ColorL{1}X{2}Y{3}.png"
-    WidthFactor="2"
-  >
-    <Credits>Mimas map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
-    <CreditsUrl>http://ciclops.org/view/7963/Color-Maps-of-Mimas---November-2014</CreditsUrl>
-    <ThumbnailUrl>http://data1.wwtassets.org/moons/Mimas_Enhanced_Color.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="90"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="0"
-    CenterY="0"
-    DataSetType="Planet"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Rhea - Cassini Enhanced Color"
-    Projection="Toast"
-    Rotation="0"
-    Sparse="False"
-    TileLevels="7"
-    Url="http://data1.wwtassets.org/moons/Rhea_Enhanced_ColorL{1}X{2}Y{3}.png"
-    WidthFactor="2"
-  >
-    <Credits>Rhea map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
-    <CreditsUrl>http://ciclops.org/view/7964/Color-Maps-of-Rhea---November-2014</CreditsUrl>
-    <ThumbnailUrl>http://data1.wwtassets.org/moons/Rhea_Enhanced_Color.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="90"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="0"
-    CenterY="0"
-    DataSetType="Planet"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Tethys - Cassini Enhanced Color"
-    Projection="Toast"
-    Rotation="0"
-    Sparse="False"
-    TileLevels="7"
-    Url="http://data1.wwtassets.org/moons/Tethys_Enhanced_ColorL{1}X{2}Y{3}.png"
-    WidthFactor="2"
-  >
-    <Credits>Tethys map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
-    <CreditsUrl>http://ciclops.org/view/7965/Color-Maps-of-Tethys---November-2014</CreditsUrl>
-    <ThumbnailUrl>http://data1.wwtassets.org/moons/Tethys_Enhanced_Color.jpg</ThumbnailUrl>
   </ImageSet>
 </Folder>

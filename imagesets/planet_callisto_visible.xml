@@ -23,6 +23,7 @@
     ReferenceFrame="Callisto"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="5"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001112{Q}?g=138"
     WidthFactor="1"

@@ -23,6 +23,7 @@
     ReferenceFrame="Ganymede"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="5"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001120{Q}?g=138"
     WidthFactor="1"

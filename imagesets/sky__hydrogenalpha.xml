@@ -21,6 +21,7 @@
     Projection="Toast"
     Rotation="0"
     Sparse="False"
+    StockSet="False"
     TileLevels="6"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},halpha"
     WidthFactor="2"
