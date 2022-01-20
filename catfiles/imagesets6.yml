@@ -14,10 +14,12 @@ children:
 - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001121{Q}?g=138 # Venus
 - imageset http://cdn.worldwidetelescope.org/wwtweb/moontoast.aspx?Q={L},{X},{Y}
 - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000121{Q}?g=131 # Jupiter
+- imageset http://data1.wwtassets.org/packages/2022/01_jupiter/Jupiter_Juno_Cassini/{1}/{3}/{3}_{2}.png # Jupiter Cassini/Juno Merged
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Saturn
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},uranus
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},neptune
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},pluto
+- imageset http://data1.wwtassets.org/planets/Pluto_NH_Enhanced_ColorL{1}X{2}Y{3}.png  # Pluto New Horizons enhanced color
 - imageset http://wwtfiles.blob.core.windows.net/pluto/PlutoNewHorizonsL{1}X{2}Y{3}.png
 - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001111{Q}?g=138 # Io
 - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001113{Q}?g=138 # Europa
@@ -25,89 +27,84 @@ children:
 - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001112{Q}?g=138 # Callisto
 
 # Panoramas:
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001302{Q}?g=182 # Apollo 12
-- imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001303{Q}?g=182 # Apollo 17 Shorty
-- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002101{Q}?g=182 # Pathfinder MPF
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002020{Q}?g=182 # Pathfinder Many Rovers
-- imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002023{Q}?g=182 # Pathfinder Monster
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002100{Q}?g=182 # Pathfinder Sagan
+# - Perseverance:
+- imageset http://data1.wwtassets.org/packages/2021/02_mastcam_z_first_360_panorama/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2021/02_perseverance_first_360_panorama/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2021/03_zcam_1st_hd_ultrawide/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2021/06_pia24663/PIA24663/{1}/{3}/{3}_{2}.png
+# - Curiosity:
+- imageset http://data1.wwtassets.org/packages/2021/02_curiosity_pano/GalePanoCuriosity/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2021/05_mont_mercou/PIA24269/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2021/05_mont_mercou/PIA24626/{1}/{3}/{3}_{2}.png
+# - Phoenix:
+- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002031{Q}?g=182 # Phoenix Landing
+# - Spirit:
 - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002021{Q}?g=182 # Spirit McMurdo
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002022{Q}?g=182 # Spirit McMurdo false
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002102{Q}?g=182 # Spirit McMurdo stereo
-- imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002103{Q}?g=182 # Spirit McMurdo left
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002110{Q}?g=182 # Spirit McMurdo right
 - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002213{Q}?g=182 # Spirit West Valley
-- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002211{Q}?g=182 # Spirit West Valley false
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002212{Q}?g=182 # Spirit West Valley stereo
 - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002122{Q}?g=182 # Spirit Descent from Husband Hill
-- imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002123{Q}?g=182 # Spirit Descent from Husband Hill false
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002130{Q}?g=182 # Spirit Descent from Husband Hill stereo
-- imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002113{Q}?g=182 # Spirit Gibson at Home Plate false
 - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002120{Q}?g=182 # Spirit Gibson at Home Plate
 - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002001{Q}?g=182 # Spirit Home Plate South
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002002{Q}?g=182 # Spirit Home Plate South false
-- imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002003{Q}?g=182 # Spirit Home Plate South stereo
 - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001222{Q}?g=182 # Spirit Husband Hill Summit
 - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002202{Q}?g=182 # Spirit Santa Anita
 - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002132{Q}?g=182 # Spirit Independence
 - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001332{Q}?g=182 # Spirit Everest
-- imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001333{Q}?g=182 # Spirit Everest stereo
 - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002223{Q}?g=182 # Spirit Mission Success
 - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002230{Q}?g=182 # Spirit Thanksgiving
-- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002231{Q}?g=182 # Spirit Thanksgiving stereo
 - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001313{Q}?g=182 # Spirit Cahokia
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001320{Q}?g=182 # Spirit Cahokia stereo unadjusted
-- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001321{Q}?g=182 # Spirit Cahokia stereo adjusted
 - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002012{Q}?g=182 # Spirit Larry's Lookout
-- imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002013{Q}?g=182 # Spirit Larry's Lookout stereo
 - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002131{Q}?g=182 # Spirit Whale of a Pano
 - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002133{Q}?g=182 # Spirit From the Summit
 - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002112{Q}?g=182 # Spirit Paige
-- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002111{Q}?g=182 # Spirit Paige false
 - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002010{Q}?g=182 # Spirit Legacy
 - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001312{Q}?g=182 # Spirit Bonneville
+# - Opportunity
 - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001330{Q}?g=182 # Oppy Erebus
-- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001331{Q}?g=182 # Oppy Erebus stereo
 - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001213{Q}?g=182 # Oppy Lyell
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002222{Q}?g=182 # Oppy Lyell stereo
 - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002210{Q}?g=182 # Oppy Rub al Kalhi
 - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001323{Q}?g=182 # Oppy Endurance South
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001322{Q}?g=182 # Oppy Endurance South false
 - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002030{Q}?g=182 # Oppy Mission Success
 - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002203{Q}?g=182 # Oppy Burns Cliff
 - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002121{Q}?g=182 # Oppy Payson
 - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001310{Q}?g=182 # Oppy Beagle
-- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001311{Q}?g=182 # Oppy Beagle false
 - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002011{Q}?g=182 # Oppy Lion King
-- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002031{Q}?g=182 # Phoenix Landing
+# - Old:
+- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002101{Q}?g=182 # Pathfinder MPF
+- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002020{Q}?g=182 # Pathfinder Many Rovers
+- imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002023{Q}?g=182 # Pathfinder Monster
+- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002100{Q}?g=182 # Pathfinder Sagan
+- imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001303{Q}?g=182 # Apollo 17 Shorty
+- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001302{Q}?g=182 # Apollo 12
 
 # Sky:
 - imageset http://cdn.worldwidetelescope.org/wwtweb/dss.aspx?q={1},{2},{3}
-- imageset http://www.worldwidetelescope.org/wwtweb/catalog.aspx?Q=hip # Hipparcos plottable Catalog
+- imageset http://mastimg.stsci.edu/surveys/toast/panstarrs/ps_color/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2020/09_gaia_dr2/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2020/10_dsm2020/{1}/{3}/{3}_{2}.png
 - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000132{Q}?g=131 # VLSS
+- imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001023{Q}?g=138 # NVSS
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},planck
-- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_ilc_200uK
-- imageset http://wwtfiles.blob.core.windows.net/plnk/planckthermaldustL{1}X{2}Y{3}.png
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={L},{X},{Y},wise
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},dust # SFD dust
 - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001130{Q}?g=182 # IRIS IRAS
 - imageset http://www.worldwidetelescope.org/wwtweb/TwoMassToast.aspx?q={1},{2},{3}
 - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000312{Q}?g=138 # 2MASS catalog synthetic
-- imageset http://cdn.worldwidetelescope.org/wwtweb/g360.aspx?q={1},{2},{3} # GLIMPSE 360
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},halpha
 - imageset http://www.worldwidetelescope.org/wwtweb/sdsstoast.aspx?q={1},{2},{3}
+- imageset http://www.worldwidetelescope.org/wwtweb/galexTOAST.aspx?q={1},{2},{3}
+- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001132{Q}?g=182 # ROSAT RASS
+- imageset http://wwtfiles.blob.core.windows.net/fermilatyear8/Fermi%20LAT%208-yearL{1}X{2}Y{3}.png
+# - Low-priority but keep to be safe:
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_ilc_200uK
+- imageset http://wwtfiles.blob.core.windows.net/plnk/planckthermaldustL{1}X{2}Y{3}.png
+- imageset http://cdn.worldwidetelescope.org/wwtweb/g360.aspx?q={1},{2},{3} # GLIMPSE 360
 - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000131{Q}?g=131 # Tycho synthetic
 - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001210{Q}?g=182 # USNO-B1.0
-- imageset http://www.worldwidetelescope.org/wwtweb/galexTOAST.aspx?q={1},{2},{3}
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001132{Q}?g=182 # ROAST RASS
-- imageset http://wwtfiles.blob.core.windows.net/fermilatyear8/Fermi%20LAT%208-yearL{1}X{2}Y{3}.png
+- imageset http://www.worldwidetelescope.org/wwtweb/catalog.aspx?Q=hip # Hipparcos plottable Catalog
 - 'imageset ' # Black Sky
 
 # 3D:
 - imageset http://SolarSystem # 3D
 
-# DataSetType=Planet:
-- imageset http://www.worldwidetelescope.org/wwtweb/mandel.aspx?q={1},{2},{3}
 group: View
 name: WWT
 searchable: true
