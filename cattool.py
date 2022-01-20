@@ -94,13 +94,17 @@ class ImagesetDatabase(object):
 
         main_url = self.by_alturl.get(imgset.url)
         if main_url:
-            warn(f"tried to add altUrl imageset `{imgset.url}`; use `{main_url}` instead")
+            warn(
+                f"tried to add altUrl imageset `{imgset.url}`; use `{main_url}` instead"
+            )
             return self.by_url[main_url]
 
         if imgset.alt_url:
             main_url = self.by_alturl.get(imgset.alt_url)
             if main_url:
-                warn(f"duplicated AltUrl: {imgset.alt_url} => {main_url} AND {imgset.url}")
+                warn(
+                    f"duplicated AltUrl: {imgset.alt_url} => {main_url} AND {imgset.url}"
+                )
             else:
                 self.by_alturl[imgset.alt_url] = imgset.url
 
@@ -411,6 +415,32 @@ class PlaceDatabase(object):
         self.db_dir.rename(olddir)
         tempdir.rename(self.db_dir)
         shutil.rmtree(olddir)
+
+
+# add-alt-urls
+
+
+def do_add_alt_urls(settings):
+    """
+    Implemented to migrate the Mars panorama URLs, which differ in `imagesets6`
+    and the Mars Explore database.
+    """
+    idb = ImagesetDatabase()
+
+    with open(settings.spec_path, "rt") as f:
+        for line in f:
+            old_url, new_url = line.strip().split()
+
+            imgset = idb.by_url.get(new_url)
+            if imgset is None:
+                die(f"missing new-url `{new_url}`")
+
+            if imgset.alt_url and imgset.alt_url != old_url:
+                die(f"preexisting AltUrl `{imgset.alt_url}` for `{new_url}`")
+
+            imgset.alt_url = old_url
+
+    idb.rewrite()
 
 
 # emit
@@ -745,6 +775,11 @@ def entrypoint():
     parser = argparse.ArgumentParser()
     subparsers = parser.add_subparsers(dest="subcommand")
 
+    add_alt_urls = subparsers.add_parser("add-alt-urls")
+    add_alt_urls.add_argument(
+        "spec_path", metavar="TEXT-PATH", help="Path to text file of URLs to update"
+    )
+
     emit = subparsers.add_parser("emit")
     emit.add_argument(
         "--preview", action="store_true", help="Emit relative-URL files for previewing"
@@ -770,6 +805,8 @@ def entrypoint():
 
     if settings.subcommand is None:
         die("you must specify a subcommand", prefix="usage error:")
+    elif settings.subcommand == "add-alt-urls":
+        do_add_alt_urls(settings)
     elif settings.subcommand == "emit":
         do_emit(settings)
     elif settings.subcommand == "format-imagesets":

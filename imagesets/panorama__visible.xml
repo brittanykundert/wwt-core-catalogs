@@ -246,6 +246,7 @@
     <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/09_eso/potw2137b/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Beagle_L257atc"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -271,6 +272,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=beagle_l257atc</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},cahokia_stereo_angle"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -296,6 +298,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=cahokia_stereo_angle</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Erebus_360_L257atc"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -321,6 +324,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=erebus_360_l257atc</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Legacy"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -346,6 +350,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=legacy</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},manyrovers"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -371,6 +376,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=manyrovers</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Opportunity_Mission_Succcess"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -396,6 +402,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=opportunity_mission_succcess</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA01149stereo"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -421,6 +428,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia01149stereo</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA01905_right"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -446,6 +454,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia01905_right</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA02690"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -471,6 +480,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia02690</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Seminole_stereo"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -496,6 +506,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=seminole_stereo</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA07216"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -521,6 +532,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia07216</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Thanksgiving"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -546,6 +558,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=thanksgiving</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Beagle_L257F"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -571,6 +584,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=beagle_l257f</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},cahokia_stereo_full"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -596,6 +610,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=cahokia_stereo_full</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},erebus_stereo_anaglyph"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -621,6 +636,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=erebus_stereo_anaglyph</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Home_Plate_South_L257atc"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -646,6 +662,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=home_plate_south_l257atc</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Lion_King"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -671,6 +688,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=lion_king</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},McMurdo_Merged_Cyl_L456atc"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -696,6 +714,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mcmurdo_merged_cyl_l456atc</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},phoenix15158"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -721,6 +740,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=phoenix15158</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA01466"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -746,6 +766,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia01466</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA02687"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -771,6 +792,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia02687</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA02695"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -796,6 +818,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia02695</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA04179"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -821,6 +844,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia04179</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA10214"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -846,6 +870,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia10214</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Thanksgiving_stereo"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -871,6 +896,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=thanksgiving_stereo</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},pia03610toast_hansu"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -896,6 +922,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia03610</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Apollo12LandingSite"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -921,6 +948,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=apollo12landingsite</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Bonneville"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -946,6 +974,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=bonneville</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Endurance_Pan2_L256_False"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -971,6 +1000,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=endurance_pan2_l256_false</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA03095"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -996,6 +1026,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia03095</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Home_Plate_South_L257F"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1021,6 +1052,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=home_plate_south_l257f</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA07882"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1046,6 +1078,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia07882</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},McMurdo_Merged_Cyl_L456F"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1071,6 +1104,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mcmurdo_merged_cyl_l456f</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA01905"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1096,6 +1130,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia01905</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA02688"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1121,6 +1156,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia02688</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA03640"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1146,6 +1182,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia03640</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA04182"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1171,6 +1208,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia04182</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA06689"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1196,6 +1234,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia06689</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA10215"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1221,6 +1260,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia10215</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Sol1332B_Lyell_ADJ_L7R1ana_col"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1246,6 +1286,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=sol1332b_lyell_adj_l7r1ana_col</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},pia10230toast_hansu"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1271,6 +1312,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=lyellpano</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Apollo17ShortyCrater"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1296,6 +1338,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=apollo17shortycrater</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Cahokia"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1321,6 +1364,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=cahokia</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Endurance_South"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1346,6 +1390,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=endurance_south</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},everest_stereo"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1371,6 +1416,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=everest_stereo</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Home_Plate_South_L7R1ana"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1396,6 +1442,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=home_plate_south_l7r1ana</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},lookout_stereo"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1421,6 +1468,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=lookout_stereo</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},monster-anaglyph_full"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1446,6 +1494,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=monster_anaglyph_full</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA01905_left"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1471,6 +1520,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia01905_left</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA02689"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1496,6 +1546,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia02689</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA03641"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1521,6 +1572,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia03641</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA04184"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1546,6 +1598,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia04184</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA07110"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1571,6 +1624,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia07110</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},PIA10216"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -1596,6 +1650,7 @@
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=pia10216</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Spirit_Mission_Success"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
