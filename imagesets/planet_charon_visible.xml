@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="planet_charon_visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="90"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="606000"
+    Name="Charon New Horizons Enhanced Color"
+    Projection="Toast"
+    ReferenceFrame="Charon"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://data1.wwtassets.org/moons/Charon_NH_Enhanced_ColorL{1}X{2}Y{3}.png"
+    WidthFactor="2"
+  >
+    <Credits>Charon map courtesy of NASA/JHUAPL/SwRI</Credits>
+    <ThumbnailUrl>http://data1.wwtassets.org/moons/Charon_NH_Enhanced_Color_thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="90"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="606000"
+    Name="Charon New Horizons Colorized Terrain"
+    Projection="Toast"
+    ReferenceFrame="Charon"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/moons/Charon_NewHorizons_ColorizedTerrainL{1}X{2}Y{3}.png"
+    WidthFactor="2"
+  >
+    <Credits>Charon map courtesy of NASA/JHUAPL/SwRI</Credits>
+    <ThumbnailUrl>http://data1.wwtassets.org/moons/Charon_NewHorizons_ColorizedTerrain.jpeg</ThumbnailUrl>
+  </ImageSet>
+</Folder>
