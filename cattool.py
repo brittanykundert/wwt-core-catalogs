@@ -20,14 +20,12 @@ import uuid
 from xml.etree import ElementTree as etree
 import yaml
 
-from wwt_data_formats import indent_xml, write_xml_doc
+from wwt_data_formats import indent_xml
 from wwt_data_formats.enums import (
-    Bandpass,
     Classification,
     Constellation,
     DataSetType,
     FolderType,
-    ProjectionType,
 )
 from wwt_data_formats.folder import Folder
 from wwt_data_formats.imageset import ImageSet
@@ -517,10 +515,11 @@ def _emit_one(path: Path, is_preview: bool, idb: ImagesetDatabase, pdb: PlaceDat
     f = reconst_folder(root_info)
     catname = os.path.splitext(os.path.basename(path))[0]
     rel = "_rel" if is_preview else ""
+    extension = "xml" if root_info.get("_is_xml", False) else "wtml"
 
-    with open(f"{catname}{rel}.wtml", "wt", encoding="utf-8") as stream:
+    with open(f"{catname}{rel}.{extension}", "wt", encoding="utf-8") as stream:
         prettify(f.to_xml(), stream)
-        print(f"wrote `{catname}{rel}.wtml`")
+        print(f"wrote `{catname}{rel}.{extension}`")
 
 
 def do_emit(settings):
