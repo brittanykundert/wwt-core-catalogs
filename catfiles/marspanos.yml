@@ -25,7 +25,7 @@ children:
 
 - browseable: true
   children:
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002031{Q}?g=182
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002031{Q}?g=182 # Landing site
   group: View
   name: Phoenix
   searchable: false
@@ -34,41 +34,41 @@ children:
 
 - browseable: true
   children:
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002021{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002022{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002102{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002103{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002110{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002213{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002211{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002212{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002122{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002123{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002130{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002113{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002120{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002001{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002002{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002003{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001222{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002202{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002132{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001332{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001333{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002223{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002230{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002231{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001313{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001320{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001321{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002012{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002013{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002131{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002133{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002112{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002111{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002010{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001312{Q}?g=182
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002021{Q}?g=182 # McMurdo
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002022{Q}?g=182 # McMurdo false
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002102{Q}?g=182 # McMurdo stereo
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002103{Q}?g=182 # McMurdo left
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002110{Q}?g=182 # McMurdo right
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002213{Q}?g=182 # West Valley
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002211{Q}?g=182 # West Valley false
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002212{Q}?g=182 # West Valley stereo
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002122{Q}?g=182 # Descent from Husband Hill
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002123{Q}?g=182 # Descent from Husband Hill false
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002130{Q}?g=182 # Descent from Husband Hill stereo
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002113{Q}?g=182 # Gibbs Panorama at Home Plate false
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002120{Q}?g=182 # Gibbs Panorama at Home Plate
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002001{Q}?g=182 # Home Plate South
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002002{Q}?g=182 # Home Plate South false
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002003{Q}?g=182 # Home Plate South stereo
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001222{Q}?g=182 # Husband Hill Summit
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002202{Q}?g=182 # Santa Anita
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002132{Q}?g=182 # Independence
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001332{Q}?g=182 # Everest
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001333{Q}?g=182 # Everest stereo
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002223{Q}?g=182 # Mission Success
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002230{Q}?g=182 # Thanksgiving
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002231{Q}?g=182 # Thanksgiving stereo
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001313{Q}?g=182 # Cahokia
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001320{Q}?g=182 # Cahokia stereo unadjusted
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001321{Q}?g=182 # Cahokia stereo adjusted
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002012{Q}?g=182 # Larry's Lookout
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002013{Q}?g=182 # Larry's Lookout stereo
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002131{Q}?g=182 # Whale of a Pano
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002133{Q}?g=182 # From the Summit
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002112{Q}?g=182 # Paige Pano
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002111{Q}?g=182 # Paige Pano false
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002010{Q}?g=182 # Legacy
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001312{Q}?g=182 # Bonneville
   group: View
   name: Spirit
   searchable: false
@@ -77,19 +77,19 @@ children:
 
 - browseable: true
   children:
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001330{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001331{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001213{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002222{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002210{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001323{Q}?g=182
-  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001322{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002030{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002203{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002121{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001310{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001311{Q}?g=182
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002011{Q}?g=182
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001330{Q}?g=182 # Erebus
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001331{Q}?g=182 # Erebus stereo
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001213{Q}?g=182 # Lyell
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000002222{Q}?g=182 # Lyell stereo
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002210{Q}?g=182 # Rub al Khali
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001323{Q}?g=182 # Endurance South
+  - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001322{Q}?g=182 # Endurance South false
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002030{Q}?g=182 # Mission Success
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002203{Q}?g=182 # Burns Cliff
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002121{Q}?g=182 # Payoson Pano
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001310{Q}?g=182 # Beagle Crater
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001311{Q}?g=182 # Beagle Crater false
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002011{Q}?g=182 # Lion King
   group: View
   name: Opportunity
   searchable: false
@@ -98,10 +98,10 @@ children:
 
 - browseable: true
   children:
-  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002101{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002020{Q}?g=182
-  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002023{Q}?g=182
-  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002100{Q}?g=182
+  - imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000002101{Q}?g=182 # Improved MPF
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002020{Q}?g=182 # Many Rovers
+  - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000002023{Q}?g=182 # Monster
+  - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002100{Q}?g=182 # Landing site
   group: View
   name: Pathfinder
   searchable: false
