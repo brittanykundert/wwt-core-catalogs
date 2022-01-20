@@ -74,9 +74,11 @@ def write_one_yaml(path, doc):
 class ImagesetDatabase(object):
     db_dir: Path = None
     by_url: Dict[str, ImageSet] = None
+    by_alturl: Dict[str, str] = None
 
     def __init__(self):
         self.by_url = {}
+        self.by_alturl = {}
         self.db_dir = BASEDIR / "imagesets"
 
         for path in self.db_dir.glob("*.xml"):
@@ -88,9 +90,22 @@ class ImagesetDatabase(object):
     def add_imageset(self, imgset: ImageSet):
         if imgset.url in self.by_url:
             warn(f"dropping duplicated imageset `{imgset.url}`")
-            return
+            return self.by_url[imgset.url]
+
+        main_url = self.by_alturl.get(imgset.url)
+        if main_url:
+            warn(f"tried to add altUrl imageset `{imgset.url}`; use `{main_url}` instead")
+            return self.by_url[main_url]
+
+        if imgset.alt_url:
+            main_url = self.by_alturl.get(imgset.alt_url)
+            if main_url:
+                warn(f"duplicated AltUrl: {imgset.alt_url} => {main_url} AND {imgset.url}")
+            else:
+                self.by_alturl[imgset.alt_url] = imgset.url
 
         self.by_url[imgset.url] = imgset
+        return imgset
 
     def get_by_url(self, url: str) -> ImageSet:
         return self.by_url[url]
@@ -142,11 +157,11 @@ class PlaceDatabase(object):
 
     def ingest_place(self, place: Place, idb: ImagesetDatabase):
         if place.image_set is not None:
-            idb.add_imageset(place.image_set)
+            place.image_set = idb.add_imageset(place.image_set)
         if place.foreground_image_set is not None:
-            idb.add_imageset(place.foreground_image_set)
+            place.foreground_image_set = idb.add_imageset(place.foreground_image_set)
         if place.background_image_set is not None:
-            idb.add_imageset(place.background_image_set)
+            place.background_image_set = idb.add_imageset(place.background_image_set)
 
         new_id = str(uuid.uuid4())
         info = {"_uuid": new_id}
@@ -546,7 +561,7 @@ def do_ingest(settings):
 
         for c in f.children:
             if isinstance(c, ImageSet):
-                idb.add_imageset(c)
+                c = idb.add_imageset(c)
                 children.append(f"imageset {c.url}")
             elif isinstance(c, Place):
                 pid = pdb.ingest_place(c, idb)
