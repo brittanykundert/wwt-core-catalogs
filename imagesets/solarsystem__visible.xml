@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="solarsystem__visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="SolarSystem"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="3D Solar System View"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="0"
+    Url="http://SolarSystem"
+    WidthFactor="2"
+  >
+    <Credits>Milky Way - Dr. R. Hurt, Hiparcos - ESA, Planetary Images - NASA JPL, Cosmos Mode - SDSS, Miquel Angel Calvo, Mark SubbaRao, Galaxy Zoo</Credits>
+    <CreditsUrl>http://www.worldwidetelescope.org/About/?Acknowledgments#solarsystemmode</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=SolarSystem</ThumbnailUrl>
+  </ImageSet>
+</Folder>

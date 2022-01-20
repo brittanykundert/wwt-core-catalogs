@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="planet_sun_visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="695500000"
+    Name="Sun"
+    Projection="Toast"
+    ReferenceFrame="Sun"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},Sun"
+    WidthFactor="2"
+  >
+    <Credits>NASA/STEREO/SDO/GSFC</Credits>
+    <CreditsUrl>http://www.nasa.gov/mission_pages/stereo/news/6th-anniversary.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=sun</ThumbnailUrl>
+  </ImageSet>
+</Folder>

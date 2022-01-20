@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="planet_neptune_visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="24622000"
+    Name="Neptune"
+    Projection="Toast"
+    ReferenceFrame="Neptune"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},neptune"
+    WidthFactor="2"
+  >
+    <Credits>Courtesy NASA/JPL-Caltech, Bjorn Jonsson</Credits>
+    <CreditsUrl>http://voyager.jpl.nasa.gov/gallery/neptune.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.asxp?name=neptune</ThumbnailUrl>
+  </ImageSet>
+</Folder>

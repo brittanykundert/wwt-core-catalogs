@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="planet_uranus_visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="25362000"
+    Name="Uranus"
+    Projection="Toast"
+    ReferenceFrame="Uranus"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},uranus"
+    WidthFactor="2"
+  >
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.asxp?name=uranus</ThumbnailUrl>
+  </ImageSet>
+</Folder>

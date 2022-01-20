@@ -505,6 +505,29 @@
   <ImageSet
     BandPass="Visible"
     BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Pluto (New Horizons)"
+    Projection="Toast"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://wwtfiles.blob.core.windows.net/pluto/PlutoNewHorizonsL{1}X{2}Y{3}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/ New Horizons</Credits>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/pluto/plutonewhorizons_thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
     BaseTileLevel="1"
     BottomsUp="False"
     CenterX="0"

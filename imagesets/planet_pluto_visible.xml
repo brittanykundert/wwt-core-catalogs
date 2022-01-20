@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="planet_pluto_visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="1184000"
+    Name="Pluto"
+    Projection="Toast"
+    ReferenceFrame="Pluto"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},pluto"
+    WidthFactor="2"
+  >
+    <Credits>Artists Conception</Credits>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.asxp?name=pluto</ThumbnailUrl>
+  </ImageSet>
+</Folder>

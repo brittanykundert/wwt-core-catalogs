@@ -100404,6 +100404,30 @@ Gemini Observatory</Credits>
     CenterY="0"
     DataSetType="Sky"
     ElevationModel="False"
+    FileType=".tdf"
+    Generic="False"
+    Name="Hipparcos Catalog"
+    Projection="Plotted"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="1"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?Q=hip"
+    WidthFactor="2"
+  >
+    <Credits>Microsoft</Credits>
+    <CreditsUrl>http://www.worldwidetelescope.org</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=DSS</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
     FileType=".png"
     Generic="False"
     Name="SDSS: Sloan Digital Sky Survey (Optical)"
