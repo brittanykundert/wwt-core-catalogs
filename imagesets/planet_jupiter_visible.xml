@@ -6,6 +6,7 @@
   Searchable="True"
 >
   <ImageSet
+    AltUrl="http://www.worldwidetelescope.org/wwtweb/jupiter.aspx?q={1},{2},{3}"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"

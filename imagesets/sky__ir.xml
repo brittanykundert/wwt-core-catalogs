@@ -2970,6 +2970,8 @@
     Url="http://wwtfiles.blob.core.windows.net/plnk/planckthermaldustL{1}X{2}Y{3}.png"
     WidthFactor="2"
   >
+    <Credits>Planck is a European Space Agency mission, with significant participation from NASA. NASAs Planck Project Office is based at JPL. JPL contributed mission-enabling technology for both of Plancks science instruments. European, Canadian and U.S. Planck scientists work together to analyze the Planck data.</Credits>
+    <CreditsUrl>http://www.nasa.gov/mission_pages/planck/index.html</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/plnk/planckthermaldust_thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
