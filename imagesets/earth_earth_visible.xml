@@ -14,6 +14,60 @@
     CenterY="0"
     DataSetType="Earth"
     ElevationModel="True"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="6371000"
+    Name="Open Street Maps Bike Map"
+    Projection="Mercator"
+    QuadTreeMap="0123"
+    ReferenceFrame="Earth"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="18"
+    Url="http://a.tile.opencyclemap.org/cycle/{L}/{X}/{Y}.png"
+    WidthFactor="1"
+  >
+    <Credits>Map data Copyright OpenStreetMap contributors, CC BY-SA</Credits>
+    <CreditsUrl>http://www.openstreetmap.org/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=bm200407</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="1"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Earth"
+    ElevationModel="True"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="6371000"
+    Name="Open Street Maps"
+    Projection="Mercator"
+    QuadTreeMap="0123"
+    ReferenceFrame="Earth"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="18"
+    Url="http://a.tile.openstreetmap.org/{L}/{X}/{Y}.png"
+    WidthFactor="1"
+  >
+    <Credits>Map data Copyright OpenStreetMap contributors, CC BY-SA</Credits>
+    <CreditsUrl>http://www.openstreetmap.org/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=bm200407</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="360"
+    BaseTileLevel="1"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Earth"
+    ElevationModel="True"
     FileType=".jpeg"
     Generic="False"
     MeanRadius="6371000"
@@ -85,5 +139,57 @@
     <Credits>Bing Maps Copyright Microsoft Corp. and Suppliers</Credits>
     <CreditsUrl>http://maps.live.com/help/en-us/About.htm</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=earthstreets</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Earth"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="6371000"
+    Name="Blue Marble January 2004"
+    Projection="Toast"
+    ReferenceFrame="Earth"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},bm200401"
+    WidthFactor="1"
+  >
+    <Credits>Blue Marble Next Generation, January 2004. Visible Earth Project, NASA.</Credits>
+    <CreditsUrl>http://visibleearth.nasa.gov/view_detail.php?id=7100</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=bm200401</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Earth"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="6371000"
+    Name="Blue Marble July 2004"
+    Projection="Toast"
+    ReferenceFrame="Earth"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},bm200407"
+    WidthFactor="1"
+  >
+    <Credits>Blue Marble Next Generation, July 2004. Visible Earth Project, NASA.</Credits>
+    <CreditsUrl>http://visibleearth.nasa.gov/view_detail.php?id=7106</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=bm200407</ThumbnailUrl>
   </ImageSet>
 </Folder>

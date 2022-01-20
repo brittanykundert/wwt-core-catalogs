@@ -7,6 +7,32 @@
 >
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="90"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="560000"
+    Name="Dione - Cassini Enhanced Color"
+    Projection="Toast"
+    ReferenceFrame="Dione"
+    Rotation="0"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://data1.wwtassets.org/moons/Dione_Enhanced_ColorL{1}X{2}Y{3}.png"
+    WidthFactor="2"
+  >
+    <Credits>Dione map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
+    <CreditsUrl>http://ciclops.org/view/7960/Color-maps-of-Dione---November-2014</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/moons/Dione_Enhanced_Color.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"

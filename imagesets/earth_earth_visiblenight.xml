@@ -7,6 +7,33 @@
 >
   <ImageSet
     BandPass="VisibleNight"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Earth"
+    ElevationModel="False"
+    FileType=".jpg"
+    Generic="False"
+    MeanRadius="6371000"
+    Name="Earth at Night"
+    Projection="Toast"
+    QuadTreeMap="0123"
+    ReferenceFrame="Earth"
+    Rotation="0"
+    Sparse="False"
+    StockSet="True"
+    TileLevels="7"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000211{Q}?g=131"
+    WidthFactor="1"
+  >
+    <Credits>Data courtesy Marc Imhoff of NASA GSFC and Christopher Elvidge of NOAA NGDC. Image by Craig Mayhew and Robert Simmon, NASA GSFC.</Credits>
+    <CreditsUrl>http://earthobservatory.nasa.gov/Newsroom/BlueMarble/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=earthatnight</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="VisibleNight"
     BaseDegreesPerTile="360"
     BaseTileLevel="1"
     BottomsUp="False"
