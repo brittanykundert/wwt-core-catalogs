@@ -26,6 +26,33 @@ children:
 - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001120{Q}?g=138 # Ganymede
 - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001112{Q}?g=138 # Callisto
 
+# Sky:
+- imageset http://cdn.worldwidetelescope.org/wwtweb/dss.aspx?q={1},{2},{3}
+- imageset http://mastimg.stsci.edu/surveys/toast/panstarrs/ps_color/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2020/09_gaia_dr2/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2020/10_dsm2020/{1}/{3}/{3}_{2}.png
+- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000132{Q}?g=131 # VLSS
+- imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001023{Q}?g=138 # NVSS
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},planck
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={L},{X},{Y},wise
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},dust # SFD dust
+- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001130{Q}?g=182 # IRIS IRAS
+- imageset http://www.worldwidetelescope.org/wwtweb/TwoMassToast.aspx?q={1},{2},{3}
+- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000312{Q}?g=138 # 2MASS catalog synthetic
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},halpha
+- imageset http://www.worldwidetelescope.org/wwtweb/sdsstoast.aspx?q={1},{2},{3}
+- imageset http://www.worldwidetelescope.org/wwtweb/galexTOAST.aspx?q={1},{2},{3}
+- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001132{Q}?g=182 # ROSAT RASS
+- imageset http://wwtfiles.blob.core.windows.net/fermilatyear8/Fermi%20LAT%208-yearL{1}X{2}Y{3}.png
+# - Low-priority but keep to be safe:
+- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_ilc_200uK
+- imageset http://wwtfiles.blob.core.windows.net/plnk/planckthermaldustL{1}X{2}Y{3}.png
+- imageset http://cdn.worldwidetelescope.org/wwtweb/g360.aspx?q={1},{2},{3} # GLIMPSE 360
+- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000131{Q}?g=131 # Tycho synthetic
+- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001210{Q}?g=182 # USNO-B1.0
+- imageset http://www.worldwidetelescope.org/wwtweb/catalog.aspx?Q=hip # Hipparcos plottable Catalog
+- 'imageset ' # Black Sky
+
 # Panoramas:
 # - Perseverance:
 - imageset http://data1.wwtassets.org/packages/2021/02_mastcam_z_first_360_panorama/{1}/{3}/{3}_{2}.png
@@ -74,33 +101,6 @@ children:
 - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002100{Q}?g=182 # Pathfinder Sagan
 - imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001303{Q}?g=182 # Apollo 17 Shorty
 - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001302{Q}?g=182 # Apollo 12
-
-# Sky:
-- imageset http://cdn.worldwidetelescope.org/wwtweb/dss.aspx?q={1},{2},{3}
-- imageset http://mastimg.stsci.edu/surveys/toast/panstarrs/ps_color/{1}/{3}/{3}_{2}.png
-- imageset http://data1.wwtassets.org/packages/2020/09_gaia_dr2/{1}/{3}/{3}_{2}.png
-- imageset http://data1.wwtassets.org/packages/2020/10_dsm2020/{1}/{3}/{3}_{2}.png
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000132{Q}?g=131 # VLSS
-- imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001023{Q}?g=138 # NVSS
-- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},planck
-- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={L},{X},{Y},wise
-- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},dust # SFD dust
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001130{Q}?g=182 # IRIS IRAS
-- imageset http://www.worldwidetelescope.org/wwtweb/TwoMassToast.aspx?q={1},{2},{3}
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000312{Q}?g=138 # 2MASS catalog synthetic
-- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},halpha
-- imageset http://www.worldwidetelescope.org/wwtweb/sdsstoast.aspx?q={1},{2},{3}
-- imageset http://www.worldwidetelescope.org/wwtweb/galexTOAST.aspx?q={1},{2},{3}
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001132{Q}?g=182 # ROSAT RASS
-- imageset http://wwtfiles.blob.core.windows.net/fermilatyear8/Fermi%20LAT%208-yearL{1}X{2}Y{3}.png
-# - Low-priority but keep to be safe:
-- imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_ilc_200uK
-- imageset http://wwtfiles.blob.core.windows.net/plnk/planckthermaldustL{1}X{2}Y{3}.png
-- imageset http://cdn.worldwidetelescope.org/wwtweb/g360.aspx?q={1},{2},{3} # GLIMPSE 360
-- imageset http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000131{Q}?g=131 # Tycho synthetic
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001210{Q}?g=182 # USNO-B1.0
-- imageset http://www.worldwidetelescope.org/wwtweb/catalog.aspx?Q=hip # Hipparcos plottable Catalog
-- 'imageset ' # Black Sky
 
 # 3D:
 - imageset http://SolarSystem # 3D
