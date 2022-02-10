@@ -16,19 +16,20 @@
     ElevationModel="False"
     FileType=".png"
     Generic="False"
-    Name="Bennu (Asteroid)"
+    MeanRadius="263"
+    Name="Bennu (Asteroid) - OSIRIS-REx Global Mosaic"
     Projection="Toast"
     QuadTreeMap=""
     Rotation="0"
     Sparse="True"
     StockSet="False"
     TileLevels="8"
-    Url="http://data1.wwtassets.org/packages/2021/02_bennu/bennu/{1}/{3}/{3}_{2}.png"
+    Url="http://data1.wwtassets.org/packages/2022/02_bennu_osirisrex/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
   >
     <Credits>NASA/Goddard/University of Arizona</Credits>
-    <CreditsUrl>https://asteroidmission.org/</CreditsUrl>
-    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/02_bennu/bennu/thumb.jpg</ThumbnailUrl>
+    <CreditsUrl>https://www.asteroidmission.org/bennu_global_mosaic-highest-resolution-2/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/02_bennu_osirisrex/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
