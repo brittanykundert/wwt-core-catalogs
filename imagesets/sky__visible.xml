@@ -49,7 +49,7 @@
     Url="http://cdn.worldwidetelescope.org/wwtweb/dss.aspx?q={1},{2},{3}"
     WidthFactor="2"
   >
-    <Credits>Copyright DSS Consortium</Credits>
+    <Credits>Copyright DSS Consortium. These data are from the DSS2 survey.</Credits>
     <CreditsUrl>http://gsss.stsci.edu/Acknowledgements/DataCopyrights.htm</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/thumbnails/DSS.png</ThumbnailUrl>
   </ImageSet>
@@ -100430,7 +100430,7 @@ Gemini Observatory</Credits>
     ElevationModel="False"
     FileType=".png"
     Generic="False"
-    Name="SDSS: Sloan Digital Sky Survey (Optical)"
+    Name="SDSS: Sloan Digital Sky Survey (Optical) [DR7]"
     Projection="Toast"
     Rotation="0"
     Sparse="False"
