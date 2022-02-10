@@ -70,6 +70,60 @@
     FileType=".png"
     Generic="False"
     MeanRadius="250000"
+    Name="Enceladus - Cassini ISS Enhanced Color Mosaic"
+    Projection="Toast"
+    QuadTreeMap=""
+    ReferenceFrame="Enceladus"
+    Rotation="0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2022/02_enceladus_cassini_color/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/JPL-Caltech/SSI/Lunar and Planetary Institute</Credits>
+    <CreditsUrl>http://ciclops.org/view/7961/Color-Maps-of-Enceladus---November-2014</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/02_enceladus_cassini_color/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="250000"
+    Name="Enceladus - Cassini VIMS Infrared Mosaic"
+    Projection="Toast"
+    QuadTreeMap=""
+    ReferenceFrame="Enceladus"
+    Rotation="0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2022/02_enceladus_cassini_vims/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/JPL-Caltech/University of Arizona/LPG/CNRS/University of Nantes/Space Science Institute</Credits>
+    <CreditsUrl>https://www.jpl.nasa.gov/images/pia24027-enceladus-in-the-infrared-map-view</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/02_enceladus_cassini_vims/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="250000"
     Name="Enceladus (Saturn)"
     Projection="Toast"
     QuadTreeMap=""
