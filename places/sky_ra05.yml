@@ -4350,17 +4350,6 @@ ra_hr: 5.575640028408
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-408.jpg
 zoom_level: 0.40997289984
 ---
-_uuid: d3c52c47-5ef7-4f9c-ba12-0ac1e12b7549
-classification: ''
-constellation: ''
-data_set_type: Sky
-dec_deg: 22.014818737
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-440L{1}X{2}Y{3}.png
-name: Crab Nebula
-ra_hr: 5.57547168746667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-440.jpg
-zoom_level: 0.9044286554112
----
 _uuid: 72034764-925a-486d-b673-a9da8e2dabfb
 classification: ''
 constellation: ''
@@ -4591,17 +4580,6 @@ name: Barnard 33
 ra_hr: 5.68305306666667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0202b.jpg
 zoom_level: 0.45662527488
----
-_uuid: 53702bb4-a5a5-4c63-81c1-e037724533f8
-classification: ''
-constellation: ''
-data_set_type: Sky
-dec_deg: 22.014411
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0209fL{1}X{2}Y{3}.png
-name: Crab Nebula
-ra_hr: 5.5755456
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0209f.jpg
-zoom_level: 0.46825119744
 ---
 _uuid: ee2d092b-d6bf-483d-9fcf-26b9280d61df
 classification: ''
@@ -5340,17 +5318,6 @@ ra_hr: 5.8622854
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso8906b.jpg
 zoom_level: 0.21819506688
 ---
-_uuid: 2e36da22-5b60-4c37-bd82-afc734c479a0
-classification: ''
-constellation: ''
-data_set_type: Sky
-dec_deg: 22.014573
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9003cL{1}X{2}Y{3}.png
-name: Crab Nebula
-ra_hr: 5.5755452
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9003c.jpg
-zoom_level: 0.19837394944
----
 _uuid: fb5324dc-60dc-4259-b588-c8bc77773e0f
 classification: ''
 constellation: ''
@@ -5515,17 +5482,6 @@ name: N 70
 ra_hr: 5.72115723984667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9948e.jpg
 zoom_level: 0.45881319424
----
-_uuid: ef28b3e8-81eb-442b-b1da-fc3182bdf358
-classification: ''
-constellation: ''
-data_set_type: Sky
-dec_deg: 22.0077207128
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9948gL{1}X{2}Y{3}.png
-name: Crab Nebula
-ra_hr: 5.57561017382
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9948g.jpg
-zoom_level: 0.22902259584189
 ---
 _uuid: 912a402d-d35f-41fc-a0d5-4323f137bb8f
 classification: ''
@@ -6616,28 +6572,6 @@ ra_hr: 5.22738984548667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1847a.jpg
 zoom_level: 0.180371085331661
 ---
-_uuid: 8980642f-5ad8-4fa7-abb0-820a721477b1
-classification: ''
-constellation: ''
-data_set_type: Sky
-dec_deg: 22.0652841412
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig05-003aL{1}X{2}Y{3}.png
-name: Crab Nebula
-ra_hr: 5.5732775191
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig05-003a.jpg
-zoom_level: 0.89307559331219
----
-_uuid: d48fa54c-a267-492b-8e74-6950d2ac6a18
-classification: ''
-constellation: ''
-data_set_type: Sky
-dec_deg: 22.0652841412
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig05-004aL{1}X{2}Y{3}.png
-name: Crab Nebula
-ra_hr: 5.5732775191
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig05-004a.jpg
-zoom_level: 0.892181373597319
----
 _uuid: fd8ffed6-fd43-4e49-a0fb-ee7858e19eca
 classification: ''
 constellation: ''
@@ -6989,28 +6923,6 @@ name: Orion Nebula
 ra_hr: 5.58792682
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2012-04a.jpg
 zoom_level: 3.29276850176
----
-_uuid: 963f4270-8f98-410b-b6f8-a3135e8a8cc8
-classification: ''
-constellation: ''
-data_set_type: Sky
-dec_deg: 22.0235214233
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2017-05a1L{1}X{2}Y{3}.png
-name: Crab Nebula
-ra_hr: 5.57586212158
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2017-05a1.jpg
-zoom_level: 0.4532518912
----
-_uuid: ea9a110c-a1fa-4f43-a52d-8fa29d5f0e30
-classification: ''
-constellation: ''
-data_set_type: Sky
-dec_deg: 22.0235214233
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2017-05aL{1}X{2}Y{3}.png
-name: Crab Nebula
-ra_hr: 5.57586212158
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2017-05a.jpg
-zoom_level: 0.377709909333333
 ---
 _uuid: 36dcad41-dee3-47a6-aa54-874f601f02fd
 classification: ''
