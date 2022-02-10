@@ -7,33 +7,6 @@
 >
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="90"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="0"
-    CenterY="0"
-    DataSetType="Planet"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    MeanRadius="765000"
-    Name="Rhea - Cassini Enhanced Color"
-    Projection="Toast"
-    QuadTreeMap=""
-    ReferenceFrame="Rhea"
-    Rotation="0"
-    Sparse="False"
-    StockSet="False"
-    TileLevels="7"
-    Url="http://data1.wwtassets.org/moons/Rhea_Enhanced_ColorL{1}X{2}Y{3}.png"
-    WidthFactor="2"
-  >
-    <Credits>Rhea map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
-    <CreditsUrl>http://ciclops.org/view/7964/Color-Maps-of-Rhea---November-2014</CreditsUrl>
-    <ThumbnailUrl>http://data1.wwtassets.org/moons/Rhea_Enhanced_Color.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"

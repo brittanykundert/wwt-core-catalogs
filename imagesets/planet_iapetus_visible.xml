@@ -7,33 +7,6 @@
 >
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="90"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="0"
-    CenterY="0"
-    DataSetType="Planet"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    MeanRadius="735000"
-    Name="Iapetus - Cassini Enhanced Color"
-    Projection="Toast"
-    QuadTreeMap=""
-    ReferenceFrame="Iapetus"
-    Rotation="0"
-    Sparse="False"
-    StockSet="False"
-    TileLevels="7"
-    Url="http://data1.wwtassets.org/moons/Iapetus_Enhanced_ColorL{1}X{2}Y{3}.png"
-    WidthFactor="2"
-  >
-    <Credits>Iapetus map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
-    <CreditsUrl>http://ciclops.org/view/7962/Color-Maps-of-Iapetus---November-2014</CreditsUrl>
-    <ThumbnailUrl>http://data1.wwtassets.org/moons/Iapetus_Enhanced_Color.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"
