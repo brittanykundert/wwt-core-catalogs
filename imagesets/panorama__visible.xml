@@ -241,6 +241,31 @@
     ElevationModel="False"
     FileType=".png"
     Generic="False"
+    Name="Curiosity Looks Uphill Past Rafael Navarro Mountain"
+    Projection="Toast"
+    QuadTreeMap=""
+    Rotation="0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://data1.wwtassets.org/packages/2021/08_PIA24643/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/JPL-Caltech/MSSS</Credits>
+    <CreditsUrl>https://photojournal.jpl.nasa.gov/catalog/PIA24643</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2021/08_PIA24643/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Panorama"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
     Name="North Meets South"
     Projection="Toast"
     QuadTreeMap=""
