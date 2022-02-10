@@ -97,13 +97,14 @@ preexisting catalogs somewhere.
 
 ### `cattool report`
 
-Report the number of imagesets in the database
+Report the number of imagesets in the database.
 
 ### `cattool trace`
 
 Trace down from `exploreroot6` and `imagesets6` to search for imagesets that are
 not referenced from any WTML collections. This indicates the presence of a known
-imageset that isn't accessible by the clients.
+imageset that isn't accessible by the clients (with a small number of known
+false positives).
 
 ### `cattool format-imagesets`
 
@@ -128,3 +129,9 @@ way by using WWT's AltUrl support.
 ### `cattool add-alt-urls`
 
 A specialized utility to add AltUrl attributes to many imagesets at once.
+
+
+## See also
+
+The [`wwt-hips-list-importer`][hips] repo contains a script for generating the
+`hips.wtml` catalog.
