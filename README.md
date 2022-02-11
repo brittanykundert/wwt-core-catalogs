@@ -6,9 +6,10 @@ core data holdings.
 
 ## Approach
 
-The ultimate output of this script is a group of WTML and XML files that can be
-uploaded directly to WWT's cloud storage. These files are made available through
-the `catalog.aspx` API endpoint: the file `exploreroot6.wtml` is downloaded from
+The ultimate goal of this repo is create a group of WTML and XML files that can
+be uploaded directly to WWT's cloud storage. These files are made available
+through the `catalog.aspx` API endpoint: the file `exploreroot6.wtml` is
+downloaded from
 
 #### http://worldwidetelescope.org/wwtweb/catalog.aspx?W=exploreroot6
 
@@ -23,9 +24,9 @@ output.
 
 The particular names and relationships between various folders are longstanding
 conventions that can't be changed lightly. Backwards compatibility is also an
-issue. For instance, version 5.x clients load up `exploreroot.wtml` and from
-thence files like `mars.wtml`, so these can't contain HiPS datasets since the
-clients will reject the unrecognized dataset types.
+issue. For instance, version 5.x clients load up `exploreroot.wtml` (NB: no "6")
+and from thence files like `mars.wtml`, so these can't contain HiPS datasets
+since the clients will reject the unrecognized dataset types.
 
 In the folder YAML, `children` is a list of folder contents. Each entry can be:
 
@@ -40,7 +41,8 @@ for convenience. Each item in a place's YAML dictionary corresponds fairly
 directly to a WTML XML attribute or child element, except imagesets are once
 again referenced by URL. Places are assigned random UUIDv4s because there's no
 entirely sensible way to uniquely distinguish places, since their coordinates
-matter a lot and those are floating-point numbers.
+matter a lot and those are floating-point numbers. The UUIDs aren't exposed
+outside of this repo.
 
 Imagesets are defined in `imagesets/*.xml`, organized by dataset type, reference
 frame, and bandpass. Imagesets are uniquely identified by their data URLs. The
@@ -48,12 +50,16 @@ XML contents correspond directly to the WTML imageset representation.
 
 In the current model there are two root catalog files: `exploreroot6.wtml` and
 `imagesets6.wtml`. All other WTMLs are reachable from `exploreroot6`, which
-populates the root of the client's "Expore" ribbon. The `imagesets6` file
+populates the root of the client's "Explore" ribbon. The `imagesets6` file
 defines the built-in imagesets accessible from the `Imagery:` dropdown. So it
 shouldn't get too large.
 
 The directory `sad_imagesets/` contains a structure like `imagesets/`, but with
 known imagesets that shouldn't be used due to bad coordinates and the like.
+Known problematic datasets should be moved there so that we don't lose track of
+them. Add a `_Reason` attribute documenting why the imageset has a problem.
+Sometimes the underlying data could in principle be rescued (e.g. the astrometry
+of a study is just poor), sometimes not really (a planetary map is backwards).
 
 
 ## Driver
@@ -135,3 +141,5 @@ A specialized utility to add AltUrl attributes to many imagesets at once.
 
 The [`wwt-hips-list-importer`][hips] repo contains a script for generating the
 `hips.wtml` catalog.
+
+[hips]: https://github.com/WorldWideTelescope/wwt-hips-list-importer
