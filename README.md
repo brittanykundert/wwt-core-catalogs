@@ -122,6 +122,13 @@ move into a new file.
 
 Like `format-imagesets`, but for places.
 
+### `cattool ground-truth`
+
+For each of the catalogs currently being managed by this repo, download the
+version that's currently being served by the production server and save it into
+the current directory. You can combine this with a temporary Git repository or
+other diffing solution in order to review the updates that you'll be uploading.
+
 ### `cattool prettify <XML>`
 
 Rewrite an XML file in "prettified" format, assuming that elements have lots of
