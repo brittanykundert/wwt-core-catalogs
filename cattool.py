@@ -546,6 +546,35 @@ def do_format_places(_settings):
     pdb.rewrite()
 
 
+# ground-truth
+
+
+def do_ground_truth(_settings):
+    import requests
+
+    for path in (BASEDIR / "catfiles").glob("*.yml"):
+        with path.open("rt", encoding="utf-8") as f:
+            info = yaml.load(f, yaml.SafeLoader)
+
+        catname = os.path.splitext(os.path.basename(path))[0]
+
+        if info.get("_is_xml", False):
+            extension = "xml"
+            letter = "X"
+        else:
+            extension = "wtml"
+            letter = "W"
+
+        url = f"http://www.worldwidetelescope.org/wwtweb/catalog.aspx?{letter}={catname}"
+        filename = f"{catname}.{extension}"
+
+        with requests.get(url, stream=True) as r:
+            with open(filename, "wb") as f:
+                shutil.copyfileobj(r.raw, f)
+
+            print(f"wrote `{filename}`")
+
+
 # ingest
 
 
@@ -866,6 +895,7 @@ def entrypoint():
 
     _format_imagesets = subparsers.add_parser("format-imagesets")
     _format_places = subparsers.add_parser("format-places")
+    _ground_truth = subparsers.add_parser("ground-truth")
 
     ingest = subparsers.add_parser("ingest")
     ingest.add_argument(
@@ -897,6 +927,8 @@ def entrypoint():
         do_format_imagesets(settings)
     elif settings.subcommand == "format-places":
         do_format_places(settings)
+    elif settings.subcommand == "ground-truth":
+        do_ground_truth(settings)
     elif settings.subcommand == "ingest":
         do_ingest(settings)
     elif settings.subcommand == "prettify":
