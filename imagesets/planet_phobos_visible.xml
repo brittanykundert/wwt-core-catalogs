@@ -19,6 +19,7 @@
     MeanRadius="11100"
     Name="Phobos (Mars)"
     Projection="Toast"
+    QuadTreeMap=""
     ReferenceFrame="Phobos"
     Rotation="0"
     Sparse="False"

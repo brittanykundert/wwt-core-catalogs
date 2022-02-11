@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="planet_phoebe_visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="106500"
+    Name="Phoebe - Cassini Global Mosaic"
+    Projection="Toast"
+    QuadTreeMap=""
+    ReferenceFrame="Phoebe"
+    Rotation="0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2022/02_phoebe_cassini/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/JPL-Caltech/SSI/Lunar and Planetary Institute</Credits>
+    <CreditsUrl>http://ciclops.org/view/1743/Map-of-Phoebe---December-2005</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/02_phoebe_cassini/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+</Folder>

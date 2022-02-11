@@ -19,6 +19,7 @@
     MeanRadius="6300"
     Name="Deimos (Mars)"
     Projection="Toast"
+    QuadTreeMap=""
     ReferenceFrame="Deimos"
     Rotation="0"
     Sparse="False"

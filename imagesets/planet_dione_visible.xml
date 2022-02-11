@@ -7,7 +7,7 @@
 >
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="90"
+    BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"
     CenterX="0"
@@ -17,19 +17,20 @@
     FileType=".png"
     Generic="False"
     MeanRadius="560000"
-    Name="Dione - Cassini Enhanced Color"
+    Name="Dione - Cassini Enhanced Color Mosaic"
     Projection="Toast"
+    QuadTreeMap=""
     ReferenceFrame="Dione"
     Rotation="0"
-    Sparse="False"
+    Sparse="True"
     StockSet="False"
-    TileLevels="7"
-    Url="http://data1.wwtassets.org/moons/Dione_Enhanced_ColorL{1}X{2}Y{3}.png"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2022/02_dione_cassini_color/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
   >
-    <Credits>Dione map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
+    <Credits>NASA/JPL-Caltech/SSI/Lunar and Planetary Institute</Credits>
     <CreditsUrl>http://ciclops.org/view/7960/Color-maps-of-Dione---November-2014</CreditsUrl>
-    <ThumbnailUrl>http://data1.wwtassets.org/moons/Dione_Enhanced_Color.jpg</ThumbnailUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/02_dione_cassini_color/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -45,6 +46,7 @@
     MeanRadius="560000"
     Name="Dione (Saturn)"
     Projection="Toast"
+    QuadTreeMap=""
     ReferenceFrame="Dione"
     Rotation="0"
     Sparse="False"

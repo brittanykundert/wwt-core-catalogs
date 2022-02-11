@@ -25,11 +25,21 @@ children:
 - imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001120{Q}?g=138 # Ganymede
 - imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001112{Q}?g=138 # # Callisto
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},mimas_sat1vss2
+- imageset http://data1.wwtassets.org/packages/2022/02_mimas_cassini_color/{1}/{3}/{3}_{2}.png
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},enceladus_sat2vuu2
+- imageset http://data1.wwtassets.org/packages/2022/02_enceladus_cassini_color/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2022/02_enceladus_cassini_vims/{1}/{3}/{3}_{2}.png
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},tethys_sat3vss2
+- imageset http://data1.wwtassets.org/packages/2022/02_tethys_cassini_color/{1}/{3}/{3}_{2}.png
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},dione_sat4vss2
+- imageset http://data1.wwtassets.org/packages/2022/02_dione_cassini_color/{1}/{3}/{3}_{2}.png
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},rhea_sat5vss2
+- imageset http://data1.wwtassets.org/packages/2022/02_rhea_cassini_color/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2022/02_titan_cassini/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2022/02_titan_cassini_topo/{1}/{3}/{3}_{2}.png
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},iapetus_sat8vss2
+- imageset http://data1.wwtassets.org/packages/2022/02_iapetus_cassini_color/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2022/02_phoebe_cassini/{1}/{3}/{3}_{2}.png
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},ariel
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},umbriel
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},titania
@@ -37,7 +47,13 @@ children:
 - imageset http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},miranda
 - imageset http://data1.wwtassets.org/moons/Charon_NH_Enhanced_ColorL{1}X{2}Y{3}.png # Charon New Horizons enh color
 - imageset http://data1.wwtassets.org/moons/Charon_NewHorizons_ColorizedTerrainL{1}X{2}Y{3}.png
-- imageset http://data1.wwtassets.org/packages/2021/02_bennu/bennu/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2022/02_ceres_dawn_hamo/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2022/02_ceres_dawn_lamo/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2022/02_ceres_dawn_topo/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2022/02_vesta_dawn_hamo/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2022/02_vesta_dawn_lamo/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2022/02_vesta_dawn_topo/{1}/{3}/{3}_{2}.png
+- imageset http://data1.wwtassets.org/packages/2022/02_bennu_osirisrex/{1}/{3}/{3}_{2}.png
 - imageset http://www.worldwidetelescope.org/wwtweb/mandel.aspx?q={1},{2},{3} # Mandelbrot set
 group: Explorer
 name: Planets / Moons

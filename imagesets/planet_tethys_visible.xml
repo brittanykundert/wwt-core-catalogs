@@ -7,7 +7,7 @@
 >
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="90"
+    BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"
     CenterX="0"
@@ -17,19 +17,20 @@
     FileType=".png"
     Generic="False"
     MeanRadius="535000"
-    Name="Tethys - Cassini Enhanced Color"
+    Name="Tethys - Cassini Enhanced Color Mosaic"
     Projection="Toast"
+    QuadTreeMap=""
     ReferenceFrame="Tethys"
     Rotation="0"
-    Sparse="False"
+    Sparse="True"
     StockSet="False"
-    TileLevels="7"
-    Url="http://data1.wwtassets.org/moons/Tethys_Enhanced_ColorL{1}X{2}Y{3}.png"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2022/02_tethys_cassini_color/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
   >
-    <Credits>Tethys map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
+    <Credits>NASA/JPL-Caltech/SSI/Lunar and Planetary Institute</Credits>
     <CreditsUrl>http://ciclops.org/view/7965/Color-Maps-of-Tethys---November-2014</CreditsUrl>
-    <ThumbnailUrl>http://data1.wwtassets.org/moons/Tethys_Enhanced_Color.jpg</ThumbnailUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/02_tethys_cassini_color/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -45,6 +46,7 @@
     MeanRadius="535000"
     Name="Tethys (Saturn)"
     Projection="Toast"
+    QuadTreeMap=""
     ReferenceFrame="Tethys"
     Rotation="0"
     Sparse="False"

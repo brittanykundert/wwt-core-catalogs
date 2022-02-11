@@ -7,7 +7,7 @@
 >
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="90"
+    BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"
     CenterX="0"
@@ -17,19 +17,20 @@
     FileType=".png"
     Generic="False"
     MeanRadius="735000"
-    Name="Iapetus - Cassini Enhanced Color"
+    Name="Iapetus - Cassini ISS Enhanced Color Mosaic"
     Projection="Toast"
+    QuadTreeMap=""
     ReferenceFrame="Iapetus"
     Rotation="0"
-    Sparse="False"
+    Sparse="True"
     StockSet="False"
-    TileLevels="7"
-    Url="http://data1.wwtassets.org/moons/Iapetus_Enhanced_ColorL{1}X{2}Y{3}.png"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2022/02_iapetus_cassini_color/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
   >
-    <Credits>Iapetus map courtesy of NASA/JPL-Caltech/SSI/LPI</Credits>
+    <Credits>NASA/JPL-Caltech/SSI/Lunar and Planetary Institute</Credits>
     <CreditsUrl>http://ciclops.org/view/7962/Color-Maps-of-Iapetus---November-2014</CreditsUrl>
-    <ThumbnailUrl>http://data1.wwtassets.org/moons/Iapetus_Enhanced_Color.jpg</ThumbnailUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/02_iapetus_cassini_color/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -45,6 +46,7 @@
     MeanRadius="735000"
     Name="Iapetus (Saturn)"
     Projection="Toast"
+    QuadTreeMap=""
     ReferenceFrame="Iapetus"
     Rotation="0"
     Sparse="False"

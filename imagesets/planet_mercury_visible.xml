@@ -19,6 +19,7 @@
     MeanRadius="2440000"
     Name="Mercury"
     Projection="Toast"
+    QuadTreeMap=""
     ReferenceFrame="Mercury"
     Rotation="0"
     Sparse="False"

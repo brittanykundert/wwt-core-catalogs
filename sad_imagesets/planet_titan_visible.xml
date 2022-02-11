@@ -6,6 +6,7 @@
   Searchable="True"
 >
   <ImageSet
+    _Reason="Backwards coordinates"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -17,22 +18,24 @@
     FileType=".png"
     Generic="False"
     MeanRadius="2574730"
-    Name="Titan - Cassini Global Mosaic (Ian Regan)"
+    Name="Titan - Cassini ISS Mosaic"
     Projection="Toast"
     QuadTreeMap=""
     ReferenceFrame="Titan"
     Rotation="0"
-    Sparse="True"
+    Sparse="False"
     StockSet="False"
-    TileLevels="8"
-    Url="http://data1.wwtassets.org/packages/2022/02_titan_cassini/{1}/{3}/{3}_{2}.png"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2020/08_titan/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
   >
-    <Credits>NASA/JPL/Space Science Institute/Cassini Data Analysis Program/USGS Astrogeology Science Center/Ian Regan</Credits>
+    <Credits>Credit: NASA/JPL/Space Science Institute/Cassini Data
+      Analysis Program/USGS Astrogeology Science Center/Ian Regan</Credits>
     <CreditsUrl>https://www.flickr.com/photos/10795027@N08/43023455582</CreditsUrl>
-    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/02_titan_cassini/thumb.jpg</ThumbnailUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2020/08_titan/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    _Reason="Backwards coordinates"
     BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
@@ -44,19 +47,19 @@
     FileType=".png"
     Generic="False"
     MeanRadius="2574730"
-    Name="Titan - Cassini Global Topographic Mosaic (Ian Regan)"
+    Name="Titan - Cassini ISS Topo Mosaic"
     Projection="Toast"
     QuadTreeMap=""
     ReferenceFrame="Titan"
     Rotation="0"
-    Sparse="True"
+    Sparse="False"
     StockSet="False"
     TileLevels="7"
-    Url="http://data1.wwtassets.org/packages/2022/02_titan_cassini_topo/{1}/{3}/{3}_{2}.png"
+    Url="http://data1.wwtassets.org/packages/2020/08_titan_topo/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
   >
-    <Credits>NASA/JPL/Space Science Institute/Cassini Data Analysis Program/USGS Astrogeology Science Center/Ian Regan</Credits>
-    <CreditsUrl>https://www.flickr.com/photos/10795027@N08/42360083255/</CreditsUrl>
-    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/02_titan_cassini_topo/thumb.jpg</ThumbnailUrl>
+    <Credits>Credit: NASA/JPL/Space Science Institute/Cassini Data Analysis Program/USGS Astrogeology Science Center/Ian Regan</Credits>
+    <CreditsUrl>https://www.flickr.com/photos/10795027@N08/42360083255</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2020/08_titan_topo/thumb.jpg</ThumbnailUrl>
   </ImageSet>
 </Folder>

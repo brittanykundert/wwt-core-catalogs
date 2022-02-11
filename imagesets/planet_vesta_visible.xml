@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="planet_vesta_visible"
+  Searchable="True"
+>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="262700"
+    Name="Vesta Dawn FC HAMO Global Mosaic"
+    Projection="Toast"
+    QuadTreeMap=""
+    ReferenceFrame="Vesta"
+    Rotation="0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://data1.wwtassets.org/packages/2022/02_vesta_dawn_hamo/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA/MPS/DLR/IDA</Credits>
+    <CreditsUrl>https://astrogeology.usgs.gov/search/map/Vesta/Dawn/DLR/HAMO/Vesta_Dawn_FC_HAMO_Mosaic_Global_74ppd</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/02_vesta_dawn_hamo/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="262700"
+    Name="Vesta Dawn FC LAMO Global Mosaic"
+    Projection="Toast"
+    QuadTreeMap=""
+    ReferenceFrame="Vesta"
+    Rotation="0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="9"
+    Url="http://data1.wwtassets.org/packages/2022/02_vesta_dawn_lamo/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>Roatsch, T., E. Kersten, K.-D. Matz, F. Preusker, F. Scholten, S.Elgner, S.E. Schroeder, R. Jaumann, C.A. Raymond, C.T.Russell, DAWN FC2 DERIVED VESTA GLOBAL MOSAICS V1.0, DAWN-A-FC2-5-MOSAIC-V1.0, NASA Planetary Data System, 2015.</Credits>
+    <CreditsUrl>https://sbn.psi.edu/pds/resource/dawn/dwnvfcmosaics.html</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/02_vesta_dawn_lamo/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="180"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Planet"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    MeanRadius="262700"
+    Name="Vesta Dawn FC HAMO Global Color Shaded Relief"
+    Projection="Toast"
+    QuadTreeMap=""
+    ReferenceFrame="Vesta"
+    Rotation="0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://data1.wwtassets.org/packages/2022/02_vesta_dawn_topo/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA/MPS/DLR/IDA</Credits>
+    <CreditsUrl>https://astrogeology.usgs.gov/search/map/Vesta/Dawn/DLR/HAMO/Vesta_Dawn_HAMO_ClrShade_DLR_Global_48ppd</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/02_vesta_dawn_topo/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+</Folder>
