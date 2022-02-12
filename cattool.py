@@ -158,6 +158,8 @@ class PlaceDatabase(object):
                     self.by_uuid[info["_uuid"]] = info
 
     def ingest_place(self, place: Place, idb: ImagesetDatabase):
+        place.update_constellation()
+
         if place.image_set is not None:
             place.image_set = idb.add_imageset(place.image_set)
         if place.foreground_image_set is not None:
