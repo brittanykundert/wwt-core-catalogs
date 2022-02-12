@@ -188,8 +188,12 @@ class PlaceDatabase(object):
 
         info["data_set_type"] = place.data_set_type.value
 
-        if place.dec_deg != 0:
+        if info["data_set_type"] == "Sky":
+            info["ra_hr"] = place.ra_hr
             info["dec_deg"] = place.dec_deg
+        else:
+            info["latitude"] = place.latitude
+            info["longitude"] = place.longitude
 
         if place.description:
             info["description"] = place.description
@@ -209,12 +213,6 @@ class PlaceDatabase(object):
         if place.image_set:
             info["image_set_url"] = place.image_set.url
 
-        if place.latitude != 0:
-            info["latitude"] = place.latitude
-
-        if place.longitude != 0:
-            info["longitude"] = place.longitude
-
         if place.magnitude != 0:
             info["magnitude"] = place.magnitude
 
@@ -231,9 +229,6 @@ class PlaceDatabase(object):
 
         if place.permission != 0:
             info["permission"] = place.permission
-
-        if place.ra_hr != 0:
-            info["ra_hr"] = place.ra_hr
 
         if place.rotation_deg != 0:
             info["rotation_deg"] = place.rotation_deg
@@ -565,7 +560,9 @@ def do_ground_truth(_settings):
             extension = "wtml"
             letter = "W"
 
-        url = f"http://www.worldwidetelescope.org/wwtweb/catalog.aspx?{letter}={catname}"
+        url = (
+            f"http://www.worldwidetelescope.org/wwtweb/catalog.aspx?{letter}={catname}"
+        )
         filename = f"{catname}.{extension}"
 
         with requests.get(url, stream=True) as r:
