@@ -1,7 +1,7 @@
 _uuid: 6676ee55-8de0-4753-8255-afcb1c5c6de5
 annotation: '{"channel": "eso", "itemid": "eso9924b", "publishedUTCISO8601": "1999-04-30T00:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: PAV
 data_set_type: Sky
 dec_deg: -70.76437626815621
 description: Three-colour composite reproduced from one blue (B), one green-yellow
@@ -34,7 +34,7 @@ zoom_level: 1.161335112312
 _uuid: 0fcdde2b-b989-409d-a1b5-5eb51a39ee5d
 annotation: '{"channel": "eso", "itemid": "potw1908a", "publishedUTCISO8601": "2019-02-25T06:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: SGR
 data_set_type: Sky
 dec_deg: -43.65094801067969
 description: 'This Picture of the Week is a special treat: a first-light image from
@@ -64,7 +64,7 @@ zoom_level: 1.8082937388111797
 _uuid: 66d61ab9-c19a-4dc5-861c-dd5d5ac6ae2f
 annotation: '{"channel": "eso", "itemid": "potw2106a", "publishedUTCISO8601": "2021-02-08T06:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: SGR
 data_set_type: Sky
 dec_deg: -43.65365340049613
 description: Discovered in the year 1836 by John Herschel, NGC 6902 is a beautiful
@@ -90,7 +90,7 @@ _uuid: 3f56fb4b-85c3-4e44-8b2f-bf92fbce6570
 annotation: '{"channel": "noirlab", "itemid": "gemini0101a", "publishedUTCISO8601":
   "2001-07-23T20:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 40.186390177343505
 description: AFGL 2591 is located within the Milky Way more than 3,000 light-years
@@ -113,7 +113,7 @@ _uuid: 1b56206a-6e87-4223-b76b-c3e40894b276
 annotation: '{"channel": "noirlab", "itemid": "gemini0101b", "publishedUTCISO8601":
   "2001-07-23T20:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 40.18744753338971
 description: This false-color image of AFGL 2591 shows some high-resolution details
@@ -129,7 +129,7 @@ _uuid: 1688029d-0162-459e-9607-00609189f425
 annotation: '{"channel": "noirlab", "itemid": "gemini0101c", "publishedUTCISO8601":
   "2001-07-23T20:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 40.18654521919025
 description: This black-and-white, K-band image of AFGL 2591 shows some fainter lobe
@@ -148,7 +148,7 @@ angular_size: 0.6803455822946722
 annotation: '{"channel": "noirlab", "itemid": "gemini0302a", "publishedUTCISO8601":
   "2003-06-30T20:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: CAP
 data_set_type: Sky
 dec_deg: -19.84570409465826
 description: 'During commissioning in early 2003 of the Gemini Multi-Object Spectrograph
@@ -170,7 +170,7 @@ angular_size: 0.4142485009993176
 annotation: '{"channel": "noirlab", "itemid": "gemini0302b", "publishedUTCISO8601":
   "2003-06-30T20:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: CAP
 data_set_type: Sky
 dec_deg: -19.843018888954894
 description: HCG 87 imaged with the Hubble Space Telescope
@@ -185,7 +185,7 @@ angular_size: 0.8170757659172989
 annotation: '{"channel": "noirlab", "itemid": "gemini0501a", "publishedUTCISO8601":
   "2005-01-01T20:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 60.151687916780766
 description: '&quot;A Mysterious Rash of Star Birth In this crisp Gemini North image,
@@ -220,7 +220,7 @@ angular_size: 0.6614618981089919
 annotation: '{"channel": "noirlab", "itemid": "gemini1004a", "publishedUTCISO8601":
   "2010-02-11T20:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 37.37641934380125
 description: Sharpless 2-106 as imaged by the Gemini Multi-Object Spectrograph on
@@ -237,7 +237,7 @@ _uuid: b92ce52d-c238-4c6f-844a-ef151864a14f
 annotation: '{"channel": "noirlab", "itemid": "gemini1104a", "publishedUTCISO8601":
   "2011-03-29T20:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: PAV
 data_set_type: Sky
 dec_deg: -70.76757708204137
 description: 'Image of NGC 6872 (left) and companion galaxy IC 4970 (right) locked
@@ -257,7 +257,7 @@ _uuid: 36c7b52a-8c91-4c1e-b1a7-2846cec50842
 annotation: '{"channel": "noirlab", "itemid": "noao-02186", "publishedUTCISO8601":
   "2020-06-30T21:34:12+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 31.53285979125518
 description: The north central portion of the Veil Nebula in the constellation Cygnus,
@@ -274,7 +274,7 @@ _uuid: a21dd36e-c062-49ed-9c7e-a1083115a905
 annotation: '{"channel": "noirlab", "itemid": "noao-02324", "publishedUTCISO8601":
   "2020-06-30T21:33:59+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 60.14425457799509
 description: NGC6946 (Arp 29) is a face-on SAB(rs)cd galaxy in the constellation Cygnus.
@@ -294,7 +294,7 @@ angular_size: 9.875538
 annotation: '{"channel": "noirlab", "itemid": "noao-04494", "publishedUTCISO8601":
   "2003-04-01T12:51:36+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 38.417820321202086
 description: This wide-field image of the Crescent Nebula was taken at the National
@@ -316,7 +316,7 @@ _uuid: 7ffff68e-e25a-4cd3-b105-1540d000c151
 annotation: '{"channel": "noirlab", "itemid": "noao-04745", "publishedUTCISO8601":
   "2003-10-06T00:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 44.325010889135775
 description: 'These images were obtained with the MOSAIC CCD camera at the prime focus
@@ -348,7 +348,7 @@ _uuid: 4413ca54-4950-47e9-9550-8a67093b1246
 angular_size: 1.55575092
 annotation: '{"channel": "noirlab", "itemid": "noao-ear", "publishedUTCISO8601": "2020-06-30T21:34:03.011384+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 46.90915349409115
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -369,7 +369,7 @@ angular_size: 2.9863786060526136
 annotation: '{"channel": "noirlab", "itemid": "noao-g70-51-9", "publishedUTCISO8601":
   "2020-06-30T21:34:03+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 33.888818541594134
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -389,7 +389,7 @@ angular_size: 3.950419199999999
 annotation: '{"channel": "noirlab", "itemid": "noao-ic1311", "publishedUTCISO8601":
   "2020-06-30T21:34:04.727773+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 41.21756815611766
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -410,7 +410,7 @@ angular_size: 5.0791104
 annotation: '{"channel": "noirlab", "itemid": "noao-ic1340", "publishedUTCISO8601":
   "2020-06-30T21:34:04.799433+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 31.0694197071602
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -430,7 +430,7 @@ _uuid: cf0fbac0-f0c1-4340-88f3-d9f1584891d4
 annotation: '{"channel": "noirlab", "itemid": "noao-ic5070", "publishedUTCISO8601":
   "2020-06-30T21:34:10+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 44.37938914645197
 description: This image was taken with the KPNO/WIYN 0.9m telescope on May 24, 2002.
@@ -451,7 +451,7 @@ _uuid: 1f53c8aa-a77b-4f7b-b4dd-071ae2df7bca
 angular_size: 1.0786499999999997
 annotation: '{"channel": "noirlab", "itemid": "noao-m29", "publishedUTCISO8601": "2020-06-30T21:34:16+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 38.51081014984076
 description: M29 is an open cluster in the constellation Cygnus. Coarser and less
@@ -471,7 +471,7 @@ _uuid: 4aebae83-bf26-4cc6-93ce-13dcf829071e
 angular_size: 1.73502
 annotation: '{"channel": "noirlab", "itemid": "noao-m73", "publishedUTCISO8601": "2020-06-30T21:53:14+00:00"}'
 classification: ''
-constellation: ''
+constellation: AQR
 data_set_type: Sky
 dec_deg: -12.633624183170015
 description: M73, a small open cluster in the constellation Aquarius, is a minor though
@@ -493,7 +493,7 @@ _uuid: 818e0e2b-eef4-4d47-9a89-8e673593ba77
 angular_size: 1.543872
 annotation: '{"channel": "noirlab", "itemid": "noao-m75", "publishedUTCISO8601": "2020-06-30T21:53:14+00:00"}'
 classification: ''
-constellation: ''
+constellation: SGR
 data_set_type: Sky
 dec_deg: -21.920986357105633
 description: M75 is a globular cluster in the constellation Sagittarius. It is one
@@ -513,7 +513,7 @@ angular_size: 0.9514141768127692
 annotation: '{"channel": "noirlab", "itemid": "noao-ngc6946", "publishedUTCISO8601":
   "2020-06-30T21:33:59+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 60.1523949184788
 description: NGC6946, the “Fireworks Galaxy,” lies between 10 and 20 million light-years
@@ -540,7 +540,7 @@ _uuid: 1da1de16-5491-4ff4-9edb-ffcf2b86eb01
 annotation: '{"channel": "noirlab", "itemid": "noao-ngc6992", "publishedUTCISO8601":
   "2020-06-30T21:34:10+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 31.535946887478072
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -561,7 +561,7 @@ angular_size: 5.437864799999999
 annotation: '{"channel": "noirlab", "itemid": "noao-ngc7000east", "publishedUTCISO8601":
   "2020-06-30T21:34:10+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 43.57812480640784
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -584,7 +584,7 @@ angular_size: 3.71974824
 annotation: '{"channel": "noirlab", "itemid": "noao-pvcep", "publishedUTCISO8601":
   "2020-06-30T21:53:16+00:00"}'
 classification: ''
-constellation: ''
+constellation: CEP
 data_set_type: Sky
 dec_deg: 67.9459237400928
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -609,7 +609,7 @@ angular_size: 9.01629
 annotation: '{"channel": "noirlab", "itemid": "noao-veil-wiyn-0-9-m", "publishedUTCISO8601":
   "2020-06-30T21:34:12+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 30.73481087291716
 description: This image of the Veil Nebula was taken with the Mosaic camera on the
@@ -634,7 +634,7 @@ angular_size: 11.747217599999999
 annotation: '{"channel": "noirlab", "itemid": "noao-veile", "publishedUTCISO8601":
   "2020-06-30T21:34:12.711998+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 31.46353629544469
 description: 'The Veil nebula, also known as the Cygnus Loop, is an enormous region
@@ -671,7 +671,7 @@ angular_size: 11.747217599999999
 annotation: '{"channel": "noirlab", "itemid": "noao-veilw", "publishedUTCISO8601":
   "2020-06-30T21:34:12+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 30.7457909011448
 description: 'The Veil nebula, also known as the Cygnus Loop, is an enormous region
@@ -708,7 +708,7 @@ angular_size: 3.5135760198782084
 annotation: '{"channel": "noirlab", "itemid": "noao-wr134", "publishedUTCISO8601":
   "2020-06-30T21:53:17+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 36.17986488036457
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -731,7 +731,7 @@ angular_size: 11.342399999999998
 annotation: '{"channel": "noirlab", "itemid": "noao0314a", "publishedUTCISO8601":
   "2003-10-06T00:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 44.299482911368
 description: 'This image of the clouds of gas and dust next to the “neck” and “body”
@@ -758,7 +758,7 @@ _uuid: 2622b9a7-ae62-4d51-9485-c32719435dbe
 annotation: '{"channel": "noirlab", "itemid": "noao0801a", "publishedUTCISO8601":
   "2008-01-08T00:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 31.61868143219961
 description: A new wide-field image of Pickering&#x27;s Triangle taken with the National
@@ -785,7 +785,7 @@ angular_size: -2.573969999999999
 annotation: '{"channel": "noirlab", "itemid": "noao0904a", "publishedUTCISO8601":
   "2009-10-15T00:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 38.0423186777872
 description: Informally known as the &quot;Soap Bubble Nebula&quot;, this planetary
@@ -808,7 +808,7 @@ _uuid: efab13fa-3a5b-4177-aadd-1c58a023f7c7
 annotation: '{"channel": "noirlab", "itemid": "noao1209a", "publishedUTCISO8601":
   "2012-12-18T00:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 31.03766108582665
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -838,7 +838,7 @@ angular_size: 1.8179717682436798
 annotation: '{"channel": "noirlab", "itemid": "noaoann09014a", "publishedUTCISO8601":
   "2009-09-23T00:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 44.37097085158541
 description: IC 5067, a star forming region in Cygnus, is also sometimes called the
@@ -860,7 +860,7 @@ angular_size: 9.8521049962824
 annotation: '{"channel": "noirlab", "itemid": "noaoann15004a", "publishedUTCISO8601":
   "2015-04-15T00:00:00+00:00"}'
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 43.6848195919706
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -880,7 +880,7 @@ zoom_level: 9.8521049962824
 _uuid: 404e7b49-a931-4ddc-a0df-0345e1851eb5
 angular_size: 0.8062653952336927
 classification: Unidentified
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 30.96365995197231
 foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1520a/L{1}X{2}Y{3}.png
@@ -892,7 +892,7 @@ zoom_level: 1.1
 _uuid: 8cb59ebc-f16e-434d-86db-52f38f512fb3
 angular_size: 0.28344319065560214
 classification: Unidentified
-constellation: ''
+constellation: MIC
 data_set_type: Sky
 dec_deg: -42.507
 foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1919a/image.jpg
@@ -1002,7 +1002,7 @@ zoom_level: -1.0
 ---
 _uuid: b60eaf0c-148a-423d-bfa6-c63186f246f6
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 38.355062
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-103L{1}X{2}Y{3}.png
@@ -1013,7 +1013,7 @@ zoom_level: 1.07182637056
 ---
 _uuid: e4cc087f-1df4-47a6-b9d2-1932248deded
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 40.9579535
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-208L{1}X{2}Y{3}.png
@@ -1024,7 +1024,7 @@ zoom_level: 0.267268816896
 ---
 _uuid: 5cf0a740-7463-418a-a951-8892902f4919
 classification: ''
-constellation: ''
+constellation: PAV
 data_set_type: Sky
 dec_deg: -70.7699278
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-441L{1}X{2}Y{3}.png
@@ -1035,7 +1035,7 @@ zoom_level: 0.4339367936
 ---
 _uuid: c767bef5-a4d3-421e-ac15-e49423b9cd69
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 41.3447028
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-525L{1}X{2}Y{3}.png
@@ -1046,7 +1046,7 @@ zoom_level: 7.42803161088
 ---
 _uuid: ea92e6fa-ac51-4fa9-bece-be70008f8993
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 40.957851
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-643L{1}X{2}Y{3}.png
@@ -1057,7 +1057,7 @@ zoom_level: 0.1172313833472
 ---
 _uuid: ea037783-ce0d-46d4-9600-4104e5dffbbe
 classification: ''
-constellation: ''
+constellation: AQR
 data_set_type: Sky
 dec_deg: -11.6665664489
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1039aL{1}X{2}Y{3}.png
@@ -1068,7 +1068,7 @@ zoom_level: 0.351191456016401
 ---
 _uuid: c6221781-7500-45b1-aea1-935f8cb6c878
 classification: ''
-constellation: ''
+constellation: CAP
 data_set_type: Sky
 dec_deg: -27.215968
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1337cL{1}X{2}Y{3}.png
@@ -1079,7 +1079,7 @@ zoom_level: 9.28372129792
 ---
 _uuid: 3526a1c3-8559-466c-9f4d-b321fff4cae2
 classification: ''
-constellation: ''
+constellation: MIC
 data_set_type: Sky
 dec_deg: -30.9454045247
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1538cL{1}X{2}Y{3}.png
@@ -1090,7 +1090,7 @@ zoom_level: 18.3702424622203
 ---
 _uuid: 14422a57-a097-4de2-bf7a-e2a7249a813a
 classification: ''
-constellation: ''
+constellation: SGR
 data_set_type: Sky
 dec_deg: -43.6509960694
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1908aL{1}X{2}Y{3}.png
@@ -1101,7 +1101,7 @@ zoom_level: 0.790156729839616
 ---
 _uuid: cd7abb55-f529-4fce-9ccf-d6cf7d7a9510
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 44.6530195504
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-ann0906aL{1}X{2}Y{3}.png
@@ -1112,7 +1112,7 @@ zoom_level: 0.113930356921958
 ---
 _uuid: 1e36a84f-f34a-40cc-8590-cf45e6120e7d
 classification: ''
-constellation: ''
+constellation: AQR
 data_set_type: Sky
 dec_deg: -10.7233819304
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-ann1121aL{1}X{2}Y{3}.png
@@ -1123,7 +1123,7 @@ zoom_level: 0.015740163363881
 ---
 _uuid: bc5b7213-ff41-450b-bcac-dc9dd86ff4d5
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 44.5943959784
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0510aL{1}X{2}Y{3}.png
@@ -1134,7 +1134,7 @@ zoom_level: 21.5022636787302
 ---
 _uuid: 218e1b4b-446e-4e92-b375-4d38dd85221e
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 30.9880611818
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0712aL{1}X{2}Y{3}.png
@@ -1145,7 +1145,7 @@ zoom_level: 0.113431941072077
 ---
 _uuid: 2b811e83-c25e-4a5f-9b20-046069b1d198
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 31.1376199467
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0712bL{1}X{2}Y{3}.png
@@ -1156,7 +1156,7 @@ zoom_level: 0.113334302683955
 ---
 _uuid: aecc974a-3b9a-4cfe-a7f9-8cfdac6f1ffb
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 30.3652967353
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0712cL{1}X{2}Y{3}.png
@@ -1167,7 +1167,7 @@ zoom_level: 0.113435475915571
 ---
 _uuid: 7947e9cd-2f74-458b-a7ad-ff650c9c7dc7
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 30.4888983986
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0712gL{1}X{2}Y{3}.png
@@ -1178,7 +1178,7 @@ zoom_level: 18.3314764559155
 ---
 _uuid: 45eed6d1-fba6-45b5-a187-f6c739dff718
 classification: ''
-constellation: ''
+constellation: VUL
 data_set_type: Sky
 dec_deg: 22.7054903358
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0720dL{1}X{2}Y{3}.png
@@ -1189,7 +1189,7 @@ zoom_level: 18.5454005942354
 ---
 _uuid: 739285fc-e7f4-4577-a099-061ec93019e1
 classification: ''
-constellation: ''
+constellation: VUL
 data_set_type: Sky
 dec_deg: 22.7054903358
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0807bL{1}X{2}Y{3}.png
@@ -1200,7 +1200,7 @@ zoom_level: 18.5454005942354
 ---
 _uuid: 11da9ae7-c150-4daa-94d9-4ddfc1de824e
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 30.9649765181
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1520aL{1}X{2}Y{3}.png
@@ -1211,7 +1211,7 @@ zoom_level: 0.363736428170445
 ---
 _uuid: f7b1dfda-fac7-4196-a280-2fea91c6dcef
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 30.7295989441
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1520bL{1}X{2}Y{3}.png
@@ -1222,7 +1222,7 @@ zoom_level: 18.3519764278149
 ---
 _uuid: dca4aaf0-6a91-4d76-acf7-dc77c8594a49
 classification: ''
-constellation: ''
+constellation: MIC
 data_set_type: Sky
 dec_deg: -30.9453102479
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1521bL{1}X{2}Y{3}.png
@@ -1233,7 +1233,7 @@ zoom_level: 18.3487467254579
 ---
 _uuid: fbb85d28-28d3-4f1c-91a3-f1ab03175507
 classification: ''
-constellation: ''
+constellation: IND
 data_set_type: Sky
 dec_deg: -47.3953558571
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1702fL{1}X{2}Y{3}.png
@@ -1244,7 +1244,7 @@ zoom_level: 0.00708795055939584
 ---
 _uuid: fd80efc2-4e91-4178-9e12-eb837a56f535
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 44.6530195504
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-opo0921aL{1}X{2}Y{3}.png
@@ -1255,7 +1255,7 @@ zoom_level: 0.113930356921958
 ---
 _uuid: 1d73db22-09fe-4014-b44b-a8c1ebca83e8
 classification: ''
-constellation: ''
+constellation: SGE
 data_set_type: Sky
 dec_deg: 16.7315519067
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-opo9738c7L{1}X{2}Y{3}.png
@@ -1266,7 +1266,7 @@ zoom_level: 0.0122924003039232
 ---
 _uuid: 4f609ced-b191-4251-8562-846c898e7e7c
 classification: ''
-constellation: ''
+constellation: AQR
 data_set_type: Sky
 dec_deg: -12.5364670673
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1001aL{1}X{2}Y{3}.png
@@ -1277,7 +1277,7 @@ zoom_level: 0.454706383699968
 ---
 _uuid: 28d9dbde-720c-4013-9320-cb59cc253ca2
 classification: ''
-constellation: ''
+constellation: DEL
 data_set_type: Sky
 dec_deg: 7.40465808175
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1023aL{1}X{2}Y{3}.png
@@ -1288,7 +1288,7 @@ zoom_level: 0.227462605724058
 ---
 _uuid: 3fb301ff-7328-497c-9043-7fdf86d7c917
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 41.012026284
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1030aL{1}X{2}Y{3}.png
@@ -1299,7 +1299,7 @@ zoom_level: 0.0292208311130112
 ---
 _uuid: 0cd39ace-296a-46f2-9175-95615ac59411
 classification: ''
-constellation: ''
+constellation: SGE
 data_set_type: Sky
 dec_deg: 19.9904240955
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1102aL{1}X{2}Y{3}.png
@@ -1310,7 +1310,7 @@ zoom_level: 0.0518516122525696
 ---
 _uuid: 612514ba-7e3c-4a5c-a371-513617f9bdfb
 classification: ''
-constellation: ''
+constellation: TEL
 data_set_type: Sky
 dec_deg: -48.3699224485
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1502aL{1}X{2}Y{3}.png
@@ -1321,7 +1321,7 @@ zoom_level: 0.0568854199054336
 ---
 _uuid: b1d24a8c-3658-4346-9759-2d9ca1119c6c
 classification: ''
-constellation: ''
+constellation: SGR
 data_set_type: Sky
 dec_deg: -21.9216241565
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1916aL{1}X{2}Y{3}.png
@@ -1332,7 +1332,7 @@ zoom_level: 0.0902743478173696
 ---
 _uuid: 84787060-15f8-4054-b126-5e643ef51d34
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 60.1543392143213
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig08-008L{1}X{2}Y{3}.png
@@ -1343,7 +1343,7 @@ zoom_level: 1.70484296838326
 ---
 _uuid: 251c56c1-2188-49a2-89fc-a02b7d7bf78e
 classification: ''
-constellation: ''
+constellation: DRA
 data_set_type: Sky
 dec_deg: 67.897171
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-006dL{1}X{2}Y{3}.png
@@ -1354,7 +1354,7 @@ zoom_level: 0.92606660608
 ---
 _uuid: d87c90d1-c8d4-4ec5-bb51-245845c90bac
 classification: ''
-constellation: ''
+constellation: DEL
 data_set_type: Sky
 dec_deg: 17.1278513
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-023aL{1}X{2}Y{3}.png
@@ -1365,7 +1365,7 @@ zoom_level: 0.113706377216
 ---
 _uuid: 00dac527-1cee-4631-96a0-98449a7ca0f6
 classification: ''
-constellation: ''
+constellation: DEL
 data_set_type: Sky
 dec_deg: 17.1278513
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-023bL{1}X{2}Y{3}.png
@@ -1376,7 +1376,7 @@ zoom_level: 0.113706377216
 ---
 _uuid: a20f3c28-db0b-4b06-a643-c8c0852cc90a
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 39.72905842867
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig12-012L{1}X{2}Y{3}.png
@@ -1387,7 +1387,7 @@ zoom_level: 0.8945729536
 ---
 _uuid: 4ac19cf9-a192-4b04-8ead-c19785605e52
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 42.0688521218
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-06a1L{1}X{2}Y{3}.png
@@ -1398,7 +1398,7 @@ zoom_level: 2.29023282624848
 ---
 _uuid: d34e5fb0-de02-45d5-af4d-b63ab796aa62
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 42.0688521218
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-06b1L{1}X{2}Y{3}.png
@@ -1409,7 +1409,7 @@ zoom_level: 2.29023282624848
 ---
 _uuid: 0978b06d-121f-4d8e-97a5-4e6ef8f651e8
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 39.4344485805873
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-18a1L{1}X{2}Y{3}.png
@@ -1420,7 +1420,7 @@ zoom_level: 1.390125056
 ---
 _uuid: cb811d02-7405-4543-830f-b455c61cc8dc
 classification: ''
-constellation: ''
+constellation: DRA
 data_set_type: Sky
 dec_deg: 68.0377902554105
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2007-19a1L{1}X{2}Y{3}.png
@@ -1431,7 +1431,7 @@ zoom_level: 2.04541411827712
 ---
 _uuid: 6982e2c0-3ac4-49c6-9f23-4da363d2203b
 classification: ''
-constellation: ''
+constellation: DRA
 data_set_type: Sky
 dec_deg: 68.0377902554105
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2007-19a2L{1}X{2}Y{3}.png
@@ -1442,7 +1442,7 @@ zoom_level: 2.29094206843107
 ---
 _uuid: 1e2c2d9d-3de1-4123-ba3d-e705bee94743
 classification: ''
-constellation: ''
+constellation: DRA
 data_set_type: Sky
 dec_deg: 68.0377902554105
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2007-19aL{1}X{2}Y{3}.png
@@ -1453,7 +1453,7 @@ zoom_level: 2.4627627235634
 ---
 _uuid: 502db43c-c9ce-43f6-9322-ac226a960618
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 41.352043
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2009-15a1L{1}X{2}Y{3}.png
@@ -1464,7 +1464,7 @@ zoom_level: 1.365336064
 ---
 _uuid: 8fa9558d-b405-4abf-98d4-d416fbc48dc1
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 44.1308131199394
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2011-03a1L{1}X{2}Y{3}.png
@@ -1475,7 +1475,7 @@ zoom_level: 11.108352
 ---
 _uuid: d4f1e277-333e-4216-aa75-7cbe7ead5ff6
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 44.1308131199394
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2011-03a2L{1}X{2}Y{3}.png
@@ -1486,7 +1486,7 @@ zoom_level: 11.108352
 ---
 _uuid: c9cb14bc-d757-4894-89ce-c9b86618b8a1
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 40.5
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-02a1L{1}X{2}Y{3}.png
@@ -1497,7 +1497,7 @@ zoom_level: 31.408914432
 ---
 _uuid: 5b0628f8-0a00-424e-8d58-47d62dccf084
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 40.5
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-02aL{1}X{2}Y{3}.png
@@ -1508,7 +1508,7 @@ zoom_level: 15.704457216
 ---
 _uuid: 4ac9a0bb-070e-4d1e-b4f3-a0e10cd43627
 classification: ''
-constellation: ''
+constellation: CAP
 data_set_type: Sky
 dec_deg: -24.911567
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-020L{1}X{2}Y{3}.png
@@ -1519,7 +1519,7 @@ zoom_level: 3.12888884544389
 ---
 _uuid: 6901cbe2-2576-4bed-a354-dc5a6f95cc4e
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 31.01
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-008L{1}X{2}Y{3}.png
@@ -1530,7 +1530,7 @@ zoom_level: 25.03081984
 ---
 _uuid: c2adc07e-89e2-46b1-80a2-554ec24e3a21
 classification: ''
-constellation: ''
+constellation: CYG
 data_set_type: Sky
 dec_deg: 38.45891535
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-021L{1}X{2}Y{3}.png
