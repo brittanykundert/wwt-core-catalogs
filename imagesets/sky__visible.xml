@@ -42067,31 +42067,6 @@ powers the dramatic activity seen by...</Credits>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="0.330867790385178"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="0"
-    CenterY="0"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Galactic Center"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="0.00841882295"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="4"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Chandra-439L{1}X{2}Y{3}.png"
-    WidthFactor="1"
-  >
-    <Credits>X-ray: NASA/CXC/UMass/D. Wang et; Data from NASA's Great Observatories has been combined to produce this unprecedented image of the central region of the Milky Wa...</Credits>
-    <CreditsUrl>http://chandra.harvard.edu/photo/2009/galactic/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-439.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="0.1084841984"
     BaseTileLevel="0"
     BottomsUp="False"
