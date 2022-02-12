@@ -265,4 +265,30 @@
     <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-016.jpg</ThumbnailUrl>
   </ImageSet>
+  <ImageSet
+    _Reason="Wrong astrometry, could not rescue"
+    BandPass="Visible"
+    BaseDegreesPerTile="0.17054710784"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="50.5"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="G050.35"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.08794025403"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="2"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig16-001L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/University of W; Bow shocks thought to mark the paths of massive, speeding stars are highlighted in this image from NASA's Spitzer Space Telescop...</Credits>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/sig16-001-bow-shocks-in-space-g050-35</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig16-001.jpg</ThumbnailUrl>
+  </ImageSet>
 </Folder>
