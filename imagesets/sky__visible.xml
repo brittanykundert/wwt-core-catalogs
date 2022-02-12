@@ -41967,31 +41967,6 @@ powers the dramatic activity seen by...</Credits>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="0.59896438784"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="-0.10833333333"
-    CenterY="0"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Milky Way"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="0.39770159784"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="5"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Chandra-435L{1}X{2}Y{3}.png"
-    WidthFactor="1"
-  >
-    <Credits>NASA/CXC/UMass/D. Wang et al.; This Chandra image exposes a wealth of exotic objects and high-energy features at the center of our galaxy, the Milky Way. In th...</Credits>
-    <CreditsUrl>http://chandra.harvard.edu/photo/2009/gcenter/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-435.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="0.01309714432"
     BaseTileLevel="0"
     BottomsUp="False"
