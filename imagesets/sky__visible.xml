@@ -102499,31 +102499,6 @@ The saturated yellow point at the center ...</Credits>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="209.7152"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="360"
-    CenterY="0"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Milky Way"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="0"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="5"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-016L{1}X{2}Y{3}.png"
-    WidthFactor="1"
-  >
-    <Credits>NASA/JPL-Caltech/UCLA; This image is a map of the portion of the sky covered by the preliminary release of WISE data. WISE surveyed the entire sky in f...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-016.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="3.128885248"
     BaseTileLevel="0"
     BottomsUp="False"
