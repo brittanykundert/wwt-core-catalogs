@@ -28666,6 +28666,33 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.45442598901514364"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="161.11976851015592"
+    CenterY="-59.59562623532823"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Star birth in the extreme"
+    OffsetX="1.3867980621800038e-05"
+    OffsetY="1.3867980621800038e-05"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="50.320000000000306"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://data1.wwtassets.org/packages/2020/07_hubble30/heic0707a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, N. Smith (University of California, Berkeley), and The Hubble Heritage Team (STScI/AURA)</Credits>
+    <CreditsUrl>http://www.spacetelescope.org/images/heic0707a/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2020/07_hubble30/heic0707a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.22797695455231934"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -29065,6 +29092,33 @@
     <Credits>NASA, ESA, Hubble Heritage Team</Credits>
     <CreditsUrl>http://www.spacetelescope.org/images/heic1608a/</CreditsUrl>
     <ThumbnailUrl>http://data1.wwtassets.org/packages/2020/07_hubble30/heic1608a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.0446441184419841"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="83.8644455959727"
+    CenterY="-69.2690906352507"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name=""
+    OffsetX="1.63491644685001e-05"
+    OffsetY="1.0899442979e-05"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-11.12"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2020/07_hubble30/heic1704a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, and R. Kirshner (Harvard-Smithsonian Center for Astrophysics and Gordon and Betty Moore Foundation) and P. Challis (Harvard-Smithsonian Center for Astrophysics)</Credits>
+    <CreditsUrl>http://www.spacetelescope.org/images/heic1704a/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2020/07_hubble30/heic1704a/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
