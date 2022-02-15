@@ -921,28 +921,6 @@ ra_hr: 14.3732965333333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0716a.jpg
 zoom_level: 0.45571121152
 ---
-_uuid: a638e593-56b3-4714-a240-98cc4cbfbf4f
-classification: ''
-constellation: CIR
-data_set_type: Sky
-dec_deg: -65.345778
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0832aL{1}X{2}Y{3}.png
-name: Circinus Galaxy
-ra_hr: -9.14460446666667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0832a.jpg
-zoom_level: 1140.02988875776
----
-_uuid: f8061cfa-82a9-4f1a-b151-b9f0dc058a5c
-classification: ''
-constellation: UMI
-data_set_type: Sky
-dec_deg: 261.4328
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0832bL{1}X{2}Y{3}.png
-name: Circinus Galaxy
-ra_hr: -9.14460446666667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0832b.jpg
-zoom_level: 3017.08399869952
----
 _uuid: 6c1ca207-5e7e-4639-a6d7-63175772aeb0
 classification: ''
 constellation: LIB

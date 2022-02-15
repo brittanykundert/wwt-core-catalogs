@@ -51456,56 +51456,6 @@ the large galaxy in the lower part of the image,...</Credits>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="285.00747218944"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="-137.169067"
-    CenterY="-65.345778"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Circinus Galaxy"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="59.23543491198"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="3"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0832aL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-  >
-    <Credits>X-ray (NASA/CXC/Columbia/F.Bauer et al); Visible light (NASA/STScI/UMD/A.Wilson et al.); This composite image shows the central regions of the nearby Circinus galaxy, located about 12 million light years away. Data fr...</Credits>
-    <CreditsUrl>http://www.eso.org/public/images/eso0832a/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0832a.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="754.27099967488"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="-137.169067"
-    CenterY="261.4328"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Circinus Galaxy"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="58.60385308198"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="2"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0832bL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-  >
-    <Credits>ESO; Colour image of the Circinus Galaxy based on ESO SuSI New Technology Telescope data obtained in April 1993, that is, about three...</Credits>
-    <CreditsUrl>http://www.eso.org/public/images/eso0832b/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0832b.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="0.1133312"
     BaseTileLevel="0"
     BottomsUp="False"
