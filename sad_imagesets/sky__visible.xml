@@ -395,4 +395,30 @@
     <CreditsUrl>http://www.eso.org/public/images/eso0914b/</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0914b.jpg</ThumbnailUrl>
   </ImageSet>
+  <ImageSet
+    _Reason="Bad astrometry; almost rescuable from https://astroweb03.ipac.caltech.edu/image/orions-big-head-revealed-in-infrared but AVM arent quite right"
+    BandPass="Visible"
+    BaseDegreesPerTile="-12.2291764110126"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="83.78449"
+    CenterY="83.78449"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Lambda Orionis"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-20"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-015L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; In Greek mythology, Orion was a hunter whose vanity was so great that he angered the goddess Artemis. As his punishment, Artemis...</Credits>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-015.jpg</ThumbnailUrl>
+  </ImageSet>
 </Folder>
