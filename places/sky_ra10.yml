@@ -1263,7 +1263,7 @@ dec_deg: -33.8874444444444
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012001{Q}?g=182
 name: IC 2545;AM 1003-333
 ra_hr: 10.1014
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 34fcd01e-3da0-4cc6-a5b0-dfe941acd066
 angular_size: 1.0
@@ -1307,7 +1307,7 @@ dec_deg: -43.9037222222222
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012202{Q}?g=182
 name: NGC 3256;VV 065;AM 1025-433
 ra_hr: 10.464325
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: dfe6bec2-1f26-4a94-9317-4bec4b549699
 angular_size: 1.0
@@ -1362,7 +1362,7 @@ dec_deg: 24.5427777777778
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013013{Q}?g=182
 name: IRAS F10565+2448;EQ 1056+248
 ra_hr: 10.9884194444445
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: aad3086d-6370-4e3d-80d3-549337b4d1da
 classification: ''

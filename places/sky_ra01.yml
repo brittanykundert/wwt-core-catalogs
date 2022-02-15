@@ -873,7 +873,7 @@ dec_deg: -17.5065833333333
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013220{Q}?g=182
 name: IC 1623A/B;Arp 236;VV 114
 ra_hr: 1.12983055555555
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 9cd7f978-a822-499d-a50b-423e37ee9271
 angular_size: 1.0
@@ -884,7 +884,7 @@ dec_deg: 3.79861111111111
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013320{Q}?g=182
 name: NGC 520;Arp 157;VV 231;KPG 031
 ra_hr: 1.40983888888889
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 7454a533-426f-44d7-9331-93a586cf83aa
 angular_size: 1.0
@@ -895,7 +895,7 @@ dec_deg: 22.5829722222222
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000020020{Q}?g=182
 name: NGC 695;V Zw 123
 ra_hr: 1.85399444444445
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 2dc77f0e-2bba-4aa4-9534-0677d8fdb801
 angular_size: 1.0

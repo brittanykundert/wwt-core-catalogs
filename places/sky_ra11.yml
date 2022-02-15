@@ -1023,7 +1023,7 @@ dec_deg: 14.6763888888889
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000013032{Q}?g=182
 name: IC 2810
 ra_hr: 11.4292222222222
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: c941eef2-96e4-4979-804f-021cbe9289b7
 angular_size: 1.0
@@ -1034,7 +1034,7 @@ dec_deg: 58.5630277777778
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000013222{Q}?g=182
 name: NGC 3690;IC 694;Mrk 171;Arp 299;VV 118;KPG 288
 ra_hr: 11.4755833333333
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 7451cfb7-b9c0-4dd0-8210-59f0aded4e9e
 angular_size: 1.0

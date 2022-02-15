@@ -562,7 +562,7 @@ dec_deg: 58.3843333333333
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013213{Q}?g=182
 name: IRAS 21101+5810;2MASX J21112926+5823074
 ra_hr: 21.1913666666667
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 57c0395f-8b17-404d-85a1-eba6b5e540a7
 classification: ''

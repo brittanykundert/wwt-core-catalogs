@@ -954,7 +954,7 @@ dec_deg: 17.1262777777778
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000013101{Q}?g=182
 name: II Zw 96;ZW II 96;CGCG 448-020;2MASX J20572362+1707445
 ra_hr: 20.9565305555555
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: b3d086ed-c5ea-430e-8ba8-dac506270ecf
 angular_size: 1.0
@@ -987,7 +987,7 @@ dec_deg: -42.6494444444444
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013103{Q}?g=182
 name: ESO 286-19, ESO 286-IG019, AM 2055-425
 ra_hr: 20.9741666666667
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: b42fe933-7cef-4ac6-abe6-d1f5ec4c1d4f
 angular_size: 1.0
@@ -998,7 +998,7 @@ dec_deg: 25.5273611111111
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013223{Q}?g=182
 name: IRAS 20351+2521;2MASX J20371771+2531377
 ra_hr: 20.6216722222222
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: b60eaf0c-148a-423d-bfa6-c63186f246f6
 classification: ''

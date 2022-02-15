@@ -484,7 +484,7 @@ dec_deg: 44.3320277777778
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013020{Q}?g=182
 name: UGC 4881;VV 155;Arp 055;Grasshopper
 ra_hr: 9.26538333333333
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 045d24d4-b2ce-4a34-940d-3d062244d41e
 angular_size: 1.0
@@ -561,7 +561,7 @@ dec_deg: 61.3538888888889
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012311{Q}?g=182
 name: UGC 5101
 ra_hr: 9.59768611111113
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: aaf15ca3-04d0-441e-92cf-a156ee023ebf
 angular_size: 1.0
@@ -1946,7 +1946,7 @@ dec_deg: 33.16762233117
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},546176351
 name: 'SN 2008D: Supernova Caught in Act of Exploding'
 ra_hr: 9.15908921762333
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: f424040b-9f18-44c6-8e3d-591936348e1f
 angular_size: 1.0

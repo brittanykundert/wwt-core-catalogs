@@ -1705,7 +1705,7 @@ dec_deg: 1.52794444444444
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013030{Q}?g=182
 name: IRAS 18090+0130;2MASX J18113342+0131427
 ra_hr: 18.19375
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 035da989-94a2-449a-8ac6-8de760428d7c
 angular_size: 1.0
@@ -1859,7 +1859,7 @@ dec_deg: -57.7252777777778
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012102{Q}?g=182
 name: IC 4687/6;IC 4689;AM 1809-574
 ra_hr: 18.2277722222222
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 11018fb6-cfde-417f-9c2c-0d6cea477457
 angular_size: 1.0
@@ -1959,7 +1959,7 @@ dec_deg: 68.3636111111111
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012213{Q}?g=182
 name: NGC 6621;NGC 6622;VV 247;Arp 81;VII Zw 778;KPG 534A
 ra_hr: 18.2151944444445
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: a2728a16-b5b1-4bf9-974f-086678306423
 angular_size: 1.0

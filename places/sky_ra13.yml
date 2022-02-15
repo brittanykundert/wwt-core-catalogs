@@ -1797,7 +1797,7 @@ dec_deg: 0.834416666666667
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013110{Q}?g=182
 name: NGC 5257/8;Arp 240;VV 055;KPG 389
 ra_hr: 13.6654666666667
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: ab420b8a-0657-4097-a631-5b01712ec475
 angular_size: 1.0
@@ -1819,7 +1819,7 @@ dec_deg: 55.88625
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013330{Q}?g=182
 name: Mrk 273;UGC 8696;I Zw 071
 ra_hr: 13.7450805555555
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: cf2f2014-bb3e-4edc-bc06-be203dbe3393
 angular_size: 1.0
@@ -1863,7 +1863,7 @@ dec_deg: 4.33308333333333
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012011{Q}?g=182
 name: VV 283;CGCG 043-099;MCG+01-33-036
 ra_hr: 13.0308305555555
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 6d2d93cf-a8cf-44ea-b1a5-99e8037f8ce4
 angular_size: 1.0
@@ -1963,7 +1963,7 @@ dec_deg: 48.2762777777778
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012022{Q}?g=182
 name: NGC 5256;Mrk 0266;I Zw 067;KPG 388
 ra_hr: 13.6382444444445
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 577f21c4-d486-4e6d-be97-3adb2ee304f1
 angular_size: 1.0
@@ -1974,7 +1974,7 @@ dec_deg: 2.10416666666667
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012122{Q}?g=182
 name: NGC 5331;VV 253;KPG 401
 ra_hr: 13.8712194444445
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 1542e6e9-3774-4628-b29c-fca14211abe3
 angular_size: 1.0
@@ -1985,7 +1985,7 @@ dec_deg: -23.9222222222222
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012322{Q}?g=182
 name: ESO 507-70;ESO 507-G070;AM 1300-233
 ra_hr: 13.0480555555555
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 571a379e-e342-43ca-9430-206a51b8d20f
 angular_size: 1.0
@@ -2062,7 +2062,7 @@ dec_deg: 34.1393055555556
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012223{Q}?g=182
 name: IC 883;UGC 08387;Arp 193;VV 821;I Zw 056
 ra_hr: 13.3432055555555
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 84e2f863-5780-4560-991f-28cedbbb9335
 angular_size: 1.0

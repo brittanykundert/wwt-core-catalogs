@@ -677,7 +677,7 @@ dec_deg: 38.7316666666667
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012033{Q}?g=182
 name: NGC 5754;NGC 5752/4;Arp 297;
 ra_hr: 14.7554555555555
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 0646a9a8-8adc-4568-a438-1ecd56f23884
 classification: ''

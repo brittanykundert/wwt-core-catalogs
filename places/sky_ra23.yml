@@ -657,7 +657,7 @@ dec_deg: 20.5821944444444
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013010{Q}?g=182
 name: UGC 12812;NGC 7771;Mrk 9006;KPG 592B
 ra_hr: 23.8567111111111
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 77b6dc6d-a869-4854-8fcb-a68dfc76eccd
 angular_size: 1.0
@@ -723,7 +723,7 @@ dec_deg: 25.5574166666667
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012321{Q}?g=182
 name: IC 5298
 ra_hr: 23.2668861111111
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 6fcc8e51-565e-47dc-90a7-9d0643d18cbe
 angular_size: 1.0
@@ -866,7 +866,7 @@ dec_deg: 8.88511111111111
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013133{Q}?g=182
 name: NGC 7469;QSO J2303+0852;Arp 298;Mrk 1514;IC 5283;KPG 575A
 ra_hr: 23.0547
-zoom_level: -1.0
+zoom_level: 1.0
 ---
 _uuid: 3929b087-625f-4a9b-8f94-31a20d41fcf9
 angular_size: 1.0
