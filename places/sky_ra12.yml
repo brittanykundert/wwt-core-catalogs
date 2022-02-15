@@ -2235,6 +2235,7 @@ dec_deg: 13.27
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wtl11{Q}?g=155&band=wwt_rgb
 name: Big Picture
 ra_hr: 12.390277777777778
+zoom_level: 35.0
 ---
 _uuid: de5f0b63-310b-429b-bd46-0876bb4a5a2d
 angular_size: 1.0
