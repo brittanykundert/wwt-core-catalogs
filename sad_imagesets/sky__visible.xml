@@ -369,4 +369,30 @@
     <CreditsUrl>http://www.eso.org/public/images/eso0832b/</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0832b.jpg</ThumbnailUrl>
   </ImageSet>
+  <ImageSet
+    _Reason="Bad pixel scale; toasty complains about non-square pixels"
+    BandPass="Visible"
+    BaseDegreesPerTile="102400.113907302"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="359.457840489"
+    CenterY="-32.5912029236"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 7793"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.03352887463"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0914bL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>ESO; Image of the chaotic spiral galaxy NGC 7793, observed with the FORS instrument attached to ESO’s Very Large Telescope at Paranal...</Credits>
+    <CreditsUrl>http://www.eso.org/public/images/eso0914b/</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0914b.jpg</ThumbnailUrl>
+  </ImageSet>
 </Folder>
