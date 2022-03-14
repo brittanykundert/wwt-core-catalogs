@@ -213,4 +213,212 @@
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2017-05a-crab-nebula-from-five-observatories</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2017-05a.jpg</ThumbnailUrl>
   </ImageSet>
+  <ImageSet
+    _Reason="Zeros for coordinates, redundant with Hubble-opo0928b"
+    BandPass="Visible"
+    BaseDegreesPerTile="0.330867790385178"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="0"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Galactic Center"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.00841882295"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/Chandra-439L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>X-ray: NASA/CXC/UMass/D. Wang et; Data from NASA's Great Observatories has been combined to produce this unprecedented image of the central region of the Milky Wa...</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2009/galactic/</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-439.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    _Reason="Not a study (Aitoff)"
+    BandPass="Visible"
+    BaseDegreesPerTile="209.7152"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="360"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Milky Way"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-016L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; This image is a map of the portion of the sky covered by the preliminary release of WISE data. WISE surveyed the entire sky in f...</Credits>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-016.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    _Reason="Wrong astrometry, could not rescue"
+    BandPass="Visible"
+    BaseDegreesPerTile="0.17054710784"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="50.5"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="G050.35"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.08794025403"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="2"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig16-001L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/University of W; Bow shocks thought to mark the paths of massive, speeding stars are highlighted in this image from NASA's Spitzer Space Telescop...</Credits>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/sig16-001-bow-shocks-in-space-g050-35</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig16-001.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    _Reason="Bad astrometry; maybe in galactic coords?"
+    BandPass="Visible"
+    BaseDegreesPerTile="0.59896438784"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="-0.10833333333"
+    CenterY="0"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Milky Way"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.39770159784"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/Chandra-435L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/CXC/UMass/D. Wang et al.; This Chandra image exposes a wealth of exotic objects and high-energy features at the center of our galaxy, the Milky Way. In th...</Credits>
+    <CreditsUrl>http://chandra.harvard.edu/photo/2009/gcenter/</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-435.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    _Reason="Bonkers astrometry, now redundant"
+    BandPass="Visible"
+    BaseDegreesPerTile="285.00747218944"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="-137.169067"
+    CenterY="-65.345778"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Circinus Galaxy"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="59.23543491198"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0832aL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>X-ray (NASA/CXC/Columbia/F.Bauer et al); Visible light (NASA/STScI/UMD/A.Wilson et al.); This composite image shows the central regions of the nearby Circinus galaxy, located about 12 million light years away. Data fr...</Credits>
+    <CreditsUrl>http://www.eso.org/public/images/eso0832a/</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0832a.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    _Reason="Bonkers astrometry, now redundant"
+    BandPass="Visible"
+    BaseDegreesPerTile="754.27099967488"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="-137.169067"
+    CenterY="261.4328"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Circinus Galaxy"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="58.60385308198"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="2"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0832bL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>ESO; Colour image of the Circinus Galaxy based on ESO SuSI New Technology Telescope data obtained in April 1993, that is, about three...</Credits>
+    <CreditsUrl>http://www.eso.org/public/images/eso0832b/</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0832b.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    _Reason="Bad pixel scale; toasty complains about non-square pixels"
+    BandPass="Visible"
+    BaseDegreesPerTile="102400.113907302"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="359.457840489"
+    CenterY="-32.5912029236"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 7793"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.03352887463"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0914bL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>ESO; Image of the chaotic spiral galaxy NGC 7793, observed with the FORS instrument attached to ESO’s Very Large Telescope at Paranal...</Credits>
+    <CreditsUrl>http://www.eso.org/public/images/eso0914b/</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0914b.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    _Reason="Bad astrometry; almost rescuable from https://astroweb03.ipac.caltech.edu/image/orions-big-head-revealed-in-infrared but AVM arent quite right"
+    BandPass="Visible"
+    BaseDegreesPerTile="-12.2291764110126"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="83.78449"
+    CenterY="83.78449"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Lambda Orionis"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-20"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-015L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/UCLA; In Greek mythology, Orion was a hunter whose vanity was so great that he angered the goddess Artemis. As his punishment, Artemis...</Credits>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-015.jpg</ThumbnailUrl>
+  </ImageSet>
 </Folder>

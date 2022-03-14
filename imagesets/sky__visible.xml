@@ -28666,6 +28666,33 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.45442598901514364"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="161.11976851015592"
+    CenterY="-59.59562623532823"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Star birth in the extreme"
+    OffsetX="1.3867980621800038e-05"
+    OffsetY="1.3867980621800038e-05"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="50.320000000000306"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://data1.wwtassets.org/packages/2020/07_hubble30/heic0707a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, N. Smith (University of California, Berkeley), and The Hubble Heritage Team (STScI/AURA)</Credits>
+    <CreditsUrl>http://www.spacetelescope.org/images/heic0707a/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2020/07_hubble30/heic0707a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.22797695455231934"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -29065,6 +29092,33 @@
     <Credits>NASA, ESA, Hubble Heritage Team</Credits>
     <CreditsUrl>http://www.spacetelescope.org/images/heic1608a/</CreditsUrl>
     <ThumbnailUrl>http://data1.wwtassets.org/packages/2020/07_hubble30/heic1608a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.0446441184419841"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="83.8644455959727"
+    CenterY="-69.2690906352507"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name=""
+    OffsetX="1.63491644685001e-05"
+    OffsetY="1.0899442979e-05"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-11.12"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2020/07_hubble30/heic1704a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, and R. Kirshner (Harvard-Smithsonian Center for Astrophysics and Gordon and Betty Moore Foundation) and P. Challis (Harvard-Smithsonian Center for Astrophysics)</Credits>
+    <CreditsUrl>http://www.spacetelescope.org/images/heic1704a/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2020/07_hubble30/heic1704a/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -41967,31 +42021,6 @@ powers the dramatic activity seen by...</Credits>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="0.59896438784"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="-0.10833333333"
-    CenterY="0"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Milky Way"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="0.39770159784"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="5"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Chandra-435L{1}X{2}Y{3}.png"
-    WidthFactor="1"
-  >
-    <Credits>NASA/CXC/UMass/D. Wang et al.; This Chandra image exposes a wealth of exotic objects and high-energy features at the center of our galaxy, the Milky Way. In th...</Credits>
-    <CreditsUrl>http://chandra.harvard.edu/photo/2009/gcenter/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-435.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="0.01309714432"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -42064,31 +42093,6 @@ powers the dramatic activity seen by...</Credits>
     <Credits>X-ray: NASA/CXC/Southampton/W. H; New evidence from Chandra suggests that the neutron star at the center of the Cas A supernova remnant has an ultra-thin carbon a...</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2009/cassio/</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-438.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="0.330867790385178"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="0"
-    CenterY="0"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Galactic Center"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="0.00841882295"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="4"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Chandra-439L{1}X{2}Y{3}.png"
-    WidthFactor="1"
-  >
-    <Credits>X-ray: NASA/CXC/UMass/D. Wang et; Data from NASA's Great Observatories has been combined to produce this unprecedented image of the central region of the Milky Wa...</Credits>
-    <CreditsUrl>http://chandra.harvard.edu/photo/2009/galactic/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-439.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -51506,56 +51510,6 @@ the large galaxy in the lower part of the image,...</Credits>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="285.00747218944"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="-137.169067"
-    CenterY="-65.345778"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Circinus Galaxy"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="59.23543491198"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="3"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0832aL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-  >
-    <Credits>X-ray (NASA/CXC/Columbia/F.Bauer et al); Visible light (NASA/STScI/UMD/A.Wilson et al.); This composite image shows the central regions of the nearby Circinus galaxy, located about 12 million light years away. Data fr...</Credits>
-    <CreditsUrl>http://www.eso.org/public/images/eso0832a/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0832a.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="754.27099967488"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="-137.169067"
-    CenterY="261.4328"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Circinus Galaxy"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="58.60385308198"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="2"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0832bL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-  >
-    <Credits>ESO; Colour image of the Circinus Galaxy based on ESO SuSI New Technology Telescope data obtained in April 1993, that is, about three...</Credits>
-    <CreditsUrl>http://www.eso.org/public/images/eso0832b/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0832b.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="0.1133312"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -52028,31 +51982,6 @@ the large galaxy in the lower part of the image,...</Credits>
     <Credits>ESO; Image of the irregular galaxy NGC 55 obtained with the Wide Field Imager on the 2.2-metre MPG/ESO telescope at ESO La Silla Obse...</Credits>
     <CreditsUrl>http://www.eso.org/public/images/eso0914a/</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0914a.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="102400.113907302"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="359.457840489"
-    CenterY="-32.5912029236"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="NGC 7793"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="0.03352887463"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="3"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0914bL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-  >
-    <Credits>ESO; Image of the chaotic spiral galaxy NGC 7793, observed with the FORS instrument attached to ESO’s Very Large Telescope at Paranal...</Credits>
-    <CreditsUrl>http://www.eso.org/public/images/eso0914b/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0914b.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -96798,31 +96727,6 @@ the large galaxy in the lower part of the image,...</Credits>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="0.17054710784"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="50.5"
-    CenterY="0"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="G050.35"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="0.08794025403"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="2"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig16-001L{1}X{2}Y{3}.png"
-    WidthFactor="1"
-  >
-    <Credits>NASA/JPL-Caltech/University of W; Bow shocks thought to mark the paths of massive, speeding stars are highlighted in this image from NASA's Spitzer Space Telescop...</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/sig16-001-bow-shocks-in-space-g050-35</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig16-001.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="0.17034940416"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -100895,7 +100799,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/WISE Team; This infrared snapshot of a region in the constellation Carina near the Milky Way was taken shortly after NASA's Wide-field Infr...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-001.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -100920,7 +100824,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; The red dot at the center of this image is the first near-Earth asteroid discovered by NASA's Wide-Field Infrared Survey Explore...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-002.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -100945,7 +100849,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This dramatic image of a nebula containing young, massive stars was captured by NASA's Wide-Field Infrared Survey Explorer, or W...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-004b.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -100970,7 +100874,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/WISE Team; This image from NASA's Wide-field Infrared Survey Explorer, or WISE, highlights the Andromeda galaxy's older stellar population ...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-004c1.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -100995,7 +100899,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/WISE Team; This image from NASA's Wide-field Infrared Survey Explorer, or WISE, highlights the dust that speckles the Andromeda galaxy's sp...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-004c2.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101044,7 +100948,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; WISE's large field of view and multi-wavelength infrared sight allowed it to form this complete view of the cluster, containing ...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-004d.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101069,7 +100973,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; A mosaic of images from WISE in the constellation of Cassiopeia. This region contains a large star forming nebula within the Mil...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-005.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101094,7 +100998,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This picture of the open star cluster NGC 7380 is a mosaic of images from the WISE mission spanning an area on the sky of about ...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-006.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101119,7 +101023,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; A new infrared image from NASA's Wide-field Infrared Survey Explorer, or WISE, shows a cosmic rosebud blossoming with new stars....</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-008.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101144,7 +101048,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/WISE Team; This image from the WISE mission was taken on January 2nd, 2010, during the check-out phase, before the start of the WISE survey...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-009.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101169,7 +101073,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/WISE Team; This WISE mosaic is of the Soul Nebula (a.k.a. the Embryo Nebula, IC 1848, or W5). It is an open cluster of stars surrounded by ...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-010.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101194,7 +101098,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; A leggy cosmic creature comes out of hiding in this new infrared view from NASA's Wide-field Infrared Survey Explorer, or WISE. ...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-011.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101219,7 +101123,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This image from WISE is a view within the constellation Cassiopeia of another portion of the vast star forming complex that make...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-012.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101244,7 +101148,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This colorful image from WISE (Wide-field Infrared Survey Explorer) is a view of an area of the sky over 12 times the size of th...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-013.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101269,7 +101173,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This heroic image from WISE is of a special cloud of dust and gas in the constellation Canis Major catalogued as NGC 2359. The n...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-014.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101294,7 +101198,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This infrared image from NASA’s WISE (Wide-field Infrared Survey Explorer) features one of the bright stars in the constellation...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-015.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101319,7 +101223,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/WISE Team; A new infrared image from NASA's Wide-field Infrared Survey Explorer, or WISE, showcases the Tadpole nebula, a star-forming hub ...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-016.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101344,7 +101248,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; The Seagull nebula, seen in this infrared mosaic from NASA’s Wide-field Infrared Survey Explorer, or WISE, draws its common name...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-017.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101369,7 +101273,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; The Heart and Soul nebulae are seen in this infrared mosaic from NASA’s Wide-field Infrared Survey Explorer, or WISE.  The image...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-018.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101394,7 +101298,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This image of spiral galaxy NGC 6744 from NASA’s WISE (Wide-field Infrared Survey Explorer) is a mosaic of frames covering an ar...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-019.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101419,7 +101323,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This image from NASA’s Wide-field Infrared Survey Explorer (WISE) features comet 65P/Gunn. Comets are balls of dust and ice left...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-020.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101444,7 +101348,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Some might see a blood-red jellyfish in a forest of seaweed, while others might see a big, red eye or a pair of lips. In fact, t...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-021.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101469,7 +101373,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This image from the Wide-field Infrared Survey Explorer (WISE) is of the nearby galaxy Messier 83, or M83 for short. It is a spi...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-022.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101494,7 +101398,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Sending chills down the spine of all arachnophobes is the Tarantula Nebula in this image from NASA's Wide-field Infrared Survey ...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-023.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101519,7 +101423,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This image from NASA's Wide-field Infrared Survey Explorer (WISE) takes in several interesting objects in the constellation Cass...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-024.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101544,7 +101448,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This image shows the famous Pleiades cluster of stars as seen through the eyes of WISE, or NASA's Wide-field Infrared Survey Exp...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-025.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101569,7 +101473,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; New stars are forming inside this giant cloud of dust and gas as seen in infrared light by NASA’s Wide-field Infrared Survey Exp...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-026.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101594,7 +101498,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; The Wide-field Infrared Survey Explorer, or WISE, has seen a cluster of newborn stars enclosed in a cocoon of dust and gas in th...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-027.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101619,7 +101523,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This image captured by NASA’s Wide-field Infrared Survey Explorer (WISE) highlights the Small Magellanic Cloud.  Also known as N...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-028.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101644,7 +101548,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; NASA’s Wide-field Infrared Survey Explorer, or WISE, has captured a favorite observing target of amateur astronomers -- Omega Ce...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-029.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101669,7 +101573,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Unicorns and roses are usually the stuff of fairy tales, but a new cosmic image taken by NASA’s Wide-field Infrared Explorer (WI...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-030.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101694,7 +101598,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Nebulae are enormous clouds of dust and gas occupying the space between the stars. Some have pretty names to match their good lo...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-032.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101719,7 +101623,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Gripped in the claw of the constellation Scorpius, sits the reflection nebula DG 129, a cloud of gas and dust that reflects ligh...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-033.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101744,7 +101648,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; NASA’s Wide-field Infrared Survey Explorer, or WISE, captured this image of a hidden star-forming cloud complex of dust and gas ...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-034.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101769,7 +101673,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This visitor from deep space, seen here by NASA's Wide-field Infrared Survey Explorer, or WISE, is comet Hartley 2 -- the destin...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-035.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101794,7 +101698,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; The Sculptor galaxy is shown in different infrared hues, in this new mosaic from NASA's Wide-field Infrared Survey Explorer, or ...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-036B.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101819,7 +101723,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This image from NASA's Wide-field Infrared Survey Explorer, or WISE, was taken with the two shortest-wavelength detectors (3.4 a...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-036C.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101844,7 +101748,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This image of the Sculptor Galaxy from NASA's Wide-field Infrared Survey Explorer, or WISE, reveals the galaxy's emerging young ...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-036D.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101869,7 +101773,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This image of the Sculptor Galaxy from NASA's Wide-field Infrared Survey Explorer, or WISE, shows the galaxy's active side. Infa...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-036E.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101894,7 +101798,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; The aptly named Cocoon nebula is featured in this image from NASAs Wide-field Infrared Survey Explorer, or WISE. This cloud of d...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-037.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -101919,7 +101823,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; NASAs Wide-field Infrared Survey Explorer, or WISE, captured this colorful image of the reflection nebula IRAS 12116-6001. This ...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-038.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102019,7 +101923,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>Caltech/Palomar; This visible-light image is from the Digitized Sky Survey, based at the Space Telescope Science Institute in Baltimore, Md. The ...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-041b.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102044,7 +101948,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; At a time of year when many people travel long distances to be with their families for the holidays, NASAs Wide-field Infrared S...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-042.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102069,7 +101973,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>Spitzer Space Telescope; This oddly colorful nebula is the supernova remnant IC 443 as seen by NASAs Wide-field Infrared Survey Explorer, or WISE. Also k...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-044.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102094,7 +101998,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This galaxy does not have a spiral disk, just a bulge, making it a massive elliptical galaxy. M60 is about 20 percent larger tha...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-045D.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102119,7 +102023,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Messier 51, or NGC 5194, is also frequently referred to as the Whirlpool galaxy. The Whirlpool is a "grand design" spiral galaxy...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-045E.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102194,7 +102098,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This colorful picture is a mosaic of the Lagoon nebula taken by NASAs Wide-field Infrared Survey Explorer, or WISE. Normally, yo...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-001.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102219,7 +102123,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This image from NASAs Wide-Field Infrared Survey Explorer, or WISE, features two stunning galaxies engaged in an intergalactic d...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-002.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102244,7 +102148,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; The blue star near the center of this image is Zeta Ophiuchi. When seen in visible light it appears as a relatively dim red star...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-003.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102269,7 +102173,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/WISE Team; This image from NASA's Wide-field Infrared Survey Explorer, or WISE, shows four galaxies in the Virgo cluster: Messier 59, Messi...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-005.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102294,7 +102198,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; On the morning of February 1st, 2011, NASAs Wide-field Infrared Survey Explorer, or WISE, took its last snapshot of the sky. Thi...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-006.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102319,7 +102223,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; NASA's Wide-field Infrared Survey Explorer, or WISE, captured this colorful image of the nebula BFS 29 surrounding the star CE-C...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-007.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102344,7 +102248,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This large mosaic image from NASAs Wide-field Infrared Survey Explorer, or WISE, features the wreckage of an exploded star, as w...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-008.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102369,7 +102273,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; NASAs Wide-field Infrared Survey Explorer, or WISE, captured this image of a star-forming cloud of dust and gas located in the c...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-009.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102394,7 +102298,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Just as some drivers obey the speed limit while others treat every road as if it were the autobahn, some stars move through spac...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-010.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102419,7 +102323,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Many consider the shamrock to be a symbol of rebirth and life, making it a fitting symbol for St. Patricks Day, which happens to...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-011.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102444,7 +102348,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Theres something special going on in the nearby Circinus galaxy, as revealed by this image from NASA's Wide-field Infrared Surve...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-012.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102469,7 +102373,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; A rich collection of colorful astronomical objects is revealed in this picturesque image of the Rho Ophiuchi cloud complex from ...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-013.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102494,58 +102398,8 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>Spitzer Science Center; In the Perseus spiral arm of the Milky Way Galaxy, opposite the galactic center, lies the nebula SH 2-235. As seen in visible li...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-014.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="-12.2291764110126"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="83.78449"
-    CenterY="83.78449"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Lambda Orionis"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="-20"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="6"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-015L{1}X{2}Y{3}.png"
-    WidthFactor="1"
-  >
-    <Credits>NASA/JPL-Caltech/UCLA; In Greek mythology, Orion was a hunter whose vanity was so great that he angered the goddess Artemis. As his punishment, Artemis...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-015.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="209.7152"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="360"
-    CenterY="0"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Milky Way"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="0"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="5"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-016L{1}X{2}Y{3}.png"
-    WidthFactor="1"
-  >
-    <Credits>NASA/JPL-Caltech/UCLA; This image is a map of the portion of the sky covered by the preliminary release of WISE data. WISE surveyed the entire sky in f...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-016.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -102569,7 +102423,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; NASAs Wide-field Infrared Survey Explorer, or WISE, is a little like the Vincent van Gogh of the infrared sky. Just like the fam...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-017.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102594,7 +102448,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This latest image from NASAs Wide-field Infrared Survey Explorer, or WISE, shows three different nebulae located in the constell...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-018.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102619,7 +102473,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Star clusters such as the Pleiades are often considered some of the most beautiful objects in the sky. Yet in this image taken b...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-019.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102644,7 +102498,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Known by astronomers as M51, this beauty is a grand design spiral, which are galaxies with well-defined spiral arms. Its smaller...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020a.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102669,7 +102523,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Some astronomers call the grand design spiral Messier 74 the "perfect spiral," for its exceptional symmetry. It is suspected to ...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020b.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102694,7 +102548,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; M81 is another grand design spiral galaxy, with pronounced arms spiraling into its core. WISE highlights areas where gas and dus...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020c.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102719,7 +102573,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; At about 55,500 light-years across, M83 is s a bit more than half the size of our Milky Way Galaxy, but it has a similar overall...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020d.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102744,7 +102598,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This barred spiral has a dense inner ring that surrounds a bright, central core. The ring is actually two spiral arms that are c...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020e.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102769,7 +102623,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This fuzzy-looking galaxy is a flocculent, or patchy, spiral. It is largely veiled by gas and dust at visible-light wavelengths,...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020f.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102794,7 +102648,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This galaxy's face is angled about 90 degrees from our view, so it appears edge-on and thin as a splinter, or knife. It was disc...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020g.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102819,7 +102673,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Sometimes called the Hidden Galaxy, this spiral beauty is shrouded behind our own galaxy, the Milky Way. Stargazers and professi...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020h.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102844,7 +102698,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Barnard's Galaxy is known as a dwarf for its small size -- it has only about one percent of the mass of the Milky Way. The galax...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020i.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102869,7 +102723,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; NASAs Wide-field Infrared Survey Explorer, or WISE, captured this image of a huge complex of star-forming clouds and stellar clu...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-021.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102894,7 +102748,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; In the same way that dust is blown around by the wind here on Earth, space dust can be blown around by the wind and radiation fr...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-022.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102919,7 +102773,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This image from NASAs Wide-field Infrared Survey Explorer, or WISE, highlights several star-forming regions. There are five dist...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-023.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102944,7 +102798,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Many people enjoy the summer pastime of imagining pictures in clouds in the sky. The same can be done with clouds in the Univers...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-024.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102969,7 +102823,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; A large spiral galaxy dominates this view from NASA’s Wide-field Infrared Survey Explorer, or WISE. The galaxy, often called the...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-025.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -102994,7 +102848,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Asteroid 2010 TK7 is circled in green, in this single frame taken by NASA's Wide-field Infrared Survey Explorer, or WISE. The ma...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-026.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -103019,7 +102873,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Typically if an astronomer wants to look into or through a thick dark cloud in space, they will choose to look in infrared light...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-027.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -103044,7 +102898,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/B. Williams (NCSU); This image combines data from four different space telescopes to create a multi-wavelength view of all that remains of the oldes...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-028a.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -103069,7 +102923,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/B. Williams (NC; This image combines data from four different space telescopes to create a multi-wavelength view of all that remains of the oldes...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-028b.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -103095,7 +102949,7 @@ The saturated yellow point at the center ...</Credits>
   >
     <Credits>NASA/JPL-Caltech/UCLA
 ; In visible light, the star-forming cloud catalogued as NGC 281 in the constellation of Cassiopeia appears to be chomping through...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-029.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -103120,7 +102974,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; Between the claws of the dreaded scorpion imagined by the ancient Greeks lies this giant dust cloud, imaged by the Wide-field In...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-030.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -103145,7 +102999,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; No, it’s not a gang of intergalactic mobsters from the famous Star Wars movies. Jabbah is the name of the bright star right of c...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-031.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -103170,7 +103024,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; About 3,700 years ago, people on Earth would have seen a brand-new bright star in the sky. As it slowly dimmed out of sight, it ...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-032.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -103195,7 +103049,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; In keeping with the spirit of the holidays, NASA’s Wide-field Infrared Survey Explorer (WISE) mission presents the “Wreath Nebul...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-033.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -103220,7 +103074,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; In keeping with the spirit of the holidays, NASA’s Wide-field Infrared Survey Explorer (WISE) mission presents the “Wreath Nebul...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-033b.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -103245,7 +103099,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; NASA's Wide-field Infrared Survey Explorer, or WISE, has uncovered the coldest brown dwarf known so far (green dot in very cente...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-ydwarf-b1.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -103270,7 +103124,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; NASA's Wide-field Infrared Survey Explorer, or WISE, has uncovered the coldest brown dwarf known so far (green dot in very cente...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-ydwarf-b2.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -103295,7 +103149,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This enormous section of the Milky Way Galaxy is a mosaic of images from NASA’s Wide-field Infrared Survey Explorer, or WISE. Th...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2012-001.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -103395,7 +103249,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; The Great Nebula in Orion is featured in this sweeping image from NASA’s Wide-field Infrared Survey Explorer, or WISE. The const...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2013-001.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -103420,7 +103274,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech; This image shows the potentially hazardous near-Earth object 1998 KN3 as it zips past a cloud of dense gas and dust near the Ori...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2013-002.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -103445,7 +103299,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; A witch appears to be screaming out into space in this new image from NASA's Wide-Field Infrared Survey Explorer, or WISE. The i...</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2013-003.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -103470,7 +103324,7 @@ The saturated yellow point at the center ...</Credits>
     WidthFactor="1"
   >
     <Credits>NASA/JPL-Caltech/UCLA; A storm of stars is brewing in the Trifid nebula, as seen in this view from NASA's Wide-field Infrared Survey Explorer, or WISE....</Credits>
-    <CreditsUrl> http://wise.astro.ucla.edu</CreditsUrl>
+    <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2014-001.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
