@@ -95,11 +95,10 @@ At that point:
 
 ### `cattool ingest <WTML>`
 
-This reads a WTML file and updates `catfiles/`, `places/`, and `imagesets/` with
-its contents, creating a new catalog template in `catfiles/`. If you have a WTML
-defining new datasets to include, use this. But you'll probably want to delete
-the new `catfiles/` template and reference the new imagesets and/or places in
-preexisting catalogs somewhere.
+This reads a WTML file and updates `places/`, and `imagesets/` with its data
+contents. If you have a WTML defining new datasets to include, use this. With
+the `--emit` option, it will also create a new catalog template in `catfiles/`
+mirroring the input WTML's structure.
 
 ### `cattool report`
 
