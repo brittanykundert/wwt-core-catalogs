@@ -636,7 +636,9 @@ def do_ingest(settings):
     info = folder_to_yaml(f)
     idb.rewrite()
     pdb.rewrite()
-    write_one_yaml(f"catfiles/{catname}.yml", info)
+
+    if settings.emit:
+        write_one_yaml(f"catfiles/{catname}.yml", info)
 
 
 # prettify - generic XML prettification
@@ -897,6 +899,9 @@ def entrypoint():
     _ground_truth = subparsers.add_parser("ground-truth")
 
     ingest = subparsers.add_parser("ingest")
+    ingest.add_argument(
+        "--emit", action="store_true", help="Emit a new \"catfile\" YAML for the ingested folder",
+    )
     ingest.add_argument(
         "wtml", metavar="WTML-PATH", help="Path to a catalog WTML file to ingest"
     )
