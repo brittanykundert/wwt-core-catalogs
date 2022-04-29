@@ -2312,24 +2312,13 @@ ra_hr: 11.7128828266667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-sig15-013.jpg
 zoom_level: 0.28406874112
 ---
-_uuid: ceceecb5-5030-488d-b16e-bf5a0a7aa3ff
-classification: ''
-constellation: VIR
-data_set_type: Sky
-dec_deg: 4.456195
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2009-19a1L{1}X{2}Y{3}.png
-name: Saturn
-ra_hr: 11.6609379333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2009-19a1.jpg
-zoom_level: 1.39378688
----
 _uuid: c4221609-7d02-4886-bf8b-72c33767103e
 classification: ''
 constellation: VIR
 data_set_type: Sky
 dec_deg: 4.456195
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2009-19aL{1}X{2}Y{3}.png
-name: Saturn
+name: Infrared Ring Around Saturn
 ra_hr: 11.6609379333333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2009-19a.jpg
 zoom_level: 1.68880510293333
