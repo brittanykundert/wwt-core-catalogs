@@ -421,4 +421,30 @@
     <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-015.jpg</ThumbnailUrl>
   </ImageSet>
+  <ImageSet
+    _Reason="Bad astrometry, and mostly not sky imagery anyway; ssc2009-19a is closer"
+    BandPass="Visible"
+    BaseDegreesPerTile="0.34844672"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="174.914069"
+    CenterY="4.456195"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Big Band of Dust"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="23"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="2"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2009-19a1L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/Univ. of Virgin; This picture shows a slice of Saturn's largest ring, as seen in infrared light by NASA's Spitzer Space Telescope. The observator...</Credits>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2009-19a1-big-band-of-dust</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2009-19a1.jpg</ThumbnailUrl>
+  </ImageSet>
 </Folder>

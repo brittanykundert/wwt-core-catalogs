@@ -99327,31 +99327,6 @@ the large galaxy in the lower part of the image,...</Credits>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="0.34844672"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="174.914069"
-    CenterY="4.456195"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Saturn"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="23"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="2"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2009-19a1L{1}X{2}Y{3}.png"
-    WidthFactor="1"
-  >
-    <Credits>NASA/JPL-Caltech/Univ. of Virgin; This picture shows a slice of Saturn's largest ring, as seen in infrared light by NASA's Spitzer Space Telescope. The observator...</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2009-19a1-big-band-of-dust</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2009-19a1.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="0.422201275733333"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -99361,7 +99336,7 @@ the large galaxy in the lower part of the image,...</Credits>
     ElevationModel="False"
     FileType=".png"
     Generic="False"
-    Name="Saturn"
+    Name="Infrared Ring Around Saturn"
     Projection="Tan"
     QuadTreeMap=""
     Rotation="23"
