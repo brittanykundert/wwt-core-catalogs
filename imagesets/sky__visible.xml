@@ -30428,6 +30428,33 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.07140166377929005"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="268.89940309321"
+    CenterY="65.86811269447"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="JWST Telescope Alignment Evaluation Image"
+    OffsetX="0.009355139575007035"
+    OffsetY="-0.005390190403045801"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-83.78134847776201"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2022/03_jwst_taei/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/STScI; astrometric solution by Gabe Brammer</Credits>
+    <CreditsUrl>https://github.com/gbrammer/jwst_EERS</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/03_jwst_taei/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"
