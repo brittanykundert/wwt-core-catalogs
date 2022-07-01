@@ -1458,6 +1458,25 @@ ra_hr: 17.761274270564297
 thumbnail: http://data1.wwtassets.org/packages/2021/02_sofia/galactic_center_sofia/thumb.jpg
 zoom_level: 10.5672
 ---
+_uuid: 904fced3-5a43-424c-a458-ec20d4b0d52b
+classification: ''
+constellation: DRA
+data_set_type: Sky
+dec_deg: 65.85822835386412
+description: While the purpose of this image was to focus on the bright star
+  at the center for alignment evaluation, Webb's optics and NIRCam are so
+  sensitive that the galaxies and stars seen in the background show up. At this
+  stage of Webb’s mirror alignment, known as “fine phasing,” each of the primary
+  mirror segments have been adjusted to produce one unified image of the same
+  star using only the NIRCam instrument. This image of the star, which is called
+  2MASS J17554042+6551277, uses a red filter to optimize visual contrast. |
+  Astrometric solution by Gabe Brammer.
+foreground_image_set_url: http://data1.wwtassets.org/packages/2022/03_jwst_taei/{1}/{3}/{3}_{2}.png
+name: JWST Telescope Alignment Evaluation Image
+ra_hr: 17.92733512725823
+thumbnail: http://data1.wwtassets.org/packages/2022/03_jwst_taei/thumb.jpg
+zoom_level: 0.5
+---
 _uuid: b8aa745a-f65b-4948-b3c1-4965d00a6012
 angular_size: 1.0
 classification: Galaxy
