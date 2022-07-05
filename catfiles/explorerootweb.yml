@@ -1,7 +1,7 @@
-# See also `explorerootweb`. This file defines the root Explore view for the
-# Windows client; the other defines the root for the webclient. This file has to
-# be more careful due to back-compatibility constraints, although it is only
-# loaded by clients in the 6.x version series.
+# See also `exploreroot6`. This file defines the root Explore view for the
+# webclient; the other defines the root for the Windows client. This file can be
+# more "adventurous" since the webclient doesn't have the back-compat
+# restrictions that Windows does.
 
 browseable: true
 children:

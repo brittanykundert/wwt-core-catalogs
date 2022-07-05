@@ -1085,6 +1085,7 @@ def do_trace(_settings):
     for imgset in idb.by_url.values():
         imgset.rmeta.touched = False
 
+    warn("this tool needs to be updated to handle `explorerootweb.yml` too")
     _trace_catfile(BASEDIR / "catfiles" / "exploreroot6.yml", pdb, idb)
 
     for imgset in idb.by_url.values():
