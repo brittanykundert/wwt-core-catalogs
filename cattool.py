@@ -26,6 +26,7 @@ from wwt_data_formats.enums import (
     Constellation,
     DataSetType,
     FolderType,
+    ProjectionType,
 )
 from wwt_data_formats.folder import Folder
 from wwt_data_formats.imageset import ImageSet
@@ -592,13 +593,94 @@ def do_emit_searchdata(settings):
     for k in _keys():
         by_const[k] = []
 
-    # Populate main bulk
+    # Populate places/imagesets
+
+    idb = ImagesetDatabase()
+    pdb = PlaceDatabase()
+    n = 0
+
+    for pid in pdb.by_uuid.keys():
+        pl = pdb.reconst_by_id(pid, idb)
+
+        if pl.data_set_type != DataSetType.SKY:
+            continue
+
+        img = pl.foreground_image_set
+        if img is None:
+            continue
+
+        # Note: excluding Healpix, SkyImage, etc.
+        if img.projection != ProjectionType.TAN:
+            continue
+
+        fgi = {
+            "bd": img.base_degrees_per_tile,
+            "bl": img.base_tile_level,
+            "bp": img.band_pass.value,
+            "bu": img.bottoms_up,
+            "cX": img.center_x,
+            "cY": img.center_y,
+            "ct": img.credits,
+            "cu": img.credits_url,
+            "ds": img.stock_set,
+            "dt": img.data_set_type.to_numeric(),
+            "lv": img.tile_levels,
+            "n": img.name,
+            "oX": img.offset_x,
+            "oY": img.offset_y,
+            "pr": img.projection.to_numeric(),
+            "q": img.quad_tree_map,
+            "r": img.rotation_deg,
+            "tu": img.thumbnail_url,
+            "u": img.url,
+            "wf": img.width_factor,
+        }
+
+        # TODO: clean up classifications in database
+        c = pl.classification
+        if c == Classification.UNSPECIFIED:
+            c = Classification.UNIDENTIFIED
+
+        # classification groups erroneously used on
+        # individual images:
+
+        if c == Classification.STELLAR_GROUPINGS:
+            c = Classification.MULTIPLE_STARS
+        if c == Classification.UNFILTERED:
+            c = Classification.UNIDENTIFIED
+        if c == Classification.GALACTIC:
+            c = Classification.GALAXY
+        if c == Classification.STELLAR:
+            c = Classification.STAR
+        if c == Classification.OTHER:
+            c = Classification.UNIDENTIFIED
+
+        info = {
+            "c": c.to_numeric(),
+            "d_deg": pl.dec_deg,
+            "fgi": fgi,
+            "n": pl.name,
+            "r_deg": pl.ra_hr * 15,  # so that we can homogeneously convert below
+            "z": pl.zoom_level,
+        }
+
+        by_const[pl.constellation.value].append(info)
+        n += 1
+
+    print(f"note: declared {n} imagesets", file=sys.stderr)
+
+    # Populate key catalogs
+
+    n = 0
 
     for cat in ("messier", "ngc", "ic", "commonstars", "bsc"):
         for info in _scan_cat_file(settings, cat, need_constellation=True):
             place_list = by_const[info["constellation"].value]
             del info["constellation"]
             place_list.append(info)
+            n += 1
+
+    print(f"note: declared {n} common catalog items", file=sys.stderr)
 
     # Special solar-system section, with hack to add Earth.
 
