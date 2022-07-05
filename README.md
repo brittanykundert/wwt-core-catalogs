@@ -93,6 +93,17 @@ At that point:
   data, and
 - a new Windows release needs to be made including the updated cabinet
 
+### `cattool emit-searchdata`
+
+The `emit-searchdata` subcommand emits a JavaScript/JSON data file used as a
+search index by the web client. In indexes not only the sky-based image sets,
+but also several catalogs of well-known stars and galaxies (e.g., the Messier
+and Bright Star catalogs).
+
+The `--pretty-json` option causes the data to be emitted to stdout as indented,
+prettified JSON, which is most convenient for diffing and understanding the
+detailed output.
+
 ### `cattool ingest <WTML>`
 
 This reads a WTML file and updates `places/`, and `imagesets/` with its data

@@ -527,6 +527,122 @@ def do_emit(settings):
         _emit_one(path, settings.preview, idb, pdb)
 
 
+# emit-searchdata
+
+
+def _parse_classification(text):
+    text = text.replace(" ", "")
+    if text == "OpenStarCluster":
+        return Classification.OPEN_CLUSTER
+    if text == "TripleStar":
+        return Classification.MULTIPLE_STARS
+    return Classification(text)
+
+
+def _compute_constellation(ra_deg, dec_deg):
+    pl = Place()
+    pl.set_ra_dec(ra_deg / 15, dec_deg)
+    return pl.constellation
+
+
+def _scan_cat_file(settings, name, need_constellation=False):
+    with open(os.path.join(settings.catdir, name + ".txt")) as f:
+        for line in f:
+            bits = line.rstrip().split("\t")
+            info = {}
+            info["n"] = bits[0]  # name
+            info["c"] = _parse_classification(bits[1]).to_numeric()
+            info["r_deg"] = float(bits[2])
+            info["d_deg"] = float(bits[3])
+
+            if len(bits) > 4:
+                if len(bits[4]) and bits[4] != "NULL":
+                    info["m"] = float(bits[4])  # magnitude
+
+            # bits[5] is the constellation, but in the Messier and NGC catalogs
+            # it is often totally incorrect. In other cases, some objects are
+            # really right at the borders (e.g., IC2036, IC3031) and WWT's
+            # algorithm yields a different answer than some traditional
+            # classifications. Either way, it works best to always rederive the
+            # constellation.
+
+            if need_constellation:
+                info["constellation"] = _compute_constellation(
+                    info["r_deg"], info["d_deg"]
+                )
+
+            if len(bits) > 6:
+                info["z"] = float(bits[6])  # zoom
+
+            yield info
+
+
+def do_emit_searchdata(settings):
+    # First prep hash by constellation:
+
+    by_const = {}
+
+    def _keys():
+        for c in Constellation:
+            if c != Constellation.UNSPECIFIED:
+                yield c.value
+        yield "SolarSystem"
+        yield "Constellations"
+
+    for k in _keys():
+        by_const[k] = []
+
+    # Populate main bulk
+
+    for cat in ("messier", "ngc", "ic", "commonstars", "bsc"):
+        for info in _scan_cat_file(settings, cat, need_constellation=True):
+            place_list = by_const[info["constellation"].value]
+            del info["constellation"]
+            place_list.append(info)
+
+    # Transform into final structure
+
+    for place_list in by_const.values():
+        for pl in place_list:
+            ra_deg = pl.pop("r_deg")
+            pl["r"] = round(ra_deg / 15, 4)  # convert to hours!
+
+            dec_deg = pl.pop("d_deg")
+            pl["d"] = round(dec_deg, 4)
+
+            zoom = pl.get("z")
+            if zoom is not None:
+                pl["z"] = round(zoom, 5)
+            else:
+                pl["z"] = -1
+
+            mag = pl.get("m")
+            if settings.pretty_json:
+                # For comparison with my base file, for now:
+                if mag is not None:
+                    mag = round(mag, 1)
+                    if int(mag) == mag:
+                        mag = int(mag)
+                    pl["m"] = mag
+                else:
+                    pl["m"] = 0
+            elif mag is not None:
+                del pl["m"]
+
+            if settings.pretty_json:
+                # For comparison with my base file, for now:
+                pl["i"] = 2
+
+    wrapper = {"Constellations": [{"name": k, "places": by_const[k]} for k in _keys()]}
+
+    if settings.pretty_json:
+        import json
+
+        json.dump(wrapper, sys.stdout, indent=2, ensure_ascii=False, sort_keys=True)
+    else:
+        print("TODO: dump it")
+
+
 # format-imagesets
 
 
@@ -894,13 +1010,25 @@ def entrypoint():
         "--preview", action="store_true", help="Emit relative-URL files for previewing"
     )
 
+    emit_searchdata = subparsers.add_parser("emit-searchdata")
+    emit_searchdata.add_argument(
+        "--pretty-json", action="store_true", help="Emit as indented JSON"
+    )
+    emit_searchdata.add_argument(
+        "catdir",
+        metavar="DIR-PATH",
+        help="Directory with catalog files",
+    )
+
     _format_imagesets = subparsers.add_parser("format-imagesets")
     _format_places = subparsers.add_parser("format-places")
     _ground_truth = subparsers.add_parser("ground-truth")
 
     ingest = subparsers.add_parser("ingest")
     ingest.add_argument(
-        "--emit", action="store_true", help="Emit a new \"catfile\" YAML for the ingested folder",
+        "--emit",
+        action="store_true",
+        help='Emit a new "catfile" YAML for the ingested folder',
     )
     ingest.add_argument(
         "wtml", metavar="WTML-PATH", help="Path to a catalog WTML file to ingest"
@@ -927,6 +1055,8 @@ def entrypoint():
         do_add_alt_urls(settings)
     elif settings.subcommand == "emit":
         do_emit(settings)
+    elif settings.subcommand == "emit-searchdata":
+        do_emit_searchdata(settings)
     elif settings.subcommand == "format-imagesets":
         do_format_imagesets(settings)
     elif settings.subcommand == "format-places":
