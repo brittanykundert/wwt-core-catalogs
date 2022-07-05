@@ -739,7 +739,19 @@ def do_emit_searchdata(settings):
 
         json.dump(wrapper, sys.stdout, indent=2, ensure_ascii=False, sort_keys=True)
     else:
-        print("TODO: dump it")
+        import json5
+
+        print("wwt.searchData=", end="")
+        json5.dump(
+            wrapper,
+            sys.stdout,
+            ensure_ascii=False,
+            check_circular=False,
+            allow_nan=False,
+            trailing_commas=False,
+            allow_duplicate_keys=False,
+        )
+        print(";")
 
 
 # format-imagesets

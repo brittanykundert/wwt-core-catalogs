@@ -102,7 +102,10 @@ and Bright Star catalogs).
 
 The `--pretty-json` option causes the data to be emitted to stdout as indented,
 prettified JSON, which is most convenient for diffing and understanding the
-detailed output.
+detailed output. Without this option, the output looks like is essentially
+minified JavaScript, emitted using [pyjson5] and some manually-inserted shims.
+
+[pyjson5]: https://github.com/Kijewski/pyjson5
 
 ### `cattool ingest <WTML>`
 
