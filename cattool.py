@@ -600,6 +600,23 @@ def do_emit_searchdata(settings):
             del info["constellation"]
             place_list.append(info)
 
+    # Special solar-system section, with hack to add Earth.
+
+    place_list = by_const["SolarSystem"]
+    for info in _scan_cat_file(settings, "ssobjects"):
+        place_list.append(info)
+
+        if info["n"] == "Venus":
+            earth = dict(info)
+            earth["n"] = "Earth"
+            place_list.append(earth)
+
+    # Special Constellations section.
+
+    place_list = by_const["Constellations"]
+    for info in _scan_cat_file(settings, "constellationlist"):
+        place_list.append(info)
+
     # Transform into final structure
 
     for place_list in by_const.values():
