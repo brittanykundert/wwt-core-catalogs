@@ -556,6 +556,12 @@ def _scan_cat_file(settings, name, need_constellation=False):
             info["r_deg"] = float(bits[2])
             info["d_deg"] = float(bits[3])
 
+            if info["r_deg"] == 0.0 and info["d_deg"] == 0.0 and name != "ssobjects":
+                warn(
+                    f"suspicious catalog object RA = Dec = 0: `{info['n']}` in `{name}`"
+                )
+                warn("did you apply the patch? Search README for `repair-catalogs`")
+
             if len(bits) > 4:
                 if len(bits[4]) and bits[4] != "NULL":
                     info["m"] = float(bits[4])  # magnitude
