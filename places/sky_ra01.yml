@@ -856,7 +856,7 @@ zoom_level: 0.761666666666667
 _uuid: c3690ad7-81a3-4a96-a41b-c39f0e3db553
 angular_size: 1.0
 classification: Galaxy
-constellation: AND
+constellation: PSC
 data_set_type: Sky
 dec_deg: 14.3630555555556
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000012333{Q}?g=131
@@ -867,7 +867,7 @@ zoom_level: 1.40666666666667
 _uuid: e8a39702-b482-4957-93ab-416d73110c15
 angular_size: 1.0
 classification: ClusterOfGalaxies
-constellation: AND
+constellation: CET
 data_set_type: Sky
 dec_deg: -17.5065833333333
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013220{Q}?g=182
@@ -878,7 +878,7 @@ zoom_level: 1.0
 _uuid: 9cd7f978-a822-499d-a50b-423e37ee9271
 angular_size: 1.0
 classification: ClusterOfGalaxies
-constellation: AND
+constellation: PSC
 data_set_type: Sky
 dec_deg: 3.79861111111111
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013320{Q}?g=182
@@ -889,7 +889,7 @@ zoom_level: 1.0
 _uuid: 7454a533-426f-44d7-9331-93a586cf83aa
 angular_size: 1.0
 classification: ClusterOfGalaxies
-constellation: AND
+constellation: ARI
 data_set_type: Sky
 dec_deg: 22.5829722222222
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000020020{Q}?g=182
@@ -1897,7 +1897,7 @@ zoom_level: 23.255
 ---
 _uuid: 2529aef1-ba04-421b-be92-0f92e0f73a17
 classification: OpenCluster
-constellation: AND
+constellation: CAS
 data_set_type: Sky
 dec_deg: 60.6483333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1990763475

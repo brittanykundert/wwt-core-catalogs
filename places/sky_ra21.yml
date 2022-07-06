@@ -556,7 +556,7 @@ zoom_level: 9.51333333333333
 _uuid: cf8ad326-91d8-4ea7-a5bf-eddfc9ab2157
 angular_size: 1.0
 classification: ClusterOfGalaxies
-constellation: AND
+constellation: CEP
 data_set_type: Sky
 dec_deg: 58.3843333333333
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013213{Q}?g=182
@@ -1071,7 +1071,7 @@ zoom_level: 4.8
 ---
 _uuid: 3c811d23-7d0c-4f97-8dd7-b79ad8ce4578
 classification: Nebula
-constellation: AND
+constellation: CYG
 data_set_type: Sky
 dec_deg: 47.5041666666667
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1383150283

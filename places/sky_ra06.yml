@@ -574,7 +574,7 @@ zoom_level: 1.0
 _uuid: fd1bf0da-fa52-4d1a-bfc2-50bf77d4c53d
 angular_size: 1.0
 classification: NebulousCluster
-constellation: TAU
+constellation: MON
 data_set_type: Sky
 dec_deg: 9.625
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011100{Q}?g=131
@@ -629,7 +629,7 @@ zoom_level: 11.0566666666667
 _uuid: 12721454-cabd-4c67-a3ec-f1428d2c7443
 angular_size: 1.0
 classification: Galaxy
-constellation: AND
+constellation: PUP
 data_set_type: Sky
 dec_deg: -47.1794444444444
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000013021{Q}?g=182
@@ -1417,7 +1417,7 @@ zoom_level: 4.0
 _uuid: d1d749f5-fa1f-4002-8e25-89b4b04ff86f
 angular_size: -1.0
 classification: Nebula
-constellation: PSC
+constellation: MON
 data_set_type: Sky
 dec_deg: 4.963055555555556
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn055

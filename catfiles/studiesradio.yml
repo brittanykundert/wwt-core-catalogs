@@ -9,11 +9,11 @@ children:
 - place 8222b8fa-bac8-4ff5-8f03-7cff22b19497
 - place b4ab8dbd-006b-4183-9f6c-56236114a998
 - place ef737c74-1de9-4675-9af7-a0529167aaa7
-# Classic "Radio Studies"
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011322{Q}?g=138
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011321{Q}?g=138
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011323{Q}?g=138
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011330{Q}?g=138
+# Classic "Radio Studies":
+- place 95628e40-71dc-4b2f-b2b9-2fbb1dc1d9f1
+- place d1d11557-6a02-4736-8569-7fc5e7dffb32
+- place b5f8b963-6400-4a97-ad2a-7357007a47dc
+- place 0506531a-b5ea-471a-bc66-eb1a8d30a5ca
 group: Explorer
 name: Radio Studies
 searchable: false

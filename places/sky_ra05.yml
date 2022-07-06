@@ -3591,7 +3591,7 @@ zoom_level: 1.1381851088983732
 _uuid: 54b995f9-eb0c-4e51-a8a2-f91cb071a3cd
 angular_size: 1.0
 classification: Galaxy
-constellation: PSC
+constellation: TAU
 data_set_type: Sky
 dec_deg: 22.0144386292
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000000{Q}?g=131
@@ -3646,7 +3646,7 @@ zoom_level: 1.2
 _uuid: f3c6eb51-b4eb-4000-ab2e-b31277c8dea0
 angular_size: 1.0
 classification: Galaxy
-constellation: PSC
+constellation: TAU
 data_set_type: Sky
 dec_deg: 22.0166666666667
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003020{Q}?g=138
@@ -3732,10 +3732,20 @@ name: Messier 42;M42
 ra_hr: 5.58611111111111
 zoom_level: 15.9233333333333
 ---
+_uuid: b2057ce3-a0f5-43e2-8a6c-6058958ec299
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -68.2141
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011331{Q}?g=138
+name: Large Magellanic Cloud;LMC
+ra_hr: 5.304726
+zoom_level: 65
+---
 _uuid: 33784ebc-ea45-4e6c-896a-3dc6137b756c
 angular_size: 1.0
 classification: Galaxy
-constellation: AND
+constellation: DOR
 data_set_type: Sky
 dec_deg: -62.0680555555556
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000012232{Q}?g=131
@@ -3911,7 +3921,7 @@ zoom_level: 2.0
 _uuid: d046381a-19ad-4a53-b583-665e6adec4fa
 angular_size: 1.0
 classification: GiantMolecularCloud
-constellation: PSC
+constellation: ERI
 data_set_type: Sky
 dec_deg: -6.46166666666667
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000120201{Q}?g=182
@@ -3999,7 +4009,7 @@ zoom_level: 7.64666666666667
 _uuid: 775f5c9a-4608-4bd6-81e2-ae93bce16df2
 angular_size: 1.0
 classification: Galaxy
-constellation: PSC
+constellation: DOR
 data_set_type: Sky
 dec_deg: -66.0698165894
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000103{Q}?g=131
@@ -4144,7 +4154,7 @@ zoom_level: 3.93666666666667
 _uuid: cee81fbc-035c-4e83-8213-59c03231408a
 angular_size: 1.0
 classification: ClusterOfGalaxies
-constellation: AND
+constellation: AUR
 data_set_type: Sky
 dec_deg: 49.6947777777778
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013323{Q}?g=182

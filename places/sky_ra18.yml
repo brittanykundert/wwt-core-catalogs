@@ -1655,7 +1655,7 @@ zoom_level: 0.05966279275049144
 _uuid: d5498cfc-b36b-4cf7-8a59-a72c18c257cc
 angular_size: 1.0
 classification: Galaxy
-constellation: PSC
+constellation: SER2
 data_set_type: Sky
 dec_deg: -13.8412151337
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000120{Q}?g=131
@@ -1673,6 +1673,16 @@ foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Giant 'Twisters' in the Lagoon Nebula
 ra_hr: 18.0613888888889
 zoom_level: 0.491666666666667
+---
+_uuid: f14e283f-6ef7-4a8d-b9c7-0de09f8d7a1f
+classification: ''
+constellation: SER2
+data_set_type: Sky
+dec_deg: -13.8125241
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001210{Q}?g=138
+name: Wide-Field Image of the Eagle Nebula
+ra_hr: 18.3179227
+zoom_level: 4
 ---
 _uuid: 66998f7b-3bc5-4acf-bf3e-8ca273c1a4f1
 angular_size: 1.0
@@ -1699,7 +1709,7 @@ zoom_level: 4.22833333333333
 _uuid: a0a4bdc8-5028-409a-ab48-2412bace6e14
 angular_size: 1.0
 classification: ClusterOfGalaxies
-constellation: AND
+constellation: OPH
 data_set_type: Sky
 dec_deg: 1.52794444444444
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013030{Q}?g=182
@@ -1721,7 +1731,7 @@ zoom_level: 7.57833333333333
 _uuid: 13972c95-4daf-4052-9447-a50995b235cc
 angular_size: 1.0
 classification: Galaxy
-constellation: PSC
+constellation: SER2
 data_set_type: Sky
 dec_deg: -13.8412151337
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000001{Q}?g=131
@@ -1853,7 +1863,7 @@ zoom_level: 7.57833333333333
 _uuid: f378084f-9442-4dbb-a7af-6ca09e7ed18f
 angular_size: 1.0
 classification: ClusterOfGalaxies
-constellation: AND
+constellation: PAV
 data_set_type: Sky
 dec_deg: -57.7252777777778
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012102{Q}?g=182
@@ -1864,7 +1874,7 @@ zoom_level: 1.0
 _uuid: 11018fb6-cfde-417f-9c2c-0d6cea477457
 angular_size: 1.0
 classification: Galaxy
-constellation: PSC
+constellation: AQL
 data_set_type: Sky
 dec_deg: -2.97508049011
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000013{Q}?g=131
@@ -1953,7 +1963,7 @@ zoom_level: 0.703333333333333
 _uuid: 498eaf16-f0ef-4530-8e9f-aca33b661801
 angular_size: 1.0
 classification: ClusterOfGalaxies
-constellation: AND
+constellation: DRA
 data_set_type: Sky
 dec_deg: 68.3636111111111
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012213{Q}?g=182
