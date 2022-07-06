@@ -1169,7 +1169,7 @@ zoom_level: 0.9471072653441663
 _uuid: 596a1b3f-6a73-4ce9-a369-f4d00a72095b
 angular_size: 1.0
 classification: Galaxy
-constellation: PSC
+constellation: CAR
 data_set_type: Sky
 dec_deg: -57.7658996582
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000020{Q}?g=131
@@ -1180,7 +1180,7 @@ zoom_level: 1.0
 _uuid: a183b358-2e89-41f4-bde0-f4e07e99c4eb
 angular_size: 1.0
 classification: Galaxy
-constellation: PSC
+constellation: UMA
 data_set_type: Sky
 dec_deg: 55.6806907654
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000130{Q}?g=131
@@ -1202,7 +1202,7 @@ zoom_level: 0.996666666666667
 _uuid: 03bf8eaf-8802-4dde-ad80-e4046d78011b
 angular_size: 1.0
 classification: Galaxy
-constellation: PSC
+constellation: CAR
 data_set_type: Sky
 dec_deg: -59.685
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000031{Q}?g=131
@@ -1257,7 +1257,7 @@ zoom_level: 2.37833333333333
 _uuid: 78f83c98-db80-456e-b508-2e1e715afb13
 angular_size: 1.0
 classification: ClusterOfGalaxies
-constellation: AND
+constellation: ANT
 data_set_type: Sky
 dec_deg: -33.8874444444444
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012001{Q}?g=182
@@ -1301,7 +1301,7 @@ zoom_level: 0.4
 _uuid: ae53030f-00ae-47b7-b5a4-ae097d28c013
 angular_size: 1.0
 classification: ClusterOfGalaxies
-constellation: AND
+constellation: VEL
 data_set_type: Sky
 dec_deg: -43.9037222222222
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012202{Q}?g=182
@@ -1323,7 +1323,7 @@ zoom_level: 1.70166666666667
 _uuid: 4bf6a784-a965-4e9a-9137-4969d7720b91
 angular_size: 1.0
 classification: Galaxy
-constellation: PSC
+constellation: CAR
 data_set_type: Sky
 dec_deg: -59.685
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000113{Q}?g=131
@@ -1356,7 +1356,7 @@ zoom_level: 0.841666666666667
 _uuid: d12b0364-ce79-4eed-accb-18d8313dda56
 angular_size: 1.0
 classification: ClusterOfGalaxies
-constellation: AND
+constellation: LEO
 data_set_type: Sky
 dec_deg: 24.5427777777778
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013013{Q}?g=182

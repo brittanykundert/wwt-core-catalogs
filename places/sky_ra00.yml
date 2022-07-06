@@ -1112,7 +1112,7 @@ zoom_level: 7.0
 _uuid: 4af053ed-2f9d-496d-a288-483e57d8d6d6
 angular_size: 1.0
 classification: Galaxy
-constellation: PSC
+constellation: SCL
 data_set_type: Sky
 dec_deg: -33.7183380127
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000110{Q}?g=131
@@ -1244,7 +1244,7 @@ zoom_level: 3.945
 _uuid: 8d5908fb-c602-462e-96c0-ca982b8fa621
 angular_size: 1.0
 classification: ClusterOfGalaxies
-constellation: AND
+constellation: CAS
 data_set_type: Sky
 dec_deg: 73.0874444444444
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012331{Q}?g=182
@@ -3123,7 +3123,7 @@ zoom_level: 1.2
 ---
 _uuid: a26f4f59-0a3f-4ade-a535-6fe3e09b7145
 classification: Nebula
-constellation: AND
+constellation: CAS
 data_set_type: Sky
 dec_deg: 60.93
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1476400319

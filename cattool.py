@@ -355,6 +355,7 @@ class PlaceDatabase(object):
 
     def rewrite(self):
         by_key = {}
+        const_place = Place()
 
         for info in self.by_uuid.values():
             k = [info["data_set_type"]]
@@ -363,6 +364,10 @@ class PlaceDatabase(object):
             if ra is not None:
                 ra = int(math.floor(ra)) % 24
                 k.append(f"ra{ra:02d}")
+
+                # Update constellation while we're at it
+                const_place.set_ra_dec(info["ra_hr"], info["dec_deg"])
+                info["constellation"] = const_place.constellation.value
 
             lon = info.get("longitude")
             if lon is not None:

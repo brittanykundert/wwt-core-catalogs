@@ -1479,7 +1479,7 @@ zoom_level: 0.5
 _uuid: b8aa745a-f65b-4948-b3c1-4965d00a6012
 angular_size: 1.0
 classification: Galaxy
-constellation: PSC
+constellation: DRA
 data_set_type: Sky
 dec_deg: 66.6330566406
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000100{Q}?g=131
@@ -3300,7 +3300,7 @@ zoom_level: 0.703333333333333
 _uuid: 9afdf5af-e2eb-488b-8700-702f74554bbc
 angular_size: 1.0
 classification: Unfiltered
-constellation: AND
+constellation: SGR
 data_set_type: Sky
 dec_deg: -27.1666666666667
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},269828725
@@ -3333,7 +3333,7 @@ zoom_level: 1.40666666666667
 _uuid: b02eb194-646f-45b0-a326-1b8a2f162341
 angular_size: 1.0
 classification: Unfiltered
-constellation: AND
+constellation: SGR
 data_set_type: Sky
 dec_deg: -27.1666666666667
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},658770390
