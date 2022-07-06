@@ -611,6 +611,7 @@ def do_emit_searchdata(settings):
     n_lv = {}
     n_q = {}
     n_c = {}
+    n_ft = {}
     n_ox_hits = 0
     n_oy_hits = 0
 
@@ -667,6 +668,8 @@ def do_emit_searchdata(settings):
             fgi["r"] = img.rotation_deg
         if img.width_factor != 2:
             fgi["wf"] = img.width_factor
+        if img.file_type != ".png":
+            fgi["ft"] = img.file_type
 
         # not even worrying about "dt" = data_set_type: always Sky
         # ditto for "pr" = projection: always Tan
@@ -711,6 +714,7 @@ def do_emit_searchdata(settings):
         incr(n_lv, img.tile_levels)
         incr(n_q, img.quad_tree_map)
         incr(n_c, c)
+        incr(n_ft, img.file_type)
 
     print(f"note: declared {n} imagesets", file=sys.stderr)
 
@@ -722,6 +726,7 @@ def do_emit_searchdata(settings):
     report(n_lv, "tile_levels")
     report(n_q, "quad_tree_map")
     report(n_c, "classification")
+    report(n_ft, "file_type")
     print(f"note: was able to optimize out offset_x {n_ox_hits} times", file=sys.stderr)
     print(f"note: was able to optimize out offset_y {n_oy_hits} times", file=sys.stderr)
 
