@@ -130,7 +130,12 @@ JavaScript, emitted using [pyjson5] and some manually-inserted shims.
 The non-pretty output is currently put into production by uploading it into the
 path `$web/data/searchdata_v2.min.js` path of the `wwtwebstatic` storage account
 on Azure. A CDN purge will be needed to update the search data for the
-production webclient.
+production webclient. The upload can be done from the CLI with:
+
+```sh
+export AZURE_STORAGE_CONNECTION_STRING=secret-for-wwtfiles
+az storage azcopy blob upload -c '$web' -s searchdata_v2.min.js -d data/
+```
 
 ### `cattool ingest <WTML>`
 
