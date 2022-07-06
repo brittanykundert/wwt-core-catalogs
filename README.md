@@ -96,11 +96,11 @@ At that point:
 ### `cattool emit-searchdata`
 
 The `emit-searchdata` subcommand emits a JavaScript/JSON data file used as a
-search index by the web client. In indexes not only the sky-based image sets,
+search index by the web client. It indexes not only the sky-based image sets,
 but also several catalogs of well-known stars and galaxies (e.g., the Messier
 and Bright Star catalogs).
 
-The command takes one argument, which is the name of a directory containing the
+The command takes one argument, which is the name of a directory containing
 supporting catalog data files. These can be pulled off of the `catalog` blob
 container of the `wwtfiles` storage account, or downloaded like so:
 
@@ -116,7 +116,7 @@ would be to actually fix the server-side catalogs, but maintaining/regenerating
 them is a bigger project than I want to take on right now (PKGW, July 2022).
 Note that "fixing" is a bit ill-defined; the patch updates the BSC to add
 RA/Decs to items in the HR catalog that are now known to be novae, etc., which
-should maybe be removed instead. (Current webclient behavior, though, is to
+should maybe be removed instead. (Historical webclient behavior, though, was to
 provide these sources in a way that wedges the viewer if you try to seek to
 one.)
 
