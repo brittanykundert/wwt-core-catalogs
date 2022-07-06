@@ -469,12 +469,12 @@ children:
 - place fb92c4cf-795f-4eeb-a5ca-67c9b011fb9f
 - place c1e93938-2b0f-4bcd-8725-37ac60e4a2b0
 - place 76640da0-6acf-4d07-af15-010958d6070e
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011331{Q}?g=138
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000200{Q}?g=138
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001210{Q}?g=138
-- imageset http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002200{Q}?g=138
-- imageset http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000222{Q}?g=138
-- imageset http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000203{Q}?g=138
+- place b2057ce3-a0f5-43e2-8a6c-6058958ec299
+- place 3ff9ca37-679e-4883-9cb5-eec6b420559d
+- place f14e283f-6ef7-4a8d-b9c7-0de09f8d7a1f
+- place e8889152-3789-4993-a81c-bec4118101cb
+- place 54eeef72-8935-44ea-a3a7-7067d5fb37a4
+- place a110f943-8f38-472c-b99b-dcb4bba52a00
 group: Explorer
 name: NOIRLab Studies
 searchable: false

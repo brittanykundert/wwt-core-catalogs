@@ -1188,6 +1188,16 @@ name: NGC 3079
 ra_hr: 10.0332255045333
 zoom_level: 1.0
 ---
+_uuid: 3ff9ca37-679e-4883-9cb5-eec6b420559d
+classification: ''
+constellation: CAR
+data_set_type: Sky
+dec_deg: -59.699805
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000200{Q}?g=138
+name: Carina Nebula
+ra_hr: 10.751149853
+zoom_level: 9
+---
 _uuid: c3d2215d-2a77-447b-af2a-8831459ae6de
 angular_size: 1.0
 classification: ClusterOfGalaxies

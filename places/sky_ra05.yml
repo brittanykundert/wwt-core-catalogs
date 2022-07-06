@@ -3732,6 +3732,16 @@ name: Messier 42;M42
 ra_hr: 5.58611111111111
 zoom_level: 15.9233333333333
 ---
+_uuid: b2057ce3-a0f5-43e2-8a6c-6058958ec299
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -68.2141
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011331{Q}?g=138
+name: Large Magellanic Cloud;LMC
+ra_hr: 5.304726
+zoom_level: 65
+---
 _uuid: 33784ebc-ea45-4e6c-896a-3dc6137b756c
 angular_size: 1.0
 classification: Galaxy

@@ -563,6 +563,16 @@ name: UGC 5101
 ra_hr: 9.59768611111113
 zoom_level: 1.0
 ---
+_uuid: 54eeef72-8935-44ea-a3a7-7067d5fb37a4
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 69.6767578
+foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000222{Q}?g=138
+name: Messier 82;Starburst Galaxy M82
+ra_hr: 9.9310685
+zoom_level: 2
+---
 _uuid: aaf15ca3-04d0-441e-92cf-a156ee023ebf
 angular_size: 1.0
 classification: Galaxy

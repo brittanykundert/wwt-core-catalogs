@@ -1307,6 +1307,16 @@ name: Three Faces of Andromeda;Andromeda Galaxy;Messier 31;M31
 ra_hr: 0.686944444444444
 zoom_level: 36.6383333333333
 ---
+_uuid: a110f943-8f38-472c-b99b-dcb4bba52a00
+classification: ''
+constellation: CAS
+data_set_type: Sky
+dec_deg: 56.62393729710345
+foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000203{Q}?g=138
+name: NGC 281 Star-Forming Region
+ra_hr: 0.8782663
+zoom_level: 6
+---
 _uuid: 8f44f961-49c1-4f47-8faf-d7fd6e57c05a
 angular_size: 1.0
 classification: GiantMolecularCloud

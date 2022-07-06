@@ -1674,6 +1674,16 @@ name: Giant 'Twisters' in the Lagoon Nebula
 ra_hr: 18.0613888888889
 zoom_level: 0.491666666666667
 ---
+_uuid: f14e283f-6ef7-4a8d-b9c7-0de09f8d7a1f
+classification: ''
+constellation: SER2
+data_set_type: Sky
+dec_deg: -13.8125241
+foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001210{Q}?g=138
+name: Wide-Field Image of the Eagle Nebula
+ra_hr: 18.3179227
+zoom_level: 4
+---
 _uuid: 66998f7b-3bc5-4acf-bf3e-8ca273c1a4f1
 angular_size: 1.0
 classification: Nebula
