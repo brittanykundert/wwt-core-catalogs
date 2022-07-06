@@ -299,7 +299,10 @@ class PlaceDatabase(object):
 
         u = info.get("foreground_image_set_url")
         if u:
-            place.foreground_image_set = idb.get_by_url(u)
+            try:
+                place.foreground_image_set = idb.get_by_url(u)
+            except KeyError:
+                raise Exception(f"FG imageset URL `{u}` not found in place `{pid}`")
 
         u = info.get("image_set_url")
         if u:
