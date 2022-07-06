@@ -122,10 +122,15 @@ one.)
 
 The `--pretty-json` option causes the data to be emitted to stdout as indented,
 prettified JSON, which is most convenient for diffing and understanding the
-detailed output. Without this option, the output looks like is essentially
-minified JavaScript, emitted using [pyjson5] and some manually-inserted shims.
+detailed output. Without this option, the output is essentially minified
+JavaScript, emitted using [pyjson5] and some manually-inserted shims.
 
 [pyjson5]: https://github.com/Kijewski/pyjson5
+
+The non-pretty output is currently put into production by uploading it into the
+path `$web/data/searchdata_v2.min.js` path of the `wwtwebstatic` storage account
+on Azure. A CDN purge will be needed to update the search data for the
+production webclient.
 
 ### `cattool ingest <WTML>`
 

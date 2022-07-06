@@ -22,6 +22,7 @@ import yaml
 
 from wwt_data_formats import indent_xml
 from wwt_data_formats.enums import (
+    Bandpass,
     Classification,
     Constellation,
     DataSetType,
@@ -599,11 +600,22 @@ def do_emit_searchdata(settings):
     for k in _keys():
         by_const[k] = []
 
-    # Populate places/imagesets
+    # Populate places/imagesets, keeping track of some stats to inform our
+    # compression tactics.
 
     idb = ImagesetDatabase()
     pdb = PlaceDatabase()
     n = 0
+
+    n_bp = {}
+    n_lv = {}
+    n_q = {}
+    n_c = {}
+    n_ox_hits = 0
+    n_oy_hits = 0
+
+    def incr(tbl, key):
+        tbl[key] = tbl.get(key, 0) + 1
 
     for pid in pdb.by_uuid.keys():
         pl = pdb.reconst_by_id(pid, idb)
@@ -621,26 +633,43 @@ def do_emit_searchdata(settings):
 
         fgi = {
             "bd": img.base_degrees_per_tile,
-            "bl": img.base_tile_level,
-            "bp": img.band_pass.value,
-            "bu": img.bottoms_up,
             "cX": img.center_x,
             "cY": img.center_y,
             "ct": img.credits,
             "cu": img.credits_url,
-            "ds": img.stock_set,
-            "dt": img.data_set_type.to_numeric(),
-            "lv": img.tile_levels,
             "n": img.name,
-            "oX": img.offset_x,
-            "oY": img.offset_y,
-            "pr": img.projection.to_numeric(),
-            "q": img.quad_tree_map,
-            "r": img.rotation_deg,
             "tu": img.thumbnail_url,
             "u": img.url,
             "wf": img.width_factor,
         }
+
+        if img.base_tile_level != 0:
+            fgi["bl"] = 0
+        if img.band_pass != Bandpass.VISIBLE:
+            fgi["bp"] = img.band_pass.value
+        if img.bottoms_up:
+            fgi["bu"] = img.bottoms_up
+        if img.tile_levels != 4:
+            fgi["lv"] = img.tile_levels
+        if img.offset_x != 0:
+            fgi["oX"] = img.offset_x
+        else:
+            n_ox_hits += 1
+        if img.offset_y != 0:
+            fgi["oY"] = img.offset_y
+        else:
+            n_oy_hits += 1
+        if img.stock_set:
+            fgi["ds"] = img.stock_set
+        if img.quad_tree_map:
+            fgi["q"] = img.quad_tree_map
+        if img.rotation_deg != 0:
+            fgi["r"] = img.rotation_deg
+        if img.width_factor != 2:
+            fgi["wf"] = img.width_factor
+
+        # not even worrying about "dt" = data_set_type: always Sky
+        # ditto for "pr" = projection: always Tan
 
         # TODO: clean up classifications in database
         c = pl.classification
@@ -662,18 +691,39 @@ def do_emit_searchdata(settings):
             c = Classification.UNIDENTIFIED
 
         info = {
-            "c": c.to_numeric(),
             "d_deg": pl.dec_deg,
             "fgi": fgi,
             "n": pl.name,
             "r_deg": pl.ra_hr * 15,  # so that we can homogeneously convert below
-            "z": pl.zoom_level,
         }
+
+        if c != Classification.UNIDENTIFIED:
+            info["c"] = c.to_numeric()
+        if pl.zoom_level != -1:
+            info["z"] = pl.zoom_level
 
         by_const[pl.constellation.value].append(info)
         n += 1
 
+        # other stats
+
+        incr(n_bp, img.band_pass)
+        incr(n_lv, img.tile_levels)
+        incr(n_q, img.quad_tree_map)
+        incr(n_c, c)
+
     print(f"note: declared {n} imagesets", file=sys.stderr)
+
+    def report(tbl, desc):
+        key, count = max(tbl.items(), key=lambda t: t[1])
+        print(f"note: most common {desc} value: `{key}` ({count})", file=sys.stderr)
+
+    report(n_bp, "bandpass")
+    report(n_lv, "tile_levels")
+    report(n_q, "quad_tree_map")
+    report(n_c, "classification")
+    print(f"note: was able to optimize out offset_x {n_ox_hits} times", file=sys.stderr)
+    print(f"note: was able to optimize out offset_y {n_oy_hits} times", file=sys.stderr)
 
     # Populate key catalogs
 
@@ -721,22 +771,8 @@ def do_emit_searchdata(settings):
             else:
                 pl["z"] = -1
 
-            mag = pl.get("m")
-            if settings.pretty_json:
-                # For comparison with my base file, for now:
-                if mag is not None:
-                    mag = round(mag, 1)
-                    if int(mag) == mag:
-                        mag = int(mag)
-                    pl["m"] = mag
-                else:
-                    pl["m"] = 0
-            elif mag is not None:
-                del pl["m"]
-
-            if settings.pretty_json:
-                # For comparison with my base file, for now:
-                pl["i"] = 2
+            # Magnitude data unused in webclient
+            pl.pop("m", None)
 
     wrapper = {"Constellations": [{"name": k, "places": by_const[k]} for k in _keys()]}
 
