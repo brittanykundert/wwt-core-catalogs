@@ -22,10 +22,12 @@ import yaml
 
 from wwt_data_formats import indent_xml
 from wwt_data_formats.enums import (
+    Bandpass,
     Classification,
     Constellation,
     DataSetType,
     FolderType,
+    ProjectionType,
 )
 from wwt_data_formats.folder import Folder
 from wwt_data_formats.imageset import ImageSet
@@ -527,6 +529,279 @@ def do_emit(settings):
         _emit_one(path, settings.preview, idb, pdb)
 
 
+# emit-searchdata
+
+
+def _parse_classification(text):
+    text = text.replace(" ", "")
+    if text == "OpenStarCluster":
+        return Classification.OPEN_CLUSTER
+    if text == "TripleStar":
+        return Classification.MULTIPLE_STARS
+    return Classification(text)
+
+
+def _compute_constellation(ra_deg, dec_deg):
+    pl = Place()
+    pl.set_ra_dec(ra_deg / 15, dec_deg)
+    return pl.constellation
+
+
+def _scan_cat_file(settings, name, need_constellation=False):
+    with open(os.path.join(settings.catdir, name + ".txt")) as f:
+        for line in f:
+            bits = line.rstrip().split("\t")
+            info = {}
+            info["n"] = bits[0]  # name
+            info["c"] = _parse_classification(bits[1]).to_numeric()
+            info["r_deg"] = float(bits[2])
+            info["d_deg"] = float(bits[3])
+
+            if info["r_deg"] == 0.0 and info["d_deg"] == 0.0 and name != "ssobjects":
+                warn(
+                    f"suspicious catalog object RA = Dec = 0: `{info['n']}` in `{name}`"
+                )
+                warn("did you apply the patch? Search README for `repair-catalogs`")
+
+            if len(bits) > 4:
+                if len(bits[4]) and bits[4] != "NULL":
+                    info["m"] = float(bits[4])  # magnitude
+
+            # bits[5] is the constellation, but in the Messier and NGC catalogs
+            # it is often totally incorrect. In other cases, some objects are
+            # really right at the borders (e.g., IC2036, IC3031) and WWT's
+            # algorithm yields a different answer than some traditional
+            # classifications. Either way, it works best to always rederive the
+            # constellation.
+
+            if need_constellation:
+                info["constellation"] = _compute_constellation(
+                    info["r_deg"], info["d_deg"]
+                )
+
+            if len(bits) > 6:
+                info["z"] = float(bits[6])  # zoom
+
+            yield info
+
+
+def do_emit_searchdata(settings):
+    # First prep hash by constellation:
+
+    by_const = {}
+
+    def _keys():
+        for c in Constellation:
+            if c != Constellation.UNSPECIFIED:
+                yield c.value
+        yield "SolarSystem"
+        yield "Constellations"
+
+    for k in _keys():
+        by_const[k] = []
+
+    # Populate places/imagesets, keeping track of some stats to inform our
+    # compression tactics.
+
+    idb = ImagesetDatabase()
+    pdb = PlaceDatabase()
+    n = 0
+
+    n_bp = {}
+    n_lv = {}
+    n_q = {}
+    n_c = {}
+    n_ft = {}
+    n_ox_hits = 0
+    n_oy_hits = 0
+
+    def incr(tbl, key):
+        tbl[key] = tbl.get(key, 0) + 1
+
+    for pid in pdb.by_uuid.keys():
+        pl = pdb.reconst_by_id(pid, idb)
+
+        if pl.data_set_type != DataSetType.SKY:
+            continue
+
+        img = pl.foreground_image_set
+        if img is None:
+            continue
+
+        # Note: excluding Healpix, SkyImage, etc.
+        if img.projection != ProjectionType.TAN:
+            continue
+
+        fgi = {
+            "bd": img.base_degrees_per_tile,
+            "cX": img.center_x,
+            "cY": img.center_y,
+            "ct": img.credits,
+            "cu": img.credits_url,
+            "n": img.name,
+            "tu": img.thumbnail_url,
+            "u": img.url,
+            "wf": img.width_factor,
+        }
+
+        if img.base_tile_level != 0:
+            fgi["bl"] = 0
+        if img.band_pass != Bandpass.VISIBLE:
+            fgi["bp"] = img.band_pass.value
+        if img.bottoms_up:
+            fgi["bu"] = img.bottoms_up
+        if img.tile_levels != 4:
+            fgi["lv"] = img.tile_levels
+        if img.offset_x != 0:
+            fgi["oX"] = img.offset_x
+        else:
+            n_ox_hits += 1
+        if img.offset_y != 0:
+            fgi["oY"] = img.offset_y
+        else:
+            n_oy_hits += 1
+        if img.stock_set:
+            fgi["ds"] = img.stock_set
+        if img.quad_tree_map:
+            fgi["q"] = img.quad_tree_map
+        if img.rotation_deg != 0:
+            fgi["r"] = img.rotation_deg
+        if img.width_factor != 2:
+            fgi["wf"] = img.width_factor
+        if img.file_type != ".png":
+            fgi["ft"] = img.file_type
+
+        # not even worrying about "dt" = data_set_type: always Sky
+        # ditto for "pr" = projection: always Tan
+
+        # TODO: clean up classifications in database
+        c = pl.classification
+        if c == Classification.UNSPECIFIED:
+            c = Classification.UNIDENTIFIED
+
+        # classification groups erroneously used on
+        # individual images:
+
+        if c == Classification.STELLAR_GROUPINGS:
+            c = Classification.MULTIPLE_STARS
+        if c == Classification.UNFILTERED:
+            c = Classification.UNIDENTIFIED
+        if c == Classification.GALACTIC:
+            c = Classification.GALAXY
+        if c == Classification.STELLAR:
+            c = Classification.STAR
+        if c == Classification.OTHER:
+            c = Classification.UNIDENTIFIED
+
+        info = {
+            "d_deg": pl.dec_deg,
+            "fgi": fgi,
+            "n": pl.name,
+            "r_deg": pl.ra_hr * 15,  # so that we can homogeneously convert below
+        }
+
+        if c != Classification.UNIDENTIFIED:
+            info["c"] = c.to_numeric()
+        if pl.zoom_level != -1:
+            info["z"] = pl.zoom_level
+
+        by_const[pl.constellation.value].append(info)
+        n += 1
+
+        # other stats
+
+        incr(n_bp, img.band_pass)
+        incr(n_lv, img.tile_levels)
+        incr(n_q, img.quad_tree_map)
+        incr(n_c, c)
+        incr(n_ft, img.file_type)
+
+    print(f"note: declared {n} imagesets", file=sys.stderr)
+
+    def report(tbl, desc):
+        key, count = max(tbl.items(), key=lambda t: t[1])
+        print(f"note: most common {desc} value: `{key}` ({count})", file=sys.stderr)
+
+    report(n_bp, "bandpass")
+    report(n_lv, "tile_levels")
+    report(n_q, "quad_tree_map")
+    report(n_c, "classification")
+    report(n_ft, "file_type")
+    print(f"note: was able to optimize out offset_x {n_ox_hits} times", file=sys.stderr)
+    print(f"note: was able to optimize out offset_y {n_oy_hits} times", file=sys.stderr)
+
+    # Populate key catalogs
+
+    n = 0
+
+    for cat in ("messier", "ngc", "ic", "commonstars", "bsc"):
+        for info in _scan_cat_file(settings, cat, need_constellation=True):
+            place_list = by_const[info["constellation"].value]
+            del info["constellation"]
+            place_list.append(info)
+            n += 1
+
+    print(f"note: declared {n} common catalog items", file=sys.stderr)
+
+    # Special solar-system section, with hack to add Earth.
+
+    place_list = by_const["SolarSystem"]
+    for info in _scan_cat_file(settings, "ssobjects"):
+        place_list.append(info)
+
+        if info["n"] == "Venus":
+            earth = dict(info)
+            earth["n"] = "Earth"
+            place_list.append(earth)
+
+    # Special Constellations section.
+
+    place_list = by_const["Constellations"]
+    for info in _scan_cat_file(settings, "constellationlist"):
+        place_list.append(info)
+
+    # Transform into final structure
+
+    for place_list in by_const.values():
+        for pl in place_list:
+            ra_deg = pl.pop("r_deg")
+            pl["r"] = round(ra_deg / 15, 4)  # convert to hours!
+
+            dec_deg = pl.pop("d_deg")
+            pl["d"] = round(dec_deg, 4)
+
+            zoom = pl.get("z")
+            if zoom is not None:
+                pl["z"] = round(zoom, 5)
+            else:
+                pl["z"] = -1
+
+            # Magnitude data unused in webclient
+            pl.pop("m", None)
+
+    wrapper = {"Constellations": [{"name": k, "places": by_const[k]} for k in _keys()]}
+
+    if settings.pretty_json:
+        import json
+
+        json.dump(wrapper, sys.stdout, indent=2, ensure_ascii=False, sort_keys=True)
+    else:
+        import json5
+
+        print("wwt.searchData=", end="")
+        json5.dump(
+            wrapper,
+            sys.stdout,
+            ensure_ascii=False,
+            check_circular=False,
+            allow_nan=False,
+            trailing_commas=False,
+            allow_duplicate_keys=False,
+            separators=(",", ":"),
+        )
+        print(";")
+
+
 # format-imagesets
 
 
@@ -852,6 +1127,7 @@ def do_trace(_settings):
     for imgset in idb.by_url.values():
         imgset.rmeta.touched = False
 
+    warn("this tool needs to be updated to handle `explorerootweb.yml` too")
     _trace_catfile(BASEDIR / "catfiles" / "exploreroot6.yml", pdb, idb)
 
     for imgset in idb.by_url.values():
@@ -894,13 +1170,25 @@ def entrypoint():
         "--preview", action="store_true", help="Emit relative-URL files for previewing"
     )
 
+    emit_searchdata = subparsers.add_parser("emit-searchdata")
+    emit_searchdata.add_argument(
+        "--pretty-json", action="store_true", help="Emit as indented JSON"
+    )
+    emit_searchdata.add_argument(
+        "catdir",
+        metavar="DIR-PATH",
+        help="Directory with catalog files",
+    )
+
     _format_imagesets = subparsers.add_parser("format-imagesets")
     _format_places = subparsers.add_parser("format-places")
     _ground_truth = subparsers.add_parser("ground-truth")
 
     ingest = subparsers.add_parser("ingest")
     ingest.add_argument(
-        "--emit", action="store_true", help="Emit a new \"catfile\" YAML for the ingested folder",
+        "--emit",
+        action="store_true",
+        help='Emit a new "catfile" YAML for the ingested folder',
     )
     ingest.add_argument(
         "wtml", metavar="WTML-PATH", help="Path to a catalog WTML file to ingest"
@@ -927,6 +1215,8 @@ def entrypoint():
         do_add_alt_urls(settings)
     elif settings.subcommand == "emit":
         do_emit(settings)
+    elif settings.subcommand == "emit-searchdata":
+        do_emit_searchdata(settings)
     elif settings.subcommand == "format-imagesets":
         do_format_imagesets(settings)
     elif settings.subcommand == "format-places":

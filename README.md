@@ -93,6 +93,50 @@ At that point:
   data, and
 - a new Windows release needs to be made including the updated cabinet
 
+### `cattool emit-searchdata`
+
+The `emit-searchdata` subcommand emits a JavaScript/JSON data file used as a
+search index by the web client. It indexes not only the sky-based image sets,
+but also several catalogs of well-known stars and galaxies (e.g., the Messier
+and Bright Star catalogs).
+
+The command takes one argument, which is the name of a directory containing
+supporting catalog data files. These can be pulled off of the `catalog` blob
+container of the `wwtfiles` storage account, or downloaded like so:
+
+```sh
+for c in bsc commonstars constellationlist ic messier ngc ssobjects ; do
+  curl -fsSL "http://worldwidetelescope.org/wwtweb/catalog.aspx?Q=$c" -o $c.txt
+done
+```
+
+After downloading, one should currently patch some of the files with the patch
+`assets/repair-catalogs.patch` stored in this repo. The more sensible thing
+would be to actually fix the server-side catalogs, but maintaining/regenerating
+them is a bigger project than I want to take on right now (PKGW, July 2022).
+Note that "fixing" is a bit ill-defined; the patch updates the BSC to add
+RA/Decs to items in the HR catalog that are now known to be novae, etc., which
+should maybe be removed instead. (Historical webclient behavior, though, was to
+provide these sources in a way that wedges the viewer if you try to seek to
+one.)
+
+The `--pretty-json` option causes the data to be emitted to stdout as indented,
+prettified JSON, which is most convenient for diffing and understanding the
+detailed output. Without this option, the output is essentially minified
+JavaScript, emitted using [pyjson5] and some manually-inserted shims.
+
+[pyjson5]: https://github.com/Kijewski/pyjson5
+
+The non-pretty output is currently put into production by uploading it into the
+path `$web/data/searchdata_v2.min.js` path of the `wwtwebstatic` storage account
+on Azure. A CDN purge will be needed to update the search data for the
+production webclient. The upload can be done from the CLI with:
+
+```sh
+export AZURE_STORAGE_CONNECTION_STRING=secret-for-wwtfiles
+az storage azcopy blob upload -c '$web' -s searchdata_v2.min.js -d data/
+```
+
 ### `cattool ingest <WTML>`
 
 This reads a WTML file and updates `places/`, and `imagesets/` with its data

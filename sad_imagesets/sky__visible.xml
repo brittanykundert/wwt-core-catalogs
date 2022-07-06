@@ -447,4 +447,30 @@
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2009-19a1-big-band-of-dust</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2009-19a1.jpg</ThumbnailUrl>
   </ImageSet>
+  <ImageSet
+    _Reason="Bad astrometry; tried treating coords as galactic but that didn't help"
+    BandPass="Visible"
+    BaseDegreesPerTile="0.421226169971205"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="359.94197"
+    CenterY="-0.00513722188771"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Galactic Center"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2009-20a1L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+  >
+    <Credits>NASA/JPL-Caltech/ESA/CXC/STScI; In celebration of the International Year of Astronomy 2009, NASA's Great Observatories -- the Hubble Space Telescope, the Spitze...</Credits>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2009-20a1-nasas-great-observatories-examine-the-galaxy-center</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2009-20a1.jpg</ThumbnailUrl>
+  </ImageSet>
 </Folder>
