@@ -797,6 +797,7 @@ def do_emit_searchdata(settings):
             allow_nan=False,
             trailing_commas=False,
             allow_duplicate_keys=False,
+            separators=(",", ":"),
         )
         print(";")
 
