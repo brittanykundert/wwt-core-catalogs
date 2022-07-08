@@ -140,9 +140,23 @@ az storage azcopy blob upload -c '$web' -s searchdata_v2.min.js -d data/
 ### `cattool ingest <WTML>`
 
 This reads a WTML file and updates `places/`, and `imagesets/` with its data
-contents. If you have a WTML defining new datasets to include, use this. With
-the `--emit` option, it will also create a new catalog template in `catfiles/`
-mirroring the input WTML's structure.
+contents. If you have a WTML defining new datasets to include, use this.
+
+With the `--prepend-to=FILENAME` option, this command will update an existing
+catalog template file to include the newly-ingested imagery at its beginning.
+For instance, the command:
+
+```sh
+./cattool.py ingest jwst_fgs_preview.wtml --prepend-to=catfiles/jwst.wtml
+```
+
+will take the new images and places defined in the file `jwst_fgs_preview.wtml`,
+incorporate their definitions into the database, and add the new images at the
+beginning of the `jwst` catalog.
+
+With the `--emit` option, this command will create a wholly new catalog template
+in `catfiles/` mirroring the input WTML's structure. You'll only want this
+option if you're importing a substantial, new image collection.
 
 ### `cattool report`
 

@@ -30455,6 +30455,31 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.0783219477164671"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="245.960639475024"
+    CenterY="28.44510984425"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb’s Fine Guidance Sensor Provides a Preview"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-157.864616609149"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2022/07_jwst/jwst_fgs_preview/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/CSA/FGS Team</Credits>
+    <CreditsUrl>https://blogs.nasa.gov/webb/2022/07/06/webbs-fine-guidance-sensor-provides-a-preview/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/07_jwst/jwst_fgs_preview/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"
