@@ -923,6 +923,15 @@ def do_ingest(settings):
     if settings.emit:
         write_one_yaml(f"catfiles/{catname}.yml", info)
 
+    if settings.prepend_to:
+        print(f"Updating `{settings.prepend_to}`.")
+
+        with open(settings.prepend_to, "rt", encoding="utf-8") as f:
+            existing = yaml.load(f, yaml.SafeLoader)
+
+        existing["children"] = info["children"] + existing["children"]
+        write_one_yaml(settings.prepend_to, existing)
+
 
 # prettify - generic XML prettification
 
@@ -1193,6 +1202,11 @@ def entrypoint():
     _ground_truth = subparsers.add_parser("ground-truth")
 
     ingest = subparsers.add_parser("ingest")
+    ingest.add_argument(
+        "--prepend-to",
+        metavar="YML-PATH",
+        help="Add the new places to the specific, existing catalog file",
+    )
     ingest.add_argument(
         "--emit",
         action="store_true",
