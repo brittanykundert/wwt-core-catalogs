@@ -1166,6 +1166,50 @@ ra_hr: 10.402
 thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1509a/thumb.jpg
 zoom_level: 0.9471072653441663
 ---
+_uuid: c94be821-4c68-4fc3-8f04-73dd9c80344f
+classification: ''
+constellation: CAR
+data_set_type: Sky
+dec_deg: -58.620167596399455
+foreground_image_set_url: http://data1.wwtassets.org/packages/2022/07_jwst/carina_miri/{1}/{3}/{3}_{2}.png
+name: JWST Carina MIRI
+ra_hr: 10.614202486602357
+thumbnail: http://data1.wwtassets.org/packages/2022/07_jwst/carina_miri/thumb.jpg
+zoom_level: 0.7175138317174115
+---
+_uuid: 09418ae0-bbee-4f97-ab88-16752d1e3e8f
+classification: ''
+constellation: CAR
+data_set_type: Sky
+dec_deg: -58.620167596399455
+foreground_image_set_url: http://data1.wwtassets.org/packages/2022/07_jwst/carina_nircam/{1}/{3}/{3}_{2}.png
+name: JWST Carina NIRCam
+ra_hr: 10.614202486602357
+thumbnail: http://data1.wwtassets.org/packages/2022/07_jwst/carina_nircam/thumb.jpg
+zoom_level: 0.7175138317174115
+---
+_uuid: a3fd3593-44e5-4b0c-9079-4db0753de14c
+classification: ''
+constellation: VEL
+data_set_type: Sky
+dec_deg: -40.43593551739831
+foreground_image_set_url: http://data1.wwtassets.org/packages/2022/07_jwst/jwst_s_ring_miri/{1}/{3}/{3}_{2}.png
+name: JWST Southern Ring Nebula (MIRI)
+ra_hr: 10.117059441311776
+thumbnail: http://data1.wwtassets.org/packages/2022/07_jwst/jwst_s_ring_miri/thumb.jpg
+zoom_level: 0.3826336529248513
+---
+_uuid: d252782f-8a28-419c-8ad7-4b5e33b405fd
+classification: ''
+constellation: VEL
+data_set_type: Sky
+dec_deg: -40.43593551739831
+foreground_image_set_url: http://data1.wwtassets.org/packages/2022/07_jwst/jwst_s_ring_nircam/{1}/{3}/{3}_{2}.png
+name: JWST Southern Ring Nebula (NIRCam)
+ra_hr: 10.117059441311776
+thumbnail: http://data1.wwtassets.org/packages/2022/07_jwst/jwst_s_ring_nircam/thumb.jpg
+zoom_level: 0.3826336529248513
+---
 _uuid: 596a1b3f-6a73-4ce9-a369-f4d00a72095b
 angular_size: 1.0
 classification: Galaxy
