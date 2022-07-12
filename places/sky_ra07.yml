@@ -472,6 +472,17 @@ ra_hr: 7.30838961540545
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noaoann10014a/thumb.jpg
 zoom_level: 2.08633851485842
 ---
+_uuid: 3c758076-e07d-4b16-b814-6eee1f2646cd
+classification: ''
+constellation: VOL
+data_set_type: Sky
+dec_deg: -73.45389956415659
+foreground_image_set_url: http://data1.wwtassets.org/packages/2022/07_jwst/smacs0723/{1}/{3}/{3}_{2}.png
+name: JWST SMACS 0723
+ra_hr: 7.388518370448916
+thumbnail: http://data1.wwtassets.org/packages/2022/07_jwst/smacs0723/thumb.jpg
+zoom_level: 0.39337455578028513
+---
 _uuid: 3b10fd74-4801-49bb-b3fa-88fb3977358f
 angular_size: 1.0
 classification: Galaxy
