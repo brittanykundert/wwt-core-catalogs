@@ -85,7 +85,14 @@ build, or maybe to monkey with your client's local cache.)
 
 When a data update is ready to issue, these files should be able to be uploaded
 directly into the `catalog` blob container of the `wwtfiles` storage account.
-At that point:
+This can be done from the command line with something like this:
+
+```sh
+export AZURE_STORAGE_CONNECTION_STRING=secret-for-wwtfiles
+az storage azcopy blob upload -c catalog -s jwst.wtml
+```
+
+After that:
 
 - the `wwt6_login.txt` file needs to be updated to trigger the clients to pull
   down the new data,
@@ -133,7 +140,7 @@ on Azure. A CDN purge will be needed to update the search data for the
 production webclient. The upload can be done from the CLI with:
 
 ```sh
-export AZURE_STORAGE_CONNECTION_STRING=secret-for-wwtfiles
+export AZURE_STORAGE_CONNECTION_STRING=secret-for-wwtwebstatic
 az storage azcopy blob upload -c '$web' -s searchdata_v2.min.js -d data/
 ```
 
