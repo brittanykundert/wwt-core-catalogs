@@ -780,6 +780,28 @@ name: UZC J224030.2+032131
 ra_hr: 22.67507
 zoom_level: 0.08
 ---
+_uuid: 0e884436-14e6-424e-8896-72b6e8713f14
+classification: ''
+constellation: PEG
+data_set_type: Sky
+dec_deg: 33.9621954626131
+foreground_image_set_url: http://data1.wwtassets.org/packages/2022/07_jwst/weic2208a/{1}/{3}/{3}_{2}.png
+name: JWST Stephan's Quintet (NIRCam and MIRI)
+ra_hr: 22.6001036467436
+thumbnail: http://data1.wwtassets.org/packages/2022/07_jwst/weic2208a/thumb.jpg
+zoom_level: 1.031446312671409
+---
+_uuid: 2fbd2312-1994-4126-9cdf-1c1d47ddb933
+classification: ''
+constellation: PEG
+data_set_type: Sky
+dec_deg: 33.9621954626131
+foreground_image_set_url: http://data1.wwtassets.org/packages/2022/07_jwst/weic2208b/{1}/{3}/{3}_{2}.png
+name: JWST Stephan's Quintet (MIRI)
+ra_hr: 22.6001036467436
+thumbnail: http://data1.wwtassets.org/packages/2022/07_jwst/weic2208b/thumb.jpg
+zoom_level: 1.031446312671409
+---
 _uuid: 73938bf4-fdcc-4740-9c6a-9825bf3a5550
 angular_size: 1.0
 classification: Star
