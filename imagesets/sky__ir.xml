@@ -32,6 +32,58 @@
   </ImageSet>
   <ImageSet
     BandPass="IR"
+    BaseDegreesPerTile="0.06826499576553885"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="9.42321092732"
+    CenterY="-33.71306150293"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Cartwheel Galaxy (JWST NIRCam and MIRI Composite Image)"
+    OffsetX="-0.00011075975428868112"
+    OffsetY="-0.00025519827378850607"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-27.974015276436532"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2022/08_jwst/cartwheel/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, STScI, Webb ERO Production Team</Credits>
+    <CreditsUrl>https://webbtelescope.org/contents/news-releases/2022/news-2022-039</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/08_jwst/cartwheel/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="IR"
+    BaseDegreesPerTile="0.27326404667707516"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="214.9171906825857"
+    CenterY="52.901998632045"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="CEERS NIRCam 220804"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-49.74000000000036"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://data1.wwtassets.org/packages/2022/08_jwst/ceers_nircam/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/STScI/CEERS/TACC/S. Finkelstein/G. Yang./C. Papovich/Z. Levay</Credits>
+    <CreditsUrl>https://cns.utexas.edu/news/widest-view-of-early-universe-hints-at-galaxy-among-the-earliest-ever-detected</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/08_jwst/ceers_nircam/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="IR"
     BaseDegreesPerTile="0.69452463818616"
     BaseTileLevel="0"
     BottomsUp="False"
