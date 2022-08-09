@@ -613,6 +613,25 @@ ra_hr: 14.318939018818932
 thumbnail: http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C298/thumb.jpg
 zoom_level: 0.06020541139183448
 ---
+_uuid: 26a8d70d-015f-41f2-945c-9ec5594865d3
+classification: ''
+constellation: BOO
+data_set_type: Sky
+dec_deg: 52.9112674947119
+description: Two new images from NASA's James Webb Space Telescope show what may
+  be among the earliest galaxies ever observed. Both images include objects from
+  more than 13 billion years ago, and one offers a much wider field of view than
+  Webb's First Deep Field image, which was released amid great fanfare July 12.
+  The images represent some of the first out of a major collaboration of
+  astronomers and other academic researchers teaming with NASA and global
+  partners to uncover new insights about the universe.
+foreground_image_set_url: http://data1.wwtassets.org/packages/2022/08_jwst/ceers_nircam/{1}/{3}/{3}_{2}.png
+name: CEERS NIRCam 220804
+ra_hr: 14.3262647334323
+rotation_deg: -0.860796387083604
+thumbnail: http://data1.wwtassets.org/packages/2022/08_jwst/ceers_nircam/thumb.jpg
+zoom_level: 0.997078409949675
+---
 _uuid: b0b1e513-56d9-438e-8966-382761b05d06
 angular_size: 1.0
 classification: Galaxy
