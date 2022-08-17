@@ -30705,6 +30705,33 @@ NIRCam was built by a team at the University of Arizona and Lockheed Martin’s 
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.13653333333333606"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="110.83349029316"
+    CenterY="-73.454202659629"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Hubble RELICS SMACS J0723.3-7327 ACS-WFC3IR"
+    OffsetX="-4e-05"
+    OffsetY="-7e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2022/08_hubble/smacs0723-73/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>ESA/Hubble &amp; NASA, RELICS</Credits>
+    <CreditsUrl>https://archive.stsci.edu/prepds/relics/color_images/smacs0723-73.html</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/08_hubble/smacs0723-73/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"
