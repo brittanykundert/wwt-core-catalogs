@@ -30732,6 +30732,60 @@ NIRCam was built by a team at the University of Arizona and Lockheed Martin’s 
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.06325540930640385"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="24.1735269215604"
+    CenterY="15.7827400082881"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb Inspects the Heart of the Phantom Galaxy"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-110.07250040209001"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2022/08_jwst/potm2208a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, J. Lee and the PHANGS-JWST Team. Acknowledgement: J. Schmidt</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2208a/</CreditsUrl>
+    <Description>This image from the NASA/ESA/CSA James Webb Space Telescope shows the heart of M74, otherwise known as the Phantom Galaxy. Webb’s sharp vision has revealed delicate filaments of gas and dust in the grandiose spiral arms which wind outwards from the centre of this image. A lack of gas in the nuclear region also provides an unobscured view of the nuclear star cluster at the galaxy's centre. M74 is a particular class of spiral galaxy known as a ‘grand design spiral’, meaning that its spiral arms are prominent and well-defined, unlike the patchy and ragged structure seen in some spiral galaxies. The Phantom Galaxy is around 32 million light-years away from Earth in the constellation Pisces, and lies almost face-on to Earth. This, coupled with its well-defined spiral arms, makes it a favourite target for astronomers studying the origin and structure of galactic spirals. Webb gazed into M74 with its Mid-InfraRed Instrument (MIRI) in order to learn more about the earliest phases of star formation in the local Universe. These observations are part of a larger effort to chart 19 nearby star-forming galaxies in the infrared by the international PHANGS collaboration. Those galaxies have already been observed using the NASA/ESA Hubble Space Telescope and ground-based observatories. The addition of crystal-clear Webb observations at longer wavelengths will allow astronomers to pinpoint star-forming regions in the galaxies, accurately measure the masses and ages of star clusters, and gain insights into the nature of the small grains of dust drifting in interstellar space.Hubble observations of M74 have revealed particularly bright areas of star formation known as HII regions. Hubble’s sharp vision at ultraviolet and visible wavelengths complements Webb’s unparalleled sensitivity at infrared wavelengths, as do observations from ground-based radio telescopes such as the Atacama Large Millimeter/submillimeter Array, ALMA. By combining data from telescopes operating across the electromagnetic spectrum, scientists can gain greater insight into astronomical objects than by using a single observatory — even one as powerful as Webb! MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (the MIRI European Consortium) in partnership with JPL and the University of Arizona. Links  Pan of the Phantom Galaxy Hubble and Webb Showcase M74 Pan of Combined optical/mid-infrared image of M74 (Hubble and Webb) Image B Image C </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/08_jwst/potm2208a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.09113423618609526"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="24.174379141634"
+    CenterY="15.780430679732"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="The Phantom Galaxy Across the Spectrum"
+    OffsetX="5.562392345343197e-06"
+    OffsetY="5.562392345342728e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-110.07999999999974"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2022/08_jwst/potm2208b/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, J. Lee and the PHANGS-JWST Team; ESA/Hubble &amp; NASA, R. Chandar. Acknowledgement: J. Schmidt</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2208b/</CreditsUrl>
+    <Description>M74 shines at its brightest in this combined optical/mid-infrared image, featuring data from both the NASA/ESA Hubble Space Telescope and the NASA/ESA/CSA James Webb Space Telescope. With Hubble’s venerable Advanced Camera for Surveys (ACS) and Webb’s powerful Mid-InfraRed Instrument (MIRI) capturing a range of wavelengths, this new image has remarkable depth. The red colours mark dust threaded through the arms of the galaxy, lighter oranges being areas of hotter dust. The young stars throughout the arms and the nuclear core are picked out in blue. Heavier, older stars towards the galaxy’s centre are shown in cyan and green, projecting a spooky glow from the core of the Phantom Galaxy. Bubbles of star formation are also visible in pink across the arms. Such a variety of galactic features is rare to see in a single image. Scientists combine data from telescopes operating across the electromagnetic spectrum to truly understand astronomical objects. In this way, data from Hubble and Webb compliment each other to provide a comprehensive view of the spectacular M74 galaxy. Links  Pan of the Phantom Galaxy Hubble and Webb Showcase M74 Pan of Combined optical/mid-infrared image of M74 (Hubble and Webb) Image A Image C </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/08_jwst/potm2208b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"

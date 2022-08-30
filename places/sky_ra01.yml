@@ -831,6 +831,28 @@ ra_hr: 1.5661111111111126
 thumbnail: http://data1.wwtassets.org/packages/2020/07_phat_m33/thumb.jpg
 zoom_level: 2.5
 ---
+_uuid: cef26e70-29b9-4813-b747-4ebcd95f7183
+classification: ''
+constellation: PSC
+data_set_type: Sky
+dec_deg: 15.780423545707809
+foreground_image_set_url: http://data1.wwtassets.org/packages/2022/08_jwst/potm2208a/{1}/{3}/{3}_{2}.png
+name: Webb Inspects the Heart of the Phantom Galaxy
+ra_hr: 1.6116250464859263
+thumbnail: http://data1.wwtassets.org/packages/2022/08_jwst/potm2208a/thumb.jpg
+zoom_level: 0.45
+---
+_uuid: 9d1ecfcd-34bb-4bb1-87ae-fe99593bd07c
+classification: ''
+constellation: PSC
+data_set_type: Sky
+dec_deg: 15.780423545707809
+foreground_image_set_url: http://data1.wwtassets.org/packages/2022/08_jwst/potm2208b/{1}/{3}/{3}_{2}.png
+name: The Phantom Galaxy Across the Spectrum
+ra_hr: 1.6116250464859263
+thumbnail: http://data1.wwtassets.org/packages/2022/08_jwst/potm2208b/thumb.jpg
+zoom_level: 0.45
+---
 _uuid: 3178e1ca-1127-495c-a397-ec3b3f9fb1a1
 angular_size: 1.0
 classification: SupernovaRemnant
