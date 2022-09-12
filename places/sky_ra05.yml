@@ -3588,6 +3588,28 @@ ra_hr: 5.5876506552836
 thumbnail: http://data1.wwtassets.org/packages/2021/02_sofia/orion_sofia/thumb.jpg
 zoom_level: 1.1381851088983732
 ---
+_uuid: a1d9f27b-42ca-4dcd-b22a-a9da6fcc1408
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.0952628486634
+foreground_image_set_url: http://data1.wwtassets.org/packages/2022/09_jwst/weic2212a/{1}/{3}/{3}_{2}.png
+name: Tarantula Nebula (NIRCam Image)
+ra_hr: 5.646556429159745
+thumbnail: http://data1.wwtassets.org/packages/2022/09_jwst/weic2212a/thumb.jpg
+zoom_level: 0.7153023739291948
+---
+_uuid: 4805709b-ce97-47e7-ae40-d9598bb8a0e7
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.0924495620627
+foreground_image_set_url: http://data1.wwtassets.org/packages/2022/09_jwst/weic2212b/{1}/{3}/{3}_{2}.png
+name: Tarantula Nebula (MIRI Image)
+ra_hr: 5.645326226004792
+thumbnail: http://data1.wwtassets.org/packages/2022/09_jwst/weic2212b/thumb.jpg
+zoom_level: 0.33000088248955006
+---
 _uuid: 54b995f9-eb0c-4e51-a8a2-f91cb071a3cd
 angular_size: 1.0
 classification: Galaxy
