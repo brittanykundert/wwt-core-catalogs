@@ -30455,6 +30455,256 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.07343876581790341"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="80.2548782156904"
+    CenterY="-69.5010689830762"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="JWST Fine Guidance Sensor 1"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="132.06446109520502"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="2"
+    Url="http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_fine_guidance_1/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/STScI</Credits>
+    <CreditsUrl>https://blogs.nasa.gov/webb/2022/04/28/nasas-webb-in-full-focus-ready-for-instrument-commissioning/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_fine_guidance_1/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07296447546182103"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="80.3546668913965"
+    CenterY="-69.4649893803267"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="JWST Fine Guidance Sensor 2"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="132.00563979558504"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="2"
+    Url="http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_fine_guidance_2/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/STScI</Credits>
+    <CreditsUrl>https://blogs.nasa.gov/webb/2022/04/28/nasas-webb-in-full-focus-ready-for-instrument-commissioning/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_fine_guidance_2/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.03171263911107164"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="80.8004992352131"
+    CenterY="-69.4287564406419"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="JWST MIRI"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="137.653817469512"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="2"
+    Url="http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_miri/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/STScI</Credits>
+    <CreditsUrl>https://blogs.nasa.gov/webb/2022/04/28/nasas-webb-in-full-focus-ready-for-instrument-commissioning/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_miri/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.03459972713910574"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="80.4458638354294"
+    CenterY="-69.5158842636666"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="JWST NIRCAM 1"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="132.527650932808"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="1"
+    Url="http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nircam_1/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/STScI</Credits>
+    <CreditsUrl>https://blogs.nasa.gov/webb/2022/04/28/nasas-webb-in-full-focus-ready-for-instrument-commissioning/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nircam_1/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.03475536003397299"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="80.5382899223239"
+    CenterY="-69.4805276200923"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="JWST NIRCAM 2"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="132.29073316112"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="1"
+    Url="http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nircam_2/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/STScI</Credits>
+    <CreditsUrl>https://blogs.nasa.gov/webb/2022/04/28/nasas-webb-in-full-focus-ready-for-instrument-commissioning/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nircam_2/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.0686022098225482"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="80.5257972866035"
+    CenterY="-69.4017165836439"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="JWST NIRISS"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="133.498688757566"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="2"
+    Url="http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_niriss/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/STScI</Credits>
+    <CreditsUrl>https://blogs.nasa.gov/webb/2022/04/28/nasas-webb-in-full-focus-ready-for-instrument-commissioning/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_niriss/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.03462130099435039"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="80.2713304083476"
+    CenterY="-69.604419643734"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="JWST NIRSPEC 1"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-178.175288929698"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="1"
+    Url="http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_1/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/STScI</Credits>
+    <CreditsUrl>https://blogs.nasa.gov/webb/2022/04/28/nasas-webb-in-full-focus-ready-for-instrument-commissioning/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_1/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.03388378101445001"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="80.3680758566278"
+    CenterY="-69.6054068366921"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="JWST NIRSPEC 2"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-178.188507249783"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="1"
+    Url="http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_2/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/STScI</Credits>
+    <CreditsUrl>https://blogs.nasa.gov/webb/2022/04/28/nasas-webb-in-full-focus-ready-for-instrument-commissioning/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_2/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.035395782096357936"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="80.2738844771071"
+    CenterY="-69.5715755624968"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="JWST NIRSPEC 3"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-178.823688889204"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="1"
+    Url="http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_3/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/STScI</Credits>
+    <CreditsUrl>https://blogs.nasa.gov/webb/2022/04/28/nasas-webb-in-full-focus-ready-for-instrument-commissioning/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_3/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.03428459987811788"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="80.3701999884384"
+    CenterY="-69.5727475357836"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="JWST NIRSPEC 4"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-178.19455408690396"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="1"
+    Url="http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_4/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA/STScI</Credits>
+    <CreditsUrl>https://blogs.nasa.gov/webb/2022/04/28/nasas-webb-in-full-focus-ready-for-instrument-commissioning/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_4/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.13608475168336676"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -30729,6 +30979,40 @@ NIRCam was built by a team at the University of Arizona and Lockheed Martin’s 
     <Credits>ESA/Hubble &amp; NASA, RELICS</Credits>
     <CreditsUrl>https://archive.stsci.edu/prepds/relics/color_images/smacs0723-73.html</CreditsUrl>
     <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/08_hubble/smacs0723-73/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.06256010594014742"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="9.417168702712482"
+    CenterY="-33.70355729188342"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Cartwheel Galaxy (JWST MIRI)"
+    OffsetX="-0.0014443095612469107"
+    OffsetY="-0.00973387872400587"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-23.132868870220555"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2022/08_jwst/cartwheel_miri/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, STScI, Webb ERO Production Team</Credits>
+    <CreditsUrl>https://webbtelescope.org/contents/news-releases/2022/news-2022-039</CreditsUrl>
+    <Description>This image from Webb’s Mid-Infrared Instrument (MIRI) shows a group of galaxies, including a large distorted ring-shaped galaxy known as the Cartwheel. The Cartwheel Galaxy, located 500 million light-years away in the Sculptor constellation, is composed of a bright inner ring and an active outer ring. While this outer ring has a lot of star formation, the dusty area in between reveals many stars and star clusters.
+
+The mid-infrared light captured by MIRI reveals fine details about these dusty regions and young stars within the Cartwheel Galaxy, which are rich in hydrocarbons and other chemical compounds, as well as silicate dust, like much of the dust on Earth.
+
+Young stars, many of which are present in the bottom right of the outer ring, energize surrounding hydrocarbon dust, causing it to glow orange. On the other hand, the clearly defined dust between the core and the outer ring, which forms the “spokes” that inspire the galaxy’s name, is mostly silicate dust.
+
+The smaller spiral galaxy to the upper left of Cartwheel displays much of the same behavior, showing a large amount of star formation.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/08_jwst/cartwheel_miri/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -106663,5 +106947,33 @@ A composite image of data from NASA’s Chandra X-ray Observatory (blue) and Hub
     <Credits>Copyright Jack Newton All Rights Reserved</Credits>
     <CreditsUrl>http://www.jacknewton.com/</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jn056</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.13656208790665247"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="274.72992785796"
+    CenterY="-13.85173905846"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb Takes a Stunning, Star-Filled Portrait of the Pillars of Creation"
+    OffsetX="-0.0003056919433917801"
+    OffsetY="-5.356452028979779e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="2.5646004209999447"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="https://data1.wwtassets.org/packages/2022/10_jwst/weic2216b/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, STScI; J. DePasquale, A. Koekemoer, A. Pagan (STScI).</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2216b/</CreditsUrl>
+    <Description>The Pillars of Creation are set off in a kaleidoscope of colour in the NASA/ESA/CSA James Webb Space Telescope’s near-infrared-light view. The pillars look like arches and spires rising out of a desert landscape, but are filled with semi-transparent gas and dust, and ever changing. This is a region where young stars are forming – or have barely burst from their dusty cocoons as they continue to form. Protostars are the scene-stealers in this Near-Infrared Camera (NIRCam) image. These are the bright red orbs that sometimes appear with eight diffraction spikes. When knots with sufficient mass form within the pillars, they begin to collapse under their own gravity, slowly heat up, and eventually begin shining brightly. Along the edges of the pillars are wavy lines that look like lava. These are ejections from stars that are still forming. Young stars periodically shoot out jets that can interact within clouds of material, like these thick pillars of gas and dust. This sometimes also results in bow shocks, which can form wavy patterns like a boat does as it moves through water. These young stars are estimated to be only a few hundred thousand years old, and will continue to form for millions of years. Although it may appear that near-infrared light has allowed Webb to “pierce through” the background to reveal great cosmic distances beyond the pillars, the interstellar medium stands in the way, like a drawn curtain. This is also the reason why there are no distant galaxies in this view. This translucent layer of gas blocks our view of the deeper universe. Plus, dust is lit up by the collective light from the packed “party” of stars that have burst free from the pillars. It’s like standing in a well-lit room looking out a window – the interior light reflects on the pane, obscuring the scene outside and, in turn, illuminating the activity at the party inside. Webb’s new view of the Pillars of Creation will help researchers revamp models of star formation. By identifying far more precise star populations, along with the quantities of gas and dust in the region, they will begin to build a clearer understanding of how stars form and burst out of these clouds over millions of years. The Pillars of Creation is a small region within the vast Eagle Nebula, which lies 6,500 light-years away. Webb’s NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center. [Image Description: This vertical image has layers of semi-opaque rusty red colored gas and dust that starts at the bottom left and goes toward the top right. There are three prominent pillars rising toward the top right. The left pillar is the largest and widest. The peaks of the second and third pillars are set off in darker shades of brown and have red outlines.]</Description>
+    <ThumbnailUrl>https://data1.wwtassets.org/packages/2022/10_jwst/weic2216b/thumb.jpg</ThumbnailUrl>
   </ImageSet>
 </Folder>
