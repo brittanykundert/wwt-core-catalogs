@@ -100,6 +100,19 @@ After that:
   data, and
 - a new Windows release needs to be made including the updated cabinet
 
+When the `imagesets6.xml` file is updated, the `builtin-image-sets.wtml` file
+should be updated as well:
+
+```sh
+export AZURE_STORAGE_CONNECTION_STRING=secret-for-wwtwebstatic
+az storage azcopy blob upload -c '$web' -s imagesets6.xml -d engine/assets/builtin-image-sets.wtml
+```
+
+The `wwtweb-prod` CDN endpoint should then have that path purged. (Probably we
+should stop updating this file and change our code to use `imagesets6` instead,
+but that migration would be a bit of a hassle.)
+
+
 ### `cattool emit-searchdata`
 
 The `emit-searchdata` subcommand emits a JavaScript/JSON data file used as a
