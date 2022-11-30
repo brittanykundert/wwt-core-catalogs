@@ -168,6 +168,8 @@ children:
 
 - browseable: true
   children:
+  - place 8ba8225a-fda0-4998-b0d4-29dcf6128c5a # DECaPS2 grz
+  - place da114b98-f23b-4188-a641-5a4db8defe1e # DECaPS2 riY
   - place 5a984643-cab2-41a3-8de6-9dacda018cfd # GLIMPSE360
   - place c5ced5c5-b09a-41d9-a96e-27ff1ce6f191 # GLIMPSE
   - place d645f2b7-7e0b-4a02-991c-30bf89638f0f # GLIMPSE/MIPSGAL

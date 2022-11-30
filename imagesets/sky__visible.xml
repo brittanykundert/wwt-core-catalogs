@@ -31070,6 +31070,30 @@ The smaller spiral galaxy to the upper left of Cartwheel displays much of the sa
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="328.0617509514105"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="200"
+    CenterY="-62.6"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="DECaPS2 grz Color Composite"
+    Projection="Toast"
+    QuadTreeMap=""
+    Rotation="0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="14"
+    Url="http://data1.wwtassets.org/packages/2022/09_decaps2/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>Andrew Saydjari, etc.</Credits>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/09_decaps2/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.13648989903120679"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -106975,5 +106999,29 @@ A composite image of data from NASA’s Chandra X-ray Observatory (blue) and Hub
     <CreditsUrl>https://esawebb.org/images/weic2216b/</CreditsUrl>
     <Description>The Pillars of Creation are set off in a kaleidoscope of colour in the NASA/ESA/CSA James Webb Space Telescope’s near-infrared-light view. The pillars look like arches and spires rising out of a desert landscape, but are filled with semi-transparent gas and dust, and ever changing. This is a region where young stars are forming – or have barely burst from their dusty cocoons as they continue to form. Protostars are the scene-stealers in this Near-Infrared Camera (NIRCam) image. These are the bright red orbs that sometimes appear with eight diffraction spikes. When knots with sufficient mass form within the pillars, they begin to collapse under their own gravity, slowly heat up, and eventually begin shining brightly. Along the edges of the pillars are wavy lines that look like lava. These are ejections from stars that are still forming. Young stars periodically shoot out jets that can interact within clouds of material, like these thick pillars of gas and dust. This sometimes also results in bow shocks, which can form wavy patterns like a boat does as it moves through water. These young stars are estimated to be only a few hundred thousand years old, and will continue to form for millions of years. Although it may appear that near-infrared light has allowed Webb to “pierce through” the background to reveal great cosmic distances beyond the pillars, the interstellar medium stands in the way, like a drawn curtain. This is also the reason why there are no distant galaxies in this view. This translucent layer of gas blocks our view of the deeper universe. Plus, dust is lit up by the collective light from the packed “party” of stars that have burst free from the pillars. It’s like standing in a well-lit room looking out a window – the interior light reflects on the pane, obscuring the scene outside and, in turn, illuminating the activity at the party inside. Webb’s new view of the Pillars of Creation will help researchers revamp models of star formation. By identifying far more precise star populations, along with the quantities of gas and dust in the region, they will begin to build a clearer understanding of how stars form and burst out of these clouds over millions of years. The Pillars of Creation is a small region within the vast Eagle Nebula, which lies 6,500 light-years away. Webb’s NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center. [Image Description: This vertical image has layers of semi-opaque rusty red colored gas and dust that starts at the bottom left and goes toward the top right. There are three prominent pillars rising toward the top right. The left pillar is the largest and widest. The peaks of the second and third pillars are set off in darker shades of brown and have red outlines.]</Description>
     <ThumbnailUrl>https://data1.wwtassets.org/packages/2022/10_jwst/weic2216b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="328.0617509514105"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="200"
+    CenterY="-62.6"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="DECaPS2 riY Color Composite"
+    Projection="Toast"
+    QuadTreeMap=""
+    Rotation="0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="14"
+    Url="https://faun.rc.fas.harvard.edu/wwt/decaps2/rgb-riY/tiles/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>Andrew Saydjari, etc.</Credits>
+    <ThumbnailUrl>https://faun.rc.fas.harvard.edu/wwt/decaps2/rgb-riY/tiles/thumb.jpg</ThumbnailUrl>
   </ImageSet>
 </Folder>
