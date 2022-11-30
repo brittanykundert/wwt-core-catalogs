@@ -1733,6 +1733,17 @@ ra_hr: 13.497847795303802
 thumbnail: http://data1.wwtassets.org/packages/2021/02_sofia/m51_sofia/thumb.jpg
 zoom_level: 1.4146295530686432
 ---
+_uuid: 8ba8225a-fda0-4998-b0d4-29dcf6128c5a
+classification: ''
+constellation: CEN
+data_set_type: Sky
+dec_deg: -62.6
+foreground_image_set_url: http://data1.wwtassets.org/packages/2022/09_decaps2/{1}/{3}/{3}_{2}.png
+name: DECaPS2 grz Color Composite
+ra_hr: 13.333333
+thumbnail: http://data1.wwtassets.org/packages/2022/09_decaps2/thumb.jpg
+zoom_level: 360.0
+---
 _uuid: 53a1a2b0-0678-4a7c-ae78-b04985434e06
 angular_size: 1.0
 classification: PlanetaryNebula
@@ -4119,3 +4130,14 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Whirlpool Galaxy
 ra_hr: 13.497777777777777
 zoom_level: 4.0
+---
+_uuid: da114b98-f23b-4188-a641-5a4db8defe1e
+classification: ''
+constellation: CEN
+data_set_type: Sky
+dec_deg: -62.6
+foreground_image_set_url: https://faun.rc.fas.harvard.edu/wwt/decaps2/rgb-riY/tiles/{1}/{3}/{3}_{2}.png
+name: DECaPS2 riY Color Composite
+ra_hr: 13.333333
+thumbnail: https://faun.rc.fas.harvard.edu/wwt/decaps2/rgb-riY/tiles/thumb.jpg
+zoom_level: 360.0
