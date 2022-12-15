@@ -31150,6 +31150,143 @@ The smaller spiral galaxy to the upper left of Cartwheel displays much of the sa
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.06308722073443598"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="274.72680754588"
+    CenterY="-13.837672924447"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Pillars of Creation (MIRI Image)"
+    OffsetX="3.080430699923632e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="7.2512528874654265"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2022/10_jwst/weic2218a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. DePasquale (STScI), A. Pagan (STScI)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2218a/</CreditsUrl>
+    <Description>The NASA/ESA/CSA James Webb Space Telescope’s mid-infrared view of the Pillars of Creation strikes a chilling tone. Thousands of stars that exist in this region disappear from view — and seemingly endless layers of gas and dust become the centrepiece. The detection of dust by Webb’s Mid-Infrared Instrument (MIRI) is extremely important — dust is a major ingredient for star formation. Many stars are actively forming in these dense blue-grey pillars. When knots of gas and dust with sufficient mass form in these regions, they begin to collapse under their own gravitational attraction, slowly heat up, and eventually form new stars. Although the stars appear to be missing, they aren’t. Stars typically do not emit much mid-infrared light. Instead, they are easiest to detect in ultraviolet, visible, and near-infrared light. In this MIRI view, two types of stars can be identified. The stars at the end of the thick, dusty pillars have recently eroded most of the more distant material surrounding them but they can be seen in mid-infrared light because they are still surrounded by cloaks of dust. In contrast, blue tones indicate stars that are older and have shed most of their gas and dust. Mid-infrared light also details dense regions of gas and dust. The red region toward the top, which forms a delicate V shape, is where the dust is both diffuse and cooler. And although it may seem like the scene clears toward the bottom left of this view, the darkest grey areas are where densest and coolest regions of dust lie. Notice that there are many fewer stars and no background galaxies popping into view. Webb’s mid-infrared data will help researchers determine exactly how much dust is in this region — and what it’s made of. These details will make models of the Pillars of Creation far more precise. Over time, we will begin to understand more clearly how stars form and burst out of these dusty clouds over millions of years. Contrast this view with Webb’s near-infrared light image. MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) in partnership with JPL and the University of Arizona. [Image Description: Semi-opaque layers of blue and grey gas and dust start at the bottom left and rise toward the top right. There are three prominent pillars. The left pillar is the largest and widest. The peaks of the second and third pillars are set off in darker shades of blue outlines. Few red stars appear within the pillars. Some blue and white stars dot the overall scene.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/10_jwst/weic2218a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07116560783383168"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="69.9735428963379"
+    CenterY="26.0525918337753"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Protostar L1527"
+    OffsetX="4.34360399376414e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-100.565294599821"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2022/11_jwst/weic2219a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, STScI; J. DePasquale (STScI).</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2219a/</CreditsUrl>
+    <Description>The protostar L1527, shown in this image from the NASA/ESA/CSA James Webb Space Telescope, is embedded within a cloud of material that is feeding its growth. Material ejected from the star has cleared out cavities above and below it, whose boundaries glow orange and blue in this infrared view. The upper central region displays bubble-like shapes due to stellar ‘burps,’ or sporadic ejections. Webb also detects filaments made of molecular hydrogen that has been shocked by past stellar ejections. Intriguingly, the edges of the cavities at upper left and lower right appear straight, while the boundaries at upper right and lower left are curved. The region at lower right appears blue, as there’s less dust between it and Webb than the orange regions above it.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/11_jwst/weic2219a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.06816558058782149"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="274.72620867268"
+    CenterY="-13.84323693948"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Pillars of Creation (NIRCam and MIRI Composite Image)"
+    OffsetX="-0.0006908046016973673"
+    OffsetY="0.005624678604607549"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="7.309067603010065"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2022/12_jwst/pillarsofcreation_composite/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. DePasquale (STScI), A. Pagan (STScI), A. M. Koekemoer (STScI)</Credits>
+    <CreditsUrl>https://esawebb.org/images/pillarsofcreation_composite/</CreditsUrl>
+    <Description>By combining images of the iconic Pillars of Creation from two cameras aboard the NASA/ESA/CSA James Webb Space Telescope, the Universe has been framed in its infrared glory. Webb’s near-infrared image was fused with its mid-infrared image, setting this star-forming region ablaze with new details. Myriad stars are spread throughout the scene. The stars primarily show up in near-infrared light, marking a contribution of Webb’s Near-Infrared Camera (NIRCam). Near-infrared light also reveals thousands of newly formed stars – look for bright orange spheres that lie just outside the dusty pillars. In mid-infrared light, the dust is on full display. The contributions from Webb’s Mid-Infrared Instrument (MIRI) are most apparent in the layers of diffuse, orange dust that drape the top of the image, relaxing into a V. The densest regions of dust are cast in deep indigo hues, obscuring our view of the activities inside the dense pillars. Dust also makes up the spire-like pillars that extend from the bottom left to the top right. This is one of the reasons why the region is overflowing with stars – dust is a major ingredient of star formation. When knots of gas and dust with sufficient mass form in the pillars, they begin to collapse under their own gravitational attraction, slowly heat up, and eventually form new stars. Newly formed stars are especially apparent at the edges of the top two pillars – they are practically bursting onto the scene. At the top edge of the second pillar, undulating detail in red hints at even more embedded stars. These are even younger, and are quite active as they form. The lava-like regions capture their periodic ejections. As stars form, they periodically send out supersonic jets that can interact within clouds of material, like these thick pillars of gas and dust. These young stars are estimated to be only a few hundred thousand years old, and will continue to form for millions of years. Almost everything you see in this scene is local. The distant universe is largely blocked from our view both by the interstellar medium, which is made up of sparse gas and dust located between the stars, and a thick dust lane in our Milky Way galaxy. As a result, the stars take center stage in Webb’s view of the Pillars of Creation. The Pillars of Creation is a small region within the vast Eagle Nebula, which lies 6,500 light-years away. Revisit Webb’s near-infrared image and its its mid-infrared image. The Pillars of Creation was made famous by the NASA/ESA Hubble Space Telescope in 1995, and again in 2014. MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) in partnership with JPL and the University of Arizona. Webb’s NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center. [Image Description: Semi-opaque layers of blue, purple, and grey gas and dust start at the bottom left and rise toward the top right. There are three prominent pillars. The left pillar is the largest and widest. The background is orange near the top and dark blue and purple near the bottom. Some blue and white stars dot the overall scene.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/pillarsofcreation_composite/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.0682980483976978"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="151.75582898161"
+    CenterY="-40.43539161733"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Southern Ring Nebula’s Gas (NIRCam and MIRI Composite Compass Image)"
+    OffsetX="8.337164111047095e-06"
+    OffsetY="4.168582055523548e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.320000000000055"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2022/12_jwst/southernring2/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, STScI, O. De Marco (Macquarie University), J. DePasquale (STScI)</Credits>
+    <CreditsUrl>https://esawebb.org/images/southernring2/</CreditsUrl>
+    <Description>This is an image of the Southern Ring Nebula (NGC 3132), captured by the NASA/ESA/CSA James Webb Space Telescope’s Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI). The image combines near- and mid-infrared light from three filters. Webb’s image highlights the very hot gas that surrounds the central stars. This hot gas is banded by a sharp ring of cooler gas.By accounting for the temperatures and gas contents in both areas, inside and outside the band, and by combining Webb’s data with precise measurements from other observatories, scientists were able to create far more accurate models to demonstrate when gas was ejected by the central star (which appears red in this image). [Image Description: Webb’s view of the Southern Ring Nebula appears as a misshapen oval that is slightly angled from the top left to the bottom right. The image shows two stars that are almost overlapping at the center. A large almost solid white oval surrounds the central stars.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/southernring2/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.06830854974103871"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="151.75464952527"
+    CenterY="-40.437122998859"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Southern Ring Nebula’s Spokes (NIRCam and MIRI Composite Image)"
+    OffsetX="4.169223006655195e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.07999999999999444"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2022/12_jwst/southernring3/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, STScI, O. De Marco (Macquarie University), J. DePasquale (STScI)</Credits>
+    <CreditsUrl>https://esawebb.org/images/southernring3/</CreditsUrl>
+    <Description>This is an image of the Southern Ring Nebula (NGC 3132), captured by the NASA/ESA/CSA James Webb Space Telescope’s Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI). The  image combines near- and mid-infrared light from three filters. Webb’s image traces the star’s scattered outflows that have reached farther into the cosmos. Most of the molecular gas that lies outside the band of cooler gas is also cold. It is also far clumpier, consisting of dense knots of molecular gas that form a halo around the central stars. [Image Description: Webb’s view of the Southern Ring Nebula appears as a misshapen oval that is slightly angled from the top left to the bottom right. The image shows one star at the center. A large translucent pink-and-red irregular oval surrounds the central stars.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/southernring3/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"

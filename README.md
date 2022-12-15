@@ -167,7 +167,7 @@ catalog template file to include the newly-ingested imagery at its beginning.
 For instance, the command:
 
 ```sh
-./cattool.py ingest jwst_fgs_preview.wtml --prepend-to=catfiles/jwst.wtml
+./cattool.py ingest jwst_fgs_preview.wtml --prepend-to=catfiles/jwst.yml
 ```
 
 will take the new images and places defined in the file `jwst_fgs_preview.wtml`,

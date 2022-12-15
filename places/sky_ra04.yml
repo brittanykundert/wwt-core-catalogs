@@ -482,6 +482,17 @@ ra_hr: 4.2690017600605294
 thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1820b/thumb.jpg
 zoom_level: 0.5531953302390442
 ---
+_uuid: 8e7ce34e-58ae-4063-ac5d-f1d30214d183
+classification: ''
+constellation: TAU
+data_set_type: Sky
+dec_deg: 26.052591833775296
+foreground_image_set_url: http://data1.wwtassets.org/packages/2022/11_jwst/weic2219a/{1}/{3}/{3}_{2}.png
+name: Protostar L1527
+ra_hr: 4.66490285975586
+thumbnail: http://data1.wwtassets.org/packages/2022/11_jwst/weic2219a/thumb.jpg
+zoom_level: 0.39537568481158214
+---
 _uuid: db0b944b-82c3-4329-80ff-ee71eae981cf
 angular_size: 1.0
 classification: ClusterOfGalaxies
