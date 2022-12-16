@@ -1744,6 +1744,18 @@ ra_hr: 13.333333
 thumbnail: http://data1.wwtassets.org/packages/2022/09_decaps2/thumb.jpg
 zoom_level: 360.0
 ---
+_uuid: b514f6ca-d261-4ee2-a4c7-3657828ecc44
+angular_size: 0.15615272671294847
+classification: ''
+constellation: BOO
+data_set_type: Sky
+dec_deg: 25.677440831362
+foreground_image_set_url: http://data1.wwtassets.org/packages/2022/12_jwst/VV191a/{1}/{3}/{3}_{2}.png
+name: VV191
+ra_hr: 13.8061133738249
+thumbnail: http://data1.wwtassets.org/packages/2022/12_jwst/VV191a/thumb.jpg
+zoom_level: 0.15615272671294847
+---
 _uuid: 53a1a2b0-0678-4a7c-ae78-b04985434e06
 angular_size: 1.0
 classification: PlanetaryNebula

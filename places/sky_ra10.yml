@@ -1210,6 +1210,17 @@ ra_hr: 10.117059441311776
 thumbnail: http://data1.wwtassets.org/packages/2022/07_jwst/jwst_s_ring_nircam/thumb.jpg
 zoom_level: 0.3826336529248513
 ---
+_uuid: 812f0437-6b86-4b4e-9bcf-d5416da8a603
+classification: ''
+constellation: CAR
+data_set_type: Sky
+dec_deg: -58.62021596141634
+foreground_image_set_url: http://data1.wwtassets.org/packages/2022/12_jwst/carinanebula3/{1}/{3}/{3}_{2}.png
+name: Carina Nebula Jets (NIRCam Narrowband Filters)
+ra_hr: 10.614203116166777
+thumbnail: http://data1.wwtassets.org/packages/2022/12_jwst/carinanebula3/thumb.jpg
+zoom_level: 0.7191631631817641
+---
 _uuid: 82fa4d97-3f95-41fb-b2c2-b44629987d6e
 classification: ''
 constellation: VEL

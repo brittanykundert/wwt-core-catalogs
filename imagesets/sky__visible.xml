@@ -31204,6 +31204,111 @@ The smaller spiral galaxy to the upper left of Cartwheel displays much of the sa
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.01707680722735478"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="207.10015609540034"
+    CenterY="25.709937439922626"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="VV191"
+    OffsetX="-0.032679786679328866"
+    OffsetY="0.008190157861917843"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="117.00175777266347"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2022/12_jwst/VV191a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, W. Keel, R. Windhorst, and STScI</Credits>
+    <CreditsUrl>https://webbtelescope.org/contents/news-releases/2022/news-2022-503</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/VV191a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.06321355679061443"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="305.116570338564"
+    CenterY="43.8543972510305"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb Finds Star Duo Forms ‘Fingerprint’ in Space"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-86.4104744280926"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2022/12_jwst/WR140a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, STScI, JPL-Caltech</Credits>
+    <CreditsUrl>https://esawebb.org/images/WR140a/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/WR140a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.06321355679061443"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="305.116570338564"
+    CenterY="43.8543972510305"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb Finds Star Duo Forms ‘Fingerprint’ in Space"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-86.4104744280926"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2022/12_jwst/WWR140a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, STScI, JPL-Caltech</Credits>
+    <CreditsUrl>https://esawebb.org/images/WR140a/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/WWR140a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.13667456902612707"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="159.2130371378"
+    CenterY="-58.620219088972"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Carina Nebula Jets (NIRCam Narrowband Filters)"
+    OffsetX="4.170976837955489e-06"
+    OffsetY="4.170976837955538e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="102.97999999999995"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2022/12_jwst/carinanebula3/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, and STScI, J. DePasquale (STScI)</Credits>
+    <CreditsUrl>https://esawebb.org/images/carinanebula3/</CreditsUrl>
+    <Description>Scientists taking a “deep dive” into one of the iconic first images from the NASA/ESA/CSA James Webb Space Telescope have discovered dozens of energetic jets and outflows from young stars previously hidden by dust clouds. The discovery marks the beginning of a new era of investigating how stars like our Sun form, and how the radiation from nearby massive stars might affect the development of planets. Dozens of previously hidden jets and outflows from young stars are revealed in this new image from Webb’s Near-Infrared Camera (NIRCam). This image separates out several wavelengths of light from the First Image revealed on 12 July 2022, which highlights molecular hydrogen, a vital ingredient for star formation.  The Cosmic Cliffs, a region at the edge of a gigantic, gaseous cavity within the star cluster NGC 3324, has long intrigued astronomers as a hotbed for star formation. While well-studied by the NASA/ESA Hubble Space Telescope, many details of star formation in NGC 3324 remain hidden at visible-light wavelengths. Webb is perfectly primed to tease out these long-sought-after details since it is built to detect jets and outflows seen only in the infrared at high resolution. Webb’s capabilities also allow researchers to track the movement of other features previously captured by Hubble. Recently, by analyzing data from a specific wavelength of infrared light (4.7 microns), astronomers discovered two dozen previously unknown outflows from extremely young stars revealed by molecular hydrogen. Webb’s observations uncovered a gallery of objects ranging from small fountains to burbling behemoths that extend light-years from the forming stars. Many of these protostars are poised to become low mass stars, like our Sun. Molecular hydrogen is a vital ingredient for making new stars and an excellent tracer of the early stages of their formation. As young stars gather material from the gas and dust that surround them, most also eject a fraction of that material back out again from their polar regions in jets and outflows. These jets then act like a snowplow, bulldozing into the surrounding environment. Visible in Webb’s observations is the molecular hydrogen getting swept up and excited by these jets. Previous observations of jets and outflows looked mostly at nearby regions and more evolved objects that are already detectable in the visual wavelengths seen by Hubble. The unparalleled sensitivity of Webb allows observations of more distant regions, while its infrared optimization probes into the dust-sampling younger stages. Together this provides astronomers with an unprecedented view into environments that resemble the birthplace of our solar system. In analyzing the new Webb observations, astronomers are also gaining insights into how active these star-forming regions are, even in a relatively short time span. By comparing the position of previously known outflows in this region caught by Webb, to archival data by Hubble from 16 years ago, the scientists were able to track the speed and direction in which the jets are moving. This science was conducted on observations collected as part of Webb’s Early Release Observations Program. The paper was published in the Monthly Notices of the Royal Astronomical Society in December 2022.  In this image, red, green, and blue were assigned to Webb’s NIRCam data at 4.7, 4.44, and 1.87 microns (F470N, F444W, and F187N filters, respectively). [Image Description: The image is divided horizontally by an undulating line between a orange-burgundy cloudscape forming a nebula along the bottom portion and a comparatively blue upper portion. Speckled across both portions is a starfield, showing innumerable stars of many sizes.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/carinanebula3/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.06816558058782149"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -31229,6 +31334,116 @@ The smaller spiral galaxy to the upper left of Cartwheel displays much of the sa
     <CreditsUrl>https://esawebb.org/images/pillarsofcreation_composite/</CreditsUrl>
     <Description>By combining images of the iconic Pillars of Creation from two cameras aboard the NASA/ESA/CSA James Webb Space Telescope, the Universe has been framed in its infrared glory. Webb’s near-infrared image was fused with its mid-infrared image, setting this star-forming region ablaze with new details. Myriad stars are spread throughout the scene. The stars primarily show up in near-infrared light, marking a contribution of Webb’s Near-Infrared Camera (NIRCam). Near-infrared light also reveals thousands of newly formed stars – look for bright orange spheres that lie just outside the dusty pillars. In mid-infrared light, the dust is on full display. The contributions from Webb’s Mid-Infrared Instrument (MIRI) are most apparent in the layers of diffuse, orange dust that drape the top of the image, relaxing into a V. The densest regions of dust are cast in deep indigo hues, obscuring our view of the activities inside the dense pillars. Dust also makes up the spire-like pillars that extend from the bottom left to the top right. This is one of the reasons why the region is overflowing with stars – dust is a major ingredient of star formation. When knots of gas and dust with sufficient mass form in the pillars, they begin to collapse under their own gravitational attraction, slowly heat up, and eventually form new stars. Newly formed stars are especially apparent at the edges of the top two pillars – they are practically bursting onto the scene. At the top edge of the second pillar, undulating detail in red hints at even more embedded stars. These are even younger, and are quite active as they form. The lava-like regions capture their periodic ejections. As stars form, they periodically send out supersonic jets that can interact within clouds of material, like these thick pillars of gas and dust. These young stars are estimated to be only a few hundred thousand years old, and will continue to form for millions of years. Almost everything you see in this scene is local. The distant universe is largely blocked from our view both by the interstellar medium, which is made up of sparse gas and dust located between the stars, and a thick dust lane in our Milky Way galaxy. As a result, the stars take center stage in Webb’s view of the Pillars of Creation. The Pillars of Creation is a small region within the vast Eagle Nebula, which lies 6,500 light-years away. Revisit Webb’s near-infrared image and its its mid-infrared image. The Pillars of Creation was made famous by the NASA/ESA Hubble Space Telescope in 1995, and again in 2014. MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) in partnership with JPL and the University of Arizona. Webb’s NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center. [Image Description: Semi-opaque layers of blue, purple, and grey gas and dust start at the bottom left and rise toward the top right. There are three prominent pillars. The left pillar is the largest and widest. The background is orange near the top and dark blue and purple near the bottom. Some blue and white stars dot the overall scene.]</Description>
     <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/pillarsofcreation_composite/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.035790503042383646"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="16.94658656854"
+    CenterY="-17.505467863539"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb Explores a Pair of Merging Galaxies"
+    OffsetX="8.737915781831945e-06"
+    OffsetY="8.737915781831945e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-98.0999999999999"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2022/12_jwst/potm2210a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, L. Armus &amp; A. EvansAcknowledgement: R. Colombari</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2210a/</CreditsUrl>
+    <Description>This image from the NASA/ESA/CSA James Webb Space Telescope depicts IC 1623, an entwined pair of interacting galaxies which lies around 270 million light-years from Earth in the constellation Cetus. The two galaxies in IC 1623 are plunging headlong into one another in a process known as a galaxy merger. Their collision has ignited a frenzied spate of star formation known as a starburst, creating new stars at a rate more than twenty times that of the Milky Way galaxy. This interacting galaxy system is particularly bright at infrared wavelengths, making it a perfect proving ground for Webb’s ability to study luminous galaxies. A team of astronomers captured IC 1623 across the infrared portions of the electromagnetic spectrum using a trio of Webb’s cutting-edge scientific instruments: MIRI, NIRSpec, and NIRCam. In so doing, they provided an abundance of data that will allow the astronomical community at large to fully explore how Webb’s unprecedented capabilities will help to unravel the complex interactions in galactic ecosystems. These observations are also accompanied by data from other observatories, including the NASA/ESA Hubble Space Telescope, and will help set the stage for future observations of galactic systems with Webb. The merger of these two galaxies has long been of interest to astronomers, and has previously been imaged by Hubble and by other space telescopes. The ongoing, extreme starburst causes intense infrared emission, and the merging galaxies may well be in the process of forming a supermassive black hole. A thick band of dust has blocked these valuable insights from the view of telescopes like Hubble. However, Webb’s infrared sensitivity and its impressive resolution at those wavelengths allows it to see past the dust and has resulted in the spectacular image above, a combination of MIRI and NIRCam imagery. The luminous core of the galaxy merger turns out to be both very bright and highly compact, so much so that Webb’s diffraction spikes appear atop the galaxy in this image. The 8-pronged, snowflake-like diffraction spikes are created by the interaction of starlight with the physical structure of the telescope. The spiky quality of Webb’s observations is particularly noticeable in images containing bright stars, such as Webb’s first deep field image. MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) in partnership with JPL and the University of Arizona. NIRSpec was built for the European Space Agency (ESA) by a consortium of European companies led by Airbus Defence and Space (ADS) with NASA’s Goddard Space Flight Center providing its detector and micro-shutter subsystems. Results based on this observation of IC 1623 have been published in the Astrophysical Journal. [Image description: The two galaxies swirl into a single chaotic object in the centre. Long, blue spiral arms stretch vertically, faint at the edges. Hot gas spreads horizontally over that, mainly bright red with many small gold spots of star formation. The core of the merging galaxies is very bright and radiates eight large, golden diffraction spikes. The background is black, with many tiny galaxies in orange and blue.] Links  Image B Slider Tool Video: Webb’s Three Views of IC 1623 Video: Pan of IC 1623 Video: Hubble and Webb's Views of IC 1623 </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/potm2210a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.035794727319285055"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="16.946763227196"
+    CenterY="-17.505949721044"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Exploring a Pair of Merging Galaxies (Hubble Image)"
+    OffsetX="8.738947099434828e-06"
+    OffsetY="8.738947099434828e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-98.03999999999999"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2022/12_jwst/potm2210c/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>ESA/Hubble &amp; NASA, R. Chandar</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2210c/</CreditsUrl>
+    <Description>This image from the NASA/ESA Hubble Space Telescope depicts IC 1623, an entwined pair of interacting galaxies which lies around 270 million light-years from Earth in the constellation Cetus. The two galaxies in IC 1623 are plunging headlong into one another in a process known as a galaxy merger. Their collision has ignited a frenzied spate of star formation known as a starburst, creating new stars at a rate more than twenty times that of the Milky Way galaxy. This image, combines data from Hubble’s ACS and WFC3 instruments, gives a familiar visible-light view of these colliding galaxies, where the centres of the individual galaxies are more obscured by dark dust. [Image description: The two galaxies are close in the centre, the core of one above and slightly to the left of the other. Their cores are pale blue and their spiral arms, which merge together between and around the cores, are nebulous. On top of the centre of the merger, there are many small star-forming regions that glow pink, and dust that is very dark. The background is black with many faint galaxies.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/potm2210c/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.03498150361630076"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="314.35190779914"
+    CenterY="17.128052175987"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Galactic Get-Together (JWST)"
+    OffsetX="8.54040615632333e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="106.29999999999997"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2022/12_jwst/potm2211b/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, L. Armus, A. Evans; the Hubble Heritage Team (STScI/AURA)-ESA/Hubble Collaboration</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2211b/</CreditsUrl>
+    <Description>A merging galaxy pair cavort in this image captured by the NASA/ESA/CSA James Webb Space Telescope. This pair of galaxies, known to astronomers as II ZW 96, is roughly 500 million light-years from Earth and lies in the constellation Delphinus, close to the celestial equator. As well as the wild swirl of the merging galaxies, a menagerie of background galaxies are dotted throughout the image. [Image description: The galaxy merger lies in the centre. The cores of the galaxies, coloured blue, are below-centre. They are surrounded by red star-forming regions which stretch up through and above the centre. Faint yellow diffraction spikes appear in the middle. The lower galaxy is a mostly regular spiral shape, while the upper galaxy has been distorted heavily. The background is black, and covered with many tiny galaxies.] Links  Slider Tool Zoom Into II ZW 96 Pan of II ZW 96 Hubble and Webb Observe II ZW 96 </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/potm2211b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.034986812410900965"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="314.3519078993"
+    CenterY="17.128078112762"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Galactic Get-Together (HST)"
+    OffsetX="8.541702248755118e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="106.34000000000042"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2022/12_jwst/potm2211c/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, the Hubble Heritage Team (STScI/AURA)-ESA/Hubble Collaboration and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook University)</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2211c/</CreditsUrl>
+    <Description>This is an image of II ZW 96 released by the NASA/ESA Hubble Space Telescope in 2008 for the telescope’s 18th anniversary. Hubble provides a unique view of this bizarre galaxy merger in visible wavelengths. This version has been scaled to match the size and orientation of the new Webb image of II ZW 96. [Image description: Two galaxies are connected by dark blue spots of star formation. The galaxies are blue with faint red dust, and are heavily distorted from their spiral shapes. The background is black, and covered with many tiny galaxies.] Links  Slider Tool Zoom Into II ZW 96 Pan of II ZW 96 Hubble and Webb Observe II ZW 96 </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/potm2211c/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -31284,6 +31499,62 @@ The smaller spiral galaxy to the upper left of Cartwheel displays much of the sa
     <CreditsUrl>https://esawebb.org/images/southernring3/</CreditsUrl>
     <Description>This is an image of the Southern Ring Nebula (NGC 3132), captured by the NASA/ESA/CSA James Webb Space Telescope’s Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI). The  image combines near- and mid-infrared light from three filters. Webb’s image traces the star’s scattered outflows that have reached farther into the cosmos. Most of the molecular gas that lies outside the band of cooler gas is also cold. It is also far clumpier, consisting of dense knots of molecular gas that form a halo around the central stars. [Image Description: Webb’s view of the Southern Ring Nebula appears as a misshapen oval that is slightly angled from the top left to the bottom right. The image shows one star at the center. A large translucent pink-and-red irregular oval surrounds the central stars.]</Description>
     <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/southernring3/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.0017226651682747392"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="253.01110241849"
+    CenterY="17.481147379269"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb’s View of the Extremely Red Quasar SDSS J165202.64+172852.3"
+    OffsetX="8.4114510169665e-07"
+    OffsetY="8.4114510169665e-07"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="2"
+    Url="http://data1.wwtassets.org/packages/2022/12_jwst/weic2217b/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, D. Wylezalek, A. Vayner &amp; the Q3D Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2217b/</CreditsUrl>
+    <Description>The quasar SDSS J165202.64+172852.3 is depicted here by the NASA/ESA/CSA James Webb Space Telescope to demonstrate the distribution of gas around the object. The quasar is an “extremely red” quasar that exists in the very early Universe, 11.5 billion years ago. This image is composed of four narrow-band images made from the Webb NIRSpec instrument’s integral-field spectroscopy mode.  Each colour illustrates the relative speed of ionised oxygen gas across the cluster. The redder the colour the faster gas is moving away from our line of sight with the quasar, while the bluer the colour the faster it's moving away from the quasar toward us. The colour green indicates that the gas is steady in our line of light in comparison to the quasar. [Image Description: This visual shows a quasar composed of four narrow-band images together, which appears as a burred rainbow blotch of colours.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/weic2217b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.028498058739682464"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="253.01115464802"
+    CenterY="17.481110351219"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Wide Field Hubble View of the Extremely Red Quasar SDSS J165202.64+172852.3"
+    OffsetX="6.957533871992789e-06"
+    OffsetY="6.957533871992789e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="42.42000000000174"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2022/12_jwst/weic2217c/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>ESA/Hubble, NASA, N. Zakamska</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2217c/</CreditsUrl>
+    <Description>This field of view from the NASA/ESA Hubble Space Telescope is centred on the quasar SDSS J165202.64+172852.3. The quasar is an “extremely red” quasar that exists in the very early Universe, 11.5 billion years ago. [Image Description: This visual shows a wide field view of multiple galaxies in the field of view, centred on the quasar that is the focus of this study.]  </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/weic2217c/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
