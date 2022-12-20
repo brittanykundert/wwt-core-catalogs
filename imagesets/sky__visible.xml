@@ -31309,6 +31309,57 @@ The smaller spiral galaxy to the upper left of Cartwheel displays much of the sa
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.06824536859620761"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="53.1621659428654"
+    CenterY="-27.7914568690452"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Hubble Ultra Deep Field"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-46.49090886189481"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2022/12_jwst/hudf/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, and S. Beckwith (STScI) and the HUDF Team</Credits>
+    <CreditsUrl>https://esahubble.org/images/heic0611b/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/hudf/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.34147894398511347"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="53.1260707114957"
+    CenterY="-27.8221452460338"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="JWST Advanced Deep Extragalactic Survey (JADES)"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.027922751406999242"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2022/12_jwst/jades/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>IMAGE: NASA, ESA, CSA, M. Zamani (ESA/Webb)
+SCIENCE: Brant Robertson (UC Santa Cruz), S. Tacchella (Cambridge), E. Curtis-Lake (UOH), S. Carniani (Scuola Normale Superiore), JADES Collaboration</Credits>
+    <CreditsUrl>https://webbtelescope.org/contents/media/images/01GKT0RRJBP5ZMJRMCQNPT8SXP</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/jades/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.06816558058782149"
     BaseTileLevel="0"
     BottomsUp="False"
