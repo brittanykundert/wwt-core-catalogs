@@ -31498,6 +31498,34 @@ SCIENCE: Brant Robertson (UC Santa Cruz), S. Tacchella (Cambridge), E. Curtis-La
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.07129545237032119"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="345.81304112893"
+    CenterY="8.8747096544477"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="A Wreath of Star Formation in NGC 7469"
+    OffsetX="4.351529075337031e-06"
+    OffsetY="4.3515290753369864e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-117.92000000000012"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2022/12_jwst/potm2212a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, L. Armus, A. S. Evans</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2212a/</CreditsUrl>
+    <Description>This image is dominated by NGC 7469, a luminous, face-on spiral galaxy approximately 90 000 light-years in diameter that lies roughly 220 million light-years from Earth in the constellation Pegasus. Its companion galaxy IC 5283 is partly visible in the lower left portion of this image. This spiral galaxy has recently been studied as part of the Great Observatories All-sky LIRGs Survey (GOALS) Early Release Science program with the NASA/ESA/CSA James Webb Space Telescope, which aims to study the physics of star formation, black hole growth, and feedback in four nearby, merging luminous infrared galaxies. Other galaxies studied as part of the survey include previous ESA/Webb Pictures of the Month II ZW 096 and IC 1623. NGC 7469 is home to an active galactic nucleus (AGN), which is an extremely bright central region that is dominated by the light emitted by dust and gas as it falls into the galaxy’s central black hole. This galaxy provides astronomers with the unique opportunity to study the relationship between AGNs and starburst activity because this particular object hosts an AGN that is surrounded by a starburst ring at a distance of a mere 1500 light-years. While NGC 7469 is one of the best studied AGNs in the sky, the compact nature of this system and the presence of a great deal of dust have made it difficult for scientists to achieve both the resolution and sensitivity needed to study this relationship in the infrared. Now, with Webb, astronomers can explore the galaxy’s starburst ring, the central AGN, and the gas and dust in between. Using Webb’s MIRI, NIRCam and NIRspec instruments to obtain images and spectra of NGC 7469 in unprecedented detail, the GOALS team has uncovered a number of details about the object. This includes very young star-forming clusters never seen before, as well as pockets of very warm, turbulent molecular gas, and direct evidence for the destruction of small dust grains within a few hundred light-years of the nucleus — proving that the AGN is impacting the surrounding interstellar medium. Furthermore, highly ionised, diffuse atomic gas seems to be exiting the nucleus at roughly 6.4 million kilometres per hour — part of a galactic outflow that had previously been identified, but is now revealed in stunning detail with Webb. With analysis of the rich Webb datasets still underway, additional secrets of this local AGN and starburst laboratory are sure to be revealed. A prominent feature of this image is the striking six-pointed star that perfectly aligns with the heart of NGC 7469. Unlike the galaxy, this is not a real celestial object, but an imaging artifact known as a diffraction spike, caused by the bright, unresolved AGN. Diffraction spikes are patterns produced as light bends around the sharp edges of a telescope. Webb has three struts, with two angled at 150 degrees from its vertical strut, and its primary mirror is composed of hexagonal segments that each contain edges for light to diffract against. Webb’s struts are designed so that their diffraction spikes partially overlap with those created by the mirrors. Both of these lead to Webb’s complex star pattern. [Image Description: This image shows a spiral galaxy that is dominated by a bright central region. The galaxy has blue-purple hues with orange-red regions filled with stars. Also visible is large diffraction spike, which appears as a star pattern over the central region of the galaxy. Lots of stars and galaxies fill the background scene.] Links  Video: A Wreath of Star Formation in NGC 7469 </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/potm2212a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.0682980483976978"
     BaseTileLevel="0"
     BottomsUp="False"
