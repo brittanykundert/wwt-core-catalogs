@@ -31637,6 +31637,62 @@ SCIENCE: Brant Robertson (UC Santa Cruz), S. Tacchella (Cambridge), E. Curtis-La
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.14222403049616558"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="14.767984232243"
+    CenterY="-72.173804949103"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb Inspects NGC 346 (NIRCam Image)"
+    OffsetX="4.340332961919116e-06"
+    OffsetY="4.340332961919116e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="5.400000000000008"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2023/01_jwst/weic2301a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, STScI, A. Pagan (STScI)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2301a/</CreditsUrl>
+    <Description>This image features NGC 346, one of the most dynamic star-forming regions in nearby galaxies, as seen by the NASA/ESA/CSA James Webb Space Telescope. NCG 346 is located in the Small Magellanic Cloud (SMC), a dwarf galaxy close to our Milky Way.  [Image Description: A star forming region sweeps across the scene, dominated by hues of purple. Tones of yellow outline the region's irregular shape. Many bright stars dominate the scne, as well as countless smaller stars the scatter the image's background.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/01_jwst/weic2301a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.142193371360219"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="14.774293229699"
+    CenterY="-72.176228915642"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 346 (Hubble)"
+    OffsetX="4.339397319342621e-06"
+    OffsetY="4.339397319342621e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="5.460000000000051"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2023/01_jwst/weic2301c/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, A. James (STScI)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2301c/</CreditsUrl>
+    <Description>This image features NGC 346, one of the most dynamic star-forming regions in nearby galaxies, as seen by the NASA/ESA Hubble Space Telescope. NCG 346 is located in the Small Magellanic Cloud (SMC), a dwarf galaxy close to our Milky Way. </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/01_jwst/weic2301c/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"

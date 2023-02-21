@@ -1,5 +1,6 @@
 browseable: true
 children:
+- place 69a3f177-fb81-4411-812f-cd259d629a22
 - place 47be714e-2ac8-4e16-b7dd-a4ac6833d918
 - place 10d80f1d-05d8-4ea2-8436-0413625f515b
 - place cc042da4-b3d9-4c23-9df8-da92ade58307
@@ -37,8 +38,8 @@ children:
   - place 8243f8d6-252e-4f8e-a007-7c223371fc85
   - place d3b3c081-7363-475a-afd5-cbb61a4be2e5
   - place 87065422-99fc-40a0-8e43-f17bb4f52db2
-  - place dfae6e2f-cdaa-4f31-b79b-0f7e78bb3719 # Mosaic
-  - place e86f4367-4c53-4f0b-a811-9aee107d2d80 # Composite
+  - place dfae6e2f-cdaa-4f31-b79b-0f7e78bb3719
+  - place e86f4367-4c53-4f0b-a811-9aee107d2d80
   group: Explorer
   name: Supernova 1987A
   searchable: true
@@ -238,7 +239,6 @@ children:
   thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=galcolfdr
   type: Sky
 - place 64e2af0d-430a-42a2-b0ae-05e59b664912
-# Images from the `hubble` VAMP feed file:
 - place b65bffb4-a568-434c-a713-eb3af5bc7abd
 - place c27c4676-7561-4fe1-a7cf-91116ee8021d
 - place 07600192-4043-4e8f-9648-9188bf2bffa2
@@ -1247,7 +1247,6 @@ children:
 - place df09cfac-d70a-4dff-a1f6-07db852cf62c
 - place 032af27c-b1df-4f31-85e8-1276638b7a15
 - place 98ea5d76-9989-4eb2-bbca-be757378749c
-# Classic "Hubble studies":
 - place b0b1e513-56d9-438e-8966-382761b05d06
 - place ee95e791-c38f-45a8-923f-a071174b9239
 - place 18cfc141-ead2-45d4-b3ce-8f6a61fa312b
