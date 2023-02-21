@@ -31693,6 +31693,174 @@ SCIENCE: Brant Robertson (UC Santa Cruz), S. Tacchella (Cambridge), E. Curtis-La
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.13623528907742452"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="166.65077792374"
+    CenterY="-77.387144295341"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb’s View of the Molecular Cloud Chameleon I"
+    OffsetX="4.1575710778022815e-06"
+    OffsetY="4.157571077802262e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-23.2200000000002"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2023/01_jwst/weic2303a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, and M. Zamani (ESA/Webb); Science: F. Sun (Steward Observatory), Z. Smith (Open University), and the Ice Age ERS Team.</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2303a/</CreditsUrl>
+    <Description>This image by the NASA/ESA/CSA James Webb Space Telescope’s Near-InfraRed Camera (NIRCam) features the central region of the Chameleon I dark molecular cloud, which resides 630 light years away. The cold, wispy cloud material (blue, centre) is illuminated in the infrared by the glow of the young, outflowing protostar Ced 110 IRS 4 (orange, upper left). The light from numerous background stars, seen as orange dots behind the cloud, can be used to detect ices in the cloud, which absorb the starlight passing through them.  An international team of astronomers has reported the discovery of diverse ices in the darkest, coldest regions of a molecular cloud measured to date by studying this region. This result allows astronomers to examine the simple icy molecules that will be incorporated into future exoplanets, while opening a new window on the origin of more complex molecules that are the first step in the creation of the building blocks of life. [Image Description: A large, dark cloud is contained within the frame. In its top half it is textured like smoke and has wispy gaps, while at the bottom and at the sides it fades gradually out of view. On the left are several orange stars: three each with six large spikes, and one behind the cloud which colours it pale blue and orange. Many tiny stars are visible, and the background is black.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/01_jwst/weic2303a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07025052506372825"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="254.63714847868"
+    CenterY="34.275876142517"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="A Spiral Amongst Thousands"
+    OffsetX="4.2877517739092426e-06"
+    OffsetY="4.287751773909195e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-72.44000000000003"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2023/02_jwst/potm2301a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, A. Martel</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2301a/</CreditsUrl>
+    <Description>A crowded field of galaxies throngs this Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope, along with bright stars crowned with Webb’s signature six-pointed diffraction spikes. The large spiral galaxy at the base of this image is accompanied by a profusion of smaller, more distant galaxies which range from fully-fledged spirals to mere bright smudges. Named LEDA 2046648, it is situated a little over a billion light-years from Earth, in the constellation Hercules. One of Webb’s principle science goals is to observe distant galaxies in the early universe to understand the details of their formation, evolution, and composition. Webb’s keen infrared vision helps the telescope peer back in time, as the light from these distant galaxies is redshifted towards infrared wavelengths. Comparing these systems with galaxies in the local universe will help astronomers understand how galaxies grew to form the structure we see today. Webb will also probe the chemical composition of thousands of galaxies to shed light on how heavy elements were formed and built up as galaxies evolved. To take full advantage of Webb’s potential for galaxy archeology, astronomers and engineers must first calibrate the telescope’s instruments and systems. Each of Webb’s instruments contains a labyrinthine array of mirrors and other optical elements that redirect and focus starlight gathered by Webb’s main mirror. This particular observation was part of the commissioning campaign for Webb’s Near-InfraRed Imager and Slitless Spectrograph (NIRISS). As well as performing science in its own right, NIRISS supports parallel observations with Webb’s Near-InfraRed Camera (NIRCam). NIRCam captured this galaxy-studded image while NIRISS was observing the white dwarf WD1657+343, a well-studied star. This allows astronomers to interpret and compare data from the two different instruments, and to characterise the performance of NIRISS. [Image description: Many stars and galaxies lie on a dark background, in a variety of colours but mostly shades of orange. Some galaxies are large enough to make out spiral arms. Along the bottom of the frame is a large, detailed spiral galaxy seen at an oblique angle, with another galaxy about one-quarter the size just beneath it. Both have a brightly glowing core, and areas of star formation which light up their spiral arms.] Links  Wider view of LEDA 2046648 Pan of A Spiral Amongst Thousands Zoom of A Spiral Amongst Thousands </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/02_jwst/potm2301a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.1820245515960272"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="3.5761762484695"
+    CenterY="-30.379029389256"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb Uncovers New Details in Pandora’s Cluster"
+    OffsetX="2.777474236999893e-06"
+    OffsetY="2.777474236999927e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="42.359999999999644"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://data1.wwtassets.org/packages/2023/02_jwst/weic2305a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, I. Labbe (Swinburne University of Technology), R. Bezanson (University of Pittsburgh), A. Pagan (STScI)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2305a/</CreditsUrl>
+    <Description>Astronomers estimate 50 000 sources of near-infrared light are represented in this image from the NASA/ESA/CSA James Webb Space Telescope. Their light has travelled through various distances to reach the telescope’s detectors, representing the vastness of space in a single image. A foreground star in our own galaxy, to the right of the image centre, displays Webb’s distinctive diffraction spikes. Bright white sources surrounded by a hazy glow are the galaxies of Pandora’s Cluster, a conglomeration of already-massive clusters of galaxies coming together to form a mega cluster. The concentration of mass is so great that the fabric of spacetime is warped by gravity, creating a natural, super-magnifying glass called a 'gravitational lens' that astronomers can use to see very distant sources of light beyond the cluster that would otherwise be undetectable, even to Webb. These lensed sources appear red in the image, and often as elongated arcs distorted by the gravitational lens. Many of these are galaxies from the early universe, with their contents magnified and stretched out for astronomers to study. Other red sources in the image have yet to be confirmed by follow-up observations with Webb’s Near-Infrared Spectrograph (NIRSpec) instrument to determine their true nature. One intriguing example is an extremely compact source that appears as a tiny red dot, despite the magnifying effect of the gravitational lens. One possibility is that the dot is a supermassive black hole in the early universe. NIRSpec data will provide both distance measurements and compositional details of selected sources, providing a wealth of previously-inaccessible information about the universe and how it has evolved over time. [Image Description: A crowded galaxy field on a black background, with one large star dominating the image just right of center. Three areas are concentrated with larger white hazy blobs on the left, lower right, and upper right above the single star. Scattered between these areas are many smaller sources of light; some also have a hazy white glow, while many other are red or orange.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/02_jwst/weic2305a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.06306540975661606"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="55.507002596458"
+    CenterY="-47.221744268677"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1433 (MIRI Image)"
+    OffsetX="1.5396828553861344e-05"
+    OffsetY="1.5396828553861344e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-24.984107151824038"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2023/02_jwst/weic2306a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, and J. Lee (NOIRLab), A. Pagan (STScI)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2306a/</CreditsUrl>
+    <Description>This image taken by the NASA/ESA/CSA James Webb Space Telescope shows one of a total of 19 galaxies targeted for study by the Physics at High Angular resolution in Nearby Galaxies (PHANGS) collaboration. Nearby barred spiral galaxy NGC 1433 takes on a completely new look when observed by Webb’s Mid-Infrared Instrument (MIRI). NGC 1433’s spiral arms are littered with evidence of extremely young stars releasing energy and, in some cases, blowing out the gas and dust of the interstellar medium they plough into. Areas that once appeared dark and dim in optical imaging light up under Webb’s infrared eye, as clumps of dust and gas in the interstellar medium absorb the light from forming stars and emit it back out in the infrared. Webb’s image of NGC1433 is a dramatic display of the role that dynamic processes within the forming stars, dust, and gas play in the larger structure of an entire galaxy. At the centre of the galaxy, a tight, bright core featuring a unique double ring structure shines in exquisite detail, revealed by Webb’s extreme resolution. In this case, that double ring is actually tightly wrapped spiral arms that wind into an oval shape along the galaxy’s bar axis. NGC 1433 is classified as a Seyfert galaxy, a galaxy relatively close to Earth that has a bright, active core. The brightness and lack of dust in the MIRI image of NGC 1433 could hint at a recent merger or even collision with another galaxy.In the image of NGC 1433, blue, green, and red were assigned to Webb’s MIRI data at 7.7, 10 and 11.3, and 21 microns (the F770W, F1000W and F1130W, and F2100W filters, respectively). MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) and NASA’s Jet Propulsion Laboratory, in partnership with the University of Arizona.[Image Description: A large galaxy takes up the entirety of the image. The core is mostly bright white, but there are also swirling, detailed structures that resemble water circling a drain. There is white and light blue colored dust that emanates from the core’s center, but it is tightly contained to the core. The rings are wispy and highlight filaments of dust around cavernous black bubbles. The dust in the outer rings contains dots that are navy blue, pinkish, reddish, and white.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/02_jwst/weic2306a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.06308628446580553"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="347.44608216164"
+    CenterY="-43.428439114421"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 7496 (MIRI Image)"
+    OffsetX="1.5401924918409552e-05"
+    OffsetY="1.5401924918409552e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-83.40428171094023"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2023/02_jwst/weic2306c/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, and J. Lee (NOIRLab), A. Pagan (STScI)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2306c/</CreditsUrl>
+    <Description>Scientists are getting their first look with the NASA/ESA/CSA James Webb Space Telescope’s powerful resolution at how the formation of young stars influences the evolution of nearby galaxies. The spiral arms of NGC 7496, one of a total of 19 galaxies targeted for study by the Physics at High Angular resolution in Nearby Galaxies (PHANGS) collaboration, are filled with cavernous bubbles and shells overlapping one another in this image from Webb’s Mid-Infrared Instrument (MIRI). These filaments and hollow cavities are evidence of young stars releasing energy and, in some cases, blowing out the gas and dust of the interstellar medium they plough into. Until Webb’s high resolution at infrared wavelengths came along, stars at the earliest point of their lifecycle in nearby galaxies like NGC 7496 remained obscured by gas and dust. Webb’s specific wavelength coverage (7.7 and 11.3 microns), allows for the detection of polycyclic aromatic hydrocarbons, which play a critical role in the formation of stars and planets. In Webb’s MIRI image, these are mostly found within the main dust lanes in the spiral arms. In their analysis of the new data from Webb, scientists were able to identify nearly 60 new, undiscovered embedded cluster candidates in NGC 7496. These newly identified clusters could be among the youngest stars in the entire galaxy. At the centre of NGC 7496, a barred spiral galaxy, is an active galactic nucleus (AGN). An AGN is a supermassive black hole that is emitting jets and winds. The AGN glows brightly at the centre of this Webb image. Additionally, Webb’s extreme sensitivity also picks up various background galaxies,far distant from NGC 7496, which appear green or red in some instances. NGC 7496 lies over 24 million light-years away from Earth in the constellation Grus.In this image of NGC 7496, blue, green, and red were assigned to Webb’s MIRI data at 7.7, 10 and 11.3, and 21 microns (the F770W, F1000W and F1130W, and F2100W filters, respectively). MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) and NASA’s Jet Propulsion Laboratory, in partnership with the University of Arizona.[Image Description: A large galaxy takes up the entirety of the image. Six reddish diffraction spikes extend from the core. The spiral arms of the galaxy outstretch to the upper left and the lower right. The arms are wispy and highlight filaments of dust around cavernous black bubbles. That dust in the outer rings contains diffuse dots that are navy blue, pinkish, reddish, and white.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/02_jwst/weic2306c/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.06309334270734383"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="53.389087050916"
+    CenterY="-36.145999710599"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1365 (MIRI Image)"
+    OffsetX="1.5403648121910115e-05"
+    OffsetY="1.5403648121910115e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="175.50147865319926"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2023/02_jwst/weic2306e/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, and J. Lee (NOIRLab), A. Pagan (STScI)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2306e/</CreditsUrl>
+    <Description>Scientists are getting their first look with the NASA/ESA/CSA James Webb Space Telescope’s powerful resolution at how the formation of young stars influences the evolution of nearby galaxies. NGC 1365, observed here by Webb’s Mid-Infrared Instrument (MIRI) is one of a total of 19 galaxies targeted for study by the Physics at High Angular resolution in Nearby Galaxies (PHANGS) collaboration. As revealed by the MIRI observations of NGC 1365, clumps of dust and gas in the interstellar medium have absorbed the light from forming stars and emitted it back out in the infrared, lighting up an intricate network of cavernous bubbles and filamentary shells influenced by young stars releasing energy into the galaxy’s spiral arms. Webb’s exquisite resolution also picks up several extremely bright star clusters not far from the core and newly observed recently formed clusters along the outer edges of the spiral arms. Additionally, the Webb images provide insights into how the orbits of stars and gas vary depending on where they form, and how this results in the population of older clusters outside the inner star-formation ring. NGC 1365 is a double-barred spiral galaxy that lies about 56 million light-years away from Earth. It’s one of the largest galaxies currently known to astronomers, spanning twice the length of the Milky Way.In this image of NGC 1356, blue, green, and red were assigned to Webb’s MIRI data at 7.7, 10 and 11.3, and 21 microns (the F770W, F1000W and F1130W, and F2100W filters, respectively). MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) and NASA’s Jet Propulsion Laboratory, in partnership with the University of Arizona. [Image Description: A large spiral galaxy takes up the entirety of the image, with the lower right portion of the galaxy’s spiral arms extending out of frame. The core of the galaxy is just off center to the lower right of the image. The bright core is an elongated oval with narrow, diffuse arms extending a short way out each narrow end of the oval. The main spiral arm to the upper left of the core is waspy and highlights filaments of dust around cavernous black bubbles.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/02_jwst/weic2306e/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"
