@@ -1355,6 +1355,28 @@ ra_hr: 3.541738047433047
 thumbnail: http://data1.wwtassets.org/packages/2022/12_jwst/jades/thumb.jpg
 zoom_level: 2.506868958509465
 ---
+_uuid: 388140fa-b17c-488a-9e35-f23902b43191
+classification: ''
+constellation: HOR
+data_set_type: Sky
+dec_deg: -47.22173681571307
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/02_jwst/weic2306a/{1}/{3}/{3}_{2}.png
+name: NGC 1433 (MIRI Image)
+ra_hr: 3.7004648314896427
+thumbnail: http://data1.wwtassets.org/packages/2023/02_jwst/weic2306a/thumb.jpg
+zoom_level: 0.42277227716334626
+---
+_uuid: 67e85c95-e23a-4513-b073-07547d75e1ea
+classification: ''
+constellation: FOR
+data_set_type: Sky
+dec_deg: -36.14601385863224
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/02_jwst/weic2306e/{1}/{3}/{3}_{2}.png
+name: NGC 1365 (MIRI Image)
+ra_hr: 3.5592738375754274
+thumbnail: http://data1.wwtassets.org/packages/2023/02_jwst/weic2306e/thumb.jpg
+zoom_level: 0.42201682832559584
+---
 _uuid: d82f4bbb-3dfb-484c-896f-af88eca90de8
 angular_size: 1.0
 classification: ClusterOfGalaxies
