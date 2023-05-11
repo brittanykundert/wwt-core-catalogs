@@ -32057,6 +32057,41 @@ SCIENCE: Brant Robertson (UC Santa Cruz), S. Tacchella (Cambridge), E. Curtis-La
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.14053716169795416"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="259.278646296364"
+    CenterY="43.1361352757562"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb Observes a Globular Cluster Sparkling with Separate Stars"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="170.23254766735707"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2023/05_jwst/m92a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, A. Pagan (STScI)</Credits>
+    <CreditsUrl>https://esawebb.org/images/m92a/</CreditsUrl>
+    <Description>On 20 June 2022, the NASA/ESA/CSA James Webb Space Telescope spent just over one hour observing Messier 92 (M92), a globular cluster 27,000 light-years away in the Milky Way halo. The observation – among the very first science observations undertaken by Webb – is part of Early Release Science (ERS) program 1334, one of 13 ERS programs designed to help astronomers understand how to use Webb and make the most of its scientific capabilities.
+
+This image of the globular cluster M92 was captured by Webb’s NIRCam instrument. Globular clusters are dense masses of tightly packed stars that all formed around the same time. In M92, there are about 300,000 stars packed into a ball about 100 light-years across. The night sky of a planet in the middle of M92 would shine with thousands of stars that appear thousands of times brighter than those in our own sky. The image shows stars at different distances from the center, which helps astronomers understand the motion of stars in the cluster, and the physics of that motion.
+
+The black strip in the center is a chip gap, the result of the separation between two long-wavelength detectors of Webb's NIRCam instrument. The gap covers the dense center of the cluster, which is too bright to capture at the same time as the fainter, less dense outskirts of the cluster. 
+
+This image is a composite of four exposures using four different filters: F090W (0.9 microns in wavelength) is shown in blue; F150W (1.5 microns) in cyan; F277W (2.77 microns) in yellow; and F444W (4.44 microns) in red. The image is about 5 arcminutes (39 light-years) across. 
+
+
+[Image Description: A rectangular image oriented horizontally appears to be two separate square images with a wide black gap in between. Both squares are filled with blue, white, yellow, and red points of light of different size and brightness, most of which are stars. Altogether, the stars appear to form a loose ball-like shape whose core is obscured by the gap in the middle of the image.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/05_jwst/m92a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.03014814820619223"
     BaseTileLevel="0"
     BottomsUp="False"
