@@ -1068,6 +1068,28 @@ ra_hr: 19.39314183485091
 thumbnail: http://data1.wwtassets.org/packages/2021/02_sofia/w51a_sofia/thumb.jpg
 zoom_level: 2.407204814395309
 ---
+_uuid: 790db390-416e-4771-96d6-91d41f695f21
+classification: ''
+constellation: SGE
+data_set_type: Sky
+dec_deg: 16.859781805244637
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/04_jwst/weic2307d/{1}/{3}/{3}_{2}.png
+name: Wolf-Rayet 124 (NIRCam and MIRI composite image)
+ra_hr: 19.191915772182696
+thumbnail: http://data1.wwtassets.org/packages/2023/04_jwst/weic2307d/thumb.jpg
+zoom_level: 0.3151495760649247
+---
+_uuid: c597f5c1-f073-42a5-95c5-77e644bb2c3a
+classification: ''
+constellation: SGE
+data_set_type: Sky
+dec_deg: 16.859781805244637
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/04_jwst/weic2307e/{1}/{3}/{3}_{2}.png
+name: Wolf-Rayet 124 (MIRI image)
+ra_hr: 19.191915772182696
+thumbnail: http://data1.wwtassets.org/packages/2023/04_jwst/weic2307e/thumb.jpg
+zoom_level: 0.3151495760649247
+---
 _uuid: 1be15b0f-4cf0-4142-9401-3b86b645508d
 angular_size: 1.0
 classification: Galaxy

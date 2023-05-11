@@ -476,6 +476,17 @@ ra_hr: 21.59323208602662
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noao1507a/thumb.jpg
 zoom_level: 5.097710422659366
 ---
+_uuid: 0de2676b-daa7-49ee-9a1f-44ad5853eb4c
+classification: ''
+constellation: AQR
+data_set_type: Sky
+dec_deg: 0.09203866997609902
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/04_jwst/potm2302a/{1}/{3}/{3}_{2}.png
+name: Seeing Triple
+ra_hr: 21.49386456100759
+thumbnail: http://data1.wwtassets.org/packages/2023/04_jwst/potm2302a/thumb.jpg
+zoom_level: 0.3060937002372439
+---
 _uuid: 2dd3dc6f-7888-405a-9b04-65119ae07c14
 angular_size: 1.0
 classification: Nebula

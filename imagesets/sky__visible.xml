@@ -31861,6 +31861,225 @@ SCIENCE: Brant Robertson (UC Santa Cruz), S. Tacchella (Cambridge), E. Curtis-La
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.03498277207948254"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="233.73856509447"
+    CenterY="23.50290395524"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb captures the spectacular galactic merger Arp 220"
+    OffsetX="4.270357919858709e-06"
+    OffsetY="4.270357919858709e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="41.52123615045603"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2023/04_jwst/arp220a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, K. Pontoppidan (STScI), A. Pagan (STScI)</Credits>
+    <CreditsUrl>https://esawebb.org/images/arp220a/</CreditsUrl>
+    <Description>Shining like a brilliant beacon amidst a sea of galaxies, Arp 220 lights up the night sky in this view from the NASA/ESA/CSA James Webb Space Telescope. Actually two spiral galaxies in the process of merging, Arp 220 glows brightest in infrared light, making it an ideal target for Webb. It is an ultra-luminous infrared galaxy (ULIRG) with a luminosity of more than a trillion suns. In comparison, our Milky Way galaxy has a much more modest luminosity of about ten billion suns. Located 250 million light-years away in the constellation of Serpens, the Serpent, Arp 220 is the 220th object in Halton Arp’s Atlas of Peculiar Galaxies. It is the nearest ULIRG and the brightest of the three galactic mergers closest to Earth. The collision of the two spiral galaxies began about 700 million years ago. It sparked an enormous burst of star formation. About 200 huge star clusters reside in a packed, dusty region about 5,000 light-years across (about 5 percent of the Milky Way’s diameter). The amount of gas in this tiny region is equal to all of the gas in the entire Milky Way galaxy. Previous radio telescope observations revealed about 100 supernova remnants in an area of less than 500 light-years. The NASA/ESA Hubble Space Telescope uncovered the cores of the parent galaxies 1,200 light-years apart. Each of the cores has a rotating, star-forming ring blasting out the dazzling infrared light so apparent in this Webb view. This glaring light creates diffraction spikes — the starburst feature that dominates this image. On the outskirts of this merger, Webb reveals faint tidal tails, or material drawn off the galaxies by gravity, represented in blue — evidence of the galactic dance that is occurring. Organic material represented in reddish-orange appears in streams and filaments across Arp 220. Webb viewed Arp 220 with its Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI). [Image description: Dominating the image is an object that appears to be a brilliant, 6-pointed, orange star surrounded by wisps of orange gas and bluish purple nebulosity. In reality it is two colliding galaxies with merging cores. The brilliant light from the star-formation surrounding these cores creates diffraction spikes.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/04_jwst/arp220a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07021858159135211"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="322.40796365069"
+    CenterY="0.09204241651091"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Seeing Triple"
+    OffsetX="4.285802099081544e-06"
+    OffsetY="4.28580209908155e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="173.18000000000004"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2023/04_jwst/potm2302a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, P. Kelly </Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2302a/</CreditsUrl>
+    <Description>This observation from the NASA/ESA/CSA James Webb Space Telescope features the massive galaxy cluster RX J2129. Due to Gravitational lensing, this observation contains three different images of the same supernova-hosting galaxy, which you can see in closer detail here. Gravitational lensing occurs when a massive celestial body causes a sufficient curvature of spacetime to bend the path of light travelling past or through it, almost like a vast lens. In this case, the lens is the galaxy cluster RX J2129, located around 3.2 billion light-years from Earth in the constellation Aquarius. Gravitational lensing can cause background objects to appear strangely distorted, as can be seen by the concentric arcs of light in the upper right of this image. Astronomers discovered the supernova in the triply-lensed background galaxy using observations from the NASA/ESA Hubble Space Telescope, and they suspected that they had found a very distant Type Ia supernova. These supernovae always produce a fairly consistent luminosity — at the same distance, one looks as bright as any other — which makes them particularly helpful to astronomers. As their distance from Earth is proportional to how dim they appear in the night sky, objects with known brightness can be used as 'standard candles' to measure astronomical distances.  The almost uniform luminosity of a Type Ia supernova could also allow astronomers to understand how strongly the galaxy cluster RX J2129 is magnifying background objects, and therefore how massive the galaxy cluster is. As well as distorting the images of background objects, gravitational lenses can cause distant objects to appear much brighter than they would otherwise. If the gravitational lens magnifies something with a known brightness, such as a Type Ia supernova, then astronomers can use this to measure the ‘prescription’ of the gravitational lens.  This observation was captured by Webb's Near-InfraRed Camera to measure the brightness of the lensed supernova. As part of the same programme, NIRSpec spectroscopy of the supernova was also obtained, which will allow comparison of this distant supernova to Type Ia supernovae in the nearby Universe. This is an important way to verify that one of astronomers’ tried-and-tested methods of measuring vast distances works as expected. [Image description: Stars and galaxies, mostly reddish in colour, are scattered across a dark background. In the foreground upper-right corner, a large elliptical galaxy is surrounded by many smaller similar galaxies in a cluster. These galaxies have bright centres and a diffuse white glow around them. The large galaxy has distorted images and arcs around it.] Links  Seeing Triple (Annotated) Pan of Seeing Triple Zoom of Seeing Triple </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/04_jwst/potm2302a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07137146194805095"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="186.70368885873"
+    CenterY="21.83312231124"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Cosmic Seahorse"
+    OffsetX="4.356168331790219e-06"
+    OffsetY="4.356168331790219e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-154.16000000000022"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2023/04_jwst/potm2303a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, J. Rigby</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2303a/</CreditsUrl>
+    <Description>Streaks of light and bright arcs betray the presence of a vast gravitational lens in this image from the NASA/ESA/CSA James Webb Space Telescope. A galaxy cluster in the foreground has magnified distant galaxies, warping their shapes and creating the bright smears of light spread throughout this image. This effect, referred to by astronomers as gravitational lensing, occurs when a massive celestial object such as a galaxy cluster causes a sufficient curvature of spacetime for light to be visibly bent around it, as if by a gargantuan lens. One of the consequential effects of gravitational lensing is that it can magnify distant astronomical objects, letting astronomers study objects that would otherwise be too faint or far away. This useful quirk of gravitational lensing has also been used to reveal some of the most distant galaxies humanity has ever encountered. The long, bright, and distorted arc spreading out near the core is one such example. A distant galaxy known as the Cosmic Seahorse, its brightness is greatly magnified by the gravitational lens, which has enabled astronomers to study star formation there. This image was captured by NIRCam, Webb’s primary near-infrared camera, and contains the lensing galaxy cluster SDSS J1226+2149. It lies at a distance of around 6.3 billion light-years from Earth, in the constellation Coma Berenices. By combining Webb’s sensitivity with the magnifying effect of gravitational lensing, astronomers were able to use this gravitational lens to explore the earliest stages of star formation in distant galaxies. To do so, they relied on earlier studies by the NASA/ESA Hubble Space Telescope, which provided the ‘prescription’ for this gravitational lens.  This image shows only one observation from a programme designed to probe star formation in distant galaxies. As well as revealing how quickly stars form and characterising the environments in these galaxies that gave rise to new stars, these observations will demonstrate the capabilities of Webb and provide richly detailed datasets to the astronomical community. Astronomers expect Webb’s crystal-clear vision and cutting-edge instruments to provide new insights into star formation in distant, gravitationally lensed galaxies. [Image description: Many small galaxies are scattered on a black background: mainly, white, oval-shaped and red, spiral galaxies. To the lower right is a galaxy cluster, with a very large and bright elliptical galaxy at its centre. Thin, reddish, stretched-out arcs surround it. One arc is thick and much brighter. Another red galaxy is large and warped, just next to the cluster core.] Links  Pan of the cosmic seahorse Zoom into the cosmic seahorse </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/04_jwst/potm2303a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.13645475096403015"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="53.143482604572"
+    CenterY="-27.801905874801"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb observes the Hubble Ultra Deep Field"
+    OffsetX="4.164268523072209e-06"
+    OffsetY="4.164268523072209e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-52.195900033261694"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2023/04_jwst/udf-a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, J. DePasquale (STScI).</Credits>
+    <CreditsUrl>https://esawebb.org/images/udf-a/</CreditsUrl>
+    <Description>On 11 October 2022, the NASA/ESA/CSA James Webb Space Telescope spent over 20 hours observing the long-studied Ultra Deep Field of the NASA/ESA Hubble Space Telescope for the first time. The general observer program (GO 1963) focused on analysing the field in wavelengths between approximately 2 and 4 microns. This image was taken by the Near Infrared Camera (NIRCam).  The Webb image observes the field at depths comparable to Hubble – revealing galaxies of similar faintness – in just one-tenth as much observing time. It includes 1.8-micron light shown in blue, 2.1-micron light shown in green, 4.3-micron light shown in yellow, 4.6-micron light shown in orange, and 4.8-micron light shown in red (filters F182M, F210M, F430M, F460M, and F480M). Note: This post highlights data from Webb science in progress, which has not yet been through the peer-review process.  [Image Description: Two images are shown side-by-side of the same field of galaxies. Both images contain thousands of galaxies in various sizes, shapes, and colours.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/04_jwst/udf-a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.06833379195580462"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="287.87873705558"
+    CenterY="16.859775924278"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Wolf-Rayet 124 (NIRCam and MIRI composite image)"
+    OffsetX="4.170763669177528e-06"
+    OffsetY="4.170763669177528e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="40.599999999999916"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2023/04_jwst/weic2307d/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits> NASA, ESA, CSA, STScI, Webb ERO Production Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2307d/</CreditsUrl>
+    <Description>The luminous, hot star Wolf-Rayet 124 (WR 124) is prominent at the centre of the NASA/ESA/CSA James Webb Space Telescope’s composite image combining near-infrared and mid-infrared wavelengths of light. The star displays the characteristic diffraction spikes of Webb’s Near-infrared Camera (NIRCam), caused by the physical structure of the telescope itself. NIRCam effectively balances the brightness of the star with the fainter gas and dust surrounding it, while Webb’s Mid-Infrared Instrument (MIRI) reveals the nebula’s structure. Background stars and galaxies populate the field of view and peek through the nebula of gas and dust that has been ejected from the ageing massive star. A history of the star’s past episodes of mass loss can be read in the nebula’s structure. Rather than smooth shells, the nebula is formed from random, asymmetric ejections. Bright clumps of gas and dust appear like tadpoles swimming toward the star, their tails streaming out behind them, blown back by the stellar wind.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/04_jwst/weic2307d/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.06833379195580462"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="287.87873705558"
+    CenterY="16.859775924278"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Wolf-Rayet 124 (MIRI image)"
+    OffsetX="4.170763669177528e-06"
+    OffsetY="4.170763669177528e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="40.599999999999916"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2023/04_jwst/weic2307e/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, STScI, Webb ERO Production Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2307e/</CreditsUrl>
+    <Description>Wolf-Rayet stars are known to be efficient dust producers, and the Mid-Infrared Instrument (MIRI) on the NASA/ESA/CSA James Webb Space Telescope shows this to great effect. Cooler cosmic dust glows at the longer mid-infrared wavelengths, displaying the structure of WR 124’s nebula. The nebula is made of material cast off from the ageing star in random ejections, and from dust produced in the ensuing turbulence. This brilliant stage of mass loss precedes the star’s eventual supernova, when nuclear fusion in its core stops and the pressure of gravity causes it to collapse in on itself, and then explode. As MIRI demonstrates here, Webb will help astronomers to explore questions that were previously only available to theory, questions like how much dust stars like this create before exploding in a supernova, and how much of that dust is large enough to survive the blast and go on to serve as a building block of future stars and planets.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/04_jwst/weic2307e/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.12616049563360995"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="350.85818239674"
+    CenterY="58.818151835176"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Cassiopeia A (MIRI Image)"
+    OffsetX="1.5400451127149653e-05"
+    OffsetY="1.5400451127149653e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.49560015498212134"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2023/04_jwst/weic2311a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>NASA, ESA, CSA, D. Milisavljevic (Purdue University), T. Temim (Princeton University), I. De Looze (UGent), J. DePasquale (STScI)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2311a/</CreditsUrl>
+    <Description>Cassiopeia A (Cas A) is a supernova remnant located about 11,000 light-years from Earth in the constellation Cassiopeia. It spans approximately 10 light-years. This new image uses data from Webb’s Mid-Infrared Instrument (MIRI) to reveal Cas A in a new light. On the remnant’s exterior, particularly at the top and left, lie curtains of material appearing orange and red due to emission from warm dust. This marks where ejected material from the exploded star is ramming into surrounding circumstellar material.  Interior to this outer shell lie mottled filaments of bright pink studded with clumps and knots. This represents material from the star itself, and likely shines due to a mix of various heavy elements and dust emission. The stellar material can also be seen as fainter wisps near the cavity’s interior. A loop represented in green extends across the right side of the central cavity. Its shape and complexity are unexpected and challenging for scientists to understand. This image combines various filters with the colour red assigned to 25.5 microns (F2550W), orange-red to 21 microns (F2100W), orange to 18 microns (F1800W), yellow to 12.8 microns (F1280W), green to 11.3 microns (F1130W), cyan to 10 microns (F1000W), light blue to 7.7 microns (F770W), and blue to 5.6 microns (F560W). The data comes from the general observer program 1947. [Image description: A roughly square image is rotated clockwise about 45 degrees. Within the image is a circular-shaped nebula with complex structure. On the circle’s exterior lie curtains of material glowing orange. Interior to this outer shell lies a ring of mottled filaments of bright pink studded with clumps and knots. At center right, a greenish loop extends from the right side of the ring into the central cavity. Translucent wisps of blue, green, and red appear throughout the image.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/04_jwst/weic2311a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.14053716169795416"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="259.278646296364"
+    CenterY="43.1361352757562"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb Observes a Globular Cluster Sparkling with Separate Stars"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="170.23254766735707"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2023/0_jwst/m92a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/0_jwst/m92a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"

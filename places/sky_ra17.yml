@@ -1476,6 +1476,17 @@ ra_hr: 17.92733512725823
 thumbnail: http://data1.wwtassets.org/packages/2022/03_jwst_taei/thumb.jpg
 zoom_level: 0.5
 ---
+_uuid: 1fbd85a1-e5e9-4274-a446-6f7a52ba68dc
+classification: ''
+constellation: HER
+data_set_type: Sky
+dec_deg: 43.1361352757562
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/0_jwst/m92a/{1}/{3}/{3}_{2}.png
+name: Webb Observes a Globular Cluster Sparkling with Separate Stars
+ra_hr: 17.285243086424266
+thumbnail: http://data1.wwtassets.org/packages/2023/0_jwst/m92a/thumb.jpg
+zoom_level: 0.3843550698034026
+---
 _uuid: b8aa745a-f65b-4948-b3c1-4965d00a6012
 angular_size: 1.0
 classification: Galaxy
