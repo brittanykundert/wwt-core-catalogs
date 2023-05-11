@@ -1377,6 +1377,17 @@ ra_hr: 3.5592738375754274
 thumbnail: http://data1.wwtassets.org/packages/2023/02_jwst/weic2306e/thumb.jpg
 zoom_level: 0.42201682832559584
 ---
+_uuid: 4dd131f6-640d-4b7d-ac26-4e3c310bc751
+classification: ''
+constellation: FOR
+data_set_type: Sky
+dec_deg: -27.801906612490846
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/04_jwst/udf-a/{1}/{3}/{3}_{2}.png
+name: Webb observes the Hubble Ultra Deep Field
+ra_hr: 3.5428983999544954
+thumbnail: http://data1.wwtassets.org/packages/2023/04_jwst/udf-a/thumb.jpg
+zoom_level: 0.420168031148349
+---
 _uuid: d82f4bbb-3dfb-484c-896f-af88eca90de8
 angular_size: 1.0
 classification: ClusterOfGalaxies

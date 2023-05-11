@@ -802,6 +802,17 @@ ra_hr: 22.6001036467436
 thumbnail: http://data1.wwtassets.org/packages/2022/07_jwst/weic2208b/thumb.jpg
 zoom_level: 1.031446312671409
 ---
+_uuid: da146687-f7c9-44f5-8729-80550e6566ed
+classification: ''
+constellation: PSA
+data_set_type: Sky
+dec_deg: -29.6222778872815
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/05_jwst/weic2312a/{1}/{3}/{3}_{2}.png
+name: Webb inspects dusty debris disc around Fomalhaut
+ra_hr: 22.96084231408127
+thumbnail: http://data1.wwtassets.org/packages/2023/05_jwst/weic2312a/thumb.jpg
+zoom_level: 0.14669841608104886
+---
 _uuid: 73938bf4-fdcc-4740-9c6a-9825bf3a5550
 angular_size: 1.0
 classification: Star
