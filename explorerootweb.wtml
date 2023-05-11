@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder
+  Browseable="True"
+  Group="Explorer"
+  Name="Collections"
+  Searchable="True"
+>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="Constellations"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=constellations"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=constellations"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="Solar System (Sky)"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=solarsystem"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=solarsystemsky"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="All-Sky Surveys"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=aitoff"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=surveys"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="External (HiPS) Surveys"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=aitoff"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=hips"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="JWST"
+    Searchable="True"
+    Thumbnail="http://cdn.worldwidetelescope.org/thumbnails/jwst.jpg"
+    Type="Sky"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=jwst"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="Spitzer Studies"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=spitzer"
+    Type="Sky"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=studiesspitzer"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="Chandra Studies"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=chandra"
+    Type="Sky"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=studieschandra"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="Hubble Studies"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=hubble"
+    Type="Sky"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=studieshubble"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="Astrophotography"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=egastrophoto"
+    Type="Sky"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=astrophoto"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="Radio Studies"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=radiostudies"
+    Type="Sky"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=studiesradio"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="NOIRLab Studies"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=noao"
+    Type="Sky"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=studiesnoao"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="ESO Studies"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=eso"
+    Type="Sky"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=eso"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="Gemini Studies"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=geminiobservatory"
+    Type="Sky"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=geministudies"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="WISE Studies"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wise"
+    Type="Sky"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=wise"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="SOFIA Studies"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=nasa_sofia"
+    Type="Sky"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=collection_sofia"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="Messier Catalog"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=messier"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=messier"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="Planets/Moons"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=solarsystem"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=solarsystemsphere"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="Earth"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=earthhybrid"
+    Type="Planet"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=earth"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="Mars"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mars"
+    Type="Planet"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=marsroot"
+  ></Folder>
+  <Folder
+    Browseable="True"
+    Group="Explorer"
+    Name="Panoramas"
+    Searchable="True"
+    Thumbnail="http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=jsc2007e045376"
+    Url="http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=panos"
+  ></Folder>
+</Folder>
