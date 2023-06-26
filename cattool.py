@@ -933,6 +933,81 @@ def do_ingest(settings):
         write_one_yaml(settings.prepend_to, existing)
 
 
+# partition - assist with partitioning the imagesets into topical categories
+
+
+def do_partition(settings):
+    idb = ImagesetDatabase()
+
+    # Load up the existing file
+
+    partitioned = {}
+
+    with open(settings.path, "rt") as f:
+        for line in f:
+            pieces = line.strip().split(None, 2)
+            url, tag = pieces[:2]
+
+            if len(pieces) > 2:
+                rest = pieces[2]
+            else:
+                rest = ""
+
+            partitioned[url] = (tag, rest)
+
+    # Load up the database and fill in anything missing
+
+    n_new = 0
+
+    for url, imgset in idb.by_url.items():
+        if imgset.data_set_type != DataSetType.SKY:
+            continue
+        if not url.strip():
+            continue
+        if "tdf" in imgset.file_type:
+            continue  # tiled catalog
+
+        tup = partitioned.get(url)
+
+        if tup is not None:
+            tag, desc = tup
+        else:
+            n_new += 1
+            tag = "UNASSIGNED"
+            desc = ""
+
+        if not desc:
+            desc = f"{imgset.name} / {imgset.credits_url}"
+
+        partitioned[url] = (tag, desc)
+
+    # Summarize
+
+    counts = {}
+    n_total = 0
+
+    for url, (tag, _name) in partitioned.items():
+        counts[tag] = counts.get(tag, 0) + 1
+        n_total += 1
+
+    print("Categories:\n")
+
+    for tag, count in sorted(counts.items(), key=lambda t: t[1]):
+        print(f"{tag:16} {count:4}")
+
+    print(f"\nTotal: {n_total}")
+    print(f"Added {n_new} new imagesets")
+
+    # Rewrite in canonical format
+
+    with open(settings.path, "wt") as f:
+        for url, (tag, name) in sorted(partitioned.items()):
+            if name:
+                print(f"{url}  {tag}  {name}", file=f)
+            else:
+                print(f"{url}  {tag}", file=f)
+
+
 # prettify - generic XML prettification
 
 
@@ -1216,6 +1291,13 @@ def entrypoint():
         "wtml", metavar="WTML-PATH", help="Path to a catalog WTML file to ingest"
     )
 
+    partition = subparsers.add_parser("partition")
+    partition.add_argument(
+        "path",
+        metavar="PATH",
+        help="Path to a text file with the partitioning information",
+    )
+
     prettify = subparsers.add_parser("prettify")
     prettify.add_argument(
         "xml", metavar="XML-PATH", help="Path to an XML file to prettify"
@@ -1247,6 +1329,8 @@ def entrypoint():
         do_ground_truth(settings)
     elif settings.subcommand == "ingest":
         do_ingest(settings)
+    elif settings.subcommand == "partition":
+        do_partition(settings)
     elif settings.subcommand == "prettify":
         do_prettify(settings)
     elif settings.subcommand == "replace-urls":

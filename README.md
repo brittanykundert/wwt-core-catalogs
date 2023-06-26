@@ -220,6 +220,11 @@ way by using WWT's AltUrl support.
 
 A specialized utility to add AltUrl attributes to many imagesets at once.
 
+### `cattool partition`
+
+A specialized utility for partitioning images of the sky into different
+categories.
+
 
 ## See also
 
