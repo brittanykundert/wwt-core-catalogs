@@ -31256,31 +31256,6 @@ The smaller spiral galaxy to the upper left of Cartwheel displays much of the sa
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="0.06321355679061443"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="305.116570338564"
-    CenterY="43.8543972510305"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Webb Finds Star Duo Forms ‘Fingerprint’ in Space"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="-86.4104744280926"
-    Sparse="False"
-    StockSet="False"
-    TileLevels="4"
-    Url="http://data1.wwtassets.org/packages/2022/12_jwst/WWR140a/{1}/{3}/{3}_{2}.png"
-    WidthFactor="2"
-  >
-    <Credits>NASA, ESA, CSA, STScI, JPL-Caltech</Credits>
-    <CreditsUrl>https://esawebb.org/images/WR140a/</CreditsUrl>
-    <ThumbnailUrl>http://data1.wwtassets.org/packages/2022/12_jwst/WWR140a/thumb.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="0.13667456902612707"
     BaseTileLevel="0"
     BottomsUp="False"
