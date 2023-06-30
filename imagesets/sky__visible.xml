@@ -32124,29 +32124,6 @@ These belts are most likely shaped by the gravitational forces produced by unsee
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="0.14053716169795416"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="259.278646296364"
-    CenterY="43.1361352757562"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Webb Observes a Globular Cluster Sparkling with Separate Stars"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="170.23254766735707"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="6"
-    Url="http://data1.wwtassets.org/packages/2023/0_jwst/m92a/{1}/{3}/{3}_{2}.png"
-    WidthFactor="2"
-  >
-    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/0_jwst/m92a/thumb.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"
