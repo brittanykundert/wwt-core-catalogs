@@ -835,17 +835,6 @@ name: Iridescent Glory of Nearby Helix Nebula;Helix Nebula;NGC 7293
 ra_hr: 22.4944444444444
 zoom_level: 7.39666666666667
 ---
-_uuid: d2c0b3d3-c97c-4013-a2c1-5e80f5ad8949
-angular_size: 1.0
-classification: PlanetaryNebula
-constellation: AQR
-data_set_type: Sky
-dec_deg: -20.8369444444444
-foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011000{Q}?g=131
-name: Helix Nebula;NGC 7293
-ra_hr: 22.4941666666667
-zoom_level: 7.82333333333333
----
 _uuid: 7e7cde59-3d37-4d66-8ba5-3ac8df60bf47
 angular_size: 1.0
 classification: SupernovaRemnant
@@ -856,28 +845,6 @@ foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: SSTGFLS J222557+601148 (IRAC/MIPS)
 ra_hr: 22.4291666666667
 zoom_level: 1.99166666666667
----
-_uuid: d105ca60-d057-4607-8a3d-0ef3f4461582
-angular_size: 1.0
-classification: PlanetaryNebula
-constellation: AQR
-data_set_type: Sky
-dec_deg: -20.8369444444444
-foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011130{Q}?g=131
-name: Helix Nebula;NGC7293
-ra_hr: 22.4941666666667
-zoom_level: 7.82333333333333
----
-_uuid: 8c3a67e4-c918-4690-9d3d-724229d13b07
-angular_size: 1.0
-classification: Galaxy
-constellation: PEG
-data_set_type: Sky
-dec_deg: 34.4166666666667
-foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011200{Q}?g=131
-name: NGC 7331
-ra_hr: 22.6177777777778
-zoom_level: 2.0
 ---
 _uuid: 880bb468-9725-4d77-9879-954fee4e4803
 angular_size: 1.0
@@ -890,17 +857,6 @@ name: A Natal Microcosm;Sharpless 140
 ra_hr: 22.3191666666667
 zoom_level: 7.65166666666667
 ---
-_uuid: 0cdb0706-6100-406d-8fd2-3026ae2bbf76
-angular_size: 1.0
-classification: ClusterOfGalaxies
-constellation: PEG
-data_set_type: Sky
-dec_deg: 33.9666666666667
-foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000120330{Q}?g=182
-name: A Shocking Surprise in Stephan's Quintet;Stephan's  Quintet;NGC7317;NGC7318A;NGC7318B;NGC7319;NGC7320
-ra_hr: 22.6002777777778
-zoom_level: 2.0
----
 _uuid: f38bb1b8-0e89-45fb-925c-59965faed2ea
 angular_size: 1.0
 classification: ClusterOfGalaxies
@@ -911,17 +867,6 @@ foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Star Clusters Born Among the Interacting Galaxies of Stephan's Quintet
 ra_hr: 22.6013888888889
 zoom_level: 1.67
----
-_uuid: 9ae25adf-0c9b-4e79-981d-c712c0cca7f1
-angular_size: 1.0
-classification: Galaxy
-constellation: PEG
-data_set_type: Sky
-dec_deg: 34.4166666666667
-foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000011201{Q}?g=131
-name: NGC 7331
-ra_hr: 22.6177777777778
-zoom_level: 2.0
 ---
 _uuid: 184458bb-a5f3-4cda-85a7-11f9b88aafe4
 angular_size: 1.0
@@ -957,61 +902,6 @@ name: Helix Nebula As Seen By Hubble and the Cerro Tololo Inter-American Observa
   7293
 ra_hr: 22.4944444444444
 zoom_level: 7.39666666666667
----
-_uuid: cf19387e-207f-4c87-9609-a3ef58cc7cfe
-angular_size: 1.0
-classification: Galaxy
-constellation: PEG
-data_set_type: Sky
-dec_deg: 34.4166666666667
-foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000011202{Q}?g=131
-name: NGC 7331
-ra_hr: 22.6177777777778
-zoom_level: 2.0
----
-_uuid: 634a8c3a-1790-4510-9d2a-846e82b79d1f
-angular_size: 1.0
-classification: GiantMolecularCloud
-constellation: CEP
-data_set_type: Sky
-dec_deg: 60.0652777777778
-foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010233{Q}?g=131
-name: IRAS 2214 + 5948
-ra_hr: 22.2736111111111
-zoom_level: 5.65333333333333
----
-_uuid: 1b6eda51-7f10-43ff-be3e-b7dacc3b2528
-angular_size: 1.0
-classification: PlanetaryNebula
-constellation: AQR
-data_set_type: Sky
-dec_deg: -20.8369444444444
-foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010323{Q}?g=131
-name: Helix Nebula;NGC 7293
-ra_hr: 22.4941666666667
-zoom_level: 7.82333333333333
----
-_uuid: 21a0e140-7e6d-4f1f-bc1e-8364e3fbee6b
-angular_size: 1.0
-classification: PlanetaryNebula
-constellation: AQR
-data_set_type: Sky
-dec_deg: -20.8369444444444
-foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010333{Q}?g=131
-name: Helix Nebula;NGC 7293
-ra_hr: 22.4941666666667
-zoom_level: 7.82333333333333
----
-_uuid: 98650eef-3966-4f1a-beee-8cc0f7ccfb4c
-angular_size: 1.0
-classification: SupernovaRemnant
-constellation: CEP
-data_set_type: Sky
-dec_deg: 60.1980555555556
-foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000011113{Q}?g=131
-name: SSTGFLS J222557+601148 (IRAC);SSTGFLS J222557+601148 Supernova Remnant
-ra_hr: 22.4291666666667
-zoom_level: 1.99166666666667
 ---
 _uuid: 24b45e01-303e-4fb5-b3da-d4e112505132
 classification: ''

@@ -1383,17 +1383,6 @@ name: 'Chandra X-ray Observatory: Expanding Bubble of Tycho''s Supernova'
 ra_hr: 0.416388888888889
 zoom_level: 0.25
 ---
-_uuid: eb4caf48-92b5-4b91-93c2-85423945f618
-angular_size: 1.0
-classification: Galaxy
-constellation: AND
-data_set_type: Sky
-dec_deg: 41.0613888888889
-foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000120322{Q}?g=182
-name: Three Faces of Andromeda;Andromeda Galaxy;Messier 31;M31
-ra_hr: 0.686944444444444
-zoom_level: 36.6383333333333
----
 _uuid: a110f943-8f38-472c-b99b-dcb4bba52a00
 classification: ''
 constellation: CAS
@@ -3227,17 +3216,6 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Gamma Cassiopiea Nebula;IC 59;IC 63
 ra_hr: 0.981111111111111
 zoom_level: 21.0533333333333
----
-_uuid: a561141b-f312-4eb0-9cd3-ed97e6f4e5da
-angular_size: 1.0
-classification: GiantMolecularCloud
-constellation: TUC
-data_set_type: Sky
-dec_deg: -72.1786111111111
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1748854392
-name: Stellar Work of Art;NGC 346
-ra_hr: 0.986666666666667
-zoom_level: 2.79
 ---
 _uuid: 7bf7a9a3-9c30-4787-8738-1f96e4cce885
 classification: SpiralGalaxy

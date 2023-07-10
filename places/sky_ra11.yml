@@ -1014,17 +1014,6 @@ name: Full Hubble ACS  View of Spiderweb Galaxy Field
 ra_hr: 11.6797222222222
 zoom_level: 1.0
 ---
-_uuid: 895edda7-654e-42a7-83a7-88c9087e161e
-angular_size: 1.0
-classification: Galaxy
-constellation: LEO
-data_set_type: Sky
-dec_deg: 12.9880555555556
-foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000011212{Q}?g=131
-name: Messier 66;NGC 3627;M66
-ra_hr: 11.3375
-zoom_level: 3.36333333333333
----
 _uuid: 2ce4c16d-dd90-4db0-9199-659747b59a19
 angular_size: 1.0
 classification: ClusterOfGalaxies
