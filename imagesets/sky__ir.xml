@@ -160,7 +160,7 @@
     WidthFactor="2"
   >
     <Credits>Courtesy NASA/JPL-Caltech</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2005-11a-spitzer-spies-spectacular-sombrero</CreditsUrl>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2005-11a3-spitzer-spies-spectacular-sombrero</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1083047263</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -376,7 +376,7 @@
     WidthFactor="2"
   >
     <Credits>NASA/JPL-Caltech/P.S. Teixeira (Center for Astrophysics)</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/sig05-028-stellar-snowflake-cluster</CreditsUrl>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/sig05-028c-spitzer-mips-view-of-ngc-2264</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1842618616</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -403,7 +403,7 @@
     WidthFactor="2"
   >
     <Credits>NASA/JPL-Caltech/C. Lonsdale (Caltech/IPAC) and the SWIRE Team</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/sig05-019-a-swire-picture-is-worth-billions-of-years</CreditsUrl>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/sig05-019d-spitzer-swire-zoomed-view-of-elias-n1</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=2117085427</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -430,7 +430,7 @@
     WidthFactor="2"
   >
     <Credits>NASA/JPL-Caltech/C. Lonsdale (Caltech/IPAC) and the SWIRE Team</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/sig05-019-a-swire-picture-is-worth-billions-of-years</CreditsUrl>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/sig05-019b-spitzer-swire-view-of-the-tadpole-galaxy</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=380753677</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -564,7 +564,7 @@
   >
     <Credits>NASA/JPL-Caltech/B.E.K. Sugerman (STScI)  (Harva
 </Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/sig06-018-supernova-dust-factory-in-m74</CreditsUrl>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/sig06-018b-supernova-dust-factory-in-m74</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=sig06-018b</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -966,7 +966,7 @@
     WidthFactor="2"
   >
     <Credits>NASA/JPL-Caltech/K. Gordon (University of Arizona), S. Willner (Harvard-Smithsonian CfA), N.A. Sharp (NOAO/AURA/NSF)</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2003-06d1-multiwavelength-composite-image-of-messier-81</CreditsUrl>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2003-06d3-24-micron-image-of-the-spiral-galaxy-messier-81</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1280159477</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -1155,7 +1155,7 @@
     WidthFactor="2"
   >
     <Credits>NASA/JPL-Caltech/P.S. Teixeira (Center for Astrophysics)</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/sig05-028-stellar-snowflake-cluster</CreditsUrl>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/sig05-028b-spitzer-irac-view-of-ngc-2264</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=241622792</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -1236,7 +1236,7 @@
     WidthFactor="2"
   >
     <Credits>NASA/JPL-Caltech/M. Regan (STScI), and the SINGS Team</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-12a1-spitzer-composite-view-of-ngc-7331</CreditsUrl>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-12a2-spitzer-near-infrared-view-of-ngc-7331</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=564795936</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -1532,33 +1532,6 @@
   </ImageSet>
   <ImageSet
     BandPass="IR"
-    BaseDegreesPerTile="0.170620459884605"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="206.837496547748"
-    CenterY="-30.4482011199038"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="NGC 5291"
-    OffsetX="-0.0314377446949108"
-    OffsetY="0.00945767684686891"
-    Projection="Tan"
-    QuadTreeMap="0123"
-    Rotation="-62.241326778048"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="2"
-    Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010212{Q}?g=131"
-    WidthFactor="2"
-  >
-    <Credits>NASA/JPL-Caltech/S. J. U. Higdon (Cornell University)</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/sig05-021-dwarf-galaxies-forming-in-tidal-tails</CreditsUrl>
-    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1025402328</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="IR"
     BaseDegreesPerTile="0.108930340570596"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -1581,7 +1554,7 @@
     WidthFactor="2"
   >
     <Credits>IR: NASA/JPL-Caltech/R. Kennicutt (University of Arizona), and the SINGS Team; Visible: Hubble Space Telescope/Hubble Heritage Team</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2005-11a-spitzer-spies-spectacular-sombrero</CreditsUrl>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2005-11a1-spitzer-and-hubble-view-of-the-sombrero-galaxy</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1070595423</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -1905,7 +1878,7 @@
     WidthFactor="2"
   >
     <Credits>NASA/JPL-Caltech/M. Regan (STScI), and the SINGS Team</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-12a1-spitzer-composite-view-of-ngc-7331</CreditsUrl>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-12a3-spitzer-mid-inrared-view-of-ngc-7331</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=566827552</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -2067,7 +2040,7 @@
     WidthFactor="2"
   >
     <Credits> NASA/JPL-Caltech/V. Gorjian (JPL) and NOAO</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-04a1-star-formation-in-henize-206</CreditsUrl>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-04a3-spitzer-irac-image-of-star-formation-in-henize-206</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=ssc2004-04a3</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -2148,7 +2121,7 @@
     WidthFactor="2"
   >
     <Credits>NASA/JPL-Caltech/J. Rho (Spitzer Science Center)</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2007-20a1-dusty-celestial-ornaments-dusty-celestial-ornaments-supernova-remnant-cassiopeia-a</CreditsUrl>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2007-20a2-dusty-celestial-ornaments-dusty-celestial-ornament-supernova-cassiopeian-a-in-infrared</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=ssc2007-20a2</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -2356,7 +2329,7 @@
     WidthFactor="2"
   >
     <Credits>NASA/JPL-Caltech/K. Gordon (University of Arizona), S. Willner (Harvard-Smithsonian CfA), N.A. Sharp (NOAO/AURA/NSF)</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2003-06d1-multiwavelength-composite-image-of-messier-81</CreditsUrl>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2003-06d5-3-6-micron-image-of-the-spiral-galaxy-messier-81</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1284484853</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -2491,7 +2464,7 @@
     WidthFactor="2"
   >
     <Credits>NASA/JPL-Caltech/Z. Balog (Univ. of Ariz./Univ. of Szeged)</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2007-08a1-heart-of-the-rosette-nebula</CreditsUrl>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2007-08b1-planetary-danger-zones-in-the-rosette-nebula</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1701682999</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -2761,7 +2734,7 @@
     WidthFactor="2"
   >
     <Credits>NASA/JPL-Caltech/B.E.K. Sugerman (STScI) </Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/sig06-018-supernova-dust-factory-in-m74</CreditsUrl>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/sig06-018a-supernova-dust-factory-in-m74</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=sig06-018a</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -2815,7 +2788,7 @@
     WidthFactor="2"
   >
     <Credits> NASA/JPL-Caltech/V. Gorjian (JPL) and NOAO</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-04a1-star-formation-in-henize-206</CreditsUrl>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-04a4-spitzer-mips-image-of-star-formation-in-henize-206</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=ssc2004-04a4</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -2896,7 +2869,7 @@
     WidthFactor="2"
   >
     <Credits>NASA/JPL-Caltech/L. Allen (Harvard-Smithsonian CfA)</Credits>
-    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2005-23b-towering-infernos</CreditsUrl>
+    <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2005-23a2-visible-light-image-of-w5</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=ssc2005-23a2</ThumbnailUrl>
   </ImageSet>
   <ImageSet

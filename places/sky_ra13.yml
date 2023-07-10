@@ -1966,17 +1966,6 @@ name: 'POX 186: A Tiny Galaxy is Born'
 ra_hr: 13.4302777777778
 zoom_level: 0.248333333333333
 ---
-_uuid: c58c807f-d1f0-45bc-aa09-07dd75cff444
-angular_size: 1.0
-classification: ClusterOfGalaxies
-constellation: CEN
-data_set_type: Sky
-dec_deg: -30.4141666666667
-foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010212{Q}?g=131
-name: NGC 5291
-ra_hr: 13.7897222222222
-zoom_level: 2.39666666666667
----
 _uuid: 1a58ce3a-b116-4e82-9137-61da6b510e56
 angular_size: 1.0
 classification: ClusterOfGalaxies
