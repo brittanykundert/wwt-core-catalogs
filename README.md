@@ -225,6 +225,14 @@ A specialized utility to add AltUrl attributes to many imagesets at once.
 A specialized utility for partitioning images of the sky into different
 categories.
 
+### `cattool emit-partition <PARTITION-PATH> <NAME> <WTML-PATH>`
+
+A specialized utility for emitting a WTML file containing records based on a
+"partition file" as used in `cattool partition`. The point of this tool is to
+create an input that can be used with the WWT Constellations `update_handle.py`
+script to gradually import data from the core corpus into the Constellations
+system.
+
 
 ## See also
 
