@@ -703,17 +703,6 @@ name: Comet Galaxy Abell 2667;Abell 2667
 ra_hr: 23.8608333333333
 zoom_level: 2.0
 ---
-_uuid: 38a9a11c-2c22-47be-93be-baee894ceea5
-angular_size: 1.0
-classification: Galaxy
-constellation: CAS
-data_set_type: Sky
-dec_deg: 58.8202777777778
-foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000121010{Q}?g=182
-name: Cosmic Ornament of Gas and Dust;Cassiopeia A
-ra_hr: 23.3905555555556
-zoom_level: 2.82833333333333
----
 _uuid: b01ebc59-9406-41b0-9b64-c4803d0ca9ee
 angular_size: 1.0
 classification: ClusterOfGalaxies
@@ -812,17 +801,6 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Details of Supernova Remnant Cassiopeia A
 ra_hr: 23.3911111111111
 zoom_level: 0.706666666666667
----
-_uuid: 6b73d93c-5b6a-4c33-a851-808f4cb370d2
-angular_size: 1.0
-classification: Galaxy
-constellation: SCL
-data_set_type: Sky
-dec_deg: -32.5919444444444
-foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000011102{Q}?g=131
-name: NGC 7793
-ra_hr: 23.9636111111111
-zoom_level: 4.0
 ---
 _uuid: 910dd30a-cc42-4ce5-8313-17536520ff87
 angular_size: 1.0

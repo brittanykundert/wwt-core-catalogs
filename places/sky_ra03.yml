@@ -1532,28 +1532,6 @@ name: Full ACS Field of NGC 1309
 ra_hr: 3.36833333333333
 zoom_level: 2.0
 ---
-_uuid: 670bee9e-08e9-4e86-8fba-b333b38be6b2
-angular_size: 1.0
-classification: ReflectionNebula
-constellation: PER
-data_set_type: Sky
-dec_deg: 31.2802777777778
-foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010232{Q}?g=131
-name: NGC 1333
-ra_hr: 3.485
-zoom_level: 8.0
----
-_uuid: 5627bc61-02e0-4575-99c0-cc69b4353ac8
-angular_size: 1.0
-classification: MultipleStars
-constellation: TAU
-data_set_type: Sky
-dec_deg: 24.1908333333333
-foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000011032{Q}?g=131
-name: Pleiades
-ra_hr: 3.78138888888889
-zoom_level: 16.0
----
 _uuid: 04bba304-f1e9-454a-bdc2-c2b4d251a31f
 angular_size: 1.0
 classification: SpiralGalaxy
@@ -1609,17 +1587,6 @@ name: Barred Spiral Galaxy NGC 1300
 ra_hr: 3.32777777777778
 zoom_level: 1.915
 ---
-_uuid: 4580c848-d59e-43d5-b3a8-32fc3a8c2d4b
-angular_size: 1.0
-classification: MultipleStars
-constellation: TAU
-data_set_type: Sky
-dec_deg: 24.1908333333333
-foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000011033{Q}?g=131
-name: Pleiades
-ra_hr: 3.78138888888889
-zoom_level: 16.0
----
 _uuid: 82effd61-535d-4856-b483-6562ee0965e8
 angular_size: 1.0
 classification: Nebula
@@ -1630,17 +1597,6 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: W5
 ra_hr: 3.03472222222222
 zoom_level: 8.0
----
-_uuid: b5fc5e31-d38a-4999-beff-4fc6cb0a3934
-angular_size: 1.0
-classification: Nebula
-constellation: PER
-data_set_type: Sky
-dec_deg: 32.2030555555556
-foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000011203{Q}?g=131
-name: IC348;IC 348
-ra_hr: 3.73944444444444
-zoom_level: 9.4
 ---
 _uuid: 6b55960b-28bc-4e90-b0f1-3f2d7f0357f4
 angular_size: 1.0

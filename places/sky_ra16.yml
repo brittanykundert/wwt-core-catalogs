@@ -1091,17 +1091,6 @@ name: SWIRE Zoom of deep space in ELAIS-N1
 ra_hr: 16.1380555555556
 zoom_level: 2.035
 ---
-_uuid: e8ed5cf6-039e-4c65-9b8b-adaeedb4e2b1
-angular_size: 1.0
-classification: Galaxy
-constellation: DRA
-data_set_type: Sky
-dec_deg: 55.4283333333333
-foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011120{Q}?g=131
-name: Tadpole Galaxy
-ra_hr: 16.1030555555556
-zoom_level: 2.035
----
 _uuid: 8a3e2ecb-0331-40bb-8372-01a6f16f09c0
 angular_size: 1.0
 classification: MultipleStars

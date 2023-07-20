@@ -537,6 +537,73 @@ def do_emit(settings):
         _emit_one(path, settings.preview, idb, pdb)
 
 
+# emit-partition
+
+
+def do_emit_partition(settings):
+    idb = ImagesetDatabase()
+    pdb = PlaceDatabase()
+
+    # Load the partition database
+
+    imageset_urls = set()
+
+    with open(settings.partition_path, "rt") as f:
+        for line in f:
+            pieces = line.strip().split(None, 2)
+            url, name = pieces[:2]
+
+            if name == settings.partition_name:
+                imageset_urls.add(url)
+
+    print(
+        f"Loaded {len(imageset_urls)} imageset URLs associated with partition `{settings.partition_name}`",
+    )
+    if not imageset_urls:
+        return
+
+    # Populate places
+
+    f = Folder()
+    n_places = 0
+    emitted_img_urls = set()
+
+    for uuid, p in pdb.by_uuid.items():
+        img_url = p.get("foreground_image_set_url")
+
+        if img_url is None or img_url not in imageset_urls:
+            img_url = p.get("image_set_url")
+
+            if img_url is None or img_url not in imageset_urls:
+                continue
+
+        f.children.append(pdb.reconst_by_id(uuid, idb))
+        emitted_img_urls.add(img_url)
+        n_places += 1
+
+    print(f"Matched {n_places} associated places")
+
+    # Clean up any additional imagesets
+
+    cleanup_urls = imageset_urls - emitted_img_urls
+
+    for img_url in cleanup_urls:
+        # hack: my partition file has a bunch of URLs that aren't in the database
+        # because I had to cull/correct a bunch of Spitzer imagesets
+        if img_url not in idb.by_url:
+            continue
+
+        imgset = idb.get_by_url(img_url)
+        f.children.append(imgset)
+
+    print(f"Added {len(cleanup_urls)} cleanup image definitions")
+
+    # Write
+
+    with open(settings.wtml_path, "wt", encoding="utf-8") as stream:
+        prettify(f.to_xml(), stream)
+
+
 # emit-searchdata
 
 
@@ -1262,6 +1329,21 @@ def entrypoint():
         "--preview", action="store_true", help="Emit relative-URL files for previewing"
     )
 
+    emit_partition = subparsers.add_parser("emit-partition")
+    emit_partition.add_argument(
+        "partition_path",
+        metavar="PATH",
+        help="Path to a text file with the partitioning information",
+    )
+    emit_partition.add_argument(
+        "partition_name",
+        metavar="NAME",
+        help="The element of the partition to emit",
+    )
+    emit_partition.add_argument(
+        "wtml_path", metavar="WTML-PATH", help="Path to the WTML file to emit"
+    )
+
     emit_searchdata = subparsers.add_parser("emit-searchdata")
     emit_searchdata.add_argument(
         "--pretty-json", action="store_true", help="Emit as indented JSON"
@@ -1319,6 +1401,8 @@ def entrypoint():
         do_add_alt_urls(settings)
     elif settings.subcommand == "emit":
         do_emit(settings)
+    elif settings.subcommand == "emit-partition":
+        do_emit_partition(settings)
     elif settings.subcommand == "emit-searchdata":
         do_emit_searchdata(settings)
     elif settings.subcommand == "format-imagesets":

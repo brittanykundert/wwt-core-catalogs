@@ -211,19 +211,27 @@ other diffing solution in order to review the updates that you'll be uploading.
 Rewrite an XML file in "prettified" format, assuming that elements have lots of
 attributes. This is a low-level utility.
 
-### `cattool replace-urls`
+### `cattool replace-urls <SPEC-PATH>`
 
 A specialized, untested utility intended to update imageset URLs in a compatible
 way by using WWT's AltUrl support.
 
-### `cattool add-alt-urls`
+### `cattool add-alt-urls <SPEC-PATH>`
 
 A specialized utility to add AltUrl attributes to many imagesets at once.
 
-### `cattool partition`
+### `cattool partition <PARTITION-PATH>`
 
 A specialized utility for partitioning images of the sky into different
 categories.
+
+### `cattool emit-partition <PARTITION-PATH> <NAME> <WTML-PATH>`
+
+A specialized utility for emitting a WTML file containing records based on a
+"partition file" as used in `cattool partition`. The point of this tool is to
+create an input that can be used with the WWT Constellations `update_handle.py`
+script to gradually import data from the core corpus into the Constellations
+system.
 
 
 ## See also

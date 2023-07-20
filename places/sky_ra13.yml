@@ -1800,17 +1800,6 @@ name: Galaxies Magnified by Galaxy Cluster Abell 1689's 'Graviational Lens'
 ra_hr: 13.1911111111111
 zoom_level: 1.0
 ---
-_uuid: f366834d-a8e7-486b-8229-f3a3bbb3169c
-angular_size: 1.0
-classification: Galaxy
-constellation: CVN
-data_set_type: Sky
-dec_deg: 47.1966666666667
-foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011230{Q}?g=131
-name: M51;Whirlpool Galaxy;Messier 51;NGC 5194;
-ra_hr: 13.4980555555556
-zoom_level: 2.85
----
 _uuid: f2538675-cf16-4929-b68f-99ddda3e083a
 angular_size: 1.0
 classification: ClusterOfGalaxies
@@ -1899,17 +1888,6 @@ name: UGC 8335;VV 250a';Arp 238;KPG 369B
 ra_hr: 13.2591666666667
 zoom_level: 0.836666666666667
 ---
-_uuid: ef445f66-dadb-432b-bad8-f7132bb51b9f
-angular_size: 1.0
-classification: Galaxy
-constellation: CVN
-data_set_type: Sky
-dec_deg: 47.1966666666667
-foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000120311{Q}?g=182
-name: Whirlpool Galaxy and companion;M51;NGC 5194;NGC 5195
-ra_hr: 13.4980555555556
-zoom_level: 2.85
----
 _uuid: 1cc70b6d-4f2e-4567-88ef-9ceb14f517f7
 angular_size: 1.0
 classification: Galaxy
@@ -1965,17 +1943,6 @@ foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: 'POX 186: A Tiny Galaxy is Born'
 ra_hr: 13.4302777777778
 zoom_level: 0.248333333333333
----
-_uuid: c58c807f-d1f0-45bc-aa09-07dd75cff444
-angular_size: 1.0
-classification: ClusterOfGalaxies
-constellation: CEN
-data_set_type: Sky
-dec_deg: -30.4141666666667
-foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010212{Q}?g=131
-name: NGC 5291
-ra_hr: 13.7897222222222
-zoom_level: 2.39666666666667
 ---
 _uuid: 1a58ce3a-b116-4e82-9137-61da6b510e56
 angular_size: 1.0
@@ -2086,17 +2053,6 @@ foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: IC 883;UGC 08387;Arp 193;VV 821;I Zw 056
 ra_hr: 13.3432055555555
 zoom_level: 1.0
----
-_uuid: 84e2f863-5780-4560-991f-28cedbbb9335
-angular_size: 1.0
-classification: Galaxy
-constellation: CEN
-data_set_type: Sky
-dec_deg: -30.4169444444444
-foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000120123{Q}?g=182
-name: Dwarf Galaxies Swimming in Tidal Tails;NGC 5291
-ra_hr: 13.7897222222222
-zoom_level: 4.0
 ---
 _uuid: 80afa2a1-59a7-470f-8c16-a7cadf381fc7
 angular_size: 1.0
