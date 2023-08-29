@@ -632,6 +632,17 @@ rotation_deg: -0.860796387083604
 thumbnail: http://data1.wwtassets.org/packages/2022/08_jwst/ceers_nircam/thumb.jpg
 zoom_level: 0.997078409949675
 ---
+_uuid: f8d5c1b6-d2d8-4002-aef3-a81784866059
+classification: ''
+constellation: BOO
+data_set_type: Sky
+dec_deg: 52.87162148477577
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/07_jwst/CEERS1/{1}/{3}/{3}_{2}.png
+name: Cosmic Evolution Early Release Science (CEERS) survey (NIRCam image)
+ra_hr: 14.32766329544028
+thumbnail: http://data1.wwtassets.org/packages/2023/07_jwst/CEERS1/thumb.jpg
+zoom_level: 1.3098328902760412
+---
 _uuid: b0b1e513-56d9-438e-8966-382761b05d06
 angular_size: 1.0
 classification: Galaxy

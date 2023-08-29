@@ -1080,6 +1080,17 @@ ra_hr: 16.97580946440615
 thumbnail: http://data1.wwtassets.org/packages/2023/02_jwst/potm2301a/thumb.jpg
 zoom_level: 0.24867759718176635
 ---
+_uuid: 4f3e5202-bc01-4bad-b454-4be2bf4c43bc
+classification: ''
+constellation: OPH
+data_set_type: Sky
+dec_deg: -24.385393074502314
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/07_jwst/weic2316a/{1}/{3}/{3}_{2}.png
+name: Rho Ophiuchi cloud complex
+ra_hr: 16.441823214559584
+thumbnail: http://data1.wwtassets.org/packages/2023/07_jwst/weic2316a/thumb.jpg
+zoom_level: 1.0591446166564884
+---
 _uuid: f65c7098-2d22-4662-bba2-9660ac227621
 angular_size: 1.0
 classification: MultipleStars

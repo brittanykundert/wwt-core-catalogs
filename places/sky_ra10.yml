@@ -1243,6 +1243,28 @@ ra_hr: 10.116976269324478
 thumbnail: http://data1.wwtassets.org/packages/2022/12_jwst/southernring3/thumb.jpg
 zoom_level: 0.42330454724410727
 ---
+_uuid: beeca38d-9116-4273-b130-181c116e224d
+classification: ''
+constellation: VEL
+data_set_type: Sky
+dec_deg: -43.90290984772725
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/07_jwst/potm2306a/{1}/{3}/{3}_{2}.png
+name: Clash of the Titans
+ra_hr: 10.464377306030519
+thumbnail: http://data1.wwtassets.org/packages/2023/07_jwst/potm2306a/thumb.jpg
+zoom_level: 0.3132182853994228
+---
+_uuid: 1a65d53d-95e7-4796-83df-1789646e414f
+classification: ''
+constellation: CAR
+data_set_type: Sky
+dec_deg: -57.69553483878201
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/08_jwst/westerlund2-bk/{1}/{3}/{3}_{2}.png
+name: Westerlund 2
+ra_hr: 10.400709639613666
+thumbnail: http://data1.wwtassets.org/packages/2023/08_jwst/westerlund2-bk/thumb.jpg
+zoom_level: 0.3113757223826241
+---
 _uuid: 596a1b3f-6a73-4ce9-a369-f4d00a72095b
 angular_size: 1.0
 classification: Galaxy
