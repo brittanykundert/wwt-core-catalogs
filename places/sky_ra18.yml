@@ -1696,6 +1696,28 @@ ra_hr: 18.315176790635867
 thumbnail: http://data1.wwtassets.org/packages/2022/12_jwst/pillarsofcreation_composite/thumb.jpg
 zoom_level: 0.566534857705301
 ---
+_uuid: 0d17f134-cc0f-4a09-b43a-2510b64ba9a9
+classification: ''
+constellation: LYR
+data_set_type: Sky
+dec_deg: 33.029278032144475
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/08_jwst/weic2320b/{1}/{3}/{3}_{2}.png
+name: Webb captures detailed beauty of Ring Nebula (NIRCam image)
+ra_hr: 18.893004056780864
+thumbnail: http://data1.wwtassets.org/packages/2023/08_jwst/weic2320b/thumb.jpg
+zoom_level: 0.36965288216162573
+---
+_uuid: 5f8ee9a2-768c-4c76-b68a-a3b2c02cb5c8
+classification: ''
+constellation: LYR
+data_set_type: Sky
+dec_deg: 33.02901163574543
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/08_jwst/weic2320c/{1}/{3}/{3}_{2}.png
+name: Webb captures detailed beauty of Ring Nebula (MIRI image)
+ra_hr: 18.89309503965818
+thumbnail: http://data1.wwtassets.org/packages/2023/08_jwst/weic2320c/thumb.jpg
+zoom_level: 0.31955296204472305
+---
 _uuid: d5498cfc-b36b-4cf7-8a59-a72c18c257cc
 angular_size: 1.0
 classification: Galaxy
