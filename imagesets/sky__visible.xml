@@ -32514,6 +32514,88 @@ These belts are most likely shaped by the gravitational forces produced by unsee
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.09106860342022136"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="202.46590100366"
+    CenterY="47.198856918901"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="A FEAST for the eyes"
+    OffsetX="5.558386439222495e-06"
+    OffsetY="5.558386439222495e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-44.31999999999962"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2023/08_jwst/potm2308a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, A. Adamo (Stockholm University) and the FEAST JWST team</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2308a/</CreditsUrl>
+    <Description>The graceful winding arms of the grand-design spiral galaxy M51 stretch across this image from the NASA/ESA/CSA James Webb Space Telescope. Unlike the menagerie of weird and wonderful spiral galaxies with ragged or disrupted spiral arms, grand-design spiral galaxies boast prominent, well-developed spiral arms like the ones showcased in this image. This galactic portrait is a composite image that integrates data from Webb’s Near-InfraRed Camera (NIRCam) and Mid-InfraRed Instrument (MIRI).In this image the dark red regions trace the filamentary warm dust permeating the medium of the galaxy. The red regions show the reprocessed light from complex molecules forming on dust grains, while colours of orange and yellow reveal the regions of ionised gas by the recently formed star clusters. Stellar feedback has a dramatic effect on the medium of the galaxy and create complex network of bright knots as well as cavernous black bubbles. M51 — also known as NGC 5194 — lies about 27 million light-years away from Earth in the constellation Canes Venatici, and is trapped in a tumultuous relationship with its near neighbour, the dwarf galaxy NGC 5195. The interaction between these two galaxies has made these galactic neighbours one of the better-studied galaxy pairs in the night sky. The gravitational influence of M51’s smaller companion is thought to be partially responsible for the stately nature of the galaxy’s prominent and distinct spiral arms. If you would like to learn more about this squabbling pair of galactic neighbours, you can explore earlier observations of M51 by the NASA/ESA Hubble Space Telescope here.  This Webb observation of M51 is one of a series of observations collectively titled Feedback in Emerging extrAgalactic Star clusTers, or FEAST. The FEAST observations were designed to shed light on the interplay between stellar feedback and star formation in environments outside of our own galaxy, the Milky Way. Stellar feedback is the term used to describe the outpouring of energy from stars into the environments which form them, and is a crucial process in determining the rates at which stars form. Understanding stellar feedback is vital to building accurate universal models of star formation. The aim of the FEAST observations is to discover and study stellar nurseries in galaxies beyond our own Milky Way. Before Webb became operative, other observatories such as the Atacama Large Millimetre Array in the Chilean desert and Hubble have given us a glimpse of star formation either at the onset (tracing the dense gas and dust clouds where stars will form) or after the stars have destroyed with their energy their natal gas and dust clouds. Webb is opening a new window into the early stages of star formation and stellar light, as well as the energy reprocessing of gas and dust. Scientists are seeing star clusters emerging from their natal cloud in galaxies beyond our local group for the first time. They will also be able to measure how long it takes for these stars to pollute with newly formed metals and to clean out the gas (these time scales are different from galaxy to galaxy). By studying these processes, we will better understand how the star formation cycle and metal enrichment are regulated within galaxies as well as what are the time scales for planets and brown dwarfs to form. Once dust and gas is removed from the newly formed stars, there is no material left to form planets. [Image Description: A large spiral galaxy takes up the entirety of the image. The core is mostly bright white, but there are also swirling, detailed structures that resemble water circling a drain. There is white and pale blue light that emanates from stars and dust at the core’s centre, but it is tightly limited to the core. The rings feature colours of deep red and orange and highlight filaments of dust around cavernous black bubbles.] Links  M51 (NIRCam image) M51 (MIRI image) Slider tool (NIRCam and MIRI image) </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/08_jwst/potm2308a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.1818924367639834"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="202.4674385769"
+    CenterY="47.200078331297"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M51 (NIRCam image)"
+    OffsetX="5.5509166492914854e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-49.22000000000018"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2023/08_jwst/potm2308b/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, A. Adamo (Stockholm University) and the FEAST JWST team</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2308b/</CreditsUrl>
+    <Description>The graceful winding arms of the grand-design spiral galaxy M51 stretch across this image from the NASA/ESA/CSA James Webb Space Telescope. Unlike the menagerie of weird and wonderful spiral galaxies with ragged or disrupted spiral arms, grand-design spiral galaxies boast prominent, well-developed spiral arms like the ones showcased in this image. This galactic portrait was captured by Webb’s Near-InfraRed Camera (NIRCam). In this image, the dark red features trace the filamentary warm dust, while colours of red, orange, and yellow show the sign spots of ionised gas by the recently formed star clusters. Stellar feedback has a dramatic effect on the medium of the galaxy and create complex network of bright knots as well as cavernous black bubbles. M51 — also known as NGC 5194 — lies about 27 million light-years away from Earth in the constellation Canes Venatici, and is trapped in a tumultuous relationship with its near neighbour, the dwarf galaxy NGC 5195. The interaction between these two galaxies has made these galactic neighbours one of the better-studied galaxy pairs in the night sky. The gravitational influence of M51’s smaller companion is thought to be partially responsible for the stately nature of the galaxy’s prominent and distinct spiral arms. If you would like to learn more about this squabbling pair of galactic neighbours, you can explore earlier observations of M51 by the NASA/ESA Hubble Space Telescope here.  This Webb observation of M51 is one of a series of observations collectively titled Feedback in Emerging extrAgalactic Star clusTers, or FEAST. The FEAST observations were designed to shed light on the interplay between stellar feedback and star formation in environments outside of our own galaxy, the Milky Way. Stellar feedback is the term used to describe the outpouring of energy from stars into the environments which form them, and is a crucial process in determining the rates at which stars form. Understanding stellar feedback is vital to building accurate universal models of star formation. The aim of the FEAST observations is to discover and study stellar nurseries in galaxies beyond our own Milky Way. Before Webb became operative, other observatories such as the Atacama Large Millimetre Array in the Chilean desert and Hubble have given us a glimpse of star formation either at the onset (tracing the dense gas and dust clouds where stars will form) or after the stars have destroyed with their energy their natal gas and dust clouds. Webb is opening a new window into the early stages of star formation and stellar light, as well as the energy reprocessing of gas and dust. Scientists are seeing star clusters emerging from their natal cloud in galaxies beyond our local group for the first time. They will also be able to measure how long it takes for these stars to pollute with newly formed metals and to clean out the gas (these time scales are different from galaxy to galaxy). By studying these processes, we will better understand how the star formation cycle and metal enrichment are regulated within galaxies as well as what are the time scales for planets and brown dwarfs to form. Once dust and gas is removed from the newly formed stars, there is no material left to form planets. [Image Description: A large spiral galaxy takes up the entirety of the image. The core is mostly bright white, but there are also swirling, detailed structures that resemble water circling a drain. There is white and pale blue light that emanates from stars and dust at the core’s centre, but it is tightly limited to the core. The rings feature colours of deep red and orange, which are surrounded by cloudier regions of white and grey, with regions of black surrounding the distinct narrow spiral arms.] Links  M51 (NIRCam + MIRI composite image) M51 (MIRI image) Slider tool (NIRCam and MIRI image) </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/08_jwst/potm2308b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.1820675023673688"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="202.4654145083"
+    CenterY="47.200052694585"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M51 (MIRI image)"
+    OffsetX="2.22250369100792e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-44.04000000000103"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2023/08_jwst/potm2308c/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, A. Adamo (Stockholm University) and the FEAST JWST team</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2308c/</CreditsUrl>
+    <Description>The graceful winding arms of the grand-design spiral galaxy M51 stretch across this image from the NASA/ESA/CSA James Webb Space Telescope. Unlike the menagerie of weird and wonderful spiral galaxies with ragged or disrupted spiral arms, grand-design spiral galaxies boast prominent, well-developed spiral arms like the ones showcased in this image. This galactic portrait was captured by Webb’s Mid-InfraRed Instrument (MIRI). In this image the reprocessed stellar light by dust grains and molecules in the medium of the galaxy illuminate a dramatic filamentary medium. Empty cavities and bright filaments alternate and give the impression of ripples propagating from the spiral arms. The yellow compact regions indicate the newly formed star clusters in the galaxy. M51 — also known as NGC 5194 — lies about 27 million light-years away from Earth in the constellation Canes Venatici, and is trapped in a tumultuous relationship with its near neighbour, the dwarf galaxy NGC 5195. The interaction between these two galaxies has made these galactic neighbours one of the better-studied galaxy pairs in the night sky. The gravitational influence of M51’s smaller companion is thought to be partially responsible for the stately nature of the galaxy’s prominent and distinct spiral arms. If you would like to learn more about this squabbling pair of galactic neighbours, you can explore earlier observations of M51 by the NASA/ESA Hubble Space Telescope here.  This Webb observation of M51 is one of a series of observations collectively titled Feedback in Emerging extrAgalactic Star clusTers, or FEAST. The FEAST observations were designed to shed light on the interplay between stellar feedback and star formation in environments outside of our own galaxy, the Milky Way. Stellar feedback is the term used to describe the outpouring of energy from stars into the environments which form them, and is a crucial process in determining the rates at which stars form. Understanding stellar feedback is vital to building accurate universal models of star formation. The aim of the FEAST observations is to discover and study stellar nurseries in galaxies beyond our own Milky Way. Before Webb became operative, other observatories such as the Atacama Large Millimetre Array in the Chilean desert and Hubble have given us a glimpse of star formation either at the onset (tracing the dense gas and dust clouds where stars will form) or after the stars have destroyed with their energy their natal gas and dust clouds. Webb is opening a new window into the early stages of star formation and stellar light, as well as the energy reprocessing of gas and dust. Scientists are seeing star clusters emerging from their natal cloud in galaxies beyond our local group for the first time. They will also be able to measure how long it takes for these stars to pollute with newly formed metals and to clean out the gas (these time scales are different from galaxy to galaxy). By studying these processes, we will better understand how the star formation cycle and metal enrichment are regulated within galaxies as well as what are the time scales for planets and brown dwarfs to form. Once dust and gas is removed from the newly formed stars, there is no material left to form planets. [Image Description: A large spiral galaxy takes up the entirety of the image. The core is mostly bright white, but there are also swirling, detailed structures that resemble water circling a drain. There is white and pale blue light that emanates from stars and dust at the core’s centre, but it is tightly limited to the core. The detailed rings feature bands of deep orange and cloudy grey, which are interspersed by darker empty regions throughout.] Links  M51 (NIRCam + MIRI composite image) M51 (NIRCam image) Slider tool (NIRCam and MIRI image) </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/08_jwst/potm2308c/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.04551331140028928"
     BaseTileLevel="0"
     BottomsUp="False"
