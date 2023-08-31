@@ -1789,6 +1789,39 @@ ra_hr: 13.314034242164672
 thumbnail: http://data1.wwtassets.org/packages/2023/06_jwst/potm2305e/thumb.jpg
 zoom_level: 0.36534649151784937
 ---
+_uuid: 607c956a-be39-4f1a-9a5c-4f878caa6261
+classification: ''
+constellation: CVN
+data_set_type: Sky
+dec_deg: 47.19885701219144
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/08_jwst/potm2308a/{1}/{3}/{3}_{2}.png
+name: A FEAST for the eyes
+ra_hr: 13.49772596235324
+thumbnail: http://data1.wwtassets.org/packages/2023/08_jwst/potm2308a/thumb.jpg
+zoom_level: 0.3113719149069414
+---
+_uuid: 6278ef41-5f78-4b70-940e-9b5ae9ae729b
+classification: ''
+constellation: CVN
+data_set_type: Sky
+dec_deg: 47.20007775363044
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/08_jwst/potm2308b/{1}/{3}/{3}_{2}.png
+name: M51 (NIRCam image)
+ra_hr: 13.497828470288658
+thumbnail: http://data1.wwtassets.org/packages/2023/08_jwst/potm2308b/thumb.jpg
+zoom_level: 0.37402742492923946
+---
+_uuid: e833df86-0251-4c55-a1ad-a97f8414b167
+classification: ''
+constellation: CVN
+data_set_type: Sky
+dec_deg: 47.20005295788565
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/08_jwst/potm2308c/{1}/{3}/{3}_{2}.png
+name: M51 (MIRI image)
+ra_hr: 13.497692758768538
+thumbnail: http://data1.wwtassets.org/packages/2023/08_jwst/potm2308c/thumb.jpg
+zoom_level: 0.35160452892483496
+---
 _uuid: 53a1a2b0-0678-4a7c-ae78-b04985434e06
 angular_size: 1.0
 classification: PlanetaryNebula
