@@ -566,11 +566,16 @@ def _register_image(client: HandleClient, fields, imgset) -> str:
     credits = fields["credits"]
     copyright = fields["copyright"]
     license_id = fields["license_id"]
+    alt_text = fields["description"]
 
     print("registering image:", imgset.url)
     return _retry(
         lambda: client.add_image_from_set(
-            imgset, copyright, license_id, credits=credits
+            imgset,
+            copyright,
+            license_id,
+            credits=credits,
+            alt_text=alt_text,
         )
     )
 
