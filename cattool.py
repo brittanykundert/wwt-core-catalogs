@@ -568,8 +568,8 @@ def _register_image(client: HandleClient, fields, imgset) -> str:
     license_id = fields["license_id"]
     alt_text = fields["description"]
 
-    print("registering image:", imgset.url)
-    return _retry(
+    print("registering image:", imgset.url, "...", end=" ")
+    id = _retry(
         lambda: client.add_image_from_set(
             imgset,
             copyright,
@@ -578,6 +578,8 @@ def _register_image(client: HandleClient, fields, imgset) -> str:
             alt_text=alt_text,
         )
     )
+    print(id)
+    return id
 
 
 def _register_scene(client, fields, place, imgid) -> str:
@@ -602,8 +604,10 @@ def _register_scene(client, fields, place, imgid) -> str:
         outgoing_url=fields["outgoing_url"],
     )
 
-    print("registering place/scene:", fields["place_uuid"])
-    return _retry(lambda: client.add_scene(req))
+    print("registering place/scene:", fields["place_uuid"], "...", end=" ")
+    id = _retry(lambda: client.add_scene(req))
+    print(id)
+    return id
 
 
 class ConstellationsPrepDatabase(object):
@@ -851,7 +855,7 @@ class ConstellationsPrepDatabase(object):
                         continue
 
                     place = pdb.reconst_by_id(uuid, idb)
-                    id = _register_scene(client, fields, place, img_id)
+                    id = _register_scene(handle_client, fields, place, img_id)
                     pdb.by_uuid[uuid]["cxstatus"] = f"in:{id}"
                     n += 1
                 else:
