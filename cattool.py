@@ -8,6 +8,7 @@ Tool for working with the WWT core dataset catalog.
 """
 
 import argparse
+from collections import OrderedDict
 from io import BytesIO
 import math
 import os.path
@@ -15,6 +16,7 @@ from pathlib import Path
 import re
 import shutil
 import sys
+import textwrap
 from typing import List, Dict
 import uuid
 from xml.etree import ElementTree as etree
@@ -420,6 +422,296 @@ class PlaceDatabase(object):
         self.db_dir.rename(olddir)
         tempdir.rename(self.db_dir)
         shutil.rmtree(olddir)
+
+
+# Constellations prep database
+
+
+def _parse_record_file(stream, path):
+    kind = None
+    fields = OrderedDict()
+    multiline_key = None
+    multiline_words = []
+    line_num = 0
+
+    for line in stream:
+        line_num += 1
+        line = line.strip()
+        if not line:
+            continue
+
+        if kind is None:
+            if line.startswith("@"):
+                kind = line[1:].split()[0]
+            else:
+                die(
+                    f"expected @ indicator at line {line_num} of `{path}`; got: {line!r}"
+                )
+        elif line == "---":
+            if multiline_key:
+                fields[multiline_key] = " ".join(multiline_words)
+                multiline_key = None
+                multiline_words = []
+
+            yield kind, fields
+
+            kind = None
+            fields = OrderedDict()
+        else:
+            pieces = line.split()
+
+            if pieces[0].endswith(":"):
+                if multiline_key:
+                    fields[multiline_key] = " ".join(multiline_words)
+                    multiline_key = None
+                    multiline_words = []
+
+                fields[pieces[0][:-1]] = " ".join(pieces[1:])
+            elif pieces[0].endswith(">"):
+                if multiline_key:
+                    fields[multiline_key] = " ".join(multiline_words)
+                    multiline_key = None
+                    multiline_words = []
+
+                multiline_key = pieces[0][:-1]
+                multiline_words = pieces[1:]
+            elif multiline_key:
+                multiline_words += pieces
+            else:
+                die(
+                    f"expected : or > indicator at line {line_num} of `{path}`; got: {line!r}"
+                )
+
+    if kind or fields or multiline_key:
+        die(f"file `{path}` must end with an end-of-record indicator (---)")
+
+
+def _emit_record(kind, fields, stream):
+    print(f"\n@{kind}", file=stream)
+
+    for key, value in fields.items():
+        if key in ("text", "credits"):
+            print(file=stream)
+
+            for line in textwrap.wrap(
+                f"{key}> {value}",
+                width=80,
+                break_long_words=False,
+                break_on_hyphens=False,
+            ):
+                print(line, file=stream)
+
+            print(file=stream)
+        else:
+            print(f"{key}: {value}", file=stream)
+
+    print("---", file=stream)
+
+
+class ConstellationsPrepDatabase(object):
+    db_dir: Path = None
+    by_handle: Dict[str, list] = None
+
+    def __init__(self):
+        self.by_handle = {}
+        self.db_dir = BASEDIR / "cxprep"
+
+        for path in self.db_dir.glob("*.txt"):
+            with path.open("rt", encoding="utf-8") as f:
+                handle = path.name.replace(".txt", "")
+                items = list(_parse_record_file(f, path))
+                self.by_handle[handle] = items
+
+    def update(self, idb: ImagesetDatabase, pdb: PlaceDatabase):
+        # Figure out which imagesets are already "done": they are either
+        # logged as "in" in the XML, or already in one of the prep files
+
+        done_imageset_urls = set()
+
+        for url, imgset in idb.by_url.items():
+            cxs = getattr(imgset.xmeta, "cxstatus", "undefined")
+            if cxs.startswith("in:"):
+                done_imageset_urls.add(url)
+
+        for recs in self.by_handle.values():
+            for kind, fields in recs:
+                if kind == "image":
+                    done_imageset_urls.add(fields["url"])
+
+        # Same idea for places/scenes
+
+        done_place_uuids = set()
+
+        for uuid, pinfo in pdb.by_uuid.items():
+            cxs = pinfo.get("cxstatus", "undefined")
+            if cxs.startswith("in:"):
+                done_place_uuids.add(uuid)
+
+        for recs in self.by_handle.values():
+            for kind, fields in recs:
+                if kind == "scene":
+                    done_place_uuids.add(fields["place_uuid"])
+
+        # Build up a list of imagesets to deal with
+
+        todo_image_urls_by_handle = {}
+        n_images_todo = 0
+
+        for url, imgset in idb.by_url.items():
+            if imgset.data_set_type != DataSetType.SKY:
+                continue
+
+            if url in done_imageset_urls:
+                continue
+
+            cxs = getattr(imgset.xmeta, "cxstatus", "undefined")
+            if cxs.startswith("in:") or cxs == "skip":
+                continue
+
+            if not cxs.startswith("queue:"):
+                # can't handle this since we don't know what handle to
+                # associate it with
+                warn(
+                    f"imageset {url} should have Constellations ingest status flag, but doesn't"
+                )
+                continue
+
+            handle = cxs[6:]
+            todo_image_urls_by_handle.setdefault(handle, set()).add(url)
+            n_images_todo += 1
+
+        print(f"Number of imagesets to append:", n_images_todo)
+
+        # Build up a list of places/scenes to deal with. Also associate them
+        # with imageset URLs so that we can emit todo places next to todo images
+        # -- it makes a big difference to do so in practice, because when we're
+        # adapting info into the Constellations schema, the relevant metadata
+        # gets slightly split between images and scenes.
+
+        todo_place_uuids_by_handle = {}
+        n_places_todo = 0
+        pids_by_image_url = {}
+
+        for uuid, pinfo in pdb.by_uuid.items():
+            cxs = getattr(imgset.xmeta, "cxstatus", "undefined")
+            if cxs.startswith("in:") or cxs == "skip":
+                continue
+
+            handle = None
+            matched_url = None
+
+            for k in [
+                "image_set_url",
+                "foreground_image_set_url",
+                "background_image_set_url",
+            ]:
+                url = pinfo.get(k)
+                if not url:
+                    continue
+
+                for h, urls in todo_image_urls_by_handle.items():
+                    if url in urls:
+                        # Aha! This place is associated with a to-do image, under
+                        # the specified handle
+
+                        if handle is None:
+                            handle = h
+                            matched_url = url
+                        elif h != handle:
+                            warn(
+                                f"place {uuid} matches images from multiple handles: {h}, {handle}"
+                            )
+
+                        pids_by_image_url.setdefault(url, set()).add(uuid)
+
+            if handle is None:
+                # This place does not refer to any images that we plan to add to
+                # Constellations. So we can ignore it.
+                continue
+
+            todo_place_uuids_by_handle.setdefault(handle, {})[uuid] = matched_url
+            n_places_todo += 1
+
+        print(f"Number of places/scenes to append:", n_places_todo)
+
+        # Now we can finally actually add the new items to the lists. For each
+        # image, we add any places associated with it right after, to achieve
+        # the aformentioned desired clustering. Those places are then removed
+        # from the todo list. Then, after doing all the imageses, we mop up any
+        # places that may be hanging around.
+
+        for handle, imgurls in todo_image_urls_by_handle.items():
+            items = self.by_handle.setdefault(handle, [])
+            todo_places = todo_place_uuids_by_handle.get(handle, {})
+
+            for url in sorted(imgurls):
+                imgset = idb.by_url[url]
+                fields = OrderedDict()
+                fields["url"] = url
+                fields["copyright"] = "~~COPYRIGHT~~"
+                fields["license_id"] = "~~LICENSE~~"
+                fields["credits"] = imgset.credits
+                fields["wip"] = "yes"
+                items.append(("image", fields))
+
+                for pid in pids_by_image_url.get(url, []):
+                    if pid not in todo_places:
+                        # Looks like this place was already emitted elsewhere.
+                        # This won't happen in typical usage, but is OK.
+                        continue
+
+                    fields = OrderedDict()
+                    fields["place_uuid"] = pid
+                    fields["image_url"] = url
+                    fields["outgoing_url"] = imgset.credits_url
+
+                    pinfo = pdb.by_uuid[pid]
+                    text = pinfo.get("description")
+
+                    if not text:
+                        text = imgset.description
+
+                    if not text:
+                        text = pinfo["name"]
+
+                    fields["text"] = text
+                    fields["wip"] = "yes"
+                    items.append(("scene", fields))
+                    del todo_places[pid]
+
+        for handle, pids in todo_place_uuids_by_handle.items():
+            items = self.by_handle.setdefault(handle, [])
+
+            for pid, matched_url in sorted(pids.items()):
+                imgset = idb.by_url[matched_url]
+
+                fields = OrderedDict()
+                fields["place_uuid"] = pid
+                fields["image_url"] = matched_url
+                fields["outgoing_url"] = imgset.credits_url
+
+                pinfo = pdb.by_uuid[pid]
+                text = pinfo.get("description")
+
+                if not text:
+                    text = imgset.description
+
+                if not text:
+                    text = pinfo["name"]
+
+                fields["text"] = text
+                fields["wip"] = "yes"
+                items.append(("scene", fields))
+
+        # All done!
+
+    def rewrite(self):
+        for handle, items in self.by_handle.items():
+            path = self.db_dir / f"{handle}.txt"
+
+            with path.open("wt", encoding="utf-8") as f:
+                for kind, fields in items:
+                    _emit_record(kind, fields, f)
 
 
 # add-alt-urls
@@ -1312,6 +1604,17 @@ def do_trace(_settings):
         print(f"{imgset.url}: {imgset.name} -- {places}")
 
 
+# update-cxprep
+
+
+def do_update_cxprep(_settings):
+    idb = ImagesetDatabase()
+    pdb = PlaceDatabase()
+    cxpdb = ConstellationsPrepDatabase()
+    cxpdb.update(idb, pdb)
+    cxpdb.rewrite()
+
+
 # generic driver
 
 
@@ -1392,6 +1695,7 @@ def entrypoint():
 
     _report = subparsers.add_parser("report")
     _trace = subparsers.add_parser("trace")
+    _update_cxprep = subparsers.add_parser("update-cxprep")
 
     settings = parser.parse_args()
 
@@ -1423,6 +1727,8 @@ def entrypoint():
         do_report(settings)
     elif settings.subcommand == "trace":
         do_trace(settings)
+    elif settings.subcommand == "update-cxprep":
+        do_update_cxprep(settings)
     else:
         die(f"unknown subcommand `{settings.subcommand}`", prefix="usage error:")
 
