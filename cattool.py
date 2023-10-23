@@ -566,7 +566,7 @@ def _register_image(client: HandleClient, fields, imgset) -> str:
     credits = fields["credits"]
     copyright = fields["copyright"]
     license_id = fields["license_id"]
-    alt_text = fields["description"]
+    alt_text = fields.get("description")
 
     print("registering image:", imgset.url, "...", end=" ")
     id = _retry(
