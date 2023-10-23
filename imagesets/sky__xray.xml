@@ -745,6 +745,7 @@
     TileLevels="7"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001132{Q}?g=182"
     WidthFactor="2"
+    Xcxstatus="in:64820bce67b5156060bfa2ba"
   >
     <Credits>This is a composite of three RASS3 surveys from the ROSAT Data Archive of the Max-Planck-Institut fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope. Red is soft band (RASS3sb), Green is broad band (RASS3bb), Blue is hard band (RASS3hb)</Credits>
     <CreditsUrl>http://www.xray.mpe.mpg.de/cgi-bin/rosat/rosat-survey</CreditsUrl>

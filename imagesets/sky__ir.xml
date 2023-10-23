@@ -25,6 +25,7 @@
     TileLevels="12"
     Url="http://cdn.worldwidetelescope.org/wwtweb/g360.aspx?q={1},{2},{3}"
     WidthFactor="1"
+    Xcxstatus="in:64820bd067b5156060bfa2be"
   >
     <Credits>NASA/JPL-Caltech/Univ. of Wisconsin. The GLIMPSE 360 survey was performed using the Spitzer Space Telescope.</Credits>
     <CreditsUrl>http://www.astro.wisc.edu/sirtf/</CreditsUrl>
@@ -52,6 +53,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/packages/2022/08_jwst/cartwheel/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
+    Xcxstatus="in:642761e6975014bc743f159f"
   >
     <Credits>NASA, ESA, CSA, STScI, Webb ERO Production Team</Credits>
     <CreditsUrl>https://webbtelescope.org/contents/news-releases/2022/news-2022-039</CreditsUrl>
@@ -77,6 +79,7 @@
     TileLevels="7"
     Url="http://data1.wwtassets.org/packages/2022/08_jwst/ceers_nircam/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
+    Xcxstatus="in:642761e5975014bc743f159e"
   >
     <Credits>NASA/STScI/CEERS/TACC/S. Finkelstein/G. Yang./C. Papovich/Z. Levay</Credits>
     <CreditsUrl>https://cns.utexas.edu/news/widest-view-of-early-universe-hints-at-galaxy-among-the-earliest-ever-detected</CreditsUrl>
@@ -104,6 +107,7 @@
     TileLevels="4"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010210{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="in:64b74782a15b29de42b30685"
   >
     <Credits>NASA/JPL-Caltech/L. Jenkins (GSFC), Sloan Digital Sky Survey</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2007-10a-dwarf-galaxies-in-the-coma-cluster</CreditsUrl>
@@ -131,6 +135,7 @@
     TileLevels="3"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010310{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="in:64b744a9a15b29de42b305f1"
   >
     <Credits>NASA/JPL-Caltech/A. Marston (ESTEC/ESA)</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-06b-star-formation-in-the-dr21-region</CreditsUrl>
@@ -158,6 +163,7 @@
     TileLevels="2"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010320{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="in:64bb0ff0d87c275bcc5875d7"
   >
     <Credits>NASA/JPL-Caltech/W. Reach (Caltech)</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2003-06b-dark-globule-in-ic-1396</CreditsUrl>
@@ -212,6 +218,7 @@
     TileLevels="2"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011110{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="in:64b744cea15b29de42b30643"
   >
     <Credits>NASA/JPL-Caltech/C. Lonsdale (Caltech/IPAC) and the SWIRE Team</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig05-019d-spitzer-swire-zoomed-view-of-elias-n1</CreditsUrl>
@@ -237,6 +244,7 @@
     TileLevels="5"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011210{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="in:64b744cfa15b29de42b30645"
   >
     <Credits>Courtesy NASA/JPL-Caltech</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig05-019a-spitzer-swire-field-elais-n1</CreditsUrl>
@@ -346,6 +354,7 @@
     TileLevels="4"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000120320{Q}?g=182"
     WidthFactor="2"
+    Xcxstatus="in:64b74325a15b29de42b3055d"
   >
     <Credits>NASA/JPL-Caltech/J. Rho (SSC/Caltech) </Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2005-02b-stellar-incubators-seen-cooking-up-stars</CreditsUrl>
@@ -422,6 +431,7 @@
     TileLevels="6"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001130{Q}?g=182"
     WidthFactor="2"
+    Xcxstatus="in:64820bcb67b5156060bfa2b3"
   >
     <Credits>Original IRAS data: NASA/JPL IPAC, IRIS Reprocessing: Canadian Institute for Theoretical Astrophysics/Institut d'Astrophysique Spatiale. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (Red is IRIS100, Green IRIS60, Blue IRIS12).</Credits>
     <CreditsUrl>http://www.cita.utoronto.ca/~mamd/IRIS/IrisOverview.html</CreditsUrl>
@@ -449,6 +459,7 @@
     TileLevels="5"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000011021{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="in:64b741f8a15b29de42b304af"
   >
     <Credits>Courtesy NASA/JPL-Caltech</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2006-16a-orions-inner-beauty</CreditsUrl>
@@ -476,6 +487,7 @@
     TileLevels="4"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000011031{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="in:64b741f8a15b29de42b304b1"
   >
     <Credits>NASA/JPL-Caltech/R. Gehrz (University of Minnesota)</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig05-004a-crab-nebula-supernova-remnant-spitzer-irac-mips-image</CreditsUrl>
@@ -503,6 +515,7 @@
     TileLevels="2"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000011121{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="in:64b74307a15b29de42b3051b"
   >
     <Credits>NASA/JPL-Caltech/K. Rines (Harvard-Smithsonian CfA), WIYN Consortium</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2007-13b1-fearsome-foursome-a-huge-galactic-merger</CreditsUrl>
@@ -530,6 +543,7 @@
     TileLevels="2"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000120301{Q}?g=182"
     WidthFactor="2"
+    Xcxstatus="in:64b744b8a15b29de42b30613"
   >
     <Credits>NASA/JPL-Caltech/G. Helou (Caltech) </Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-07b-dissection-of-a-galaxy-spiral-galaxy-ngc-300</CreditsUrl>
@@ -659,6 +673,7 @@
     TileLevels="4"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010322{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="in:64b741f9a15b29de42b304b3"
   >
     <Credits>NASA/JPL-Caltech/R. Gehrz (University of Minnesota)</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig05-003a-crab-nebula-supernova-remnant-spitzer-irac-image</CreditsUrl>
@@ -738,6 +753,7 @@
     TileLevels="6"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000312{Q}?g=138"
     WidthFactor="2"
+    Xcxstatus="in:64820bcc67b5156060bfa2b5"
   >
     <Credits>Image Jina Suh from 2MASS catalog Copyright Microsoft 2007; This publication makes use of data products from the Two Micron All Sky Survey, which is a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.</Credits>
     <CreditsUrl>http://www.ipac.caltech.edu/2mass/</CreditsUrl>
@@ -840,6 +856,7 @@
     TileLevels="3"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000011023{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="in:64b742f8a15b29de42b304fb"
   >
     <Credits>NASA/JPL-Caltech/Z. Balog (Univ. of Ariz./Univ. of Szeged)</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2007-08b1-planetary-danger-zones-in-the-rosette-nebula</CreditsUrl>
@@ -867,6 +884,7 @@
     TileLevels="4"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000011103{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="in:64b744d8a15b29de42b30659"
   >
     <Credits>NASA/JPL-Caltech/L. Allen (Harvard-Smithsonian CfA)</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2005-23b-towering-infernos</CreditsUrl>
@@ -894,6 +912,7 @@
     TileLevels="4"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000011213{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="in:64b74308a15b29de42b3051d"
   >
     <Credits>Spitzer data: NASA/JPL/Caltech/S. Willner (Harvard-Smithsonian CfA);Hubble data: NASA, ESA, and A. Zezas (Harvard-Smithsonian CfA); GALEX data: NASA, JPL-Caltech, GALEX Team, J. Huchra et al. (Harvard-Smithsonian CfA)</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig07-009-multiwavelength-m81</CreditsUrl>
@@ -921,6 +940,7 @@
     TileLevels="4"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000120133{Q}?g=182"
     WidthFactor="2"
+    Xcxstatus="in:64b7447fa15b29de42b30597"
   >
     <Credits>NASA/JPL-Caltech/B.E.K. Sugerman (STScI) </Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig06-018a-supernova-dust-factory-in-m74</CreditsUrl>
@@ -948,6 +968,7 @@
     TileLevels="4"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000120223{Q}?g=182"
     WidthFactor="2"
+    Xcxstatus="in:64b74497a15b29de42b305cb"
   >
     <Credits>NASA/CXC/Wesleyan Univ./R.Kilgard et al. UV: NASA/JPL-Caltech. Optical: NASA/ESA/S. Beckwith and Hubble Heritage Team (STScI/AURA). IR: NASA/JPL-Caltech/ Univ. of AZ/R. Kennicutt </Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig07-024-a-classic-beauty-m51-the-whirlpool-galaxy-across-the-spectrum</CreditsUrl>
@@ -975,6 +996,7 @@
     TileLevels="4"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000120323{Q}?g=182"
     WidthFactor="2"
+    Xcxstatus="in:64b744d9a15b29de42b3065b"
   >
     <Credits>NASA/JPL-Caltech/L. Allen (Harvard-Smithsonian CfA)</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2005-23a2-visible-light-image-of-w5</CreditsUrl>
@@ -1002,6 +1024,7 @@
     TileLevels="4"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000120333{Q}?g=182"
     WidthFactor="2"
+    Xcxstatus="in:64b74783a15b29de42b30687"
   >
     <Credits>X-ray: NASA/CXC/Univ. of Maryland/A.S. Wilson et al.; Optical: Pal.Obs. DSS; IR: NASA/JPL-Caltech; VLA: NRAO/AUI/NSF</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2007-06a-anomalous-arms-spiral-galaxy-m106</CreditsUrl>
@@ -1104,6 +1127,7 @@
     TileLevels="6"
     Url="http://wwtfiles.blob.core.windows.net/plnk/planckthermaldustL{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xcxstatus="in:64820bcf67b5156060bfa2bd"
   >
     <Credits>Planck is a European Space Agency mission, with significant participation from NASA. NASAs Planck Project Office is based at JPL. JPL contributed mission-enabling technology for both of Plancks science instruments. European, Canadian and U.S. Planck scientists work together to analyze the Planck data.</Credits>
     <CreditsUrl>http://www.nasa.gov/mission_pages/planck/index.html</CreditsUrl>
@@ -1129,6 +1153,7 @@
     TileLevels="8"
     Url="http://www.worldwidetelescope.org/wwtweb/TwoMassToast.aspx?q={1},{2},{3}"
     WidthFactor="2"
+    Xcxstatus="in:64820bcc67b5156060bfa2b4"
   >
     <Credits>This publication makes use of data products from the Two Micron All Sky Survey, which is a joint project of the University of Massachusetts and the Infrared Processing and Analysis Center/California Institute of Technology, funded by the National Aeronautics and Space Administration and the National Science Foundation.</Credits>
     <CreditsUrl>http://www.ipac.caltech.edu/2mass/</CreditsUrl>
@@ -1154,6 +1179,7 @@
     TileLevels="11"
     Url="http://www.worldwidetelescope.org/wwtweb/glimpse.aspx?q={1},{2},{3}"
     WidthFactor="2"
+    Xcxstatus="in:649e43cc1e6961df10c1953b"
   >
     <Credits>NASA/JPL-Caltech/Univ. of Wisconsin. The GLIMPSE survey was performed using the Spitzer Space Telescope.</Credits>
     <CreditsUrl>http://www.astro.wisc.edu/sirtf/</CreditsUrl>
@@ -1179,6 +1205,7 @@
     TileLevels="11"
     Url="http://www.worldwidetelescope.org/wwtweb/mipsgal.aspx?q={1},{2},{3}"
     WidthFactor="2"
+    Xcxstatus="in:649e43cb1e6961df10c1953a"
   >
     <Credits>NASA/JPL-Caltech/Univ. of Wisconsin. The GLIMPSE survey was performed using the Spitzer Space Telescope.</Credits>
     <CreditsUrl>http://www.astro.wisc.edu/sirtf/</CreditsUrl>
@@ -1206,6 +1233,7 @@
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},152197268"
     WidthFactor="2"
+    Xcxstatus="in:64b744d7a15b29de42b30657"
   >
     <Credits>NASA/JPL-Caltech/CXO/CfA. RCW 108 is a region where stars are actively forming within the Milky Way galaxy about 4,000 light years from Earth. This is a complicated region that contains young star clusters, including one that is deeply embedded in a cloud of molecular hydrogen. By using data from different telescopes, astronomers determined that star birth in this region is being triggered by the effect of nearby, massive young stars.</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig08-015-massive-young-stars-trigger-stellar-birth</CreditsUrl>
@@ -1233,6 +1261,7 @@
     TileLevels="5"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},502342515"
     WidthFactor="2"
+    Xcxstatus="in:64b741f2a15b29de42b304a3"
   >
     <Credits>NASA / JPL-Caltech / L. Allen and X. Koenig (Harvard-Smithsonian CfA)</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2008-15b-w5-star-formation-region</CreditsUrl>
@@ -1259,6 +1288,7 @@
     TileLevels="6"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},dust"
     WidthFactor="2"
+    Xcxstatus="in:64820bcb67b5156060bfa2b2"
   >
     <Credits>Data provided by two NASA satellites, the  Infrared Astronomy Satellite (IRAS) and the Cosmic Background Explorer (COBE). Processing by David J. Schlegel, Douglas P. Finkbeiner and Marc Davis, Princeton University and University of California, Berkeley.</Credits>
     <CreditsUrl>http://astro.berkeley.edu/~marc/dust/</CreditsUrl>
@@ -1284,6 +1314,7 @@
     TileLevels="7"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={L},{X},{Y},wise"
     WidthFactor="2"
+    Xcxstatus="in:64820bca67b5156060bfa2b1"
   >
     <Credits>NASA/JPL-Caltech/UCLA</Credits>
     <CreditsUrl>http://wise.ssl.berkeley.edu/</CreditsUrl>

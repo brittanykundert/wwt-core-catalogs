@@ -280,6 +280,7 @@ TOAST-formatted mosaics were obtained using facilities of NASA's SkyView Virtual
     TileLevels="10"
     Url="http://www.worldwidetelescope.org/wwtweb/galexTOAST.aspx?q={1},{2},{3}"
     WidthFactor="2"
+    Xcxstatus="in:64820bce67b5156060bfa2b9"
   >
     <Credits>Space Telescope Science Institute. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope. The Galaxy Explorer instrument allows observations to be made in ultraviolet bands Far UV 1350-1780A and Near UV 1770-2730A. This is the GR2/3 release. </Credits>
     <CreditsUrl>http://galex.stsci.edu/GR2/</CreditsUrl>
