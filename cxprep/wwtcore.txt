@@ -1,0 +1,772 @@
+
+@image
+url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000220{Q}?g=131
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000320{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> We have made use of the ROSAT Data Archive of the Max-Planck-Institut
+fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data
+was obtained from NASA's SkyView Virtual Telescope (RASS3sb, Min=0.2, Max=50).
+
+wip: yes
+---
+
+@image
+url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000330{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> NASA BAT Team. TOASTing of images done by NASA's SkyView Virtual
+Telescope (BATSig, Min=1, Max=10).
+
+wip: yes
+---
+
+@image
+url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001000{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Original IRAS data: NASA/JPL IPAC, IRIS Reprocessing: Canadian
+Institute for Theoretical Astrophysics/Institut d'Astrophysique Spatiale.
+TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (IRIS25,
+Min=1, Max=2000).
+
+wip: yes
+---
+
+@image
+url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001010{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> COBE Team. TOAST-formatted data was obtained from NASA's SkyView
+Virtual Telescope (COBEZSMA, Min=10, Max=5000).
+
+wip: yes
+---
+
+@image
+url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001020{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Center for Extreme UV Astronomy, University of California at Berkeley.
+TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope
+(euve555, Min=5, Max=500).
+
+wip: yes
+---
+
+@image
+url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001030{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> The SUMSS project team and 1997-2000 School of Physics, University of
+Sydney. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope
+(SUMSS, Min=0.001, Max=10).
+
+wip: yes
+---
+
+@image
+url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001100{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Original data: High Energy Astrophysics Department, Space Research
+Institute, Moscow, Russia; CEA, Centre d'Etudes de Saclay Orme des Merisiers,
+France; Centre d'Etude Spatiale des Rayonnements, Toulouse, France; Federation
+de Recherche Astroparticule et Cosmologie Universite de Paris, France.
+TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope
+(GRANAT_SIGMA_flux, Min=1e-5, Max=0.01).
+
+wip: yes
+---
+
+@image
+url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002000{Q}?g=182
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> NASA and the FERMI-LAT Team. Survey announced 26 AUgust 2008.
+
+wip: yes
+---
+
+@image
+url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000003210{Q}?g=209
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Space Telescope Science Institute. The GALEX, Galaxy Explorer,
+instrument allows imaging and spectroscopic observations to be made in two
+ultraviolet bands, Far UV 1350-1780A and Near UV 1770-2730A. This is the GR2/3
+release, not the most recent GR4 release. TOAST-formatted data was obtained from
+NASA's SkyView Virtual Telescope.
+
+wip: yes
+---
+
+@image
+url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000221{Q}?g=131
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000231{Q}?g=131
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> EGRET Instrument team, NASA Goddard Space Flight Center.
+TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope
+(EGREThard, Min=0.00002, Max=0.005).
+
+wip: yes
+---
+
+@image
+url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000321{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> We have made use of the ROSAT Data Archive of the Max-Planck-Institut
+fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data
+was obtained from NASA's SkyView Virtual Telescope (RASSHB, Min=0.0002, Max=10).
+
+wip: yes
+---
+
+@image
+url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000331{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> NASA BAT Team. TOASTing of images done by NASA's SkyView Virtual
+Telescope (BATFlux, Min=1e-5, Max=1e-3).
+
+wip: yes
+---
+
+@image
+url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001001{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Original IRAS data: NASA/JPL IPAC, IRIS Reprocessing: Canadian
+Institute for Theoretical Astrophysics/Institut d'Astrophysique Spatiale.
+TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (IRIS60,
+Min=1, Max=2000).
+
+wip: yes
+---
+
+@image
+url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001011{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> COBE Team. TOAST-formatted data was obtained from NASA's SkyView
+Virtual Telescope (COBEAAM, Min=10, Max=5000).
+
+wip: yes
+---
+
+@image
+url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001021{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> CompTel Instrument Team. Maps generated by Andrew Strong, Max-Planck
+Institute for Extraterrestrial Physics, Garching, Germany. TOAST-formatted data
+was obtained from NASA's SkyView Virtual Telescope (comptel, Min=0.00005,
+Max=0.1).
+
+wip: yes
+---
+
+@image
+url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001031{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> WENSS Team. The WENSS project is a collaboration between the
+Netherlands Foundation for Research in Astronomy (NFRA/ASTRON) and the Leiden
+Observatory. TOAST-formatted data was obtained from NASA's SkyView Virtual
+Telescope (WENSS, Min=0.001, Max=10), who got it from the WENSS FTP site
+1999-03-18. The original data was found using the Westerbork Synthesis Radio
+Telescope, which is operated by NFRA/ASTRON with support from the Netherlands
+Foundation for Scientific Research (NWO).
+
+wip: yes
+---
+
+@image
+url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001131{Q}?g=182
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Data from Center for Extreme UV Astronomy, University of California at
+Berkeley. TOAST-formatted data was obtained from NASA's SkyView Virtual
+Telescope. Red is 555 Angstroms (euve555), Green 405 Angstroms, Red 83
+Angstroms.
+
+wip: yes
+---
+
+@image
+url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000003211{Q}?g=209
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Space Telescope Science Institute. The GALEX, Galaxy Explorer,
+instrument allows imaging and spectroscopic observations to be made in two
+ultraviolet bands, Far UV 1350-1780A and Near UV 1770-2730A. This is the GR2/3
+release, not the most recent GR4 release. TOAST-formatted data was obtained from
+NASA's SkyView Virtual Telescope.
+
+wip: yes
+---
+
+@image
+url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000112{Q}?g=131
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000212{Q}?g=131
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000222{Q}?g=131
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000302{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Max Planck Institute for Radio Astronomy, generated by Glyn Haslam
+using data taken at Jodrell Bank, Effelsberg and Parkes telescopes.
+TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (408MHz,
+Min=10, Max=200).
+
+wip: yes
+---
+
+@image
+url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000322{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> We have made use of the ROSAT Data Archive of the Max-Planck-Institut
+fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data
+was obtained from NASA's SkyView Virtual Telescope (RASSSB, Min=0.0002, Max=10).
+
+wip: yes
+---
+
+@image
+url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000332{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Data provided by two NASA satellites, the Infrared Astronomy Satellite
+(IRAS) and the Cosmic Background Explorer (COBE). Processing by David J.
+Schlegel, Douglas P. Finkbeiner and Marc Davis, Princeton University and
+University of California, Berkeley. TOASTing of images done by NASA's SkyView
+Virtual Telescope (SFD100m, Min=5, Max=5000).
+
+wip: yes
+---
+
+@image
+url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001002{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Original IRAS data: NASA/JPL IPAC, IRIS Reprocessing: Canadian
+Institute for Theoretical Astrophysics/Institut d'Astrophysique Spatiale.
+TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope
+(IRIS100, Min=4, Max=4000).
+
+wip: yes
+---
+
+@image
+url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001012{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Center for Extreme UV Astronomy, University of California at Berkeley.
+TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope
+(euve171, Min=4, Max=200).
+
+wip: yes
+---
+
+@image
+url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001022{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> The FIRST project team: R.J. Becker, D.H. Helfand, R.L. White M.D.
+Gregg. S.A. Laurent-Muehleisen. 1994, University of California.
+
+wip: yes
+---
+
+@image
+url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001032{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Original data: High Energy Astrophysics Department, Space Research
+Institute, Moscow, Russia; CEA, Centre d'Etudes de Saclay Orme des Merisiers,
+France; Centre d'Etude Spatiale des Rayonnements, Toulouse, France; Federation
+de Recherche Astroparticule et Cosmologie Universite de Paris, France.
+TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope
+(GRANAT_SIGMA_sig, Min=0.5, Max=50).
+
+wip: yes
+---
+
+@image
+url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001102{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Max Planck Institute for Radio Astronomy, generated by Patricia Reich
+and Wolfgang Reich using with the Bonn Stockert 25m telescope. TOAST-formatted
+data was obtained from NASA's SkyView Virtual Telescope (1420MHz, Min=3000,
+Max=35000).
+
+wip: yes
+---
+
+@image
+url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000003212{Q}?g=209
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Space Telescope Science Institute. The GALEX, Galaxy Explorer,
+instrument allows imaging and spectroscopic observations to be made in two
+ultraviolet bands, Far UV 1350-1780A and Near UV 1770-2730A. This is the GR2/3
+release, not the most recent GR4 release. TOAST-formatted data was obtained from
+NASA's SkyView Virtual Telescope.
+
+wip: yes
+---
+
+@image
+url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000003{Q}?g=131
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Center for Extreme UV Astronomy, University of California at Berkeley.
+TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (euve83,
+Min=1, Max=150).
+
+wip: yes
+---
+
+@image
+url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000203{Q}?g=131
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> EGRET Instrument team, NASA Goddard Space Flight Center.
+TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope
+(EGRETsoft, Min=0.0001, Max=0.002).
+
+wip: yes
+---
+
+@image
+url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000213{Q}?g=131
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000233{Q}?g=131
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000313{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> We have made use of the ROSAT Data Archive of the Max-Planck-Institut
+fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data
+was obtained from NASA's SkyView Virtual Telescope (RASS3hb, Min=0.2, Max=50).
+
+wip: yes
+---
+
+@image
+url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000323{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Observational data from NASA Goddard Space Flight Center, mosaicking
+and TOASTing of images done by NASA's SkyView Virtual Telescope (PSPC2int,
+Min=0.00002, Max=0.01).
+
+wip: yes
+---
+
+@image
+url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000333{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Original IRAS data: NASA/JPL IPAC, IRIS Reprocessing: Canadian
+Institute for Theoretical Astrophysics/Institut d'Astrophysique Spatiale.
+TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (IRIS12,
+Min=0.5, Max=1000).
+
+wip: yes
+---
+
+@image
+url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001003{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> COBE Team. TOAST-formatted data was obtained from NASA's SkyView
+Virtual Telescope (COBE, Min=10, Max=5000).
+
+wip: yes
+---
+
+@image
+url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001013{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Center for Extreme UV Astronomy, University of California at Berkeley.
+TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope
+(euve405, Min=0.7, Max=70).
+
+wip: yes
+---
+
+@image
+url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001033{Q}?g=138
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001133{Q}?g=182
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> We have made use of the ROSAT Data Archive of the Max-Planck-Institut
+fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data
+was obtained from NASA's SkyView Virtual Telescope (RASS3bb, Min=0.2, Max=50).
+
+wip: yes
+---
+
+@image
+url: http://wwtfiles.blob.core.windows.net/plnk/planck4channelL{1}X{2}Y{3}.png
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits>
+
+wip: yes
+---
+
+@image
+url: http://wwtfiles.blob.core.windows.net/plnk/planckcoL{1}X{2}Y{3}.png
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits>
+
+wip: yes
+---
+
+@image
+url: http://wwtfiles.blob.core.windows.net/plnk/planckfreefreeL{1}X{2}Y{3}.png
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits>
+
+wip: yes
+---
+
+@image
+url: http://wwtfiles.blob.core.windows.net/plnk/planckmassmapL{1}X{2}Y{3}.png
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits>
+
+wip: yes
+---
+
+@image
+url: http://wwtfiles.blob.core.windows.net/plnk/planckspinningdustL{1}X{2}Y{3}.png
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits>
+
+wip: yes
+---
+
+@image
+url: http://wwtfiles.blob.core.windows.net/plnk/plancksynchrotronL{1}X{2}Y{3}.png
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits>
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/galex4far.aspx?q={1},{2},{3}
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> This is the Far UV band(1350-1780A) of the GALEX GR4 data release
+archived at MAST/STScI. TOAST-formatted mosaics were obtained using facilities
+of NASA's SkyView Virtual Telescope.
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/galex4near.aspx?q={1},{2},{3}
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> This is the Near UV band (1770-2730A) of the GALEX GR4 data release
+archived at MAST/STScI. TOAST-formatted mosaics were obtained using facilities
+of NASA's SkyView Virtual Telescope.
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},FermiYearThree
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> NASA and the FERMI-LAT Team.
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},FermiYearTwo
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> NASA and the FERMI-LAT Team.
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_23GHz_K_200uK
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_23GHz_K_nonlin
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_33GHz_Ka_200uK
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_33GHz_Ka_nonlin
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_41GHz_Q_200uK
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_41GHz_Q_nonlin
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_61GHz_V_200uK
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_61GHz_V_nonlin
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_94GHz_W_200uK
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_94GHz_W_nonlin
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_K_50uK
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_Ka_35uK
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_Q_35uK
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_V_35uK
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
+
+@image
+url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_W_35uK
+copyright: ~~COPYRIGHT~~
+license_id: ~~LICENSE~~
+
+credits> Courtesy WMAP Science Team
+
+wip: yes
+---
