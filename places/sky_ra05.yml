@@ -3599,29 +3599,7 @@ ra_hr: 5.350325214379359
 thumbnail: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_fine_guidance_1/thumb.jpg
 zoom_level: 0.4008723881013212
 ---
-_uuid: 85d9cef1-d1cc-42f8-913a-87961f02b476
-classification: ''
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.50106898307621
-foreground_image_set_url: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_fine_guidance_1/{1}/{3}/{3}_{2}.png
-name: JWST Fine Guidance Sensor 1
-ra_hr: 5.350325214379359
-thumbnail: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_fine_guidance_1/thumb.jpg
-zoom_level: 0.4008723881013212
----
 _uuid: 4b899990-a715-41b0-9ac2-6aad2809b033
-classification: ''
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.4649893803267
-foreground_image_set_url: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_fine_guidance_2/{1}/{3}/{3}_{2}.png
-name: JWST Fine Guidance Sensor 2
-ra_hr: 5.356977792759767
-thumbnail: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_fine_guidance_2/thumb.jpg
-zoom_level: 0.3968298405683336
----
-_uuid: bcd184db-4a43-4043-b47c-443cacdc3aa7
 classification: ''
 constellation: DOR
 data_set_type: Sky
@@ -3643,29 +3621,7 @@ ra_hr: 5.386699949014206
 thumbnail: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_miri/thumb.jpg
 zoom_level: 0.3196782675391854
 ---
-_uuid: 0162dde5-6c5c-483a-83d7-e50e88803ab5
-classification: ''
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.4287564406419
-foreground_image_set_url: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_miri/{1}/{3}/{3}_{2}.png
-name: JWST MIRI
-ra_hr: 5.386699949014206
-thumbnail: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_miri/thumb.jpg
-zoom_level: 0.3196782675391854
----
 _uuid: 58ff014c-a755-4846-95ca-8b463339f682
-classification: ''
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.5158842636666
-foreground_image_set_url: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nircam_1/{1}/{3}/{3}_{2}.png
-name: JWST NIRCAM 1
-ra_hr: 5.363057589028627
-thumbnail: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nircam_1/thumb.jpg
-zoom_level: 0.3329277650849967
----
-_uuid: 17bbb485-00a1-4c9b-9141-ae1a55f31a54
 classification: ''
 constellation: DOR
 data_set_type: Sky
@@ -3687,29 +3643,7 @@ ra_hr: 5.3692193281549265
 thumbnail: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nircam_2/thumb.jpg
 zoom_level: 0.33442530613939714
 ---
-_uuid: 7611b215-5c83-4ac7-8048-9422838381ab
-classification: ''
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.48052762009229
-foreground_image_set_url: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nircam_2/{1}/{3}/{3}_{2}.png
-name: JWST NIRCAM 2
-ra_hr: 5.3692193281549265
-thumbnail: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nircam_2/thumb.jpg
-zoom_level: 0.33442530613939714
----
 _uuid: e282c773-a977-42f8-a23f-daf80828bc2a
-classification: ''
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.40171658364392
-foreground_image_set_url: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_niriss/{1}/{3}/{3}_{2}.png
-name: JWST NIRISS
-ra_hr: 5.368386485773567
-thumbnail: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_niriss/thumb.jpg
-zoom_level: 0.3772049630711673
----
-_uuid: 1db9b773-bb42-47be-b7e8-a596534cb6ca
 classification: ''
 constellation: DOR
 data_set_type: Sky
@@ -3731,29 +3665,7 @@ ra_hr: 5.351422027223173
 thumbnail: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_1/thumb.jpg
 zoom_level: 0.27519877106798285
 ---
-_uuid: 7c2104b3-79b3-4496-88df-553fb95d1f68
-classification: ''
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.60441964373399
-foreground_image_set_url: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_1/{1}/{3}/{3}_{2}.png
-name: JWST NIRSPEC 1
-ra_hr: 5.351422027223173
-thumbnail: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_1/thumb.jpg
-zoom_level: 0.27519877106798285
----
 _uuid: 904b7fec-11c5-4c25-b794-6b68821b7990
-classification: ''
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.60540683669211
-foreground_image_set_url: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_2/{1}/{3}/{3}_{2}.png
-name: JWST NIRSPEC 2
-ra_hr: 5.357871723775187
-thumbnail: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_2/thumb.jpg
-zoom_level: 0.26731126615930956
----
-_uuid: 12dfd0bb-ec2a-43a5-a78d-fdcdd8031103
 classification: ''
 constellation: DOR
 data_set_type: Sky
@@ -3775,29 +3687,7 @@ ra_hr: 5.351592298473807
 thumbnail: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_3/thumb.jpg
 zoom_level: 0.27641893580874527
 ---
-_uuid: 2d23fe4d-1a79-48f3-8a46-fcb102d42eff
-classification: ''
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.5715755624968
-foreground_image_set_url: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_3/{1}/{3}/{3}_{2}.png
-name: JWST NIRSPEC 3
-ra_hr: 5.351592298473807
-thumbnail: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_3/thumb.jpg
-zoom_level: 0.27641893580874527
----
 _uuid: 5752f979-e3f5-4a32-a234-c94270ae6857
-classification: ''
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.5727475357836
-foreground_image_set_url: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_4/{1}/{3}/{3}_{2}.png
-name: JWST NIRSPEC 4
-ra_hr: 5.35801333256256
-thumbnail: http://data1.wwtassets.org/packages/2022/04_jwst_isc/jwst_nirspec_4/thumb.jpg
-zoom_level: 0.2650092431203893
----
-_uuid: 38fb9bcd-b15e-4963-8b28-48835927b316
 classification: ''
 constellation: DOR
 data_set_type: Sky
