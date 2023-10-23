@@ -257,6 +257,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini-20080825-gemini-deepf-quas
   "publishedUTCISO8601": "2004-08-17T00:00:00+00:00"}'
 classification: ''
 constellation: PSC
+cxstatus: in:64276320975014bc743f17c4
 data_set_type: Sky
 dec_deg: 2.0295245833387696
 description: 'Obtained during the commissioning and system verification phase of GMOS,
@@ -285,6 +286,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini-ic5332final", "publishedUT
   "2014-05-23T00:00:00+00:00"}'
 classification: ''
 constellation: SCL
+cxstatus: in:64276328975014bc743f17cc
 data_set_type: Sky
 dec_deg: -35.91141764715871
 description: 'This stunning image shows the dynamic spiral galaxy IC 5332 in a field
@@ -313,6 +315,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini1306d", "publishedUTCISO860
   "2013-08-06T00:00:00+00:00"}'
 classification: ''
 constellation: GRU
+cxstatus: in:6427634f975014bc743f17f5
 data_set_type: Sky
 dec_deg: -42.3869313728579
 description: Spiral galaxy NGC 7582 is the brightest member of the Grus Quartet of
@@ -331,6 +334,7 @@ annotation: '{"channel": "noirlab", "itemid": "geminiann02007a", "publishedUTCIS
   "2002-09-10T05:00:00+00:00"}'
 classification: ''
 constellation: PSC
+cxstatus: in:64276355975014bc743f17fb
 data_set_type: Sky
 dec_deg: 2.0309892288845544
 description: Gemini Deep Field is centered on z=4 quasar QSO PMN2314+0201.
@@ -346,6 +350,7 @@ annotation: '{"channel": "noirlab", "itemid": "geminiann11015a", "publishedUTCIS
   "2011-11-15T14:27:12+00:00"}'
 classification: ''
 constellation: GRU
+cxstatus: in:6427635f975014bc743f1806
 data_set_type: Sky
 dec_deg: -42.5998939548495
 description: 'Gemini GMOS image of the barred spiral galaxy NGC 7552. Benjamin Reynolds,
@@ -364,6 +369,7 @@ annotation: '{"channel": "noirlab", "itemid": "iotw2136a", "publishedUTCISO8601"
   "2021-09-08T12:00:00+00:00"}'
 classification: ''
 constellation: SCL
+cxstatus: in:6427636f975014bc743f1817
 data_set_type: Sky
 dec_deg: -32.59072852187765
 description: This observation from the international Gemini Observatory — a Program
@@ -388,6 +394,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-bubble", "publishedUTCISO860
   "2020-06-30T21:34:02+00:00"}'
 classification: ''
 constellation: CAS
+cxstatus: in:642763c7975014bc743f1871
 data_set_type: Sky
 dec_deg: 61.19664866213584
 description: The Bubble Nebula is a shell of gas and dust carved out by the stellar
@@ -411,6 +418,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-jones1", "publishedUTCISO860
   "2020-06-30T21:34:05+00:00"}'
 classification: ''
 constellation: PEG
+cxstatus: in:642763e2975014bc743f188e
 data_set_type: Sky
 dec_deg: 30.47152096994215
 description: PK 104-29.1, also known as &quot;Jones 1&quot;, is a very faint, ghostlike
@@ -430,6 +438,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-kjpn8", "publishedUTCISO8601
   "2020-06-30T21:34:05+00:00"}'
 classification: ''
 constellation: CAS
+cxstatus: in:642763e3975014bc743f188f
 data_set_type: Sky
 dec_deg: 60.962250703714915
 description: This image was taken with the KPNO Mayall 4-meter telescope on November
@@ -450,6 +459,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-m52r", "publishedUTCISO8601"
   "2020-06-30T21:34:07+00:00"}'
 classification: ''
 constellation: CAS
+cxstatus: in:6427640f975014bc743f18bd
 data_set_type: Sky
 dec_deg: 61.425432545958024
 description: Open star cluster M52 (NGC7654) and the Bubble emission nebula (NGC7635).
@@ -469,6 +479,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc7635podi", "publishedUTCI
   "2012-09-04T00:00:00+00:00"}'
 classification: ''
 constellation: CAS
+cxstatus: in:6427645f975014bc743f1910
 data_set_type: Sky
 dec_deg: 61.16567970874457
 description: This central, cosmetically corrected view of NGC 7635 shows the nebulosity
@@ -487,6 +498,7 @@ angular_size: 3.399659999999999
 annotation: '{"channel": "noirlab", "itemid": "noao-peg", "publishedUTCISO8601": "2020-06-30T21:33:47.158732+00:00"}'
 classification: ''
 constellation: PEG
+cxstatus: in:64276463975014bc743f1913
 data_set_type: Sky
 dec_deg: 14.74015247002711
 description: 'The Pegasus Local Group dwarf galaxy, as observed with the KPNO Mayall
@@ -508,6 +520,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-wr157", "publishedUTCISO8601
   "2020-06-30T21:53:16+00:00"}'
 classification: ''
 constellation: CAS
+cxstatus: in:64276472975014bc743f1924
 data_set_type: Sky
 dec_deg: 60.4763249383662
 description: This image of Supernova 2002ic was taken at the Swope 1-meter telescope
@@ -533,6 +546,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0702a", "publishedUTCISO8601"
   "2007-01-07T00:00:00+00:00"}'
 classification: ''
 constellation: CAS
+cxstatus: in:6427648d975014bc743f1940
 data_set_type: Sky
 dec_deg: 61.24927446669929
 description: The Bubble Nebula (NGC7635) is one of three shells of gas surrounding
@@ -554,6 +568,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao1207a", "publishedUTCISO8601"
   "2012-12-04T00:00:00+00:00"}'
 classification: ''
 constellation: CAS
+cxstatus: in:64276496975014bc743f1949
 data_set_type: Sky
 dec_deg: 61.17809018235457
 description: This wide field view of NGC 7635 shows the nebulosity carved out by the
@@ -573,6 +588,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao1301a", "publishedUTCISO8601"
   "2013-02-12T00:00:00+00:00"}'
 classification: ''
 constellation: CEP
+cxstatus: in:64276498975014bc743f194b
 data_set_type: Sky
 dec_deg: 80.9220289520928
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -607,6 +623,7 @@ zoom_level: 0.8380604667323137
 _uuid: 480b3d54-0349-494c-a2cf-24bbad381561
 classification: ''
 constellation: PEG
+cxstatus: in:642761f9975014bc743f15bb
 data_set_type: Sky
 dec_deg: 8.874703771874396
 foreground_image_set_url: http://data1.wwtassets.org/packages/2022/12_jwst/potm2212a/{1}/{3}/{3}_{2}.png
@@ -618,6 +635,7 @@ zoom_level: 0.36422820544059614
 _uuid: 05f37a16-bfac-45c7-89a7-83b8025abe70
 classification: ''
 constellation: GRU
+cxstatus: in:642761f3975014bc743f15b5
 data_set_type: Sky
 dec_deg: -43.428452645293575
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/02_jwst/weic2306c/{1}/{3}/{3}_{2}.png
@@ -629,6 +647,7 @@ zoom_level: 0.3512747819991503
 _uuid: 0e62e04a-35e0-45a6-97f2-da4df1d0b672
 classification: ''
 constellation: CAS
+cxstatus: in:649e31091e6961df10c19538
 data_set_type: Sky
 dec_deg: 58.81816710183753
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/04_jwst/weic2311a/{1}/{3}/{3}_{2}.png
@@ -1564,6 +1583,7 @@ zoom_level: 5.46144256
 _uuid: d008642b-1bc9-420e-88e0-93a64ee424be
 classification: ''
 constellation: CAS
+cxstatus: in:649e46451e6961df10c19608
 data_set_type: Sky
 dec_deg: 61.930653
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-032L{1}X{2}Y{3}.png
@@ -1575,6 +1595,7 @@ zoom_level: 6.25777769088778
 _uuid: 1ae2719f-df0b-41a9-a0d8-7fb94b2fc8df
 classification: ''
 constellation: CAS
+cxstatus: in:649e46461e6961df10c19609
 data_set_type: Sky
 dec_deg: 61.82043152
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2012-001L{1}X{2}Y{3}.png
@@ -1586,6 +1607,7 @@ zoom_level: 125.1555540992
 _uuid: 08b045c5-6120-4c7c-bd5a-508b6d18a6f3
 classification: ''
 constellation: CAS
+cxstatus: in:649e46471e6961df10c1960a
 data_set_type: Sky
 dec_deg: 59.140912964
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2012-002L{1}X{2}Y{3}.png
@@ -1597,6 +1619,7 @@ zoom_level: 25.02562086912
 _uuid: 88791e6b-35ae-4f50-88c0-21d579dedaeb
 classification: OpenCluster
 constellation: CAS
+cxstatus: in:649ceb891e6961df10c194c5
 data_set_type: Sky
 dec_deg: 56.7083333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1469208079

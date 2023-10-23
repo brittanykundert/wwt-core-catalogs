@@ -356,6 +356,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini0805a", "publishedUTCISO860
   "2008-06-26T20:00:00+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:64276343975014bc743f17e8
 data_set_type: Sky
 dec_deg: -6.047301044047289
 description: Gemini South image of NGC 5426-27 (Arp 271) as imaged by the Gemini Multi-Object
@@ -372,6 +373,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao--m101sy", "publishedUTCISO86
   "2020-06-30T21:33:54+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:64276370975014bc743f1818
 data_set_type: Sky
 dec_deg: 54.319259830000625
 description: Image of a southern section of M101, made from a combination of red (R)
@@ -387,6 +389,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02269", "publishedUTCISO8601
   "2020-06-30T21:33:54+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:6427638d975014bc743f1835
 data_set_type: Sky
 dec_deg: 54.35344380268259
 description: The giant pinwheel galaxy, M101, in the constellation Ursa Major. Of
@@ -406,6 +409,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02881", "publishedUTCISO8601
   "2020-06-30T21:33:54.419609+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:642763b5975014bc743f185f
 data_set_type: Sky
 dec_deg: 54.3406086692426
 description: The well-known spiral galaxy M101 was imaged by Dr George Jacoby at the
@@ -427,6 +431,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-arp286", "publishedUTCISO860
   "2020-06-30T21:33:46.442089+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:642763c5975014bc743f1870
 data_set_type: Sky
 dec_deg: 3.9452892902680374
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -449,6 +454,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-m101sn2011fe", "publishedUTC
   "2020-06-30T21:34:00.884366+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:642763ec975014bc743f1898
 data_set_type: Sky
 dec_deg: 54.30801000091589
 description: 'This close-up image of the nearby galaxy M101 was obtained with the
@@ -471,6 +477,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-m101ubviha", "publishedUTCIS
   "2020-06-30T21:33:54.338983+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:642763ed975014bc743f1899
 data_set_type: Sky
 dec_deg: 54.35172079024524
 description: This image was obtained with the wide-field view of the Mosaic Camera
@@ -493,6 +500,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc5474", "publishedUTCISO86
   "2020-06-30T21:33:59.071192+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:64276453975014bc743f1904
 data_set_type: Sky
 dec_deg: 53.653399981201865
 description: Located in the constellation Ursa Major, NGC 5474 is a dwarf galaxy and
@@ -513,6 +521,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0101a", "publishedUTCISO8601"
   "2001-01-08T00:00:00+00:00"}'
 classification: ''
 constellation: BOO
+cxstatus: in:64276473975014bc743f1925
 data_set_type: Sky
 dec_deg: 35.25032590536137
 description: This first release from the NOAO Deep Wide-Field Survey (NDWFS) consists
@@ -545,6 +554,7 @@ annotation: '{"channel": "noirlab", "itemid": "noaoann16001a", "publishedUTCISO8
   "2016-01-08T00:00:00+00:00"}'
 classification: ''
 constellation: BOO
+cxstatus: in:642764aa975014bc743f195f
 data_set_type: Sky
 dec_deg: 35.139428553262995
 description: Weighing in at 500 trillion times the mass of the Sun, the young galaxy
@@ -563,6 +573,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2014c", "publishedUTCISO86
   "2020-06-24T06:00:00+00:00"}'
 classification: ''
 constellation: CEN
+cxstatus: in:642764b7975014bc743f196d
 data_set_type: Sky
 dec_deg: -39.98906331864925
 description: A circumstellar disk around star HD 129590 selected from the larger sample
@@ -579,6 +590,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2104e", "publishedUTCISO86
   "2021-01-13T14:30:00+00:00"}'
 classification: ''
 constellation: BOO
+cxstatus: in:642764d1975014bc743f1988
 data_set_type: Sky
 dec_deg: 14.688957271858943
 description: An example of a gravitational lens found in the DESI Legacy Surveys data.
@@ -594,6 +606,7 @@ zoom_level: 0.37772761844100006
 _uuid: c4910936-3e0d-4c92-a8d3-c1a05dfdc4a1
 classification: ''
 constellation: BOO
+cxstatus: in:649bab431e6961df10c19464
 data_set_type: Sky
 dec_deg: 52.2023501797996
 foreground_image_set_url: http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C295/{1}/{3}/{3}_{2}.png
@@ -605,6 +618,7 @@ zoom_level: 0.027528509830721415
 _uuid: 8222b8fa-bac8-4ff5-8f03-7cff22b19497
 classification: ''
 constellation: VIR
+cxstatus: in:649bab441e6961df10c19465
 data_set_type: Sky
 dec_deg: 6.476334325849166
 foreground_image_set_url: http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C298/{1}/{3}/{3}_{2}.png
@@ -616,6 +630,7 @@ zoom_level: 0.06020541139183448
 _uuid: 26a8d70d-015f-41f2-945c-9ec5594865d3
 classification: ''
 constellation: BOO
+cxstatus: in:6427620a975014bc743f15cd
 data_set_type: Sky
 dec_deg: 52.9112674947119
 description: Two new images from NASA's James Webb Space Telescope show what may be
@@ -1713,6 +1728,7 @@ zoom_level: 0.227736349949952
 _uuid: 787cdbe6-d91f-4cca-8fe1-5edd28cda119
 classification: ''
 constellation: BOO
+cxstatus: in:64b74319a15b29de42b30544
 data_set_type: Sky
 dec_deg: 33.8932531
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-007L{1}X{2}Y{3}.png
@@ -1724,6 +1740,7 @@ zoom_level: 0.245217419264
 _uuid: 3457bada-5587-4380-9143-f046291f77de
 classification: ''
 constellation: CIR
+cxstatus: in:64b7431aa15b29de42b30546
 data_set_type: Sky
 dec_deg: -62.4631333802834
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig11-019L{1}X{2}Y{3}.png
@@ -1735,6 +1752,7 @@ zoom_level: 6.25777769088778
 _uuid: 04d14a78-8d67-401c-b468-66ba433e962a
 classification: ''
 constellation: CIR
+cxstatus: in:64b7431ba15b29de42b30548
 data_set_type: Sky
 dec_deg: -62.4631333802834
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig11-020L{1}X{2}Y{3}.png
@@ -1746,6 +1764,7 @@ zoom_level: 6.25777769088778
 _uuid: 0c0cb03c-469f-4656-be47-1674786669f5
 classification: ''
 constellation: UMA
+cxstatus: in:64b7431da15b29de42b3054a
 data_set_type: Sky
 dec_deg: 54.348607
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig12-005L{1}X{2}Y{3}.png
@@ -1757,6 +1776,7 @@ zoom_level: 2.77446606848
 _uuid: 5ab5f0fe-ea4c-4b62-9617-82c2da47acb3
 classification: ''
 constellation: LUP
+cxstatus: in:64b7431ea15b29de42b3054c
 data_set_type: Sky
 dec_deg: -44.1506385
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig12-006aL{1}X{2}Y{3}.png
@@ -1768,6 +1788,7 @@ zoom_level: 0.454890258432
 _uuid: 54db575d-5d74-48d4-becb-ecf41f58e57a
 classification: ''
 constellation: BOO
+cxstatus: in:64b7431fa15b29de42b3054e
 data_set_type: Sky
 dec_deg: 35.3245832
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig13-018L{1}X{2}Y{3}.png
@@ -1779,6 +1800,7 @@ zoom_level: 0.377560915968
 _uuid: 2aa4bcfa-e74c-467f-b4f3-d14916d414bd
 classification: ''
 constellation: UMA
+cxstatus: in:64b7431fa15b29de42b30550
 data_set_type: Sky
 dec_deg: 54.348594
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2008-14aL{1}X{2}Y{3}.png
@@ -1790,6 +1812,7 @@ zoom_level: 2.776170496
 _uuid: 86e1e0de-01c3-41d1-a513-6c478b002422
 classification: ''
 constellation: UMA
+cxstatus: in:64b74320a15b29de42b30552
 data_set_type: Sky
 dec_deg: 54.348594
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2008-14bL{1}X{2}Y{3}.png
@@ -1801,6 +1824,7 @@ zoom_level: 2.776170496
 _uuid: d18f1400-8bd6-407a-81e9-435e122ff303
 classification: ''
 constellation: BOO
+cxstatus: in:64b74321a15b29de42b30554
 data_set_type: Sky
 dec_deg: 52.801311
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-08a1L{1}X{2}Y{3}.png
@@ -1812,6 +1836,7 @@ zoom_level: 2.73066663042622
 _uuid: 5126afb4-e9b3-4407-9675-93b54588dbc3
 classification: ''
 constellation: BOO
+cxstatus: in:64b74322a15b29de42b30556
 data_set_type: Sky
 dec_deg: 52.801311
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-08a2L{1}X{2}Y{3}.png
@@ -1823,6 +1848,7 @@ zoom_level: 2.73066663042622
 _uuid: 3edda61d-4405-43fe-b912-8c3f3046b701
 classification: ''
 constellation: BOO
+cxstatus: in:64b74323a15b29de42b30558
 data_set_type: Sky
 dec_deg: 34.051007516
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-14a1L{1}X{2}Y{3}.png
@@ -1834,6 +1860,7 @@ zoom_level: 7.852228608
 _uuid: d7c5f354-fc3d-47b5-8037-1a0ac30cbba6
 classification: ''
 constellation: BOO
+cxstatus: in:64b74324a15b29de42b3055a
 data_set_type: Sky
 dec_deg: 34.051007516
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-14a2L{1}X{2}Y{3}.png
@@ -1845,6 +1872,7 @@ zoom_level: 7.852228608
 _uuid: f7b28d1d-ef03-40b2-b5a4-de2c447854fa
 classification: ''
 constellation: BOO
+cxstatus: in:64b74325a15b29de42b3055c
 data_set_type: Sky
 dec_deg: 24.61892
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-03cL{1}X{2}Y{3}.png
@@ -1856,6 +1884,7 @@ zoom_level: 0.44112789504
 _uuid: 5fa17d15-c2a6-4737-9fba-c046aff4a7bc
 classification: ''
 constellation: CIR
+cxstatus: in:649e460a1e6961df10c195c7
 data_set_type: Sky
 dec_deg: -65.3392836
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-012L{1}X{2}Y{3}.png
@@ -1867,6 +1896,7 @@ zoom_level: 3.13460277248
 _uuid: ce3fcf94-4431-4a57-9743-339ff58f131c
 classification: ''
 constellation: UMA
+cxstatus: in:649e460b1e6961df10c195c8
 data_set_type: Sky
 dec_deg: 54.3485233
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-025L{1}X{2}Y{3}.png
@@ -1878,6 +1908,7 @@ zoom_level: 3.130642432
 _uuid: 4282c1ea-0f61-43d8-88c3-b547f2a841c3
 classification: ''
 constellation: CIR
+cxstatus: in:649e460d1e6961df10c195c9
 data_set_type: Sky
 dec_deg: -62.4631333802834
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-028aL{1}X{2}Y{3}.png
@@ -1889,6 +1920,7 @@ zoom_level: 6.25777769088778
 _uuid: 8a074526-c8b4-47a2-94c5-9bfe8d90f949
 classification: ''
 constellation: CIR
+cxstatus: in:649e460e1e6961df10c195ca
 data_set_type: Sky
 dec_deg: -62.4631333802834
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-028bL{1}X{2}Y{3}.png
@@ -1900,6 +1932,7 @@ zoom_level: 6.25777769088778
 _uuid: a88a09be-d242-4892-a9a0-3aae42d194b2
 classification: Unfiltered
 constellation: VIR
+cxstatus: in:649ce1ce1e6961df10c19482
 data_set_type: Sky
 dec_deg: -6.02841666666667
 foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/217826522/{1}/{3}/{3}_{2}.png
@@ -1911,6 +1944,7 @@ _uuid: 41894966-e692-4dfe-ba98-63087fbef07e
 angular_size: -1.0
 classification: SpiralGalaxy
 constellation: UMA
+cxstatus: in:649cf3d11e6961df10c19504
 data_set_type: Sky
 dec_deg: 54.35
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn029

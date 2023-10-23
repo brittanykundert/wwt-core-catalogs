@@ -585,6 +585,7 @@ annotation: '{"channel": "noirlab", "itemid": "ann21023a", "publishedUTCISO8601"
   "2021-06-08T10:17:36+00:00"}'
 classification: ''
 constellation: HYA
+cxstatus: in:6427631c975014bc743f17c0
 data_set_type: Sky
 dec_deg: -28.393304953975466
 description: The Dark Energy Camera&#x27;s 1 millionth exposure. At the time of this
@@ -608,6 +609,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini0901b", "publishedUTCISO860
   "2009-04-01T20:00:00+00:00"}'
 classification: ''
 constellation: CAR
+cxstatus: in:64276345975014bc743f17ea
 data_set_type: Sky
 dec_deg: -61.31398207325718
 description: 'At the heart of a star-forming region called RCW 57, this image shows
@@ -635,6 +637,7 @@ annotation: '{"channel": "noirlab", "itemid": "geminiann10008a", "publishedUTCIS
   "2010-03-25T16:44:19+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:6427635e975014bc743f1805
 data_set_type: Sky
 dec_deg: 55.00951645586058
 description: Gemini North image of the planetary nebula M97, also knownas the Owl
@@ -653,6 +656,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02338", "publishedUTCISO8601
   "2020-06-30T21:33:57+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:642763a1975014bc743f184a
 data_set_type: Sky
 dec_deg: 53.06845644574611
 description: NGC3718 is an unusual lenticular galaxy of type S0(pec), in the constellation
@@ -669,6 +673,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02953", "publishedUTCISO8601
   "2020-06-30T21:33:57+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:642763b6975014bc743f1860
 data_set_type: Sky
 dec_deg: 43.947021100380525
 description: NGC4013, a large, nearby, edge-on spiral galaxy.
@@ -683,6 +688,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ic2944", "publishedUTCISO860
   "2020-06-30T21:34:05+00:00"}'
 classification: ''
 constellation: CEN
+cxstatus: in:642763d8975014bc743f1884
 data_set_type: Sky
 dec_deg: -63.374017385607154
 description: IC 2944 is an emission nebula in Centaurus, 5900 light years distant.
@@ -705,6 +711,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-m108", "publishedUTCISO8601"
   "2020-06-30T21:33:55.066039+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:642763f1975014bc743f189e
 data_set_type: Sky
 dec_deg: 55.67289169964539
 description: M108 is a type Sc spiral galaxy in the constellation Ursa Major. Almost
@@ -727,6 +734,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-m109", "publishedUTCISO8601"
   "2020-06-30T21:33:55.136732+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:642763f2975014bc743f189f
 data_set_type: Sky
 dec_deg: 53.37529092553621
 description: M109 is a type SBc barred spiral galaxy in the constellation Ursa Major.
@@ -745,6 +753,7 @@ angular_size: 1.7692919999999999
 annotation: '{"channel": "noirlab", "itemid": "noao-m65", "publishedUTCISO8601": "2020-06-30T21:33:51+00:00"}'
 classification: ''
 constellation: LEO
+cxstatus: in:64276417975014bc743f18c6
 data_set_type: Sky
 dec_deg: 13.092233684015119
 description: M65 is a spiral galaxy of type Sa in the constellation Leo. At a distance
@@ -764,6 +773,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-m65a66", "publishedUTCISO860
   "2020-06-30T21:33:51.446051+00:00"}'
 classification: ''
 constellation: LEO
+cxstatus: in:64276418975014bc743f18c7
 data_set_type: Sky
 dec_deg: 13.28765744702819
 description: This small group of galaxies consists of the Messier objects M65 (NGC3623),
@@ -789,6 +799,7 @@ angular_size: 1.6870800000000004
 annotation: '{"channel": "noirlab", "itemid": "noao-m66", "publishedUTCISO8601": "2020-06-30T21:33:51.537708+00:00"}'
 classification: ''
 constellation: LEO
+cxstatus: in:64276419975014bc743f18c8
 data_set_type: Sky
 dec_deg: 12.979817164100558
 description: M66 is a spiral galaxy of type Sb in the constellation Leo. At a distance
@@ -807,6 +818,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc3582", "publishedUTCISO86
   "2020-06-30T21:34:09+00:00"}'
 classification: ''
 constellation: CAR
+cxstatus: in:6427644a975014bc743f18fc
 data_set_type: Sky
 dec_deg: -61.22152839667299
 description: NGC3582 is a minor nebula in the Sagittarius arm of the Milky Way galaxy.
@@ -825,6 +837,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc3628", "publishedUTCISO86
   "2020-06-30T21:33:57.671790+00:00"}'
 classification: ''
 constellation: LEO
+cxstatus: in:6427644b975014bc743f18fd
 data_set_type: Sky
 dec_deg: 13.583938804515551
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -846,6 +859,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc3718", "publishedUTCISO86
   "2020-06-30T21:33:57.776315+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:6427644c975014bc743f18fe
 data_set_type: Sky
 dec_deg: 53.07777740124953
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -870,6 +884,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0310a", "publishedUTCISO8601"
   "2003-07-09T00:00:00+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:64276481975014bc743f1934
 data_set_type: Sky
 dec_deg: 55.01719372141746
 description: This composite image of the Owl Nebula (also known as M97 or NGC3587)
@@ -888,6 +903,7 @@ annotation: '{"channel": "noirlab", "itemid": "noaoann12008a", "publishedUTCISO8
   "2012-06-26T00:00:00+00:00"}'
 classification: ''
 constellation: CEN
+cxstatus: in:642764a6975014bc743f195a
 data_set_type: Sky
 dec_deg: -63.36976335382528
 description: This image was obtained with the wide-field view of the Mosaic II camera
@@ -910,6 +926,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2103a", "publishedUTCISO86
   "2021-01-13T14:25:00+00:00"}'
 classification: ''
 constellation: LEO
+cxstatus: in:642764cd975014bc743f1984
 data_set_type: Sky
 dec_deg: 21.984831093148912
 description: A group of galaxies nicknamed the Copeland Septet, in the constellation
@@ -928,6 +945,7 @@ zoom_level: 1.4359052629949172
 _uuid: ef737c74-1de9-4675-9af7-a0529167aaa7
 classification: ''
 constellation: UMA
+cxstatus: in:649bab461e6961df10c19467
 data_set_type: Sky
 dec_deg: 58.5625272063243
 foreground_image_set_url: http://data1.wwtassets.org/packages/2021/08_lofar_17821/Arp299/{1}/{3}/{3}_{2}.png
@@ -939,6 +957,7 @@ zoom_level: 0.15650990706912243
 _uuid: b34412d6-06ec-4396-be3e-dceda147bbdf
 classification: ''
 constellation: CHA
+cxstatus: in:642761f7975014bc743f15b9
 data_set_type: Sky
 dec_deg: -77.3871421137166
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/01_jwst/weic2303a/{1}/{3}/{3}_{2}.png
@@ -2271,6 +2290,7 @@ zoom_level: 0.180397565530931
 _uuid: 18f693f5-64d3-4135-831d-7dc1d0abe81f
 classification: ''
 constellation: LEO
+cxstatus: in:64b744c7a15b29de42b30634
 data_set_type: Sky
 dec_deg: 13.0000414367
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig05-016L{1}X{2}Y{3}.png
@@ -2282,6 +2302,7 @@ zoom_level: 0.852379039526584
 _uuid: 578e6fa2-f1e4-40ed-bd51-6477fcb45e45
 classification: ''
 constellation: CHA
+cxstatus: in:64b744c8a15b29de42b30636
 data_set_type: Sky
 dec_deg: -77.5588102
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig06-002aL{1}X{2}Y{3}.png
@@ -2293,6 +2314,7 @@ zoom_level: 0.2440445952
 _uuid: 585f6b83-59ea-4364-b2e7-9f1c6f487281
 classification: ''
 constellation: LEO
+cxstatus: in:64b744c9a15b29de42b30638
 data_set_type: Sky
 dec_deg: 22.39952
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig14-015bL{1}X{2}Y{3}.png
@@ -2304,6 +2326,7 @@ zoom_level: 0.68275912704
 _uuid: edba3832-d59a-4cf3-8c95-4aadb135a8ed
 classification: ''
 constellation: LEO
+cxstatus: in:64b744caa15b29de42b3063a
 data_set_type: Sky
 dec_deg: 15.4538685
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig15-013L{1}X{2}Y{3}.png
@@ -2315,6 +2338,7 @@ zoom_level: 0.28406874112
 _uuid: c4221609-7d02-4886-bf8b-72c33767103e
 classification: ''
 constellation: VIR
+cxstatus: in:64b744cba15b29de42b3063c
 data_set_type: Sky
 dec_deg: 4.456195
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2009-19aL{1}X{2}Y{3}.png
@@ -2326,6 +2350,7 @@ zoom_level: 1.68880510293333
 _uuid: 3d6007f4-b1c4-4e95-a7f0-9dd2542b71d4
 classification: ''
 constellation: LEO
+cxstatus: in:64b744cca15b29de42b3063e
 data_set_type: Sky
 dec_deg: 22.40132035
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-12a1L{1}X{2}Y{3}.png
@@ -2337,6 +2362,7 @@ zoom_level: 0.29549805568
 _uuid: b4853bdf-0f9e-46a4-96c3-c69415e6061c
 classification: ''
 constellation: LEO
+cxstatus: in:64b744cda15b29de42b30640
 data_set_type: Sky
 dec_deg: 22.40132035
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-12a3L{1}X{2}Y{3}.png
@@ -2348,6 +2374,7 @@ zoom_level: 0.711111111111113
 _uuid: 740e2758-72ce-4379-93f6-739a1a6ffba2
 classification: ''
 constellation: LEO
+cxstatus: in:64b744cea15b29de42b30642
 data_set_type: Sky
 dec_deg: 22.40132035
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-12aL{1}X{2}Y{3}.png
@@ -2359,6 +2386,7 @@ zoom_level: 0.563470899470901
 _uuid: caf5a83a-b883-4e63-9430-15f8677c2f62
 classification: ''
 constellation: CAR
+cxstatus: in:649e46291e6961df10c195e9
 data_set_type: Sky
 dec_deg: -61.2713
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-004bL{1}X{2}Y{3}.png
@@ -2370,6 +2398,7 @@ zoom_level: 12.2880001068122
 _uuid: 247a21f4-cdfa-4cbb-a15b-88add2af9a7b
 classification: ''
 constellation: CAR
+cxstatus: in:649e462a1e6961df10c195ea
 data_set_type: Sky
 dec_deg: -65.5021662
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-021L{1}X{2}Y{3}.png
@@ -2381,6 +2410,7 @@ zoom_level: 12.51723313152
 _uuid: c7c22321-e9b9-43a7-a0dc-ef49bde18dc9
 classification: ''
 constellation: CEN
+cxstatus: in:649e462b1e6961df10c195eb
 data_set_type: Sky
 dec_deg: -63.606667
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-046L{1}X{2}Y{3}.png

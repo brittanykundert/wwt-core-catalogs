@@ -86,6 +86,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini-20061001-ngc7009-ao", "pub
   "2007-12-28T00:00:00+00:00"}'
 classification: ''
 constellation: AQR
+cxstatus: in:6427631d975014bc743f17c1
 data_set_type: Sky
 dec_deg: -11.363181273008701
 description: This Gemini North image shows the well-known planetary nebula NGC 7009
@@ -104,6 +105,7 @@ annotation: '{"channel": "noirlab", "itemid": "geminiann09001a", "publishedUTCIS
   "2009-01-05T14:34:49+00:00"}'
 classification: ''
 constellation: CYG
+cxstatus: in:6427635c975014bc743f1802
 data_set_type: Sky
 dec_deg: 42.23600783987187
 description: NIRI/Altair + Laser-guide-star image of NGC 7027 from Gemini North. The
@@ -124,6 +126,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02215", "publishedUTCISO8601
   "2020-06-30T21:34:15+00:00"}'
 classification: ''
 constellation: PEG
+cxstatus: in:6427638a975014bc743f1832
 data_set_type: Sky
 dec_deg: 12.171821737203185
 description: 'M15, or NGC7078, a globular cluster in the constellation Pegasus, as
@@ -143,6 +146,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-abell74", "publishedUTCISO86
   "2020-06-30T21:34:02+00:00"}'
 classification: ''
 constellation: VUL
+cxstatus: in:642763c3975014bc743f186d
 data_set_type: Sky
 dec_deg: 24.14440925321811
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -164,6 +168,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ic1396", "publishedUTCISO860
   "2020-06-30T21:34:05.086965+00:00"}'
 classification: ''
 constellation: CEP
+cxstatus: in:642763d4975014bc743f187f
 data_set_type: Sky
 dec_deg: 57.4796600304563
 description: This image of the Elephant Trunk Nebula was taken with the Mosaic camera
@@ -183,6 +188,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ic1396a", "publishedUTCISO86
   "2020-06-30T21:34:04+00:00"}'
 classification: ''
 constellation: CEP
+cxstatus: in:642763d5975014bc743f1880
 data_set_type: Sky
 dec_deg: 58.26900616745413
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -206,6 +212,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ic1396b", "publishedUTCISO86
   "2020-06-30T21:34:04+00:00"}'
 classification: ''
 constellation: CEP
+cxstatus: in:642763d6975014bc743f1881
 data_set_type: Sky
 dec_deg: 57.73810225231407
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -229,6 +236,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ic1396c", "publishedUTCISO86
   "2020-06-30T21:34:04+00:00"}'
 classification: ''
 constellation: CEP
+cxstatus: in:642763d7975014bc743f1882
 data_set_type: Sky
 dec_deg: 57.132343032278676
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -252,6 +260,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-m15-kpno-0-9-m", "publishedU
   "2020-09-18T02:09:46+00:00"}'
 classification: ''
 constellation: PEG
+cxstatus: in:642763f8975014bc743f18a5
 data_set_type: Sky
 dec_deg: 12.165666243149145
 description: Somewhat over 33000 light-years away and 120 light-years across, M15
@@ -271,6 +280,7 @@ angular_size: 2.69892
 annotation: '{"channel": "noirlab", "itemid": "noao-m30", "publishedUTCISO8601": "2020-06-30T21:34:16+00:00"}'
 classification: ''
 constellation: CAP
+cxstatus: in:64276406975014bc743f18b4
 data_set_type: Sky
 dec_deg: -23.178918510983255
 description: M30, or NGC7099, a globular cluster in the constellation Capricornus,
@@ -289,6 +299,7 @@ angular_size: 7.907603823745559
 annotation: '{"channel": "noirlab", "itemid": "noao-m39", "publishedUTCISO8601": "2004-06-29T19:03:39+00:00"}'
 classification: ''
 constellation: CYG
+cxstatus: in:6427640d975014bc743f18bb
 data_set_type: Sky
 dec_deg: 48.464070800144114
 description: M39 is a loose, widely spaced open cluster in the constellation Cygnus.
@@ -311,6 +322,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-mwp1", "publishedUTCISO8601"
   "2020-06-30T21:34:08.437788+00:00"}'
 classification: ''
 constellation: CYG
+cxstatus: in:64276434975014bc743f18e5
 data_set_type: Sky
 dec_deg: 34.1973031867715
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -332,6 +344,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-n7129", "publishedUTCISO8601
   "2020-06-30T21:34:10.354659+00:00"}'
 classification: ''
 constellation: CEP
+cxstatus: in:6427643a975014bc743f18ec
 data_set_type: Sky
 dec_deg: 66.09816666015055
 description: NGC7129 is a star-forming and photodissociation region and reflection
@@ -360,6 +373,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc7023", "publishedUTCISO86
   "2020-06-30T21:34:10.306273+00:00"}'
 classification: ''
 constellation: CEP
+cxstatus: in:6427645b975014bc743f190d
 data_set_type: Sky
 dec_deg: 68.1210186056888
 description: This image was obtained with the wide-field view of the Mosaic Camera
@@ -383,6 +397,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc7129", "publishedUTCISO86
   "2020-06-30T21:53:16+00:00"}'
 classification: ''
 constellation: CEP
+cxstatus: in:6427645c975014bc743f190e
 data_set_type: Sky
 dec_deg: 66.11305541386305
 description: NGC 7129 is a star-forming region and reflection nebula in the constellation
@@ -401,6 +416,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-vdb141", "publishedUTCISO860
   "2020-06-30T21:34:03+00:00"}'
 classification: ''
 constellation: CEP
+cxstatus: in:64276468975014bc743f1919
 data_set_type: Sky
 dec_deg: 68.26127541119344
 description: This image was obtained with the wide-field view of the Mosaic Camera
@@ -421,6 +437,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-vdb141se", "publishedUTCISO8
   "2020-06-30T21:34:13.048875+00:00"}'
 classification: ''
 constellation: CEP
+cxstatus: in:64276469975014bc743f191a
 data_set_type: Sky
 dec_deg: 68.06746025559474
 description: This image was obtained with the wide-field view of the Mosaic Camera
@@ -439,6 +456,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0702b", "publishedUTCISO8601"
   "2007-01-07T00:00:00+00:00"}'
 classification: ''
 constellation: CEP
+cxstatus: in:6427648e975014bc743f1941
 data_set_type: Sky
 dec_deg: 57.00560310167066
 description: Barnard 163 is a dark nebula within IC1396, a very large emission nebula
@@ -458,6 +476,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao1507a", "publishedUTCISO8601"
   "2015-11-11T00:00:00+00:00"}'
 classification: ''
 constellation: CEP
+cxstatus: in:6427649e975014bc743f1951
 data_set_type: Sky
 dec_deg: 57.48173014132636
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -479,6 +498,7 @@ zoom_level: 5.097710422659366
 _uuid: 0de2676b-daa7-49ee-9a1f-44ad5853eb4c
 classification: ''
 constellation: AQR
+cxstatus: in:649e31071e6961df10c19536
 data_set_type: Sky
 dec_deg: 0.09203866997609902
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/04_jwst/potm2302a/{1}/{3}/{3}_{2}.png
@@ -502,6 +522,7 @@ _uuid: 47c25ad7-72e5-48e1-a2ed-30b0c8adc7fb
 angular_size: 1.0
 classification: Nebula
 constellation: CEP
+cxstatus: in:64bb0ff1d87c275bcc5875d8
 data_set_type: Sky
 dec_deg: 57.4702777777778
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010320{Q}?g=131
@@ -886,6 +907,7 @@ zoom_level: 0.180206122880205
 _uuid: 5de765f2-22bf-4a24-a578-771f391a9977
 classification: ''
 constellation: CEP
+cxstatus: in:64bb0ff2d87c275bcc5875da
 data_set_type: Sky
 dec_deg: 68.294217
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-006bL{1}X{2}Y{3}.png
@@ -897,6 +919,7 @@ zoom_level: 0.46166736896
 _uuid: 8c8ac160-4255-4d14-ac40-50da64e85a33
 classification: ''
 constellation: CYG
+cxstatus: in:64bb0ff3d87c275bcc5875dc
 data_set_type: Sky
 dec_deg: 52.37530285
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-014L{1}X{2}Y{3}.png
@@ -1007,6 +1030,7 @@ zoom_level: 0.349493021831291
 _uuid: acd107b9-c43a-4044-ac13-39c1f3428af6
 classification: ''
 constellation: AQR
+cxstatus: in:649e46411e6961df10c19603
 data_set_type: Sky
 dec_deg: -1.157829
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-035L{1}X{2}Y{3}.png
@@ -1018,6 +1042,7 @@ zoom_level: 4.6143685899043
 _uuid: 5cdb9012-5b99-4dc0-8650-d9eecd1c8a16
 classification: ''
 constellation: CYG
+cxstatus: in:649e46421e6961df10c19604
 data_set_type: Sky
 dec_deg: 47.256508
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-037L{1}X{2}Y{3}.png
@@ -1029,6 +1054,7 @@ zoom_level: 6.25745936384
 _uuid: 7ecc0376-db58-4af3-830e-d53b8a908654
 classification: ''
 constellation: CEP
+cxstatus: in:649e46431e6961df10c19605
 data_set_type: Sky
 dec_deg: 57.320779371
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-022L{1}X{2}Y{3}.png
@@ -1040,6 +1066,7 @@ zoom_level: 12.515540992
 _uuid: d70f0665-d029-4b2d-9327-c34a8cfe02b1
 classification: PlanetaryNebula
 constellation: CYG
+cxstatus: in:649ceb861e6961df10c194c2
 data_set_type: Sky
 dec_deg: 31.7008333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1076767149
@@ -1050,6 +1077,7 @@ zoom_level: 4.8
 _uuid: 3c811d23-7d0c-4f97-8dd7-b79ad8ce4578
 classification: Nebula
 constellation: CYG
+cxstatus: in:649ceb871e6961df10c194c3
 data_set_type: Sky
 dec_deg: 47.5041666666667
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1383150283
@@ -1060,6 +1088,7 @@ zoom_level: 32.0
 _uuid: e8b452ac-ffaf-4016-85ea-8ad8aad2c8be
 classification: Nebula
 constellation: CEP
+cxstatus: in:649ceb881e6961df10c194c4
 data_set_type: Sky
 dec_deg: 57.8416666666667
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1680635435
@@ -1071,6 +1100,7 @@ _uuid: a5abfbb2-c4eb-4764-a2c8-9517e02df7db
 angular_size: 1.0
 classification: ReflectionNebula
 constellation: CYG
+cxstatus: in:649cf3ea1e6961df10c1951f
 data_set_type: Sky
 dec_deg: 47.26444444444444
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn006
@@ -1082,6 +1112,7 @@ _uuid: 223569c1-adb2-458c-a08d-cc2ffa0b0d97
 angular_size: -1.0
 classification: EmissionNebula
 constellation: CEP
+cxstatus: in:649cf3eb1e6961df10c19520
 data_set_type: Sky
 dec_deg: 57.61333333333334
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn013
@@ -1093,6 +1124,7 @@ _uuid: 3cb291ca-3773-4654-98de-e27db6cde7f7
 angular_size: -1.0
 classification: GlobularCluster
 constellation: PEG
+cxstatus: in:649cf3eb1e6961df10c19521
 data_set_type: Sky
 dec_deg: 12.166666666666666
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn019
@@ -1104,6 +1136,7 @@ _uuid: 86dd9cda-83ab-4c85-ad22-d522bd325430
 angular_size: -1.0
 classification: GlobularCluster
 constellation: AQR
+cxstatus: in:649cf3ec1e6961df10c19522
 data_set_type: Sky
 dec_deg: 0.8216666666666667
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn032
@@ -1115,6 +1148,7 @@ _uuid: 4213d602-afe7-48e7-a948-c06412902c71
 angular_size: -1.0
 classification: ReflectionNebula
 constellation: CEP
+cxstatus: in:649cf3ed1e6961df10c19523
 data_set_type: Sky
 dec_deg: 68.16972222222223
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn048

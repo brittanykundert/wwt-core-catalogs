@@ -684,6 +684,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini0901a", "publishedUTCISO860
   "2009-04-01T20:00:00+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:64276344975014bc743f17e9
 data_set_type: Sky
 dec_deg: 63.224970661157734
 description: This image of NGC 3359 was obtained with the Gemini Multi-Object Spectrograph
@@ -719,6 +720,7 @@ annotation: '{"channel": "noirlab", "itemid": "iotw2035a", "publishedUTCISO8601"
   "2020-08-26T10:02:07+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:64276364975014bc743f180b
 data_set_type: Sky
 dec_deg: 45.55620755406156
 description: This stunning image features NGC 3198, a galaxy that lies about 47 million
@@ -746,6 +748,7 @@ annotation: '{"channel": "noirlab", "itemid": "iotw2126a", "publishedUTCISO8601"
   "2021-06-30T12:00:00+00:00"}'
 classification: ''
 constellation: SEX
+cxstatus: in:6427636e975014bc743f1815
 data_set_type: Sky
 dec_deg: -4.699977427454428
 description: This glittering image captured by the Nicholas U. Mayall 4-meter Telescope
@@ -772,6 +775,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02174", "publishedUTCISO8601
   "2020-06-30T21:34:03+00:00"}'
 classification: ''
 constellation: CAR
+cxstatus: in:64276374975014bc743f181c
 data_set_type: Sky
 dec_deg: -59.642452288499435
 description: 'The central portion of the Eta Carinae Nebula, NGC 3372, also known
@@ -790,6 +794,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02175", "publishedUTCISO8601
   "2020-06-30T21:34:03+00:00"}'
 classification: ''
 constellation: CAR
+cxstatus: in:64276375975014bc743f181d
 data_set_type: Sky
 dec_deg: -59.69753903794027
 description: 'The central portion of the Eta Carinae Nebula, NGC 3372, also known
@@ -808,6 +813,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02192", "publishedUTCISO8601
   "2020-06-30T21:34:03+00:00"}'
 classification: ''
 constellation: CAR
+cxstatus: in:64276383975014bc743f182b
 data_set_type: Sky
 dec_deg: -59.642452288499435
 description: The Eta Carinae nebula, NGC3372, also known as the Keyhole Nebula, as
@@ -827,6 +833,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02193", "publishedUTCISO8601
   "2020-06-30T21:34:03+00:00"}'
 classification: ''
 constellation: CAR
+cxstatus: in:64276384975014bc743f182c
 data_set_type: Sky
 dec_deg: -59.6709105557958
 description: The Eta Carinae nebula, NGC3372, also known as the Keyhole Nebula, as
@@ -844,6 +851,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02210", "publishedUTCISO8601
   "2020-06-30T21:34:03.352640+00:00"}'
 classification: ''
 constellation: CAR
+cxstatus: in:64276387975014bc743f182f
 data_set_type: Sky
 dec_deg: -59.71614622408022
 description: The Eta Carinae nebula, NGC3372, as seen from CTIO.
@@ -858,6 +866,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02336", "publishedUTCISO8601
   "2020-06-30T21:33:57+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:6427639f975014bc743f1848
 data_set_type: Sky
 dec_deg: 68.73565066602758
 description: This type II irregular galaxy in the constellation Ursa Major has dust
@@ -875,6 +884,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-j1018-17_crop1", "publishedU
   "2020-06-30T21:33:57+00:00"}'
 classification: ''
 constellation: HYA
+cxstatus: in:642763de975014bc743f188a
 data_set_type: Sky
 dec_deg: -17.985937520584834
 description: 'Gas-rich galaxies display a wide range of structures and properties,
@@ -903,6 +913,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-m105", "publishedUTCISO8601"
   "2020-06-30T21:33:54.908734+00:00"}'
 classification: ''
 constellation: LEO
+cxstatus: in:642763ef975014bc743f189c
 data_set_type: Sky
 dec_deg: 12.589091439016252
 description: M105 is a type E1 elliptical galaxy and the brightest member of the Leo
@@ -927,6 +938,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-m95_2", "publishedUTCISO8601
   "2020-06-30T21:53:17.340523+00:00"}'
 classification: ''
 constellation: LEO
+cxstatus: in:64276430975014bc743f18e1
 data_set_type: Sky
 dec_deg: 11.709153575822349
 description: The SBb barred spiral galaxy M95, possibly ringed, is a member of the
@@ -948,6 +960,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-n3310", "publishedUTCISO8601
   "2020-06-30T21:33:57.522146+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:64276439975014bc743f18ea
 data_set_type: Sky
 dec_deg: 53.50342425244123
 description: This image was made by combining three CCD frames, taken at the Kitt
@@ -988,6 +1001,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc3166", "publishedUTCISO86
   "2020-06-30T21:33:57.288266+00:00"}'
 classification: ''
 constellation: SEX
+cxstatus: in:64276449975014bc743f18fa
 data_set_type: Sky
 dec_deg: 3.448805952411612
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -1011,6 +1025,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc3242", "publishedUTCISO86
   "2020-06-30T21:34:09+00:00"}'
 classification: ''
 constellation: HYA
+cxstatus: in:6427644a975014bc743f18fb
 data_set_type: Sky
 dec_deg: -18.762491042984824
 description: This image was obtained with the wide-field view of the Mosaic Camera
@@ -1034,6 +1049,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0136a", "publishedUTCISO8601"
   "2020-06-30T21:34:02+00:00"}'
 classification: ''
 constellation: CAR
+cxstatus: in:6427647a975014bc743f192c
 data_set_type: Sky
 dec_deg: -59.612084730559346
 description: 'This image shows a giant star-forming region in the southern sky known
@@ -1057,6 +1073,7 @@ annotation: '{"channel": "noirlab", "itemid": "noaoann07017a", "publishedUTCISO8
   "2007-04-27T18:00:00+00:00"}'
 classification: ''
 constellation: CAR
+cxstatus: in:642764a0975014bc743f1954
 data_set_type: Sky
 dec_deg: -59.59650472839565
 description: Hubble&#x27;s view of the Carina Nebula shows star birth in a new level
@@ -1082,6 +1099,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2014g", "publishedUTCISO86
   "2020-06-24T06:00:00+00:00"}'
 classification: ''
 constellation: ANT
+cxstatus: in:642764bb975014bc743f1971
 data_set_type: Sky
 dec_deg: -33.67119241261219
 description: A circumstellar disk around star TWA 7 selected from the larger sample
@@ -1098,6 +1116,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2025a", "publishedUTCISO86
   "2020-10-05T06:00:00+00:00"}'
 classification: ''
 constellation: CAR
+cxstatus: in:642764c3975014bc743f1979
 data_set_type: Sky
 dec_deg: -59.58884189267985
 description: A 50-trillion-km (33-trillion-mile, or 5 light-year) long section of
@@ -1121,6 +1140,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2025d", "publishedUTCISO86
   "2020-10-05T06:00:00+00:00"}'
 classification: ''
 constellation: CAR
+cxstatus: in:642764c4975014bc743f197a
 data_set_type: Sky
 dec_deg: -59.58884189267985
 description: A 50-trillion-km (33-trillion-mile, or 5 light-year) long section of
@@ -1169,6 +1189,7 @@ zoom_level: 0.9471072653441663
 _uuid: c94be821-4c68-4fc3-8f04-73dd9c80344f
 classification: ''
 constellation: CAR
+cxstatus: in:6427620d975014bc743f15d1
 data_set_type: Sky
 dec_deg: -58.620167596399455
 foreground_image_set_url: http://data1.wwtassets.org/packages/2022/07_jwst/carina_miri/{1}/{3}/{3}_{2}.png
@@ -1180,6 +1201,7 @@ zoom_level: 0.7175138317174115
 _uuid: 09418ae0-bbee-4f97-ab88-16752d1e3e8f
 classification: ''
 constellation: CAR
+cxstatus: in:6427620c975014bc743f15d0
 data_set_type: Sky
 dec_deg: -58.620167596399455
 foreground_image_set_url: http://data1.wwtassets.org/packages/2022/07_jwst/carina_nircam/{1}/{3}/{3}_{2}.png
@@ -1191,6 +1213,7 @@ zoom_level: 0.7175138317174115
 _uuid: a3fd3593-44e5-4b0c-9079-4db0753de14c
 classification: ''
 constellation: VEL
+cxstatus: in:6427620e975014bc743f15d2
 data_set_type: Sky
 dec_deg: -40.43593551739831
 foreground_image_set_url: http://data1.wwtassets.org/packages/2022/07_jwst/jwst_s_ring_miri/{1}/{3}/{3}_{2}.png
@@ -1202,6 +1225,7 @@ zoom_level: 0.3826336529248513
 _uuid: d252782f-8a28-419c-8ad7-4b5e33b405fd
 classification: ''
 constellation: VEL
+cxstatus: in:64276210975014bc743f15d3
 data_set_type: Sky
 dec_deg: -40.43593551739831
 foreground_image_set_url: http://data1.wwtassets.org/packages/2022/07_jwst/jwst_s_ring_nircam/{1}/{3}/{3}_{2}.png
@@ -1213,6 +1237,7 @@ zoom_level: 0.3826336529248513
 _uuid: 812f0437-6b86-4b4e-9bcf-d5416da8a603
 classification: ''
 constellation: CAR
+cxstatus: in:642761fb975014bc743f15bd
 data_set_type: Sky
 dec_deg: -58.62021596141634
 foreground_image_set_url: http://data1.wwtassets.org/packages/2022/12_jwst/carinanebula3/{1}/{3}/{3}_{2}.png
@@ -1224,6 +1249,7 @@ zoom_level: 0.7191631631817641
 _uuid: 82fa4d97-3f95-41fb-b2c2-b44629987d6e
 classification: ''
 constellation: VEL
+cxstatus: in:64276202975014bc743f15c4
 data_set_type: Sky
 dec_deg: -40.43538747209445
 foreground_image_set_url: http://data1.wwtassets.org/packages/2022/12_jwst/southernring2/{1}/{3}/{3}_{2}.png
@@ -1235,6 +1261,7 @@ zoom_level: 0.4192426344881142
 _uuid: 8982fb8a-d322-4c33-94f4-7334566e4619
 classification: ''
 constellation: VEL
+cxstatus: in:64276203975014bc743f15c5
 data_set_type: Sky
 dec_deg: -40.437118835461256
 foreground_image_set_url: http://data1.wwtassets.org/packages/2022/12_jwst/southernring3/{1}/{3}/{3}_{2}.png
@@ -1290,6 +1317,7 @@ zoom_level: 1.0
 _uuid: 3ff9ca37-679e-4883-9cb5-eec6b420559d
 classification: ''
 constellation: CAR
+cxstatus: in:642764de975014bc743f1995
 data_set_type: Sky
 dec_deg: -59.699805
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000200{Q}?g=138
@@ -3159,6 +3187,7 @@ zoom_level: 0.22765957430313
 _uuid: 50b0ec6e-ecfc-43f0-9f67-6ba81f984f79
 classification: ''
 constellation: LMI
+cxstatus: in:64b7448ca15b29de42b305b4
 data_set_type: Sky
 dec_deg: 30.0619295
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig05-006aL{1}X{2}Y{3}.png
@@ -3170,6 +3199,7 @@ zoom_level: 0.329238528
 _uuid: 9cc4c62d-12fa-4cf6-b56b-44378efcb5cd
 classification: ''
 constellation: LEO
+cxstatus: in:64b7448da15b29de42b305b6
 data_set_type: Sky
 dec_deg: 11.6803291224
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig05-015L{1}X{2}Y{3}.png
@@ -3181,6 +3211,7 @@ zoom_level: 0.851928278666158
 _uuid: 1b251b21-e193-4f56-84ce-36d3c2365c7f
 classification: ''
 constellation: CAR
+cxstatus: in:64b7448ea15b29de42b305b8
 data_set_type: Sky
 dec_deg: -57.7524971
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig08-018L{1}X{2}Y{3}.png
@@ -3192,6 +3223,7 @@ zoom_level: 2.72785408
 _uuid: 709bd9f0-6379-4af3-a3e9-6bdf37df8793
 classification: ''
 constellation: UMA
+cxstatus: in:64b7448fa15b29de42b305ba
 data_set_type: Sky
 dec_deg: 54.3018181
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig11-005bL{1}X{2}Y{3}.png
@@ -3203,6 +3235,7 @@ zoom_level: 0.98246500352
 _uuid: b4b8a884-169b-4f62-8cca-0c4f1c64d6fd
 classification: ''
 constellation: CAR
+cxstatus: in:64b74490a15b29de42b305bc
 data_set_type: Sky
 dec_deg: -59.8096720352476
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig11-006L{1}X{2}Y{3}.png
@@ -3214,6 +3247,7 @@ zoom_level: 5.45496093433399
 _uuid: 83d07a99-5514-4f59-ac82-866fb0543c5b
 classification: ''
 constellation: HYA
+cxstatus: in:64b74491a15b29de42b305be
 data_set_type: Sky
 dec_deg: -18.644115
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig13-014L{1}X{2}Y{3}.png
@@ -3225,6 +3259,7 @@ zoom_level: 0.682668032
 _uuid: ec74d8fb-373a-479c-bec5-f055b27bf17f
 classification: ''
 constellation: SEX
+cxstatus: in:64b74492a15b29de42b305c0
 data_set_type: Sky
 dec_deg: 2.2095467
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig14-023L{1}X{2}Y{3}.png
@@ -3236,6 +3271,7 @@ zoom_level: 0.68263378944
 _uuid: bf145d8a-f48d-4b68-8ee3-6c39dba03064
 classification: ''
 constellation: LEO
+cxstatus: in:64b74493a15b29de42b305c2
 data_set_type: Sky
 dec_deg: 19.89852
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig14-029aL{1}X{2}Y{3}.png
@@ -3247,6 +3283,7 @@ zoom_level: 2.55345164288
 _uuid: 0e78cf98-64db-48ea-8294-90a0f3b7dd07
 classification: ''
 constellation: CAR
+cxstatus: in:64b74494a15b29de42b305c4
 data_set_type: Sky
 dec_deg: -57.7524971
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-08a1L{1}X{2}Y{3}.png
@@ -3258,6 +3295,7 @@ zoom_level: 2.72785408
 _uuid: f0985d56-16c9-4da1-a385-53f72c4b995f
 classification: ''
 constellation: SEX
+cxstatus: in:64b74495a15b29de42b305c6
 data_set_type: Sky
 dec_deg: 2.200973097
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2008-12a1L{1}X{2}Y{3}.png
@@ -3269,6 +3307,7 @@ zoom_level: 0.0145868947035897
 _uuid: 2bf63210-5092-4de0-91f8-7eea3c56bbc8
 classification: ''
 constellation: UMA
+cxstatus: in:64b74496a15b29de42b305c8
 data_set_type: Sky
 dec_deg: 56.6753895
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2015-03aL{1}X{2}Y{3}.png
@@ -3280,6 +3319,7 @@ zoom_level: 0.102425074297763
 _uuid: 1924ac7a-6e95-4f10-9b2d-50b97f497045
 classification: ''
 constellation: UMA
+cxstatus: in:64b74497a15b29de42b305ca
 data_set_type: Sky
 dec_deg: 56.6753895
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2015-03bL{1}X{2}Y{3}.png
@@ -3291,6 +3331,7 @@ zoom_level: 0.1023785385984
 _uuid: 4e41d4c7-3ef5-4b6f-a903-aa3f88a79146
 classification: Unfiltered
 constellation: HYA
+cxstatus: in:649ce1d11e6961df10c19486
 data_set_type: Sky
 dec_deg: -27.528585
 foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/292498877/{1}/{3}/{3}_{2}.png
