@@ -17,10 +17,17 @@ import re
 import shutil
 import sys
 import textwrap
+import time
 from typing import List, Dict
 import uuid
 from xml.etree import ElementTree as etree
 import yaml
+
+from requests.exceptions import ConnectionError
+
+from wwt_api_client import constellations as cx
+from wwt_api_client.constellations.data import SceneContent, SceneImageLayer, ScenePlace
+from wwt_api_client.constellations.handles import HandleClient, AddSceneRequest
 
 from wwt_data_formats import indent_xml
 from wwt_data_formats.enums import (
@@ -35,7 +42,8 @@ from wwt_data_formats.folder import Folder
 from wwt_data_formats.imageset import ImageSet
 from wwt_data_formats.place import Place
 
-
+H2R = math.pi / 12
+D2R = math.pi / 180
 BASEDIR = Path(os.path.dirname(__file__))
 
 
@@ -508,6 +516,91 @@ def _emit_record(kind, fields, stream):
     print("---", file=stream)
 
 
+def _retry(operation):
+    """
+    My computer will sometimes fail during large bootstraps due to temporary,
+    local network errors. Here's a dumb retry system since the design of the
+    openidc_client library that underlies wwt_api_client doesn't allow me to
+    activate retries at the request/urllib3 level, as far as I can see.
+    """
+    for _attempt in range(5):
+        try:
+            return operation()
+        except ConnectionError:
+            print("(retrying ...)")
+            time.sleep(0.5)
+
+
+def _register_image(client: HandleClient, fields, imgset) -> str:
+    "Returns the new image ID"
+
+    if imgset.band_pass != Bandpass.VISIBLE:
+        print(
+            f"warning: imageset `{imgset.name}` has non-default band_pass setting `{imgset.band_pass}`"
+        )
+    if imgset.base_tile_level != 0:
+        print(
+            f"warning: imageset `{imgset.name}` has non-default base_tile_level setting `{imgset.base_tile_level}`"
+        )
+    if imgset.data_set_type != DataSetType.SKY:
+        print(
+            f"warning: imageset `{imgset.name}` has non-default data_set_type setting `{imgset.data_set_type}`"
+        )
+    if imgset.elevation_model != False:
+        print(
+            f"warning: imageset `{imgset.name}` has non-default elevation_model setting `{imgset.elevation_model}`"
+        )
+    if imgset.generic != False:
+        print(
+            f"warning: imageset `{imgset.name}` has non-default generic setting `{imgset.generic}`"
+        )
+    if imgset.sparse != True:
+        print(
+            f"warning: imageset `{imgset.name}` has non-default sparse setting `{imgset.sparse}`"
+        )
+    if imgset.stock_set != False:
+        print(
+            f"warning: imageset `{imgset.name}` has non-default stock_set setting `{imgset.stock_set}`"
+        )
+
+    credits = fields["credits"]
+    copyright = fields["copyright"]
+    license_id = fields["license_id"]
+
+    print("registering image:", imgset.url)
+    return _retry(
+        lambda: client.add_image_from_set(
+            imgset, copyright, license_id, credits=credits
+        )
+    )
+
+
+def _register_scene(client, fields, place, imgid) -> str:
+    "Returns the new scene ID"
+
+    image_layers = [SceneImageLayer(image_id=imgid, opacity=1.0)]
+
+    api_place = ScenePlace(
+        ra_rad=place.ra_hr * H2R,
+        dec_rad=place.dec_deg * D2R,
+        roll_rad=place.rotation_deg * D2R,
+        roi_height_deg=place.zoom_level / 6,
+        roi_aspect_ratio=1.0,
+    )
+
+    content = SceneContent(image_layers=image_layers)
+
+    req = AddSceneRequest(
+        place=api_place,
+        content=content,
+        text=fields["text"],
+        outgoing_url=fields["outgoing_url"],
+    )
+
+    print("registering place/scene:", fields["place_uuid"])
+    return _retry(lambda: client.add_scene(req))
+
+
 class ConstellationsPrepDatabase(object):
     db_dir: Path = None
     by_handle: Dict[str, list] = None
@@ -703,7 +796,67 @@ class ConstellationsPrepDatabase(object):
                 fields["wip"] = "yes"
                 items.append(("scene", fields))
 
-        # All done!
+        # All done! Call rewrite() after this if you don't want to lose all this work.
+
+    def register(self, client: cx.CxClient, idb: ImagesetDatabase, pdb: PlaceDatabase):
+        # prefill the list of all known image IDs by URL since we may need
+        # these to consruct scene records
+
+        imgids_by_url = {}
+
+        for url, imgset in idb.by_url.items():
+            cxs = getattr(imgset.xmeta, "cxstatus", "")
+            if cxs.startswith("in:"):
+                imgids_by_url[url] = cxs[3:]
+
+        # now we can actually register the new stuff
+
+        n = 0
+
+        for handle in list(self.by_handle.keys()):
+            items = self.by_handle[handle]
+            new_items = []
+            handle_client = None
+
+            for kind, fields in items:
+                if "wip" in fields:
+                    # If not yet marked as ready, we'll preserve it and move on
+                    new_items.append((kind, fields))
+                    continue
+
+                # Ooh, we have something to upload!
+                if handle_client is None:
+                    handle_client = client.handle_client(handle)
+
+                if kind == "image":
+                    imgset = idb.by_url[fields["url"]]
+                    id = _register_image(handle_client, fields, imgset)
+                    imgset.xmeta.cxstatus = f"in:{id}"
+                    imgids_by_url[fields["url"]] = id
+                    n += 1
+                elif kind == "scene":
+                    uuid = fields["place_uuid"]
+                    img_url = fields["image_url"]
+                    img_id = imgids_by_url.get(img_url)
+
+                    if not img_id:
+                        warn(
+                            f"can't register place/scene {uuid} because can't determine CXID for imageset {img_url}"
+                        )
+                        continue
+
+                    place = pdb.reconst_by_id(uuid, idb)
+                    id = _register_scene(client, fields, place, img_id)
+                    pdb.by_uuid[uuid]["cxstatus"] = f"in:{id}"
+                    n += 1
+                else:
+                    warn(f"unexpected prep item kind `{kind}`")
+                    new_items.append((kind, fields))
+
+            self.by_handle[handle] = new_items
+
+        # All done! Rewrite this and the idb and the pdb afterwards
+        return n
 
     def rewrite(self):
         for handle, items in self.by_handle.items():
@@ -1433,6 +1586,21 @@ def do_prettify(settings):
         prettify(elem, sys.stdout)
 
 
+# register-cxprep
+
+
+def do_register_cxprep(_settings):
+    idb = ImagesetDatabase()
+    pdb = PlaceDatabase()
+    cxpdb = ConstellationsPrepDatabase()
+    n = cxpdb.register(cx.CxClient(), idb, pdb)
+    print()
+    print(f"Registered {n} items")
+    idb.rewrite()
+    pdb.rewrite()
+    cxpdb.rewrite()
+
+
 # replace-urls
 
 
@@ -1688,6 +1856,8 @@ def entrypoint():
         "xml", metavar="XML-PATH", help="Path to an XML file to prettify"
     )
 
+    _register_cxprep = subparsers.add_parser("register-cxprep")
+
     replace_urls = subparsers.add_parser("replace-urls")
     replace_urls.add_argument(
         "spec_path", metavar="TEXT-PATH", help="Path to text file of URLs to update"
@@ -1721,6 +1891,8 @@ def entrypoint():
         do_partition(settings)
     elif settings.subcommand == "prettify":
         do_prettify(settings)
+    elif settings.subcommand == "register-cxprep":
+        do_register_cxprep(settings)
     elif settings.subcommand == "replace-urls":
         do_replace_urls(settings)
     elif settings.subcommand == "report":
