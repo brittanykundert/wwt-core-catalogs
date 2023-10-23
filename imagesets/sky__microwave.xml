@@ -25,6 +25,7 @@
     TileLevels="4"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000220{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://map.gsfc.nasa.gov/m_mm/tm_1.html</CreditsUrl>
@@ -50,6 +51,7 @@
     TileLevels="4"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000221{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://map.gsfc.nasa.gov/m_mm/tm_1.html</CreditsUrl>
@@ -76,6 +78,7 @@
     TileLevels="4"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000112{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://map.gsfc.nasa.gov/m_mm/tm_1.html</CreditsUrl>
@@ -101,6 +104,7 @@
     TileLevels="4"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000212{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://map.gsfc.nasa.gov/m_mm/tm_1.html</CreditsUrl>
@@ -126,6 +130,7 @@
     TileLevels="4"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000222{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://map.gsfc.nasa.gov/m_mm/tm_1.html</CreditsUrl>
@@ -151,6 +156,7 @@
     TileLevels="4"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000213{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://map.gsfc.nasa.gov/m_mm/tm_1.html</CreditsUrl>
@@ -176,6 +182,7 @@
     TileLevels="4"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000233{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://map.gsfc.nasa.gov/m_mm/tm_1.html</CreditsUrl>
@@ -201,6 +208,7 @@
     TileLevels="4"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001033{Q}?g=138"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://map.gsfc.nasa.gov/m_mm/tm_1.html</CreditsUrl>
@@ -226,6 +234,7 @@
     TileLevels="6"
     Url="http://wwtfiles.blob.core.windows.net/plnk/planck4channelL{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/plnk/planck4channel_thumb.jpg</ThumbnailUrl>
   </ImageSet>
@@ -249,6 +258,7 @@
     TileLevels="6"
     Url="http://wwtfiles.blob.core.windows.net/plnk/planckcoL{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/plnk/planckco_thumb.jpg</ThumbnailUrl>
   </ImageSet>
@@ -272,6 +282,7 @@
     TileLevels="6"
     Url="http://wwtfiles.blob.core.windows.net/plnk/planckfreefreeL{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/plnk/planckfreefree_thumb.jpg</ThumbnailUrl>
   </ImageSet>
@@ -295,6 +306,7 @@
     TileLevels="6"
     Url="http://wwtfiles.blob.core.windows.net/plnk/planckmassmapL{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/plnk/planckmassmap_thumb.jpg</ThumbnailUrl>
   </ImageSet>
@@ -318,6 +330,7 @@
     TileLevels="6"
     Url="http://wwtfiles.blob.core.windows.net/plnk/planckspinningdustL{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/plnk/planckspinningdust_thumb.jpg</ThumbnailUrl>
   </ImageSet>
@@ -341,6 +354,7 @@
     TileLevels="6"
     Url="http://wwtfiles.blob.core.windows.net/plnk/plancksynchrotronL{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/plnk/plancksynchrotron_thumb.jpg</ThumbnailUrl>
   </ImageSet>
@@ -390,6 +404,7 @@
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_23GHz_K_200uK"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://lambda.gsfc.nasa.gov/product/map/current/</CreditsUrl>
@@ -415,6 +430,7 @@
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_23GHz_K_nonlin"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://lambda.gsfc.nasa.gov/product/map/current/</CreditsUrl>
@@ -440,6 +456,7 @@
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_33GHz_Ka_200uK"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://lambda.gsfc.nasa.gov/product/map/current/</CreditsUrl>
@@ -465,6 +482,7 @@
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_33GHz_Ka_nonlin"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://lambda.gsfc.nasa.gov/product/map/current/</CreditsUrl>
@@ -490,6 +508,7 @@
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_41GHz_Q_200uK"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://lambda.gsfc.nasa.gov/product/map/current/</CreditsUrl>
@@ -515,6 +534,7 @@
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_41GHz_Q_nonlin"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://lambda.gsfc.nasa.gov/product/map/current/</CreditsUrl>
@@ -540,6 +560,7 @@
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_61GHz_V_200uK"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://lambda.gsfc.nasa.gov/product/map/current/</CreditsUrl>
@@ -565,6 +586,7 @@
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_61GHz_V_nonlin"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://lambda.gsfc.nasa.gov/product/map/current/</CreditsUrl>
@@ -590,6 +612,7 @@
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_94GHz_W_200uK"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://lambda.gsfc.nasa.gov/product/map/current/</CreditsUrl>
@@ -615,6 +638,7 @@
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_94GHz_W_nonlin"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://lambda.gsfc.nasa.gov/product/map/current/</CreditsUrl>
@@ -666,6 +690,7 @@
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_K_50uK"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://lambda.gsfc.nasa.gov/product/map/current/</CreditsUrl>
@@ -691,6 +716,7 @@
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_Ka_35uK"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://lambda.gsfc.nasa.gov/product/map/current/</CreditsUrl>
@@ -716,6 +742,7 @@
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_Q_35uK"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://lambda.gsfc.nasa.gov/product/map/current/</CreditsUrl>
@@ -741,6 +768,7 @@
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_V_35uK"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://lambda.gsfc.nasa.gov/product/map/current/</CreditsUrl>
@@ -766,6 +794,7 @@
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_W_35uK"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Courtesy WMAP Science Team</Credits>
     <CreditsUrl>http://lambda.gsfc.nasa.gov/product/map/current/</CreditsUrl>
