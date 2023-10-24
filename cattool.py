@@ -824,61 +824,80 @@ class ConstellationsPrepDatabase(object):
 
         for handle in list(self.by_handle.keys()):
             items = self.by_handle[handle]
-            new_items = []
+            remove_img_urls = set()
+            remove_place_uuids = set()
             handle_client = None
 
-            for kind, fields in items:
-                if "wip" in fields:
-                    # If not yet marked as ready, we'll preserve it and move on
-                    new_items.append((kind, fields))
-                    continue
-
-                if "skip" in fields:
-                    # Something to skip. We still need to do a little work here
-                    # to log this decision in the main database files.
-
-                    if kind == "image":
-                        imgset = idb.by_url[fields["url"]]
-                        imgset.xmeta.cxstatus = f"skip"
-                    elif kind == "scene":
-                        uuid = fields["place_uuid"]
-                        pdb.by_uuid[uuid]["cxstatus"] = f"skip"
-                    else:
-                        warn(f"unexpected skipped prep item kind `{kind}`")
-                        new_items.append((kind, fields))
-
-                    continue
-
-                # Ooh, we have something to upload!
-                if handle_client is None:
-                    handle_client = client.handle_client(handle)
-
-                if kind == "image":
-                    imgset = idb.by_url[fields["url"]]
-                    id = _register_image(handle_client, fields, imgset)
-                    imgset.xmeta.cxstatus = f"in:{id}"
-                    imgids_by_url[fields["url"]] = id
-                    n += 1
-                elif kind == "scene":
-                    uuid = fields["place_uuid"]
-                    img_url = fields["image_url"]
-                    img_id = imgids_by_url.get(img_url)
-
-                    if not img_id:
-                        warn(
-                            f"can't register place/scene {uuid} because can't determine CXID for imageset {img_url}"
-                        )
+            try:
+                for kind, fields in items:
+                    if "wip" in fields:
+                        # Not yet ready
                         continue
 
-                    place = pdb.reconst_by_id(uuid, idb)
-                    id = _register_scene(handle_client, fields, place, img_id)
-                    pdb.by_uuid[uuid]["cxstatus"] = f"in:{id}"
-                    n += 1
-                else:
-                    warn(f"unexpected prep item kind `{kind}`")
+                    if "skip" in fields:
+                        # Something to skip. We still need to do a little work here
+                        # to log this decision in the main database files.
+
+                        if kind == "image":
+                            url = fields["url"]
+                            idb.by_url[url].xmeta.cxstatus = f"skip"
+                            remove_img_urls.add(url)
+                        elif kind == "scene":
+                            uuid = fields["place_uuid"]
+                            pdb.by_uuid[uuid]["cxstatus"] = f"skip"
+                            remove_place_uuids.add(uuid)
+                        else:
+                            warn(f"unexpected skipped prep item kind `{kind}`")
+
+                        continue
+
+                    # Ooh, we have something to upload!
+                    if handle_client is None:
+                        handle_client = client.handle_client(handle)
+
+                    if kind == "image":
+                        url = fields["url"]
+                        imgset = idb.by_url[url]
+                        id = _register_image(handle_client, fields, imgset)
+                        imgset.xmeta.cxstatus = f"in:{id}"
+                        imgids_by_url[url] = id
+                        remove_img_urls.add(url)
+                        n += 1
+                    elif kind == "scene":
+                        uuid = fields["place_uuid"]
+                        img_url = fields["image_url"]
+                        img_id = imgids_by_url.get(img_url)
+
+                        if not img_id:
+                            warn(
+                                f"can't register place/scene {uuid} because can't determine CXID for imageset {img_url}"
+                            )
+                            continue
+
+                        place = pdb.reconst_by_id(uuid, idb)
+                        id = _register_scene(handle_client, fields, place, img_id)
+                        pdb.by_uuid[uuid]["cxstatus"] = f"in:{id}"
+                        remove_place_uuids.add(uuid)
+                        n += 1
+                    else:
+                        warn(f"unexpected prep item kind `{kind}`")
+            finally:
+                # Update the list of items. We take this particular approach so
+                # that if we crash mid-operation, progress will be correctly
+                # saved, to the best of our ability.
+
+                new_items = []
+
+                for kind, fields in items:
+                    if kind == "image" and fields["url"] in remove_img_urls:
+                        continue
+
+                    if kind == "scene" and fields["place_uuid"] in remove_place_uuids:
+                        continue
+
                     new_items.append((kind, fields))
 
-            self.by_handle[handle] = new_items
+                self.by_handle[handle] = new_items
 
         # All done! Rewrite this and the idb and the pdb afterwards
         return n
@@ -1618,12 +1637,16 @@ def do_register_cxprep(_settings):
     idb = ImagesetDatabase()
     pdb = PlaceDatabase()
     cxpdb = ConstellationsPrepDatabase()
-    n = cxpdb.register(cx.CxClient(), idb, pdb)
-    print()
-    print(f"Registered {n} items")
-    idb.rewrite()
-    pdb.rewrite()
-    cxpdb.rewrite()
+
+    try:
+        n = cxpdb.register(cx.CxClient(), idb, pdb)
+        print()
+        print(f"Registered {n} items")
+    finally:
+        print("Saving database updates ...")
+        idb.rewrite()
+        pdb.rewrite()
+        cxpdb.rewrite()
 
 
 # replace-urls
