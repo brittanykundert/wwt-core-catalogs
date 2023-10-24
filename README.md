@@ -1,15 +1,22 @@
 # wwt-core-catalogs
 
-The purpose of this repository is to manage the WTML files that catalog WWT's
-core data holdings.
+The purpose of this repository is to manage the image data comprising WWT's
+core data holdings. Two major applications are maintenance of the WWT
+"legacy" WTML/XML metadata files, and automating the ingestion of the core
+data in the Constellations system.
+
+Python package requirements of note:
+
+- `wwt_data_formats` >= 0.17
+- `wwt_api_client` >= 0.5
 
 
-## Approach
+## Approach: Legacy System
 
-The ultimate goal of this repo is create a group of WTML and XML files that can
-be uploaded directly to WWT's cloud storage. These files are made available
-through the `catalog.aspx` API endpoint: the file `exploreroot6.wtml` is
-downloaded from
+A major goal of this repo is create a group of WTML and XML files that can be
+uploaded directly to WWT's cloud storage to define WWT’s "legacy" core data
+holdings. These files are made available through the `catalog.aspx` API
+endpoint: the file `exploreroot6.wtml` is downloaded from
 
 #### http://worldwidetelescope.org/wwtweb/catalog.aspx?W=exploreroot6
 
@@ -60,6 +67,25 @@ Known problematic datasets should be moved there so that we don't lose track of
 them. Add a `_Reason` attribute documenting why the imageset has a problem.
 Sometimes the underlying data could in principle be rescued (e.g. the astrometry
 of a study is just poor), sometimes not really (a planetary map is backwards).
+
+
+## Approach: Constellations
+
+Building on top of the system described above, there is a further framework
+aimed at ingesting data from this repository into the WWT Constellations system.
+
+Metadata about imagesets and places are extracted into files in the `cxprep/`
+directory, which stores information in large text files, one for each
+Constellations "handle" that is intended to eventually host the associated data.
+
+By default, each record is marked with a `wip: yes` flag, indicating that the
+record is a “work in progress” and should not be uploaded. After the information
+have been validated and corrected, this flag can be removed, and the
+`register-cxprep` command can be used to register the new items in the
+Constellations system.
+
+After this is done, the core database is updated with Constellations metadata,
+for posterity and to help make sure that work isn't duplicated.
 
 
 ## Driver
@@ -177,6 +203,36 @@ beginning of the `jwst` catalog.
 With the `--emit` option, this command will create a wholly new catalog template
 in `catfiles/` mirroring the input WTML's structure. You'll only want this
 option if you're importing a substantial, new image collection.
+
+### `cattool update-cxprep`
+
+This command updates the Constellations "prep" files in the `cxprep/`
+subdirectory with any new records that have been ingested into the main
+database.
+
+After running it, you should see any new records appended to the appropriate
+`cxprep/<handle>.txt` text file, with `wip: yes` flags indicating that they
+still need review.
+
+### `cattool register-cxprep`
+
+This command scans the Constellations "prep" files in the `cxprep/` subdirectory
+and registers any images or scenes that have been marked as ready to ingest.
+After completion, those records are removed from the "prep" files, and the main
+database is updated to log the Constellations IDs of the new assets.
+
+It is very important that after this step is run, a pull request is filed
+containing the database updates. Otherwise, we could end up with redundant
+Constellations records for the different items, and people will duplicate work.
+
+In order to actually do the registration, you will need to have a Constellations
+login with the appropriate permissions on the handles to be modified. In order
+to create new handles, one needs Constellations "superuser" permissions.
+
+After registering with Constellations, you should review the new items there to
+validate that they look like you expect. The most important thing to check is
+that the bounding boxes and backgrounds of the new scenes are good; those are
+the things that you can't control before the Constellations items are created.
 
 ### `cattool report`
 
