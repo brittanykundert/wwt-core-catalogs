@@ -183,10 +183,18 @@ export AZURE_STORAGE_CONNECTION_STRING=secret-for-wwtwebstatic
 az storage azcopy blob upload -c '$web' -s searchdata_v2.min.js -d data/
 ```
 
-### `cattool ingest <WTML>`
+### `cattool ingest --cx-handle=HANDLE <WTML>`
 
 This reads a WTML file and updates `places/`, and `imagesets/` with its data
 contents. If you have a WTML defining new datasets to include, use this.
+
+The `--cx-handle` option specifies which Constellations handle the new imagery
+will eventually be associated with. Use `skip` as a value if the images should
+not go into Constellations. If the imagery should go to multiple handles, edit
+the resulting files to change the `Xcxstatus` `queue` setting as appropriate. At
+some point after you run this command, run `cattool update-cxprep` to transfer
+the appropriate information into the `cxprep/` files for the next stage of
+Constellations ingest.
 
 With the `--prepend-to=FILENAME` option, this command will update an existing
 catalog template file to include the newly-ingested imagery at its beginning.

@@ -18,7 +18,7 @@ import shutil
 import sys
 import textwrap
 import time
-from typing import List, Dict
+from typing import Dict, Optional
 import uuid
 from xml.etree import ElementTree as etree
 import yaml
@@ -97,7 +97,9 @@ class ImagesetDatabase(object):
                 assert isinstance(c, ImageSet)
                 self.add_imageset(c)
 
-    def add_imageset(self, imgset: ImageSet):
+    def add_imageset(
+        self, imgset: ImageSet, queue_constellations_handle: Optional[str] = None
+    ):
         if imgset.url in self.by_url:
             warn(f"dropping duplicated imageset `{imgset.url}`")
             return self.by_url[imgset.url]
@@ -108,6 +110,12 @@ class ImagesetDatabase(object):
                 f"tried to add altUrl imageset `{imgset.url}`; use `{main_url}` instead"
             )
             return self.by_url[main_url]
+
+        if queue_constellations_handle:
+            if queue_constellations_handle == "skip":
+                imgset.xmeta.cxstatus = "skip"
+            else:
+                imgset.xmeta.cxstatus = f"queue:{queue_constellations_handle}"
 
         if imgset.alt_url:
             main_url = self.by_alturl.get(imgset.alt_url)
@@ -169,15 +177,28 @@ class PlaceDatabase(object):
                 for info in yaml.load_all(f, yaml.SafeLoader):
                     self.by_uuid[info["_uuid"]] = info
 
-    def ingest_place(self, place: Place, idb: ImagesetDatabase):
+    def ingest_place(
+        self,
+        place: Place,
+        idb: ImagesetDatabase,
+        queue_constellations_handle: Optional[str] = None,
+    ):
         place.update_constellation()
 
         if place.image_set is not None:
-            place.image_set = idb.add_imageset(place.image_set)
+            place.image_set = idb.add_imageset(
+                place.image_set, queue_constellations_handle=queue_constellations_handle
+            )
         if place.foreground_image_set is not None:
-            place.foreground_image_set = idb.add_imageset(place.foreground_image_set)
+            place.foreground_image_set = idb.add_imageset(
+                place.foreground_image_set,
+                queue_constellations_handle=queue_constellations_handle,
+            )
         if place.background_image_set is not None:
-            place.background_image_set = idb.add_imageset(place.background_image_set)
+            place.background_image_set = idb.add_imageset(
+                place.background_image_set,
+                queue_constellations_handle=queue_constellations_handle,
+            )
 
         new_id = str(uuid.uuid4())
         info = {"_uuid": new_id}
@@ -252,6 +273,11 @@ class PlaceDatabase(object):
 
         if place.zoom_level != 0:
             info["zoom_level"] = place.zoom_level
+
+        if queue_constellations_handle == "skip":
+            # If we're adding to a real handle, the appropriate course of
+            # action will be detected from the imageset's cxstatus
+            info["cxstatus"] = "skip"
 
         self.by_uuid[new_id] = info
         return new_id
@@ -1457,10 +1483,12 @@ def do_ingest(settings):
 
         for c in f.children:
             if isinstance(c, ImageSet):
-                c = idb.add_imageset(c)
+                c = idb.add_imageset(c, queue_constellations_handle=settings.cx_handle)
                 children.append(f"imageset {c.url}")
             elif isinstance(c, Place):
-                pid = pdb.ingest_place(c, idb)
+                pid = pdb.ingest_place(
+                    c, idb, queue_constellations_handle=settings.cx_handle
+                )
                 children.append(f"place {pid}")
             elif isinstance(c, Folder):
                 if not c.children and c.url:
@@ -1487,6 +1515,11 @@ def do_ingest(settings):
 
         existing["children"] = info["children"] + existing["children"]
         write_one_yaml(settings.prepend_to, existing)
+
+    print()
+    print(
+        "Consider running `cattool.py update-cxprep` to update the Constellations-prep data files"
+    )
 
 
 # partition - assist with partitioning the imagesets into topical categories
@@ -1878,6 +1911,12 @@ def entrypoint():
     _ground_truth = subparsers.add_parser("ground-truth")
 
     ingest = subparsers.add_parser("ingest")
+    ingest.add_argument(
+        "--cx-handle",
+        metavar="HANDLE",
+        required=True,
+        help="The Constellations handle that will eventually own these images",
+    )
     ingest.add_argument(
         "--prepend-to",
         metavar="YML-PATH",
