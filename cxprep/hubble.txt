@@ -1,26 +1,5 @@
 
 @image
-url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1302a/L{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> NASA, ESA, the Hubble Heritage Team (STScI/AURA), and R. Gendler (for
-the Hubble Heritage Team). Acknowledgment: J. GaBany
-
-wip: yes
----
-
-@scene
-place_uuid: d3f5473b-c289-41f9-ae9e-abde11df5d5b
-image_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1302a/L{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic1302a/
-
-text> Hubble view of Messier 106
-
-wip: yes
----
-
-@image
 url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1307a/L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
