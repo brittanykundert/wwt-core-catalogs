@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 #
-# Copyright 2022 the .NET Foundation
+# Copyright 2022-2023 the .NET Foundation
 # Licensed under the MIT License
 
 """
@@ -695,7 +695,7 @@ class ConstellationsPrepDatabase(object):
         pids_by_image_url = {}
 
         for uuid, pinfo in pdb.by_uuid.items():
-            cxs = getattr(imgset.xmeta, "cxstatus", "undefined")
+            cxs = pinfo.get("cxstatus", "undefined")
             if cxs.startswith("in:") or cxs == "skip":
                 continue
 
