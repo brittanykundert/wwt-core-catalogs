@@ -254,6 +254,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini-2013-ngc2346-legacy", "pub
   "2020-06-30T21:55:20+00:00"}'
 classification: ''
 constellation: MON
+cxstatus: in:64276325975014bc743f17c8
 data_set_type: Sky
 dec_deg: -0.809321421846806
 description: This near-infrared image obtained with GeMS adaptive optics system reveals
@@ -271,6 +272,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini0502c", "publishedUTCISO860
   "2005-01-10T20:00:00+00:00"}'
 classification: ''
 constellation: PUP
+cxstatus: in:64276337975014bc743f17db
 data_set_type: Sky
 dec_deg: -26.426550844584092
 description: An extremely active stellar nursery glows in deep reddish tones in this
@@ -302,6 +304,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini1504a", "publishedUTCISO860
   "2015-07-09T00:00:00+00:00"}'
 classification: ''
 constellation: MON
+cxstatus: in:64276351975014bc743f17f7
 data_set_type: Sky
 dec_deg: -0.808773042077748
 description: 'The new image of NGC 2346 showing unprecedented resolution of the molecular
@@ -318,6 +321,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02350", "publishedUTCISO8601
   "2020-06-30T21:33:47.459109+00:00"}'
 classification: ''
 constellation: GEM
+cxstatus: in:642763a8975014bc743f1851
 data_set_type: Sky
 dec_deg: 35.057811973861995
 description: KPNO 4-meter Mayall telescope, 1975.
@@ -333,6 +337,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ic468", "publishedUTCISO8601
   "2020-06-30T21:34:09+00:00"}'
 classification: ''
 constellation: CMA
+cxstatus: in:642763db975014bc743f1887
 data_set_type: Sky
 dec_deg: -13.225913107235662
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -355,6 +360,7 @@ angular_size: 3.16404
 annotation: '{"channel": "noirlab", "itemid": "noao-m93", "publishedUTCISO8601": "2020-06-30T21:53:14+00:00"}'
 classification: ''
 constellation: PUP
+cxstatus: in:6427642f975014bc743f18df
 data_set_type: Sky
 dec_deg: -23.856677983591453
 description: M93 is an open star cluster in the constellation Puppis. A small but
@@ -374,6 +380,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc2442", "publishedUTCISO86
   "2007-04-02T18:00:00+00:00"}'
 classification: ''
 constellation: VOL
+cxstatus: in:64276446975014bc743f18f7
 data_set_type: Sky
 dec_deg: -69.54279824468179
 description: 'GC2442 is a barred (SBbc) spiral galaxy in Volans with a visual magnitude
@@ -392,6 +399,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0203a", "publishedUTCISO8601"
   "2002-06-03T00:00:00+00:00"}'
 classification: ''
 constellation: GEM
+cxstatus: in:6427647e975014bc743f1931
 data_set_type: Sky
 dec_deg: 21.55125663046828
 description: New observations of the richly populated star cluster NGC 2420 taken
@@ -413,6 +421,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0608a", "publishedUTCISO8601"
   "2006-03-08T00:00:00+00:00"}'
 classification: ''
 constellation: PUP
+cxstatus: in:6427648c975014bc743f193f
 data_set_type: Sky
 dec_deg: -46.990844490407056
 description: The image from the Blanco 4-meter telescope was taken in four filters,
@@ -430,6 +439,7 @@ annotation: '{"channel": "noirlab", "itemid": "noaoann09008a", "publishedUTCISO8
   "2009-04-21T00:00:00+00:00"}'
 classification: ''
 constellation: GEM
+cxstatus: in:642764a2975014bc743f1956
 data_set_type: Sky
 dec_deg: 13.254419591275832
 description: The Medusa nebula, known scientifically as Abell 21, is an old planetary
@@ -452,6 +462,7 @@ annotation: '{"channel": "noirlab", "itemid": "noaoann10014a", "publishedUTCISO8
   "2010-06-08T00:00:00+00:00"}'
 classification: ''
 constellation: CMA
+cxstatus: in:642764a5975014bc743f1959
 data_set_type: Sky
 dec_deg: -13.224874242684
 description: Thor’s Helmet in Canis Major is about 15,000 light years distant. A large
@@ -475,6 +486,7 @@ zoom_level: 2.08633851485842
 _uuid: 3c758076-e07d-4b16-b814-6eee1f2646cd
 classification: ''
 constellation: VOL
+cxstatus: in:64276212975014bc743f15d6
 data_set_type: Sky
 dec_deg: -73.45389956415659
 foreground_image_set_url: http://data1.wwtassets.org/packages/2022/07_jwst/smacs0723/{1}/{3}/{3}_{2}.png
@@ -1366,6 +1378,7 @@ zoom_level: 0.180322759604634
 _uuid: 48a85ae4-e080-4ea8-85cc-c5f817ef0b15
 classification: ''
 constellation: GEM
+cxstatus: in:64b74301a15b29de42b3050e
 data_set_type: Sky
 dec_deg: 20.911874
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig12-006bL{1}X{2}Y{3}.png
@@ -1377,6 +1390,7 @@ zoom_level: 0.341271994368
 _uuid: 16882802-0917-4858-8ee2-0bbb021ba1aa
 classification: ''
 constellation: AUR
+cxstatus: in:64b74301a15b29de42b30510
 data_set_type: Sky
 dec_deg: 37.7456367
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig14-006aL{1}X{2}Y{3}.png
@@ -1388,6 +1402,7 @@ zoom_level: 0.682877026304
 _uuid: c7b16243-b716-4ee3-aacf-1b98db65ff48
 classification: ''
 constellation: MON
+cxstatus: in:64b74302a15b29de42b30512
 data_set_type: Sky
 dec_deg: -10.47325851
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2013-05bL{1}X{2}Y{3}.png
@@ -1399,6 +1414,7 @@ zoom_level: 5.461333327872
 _uuid: 7c9bce0e-ec57-4309-aa81-76af5ef9574f
 classification: ''
 constellation: CMA
+cxstatus: in:649e46021e6961df10c195bd
 data_set_type: Sky
 dec_deg: -13.2255641
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-014L{1}X{2}Y{3}.png
@@ -1410,6 +1426,7 @@ zoom_level: 3.12797945856
 _uuid: bcb30d56-09f8-4537-b5ec-6caa85928bb1
 classification: ''
 constellation: MON
+cxstatus: in:649e46021e6961df10c195be
 data_set_type: Sky
 dec_deg: -11.0015147
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-017L{1}X{2}Y{3}.png
@@ -1421,6 +1438,7 @@ zoom_level: 12.5244932096
 _uuid: 4108198d-7b19-456b-b857-259bb78ac311
 classification: ''
 constellation: CAM
+cxstatus: in:649e46031e6961df10c195bf
 data_set_type: Sky
 dec_deg: 65.6025
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020fL{1}X{2}Y{3}.png
@@ -1432,6 +1450,7 @@ zoom_level: 3.12888884544307
 _uuid: b26fa399-bb71-4aa1-be18-92c0797793e1
 classification: ''
 constellation: PUP
+cxstatus: in:649e46041e6961df10c195c0
 data_set_type: Sky
 dec_deg: -46.9025
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-024L{1}X{2}Y{3}.png
@@ -1443,6 +1462,7 @@ zoom_level: 6.25777769088778
 _uuid: 1dda6cff-5870-45e3-a83a-a16c8fc8569b
 classification: Unfiltered
 constellation: PUP
+cxstatus: in:649ce1cc1e6961df10c19480
 data_set_type: Sky
 dec_deg: -26.4416666666667
 foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/250675033/{1}/{3}/{3}_{2}.png
@@ -1454,6 +1474,7 @@ _uuid: 89efd150-f4e5-4fa5-9f67-e5483dae3cdb
 angular_size: -1.0
 classification: PlanetaryNebula
 constellation: CMA
+cxstatus: in:649cf3d01e6961df10c19503
 data_set_type: Sky
 dec_deg: -13.227222222222222
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn050

@@ -874,6 +874,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini0707b", "publishedUTCISO860
   "2007-11-14T20:00:00+00:00"}'
 classification: ''
 constellation: TAU
+cxstatus: in:64276341975014bc743f17e6
 data_set_type: Sky
 dec_deg: 23.8757351080204
 description: Color composite image of the Pleiades star cluster and surrounding region
@@ -892,6 +893,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini1007a", "publishedUTCISO860
   "2010-05-25T20:00:00+00:00"}'
 classification: ''
 constellation: RET
+cxstatus: in:64276348975014bc743f17ed
 data_set_type: Sky
 dec_deg: -66.50384973705643
 description: Starburst galaxy NGC 1313 is a stellar incubator delivering stars on
@@ -922,6 +924,7 @@ annotation: '{"channel": "noirlab", "itemid": "iotw2127a", "publishedUTCISO8601"
   "2021-07-07T12:00:00+00:00"}'
 classification: ''
 constellation: FOR
+cxstatus: in:6427636f975014bc743f1816
 data_set_type: Sky
 dec_deg: -36.145578485719504
 description: This image captures the elegant galaxy NGC 1365 in the Fornax Cluster
@@ -956,6 +959,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02342", "publishedUTCISO8601
   "2020-06-30T21:33:56+00:00"}'
 classification: ''
 constellation: PER
+cxstatus: in:642763a3975014bc743f184c
 data_set_type: Sky
 dec_deg: 41.51200966073522
 description: This Seyfert galaxy is a source of radio noise as well as a strong X-ray
@@ -973,6 +977,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02349", "publishedUTCISO8601
   "2020-06-30T21:34:00.274939+00:00"}'
 classification: ''
 constellation: PER
+cxstatus: in:642763a7975014bc743f1850
 data_set_type: Sky
 dec_deg: 41.50803089862163
 description: This cluster in the constellation Perseus includes the strong radio galaxy
@@ -988,6 +993,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02461", "publishedUTCISO8601
   "2020-06-30T21:34:18+00:00"}'
 classification: ''
 constellation: TAU
+cxstatus: in:642763ac975014bc743f1855
 data_set_type: Sky
 dec_deg: 24.171466110064472
 description: M45, a portion of the Pleiades open star cluster in the constellation
@@ -1006,6 +1012,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02462", "publishedUTCISO8601
   "2020-06-30T21:34:17+00:00"}'
 classification: ''
 constellation: TAU
+cxstatus: in:642763ad975014bc743f1856
 data_set_type: Sky
 dec_deg: 23.987279183996236
 description: Merope, the fifth brightest star in the Pleiades open star cluster, and
@@ -1021,6 +1028,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-hfg1", "publishedUTCISO8601"
   "2020-06-30T21:34:03.950100+00:00"}'
 classification: ''
 constellation: CAS
+cxstatus: in:642763cf975014bc743f187a
 data_set_type: Sky
 dec_deg: 64.92829585804704
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -1042,6 +1050,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc1232", "publishedUTCISO86
   "2020-06-30T21:33:56.175077+00:00"}'
 classification: ''
 constellation: ERI
+cxstatus: in:6427643e975014bc743f18f0
 data_set_type: Sky
 dec_deg: -20.576215499381444
 description: NGC1232, an almost face-on spiral galaxy of type Sc in the constellation
@@ -1060,6 +1069,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc1300", "publishedUTCISO86
   "2020-06-30T21:33:56.370885+00:00"}'
 classification: ''
 constellation: ERI
+cxstatus: in:6427643f975014bc743f18f1
 data_set_type: Sky
 dec_deg: -19.408736268370664
 description: NGC1300, an almost face-on barred spiral galaxy of type SBbc in the constellation
@@ -1078,6 +1088,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc1313", "publishedUTCISO86
   "2020-06-30T21:33:56.459645+00:00"}'
 classification: ''
 constellation: RET
+cxstatus: in:64276441975014bc743f18f2
 data_set_type: Sky
 dec_deg: -66.50562554277879
 description: This image of nearby spiral galaxy NGC1313 was taken with the National
@@ -1103,6 +1114,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc1365", "publishedUTCISO86
   "2020-06-30T21:33:56+00:00"}'
 classification: ''
 constellation: FOR
+cxstatus: in:64276442975014bc743f18f3
 data_set_type: Sky
 dec_deg: -36.139658035801716
 description: NGC1365 is a giant Seyfert type galaxy in Fornax with a diameter of 200,000
@@ -1123,6 +1135,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-vdb24", "publishedUTCISO8601
   "2020-06-30T21:34:12+00:00"}'
 classification: ''
 constellation: PER
+cxstatus: in:6427646b975014bc743f191c
 data_set_type: Sky
 dec_deg: 38.98950624788021
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -1144,6 +1157,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0308a", "publishedUTCISO8601"
   "2003-05-26T00:00:00+00:00"}'
 classification: ''
 constellation: PER
+cxstatus: in:64276480975014bc743f1933
 data_set_type: Sky
 dec_deg: 31.308877619633456
 description: 'The NGC1333 cluster in the constellation Perseus is embedded deeply
@@ -1169,6 +1183,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0315a", "publishedUTCISO8601"
   "2003-11-12T00:00:00+00:00"}'
 classification: ''
 constellation: TAU
+cxstatus: in:64276484975014bc743f1937
 data_set_type: Sky
 dec_deg: 24.19771526154098
 description: M45, or NGC1432, a portion of the Pleiades open star cluster in the constellation
@@ -1187,6 +1202,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0315b", "publishedUTCISO8601"
   "2003-11-12T00:00:00+00:00"}'
 classification: ''
 constellation: TAU
+cxstatus: in:64276485975014bc743f1938
 data_set_type: Sky
 dec_deg: 23.946461891412564
 description: The star Merope, in the familiar object the Pleiades, in a three-color
@@ -1208,6 +1224,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0703a", "publishedUTCISO8601"
   "2007-02-21T00:00:00+00:00"}'
 classification: ''
 constellation: CAM
+cxstatus: in:6427648f975014bc743f1942
 data_set_type: Sky
 dec_deg: 68.10270201460492
 description: Spiral Galaxy IC342 is located roughly 11 million light-years from Earth
@@ -1229,6 +1246,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0706b", "publishedUTCISO8601"
   "2007-05-16T00:00:00+00:00"}'
 classification: ''
 constellation: PER
+cxstatus: in:64276490975014bc743f1943
 data_set_type: Sky
 dec_deg: 31.3636453295914
 description: This image of NGC 1333 was taken using the Mosaic-1 imager and the National
@@ -1248,6 +1266,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao1204b", "publishedUTCISO8601"
   "2012-09-17T00:00:00+00:00"}'
 classification: ''
 constellation: FOR
+cxstatus: in:64276495975014bc743f1948
 data_set_type: Sky
 dec_deg: -36.14085469496897
 description: Zoomed-in image from the Dark Energy Camera of the barred spiral galaxy
@@ -1265,6 +1284,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao1310b", "publishedUTCISO8601"
   "2013-09-03T00:00:00+00:00"}'
 classification: ''
 constellation: FOR
+cxstatus: in:6427649d975014bc743f1950
 data_set_type: Sky
 dec_deg: -26.358396448962267
 description: This image of the NGC 1398 galaxy was taken with the Dark Energy Camera.
@@ -1284,6 +1304,7 @@ annotation: '{"channel": "noirlab", "itemid": "noaoann13006a", "publishedUTCISO8
   "2013-11-07T00:00:00+00:00"}'
 classification: ''
 constellation: PER
+cxstatus: in:642764a7975014bc743f195b
 data_set_type: Sky
 dec_deg: 45.405038165051465
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -1307,6 +1328,7 @@ annotation: '{"channel": "noirlab", "itemid": "noaoann16019a", "publishedUTCISO8
   "2016-10-11T00:00:00+00:00"}'
 classification: ''
 constellation: FOR
+cxstatus: in:642764ab975014bc743f1960
 data_set_type: Sky
 dec_deg: -27.774379200331584
 description: Studies of a distant corner of the Universe, the Hubble Ultra Deep Field,
@@ -1347,6 +1369,7 @@ zoom_level: 0.5268355847197472
 _uuid: 71b0852e-61dd-449b-9d26-afb30c4a218d
 classification: ''
 constellation: FOR
+cxstatus: in:642761fa975014bc743f15bc
 data_set_type: Sky
 dec_deg: -27.8221452460338
 foreground_image_set_url: http://data1.wwtassets.org/packages/2022/12_jwst/jades/{1}/{3}/{3}_{2}.png
@@ -1358,6 +1381,7 @@ zoom_level: 2.506868958509465
 _uuid: 388140fa-b17c-488a-9e35-f23902b43191
 classification: ''
 constellation: HOR
+cxstatus: in:642761f4975014bc743f15b6
 data_set_type: Sky
 dec_deg: -47.22173681571307
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/02_jwst/weic2306a/{1}/{3}/{3}_{2}.png
@@ -1369,6 +1393,7 @@ zoom_level: 0.42277227716334626
 _uuid: 67e85c95-e23a-4513-b073-07547d75e1ea
 classification: ''
 constellation: FOR
+cxstatus: in:642761f1975014bc743f15b4
 data_set_type: Sky
 dec_deg: -36.14601385863224
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/02_jwst/weic2306e/{1}/{3}/{3}_{2}.png
@@ -1380,6 +1405,7 @@ zoom_level: 0.42201682832559584
 _uuid: 4dd131f6-640d-4b7d-ac26-4e3c310bc751
 classification: ''
 constellation: FOR
+cxstatus: in:649e31021e6961df10c19530
 data_set_type: Sky
 dec_deg: -27.801906612490846
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/04_jwst/udf-a/{1}/{3}/{3}_{2}.png
@@ -1613,6 +1639,7 @@ _uuid: 82effd61-535d-4856-b483-6562ee0965e8
 angular_size: 1.0
 classification: Nebula
 constellation: CAS
+cxstatus: in:64b744d8a15b29de42b3065a
 data_set_type: Sky
 dec_deg: 60.5866666666667
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000011103{Q}?g=131
@@ -1624,6 +1651,7 @@ _uuid: 6b55960b-28bc-4e90-b0f1-3f2d7f0357f4
 angular_size: 1.0
 classification: Nebula
 constellation: CAS
+cxstatus: in:64b744d9a15b29de42b3065c
 data_set_type: Sky
 dec_deg: 60.5672222222222
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000120323{Q}?g=182
@@ -2833,6 +2861,7 @@ zoom_level: 0.227493096398848
 _uuid: 08776d58-3df4-4dfe-8505-71ce4e31ee47
 classification: ''
 constellation: PER
+cxstatus: in:64b744daa15b29de42b3065e
 data_set_type: Sky
 dec_deg: 32.0407669386
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig06-027L{1}X{2}Y{3}.png
@@ -2844,6 +2873,7 @@ zoom_level: 2.78531610442138
 _uuid: 3084357c-379a-4d93-bc0b-5c8201dd7f03
 classification: ''
 constellation: PER
+cxstatus: in:64b744dba15b29de42b30660
 data_set_type: Sky
 dec_deg: 32.0138888889
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig08-012L{1}X{2}Y{3}.png
@@ -2855,6 +2885,7 @@ zoom_level: 0.568885248
 _uuid: 82daa04c-0286-42b8-8e1a-f54efb3467a8
 classification: ''
 constellation: TAU
+cxstatus: in:64b744dca15b29de42b30662
 data_set_type: Sky
 dec_deg: 30.7727049
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-006aL{1}X{2}Y{3}.png
@@ -2866,6 +2897,7 @@ zoom_level: 0.92540198912
 _uuid: d9a1bb73-eb87-4a0f-bba0-e1adaa31649d
 classification: ''
 constellation: CAM
+cxstatus: in:64b744dda15b29de42b30664
 data_set_type: Sky
 dec_deg: 58.74087698
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-013L{1}X{2}Y{3}.png
@@ -2877,6 +2909,7 @@ zoom_level: 5.46133327872
 _uuid: 3e82aeca-5d5e-4b4a-be27-0a351fd61128
 classification: ''
 constellation: CAM
+cxstatus: in:64b744dea15b29de42b30666
 data_set_type: Sky
 dec_deg: 68.137136
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig11-009L{1}X{2}Y{3}.png
@@ -2888,6 +2921,7 @@ zoom_level: 3.69893851916191
 _uuid: b5c73348-4e87-4c9d-83d8-ec747ca1bbe6
 classification: ''
 constellation: CAM
+cxstatus: in:64b744dfa15b29de42b30668
 data_set_type: Sky
 dec_deg: 68.137136
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig11-010L{1}X{2}Y{3}.png
@@ -2899,6 +2933,7 @@ zoom_level: 3.69893851916191
 _uuid: e782b7f1-2d20-4ba3-90c1-687289b3b639
 classification: ''
 constellation: ERI
+cxstatus: in:64b744e0a15b29de42b3066a
 data_set_type: Sky
 dec_deg: -41.1081286
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig14-026L{1}X{2}Y{3}.png
@@ -2910,6 +2945,7 @@ zoom_level: 1.7079324672
 _uuid: b03e917e-8ece-4da1-853c-bc98eb7481bf
 classification: ''
 constellation: ERI
+cxstatus: in:64b744e1a15b29de42b3066c
 data_set_type: Sky
 dec_deg: -41.1081286
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig14-027L{1}X{2}Y{3}.png
@@ -2921,6 +2957,7 @@ zoom_level: 1.7079324672
 _uuid: d14cf4ab-f734-4b20-9ad4-753b95652419
 classification: ''
 constellation: TAU
+cxstatus: in:64b744e2a15b29de42b3066e
 data_set_type: Sky
 dec_deg: 0.75
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig16-002L{1}X{2}Y{3}.png
@@ -2932,6 +2969,7 @@ zoom_level: 0.68139761664
 _uuid: f33a613a-6e05-4a9b-8277-119274f352c5
 classification: ''
 constellation: CAS
+cxstatus: in:64b744e3a15b29de42b30670
 data_set_type: Sky
 dec_deg: 60.5818016411
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2005-23a1L{1}X{2}Y{3}.png
@@ -2943,6 +2981,7 @@ zoom_level: 2.77640790990209
 _uuid: bfccdaf8-5b84-456f-a2e2-abd4f3909b88
 classification: ''
 constellation: PER
+cxstatus: in:64b745fea15b29de42b3067e
 data_set_type: Sky
 dec_deg: 31.3124539422
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2005-24a1L{1}X{2}Y{3}.png
@@ -2954,6 +2993,7 @@ zoom_level: 3.40094078647992
 _uuid: 467e2769-6381-464a-9097-31c024d497e4
 classification: ''
 constellation: TAU
+cxstatus: in:64b74781a15b29de42b30682
 data_set_type: Sky
 dec_deg: 24.1705804820004
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2007-07a1L{1}X{2}Y{3}.png
@@ -2965,6 +3005,7 @@ zoom_level: 5.55405373379266
 _uuid: 56827e1a-7346-49c5-b0e8-c5d32f6b278e
 classification: ''
 constellation: TAU
+cxstatus: in:64b74782a15b29de42b30684
 data_set_type: Sky
 dec_deg: 24.1705804820004
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2007-07b1L{1}X{2}Y{3}.png
@@ -2976,6 +3017,7 @@ zoom_level: 5.55405373379266
 _uuid: 61c899e4-e8e3-4e8f-8abd-3dfd5282895f
 classification: ''
 constellation: FOR
+cxstatus: in:649e462f1e6961df10c195f0
 data_set_type: Sky
 dec_deg: -35.45075
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-004dL{1}X{2}Y{3}.png
@@ -2987,6 +3029,7 @@ zoom_level: 12.2880001068122
 _uuid: 53ba0318-9a78-44ee-9d6d-07a53caac317
 classification: ''
 constellation: CAM
+cxstatus: in:649e46301e6961df10c195f1
 data_set_type: Sky
 dec_deg: 68.096111
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-011L{1}X{2}Y{3}.png
@@ -2998,6 +3041,7 @@ zoom_level: 3.12888884544389
 _uuid: 67d512bb-0454-4e8e-8b79-54f8ed164968
 classification: ''
 constellation: TAU
+cxstatus: in:649e46311e6961df10c195f2
 data_set_type: Sky
 dec_deg: 24.170254
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-025L{1}X{2}Y{3}.png
@@ -3009,6 +3053,7 @@ zoom_level: 12.4700441360466
 _uuid: 51d2ba1b-945a-4321-a96e-d7f38c39bdb7
 classification: ''
 constellation: CAM
+cxstatus: in:649e46321e6961df10c195f3
 data_set_type: Sky
 dec_deg: 58.7848445
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-027L{1}X{2}Y{3}.png
@@ -3020,6 +3065,7 @@ zoom_level: 6.25777769088778
 _uuid: 9c8b8c7f-cad8-4eca-bba7-ae43222f237f
 classification: ''
 constellation: CAM
+cxstatus: in:649e46331e6961df10c195f4
 data_set_type: Sky
 dec_deg: 59.063333
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-007L{1}X{2}Y{3}.png
@@ -3031,6 +3077,7 @@ zoom_level: 6.25777769088778
 _uuid: 39dc6503-e31e-483a-8c4e-a8e9df570100
 classification: ''
 constellation: CAM
+cxstatus: in:649e46341e6961df10c195f5
 data_set_type: Sky
 dec_deg: 53.4825577
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-011L{1}X{2}Y{3}.png
@@ -3042,6 +3089,7 @@ zoom_level: 12.515540992
 _uuid: d35a63c8-44fd-4c5b-b837-082074d00fc0
 classification: ''
 constellation: FOR
+cxstatus: in:649e46351e6961df10c195f6
 data_set_type: Sky
 dec_deg: -26.3375
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020eL{1}X{2}Y{3}.png
@@ -3053,6 +3101,7 @@ zoom_level: 1.56444442272154
 _uuid: 0b69ae97-9d59-4f11-be79-52020ea50f9d
 classification: ''
 constellation: CAM
+cxstatus: in:649e46361e6961df10c195f7
 data_set_type: Sky
 dec_deg: 68.096111
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020hL{1}X{2}Y{3}.png
@@ -3064,6 +3113,7 @@ zoom_level: 3.12888884544307
 _uuid: 13058789-d455-4b59-a777-21aba25b4872
 classification: ''
 constellation: PER
+cxstatus: in:649e46361e6961df10c195f8
 data_set_type: Sky
 dec_deg: 31.96667
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-033L{1}X{2}Y{3}.png
@@ -3075,6 +3125,7 @@ zoom_level: 12.515540992
 _uuid: 1dad7275-31b3-4cf1-bd37-f3e9e41f7e1e
 classification: ''
 constellation: PER
+cxstatus: in:649e46371e6961df10c195f9
 data_set_type: Sky
 dec_deg: 31.96667
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-033bL{1}X{2}Y{3}.png
@@ -3086,6 +3137,7 @@ zoom_level: 12.515540992
 _uuid: c3eb60d5-5308-421f-8de6-f928013ddadf
 classification: StellarGroupings
 constellation: TAU
+cxstatus: in:649ceb831e6961df10c194be
 data_set_type: Sky
 dec_deg: 24.1394444444444
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},891443522
@@ -3108,6 +3160,7 @@ _uuid: feab3d29-09e5-4cbe-a9d3-0236542e3952
 angular_size: -1.0
 classification: SpiralGalaxy
 constellation: CAM
+cxstatus: in:649cf3df1e6961df10c19513
 data_set_type: Sky
 dec_deg: 68.10805555555555
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn014
@@ -3119,6 +3172,7 @@ _uuid: bea022ed-63e7-4888-a039-52de1dbd1f27
 angular_size: -1.0
 classification: MultipleStars
 constellation: TAU
+cxstatus: in:649cf3e01e6961df10c19514
 data_set_type: Sky
 dec_deg: 24.116666666666667
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn022

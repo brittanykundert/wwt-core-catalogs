@@ -300,6 +300,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini-ngc7232-final", "published
   "2020-08-30T05:51:13+00:00"}'
 classification: ''
 constellation: GRU
+cxstatus: in:64276329975014bc743f17cd
 data_set_type: Sky
 dec_deg: -45.826320010128704
 description: 'This image shows an interacting trio of galaxies known as the Lyon Group
@@ -326,6 +327,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini0604b", "publishedUTCISO860
   "2006-01-04T00:00:00+00:00"}'
 classification: ''
 constellation: GRU
+cxstatus: in:6427633c975014bc743f17e1
 data_set_type: Sky
 dec_deg: -41.068791201158255
 description: The Galaxy NGC 7424 as imaged with the Gemini South Mulit-object Spectrograph.
@@ -340,6 +342,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini1006b", "publishedUTCISO860
   "2010-05-12T20:00:00+00:00"}'
 classification: ''
 constellation: IND
+cxstatus: in:64276347975014bc743f17ec
 data_set_type: Sky
 dec_deg: -59.94637947441538
 description: Central region of Abell 3827 as imaged using the Gemini Multi-Object
@@ -362,6 +365,7 @@ annotation: '{"channel": "noirlab", "itemid": "geminiann04014a", "publishedUTCIS
   "2004-10-09T05:00:00+00:00"}'
 classification: ''
 constellation: PEG
+cxstatus: in:64276359975014bc743f17ff
 data_set_type: Sky
 dec_deg: 33.95977717537862
 description: 'Stephan&#x27;s Quintet as imaged by the Gemini Observatory using the
@@ -384,6 +388,7 @@ annotation: '{"channel": "noirlab", "itemid": "geminiann12015a", "publishedUTCIS
   "2012-11-30T16:30:27+00:00"}'
 classification: ''
 constellation: AQR
+cxstatus: in:64276360975014bc743f1807
 data_set_type: Sky
 dec_deg: -9.463340095270711
 description: CFHT color image, taken in g,r, and i filters, of J2240. The very strong
@@ -404,6 +409,7 @@ annotation: '{"channel": "noirlab", "itemid": "iotw2113a", "publishedUTCISO8601"
   "2021-03-31T16:00:00+00:00"}'
 classification: ''
 constellation: LAC
+cxstatus: in:6427636b975014bc743f1812
 data_set_type: Sky
 dec_deg: 56.17365129249575
 description: This gorgeous image resembles an inky patch of space that has been smudged
@@ -427,6 +433,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02179", "publishedUTCISO8601
   "2020-06-30T21:34:04+00:00"}'
 classification: ''
 constellation: AQR
+cxstatus: in:64276377975014bc743f181f
 data_set_type: Sky
 dec_deg: -20.821965701676433
 description: The Helix Nebula, NGC7293, in the constellation Aquarius, as seen by
@@ -444,6 +451,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02325", "publishedUTCISO8601
   "2020-06-30T21:33:59.995136+00:00"}'
 classification: ''
 constellation: PEG
+cxstatus: in:64276398975014bc743f1841
 data_set_type: Sky
 dec_deg: 34.41516598739748
 description: NGC7331, a type Sb spiral galaxy in the constellation Pegasus, is about
@@ -460,6 +468,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02347", "publishedUTCISO8601
   "2020-06-30T21:34:01+00:00"}'
 classification: ''
 constellation: PEG
+cxstatus: in:642763a6975014bc743f184f
 data_set_type: Sky
 dec_deg: 33.96127255188912
 description: Stephan&#x27;s Quintet, as its name implies, is a group of five galaxies
@@ -484,6 +493,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-hgc92", "publishedUTCISO8601
   "2020-06-30T21:34:01+00:00"}'
 classification: ''
 constellation: PEG
+cxstatus: in:642763d0975014bc743f187b
 data_set_type: Sky
 dec_deg: 33.96057429383309
 description: Stephan’s Quintet as imaged by the Gemini Observatory using the Multi-Object
@@ -504,6 +514,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-lbn438", "publishedUTCISO860
   "2020-06-30T21:34:05+00:00"}'
 classification: ''
 constellation: LAC
+cxstatus: in:642763e6975014bc743f1892
 data_set_type: Sky
 dec_deg: 37.78050646515935
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -525,6 +536,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-n7332", "publishedUTCISO8601
   "2020-06-30T21:34:00.064920+00:00"}'
 classification: ''
 constellation: PEG
+cxstatus: in:6427643b975014bc743f18ed
 data_set_type: Sky
 dec_deg: 23.796520862761437
 description: This pair of galaxies is in the constellation Pegasus. A dynamically
@@ -556,6 +568,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc7380", "publishedUTCISO86
   "2020-06-30T21:34:10+00:00"}'
 classification: ''
 constellation: CEP
+cxstatus: in:6427645e975014bc743f190f
 data_set_type: Sky
 dec_deg: 58.047182286237444
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -576,6 +589,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-q2237", "publishedUTCISO8601
   "2020-06-30T21:34:00+00:00"}'
 classification: ''
 constellation: PEG
+cxstatus: in:64276464975014bc743f1915
 data_set_type: Sky
 dec_deg: 3.3585952265608325
 description: This picture of the gravitationally lensed quasar Q2237+0305 and the
@@ -607,6 +621,7 @@ angular_size: 1.543872
 annotation: '{"channel": "noirlab", "itemid": "noao-sq2", "publishedUTCISO8601": "2020-06-30T21:34:01+00:00"}'
 classification: ''
 constellation: PEG
+cxstatus: in:64276466975014bc743f1917
 data_set_type: Sky
 dec_deg: 33.965138637586996
 description: Stephan&#x27;s Quintet, as its name implies, is a group of five galaxies
@@ -636,6 +651,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-vdb152", "publishedUTCISO860
   "2020-06-30T21:34:13+00:00"}'
 classification: ''
 constellation: CEP
+cxstatus: in:6427646a975014bc743f191b
 data_set_type: Sky
 dec_deg: 70.31743484767293
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -658,6 +674,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0307a", "publishedUTCISO8601"
   "2003-05-10T00:00:00+00:00"}'
 classification: ''
 constellation: AQR
+cxstatus: in:6427647f975014bc743f1932
 data_set_type: Sky
 dec_deg: -20.838807393647926
 description: This composite picture is a seamless blend of nine ultra-sharp images
@@ -682,6 +699,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao1303a", "publishedUTCISO8601"
   "2013-04-01T00:00:00+00:00"}'
 classification: ''
 constellation: CEP
+cxstatus: in:64276499975014bc743f194c
 data_set_type: Sky
 dec_deg: 62.48510160084454
 description: 'Cep OB 3b is rich young cluster located in the northern constellation
@@ -705,6 +723,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2012a", "publishedUTCISO86
   "2020-07-01T13:26:19+00:00"}'
 classification: ''
 constellation: IND
+cxstatus: in:642764b3975014bc743f1968
 data_set_type: Sky
 dec_deg: -59.956269525149
 description: Using the Dark Energy Camera at Cerro Tololo Inter-American Observatory,
@@ -728,6 +747,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2012b", "publishedUTCISO86
   "2020-06-04T03:00:00+00:00"}'
 classification: ''
 constellation: IND
+cxstatus: in:642764b4975014bc743f1969
 data_set_type: Sky
 dec_deg: -59.94737056476766
 description: Galaxy clusters are massive conglomerations of hundreds or even thousands
@@ -744,6 +764,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2012c", "publishedUTCISO86
   "2020-07-01T13:45:46+00:00"}'
 classification: ''
 constellation: IND
+cxstatus: in:642764b5975014bc743f196a
 data_set_type: Sky
 dec_deg: -59.956269525149
 description: This image is a snapshot from the Local Volume Complete Cluster Survey
@@ -759,6 +780,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2012d", "publishedUTCISO86
   "2020-06-04T03:00:00+00:00"}'
 classification: ''
 constellation: IND
+cxstatus: in:642764b6975014bc743f196b
 data_set_type: Sky
 dec_deg: -59.94737056476766
 description: LoVoCCS takes advantage of an astrophysical phenomenon called weak gravitational
@@ -783,6 +805,7 @@ zoom_level: 0.08
 _uuid: 0e884436-14e6-424e-8896-72b6e8713f14
 classification: ''
 constellation: PEG
+cxstatus: in:64276210975014bc743f15d4
 data_set_type: Sky
 dec_deg: 33.9621954626131
 foreground_image_set_url: http://data1.wwtassets.org/packages/2022/07_jwst/weic2208a/{1}/{3}/{3}_{2}.png
@@ -794,6 +817,7 @@ zoom_level: 1.031446312671409
 _uuid: 2fbd2312-1994-4126-9cdf-1c1d47ddb933
 classification: ''
 constellation: PEG
+cxstatus: in:64276211975014bc743f15d5
 data_set_type: Sky
 dec_deg: 33.9621954626131
 foreground_image_set_url: http://data1.wwtassets.org/packages/2022/07_jwst/weic2208b/{1}/{3}/{3}_{2}.png
@@ -805,6 +829,7 @@ zoom_level: 1.031446312671409
 _uuid: da146687-f7c9-44f5-8729-80550e6566ed
 classification: ''
 constellation: PSA
+cxstatus: in:649e31081e6961df10c19537
 data_set_type: Sky
 dec_deg: -29.6222778872815
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/05_jwst/weic2312a/{1}/{3}/{3}_{2}.png
@@ -1621,6 +1646,7 @@ zoom_level: 1.820131328
 _uuid: 3471d1c7-eba9-4a49-9e7c-b585771ee6df
 classification: ''
 constellation: CEP
+cxstatus: in:649e46441e6961df10c19606
 data_set_type: Sky
 dec_deg: 58.1078422
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-006L{1}X{2}Y{3}.png
@@ -1632,6 +1658,7 @@ zoom_level: 6.26448719872
 _uuid: 3ec1d333-6684-4de7-b414-f2484ba3223c
 classification: ''
 constellation: CEP
+cxstatus: in:649e46441e6961df10c19607
 data_set_type: Sky
 dec_deg: 65.5943518
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-034L{1}X{2}Y{3}.png
@@ -1643,6 +1670,7 @@ zoom_level: 12.51377905664
 _uuid: 1575eced-5077-43f5-a59b-5feb640779a7
 classification: Unfiltered
 constellation: PEG
+cxstatus: in:649ce1d81e6961df10c1948d
 data_set_type: Sky
 dec_deg: 33.9479722222222
 foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/2091410519/{1}/{3}/{3}_{2}.png
@@ -1653,6 +1681,7 @@ zoom_level: 1.2
 _uuid: 008f177b-97bd-4d6e-9674-37434ad71d0a
 classification: Unfiltered
 constellation: GRU
+cxstatus: in:649ce1d91e6961df10c1948e
 data_set_type: Sky
 dec_deg: -41.07375
 foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/646280305/{1}/{3}/{3}_{2}.png
@@ -1664,6 +1693,7 @@ _uuid: 0a553c82-d45c-4f4a-ba3e-c93eb7426d8e
 angular_size: -1.0
 classification: PlanetaryNebula
 constellation: AQR
+cxstatus: in:649cf3ee1e6961df10c19524
 data_set_type: Sky
 dec_deg: -20.839444444444442
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn012

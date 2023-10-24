@@ -829,6 +829,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini0605a", "publishedUTCISO860
   "2006-06-04T00:00:00+00:00"}'
 classification: ''
 constellation: NOR
+cxstatus: in:6427633d975014bc743f17e2
 data_set_type: Sky
 dec_deg: -48.11054792556546
 description: NGC 6164-5 imaged at Gemini South. The emission nebula NGC 6164-5 is
@@ -851,6 +852,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-03496", "publishedUTCISO8601
   "2020-06-30T21:33:47.630663+00:00"}'
 classification: ''
 constellation: HER
+cxstatus: in:642763b9975014bc743f1863
 data_set_type: Sky
 dec_deg: 17.782323144791462
 description: Abell 2151, the Hercules cluster, is a small, irregular cluster, with
@@ -868,6 +870,7 @@ _uuid: b26cc231-6dce-40de-8d7c-f4a1a4f3d4dd
 annotation: '{"channel": "noirlab", "itemid": "noao-m10", "publishedUTCISO8601": "2020-06-30T21:34:15+00:00"}'
 classification: ''
 constellation: OPH
+cxstatus: in:642763ea975014bc743f1896
 data_set_type: Sky
 dec_deg: -4.101722056206759
 description: M10, or NGC6254, is a seventh magnitude globular cluster in the constellation
@@ -889,6 +892,7 @@ angular_size: 3.45168
 annotation: '{"channel": "noirlab", "itemid": "noao-m12", "publishedUTCISO8601": "2020-06-30T21:34:15+00:00"}'
 classification: ''
 constellation: OPH
+cxstatus: in:642763f5975014bc743f18a2
 data_set_type: Sky
 dec_deg: -1.951410306956116
 description: M12 is a globular cluster in the constellation Ophiuchus, very similar
@@ -911,6 +915,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-m13kpno4m", "publishedUTCISO
   "2020-06-30T21:34:15+00:00"}'
 classification: ''
 constellation: HER
+cxstatus: in:642763f6975014bc743f18a3
 data_set_type: Sky
 dec_deg: 36.46010943498275
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -932,6 +937,7 @@ angular_size: 3.6628200000000004
 annotation: '{"channel": "noirlab", "itemid": "noao-m4", "publishedUTCISO8601": "2020-06-30T21:34:14+00:00"}'
 classification: ''
 constellation: SCO
+cxstatus: in:6427640e975014bc743f18bc
 data_set_type: Sky
 dec_deg: -26.52438679797293
 description: M4, a globular cluster in the constellation Scorpius, is about 7000 light-years
@@ -951,6 +957,7 @@ angular_size: 1.9740672
 annotation: '{"channel": "noirlab", "itemid": "noao-m80", "publishedUTCISO8601": "2020-06-30T21:53:14+00:00"}'
 classification: ''
 constellation: SCO
+cxstatus: in:64276424975014bc743f18d4
 data_set_type: Sky
 dec_deg: -22.976543625091256
 description: M80, a globular cluster in the constellation Scorpius, is quite distant
@@ -970,6 +977,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0102a", "publishedUTCISO8601"
   "2001-01-08T00:00:00+00:00"}'
 classification: ''
 constellation: HER
+cxstatus: in:64276474975014bc743f1926
 data_set_type: Sky
 dec_deg: 27.909564293958695
 description: Abell 39, the 39th entry in a catalog of large nebulae discovered by
@@ -995,6 +1003,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0103a", "publishedUTCISO8601"
   "2001-01-09T00:00:00+00:00"}'
 classification: ''
 constellation: HER
+cxstatus: in:64276475975014bc743f1927
 data_set_type: Sky
 dec_deg: 36.45708585427194
 description: M13, or NGC6205, a globular cluster in the constellation Hercules. M13
@@ -1017,6 +1026,7 @@ _uuid: acade98d-b1c1-4473-98bb-abedcdd91c42
 angular_size: 0.5102265169096469
 classification: Unidentified
 constellation: DRA
+cxstatus: in:6537c3d9b493728d11b82ba9
 data_set_type: Sky
 dec_deg: 66.21185664376986
 foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic0814a/L{1}X{2}Y{3}.png
@@ -1028,6 +1038,7 @@ zoom_level: 0.5102265169096469
 _uuid: 9abb8f5b-fe2b-4522-b5d9-e87bc8e502b8
 classification: ''
 constellation: HER
+cxstatus: in:649bab471e6961df10c19468
 data_set_type: Sky
 dec_deg: 4.992740819462668
 foreground_image_set_url: http://data1.wwtassets.org/packages/2021/08_lofar_17821/HerculesA/{1}/{3}/{3}_{2}.png
@@ -1039,6 +1050,7 @@ zoom_level: 0.45095753587148346
 _uuid: 6def518b-6151-4c07-ac9d-b96234240c70
 classification: ''
 constellation: CRB
+cxstatus: in:64276213975014bc743f15d7
 data_set_type: Sky
 dec_deg: 28.44510984425
 foreground_image_set_url: http://data1.wwtassets.org/packages/2022/07_jwst/jwst_fgs_preview/{1}/{3}/{3}_{2}.png
@@ -1050,6 +1062,7 @@ zoom_level: 0.5209518574162532
 _uuid: c97f60b1-070f-4c43-b4b0-94e7c4de63ee
 classification: ''
 constellation: HER
+cxstatus: in:642761fc975014bc743f15be
 data_set_type: Sky
 dec_deg: 17.481148220414116
 foreground_image_set_url: http://data1.wwtassets.org/packages/2022/12_jwst/weic2217b/{1}/{3}/{3}_{2}.png
@@ -1072,6 +1085,7 @@ zoom_level: 0.26655147167669013
 _uuid: a3f55544-c8a2-4019-998f-8731a0cd61a6
 classification: ''
 constellation: HER
+cxstatus: in:642761f6975014bc743f15b8
 data_set_type: Sky
 dec_deg: 34.27587334820116
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/02_jwst/potm2301a/{1}/{3}/{3}_{2}.png
@@ -1083,6 +1097,7 @@ zoom_level: 0.24867759718176635
 _uuid: 4f3e5202-bc01-4bad-b454-4be2bf4c43bc
 classification: ''
 constellation: OPH
+cxstatus: in:6535cee1b493728d11b8275a
 data_set_type: Sky
 dec_deg: -24.385393074502314
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/07_jwst/weic2316a/{1}/{3}/{3}_{2}.png
@@ -1095,6 +1110,7 @@ _uuid: f65c7098-2d22-4662-bba2-9660ac227621
 angular_size: 1.0
 classification: MultipleStars
 constellation: DRA
+cxstatus: in:64b744cfa15b29de42b30644
 data_set_type: Sky
 dec_deg: 54.9069444444444
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011110{Q}?g=131
@@ -1106,6 +1122,7 @@ _uuid: 8a3e2ecb-0331-40bb-8372-01a6f16f09c0
 angular_size: 1.0
 classification: MultipleStars
 constellation: DRA
+cxstatus: in:64b744cfa15b29de42b30646
 data_set_type: Sky
 dec_deg: 54.9955555555556
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011210{Q}?g=131
@@ -2271,6 +2288,7 @@ zoom_level: 0.0901394594873344
 _uuid: 4ee4a482-9da9-43bd-9e57-e35e8579dfd3
 classification: ''
 constellation: DRA
+cxstatus: in:64b744d0a15b29de42b30648
 data_set_type: Sky
 dec_deg: 55.4693978528
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig05-019bL{1}X{2}Y{3}.png
@@ -2282,6 +2300,7 @@ zoom_level: 0.683050531198812
 _uuid: eb15e8d5-e37b-4693-adb7-e0908aa06092
 classification: ''
 constellation: OPH
+cxstatus: in:64b744d1a15b29de42b3064a
 data_set_type: Sky
 dec_deg: -24.6080542
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-006cL{1}X{2}Y{3}.png
@@ -2293,6 +2312,7 @@ zoom_level: 0.92835160064
 _uuid: 4792c1a7-f2f2-47f7-b1bb-32edb67cc07b
 classification: ''
 constellation: OPH
+cxstatus: in:64b744d2a15b29de42b3064c
 data_set_type: Sky
 dec_deg: -10.51595
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig12-014L{1}X{2}Y{3}.png
@@ -2304,6 +2324,7 @@ zoom_level: 2.730672128
 _uuid: 995858f3-b84b-4f00-8c7d-792b9d11dee0
 classification: ''
 constellation: SER1
+cxstatus: in:64b744d3a15b29de42b3064e
 data_set_type: Sky
 dec_deg: -0.20753
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig13-017aL{1}X{2}Y{3}.png
@@ -2315,6 +2336,7 @@ zoom_level: 2.27555328
 _uuid: c940ee7b-f64e-47d3-8aea-264a3a7b2c1c
 classification: ''
 constellation: SER1
+cxstatus: in:64b744d4a15b29de42b30650
 data_set_type: Sky
 dec_deg: -0.20753
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig13-017bL{1}X{2}Y{3}.png
@@ -2326,6 +2348,7 @@ zoom_level: 2.27555328
 _uuid: 61fc30ab-e7b0-40f0-84fd-bb989599edee
 classification: ''
 constellation: OPH
+cxstatus: in:64b744d5a15b29de42b30652
 data_set_type: Sky
 dec_deg: -24.3737690489844
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2008-03a1L{1}X{2}Y{3}.png
@@ -2337,6 +2360,7 @@ zoom_level: 5.72969674959336
 _uuid: 52de45d8-428f-4399-ad5f-34fed13867c6
 classification: ''
 constellation: OPH
+cxstatus: in:64b744d6a15b29de42b30654
 data_set_type: Sky
 dec_deg: -24.3737690489844
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2008-03b1L{1}X{2}Y{3}.png
@@ -2348,6 +2372,7 @@ zoom_level: 5.72969674959336
 _uuid: a06092b9-356c-41d1-b477-066cace23d27
 classification: ''
 constellation: OPH
+cxstatus: in:64b744d7a15b29de42b30656
 data_set_type: Sky
 dec_deg: 2.40106323936
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2009-06a1L{1}X{2}Y{3}.png
@@ -2359,6 +2384,7 @@ zoom_level: 0.2277818368
 _uuid: 93c47292-c0ba-4437-9a4e-90a3015839f1
 classification: ''
 constellation: OPH
+cxstatus: in:649e462c1e6961df10c195ec
 data_set_type: Sky
 dec_deg: -10.601111
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-003L{1}X{2}Y{3}.png
@@ -2370,6 +2396,7 @@ zoom_level: 6.25777769088778
 _uuid: 728bc958-01bb-420a-ba93-55653bdc2bd0
 classification: ''
 constellation: OPH
+cxstatus: in:649e462d1e6961df10c195ed
 data_set_type: Sky
 dec_deg: -24.246930934
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-013L{1}X{2}Y{3}.png
@@ -2381,6 +2408,7 @@ zoom_level: 25.031081984
 _uuid: 319e549f-2b59-41ce-8b2a-21b5f8580ed7
 classification: ''
 constellation: SCO
+cxstatus: in:649e462e1e6961df10c195ee
 data_set_type: Sky
 dec_deg: -20.1264044
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-030L{1}X{2}Y{3}.png
@@ -2392,6 +2420,7 @@ zoom_level: 12.51145580544
 _uuid: f919be98-069f-4dec-8d72-fe1c088aeb9a
 classification: ''
 constellation: SCO
+cxstatus: in:649e462f1e6961df10c195ef
 data_set_type: Sky
 dec_deg: -19.695995679
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-031L{1}X{2}Y{3}.png
@@ -2403,6 +2432,7 @@ zoom_level: 25.031081984
 _uuid: 84724ba9-eb2a-4089-9393-5a7570a14dc6
 classification: Unfiltered
 constellation: NOR
+cxstatus: in:649ce1d61e6961df10c1948b
 data_set_type: Sky
 dec_deg: -48.1112433333333
 foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/512128116/{1}/{3}/{3}_{2}.png
@@ -2414,6 +2444,7 @@ _uuid: f104f094-f19c-42f8-8b0f-c9efee38be72
 angular_size: -1.0
 classification: Nebula
 constellation: ARA
+cxstatus: in:64b744d8a15b29de42b30658
 data_set_type: Sky
 dec_deg: -48.865
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},152197268

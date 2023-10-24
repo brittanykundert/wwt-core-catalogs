@@ -26,6 +26,7 @@
     TileLevels="6"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},halpha"
     WidthFactor="2"
+    Xcxstatus="in:64820bcc67b5156060bfa2b6"
   >
     <Credits>Image Courtesy Douglas Finkbeiner. The full-sky H-alpha map (6' FWHM resolution) is a composite of the Virginia Tech Spectral line Survey (VTSS) in the north and the Southern H-Alpha Sky Survey Atlas (SHASSA) in the south. The Wisconsin H-Alpha Mapper (WHAM) survey provides a stable zero-point over 3/4 of the sky on a one degree scale. </Credits>
     <CreditsUrl>http://www.astro.princeton.edu/~dfink/halpha/processing.html</CreditsUrl>

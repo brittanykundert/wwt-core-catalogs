@@ -27,6 +27,7 @@
     TileLevels="4"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000000{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>NASA/CXC/ASU/J. Hester et al.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2006/crab/more.html#0052_xray_widefield</CreditsUrl>
@@ -54,6 +55,7 @@
     TileLevels="4"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000010{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>NASA/CXC/Rutgers/J.Hughes et al.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2001/0112/</CreditsUrl>
@@ -81,6 +83,7 @@
     TileLevels="5"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000020{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>NASA/CXC/Univ. de Liège/Y. Naze et al</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2008/wd2/</CreditsUrl>
@@ -108,6 +111,7 @@
     TileLevels="4"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000030{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>X-ray: NASA/UIUC/Y. Chu &amp; R. Gruendl et al. Optical: SDSU/MLO/Y. Chu et al..</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2007/coronet/more.html</CreditsUrl>
@@ -135,6 +139,7 @@
     TileLevels="4"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000100{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>X-ray: NASA/UIUC/Y.Chu et al., Optical: NASA/HST</Credits>
     <CreditsUrl>http://chandra.harvard.edu/press/01_releases/press_010801.html</CreditsUrl>
@@ -162,6 +167,7 @@
     TileLevels="3"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000110{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>NASA/JPL/Caltech/P.Appleton et al. X-ray: NASA/CXC/A.Wolter &amp; G.Trinchieri et al.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2006/cartwheel/</CreditsUrl>
@@ -189,6 +195,7 @@
     TileLevels="4"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000120{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>X-ray: NASA/CXC/U.Colorado/Linsky et al.; Optical: NASA/ESA/STScI/ASU/J.Hester &amp; P.Scowen.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2007/m16/</CreditsUrl>
@@ -216,6 +223,7 @@
     TileLevels="3"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000130{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>NASA/CXC/STScI/U.North Carolina/G.Cecil</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2003/ngc3079/more.html</CreditsUrl>
@@ -241,6 +249,7 @@
     TileLevels="7"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000320{Q}?g=138"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>We have made use of the ROSAT Data Archive of the Max-Planck-Institut fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (RASS3sb, Min=0.2, Max=50).</Credits>
     <CreditsUrl>http://www.xray.mpe.mpg.de/cgi-bin/rosat/rosat-survey</CreditsUrl>
@@ -266,6 +275,7 @@
     TileLevels="5"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000330{Q}?g=138"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>NASA BAT Team. TOASTing of images done by NASA's SkyView Virtual Telescope (BATSig, Min=1, Max=10).</Credits>
     <CreditsUrl>http://skyview.gsfc.nasa.gov/cgi-bin/survey.pl#Swift%20BAT%20All-Sky%20Survey:%20Significance%2014-195%20keV</CreditsUrl>
@@ -293,6 +303,7 @@
     TileLevels="4"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000001{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>NASA/CXC/U.Colorado/Linsky et al.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/m16_xray.tif</CreditsUrl>
@@ -320,6 +331,7 @@
     TileLevels="5"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000011{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>Chandra: NASA/CXC/Middlebury College/F.Winkler et al; ROSAT: NASA/GSFC/S.Snowden et al.; Optical: NOAO/AURA/NSF/Middlebury College/F.Winkler et al.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2007/puppis/</CreditsUrl>
@@ -347,6 +359,7 @@
     TileLevels="4"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000021{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>Chandra: NASA/CXC/CfA/J. Forbrich</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2007/coronet/</CreditsUrl>
@@ -374,6 +387,7 @@
     TileLevels="4"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000031{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>X-ray: NASA/CXC/GSFC/M.Corcoran et al.; Optical: NASA/STScI</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2007/etacar/</CreditsUrl>
@@ -401,6 +415,7 @@
     TileLevels="4"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000101{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>NASA/UIUC/Y. Chu &amp; R. Gruendl et al.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2003/ngc6888/more.html</CreditsUrl>
@@ -428,6 +443,7 @@
     TileLevels="4"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000111{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>X-ray: NASA/CXC/UVic./A.Mahdavi et al. Optical/Lensing: CFHT/UVic./A.Mahdavi et al.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2007/a520/</CreditsUrl>
@@ -455,6 +471,7 @@
     TileLevels="3"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000121{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>X-ray: NASA/CXC/RIT/J.Kastner et al, Optical/IR: NASA/STScI/Univ. Washington/B.Balick</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2006/pne/</CreditsUrl>
@@ -480,6 +497,7 @@
     TileLevels="7"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000321{Q}?g=138"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>We have made use of the ROSAT Data Archive of the Max-Planck-Institut fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (RASSHB, Min=0.0002, Max=10).</Credits>
     <CreditsUrl>http://www.xray.mpe.mpg.de/cgi-bin/rosat/rosat-survey</CreditsUrl>
@@ -505,6 +523,7 @@
     TileLevels="5"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000331{Q}?g=138"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>NASA BAT Team. TOASTing of images done by NASA's SkyView Virtual Telescope (BATFlux, Min=1e-5, Max=1e-3).</Credits>
     <CreditsUrl>http://skyview.gsfc.nasa.gov/cgi-bin/survey.pl#Swift%20BAT%20All-Sky%20Survey:%20Flux%2014-195%20keV</CreditsUrl>
@@ -532,6 +551,7 @@
     TileLevels="4"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000002{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>NASA/CXC/UVic./A.Mahdavi et al.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2007/a520/more.html</CreditsUrl>
@@ -559,6 +579,7 @@
     TileLevels="2"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000012{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>X-ray: NASA/CXC/SAO/UMass/D.Wang et al, Optical: NASA/STScI/U.Alabama/W.Keel, Radio: NRAO/ F.Owen, Optical (OII): Gemini Obs./M.Ledlow</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2004/c153/</CreditsUrl>
@@ -586,6 +607,7 @@
     TileLevels="4"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000022{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>NASA/CXC/SAO</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2002/0237/</CreditsUrl>
@@ -613,6 +635,7 @@
     TileLevels="4"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000032{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>NASA/CXC/NCSU/S.Reynolds et al.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2007/kepler/</CreditsUrl>
@@ -640,6 +663,7 @@
     TileLevels="4"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000102{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>X-ray: NASA/CXC/CfA/J.Forbrich et al.; Infrared: NASA/SSC/CfA/IRAC GTO Team</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2008/cena/</CreditsUrl>
@@ -667,6 +691,7 @@
     TileLevels="2"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000112{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>X-ray: NASA/CXC/SAO/UMass/D.Wang et al. </Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2004/c153/</CreditsUrl>
@@ -694,6 +719,7 @@
     TileLevels="4"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000122{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>X-ray: NASA/CXC/CfA/W.Forman et al.; Optical: DSS</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2006/m87/</CreditsUrl>
@@ -719,6 +745,7 @@
     TileLevels="7"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000322{Q}?g=138"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>We have made use of the ROSAT Data Archive of the Max-Planck-Institut fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (RASSSB, Min=0.0002, Max=10).</Credits>
     <CreditsUrl>http://www.xray.mpe.mpg.de/cgi-bin/rosat/rosat-survey</CreditsUrl>
@@ -745,6 +772,7 @@
     TileLevels="7"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001132{Q}?g=182"
     WidthFactor="2"
+    Xcxstatus="in:64820bce67b5156060bfa2ba"
   >
     <Credits>This is a composite of three RASS3 surveys from the ROSAT Data Archive of the Max-Planck-Institut fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope. Red is soft band (RASS3sb), Green is broad band (RASS3bb), Blue is hard band (RASS3hb)</Credits>
     <CreditsUrl>http://www.xray.mpe.mpg.de/cgi-bin/rosat/rosat-survey</CreditsUrl>
@@ -772,6 +800,7 @@
     TileLevels="3"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000003{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>X-ray: NASA/CXC/SAO; Optical: NASA/STScI; Infrared: NASA/JPL-Caltech</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2005/casa/index.html</CreditsUrl>
@@ -799,6 +828,7 @@
     TileLevels="3"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000013{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>NASA/CXC/GSFC/F.P.Gavriil et al.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2008/kes75/</CreditsUrl>
@@ -826,6 +856,7 @@
     TileLevels="4"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000023{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>NASA/UMass/Q.D.Wang et al.; Optical: NASA/STScI/AURA/Hubble Heritage; Infrared: NASA/JPL-Caltech/Univ. AZ/R.Kennicutt/SINGS Team</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2007/sombrero/</CreditsUrl>
@@ -853,6 +884,7 @@
     TileLevels="4"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000033{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>NASA/UIUC/Y. Chu &amp; R. Gruendl et al.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2003/ngc6888/</CreditsUrl>
@@ -880,6 +912,7 @@
     TileLevels="4"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000103{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>X-ray: NASA/CXC/Caltech/S.Kulkarni et al.; Optical: NASA/STScI/UIUC/Y.H.Chu &amp; R.Williams et al.; IR: NASA/JPL-Caltech/R.Gehrz et al.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2006/n49/</CreditsUrl>
@@ -907,6 +940,7 @@
     TileLevels="4"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000113{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>NASA/CXC/GSFC/M.Corcoran et al.</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2007/etacar/more.html</CreditsUrl>
@@ -934,6 +968,7 @@
     TileLevels="4"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000123{Q}?g=131"
     WidthFactor="2"
+    Xcxstatus="queue:chandra"
   >
     <Credits>X-ray (NASA/CXC/M. Karovska et al.); Radio 21-cm image (NRAO/AUI/NSF/J.Van Gorkom/Schminovich et al.), Radio continuum image (NRAO/AUI/NSF/J. Condon et al.); Optical (Digitized Sky Survey U.K. Schmidt Image/STScI)</Credits>
     <CreditsUrl>http://chandra.harvard.edu/photo/2002/0157/</CreditsUrl>
@@ -959,6 +994,7 @@
     TileLevels="7"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000313{Q}?g=138"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>We have made use of the ROSAT Data Archive of the Max-Planck-Institut fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (RASS3hb, Min=0.2, Max=50).</Credits>
     <CreditsUrl>http://www.xray.mpe.mpg.de/cgi-bin/rosat/rosat-survey</CreditsUrl>
@@ -984,6 +1020,7 @@
     TileLevels="8"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000323{Q}?g=138"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>Observational data from NASA Goddard Space Flight Center, mosaicking and TOASTing of images done by NASA's SkyView Virtual Telescope (PSPC2int, Min=0.00002, Max=0.01).</Credits>
     <CreditsUrl>http://skyview.gsfc.nasa.gov/help/pspc_generation.html</CreditsUrl>
@@ -1010,6 +1047,7 @@
     TileLevels="7"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001133{Q}?g=182"
     WidthFactor="2"
+    Xcxstatus="queue:wwtcore"
   >
     <Credits>We have made use of the ROSAT Data Archive of the Max-Planck-Institut fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (RASS3bb, Min=0.2, Max=50).</Credits>
     <CreditsUrl>http://www.xray.mpe.mpg.de/cgi-bin/rosat/rosat-survey</CreditsUrl>

@@ -243,6 +243,7 @@ annotation: '{"channel": "noirlab", "itemid": "iotw2030a", "publishedUTCISO8601"
   "2020-07-22T15:17:12+00:00"}'
 classification: ''
 constellation: LYN
+cxstatus: in:64276363975014bc743f180a
 data_set_type: Sky
 dec_deg: 49.05862854921838
 description: The spiral galaxy NGC 2541 is shown in extravagant detail in this astronomical
@@ -268,6 +269,7 @@ annotation: '{"channel": "noirlab", "itemid": "iotw2101a", "publishedUTCISO8601"
   "2021-01-06T08:00:00+00:00"}'
 classification: ''
 constellation: LYN
+cxstatus: in:64276368975014bc743f180f
 data_set_type: Sky
 dec_deg: 45.74358927874363
 description: The remarkably thin galaxy IC 2233 is featured in this image from the
@@ -293,6 +295,7 @@ annotation: '{"channel": "noirlab", "itemid": "iotw2115a", "publishedUTCISO8601"
   "2021-04-14T16:00:00+00:00"}'
 classification: ''
 constellation: VEL
+cxstatus: in:6427636c975014bc743f1813
 data_set_type: Sky
 dec_deg: -40.66301186619996
 description: This image is so beautiful that it could almost be a painting, but it
@@ -316,6 +319,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02337", "publishedUTCISO8601
   "2020-06-30T21:33:57+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:642763a0975014bc743f1849
 data_set_type: Sky
 dec_deg: 58.736481129561106
 description: NGC2685 is an unusual lenticular galaxy of type S0(pec), in the constellation
@@ -332,6 +336,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02351", "publishedUTCISO8601
   "2020-06-30T21:33:47+00:00"}'
 classification: ''
 constellation: HYA
+cxstatus: in:642763a9975014bc743f1852
 data_set_type: Sky
 dec_deg: 3.1832898874455386
 description: This distant cluster of galaxies in the constellation Hydra clearly shows
@@ -347,6 +352,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02463", "publishedUTCISO8601
   "2020-06-30T21:53:14+00:00"}'
 classification: ''
 constellation: CNC
+cxstatus: in:642763ad975014bc743f1857
 data_set_type: Sky
 dec_deg: 11.81529917620011
 description: M67 is an open star cluster in the constellation Cancer. One of the oldest
@@ -365,6 +371,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-m67pump", "publishedUTCISO86
   "2020-06-30T21:53:14+00:00"}'
 classification: ''
 constellation: CNC
+cxstatus: in:6427641a975014bc743f18c9
 data_set_type: Sky
 dec_deg: 11.839040178118134
 description: M67 is an open star cluster in the constellation Cancer. One of the oldest
@@ -388,6 +395,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-n2685", "publishedUTCISO8601
   "2020-06-30T21:33:47.547924+00:00"}'
 classification: ''
 constellation: UMA
+cxstatus: in:64276438975014bc743f18e9
 data_set_type: Sky
 dec_deg: 58.734509258769535
 description: NGC2685 is an interesting polar ring galaxy in the constellation Ursa
@@ -417,6 +425,7 @@ annotation: '{"channel": "noirlab", "itemid": "noaoann16021a", "publishedUTCISO8
   "2016-11-15T00:00:00+00:00"}'
 classification: ''
 constellation: HYA
+cxstatus: in:642764ac975014bc743f1961
 data_set_type: Sky
 dec_deg: -2.134178872300581
 description: The DECam Legacy Survey (DECaLS) has released reduced images and source
@@ -435,6 +444,7 @@ zoom_level: 0.604863756871956
 _uuid: e6639dd3-d2ba-4d72-81a9-28ba30cd1d54
 classification: ''
 constellation: LYN
+cxstatus: in:649bab411e6961df10c19462
 data_set_type: Sky
 dec_deg: 48.2173630473758
 foreground_image_set_url: http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C196/{1}/{3}/{3}_{2}.png
@@ -985,6 +995,7 @@ zoom_level: 0.180528447751782
 _uuid: 52d1c360-9c2e-46e8-b6a9-f59864cfb5c6
 classification: ''
 constellation: CNC
+cxstatus: in:64b74303a15b29de42b30514
 data_set_type: Sky
 dec_deg: 25.1812545921
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig07-002L{1}X{2}Y{3}.png
@@ -996,6 +1007,7 @@ zoom_level: 0.573686014466253
 _uuid: d833354b-49c8-4244-b45b-5e5a9db0cc45
 classification: ''
 constellation: VEL
+cxstatus: in:64b74304a15b29de42b30516
 data_set_type: Sky
 dec_deg: -51.0109834
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig07-022L{1}X{2}Y{3}.png
@@ -1007,6 +1019,7 @@ zoom_level: 0.2984534016
 _uuid: c9ae8afa-7eaa-4a6a-b3c9-8d19891e3856
 classification: ''
 constellation: VEL
+cxstatus: in:64b74305a15b29de42b30518
 data_set_type: Sky
 dec_deg: -51.0083677
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig13-016L{1}X{2}Y{3}.png
@@ -1018,6 +1031,7 @@ zoom_level: 0.46683389952
 _uuid: 256fdaff-179a-4685-965b-2c85eacaaeed
 classification: ''
 constellation: PUP
+cxstatus: in:64b74306a15b29de42b3051a
 data_set_type: Sky
 dec_deg: -43.0463607
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig14-022L{1}X{2}Y{3}.png
@@ -1029,6 +1043,7 @@ zoom_level: 5.57806870528
 _uuid: 616da0ba-9daf-4961-b680-9f2e067c7183
 classification: ''
 constellation: PUP
+cxstatus: in:649e46051e6961df10c195c1
 data_set_type: Sky
 dec_deg: -42.752932879
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-032L{1}X{2}Y{3}.png

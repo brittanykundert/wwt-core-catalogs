@@ -620,6 +620,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini-20070806-ngc6520gem-clnfla
   "publishedUTCISO8601": "2007-08-06T00:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:6427631e975014bc743f17c2
 data_set_type: Sky
 dec_deg: -27.875886859292763
 description: 'Millions of years ago, a dust cloud about 5,200 light-years from the
@@ -657,6 +658,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini0207a", "publishedUTCISO860
   "2002-06-20T20:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:6427632e975014bc743f17d2
 data_set_type: Sky
 dec_deg: -23.033966335837995
 description: 'Central region of the Trifid Nebula (M20 in the Messier Catalogue) taken
@@ -682,6 +684,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini0509b", "publishedUTCISO860
   "2005-08-26T20:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:64276338975014bc743f17dc
 data_set_type: Sky
 dec_deg: -24.02065164997691
 description: Gemini South image of dragon-like dark nebula NGC 6559 NGC 6559 is a
@@ -707,6 +710,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini1306a", "publishedUTCISO860
   "2013-08-06T00:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:6427634d975014bc743f17f3
 data_set_type: Sky
 dec_deg: -16.137665932401173
 description: This FLAMINGOS-2 near-infrared image details part of the magnificent
@@ -726,6 +730,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini1611a", "publishedUTCISO860
   "2016-12-29T00:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:64276354975014bc743f17fa
 data_set_type: Sky
 dec_deg: -20.78853411673003
 description: 'Reflection nebula GGD 27 revealing the chaotic and messy environment
@@ -766,6 +771,7 @@ annotation: '{"channel": "noirlab", "itemid": "iotw2104a", "publishedUTCISO8601"
   "2021-01-27T16:00:00+00:00"}'
 classification: ''
 constellation: SER2
+cxstatus: in:64276369975014bc743f1810
 data_set_type: Sky
 dec_deg: -11.73328359205837
 description: 'The emission nebula Sh2-54 glows brightly in this image from the SMARTS
@@ -788,6 +794,7 @@ annotation: '{"channel": "noirlab", "itemid": "iotw2121a", "publishedUTCISO8601"
   "2021-05-26T12:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:6427636d975014bc743f1814
 data_set_type: Sky
 dec_deg: -16.798121793343636
 description: This image shows the planetary nebula Sh2-42 in the constellation Sagittarius,
@@ -810,6 +817,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02171", "publishedUTCISO8601
   "2020-06-30T21:34:06+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:64276371975014bc743f1819
 data_set_type: Sky
 dec_deg: -23.021894858862424
 description: The Trifid Nebula, Messier object 20 (M20) in the constellation of Sagittarius.
@@ -826,6 +834,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02172", "publishedUTCISO8601
   "2020-06-30T21:34:06.031169+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:64276372975014bc743f181a
 data_set_type: Sky
 dec_deg: -24.3476874062275
 description: The Lagoon Nebula, Messier object 8 (M8) or NGC 6523, in the constellation
@@ -848,6 +857,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02173", "publishedUTCISO8601
   "2020-06-30T21:34:06+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:64276373975014bc743f181b
 data_set_type: Sky
 dec_deg: -24.3476874062275
 description: The Lagoon Nebula, Messier object 8 (M8) or NGC 6523, in the constellation
@@ -869,6 +879,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02180", "publishedUTCISO8601
   "2020-06-30T21:34:06.251242+00:00"}'
 classification: ''
 constellation: SER2
+cxstatus: in:64276378975014bc743f1820
 data_set_type: Sky
 dec_deg: -13.832871225426537
 description: 'The Eagle Nebula, Messier object 16 (M16), NGC 6611, as seen by the
@@ -920,6 +931,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02181", "publishedUTCISO8601
   "2020-06-30T21:34:06+00:00"}'
 classification: ''
 constellation: SER2
+cxstatus: in:64276379975014bc743f1821
 data_set_type: Sky
 dec_deg: -13.81099486123758
 description: 'The Eagle Nebula, Messier object 16 (M16), NGC 6611, as seen by the
@@ -972,6 +984,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02182", "publishedUTCISO8601
   "2020-06-30T21:34:06.672196+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:6427637a975014bc743f1822
 data_set_type: Sky
 dec_deg: -16.1931103252966
 description: The Omega Nebula, Messier object 17 (M17), NGC 6618, in the constellation
@@ -993,6 +1006,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02183", "publishedUTCISO8601
   "2020-06-30T21:34:06+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:6427637b975014bc743f1823
 data_set_type: Sky
 dec_deg: -16.183905299612356
 description: The Omega Nebula, Messier object 17 (M17), NGC 6618, in the constellation
@@ -1015,6 +1029,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02202", "publishedUTCISO8601
   "2020-06-30T21:34:06.567881+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:64276385975014bc743f182d
 data_set_type: Sky
 dec_deg: -16.1796909561552
 description: The Omega Nebula, M17 (NGC6618), as seen by the KPNO 0.9-meter telescope
@@ -1037,6 +1052,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02268", "publishedUTCISO8601
   "2020-06-30T21:53:15+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:6427638c975014bc743f1834
 data_set_type: Sky
 dec_deg: -30.0521732706565
 description: Two globular clusters seen through the dense star field in the direction
@@ -1054,6 +1070,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02678", "publishedUTCISO8601
   "2020-06-30T21:34:07+00:00"}'
 classification: ''
 constellation: LYR
+cxstatus: in:642763b4975014bc743f185e
 data_set_type: Sky
 dec_deg: 33.02919644194783
 description: 'The Ring Nebula, M57, NGC6720 This true color picture was taken using
@@ -1082,6 +1099,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-03315", "publishedUTCISO8601
   "2020-06-30T21:34:06+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:642763b7975014bc743f1861
 data_set_type: Sky
 dec_deg: -16.17582941131354
 description: The Simultaneous Quad Infrared Imaging detector (SQIID) has returned
@@ -1110,6 +1128,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-04086", "publishedUTCISO8601
   "2002-09-18T09:49:04+00:00"}'
 classification: ''
 constellation: SER2
+cxstatus: in:642763ba975014bc743f1864
 data_set_type: Sky
 dec_deg: -13.830500385808618
 description: This wide-field image of the Eagle Nebula was taken at the National Science
@@ -1131,6 +1150,7 @@ angular_size: 5.7727512
 annotation: '{"channel": "noirlab", "itemid": "noao-lag", "publishedUTCISO8601": "2020-06-30T21:34:06+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:642763e4975014bc743f1890
 data_set_type: Sky
 dec_deg: -24.3476874062275
 description: The Lagoon Nebula, Messier object 8 (M8) or NGC6523, in the constellation
@@ -1154,6 +1174,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-lagoon-nebula", "publishedUT
   "2020-06-30T21:34:06+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:642763e5975014bc743f1891
 data_set_type: Sky
 dec_deg: -24.379349250512035
 description: 'The Lagoon Nebula, M8 or NGC 6523. As one of the showpiece objects of
@@ -1178,6 +1199,7 @@ angular_size: 2.9454336000000003
 annotation: '{"channel": "noirlab", "itemid": "noao-m11", "publishedUTCISO8601": "2020-06-30T21:34:15+00:00"}'
 classification: ''
 constellation: SCT
+cxstatus: in:642763f3975014bc743f18a0
 data_set_type: Sky
 dec_deg: -6.275291813227073
 description: M11 is one of the richest and most compact open clusters, with nearly
@@ -1198,6 +1220,7 @@ angular_size: 2.6192987999999997
 annotation: '{"channel": "noirlab", "itemid": "noao-m17", "publishedUTCISO8601": "2020-06-30T21:34:06.512355+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:642763f9975014bc743f18a6
 data_set_type: Sky
 dec_deg: -16.1724203536167
 description: The Omega Nebula, M17 or NGC6618, in the constellation Sagittarius. M17
@@ -1226,6 +1249,7 @@ angular_size: 3.73932
 annotation: '{"channel": "noirlab", "itemid": "noao-m18", "publishedUTCISO8601": "2020-06-30T21:34:15+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:642763fa975014bc743f18a7
 data_set_type: Sky
 dec_deg: -17.091762121787287
 description: M18 is an open cluster in the constellation Sagittarius. It is a widely
@@ -1247,6 +1271,7 @@ angular_size: -3.9899135999999995
 annotation: '{"channel": "noirlab", "itemid": "noao-m20", "publishedUTCISO8601": "2020-06-30T21:34:06.768194+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:642763fc975014bc743f18a9
 data_set_type: Sky
 dec_deg: -22.9646548278006
 description: 'The Trifid Nebula, M20 or NGC6514, is a familiar sight and an excellent
@@ -1270,6 +1295,7 @@ angular_size: 4.88988
 annotation: '{"channel": "noirlab", "itemid": "noao-m21", "publishedUTCISO8601": "2020-06-30T21:34:16+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:642763fd975014bc743f18aa
 data_set_type: Sky
 dec_deg: -22.497344470134994
 description: The open cluster M21, or NGC6531, in the constellation Sagittarius. This
@@ -1296,6 +1322,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-m21a20", "publishedUTCISO860
   "2020-06-30T21:34:06+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:642763fe975014bc743f18ab
 data_set_type: Sky
 dec_deg: -22.786583849380147
 description: TheTrifid Nebula, M20 (upper left, NE) and the open star cluster M21
@@ -1317,6 +1344,7 @@ angular_size: 4.4181504
 annotation: '{"channel": "noirlab", "itemid": "noao-m22", "publishedUTCISO8601": "2020-06-30T21:34:16+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:642763ff975014bc743f18ac
 data_set_type: Sky
 dec_deg: -23.902651564141554
 description: M22, or NGC6656, a globular cluster in the constellation Sagittarius.
@@ -1340,6 +1368,7 @@ angular_size: 10.491719999999999
 annotation: '{"channel": "noirlab", "itemid": "noao-m24", "publishedUTCISO8601": "2020-06-30T21:34:16+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:64276400975014bc743f18ae
 data_set_type: Sky
 dec_deg: -18.559267396816754
 description: M24 is something of an oddity, listed in Messier&#x27;s original catalog
@@ -1365,6 +1394,7 @@ angular_size: 7.190999999999999
 annotation: '{"channel": "noirlab", "itemid": "noao-m25", "publishedUTCISO8601": "2020-06-30T21:34:16+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:64276401975014bc743f18af
 data_set_type: Sky
 dec_deg: -19.12124902380124
 description: It is unclear why M25, a reasonably conspicuous open cluster in the constellation
@@ -1388,6 +1418,7 @@ angular_size: 4.026960000000001
 annotation: '{"channel": "noirlab", "itemid": "noao-m26", "publishedUTCISO8601": "2020-06-30T21:34:16+00:00"}'
 classification: ''
 constellation: SCT
+cxstatus: in:64276402975014bc743f18b0
 data_set_type: Sky
 dec_deg: -9.389350353951498
 description: M26 is an open cluster in the constellation Scutum. A fairly tight cluster,
@@ -1410,6 +1441,7 @@ angular_size: 1.9740672
 annotation: '{"channel": "noirlab", "itemid": "noao-m54", "publishedUTCISO8601": "2020-06-30T21:53:13+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:64276411975014bc743f18bf
 data_set_type: Sky
 dec_deg: -30.479108445829823
 description: M54 is a globular cluster in the constellation Sagittarius. It is bright
@@ -1431,6 +1463,7 @@ _uuid: 9696e234-362e-427f-b321-5d26bed6e5b1
 annotation: '{"channel": "noirlab", "itemid": "noao-m70", "publishedUTCISO8601": "2020-06-30T21:53:14+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:6427641c975014bc743f18cb
 data_set_type: Sky
 dec_deg: -32.29281174388044
 description: M70 is a globular cluster in the constellation Sagittarius. It has a
@@ -1453,6 +1486,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-m8-burrell-schmidt", "publis
   "2020-06-30T21:34:05+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:64276423975014bc743f18d3
 data_set_type: Sky
 dec_deg: -24.3476874062275
 description: The Lagoon Nebula, Messier object 8 (M8) or NGC6523, in the constellation
@@ -1474,6 +1508,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-noao-m17-09", "publishedUTCI
   "2020-09-18T02:22:27+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:64276460975014bc743f1911
 data_set_type: Sky
 dec_deg: -16.168141167524386
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -1496,6 +1531,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-noao-m8", "publishedUTCISO86
   "2020-06-30T21:34:05+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:64276461975014bc743f1912
 data_set_type: Sky
 dec_deg: -24.319411194870927
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -1518,6 +1554,7 @@ annotation: '{"channel": "noirlab", "itemid": "noaoann02008a", "publishedUTCISO8
   "2002-08-04T09:57:44+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:6427649f975014bc743f1953
 data_set_type: Sky
 dec_deg: -23.03393966046449
 description: mage of the central region of the Trifid Nebula (M20 in the Messier Catalogue)
@@ -1538,6 +1575,7 @@ annotation: '{"channel": "noirlab", "itemid": "noaoann09007a", "publishedUTCISO8
   "2009-04-06T00:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:642764a1975014bc743f1955
 data_set_type: Sky
 dec_deg: -27.87647099438583
 description: An image of the open star cluster NGC 6520 and nearby dust cloud Barnard
@@ -1562,6 +1600,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2027a", "publishedUTCISO86
   "2020-10-27T07:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:642764c5975014bc743f197b
 data_set_type: Sky
 dec_deg: -28.689689922798
 description: This color-composite shows a main part of the new Blanco DECam Bulge
@@ -1604,6 +1643,7 @@ zoom_level: 0.691031832846452
 _uuid: c8a955f7-07e0-45f1-aeca-29e7dfb9aabe
 classification: ''
 constellation: SGR
+cxstatus: in:647a7ae4d4a2d5e2c5f3e728
 data_set_type: Sky
 dec_deg: -16.179623886343308
 description: Composite image of the Swan Nebula. SOFIA detected the blue areas (20
@@ -1625,6 +1665,7 @@ zoom_level: 2.566697204034056
 _uuid: 07b3204b-ffbb-4ca1-afb4-8d810099bd20
 classification: ''
 constellation: SER2
+cxstatus: in:647a7ae8d4a2d5e2c5f3e72d
 data_set_type: Sky
 dec_deg: -2.0486929812916372
 description: Composite image of the Serpens South Cluster. Magnetic fields observed
@@ -1644,6 +1685,7 @@ zoom_level: 3.4370309121641083
 _uuid: b4ab8dbd-006b-4183-9f6c-56236114a998
 classification: ''
 constellation: DRA
+cxstatus: in:649bab451e6961df10c19466
 data_set_type: Sky
 dec_deg: 48.7459836160309
 foreground_image_set_url: http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C380/{1}/{3}/{3}_{2}.png
@@ -1655,28 +1697,7 @@ zoom_level: 0.05966279275049144
 _uuid: e410792e-261d-47ff-aa7e-c25fa4d64795
 classification: ''
 constellation: SER2
-data_set_type: Sky
-dec_deg: -13.837655701406636
-foreground_image_set_url: http://data1.wwtassets.org/packages/2022/10_jwst/weic2218a/{1}/{3}/{3}_{2}.png
-name: Pillars of Creation (MIRI Image)
-ra_hr: 18.31511958749315
-thumbnail: http://data1.wwtassets.org/packages/2022/10_jwst/weic2218a/thumb.jpg
-zoom_level: 0.5709085433396464
----
-_uuid: 2566c9ed-8199-4669-aa6b-2f5b109a4a03
-classification: ''
-constellation: SER2
-data_set_type: Sky
-dec_deg: -13.837655701406636
-foreground_image_set_url: http://data1.wwtassets.org/packages/2022/10_jwst/weic2218a/{1}/{3}/{3}_{2}.png
-name: Pillars of Creation (MIRI Image)
-ra_hr: 18.31511958749315
-thumbnail: http://data1.wwtassets.org/packages/2022/10_jwst/weic2218a/thumb.jpg
-zoom_level: 0.5709085433396464
----
-_uuid: ef79b26c-d81a-4fe8-870e-91fdc28c7953
-classification: ''
-constellation: SER2
+cxstatus: in:64276204975014bc743f15c7
 data_set_type: Sky
 dec_deg: -13.837655701406636
 foreground_image_set_url: http://data1.wwtassets.org/packages/2022/10_jwst/weic2218a/{1}/{3}/{3}_{2}.png
@@ -1688,6 +1709,7 @@ zoom_level: 0.5709085433396464
 _uuid: 83f0452f-96b2-41ce-b1b5-762634e25477
 classification: ''
 constellation: SER2
+cxstatus: in:64276201975014bc743f15c3
 data_set_type: Sky
 dec_deg: -13.837741719569648
 foreground_image_set_url: http://data1.wwtassets.org/packages/2022/12_jwst/pillarsofcreation_composite/{1}/{3}/{3}_{2}.png
@@ -1743,6 +1765,7 @@ zoom_level: 0.491666666666667
 _uuid: f14e283f-6ef7-4a8d-b9c7-0de09f8d7a1f
 classification: ''
 constellation: SER2
+cxstatus: in:642764df975014bc743f1996
 data_set_type: Sky
 dec_deg: -13.8125241
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001210{Q}?g=138
@@ -1787,6 +1810,7 @@ _uuid: 035da989-94a2-449a-8ac6-8de760428d7c
 angular_size: 1.0
 classification: GiantMolecularCloud
 constellation: SGR
+cxstatus: in:64b74326a15b29de42b3055e
 data_set_type: Sky
 dec_deg: -22.9572222222222
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000120320{Q}?g=182
@@ -1864,6 +1888,7 @@ _uuid: f64bf200-a157-4287-8781-3ce8285c76cc
 angular_size: 1.0
 classification: Nebula
 constellation: SGR
+cxstatus: in:649cf3d21e6961df10c19505
 data_set_type: Sky
 dec_deg: -24.37388888888889
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000113321{Q}?g=138
@@ -3074,6 +3099,7 @@ zoom_level: 0.180435646631117
 _uuid: f4fc2ee2-613d-4888-bd31-1a5193833eaa
 classification: ''
 constellation: SER2
+cxstatus: in:64b74327a15b29de42b30560
 data_set_type: Sky
 dec_deg: 1.17261209020029
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig06-026L{1}X{2}Y{3}.png
@@ -3085,6 +3111,7 @@ zoom_level: 3.0318355860207
 _uuid: 684d21bb-5f9f-4159-bf24-042695f3d4fc
 classification: ''
 constellation: SER2
+cxstatus: in:64b74328a15b29de42b30562
 data_set_type: Sky
 dec_deg: -4.6560743
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-006eL{1}X{2}Y{3}.png
@@ -3096,6 +3123,7 @@ zoom_level: 0.92644614144
 _uuid: 1a9871fd-8ecf-46fe-9c2c-5f8e63abbda0
 classification: ''
 constellation: SGR
+cxstatus: in:64b74329a15b29de42b30564
 data_set_type: Sky
 dec_deg: -16.0856860901959
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-009aL{1}X{2}Y{3}.png
@@ -3107,6 +3135,7 @@ zoom_level: 5.461327872
 _uuid: 7ec3229a-8d01-48cb-937f-ec0b366098f8
 classification: ''
 constellation: SGR
+cxstatus: in:64b7432aa15b29de42b30566
 data_set_type: Sky
 dec_deg: -16.0856860901959
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-010aL{1}X{2}Y{3}.png
@@ -3118,6 +3147,7 @@ zoom_level: 5.461327872
 _uuid: 1e1febd6-714e-48a4-a423-79b7b066501f
 classification: ''
 constellation: SGR
+cxstatus: in:64b7432ba15b29de42b30568
 data_set_type: Sky
 dec_deg: -24.3733936032182
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig11-012L{1}X{2}Y{3}.png
@@ -3129,6 +3159,7 @@ zoom_level: 2.77618688
 _uuid: 14e2e821-2d18-4c06-9cc7-bc5844099e68
 classification: ''
 constellation: AQL
+cxstatus: in:64b7432ca15b29de42b3056a
 data_set_type: Sky
 dec_deg: -2.66395731734549
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig12-003L{1}X{2}Y{3}.png
@@ -3140,6 +3171,7 @@ zoom_level: 5.46133333327872
 _uuid: 804cb6c9-d479-4559-b2fc-283cfb90b010
 classification: ''
 constellation: AQL
+cxstatus: in:64b7432da15b29de42b3056c
 data_set_type: Sky
 dec_deg: -3.60790989
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig14-010L{1}X{2}Y{3}.png
@@ -3151,6 +3183,7 @@ zoom_level: 33.3803013860435
 _uuid: b8ddfeb7-65f5-46c6-993c-473191ef9ee6
 classification: ''
 constellation: AQL
+cxstatus: in:64b7446fa15b29de42b30576
 data_set_type: Sky
 dec_deg: -3.60790989
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig14-010bL{1}X{2}Y{3}.png
@@ -3162,6 +3195,7 @@ zoom_level: 29.5348906663713
 _uuid: d90a11a6-5d9a-48c4-9b0d-f9348a3d0c5a
 classification: ''
 constellation: SER2
+cxstatus: in:64b74470a15b29de42b30578
 data_set_type: Sky
 dec_deg: 1.2338129
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig14-011L{1}X{2}Y{3}.png
@@ -3173,6 +3207,7 @@ zoom_level: 1.3873905664
 _uuid: 66d71c0a-b6a6-41ab-bbd2-a1d62a09dee6
 classification: ''
 constellation: SER2
+cxstatus: in:64b74471a15b29de42b3057a
 data_set_type: Sky
 dec_deg: 1.2338129
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig14-012L{1}X{2}Y{3}.png
@@ -3184,6 +3219,7 @@ zoom_level: 1.3873905664
 _uuid: 0bd796bf-d3a5-43ad-ab53-1458d7570266
 classification: ''
 constellation: SGR
+cxstatus: in:64b74472a15b29de42b3057c
 data_set_type: Sky
 dec_deg: -17.930519525398
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig15-002L{1}X{2}Y{3}.png
@@ -3195,6 +3231,7 @@ zoom_level: 1.39901953208576
 _uuid: 99f68592-0ad2-4917-82e9-b8d1cdab920b
 classification: ''
 constellation: AQL
+cxstatus: in:64b74473a15b29de42b3057e
 data_set_type: Sky
 dec_deg: -1.496731280934
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-16a1L{1}X{2}Y{3}.png
@@ -3206,6 +3243,7 @@ zoom_level: 0.455049216
 _uuid: f68c3893-df92-4ee9-affa-1db69fb48782
 classification: ''
 constellation: AQL
+cxstatus: in:64b74474a15b29de42b30580
 data_set_type: Sky
 dec_deg: -1.496731280934
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-16bL{1}X{2}Y{3}.png
@@ -3217,6 +3255,7 @@ zoom_level: 0.5460590592
 _uuid: 03cf2a48-917c-476d-b0be-d30aab68fab4
 classification: ''
 constellation: SGR
+cxstatus: in:64b74475a15b29de42b30582
 data_set_type: Sky
 dec_deg: -22.9667018433416
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2005-02a2L{1}X{2}Y{3}.png
@@ -3228,6 +3267,7 @@ zoom_level: 2.73216239574326
 _uuid: b061743b-0893-4597-9c3c-d485757627a8
 classification: ''
 constellation: SGR
+cxstatus: in:64b74476a15b29de42b30584
 data_set_type: Sky
 dec_deg: -22.9667018433416
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2005-02a3L{1}X{2}Y{3}.png
@@ -3239,6 +3279,7 @@ zoom_level: 2.73216239574326
 _uuid: 78f6ffb6-3be3-4508-9da8-72fabd156d3d
 classification: ''
 constellation: SGR
+cxstatus: in:64b74477a15b29de42b30586
 data_set_type: Sky
 dec_deg: -22.9667018433416
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2005-02a4L{1}X{2}Y{3}.png
@@ -3250,6 +3291,7 @@ zoom_level: 2.73216239574326
 _uuid: 0dd56efd-a4b9-4912-b306-bf832843946f
 classification: ''
 constellation: SGR
+cxstatus: in:64b74478a15b29de42b30588
 data_set_type: Sky
 dec_deg: -23.0458445900553
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2005-02b4L{1}X{2}Y{3}.png
@@ -3261,6 +3303,7 @@ zoom_level: 1.36655356532852
 _uuid: f296299a-4b1e-4580-b0c4-d62c361a74b7
 classification: ''
 constellation: LYR
+cxstatus: in:64b74479a15b29de42b3058a
 data_set_type: Sky
 dec_deg: 33.027186385765
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2005-07a1L{1}X{2}Y{3}.png
@@ -3272,6 +3315,7 @@ zoom_level: 1.1401428992
 _uuid: bbbadfc8-979a-49a2-bff7-9537c3e56a99
 classification: ''
 constellation: SER2
+cxstatus: in:64b7447aa15b29de42b3058c
 data_set_type: Sky
 dec_deg: -13.768690988056
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2007-01a1L{1}X{2}Y{3}.png
@@ -3283,6 +3327,7 @@ zoom_level: 3.63734053098517
 _uuid: 04b86f25-38ab-4180-818b-9e9085fe72ab
 classification: ''
 constellation: SER2
+cxstatus: in:64b7447ba15b29de42b3058e
 data_set_type: Sky
 dec_deg: -13.768690988056
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2007-01c1L{1}X{2}Y{3}.png
@@ -3294,6 +3339,7 @@ zoom_level: 3.63734053098517
 _uuid: 53c6ab06-ce62-4bc4-a480-6bcb928fc864
 classification: ''
 constellation: SER2
+cxstatus: in:64b7447ca15b29de42b30590
 data_set_type: Sky
 dec_deg: -13.768690988056
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2007-01c3L{1}X{2}Y{3}.png
@@ -3305,6 +3351,7 @@ zoom_level: 3.63734053098517
 _uuid: 1c7d9a79-b1e3-405a-8d3b-ccf02fe21051
 classification: ''
 constellation: SGR
+cxstatus: in:64b7447da15b29de42b30592
 data_set_type: Sky
 dec_deg: -16.0856860901959
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2008-21a1L{1}X{2}Y{3}.png
@@ -3316,6 +3363,7 @@ zoom_level: 5.46100260763794
 _uuid: 03344760-0858-4e03-9574-d4e8699006e0
 classification: ''
 constellation: SCT
+cxstatus: in:64b7447da15b29de42b30594
 data_set_type: Sky
 dec_deg: -12.6269808067834
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2013-05a1L{1}X{2}Y{3}.png
@@ -3327,6 +3375,7 @@ zoom_level: 5.46271148013446
 _uuid: a0a46e76-5e34-4e32-a2fa-b9584799b8a4
 classification: ''
 constellation: SER2
+cxstatus: in:64b7447ea15b29de42b30596
 data_set_type: Sky
 dec_deg: -2.1960056
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-04aL{1}X{2}Y{3}.png
@@ -3338,6 +3387,7 @@ zoom_level: 3.92978432
 _uuid: eeb82332-4d17-47c4-b884-898eb35a298e
 classification: ''
 constellation: CRA
+cxstatus: in:649e460f1e6961df10c195cb
 data_set_type: Sky
 dec_deg: -37.011655
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-013L{1}X{2}Y{3}.png
@@ -3349,6 +3399,7 @@ zoom_level: 6.25777769088778
 _uuid: a5cdbdda-15f0-4566-869e-aa227bd0cfcd
 classification: ''
 constellation: SGR
+cxstatus: in:649e46101e6961df10c195cc
 data_set_type: Sky
 dec_deg: -24.231111
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-001L{1}X{2}Y{3}.png
@@ -3360,6 +3411,7 @@ zoom_level: 6.25777769088778
 _uuid: 8ab04e9c-39fd-4122-8ec4-27567d225a60
 classification: ''
 constellation: SGR
+cxstatus: in:649e46111e6961df10c195cd
 data_set_type: Sky
 dec_deg: -19.687778
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-027L{1}X{2}Y{3}.png
@@ -3371,6 +3423,7 @@ zoom_level: 6.25777769088778
 _uuid: 0f9bf8e7-2faf-4056-9393-5884a78106c6
 classification: ''
 constellation: LYR
+cxstatus: in:649e46121e6961df10c195ce
 data_set_type: Sky
 dec_deg: 27.26
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-ydwarf-b1L{1}X{2}Y{3}.png
@@ -3382,6 +3435,7 @@ zoom_level: 1.56444442272195
 _uuid: c003ff02-01a8-4c0a-9823-7c232ca16946
 classification: ''
 constellation: LYR
+cxstatus: in:649e46121e6961df10c195cf
 data_set_type: Sky
 dec_deg: 27.26
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-ydwarf-b2L{1}X{2}Y{3}.png
@@ -3393,6 +3447,7 @@ zoom_level: 1.56444442272195
 _uuid: 73e98260-7c35-4ffc-a241-17f104515fa5
 classification: ''
 constellation: SGR
+cxstatus: in:649e46131e6961df10c195d0
 data_set_type: Sky
 dec_deg: -33.2974232
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2012-003L{1}X{2}Y{3}.png
@@ -3404,6 +3459,7 @@ zoom_level: 6.25872224256
 _uuid: 12a9de69-b2a6-44ea-87d2-804ef81b2999
 classification: ''
 constellation: SGR
+cxstatus: in:649e46141e6961df10c195d1
 data_set_type: Sky
 dec_deg: -22.716667
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2014-001L{1}X{2}Y{3}.png
@@ -3415,6 +3471,7 @@ zoom_level: 6.25777769088778
 _uuid: e5b54836-2163-4369-b8a5-41974d80b4c1
 classification: Unfiltered
 constellation: SGR
+cxstatus: in:649ce1cf1e6961df10c19483
 data_set_type: Sky
 dec_deg: -23.03
 foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/869831676/{1}/{3}/{3}_{2}.png
@@ -3458,6 +3515,7 @@ zoom_level: 11.1866666666667
 _uuid: 9fbc63bf-3786-44c0-87be-02c4d1316890
 classification: GlobularCluster
 constellation: SGR
+cxstatus: in:649ceb7d1e6961df10c194b7
 data_set_type: Sky
 dec_deg: -30.0436111111111
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},939547551
@@ -3469,6 +3527,7 @@ _uuid: 4d7bd849-ff5f-4a19-a8b0-0d087b0b0598
 angular_size: -1.0
 classification: EmissionNebula
 constellation: SER2
+cxstatus: in:649cf3d31e6961df10c19506
 data_set_type: Sky
 dec_deg: -13.857777777777777
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn009
@@ -3480,6 +3539,7 @@ _uuid: 27fa7e9c-69f0-4789-9a97-88929d1b4313
 angular_size: -1.0
 classification: Nebula
 constellation: SGR
+cxstatus: in:649cf3d41e6961df10c19507
 data_set_type: Sky
 dec_deg: -16.183333333333334
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn020
@@ -3491,6 +3551,7 @@ _uuid: 344eadb2-2fa6-45c6-a5f8-b7534c096188
 angular_size: -1.0
 classification: Nebula
 constellation: SGR
+cxstatus: in:649cf3d51e6961df10c19508
 data_set_type: Sky
 dec_deg: -23.033333333333335
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn021
@@ -3502,6 +3563,7 @@ _uuid: 412c2e27-5aa0-4896-b1e3-d7b7bf01312d
 angular_size: 1.0
 classification: Nebula
 constellation: SGR
+cxstatus: in:649cf3d61e6961df10c19509
 data_set_type: Sky
 dec_deg: -23.553333333333335
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn027
@@ -3513,6 +3575,7 @@ _uuid: d068d2d1-9cd4-4d09-85e3-a3a8f3480c64
 angular_size: -1.0
 classification: OpenCluster
 constellation: SER2
+cxstatus: in:649cf3d71e6961df10c1950a
 data_set_type: Sky
 dec_deg: -13.783333333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn031
@@ -3524,6 +3587,7 @@ _uuid: 99b88402-0ab0-44e3-9c05-042dc315d1a8
 angular_size: -1.0
 classification: Nebula
 constellation: LYR
+cxstatus: in:649cf3d81e6961df10c1950b
 data_set_type: Sky
 dec_deg: 33.03333333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn037
@@ -3534,6 +3598,7 @@ zoom_level: 1.0
 _uuid: 2ef6fc90-b7e9-4112-abe5-a6a064f063f9
 classification: ''
 constellation: SER2
+cxstatus: in:64276205975014bc743f15c8
 data_set_type: Sky
 dec_deg: -13.851806247556162
 foreground_image_set_url: https://data1.wwtassets.org/packages/2022/10_jwst/weic2216b/{1}/{3}/{3}_{2}.png

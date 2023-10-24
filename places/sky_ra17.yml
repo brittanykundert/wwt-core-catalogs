@@ -1000,6 +1000,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini-20080825-galactic-center-a
   "publishedUTCISO8601": "2004-09-01T00:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:6427631f975014bc743f17c3
 data_set_type: Sky
 dec_deg: -29.007052084087764
 description: 'The center of our Milky Way Galaxy showing emission from hot gas that
@@ -1019,6 +1020,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini-20080825-m2-9-0001", "publ
   "2005-11-22T00:00:00+00:00"}'
 classification: ''
 constellation: OPH
+cxstatus: in:64276321975014bc743f17c5
 data_set_type: Sky
 dec_deg: -10.14227627456928
 description: 'Color composite adaptive optics image of the planetary nebula M2-9 using
@@ -1041,6 +1043,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini-20080825-ngc6357-0001", "p
   "2004-09-01T00:00:00+00:00"}'
 classification: ''
 constellation: SCO
+cxstatus: in:64276322975014bc743f17c6
 data_set_type: Sky
 dec_deg: -34.17967474762956
 description: 'Star forming region in Scorpius obtained with Gemini South using the
@@ -1059,6 +1062,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini-bowshock-color", "publishe
   "2000-10-16T20:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:64276327975014bc743f17ca
 data_set_type: Sky
 dec_deg: -28.9999496473917
 description: 'The object, known by the unglamorous name of IRS8, was only an ill-defined
@@ -1083,6 +1087,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini-gccolor", "publishedUTCISO
   "2004-08-17T00:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:64276328975014bc743f17cb
 data_set_type: Sky
 dec_deg: -29.003600697108613
 description: 'This extremely high resolution image of the region around the galactic
@@ -1103,6 +1108,7 @@ annotation: '{"channel": "noirlab", "itemid": "geminiann02010a", "publishedUTCIS
   "2002-11-06T05:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:64276356975014bc743f17fc
 data_set_type: Sky
 dec_deg: -29.00358692309431
 description: Hokupa&#x27;a image of full field of Galactic Center (JHK&#x27; color
@@ -1119,6 +1125,7 @@ annotation: '{"channel": "noirlab", "itemid": "geminiann02010b", "publishedUTCIS
   "2002-11-06T05:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:64276357975014bc743f17fd
 data_set_type: Sky
 dec_deg: -28.99967025375384
 description: RS-8 smaller field JHK&#x27; color composite and K&#x27; image with stars
@@ -1134,6 +1141,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02637", "publishedUTCISO8601
   "2020-06-30T21:34:14+00:00"}'
 classification: ''
 constellation: SCO
+cxstatus: in:642763af975014bc743f1859
 data_set_type: Sky
 dec_deg: -32.24065288376476
 description: The open star cluster M6, or NGC6405, is also known as the Butterfly
@@ -1156,6 +1164,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-a102", "publishedUTCISO8601"
   "2020-06-30T21:33:46+00:00"}'
 classification: ''
 constellation: HER
+cxstatus: in:642763c2975014bc743f186c
 data_set_type: Sky
 dec_deg: 49.0366019576932
 description: 'This is a combination of several exposures taken on the night of June
@@ -1201,6 +1210,7 @@ angular_size: 1.9740672
 annotation: '{"channel": "noirlab", "itemid": "noao-m14", "publishedUTCISO8601": "2020-06-30T21:34:15+00:00"}'
 classification: ''
 constellation: OPH
+cxstatus: in:642763f7975014bc743f18a4
 data_set_type: Sky
 dec_deg: -3.245631053573626
 description: M14 is a somewhat looser globular cluster than many, with a very small
@@ -1219,6 +1229,7 @@ angular_size: 2.6333748
 annotation: '{"channel": "noirlab", "itemid": "noao-m19", "publishedUTCISO8601": "2020-06-30T21:34:15+00:00"}'
 classification: ''
 constellation: OPH
+cxstatus: in:642763fb975014bc743f18a8
 data_set_type: Sky
 dec_deg: -26.264292435913493
 description: M19 is a globular cluster in the constellation of Ophiuchus, located
@@ -1257,6 +1268,7 @@ angular_size: 5.890867199999999
 annotation: '{"channel": "noirlab", "itemid": "noao-m23", "publishedUTCISO8601": "2020-06-30T21:34:16+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:642763ff975014bc743f18ad
 data_set_type: Sky
 dec_deg: -19.00209116683952
 description: 'The irregular star cluster M23, or NGC6494, is a bright, large, rich,
@@ -1282,6 +1294,7 @@ _uuid: b89cbf56-566b-4bb5-be8f-1a430d60fcb9
 annotation: '{"channel": "noirlab", "itemid": "noao-m7", "publishedUTCISO8601": "2020-06-30T21:34:14+00:00"}'
 classification: ''
 constellation: SCO
+cxstatus: in:6427641b975014bc743f18ca
 data_set_type: Sky
 dec_deg: -34.7717238405844
 description: M7 is an open star cluster in the constellation Scorpius, set against
@@ -1307,6 +1320,7 @@ _uuid: ad887f5d-72e4-44f1-91f5-a9df9a0c33fe
 annotation: '{"channel": "noirlab", "itemid": "noao-m92", "publishedUTCISO8601": "2020-06-30T21:53:14+00:00"}'
 classification: ''
 constellation: HER
+cxstatus: in:6427642e975014bc743f18de
 data_set_type: Sky
 dec_deg: 43.14200940589322
 description: M92 is a globular cluster in the constellation Hercules, slightly further
@@ -1330,6 +1344,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc6334", "publishedUTCISO86
   "2020-06-30T21:34:09+00:00"}'
 classification: ''
 constellation: SCO
+cxstatus: in:64276456975014bc743f1907
 data_set_type: Sky
 dec_deg: -35.95920683659464
 description: This image of emission nebula NGC6334 (the Cat’s Paw Nebula), a star-forming
@@ -1349,6 +1364,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao1308a", "publishedUTCISO8601"
   "2013-06-05T00:00:00+00:00"}'
 classification: ''
 constellation: SCO
+cxstatus: in:6427649a975014bc743f194d
 data_set_type: Sky
 dec_deg: -35.956572869647864
 description: In this false-color image of NGC 6334, red represents the Herschel 70
@@ -1366,6 +1382,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2027b", "publishedUTCISO86
   "2020-10-27T07:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:642764c6975014bc743f197c
 data_set_type: Sky
 dec_deg: -29.199493702348427
 description: This image of a region near the center of the Milky Way galaxy covers
@@ -1388,6 +1405,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2028c", "publishedUTCISO86
   "2020-11-09T04:00:00+00:00"}'
 classification: ''
 constellation: HER
+cxstatus: in:642764c6975014bc743f197d
 data_set_type: Sky
 dec_deg: 38.155556213804076
 description: An infrared image of the cold brown dwarf BDR J1750+3809 taken with Gemini
@@ -1405,6 +1423,7 @@ _uuid: 0a1c8c5a-d62f-4f8a-9d61-ef7d5860e957
 angular_size: 0.3390428541557621
 classification: Unidentified
 constellation: SCO
+cxstatus: in:6537c3dbb493728d11b82bad
 data_set_type: Sky
 dec_deg: -37.102
 foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic0910h/L{1}X{2}Y{3}.png
@@ -1427,6 +1446,7 @@ zoom_level: 0.3390428541557621
 _uuid: b171b6bc-425f-4991-8573-1bf2fc47062a
 classification: ''
 constellation: SGR
+cxstatus: in:647a7ae2d4a2d5e2c5f3e726
 data_set_type: Sky
 dec_deg: -28.916073002831297
 description: Composite infrared image of the center of our Milky way Galaxy. It spans
@@ -1444,6 +1464,7 @@ zoom_level: 3.823815430689569
 _uuid: f97f6735-c656-42c7-8321-323aeca8534e
 classification: ''
 constellation: SGR
+cxstatus: in:647a7ae3d4a2d5e2c5f3e727
 data_set_type: Sky
 dec_deg: -29.00975974824858
 description: Streamlines showing magnetic fields layered over a color image of the
@@ -1461,6 +1482,7 @@ zoom_level: 10.5672
 _uuid: 904fced3-5a43-424c-a458-ec20d4b0d52b
 classification: ''
 constellation: DRA
+cxstatus: in:6427621d975014bc743f15e2
 data_set_type: Sky
 dec_deg: 65.85822835386412
 description: While the purpose of this image was to focus on the bright star at the
@@ -1479,6 +1501,7 @@ zoom_level: 0.5
 _uuid: eb9efc43-346e-4db4-accf-eae2e9144572
 classification: ''
 constellation: HER
+cxstatus: in:649e31041e6961df10c19533
 data_set_type: Sky
 dec_deg: 43.1361352757562
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/05_jwst/m92a/{1}/{3}/{3}_{2}.png
@@ -1567,6 +1590,7 @@ zoom_level: 0.5
 _uuid: d1d11557-6a02-4736-8569-7fc5e7dffb32
 classification: ''
 constellation: SGR
+cxstatus: in:649ba7391e6961df10c19455
 data_set_type: Sky
 dec_deg: -28.9777503616
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011321{Q}?g=138
@@ -1577,6 +1601,7 @@ zoom_level: 4
 _uuid: 95628e40-71dc-4b2f-b2b9-2fbb1dc1d9f1
 classification: ''
 constellation: SGR
+cxstatus: in:649ba73a1e6961df10c19456
 data_set_type: Sky
 dec_deg: -28.9674416572
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011322{Q}?g=138
@@ -1587,6 +1612,7 @@ zoom_level: 20
 _uuid: b5f8b963-6400-4a97-ad2a-7357007a47dc
 classification: ''
 constellation: SGR
+cxstatus: in:649ba73b1e6961df10c19457
 data_set_type: Sky
 dec_deg: -29.0077462072
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011323{Q}?g=138
@@ -1597,6 +1623,7 @@ zoom_level: 2
 _uuid: 0506531a-b5ea-471a-bc66-eb1a8d30a5ca
 classification: ''
 constellation: SGR
+cxstatus: in:649ba73c1e6961df10c19458
 data_set_type: Sky
 dec_deg: -29.0077462072
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011330{Q}?g=138
@@ -3158,6 +3185,7 @@ zoom_level: 0.227828137554739
 _uuid: 16739cbf-dbb0-43e1-b514-596e30131876
 classification: ''
 constellation: OPH
+cxstatus: in:64bb0fded87c275bcc5875b8
 data_set_type: Sky
 dec_deg: -28.5284202
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig06-004L{1}X{2}Y{3}.png
@@ -3169,6 +3197,7 @@ zoom_level: 0.961138688
 _uuid: 290b94e7-3603-4a32-aefc-ca30e439a41f
 classification: ''
 constellation: DRA
+cxstatus: in:64bb0fdfd87c275bcc5875ba
 data_set_type: Sky
 dec_deg: 66.666931
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig09-001L{1}X{2}Y{3}.png
@@ -3180,6 +3209,7 @@ zoom_level: 0.68266663936
 _uuid: b33cbe75-692e-40ef-9958-8be2be5f8b99
 classification: ''
 constellation: SGR
+cxstatus: in:64bb0fe0d87c275bcc5875bc
 data_set_type: Sky
 dec_deg: -28.9361747
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig11-003L{1}X{2}Y{3}.png
@@ -3191,6 +3221,7 @@ zoom_level: 21.8453333331149
 _uuid: 418b60df-d1eb-4152-9ea9-695f622f60e3
 classification: ''
 constellation: SCO
+cxstatus: in:64bb0fe4d87c275bcc5875be
 data_set_type: Sky
 dec_deg: -38.44756839
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig11-007aL{1}X{2}Y{3}.png
@@ -3202,6 +3233,7 @@ zoom_level: 2.73066666655744
 _uuid: 64ce512b-996f-4aae-9d4a-f85daf4066cb
 classification: ''
 constellation: OPH
+cxstatus: in:64bb0fe6d87c275bcc5875c0
 data_set_type: Sky
 dec_deg: -21.4919935211785
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-15a1L{1}X{2}Y{3}.png
@@ -3213,6 +3245,7 @@ zoom_level: 0.453236623730885
 _uuid: 0378fd66-6f7c-42a9-a529-1518abe550c6
 classification: ''
 constellation: OPH
+cxstatus: in:64bb0fe6d87c275bcc5875c2
 data_set_type: Sky
 dec_deg: -21.4905677863644
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-15b1L{1}X{2}Y{3}.png
@@ -3224,6 +3257,7 @@ zoom_level: 0.695823519729909
 _uuid: fe99e68b-4cac-43ae-b0bb-fdbde5b48be7
 classification: ''
 constellation: SCO
+cxstatus: in:64bb0fe7d87c275bcc5875c4
 data_set_type: Sky
 dec_deg: -36.065661915
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2018-14aL{1}X{2}Y{3}.png
@@ -3235,6 +3269,7 @@ zoom_level: 5.46893692928
 _uuid: ddf368bf-0783-4961-8846-734c9f115f22
 classification: ''
 constellation: SCO
+cxstatus: in:64bb0fe8d87c275bcc5875c6
 data_set_type: Sky
 dec_deg: -36.065661915
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2018-14bL{1}X{2}Y{3}.png
@@ -3246,6 +3281,7 @@ zoom_level: 5.46893692928
 _uuid: e49297e4-b53f-434b-94d5-db4430a6858f
 classification: Unfiltered
 constellation: OPH
+cxstatus: in:649ce1d71e6961df10c1948c
 data_set_type: Sky
 dec_deg: -10.1429388888889
 foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/322257724/{1}/{3}/{3}_{2}.png
@@ -3257,6 +3293,7 @@ _uuid: c5ced5c5-b09a-41d9-a96e-27ff1ce6f191
 angular_size: 360.0
 classification: Galactic
 constellation: SGR
+cxstatus: in:649e43cd1e6961df10c1953c
 data_set_type: Sky
 dec_deg: -28.9
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/glimpse.aspx?q={1},{2},{3}
@@ -3268,6 +3305,7 @@ _uuid: d645f2b7-7e0b-4a02-991c-30bf89638f0f
 angular_size: 360.0
 classification: Galactic
 constellation: SGR
+cxstatus: in:649e43ce1e6961df10c1953d
 data_set_type: Sky
 dec_deg: -28.9
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/mipsgal.aspx?q={1},{2},{3}
@@ -3389,6 +3427,7 @@ _uuid: 130cb5b5-815a-4ade-b399-c0c7a125b505
 angular_size: -1.0
 classification: GlobularCluster
 constellation: HER
+cxstatus: in:649cf3e51e6961df10c1951a
 data_set_type: Sky
 dec_deg: 43.14055555555556
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn041
@@ -3400,6 +3439,7 @@ _uuid: 58fed420-752f-46b1-a6f1-4a70cef5f930
 angular_size: -1.0
 classification: GlobularCluster
 constellation: HER
+cxstatus: in:649cf3e61e6961df10c1951b
 data_set_type: Sky
 dec_deg: 43.14222222222222
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn042

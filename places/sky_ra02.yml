@@ -317,6 +317,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini0602f", "publishedUTCISO860
   "2006-01-04T00:00:00+00:00"}'
 classification: ''
 constellation: FOR
+cxstatus: in:6427633b975014bc743f17df
 data_set_type: Sky
 dec_deg: -30.27591711839275
 foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/gemini0602f/L{1}X{2}Y{3}.png
@@ -330,6 +331,7 @@ annotation: '{"channel": "noirlab", "itemid": "iotw2023a", "publishedUTCISO8601"
   "2020-06-03T05:00:00+00:00"}'
 classification: ''
 constellation: AND
+cxstatus: in:64276362975014bc743f1809
 data_set_type: Sky
 dec_deg: 42.34736575949487
 description: The Silver Sliver Galaxy — more formally known as NGC 891 — is shown
@@ -355,6 +357,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-hcper", "publishedUTCISO8601
   "2020-06-30T21:34:13+00:00"}'
 classification: ''
 constellation: PER
+cxstatus: in:642763ce975014bc743f1879
 data_set_type: Sky
 dec_deg: 57.12241264334052
 description: The double cluster in the constellation Perseus, normally known by its
@@ -377,6 +380,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ic1805", "publishedUTCISO860
   "2020-06-30T21:34:05+00:00"}'
 classification: ''
 constellation: CAS
+cxstatus: in:642763d8975014bc743f1883
 data_set_type: Sky
 dec_deg: 61.41169625148695
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -396,6 +400,7 @@ angular_size: 0.8670000000000001
 annotation: '{"channel": "noirlab", "itemid": "noao-m77", "publishedUTCISO8601": "2020-06-30T21:33:51+00:00"}'
 classification: ''
 constellation: CET
+cxstatus: in:64276420975014bc743f18cf
 data_set_type: Sky
 dec_deg: -0.016078520011025613
 description: M77 is a type Sb spiral galaxy in the constellation Cetus. For various
@@ -414,6 +419,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc1097", "publishedUTCISO86
   "2020-06-30T21:33:56+00:00"}'
 classification: ''
 constellation: FOR
+cxstatus: in:6427643d975014bc743f18ef
 data_set_type: Sky
 dec_deg: -30.274416174110506
 description: A Seyfert galaxy revealing its bright and active nucleus. This false-color
@@ -432,6 +438,7 @@ annotation: '{"channel": "noirlab", "itemid": "noaoann14003a", "publishedUTCISO8
   "2014-02-14T00:00:00+00:00"}'
 classification: ''
 constellation: CET
+cxstatus: in:642764a8975014bc743f195c
 data_set_type: Sky
 dec_deg: -1.5803146815051434
 description: 'Nearly every &quot;star&quot; in this image is actually a galaxy. The
@@ -452,6 +459,7 @@ annotation: '{"channel": "noirlab", "itemid": "noaoann14005a", "publishedUTCISO8
   "2014-05-06T00:00:00+00:00"}'
 classification: ''
 constellation: CAS
+cxstatus: in:642764a9975014bc743f195d
 data_set_type: Sky
 dec_deg: 61.98906626135178
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -473,6 +481,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2016a", "publishedUTCISO86
   "2020-07-02T13:00:00+00:00"}'
 classification: ''
 constellation: TRI
+cxstatus: in:642764bd975014bc743f1973
 data_set_type: Sky
 dec_deg: 33.58083644454522
 description: The spiral galaxy NGC 925 reveals cosmic pyrotechnics in its spiral arms
@@ -489,6 +498,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2016b", "publishedUTCISO86
   "2020-07-02T13:00:00+00:00"}'
 classification: ''
 constellation: TRI
+cxstatus: in:642764be975014bc743f1974
 data_set_type: Sky
 dec_deg: 33.58041057306817
 description: The spiral galaxy NGC 925 reveals cosmic pyrotechnics in its spiral arms
@@ -506,6 +516,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2101a", "publishedUTCISO86
   "2021-01-05T08:00:00+00:00"}'
 classification: ''
 constellation: PER
+cxstatus: in:642764cb975014bc743f1982
 data_set_type: Sky
 dec_deg: 40.87028051516832
 description: A stunning long-exposure observation lasting 70 minutes from the Nicholas
@@ -526,6 +537,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2101b", "publishedUTCISO86
   "2021-01-05T12:36:42+00:00"}'
 classification: ''
 constellation: PER
+cxstatus: in:642764cc975014bc743f1983
 data_set_type: Sky
 dec_deg: 40.86506760026164
 description: A stunning long-exposure observation lasting 70 minutes from the Nicholas
@@ -543,6 +555,7 @@ zoom_level: 6.4474592280306435
 _uuid: 200861e7-c2c3-475f-847e-0b4b76910bb9
 classification: ''
 constellation: CET
+cxstatus: in:647a7ae7d4a2d5e2c5f3e72b
 data_set_type: Sky
 dec_deg: -0.013843957220075254
 description: Magnetic fields in NGC 1068, or M77, are shown as streamlines over a
@@ -1367,6 +1380,7 @@ zoom_level: 0.113792501334835
 _uuid: c4c40922-6196-4334-98ef-26599ef41d56
 classification: ''
 constellation: CET
+cxstatus: in:64b73f07a15b29de42b30480
 data_set_type: Sky
 dec_deg: -5.1648245
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-005L{1}X{2}Y{3}.png
@@ -1378,6 +1392,7 @@ zoom_level: 0.920860737536
 _uuid: df01a7e6-75e0-4989-98af-0bdd4e7eb769
 classification: ''
 constellation: CET
+cxstatus: in:64b73f8da15b29de42b30486
 data_set_type: Sky
 dec_deg: -5.1476234
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-018aL{1}X{2}Y{3}.png
@@ -1389,6 +1404,7 @@ zoom_level: 0.6826287104
 _uuid: 48f35824-d730-48a6-951d-bb06626e6459
 classification: ''
 constellation: CAS
+cxstatus: in:64b74013a15b29de42b3048f
 data_set_type: Sky
 dec_deg: 59.5990261796093
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-025L{1}X{2}Y{3}.png
@@ -1400,6 +1416,7 @@ zoom_level: 1.38950325779002
 _uuid: 175fdfbf-d393-462d-9f88-22bfa0b9d505
 classification: ''
 constellation: ARI
+cxstatus: in:64b74099a15b29de42b30494
 data_set_type: Sky
 dec_deg: 19.5929425
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig11-005cL{1}X{2}Y{3}.png
@@ -1411,6 +1428,7 @@ zoom_level: 0.34135508992
 _uuid: ef36a023-f407-467c-ae15-68db750a571f
 classification: ''
 constellation: CAS
+cxstatus: in:64b7409aa15b29de42b30496
 data_set_type: Sky
 dec_deg: 60.4404453280399
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2008-15a1L{1}X{2}Y{3}.png
@@ -1422,6 +1440,7 @@ zoom_level: 13.5027931717976
 _uuid: 3f7e59cc-e9e6-49c5-a815-b717a02e4aae
 classification: ''
 constellation: FOR
+cxstatus: in:64b741b4a15b29de42b3049c
 data_set_type: Sky
 dec_deg: -30.2738067913627
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2009-14a1L{1}X{2}Y{3}.png
@@ -1433,6 +1452,7 @@ zoom_level: 1.70666666672128
 _uuid: 5aad346c-ca49-49e0-a6ef-8e3f1c32ad9c
 classification: ''
 constellation: PER
+cxstatus: in:64b741f1a15b29de42b304a0
 data_set_type: Sky
 dec_deg: 44.1308131199394
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2011-03a3L{1}X{2}Y{3}.png
@@ -1444,6 +1464,7 @@ zoom_level: 11.108352
 _uuid: 58959d9e-0bfc-4a10-92f8-8bbea2ca5e32
 classification: ''
 constellation: CAS
+cxstatus: in:64b741f1a15b29de42b304a2
 data_set_type: Sky
 dec_deg: 61.92484463
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2013-05cL{1}X{2}Y{3}.png
@@ -1455,6 +1476,7 @@ zoom_level: 10.92266655744
 _uuid: 44b6de8d-5cec-40c6-b992-e863b3694fd3
 classification: ''
 constellation: CAS
+cxstatus: in:649e45ec1e6961df10c195a5
 data_set_type: Sky
 dec_deg: 60.2065345
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-005L{1}X{2}Y{3}.png
@@ -1466,6 +1488,7 @@ zoom_level: 12.5153624064
 _uuid: f409e266-9458-424e-9ab2-cecca8c3cedf
 classification: ''
 constellation: CAS
+cxstatus: in:649e45ed1e6961df10c195a6
 data_set_type: Sky
 dec_deg: 60.3979115
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-010L{1}X{2}Y{3}.png
@@ -1477,6 +1500,7 @@ zoom_level: 7.28069423104
 _uuid: 21af357d-743f-42fc-9860-88a76a1b4d1b
 classification: ''
 constellation: CAS
+cxstatus: in:649e45ee1e6961df10c195a7
 data_set_type: Sky
 dec_deg: 61.209793
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-012L{1}X{2}Y{3}.png
@@ -1488,6 +1512,7 @@ zoom_level: 6.25777769088778
 _uuid: b1a78414-6d33-4e6c-b3b9-6e29fda85402
 classification: ''
 constellation: CAS
+cxstatus: in:649e45ee1e6961df10c195a8
 data_set_type: Sky
 dec_deg: 61.16347
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-018L{1}X{2}Y{3}.png
@@ -1499,6 +1524,7 @@ zoom_level: 24.8490657806385
 _uuid: 64de7f09-53e7-4e66-a0c1-ac656d8f9c16
 classification: Nebula
 constellation: CAS
+cxstatus: in:649ceb721e6961df10c194ab
 data_set_type: Sky
 dec_deg: 60.3580555555556
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},2049436223
@@ -1509,6 +1535,7 @@ zoom_level: 28.8
 _uuid: c59333ab-47fb-4172-a7f3-2d49ba298cdb
 classification: Nebula
 constellation: CAS
+cxstatus: in:649ceb731e6961df10c194ac
 data_set_type: Sky
 dec_deg: 61.2991666666667
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},257836772
@@ -1520,6 +1547,7 @@ _uuid: e565e46a-4ee8-491f-b9f3-cebe1e06dac4
 angular_size: 1.0
 classification: Nebula
 constellation: CAS
+cxstatus: in:64b741f2a15b29de42b304a4
 data_set_type: Sky
 dec_deg: 60.5508333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},502342515
@@ -1531,6 +1559,7 @@ _uuid: 52d05cc1-9323-4be4-a11f-4efab8498e02
 angular_size: -1.0
 classification: EmissionNebula
 constellation: CAS
+cxstatus: in:649cf3c51e6961df10c194f6
 data_set_type: Sky
 dec_deg: 61.40277777777778
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn011
@@ -1542,6 +1571,7 @@ _uuid: 253fc220-efb1-4345-ae40-c76b4fe9e620
 angular_size: -1.0
 classification: EmissionNebula
 constellation: CAS
+cxstatus: in:649cf3c51e6961df10c194f7
 data_set_type: Sky
 dec_deg: 61.70527777777778
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn016
@@ -1553,6 +1583,7 @@ _uuid: 05343957-093f-4473-a455-f3538785f880
 angular_size: -1.0
 classification: SpiralGalaxy
 constellation: CET
+cxstatus: in:649cf3c61e6961df10c194f8
 data_set_type: Sky
 dec_deg: 0.015
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn040
@@ -1564,6 +1595,7 @@ _uuid: 29015004-04c7-453f-ba4b-1f4f67ac5863
 angular_size: -1.0
 classification: SpiralGalaxy
 constellation: AND
+cxstatus: in:649cf3c71e6961df10c194f9
 data_set_type: Sky
 dec_deg: 42.350833333333334
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn049
@@ -1575,6 +1607,7 @@ _uuid: 6e20595b-6774-421e-8f52-3f4aacc7864d
 angular_size: -1.0
 classification: SpiralGalaxy
 constellation: AND
+cxstatus: in:649cf3c81e6961df10c194fa
 data_set_type: Sky
 dec_deg: 42.350833333333334
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn053

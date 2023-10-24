@@ -583,6 +583,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini1108a", "publishedUTCISO860
   "2011-07-25T20:00:00+00:00"}'
 classification: ''
 constellation: LYR
+cxstatus: in:6427634a975014bc743f17ef
 data_set_type: Sky
 dec_deg: 38.310717881966674
 description: Gemini Observatory image of Kronberger 61 showing the ionized shell of
@@ -608,6 +609,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini1205a", "publishedUTCISO860
   "2012-05-14T00:00:00+00:00"}'
 classification: ''
 constellation: AQL
+cxstatus: in:6427634b975014bc743f17f0
 data_set_type: Sky
 dec_deg: 2.1525907020622106
 description: 'Gemini Legacy image of the complex planetary nebula Sh2-71 as imaged
@@ -631,6 +633,7 @@ annotation: '{"channel": "noirlab", "itemid": "geminiann09019a", "publishedUTCIS
   "2009-09-21T20:46:26+00:00"}'
 classification: ''
 constellation: AQL
+cxstatus: in:6427635d975014bc743f1804
 data_set_type: Sky
 dec_deg: -5.992963535755983
 description: Gemini South image of planetary nebula NGC 6751, the &quot;Glowing Eye
@@ -656,6 +659,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02184", "publishedUTCISO8601
   "2020-06-30T21:34:07.208552+00:00"}'
 classification: ''
 constellation: VUL
+cxstatus: in:6427637c975014bc743f1824
 data_set_type: Sky
 dec_deg: 22.71865038375905
 description: The Dumbbell Nebula, Messier object 27 (M27), NGC 6853, in the constellation
@@ -688,6 +692,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02185", "publishedUTCISO8601
   "2020-06-30T21:34:07+00:00"}'
 classification: ''
 constellation: VUL
+cxstatus: in:6427637d975014bc743f1825
 data_set_type: Sky
 dec_deg: 22.721649164465152
 description: The Dumbbell Nebula, Messier object 27 (M27), NGC6853, in the constellation
@@ -705,6 +710,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02323", "publishedUTCISO8601
   "2020-06-30T21:33:59+00:00"}'
 classification: ''
 constellation: PAV
+cxstatus: in:64276396975014bc743f183f
 data_set_type: Sky
 dec_deg: -63.84361670423711
 description: Probably the largest known barred spiral galaxy (type SBc), NGC6744 in
@@ -720,6 +726,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02674", "publishedUTCISO8601
   "2020-06-30T21:34:07+00:00"}'
 classification: ''
 constellation: VUL
+cxstatus: in:642763b1975014bc743f185b
 data_set_type: Sky
 dec_deg: 22.722234387340624
 description: 'This true color picture was taken using Ektachrome film at the prime
@@ -746,6 +753,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-cyg_x1", "publishedUTCISO860
   "2020-06-30T21:34:13+00:00"}'
 classification: ''
 constellation: CYG
+cxstatus: in:642763ca975014bc743f1875
 data_set_type: Sky
 dec_deg: 35.23409694903231
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -773,6 +781,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-dumb", "publishedUTCISO8601"
   "2020-06-30T21:34:07+00:00"}'
 classification: ''
 constellation: VUL
+cxstatus: in:642763cb975014bc743f1876
 data_set_type: Sky
 dec_deg: 22.71715708370044
 description: 'This false-color image of the Dumbbell Nebula M27, or NGC6853, was taken
@@ -799,6 +808,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-hst0034", "publishedUTCISO86
   "2020-06-30T21:33:59+00:00"}'
 classification: ''
 constellation: LYR
+cxstatus: in:642763d1975014bc743f187c
 data_set_type: Sky
 dec_deg: 40.7468391
 description: 'This is a Hubble Heritage image created by current and former NOAO staff
@@ -844,6 +854,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ldn673", "publishedUTCISO860
   "2020-06-30T21:34:05+00:00"}'
 classification: ''
 constellation: AQL
+cxstatus: in:642763e8975014bc743f1894
 data_set_type: Sky
 dec_deg: 11.228623468704242
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -864,6 +875,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ldn810", "publishedUTCISO860
   "2020-06-30T21:34:05+00:00"}'
 classification: ''
 constellation: VUL
+cxstatus: in:642763e9975014bc743f1895
 data_set_type: Sky
 dec_deg: 27.83058282920091
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -885,6 +897,7 @@ angular_size: 5.465159999999999
 annotation: '{"channel": "noirlab", "itemid": "noao-m55", "publishedUTCISO8601": "2020-06-30T21:53:14+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:64276412975014bc743f18c0
 data_set_type: Sky
 dec_deg: -30.96176037044383
 description: M55 is a globular cluster in the constellation Sagittarius. Quite large
@@ -907,6 +920,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc6820", "publishedUTCISO86
   "2020-06-30T21:34:09+00:00"}'
 classification: ''
 constellation: VUL
+cxstatus: in:64276458975014bc743f1909
 data_set_type: Sky
 dec_deg: 23.25914212236542
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -929,6 +943,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0121a", "publishedUTCISO8601"
   "2020-06-30T21:34:07+00:00"}'
 classification: ''
 constellation: VUL
+cxstatus: in:64276477975014bc743f1929
 data_set_type: Sky
 dec_deg: 22.714077116995202
 description: This excellent image of the Dumbbell Nebula (M27, NGC6853), a planetary
@@ -967,6 +982,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0202a", "publishedUTCISO8601"
   "2002-01-10T00:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:6427647d975014bc743f1930
 data_set_type: Sky
 dec_deg: -14.8058667681327
 description: 'A new color image of the nearby irregular galaxy NGC6822 shows a myriad
@@ -1000,6 +1016,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2010a", "publishedUTCISO86
   "2020-04-16T03:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:642764b2975014bc743f1967
 data_set_type: Sky
 dec_deg: -14.833460299943667
 description: Barnard’s Galaxy, a dwarf galaxy neighboring the Milky Way, is revealed
@@ -1022,6 +1039,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2029a", "publishedUTCISO86
   "2020-11-24T08:00:00+00:00"}'
 classification: ''
 constellation: VUL
+cxstatus: in:642764c7975014bc743f197e
 data_set_type: Sky
 dec_deg: 27.314107544542253
 description: The enigmatic CK Vulpeculae nebula. The team of astronomers measured
@@ -1039,6 +1057,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2029c", "publishedUTCISO86
   "2020-11-24T08:00:00+00:00"}'
 classification: ''
 constellation: VUL
+cxstatus: in:642764c8975014bc743f197f
 data_set_type: Sky
 dec_deg: 27.322862891929663
 description: This wide-field view shows the sky around the location of the historical
@@ -1053,6 +1072,7 @@ zoom_level: 17.43610812658393
 _uuid: 16d9618f-ff3e-4ee0-9013-7b3dd565552f
 classification: ''
 constellation: AQL
+cxstatus: in:647a7ae9d4a2d5e2c5f3e72e
 data_set_type: Sky
 dec_deg: 14.48516456943746
 description: Composite image of W51A, the largest star-forming region in our galaxy.
@@ -1071,6 +1091,7 @@ zoom_level: 2.407204814395309
 _uuid: 790db390-416e-4771-96d6-91d41f695f21
 classification: ''
 constellation: SGE
+cxstatus: in:649e31051e6961df10c19534
 data_set_type: Sky
 dec_deg: 16.859781805244637
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/04_jwst/weic2307d/{1}/{3}/{3}_{2}.png
@@ -1082,6 +1103,7 @@ zoom_level: 0.3151495760649247
 _uuid: c597f5c1-f073-42a5-95c5-77e644bb2c3a
 classification: ''
 constellation: SGE
+cxstatus: in:649e31061e6961df10c19535
 data_set_type: Sky
 dec_deg: 16.859781805244637
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/04_jwst/weic2307e/{1}/{3}/{3}_{2}.png
@@ -1115,6 +1137,7 @@ zoom_level: 1.0
 _uuid: e8889152-3789-4993-a81c-bec4118101cb
 classification: ''
 constellation: VUL
+cxstatus: in:642764e0975014bc743f1997
 data_set_type: Sky
 dec_deg: 22.7209533
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002200{Q}?g=138
@@ -2060,6 +2083,7 @@ zoom_level: 0.227558155721114
 _uuid: 1d0ebbea-225e-469f-a2d0-26488ae1d205
 classification: ''
 constellation: CRA
+cxstatus: in:64bb0fe9d87c275bcc5875c8
 data_set_type: Sky
 dec_deg: -36.9757655925538
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig07-017L{1}X{2}Y{3}.png
@@ -2071,6 +2095,7 @@ zoom_level: 1.39466925181704
 _uuid: d8078f6f-ce14-4948-97bb-f44e0b90c3cd
 classification: ''
 constellation: CRA
+cxstatus: in:64bb0fead87c275bcc5875ca
 data_set_type: Sky
 dec_deg: -36.9757655925538
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig07-018L{1}X{2}Y{3}.png
@@ -2082,6 +2107,7 @@ zoom_level: 1.39466925181704
 _uuid: 5287a187-9e5f-4625-96f3-d94859bac147
 classification: ''
 constellation: VUL
+cxstatus: in:64bb0febd87c275bcc5875cc
 data_set_type: Sky
 dec_deg: 22.721297546
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig11-011L{1}X{2}Y{3}.png
@@ -2093,6 +2119,7 @@ zoom_level: 0.910221312
 _uuid: 1055ab1f-b9e8-4315-9db9-02c6ae63fe90
 classification: ''
 constellation: VUL
+cxstatus: in:64bb0fecd87c275bcc5875ce
 data_set_type: Sky
 dec_deg: 20.4844046
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig16-17L{1}X{2}Y{3}.png
@@ -2104,6 +2131,7 @@ zoom_level: 2.73393573888
 _uuid: 36c76449-021d-4b46-a0b0-32f2426b2175
 classification: ''
 constellation: AQL
+cxstatus: in:64bb0fedd87c275bcc5875d0
 data_set_type: Sky
 dec_deg: 9.321897
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2008-08a1L{1}X{2}Y{3}.png
@@ -2115,6 +2143,7 @@ zoom_level: 0.526035626666667
 _uuid: f03c881d-02d0-4dc6-a141-ffbfed5d0700
 classification: ''
 constellation: SGE
+cxstatus: in:64bb0feed87c275bcc5875d2
 data_set_type: Sky
 dec_deg: 18.8988
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2010-04aL{1}X{2}Y{3}.png
@@ -2126,6 +2155,7 @@ zoom_level: 5.08102296748351
 _uuid: 16a194fd-3197-4600-863a-a546fd578d1e
 classification: ''
 constellation: SGE
+cxstatus: in:64bb0fefd87c275bcc5875d4
 data_set_type: Sky
 dec_deg: 18.8718215
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2018-16aL{1}X{2}Y{3}.png
@@ -2137,6 +2167,7 @@ zoom_level: 0.400293888
 _uuid: e8f6ea4f-e2ba-4c6f-8c1a-2ff4f725eb4b
 classification: ''
 constellation: DRA
+cxstatus: in:64bb0ff0d87c275bcc5875d6
 data_set_type: Sky
 dec_deg: 73.4166
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-03bL{1}X{2}Y{3}.png
@@ -2148,6 +2179,7 @@ zoom_level: 0.507211776
 _uuid: 3f808977-6c26-442f-b882-f256b9f91069
 classification: ''
 constellation: PAV
+cxstatus: in:649e463f1e6961df10c19601
 data_set_type: Sky
 dec_deg: -63.8574312
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-019L{1}X{2}Y{3}.png
@@ -2159,6 +2191,7 @@ zoom_level: 3.12888884544389
 _uuid: 5170110f-a0a6-4c58-aeea-9cb02cc9ac80
 classification: ''
 constellation: SGR
+cxstatus: in:649e46401e6961df10c19602
 data_set_type: Sky
 dec_deg: -14.78929
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-020iL{1}X{2}Y{3}.png
@@ -2170,6 +2203,7 @@ zoom_level: 3.12888884544307
 _uuid: eaf3efc9-300d-479e-8076-b2767a2bcc95
 classification: Asterism
 constellation: VUL
+cxstatus: in:649ceb861e6961df10c194c1
 data_set_type: Sky
 dec_deg: 20.1902777777778
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},2114372846
@@ -2181,6 +2215,7 @@ _uuid: 8ed3a619-a845-4ec9-964c-9a301e35ee88
 angular_size: -1.0
 classification: PlanetaryNebula
 constellation: VUL
+cxstatus: in:649cf3e71e6961df10c1951c
 data_set_type: Sky
 dec_deg: 22.716666666666665
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn033
@@ -2192,6 +2227,7 @@ _uuid: 681b2f31-9168-44c9-ba2c-dd9993fb530e
 angular_size: -1.0
 classification: PlanetaryNebula
 constellation: VUL
+cxstatus: in:649cf3e81e6961df10c1951d
 data_set_type: Sky
 dec_deg: 22.729999999999997
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn034
@@ -2203,6 +2239,7 @@ _uuid: 788090a0-b385-4105-86ce-4c96077def19
 angular_size: -1.0
 classification: PlanetaryNebula
 constellation: VUL
+cxstatus: in:649cf3e91e6961df10c1951e
 data_set_type: Sky
 dec_deg: 22.747500000000002
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn035

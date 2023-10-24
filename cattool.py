@@ -8,6 +8,7 @@ Tool for working with the WWT core dataset catalog.
 """
 
 import argparse
+from collections import OrderedDict
 from io import BytesIO
 import math
 import os.path
@@ -15,10 +16,18 @@ from pathlib import Path
 import re
 import shutil
 import sys
+import textwrap
+import time
 from typing import List, Dict
 import uuid
 from xml.etree import ElementTree as etree
 import yaml
+
+from requests.exceptions import ConnectionError
+
+from wwt_api_client import constellations as cx
+from wwt_api_client.constellations.data import SceneContent, SceneImageLayer, ScenePlace
+from wwt_api_client.constellations.handles import HandleClient, AddSceneRequest
 
 from wwt_data_formats import indent_xml
 from wwt_data_formats.enums import (
@@ -33,7 +42,8 @@ from wwt_data_formats.folder import Folder
 from wwt_data_formats.imageset import ImageSet
 from wwt_data_formats.place import Place
 
-
+H2R = math.pi / 12
+D2R = math.pi / 180
 BASEDIR = Path(os.path.dirname(__file__))
 
 
@@ -420,6 +430,485 @@ class PlaceDatabase(object):
         self.db_dir.rename(olddir)
         tempdir.rename(self.db_dir)
         shutil.rmtree(olddir)
+
+
+# Constellations prep database
+
+
+def _parse_record_file(stream, path):
+    kind = None
+    fields = OrderedDict()
+    multiline_key = None
+    multiline_words = []
+    line_num = 0
+
+    for line in stream:
+        line_num += 1
+        line = line.strip()
+        if not line:
+            continue
+
+        if kind is None:
+            if line.startswith("@"):
+                kind = line[1:].split()[0]
+            else:
+                die(
+                    f"expected @ indicator at line {line_num} of `{path}`; got: {line!r}"
+                )
+        elif line == "---":
+            if multiline_key:
+                fields[multiline_key] = " ".join(multiline_words)
+                multiline_key = None
+                multiline_words = []
+
+            yield kind, fields
+
+            kind = None
+            fields = OrderedDict()
+        else:
+            pieces = line.split()
+
+            if pieces[0].endswith(":"):
+                if multiline_key:
+                    fields[multiline_key] = " ".join(multiline_words)
+                    multiline_key = None
+                    multiline_words = []
+
+                fields[pieces[0][:-1]] = " ".join(pieces[1:])
+            elif pieces[0].endswith(">"):
+                if multiline_key:
+                    fields[multiline_key] = " ".join(multiline_words)
+                    multiline_key = None
+                    multiline_words = []
+
+                multiline_key = pieces[0][:-1]
+                multiline_words = pieces[1:]
+            elif multiline_key:
+                multiline_words += pieces
+            else:
+                die(
+                    f"expected : or > indicator at line {line_num} of `{path}`; got: {line!r}"
+                )
+
+    if kind or fields or multiline_key:
+        die(f"file `{path}` must end with an end-of-record indicator (---)")
+
+
+def _emit_record(kind, fields, stream):
+    print(f"\n@{kind}", file=stream)
+
+    for key, value in fields.items():
+        if key in ("text", "credits"):
+            print(file=stream)
+
+            for line in textwrap.wrap(
+                f"{key}> {value}",
+                width=80,
+                break_long_words=False,
+                break_on_hyphens=False,
+            ):
+                print(line, file=stream)
+
+            print(file=stream)
+        else:
+            print(f"{key}: {value}", file=stream)
+
+    print("---", file=stream)
+
+
+def _retry(operation):
+    """
+    My computer will sometimes fail during large bootstraps due to temporary,
+    local network errors. Here's a dumb retry system since the design of the
+    openidc_client library that underlies wwt_api_client doesn't allow me to
+    activate retries at the request/urllib3 level, as far as I can see.
+    """
+    for _attempt in range(5):
+        try:
+            return operation()
+        except ConnectionError:
+            print("(retrying ...)")
+            time.sleep(0.5)
+
+
+def _register_image(client: HandleClient, fields, imgset) -> str:
+    "Returns the new image ID"
+
+    if imgset.band_pass != Bandpass.VISIBLE:
+        print(
+            f"warning: imageset `{imgset.name}` has non-default band_pass setting `{imgset.band_pass}`"
+        )
+    if imgset.base_tile_level != 0:
+        print(
+            f"warning: imageset `{imgset.name}` has non-default base_tile_level setting `{imgset.base_tile_level}`"
+        )
+    if imgset.data_set_type != DataSetType.SKY:
+        print(
+            f"warning: imageset `{imgset.name}` has non-default data_set_type setting `{imgset.data_set_type}`"
+        )
+    if imgset.elevation_model != False:
+        print(
+            f"warning: imageset `{imgset.name}` has non-default elevation_model setting `{imgset.elevation_model}`"
+        )
+    if imgset.generic != False:
+        print(
+            f"warning: imageset `{imgset.name}` has non-default generic setting `{imgset.generic}`"
+        )
+    if imgset.sparse != True:
+        print(
+            f"warning: imageset `{imgset.name}` has non-default sparse setting `{imgset.sparse}`"
+        )
+    if imgset.stock_set != False:
+        print(
+            f"warning: imageset `{imgset.name}` has non-default stock_set setting `{imgset.stock_set}`"
+        )
+
+    credits = fields["credits"]
+    copyright = fields["copyright"]
+    license_id = fields["license_id"]
+    alt_text = fields.get("description")
+
+    print("registering image:", imgset.url, "...", end=" ")
+    id = _retry(
+        lambda: client.add_image_from_set(
+            imgset,
+            copyright,
+            license_id,
+            credits=credits,
+            alt_text=alt_text,
+        )
+    )
+    print(id)
+    return id
+
+
+def _register_scene(client, fields, place, imgid) -> str:
+    "Returns the new scene ID"
+
+    image_layers = [SceneImageLayer(image_id=imgid, opacity=1.0)]
+
+    api_place = ScenePlace(
+        ra_rad=place.ra_hr * H2R,
+        dec_rad=place.dec_deg * D2R,
+        roll_rad=place.rotation_deg * D2R,
+        roi_height_deg=place.zoom_level / 6,
+        roi_aspect_ratio=1.0,
+    )
+
+    content = SceneContent(image_layers=image_layers)
+
+    req = AddSceneRequest(
+        place=api_place,
+        content=content,
+        text=fields["text"],
+        outgoing_url=fields["outgoing_url"],
+    )
+
+    print("registering place/scene:", fields["place_uuid"], "...", end=" ")
+    id = _retry(lambda: client.add_scene(req))
+    print(id)
+    return id
+
+
+class ConstellationsPrepDatabase(object):
+    db_dir: Path = None
+    by_handle: Dict[str, list] = None
+
+    def __init__(self):
+        self.by_handle = {}
+        self.db_dir = BASEDIR / "cxprep"
+
+        for path in self.db_dir.glob("*.txt"):
+            with path.open("rt", encoding="utf-8") as f:
+                handle = path.name.replace(".txt", "")
+                items = list(_parse_record_file(f, path))
+                self.by_handle[handle] = items
+
+    def update(self, idb: ImagesetDatabase, pdb: PlaceDatabase):
+        # Figure out which imagesets are already "done": they are either
+        # logged as "in" in the XML, or already in one of the prep files
+
+        done_imageset_urls = set()
+
+        for url, imgset in idb.by_url.items():
+            cxs = getattr(imgset.xmeta, "cxstatus", "undefined")
+            if cxs.startswith("in:"):
+                done_imageset_urls.add(url)
+
+        for recs in self.by_handle.values():
+            for kind, fields in recs:
+                if kind == "image":
+                    done_imageset_urls.add(fields["url"])
+
+        # Same idea for places/scenes
+
+        done_place_uuids = set()
+
+        for uuid, pinfo in pdb.by_uuid.items():
+            cxs = pinfo.get("cxstatus", "undefined")
+            if cxs.startswith("in:"):
+                done_place_uuids.add(uuid)
+
+        for recs in self.by_handle.values():
+            for kind, fields in recs:
+                if kind == "scene":
+                    done_place_uuids.add(fields["place_uuid"])
+
+        # Build up a list of imagesets to deal with
+
+        todo_image_urls_by_handle = {}
+        n_images_todo = 0
+
+        for url, imgset in idb.by_url.items():
+            if imgset.data_set_type != DataSetType.SKY:
+                continue
+
+            if url in done_imageset_urls:
+                continue
+
+            cxs = getattr(imgset.xmeta, "cxstatus", "undefined")
+            if cxs.startswith("in:") or cxs == "skip":
+                continue
+
+            if not cxs.startswith("queue:"):
+                # can't handle this since we don't know what handle to
+                # associate it with
+                warn(
+                    f"imageset {url} should have Constellations ingest status flag, but doesn't"
+                )
+                continue
+
+            handle = cxs[6:]
+            todo_image_urls_by_handle.setdefault(handle, set()).add(url)
+            n_images_todo += 1
+
+        print(f"Number of imagesets to append:", n_images_todo)
+
+        # Build up a list of places/scenes to deal with. Also associate them
+        # with imageset URLs so that we can emit todo places next to todo images
+        # -- it makes a big difference to do so in practice, because when we're
+        # adapting info into the Constellations schema, the relevant metadata
+        # gets slightly split between images and scenes.
+
+        todo_place_uuids_by_handle = {}
+        n_places_todo = 0
+        pids_by_image_url = {}
+
+        for uuid, pinfo in pdb.by_uuid.items():
+            cxs = getattr(imgset.xmeta, "cxstatus", "undefined")
+            if cxs.startswith("in:") or cxs == "skip":
+                continue
+
+            handle = None
+            matched_url = None
+
+            for k in [
+                "image_set_url",
+                "foreground_image_set_url",
+                "background_image_set_url",
+            ]:
+                url = pinfo.get(k)
+                if not url:
+                    continue
+
+                for h, urls in todo_image_urls_by_handle.items():
+                    if url in urls:
+                        # Aha! This place is associated with a to-do image, under
+                        # the specified handle
+
+                        if handle is None:
+                            handle = h
+                            matched_url = url
+                        elif h != handle:
+                            warn(
+                                f"place {uuid} matches images from multiple handles: {h}, {handle}"
+                            )
+
+                        pids_by_image_url.setdefault(url, set()).add(uuid)
+
+            if handle is None:
+                # This place does not refer to any images that we plan to add to
+                # Constellations. So we can ignore it.
+                continue
+
+            todo_place_uuids_by_handle.setdefault(handle, {})[uuid] = matched_url
+            n_places_todo += 1
+
+        print(f"Number of places/scenes to append:", n_places_todo)
+
+        # Now we can finally actually add the new items to the lists. For each
+        # image, we add any places associated with it right after, to achieve
+        # the aformentioned desired clustering. Those places are then removed
+        # from the todo list. Then, after doing all the imageses, we mop up any
+        # places that may be hanging around.
+
+        for handle, imgurls in todo_image_urls_by_handle.items():
+            items = self.by_handle.setdefault(handle, [])
+            todo_places = todo_place_uuids_by_handle.get(handle, {})
+
+            for url in sorted(imgurls):
+                imgset = idb.by_url[url]
+                fields = OrderedDict()
+                fields["url"] = url
+                fields["copyright"] = "~~COPYRIGHT~~"
+                fields["license_id"] = "~~LICENSE~~"
+                fields["credits"] = imgset.credits
+                fields["wip"] = "yes"
+                items.append(("image", fields))
+
+                for pid in pids_by_image_url.get(url, []):
+                    if pid not in todo_places:
+                        # Looks like this place was already emitted elsewhere.
+                        # This won't happen in typical usage, but is OK.
+                        continue
+
+                    fields = OrderedDict()
+                    fields["place_uuid"] = pid
+                    fields["image_url"] = url
+                    fields["outgoing_url"] = imgset.credits_url
+
+                    pinfo = pdb.by_uuid[pid]
+                    text = pinfo.get("description")
+
+                    if not text:
+                        text = imgset.description
+
+                    if not text:
+                        text = pinfo["name"]
+
+                    fields["text"] = text
+                    fields["wip"] = "yes"
+                    items.append(("scene", fields))
+                    del todo_places[pid]
+
+        for handle, pids in todo_place_uuids_by_handle.items():
+            items = self.by_handle.setdefault(handle, [])
+
+            for pid, matched_url in sorted(pids.items()):
+                imgset = idb.by_url[matched_url]
+
+                fields = OrderedDict()
+                fields["place_uuid"] = pid
+                fields["image_url"] = matched_url
+                fields["outgoing_url"] = imgset.credits_url
+
+                pinfo = pdb.by_uuid[pid]
+                text = pinfo.get("description")
+
+                if not text:
+                    text = imgset.description
+
+                if not text:
+                    text = pinfo["name"]
+
+                fields["text"] = text
+                fields["wip"] = "yes"
+                items.append(("scene", fields))
+
+        # All done! Call rewrite() after this if you don't want to lose all this work.
+
+    def register(self, client: cx.CxClient, idb: ImagesetDatabase, pdb: PlaceDatabase):
+        # prefill the list of all known image IDs by URL since we may need
+        # these to consruct scene records
+
+        imgids_by_url = {}
+
+        for url, imgset in idb.by_url.items():
+            cxs = getattr(imgset.xmeta, "cxstatus", "")
+            if cxs.startswith("in:"):
+                imgids_by_url[url] = cxs[3:]
+
+        # now we can actually register the new stuff
+
+        n = 0
+
+        for handle in list(self.by_handle.keys()):
+            items = self.by_handle[handle]
+            remove_img_urls = set()
+            remove_place_uuids = set()
+            handle_client = None
+
+            try:
+                for kind, fields in items:
+                    if "wip" in fields:
+                        # Not yet ready
+                        continue
+
+                    if "skip" in fields:
+                        # Something to skip. We still need to do a little work here
+                        # to log this decision in the main database files.
+
+                        if kind == "image":
+                            url = fields["url"]
+                            idb.by_url[url].xmeta.cxstatus = f"skip"
+                            remove_img_urls.add(url)
+                        elif kind == "scene":
+                            uuid = fields["place_uuid"]
+                            pdb.by_uuid[uuid]["cxstatus"] = f"skip"
+                            remove_place_uuids.add(uuid)
+                        else:
+                            warn(f"unexpected skipped prep item kind `{kind}`")
+
+                        continue
+
+                    # Ooh, we have something to upload!
+                    if handle_client is None:
+                        handle_client = client.handle_client(handle)
+
+                    if kind == "image":
+                        url = fields["url"]
+                        imgset = idb.by_url[url]
+                        id = _register_image(handle_client, fields, imgset)
+                        imgset.xmeta.cxstatus = f"in:{id}"
+                        imgids_by_url[url] = id
+                        remove_img_urls.add(url)
+                        n += 1
+                    elif kind == "scene":
+                        uuid = fields["place_uuid"]
+                        img_url = fields["image_url"]
+                        img_id = imgids_by_url.get(img_url)
+
+                        if not img_id:
+                            warn(
+                                f"can't register place/scene {uuid} because can't determine CXID for imageset {img_url}"
+                            )
+                            continue
+
+                        place = pdb.reconst_by_id(uuid, idb)
+                        id = _register_scene(handle_client, fields, place, img_id)
+                        pdb.by_uuid[uuid]["cxstatus"] = f"in:{id}"
+                        remove_place_uuids.add(uuid)
+                        n += 1
+                    else:
+                        warn(f"unexpected prep item kind `{kind}`")
+            finally:
+                # Update the list of items. We take this particular approach so
+                # that if we crash mid-operation, progress will be correctly
+                # saved, to the best of our ability.
+
+                new_items = []
+
+                for kind, fields in items:
+                    if kind == "image" and fields["url"] in remove_img_urls:
+                        continue
+
+                    if kind == "scene" and fields["place_uuid"] in remove_place_uuids:
+                        continue
+
+                    new_items.append((kind, fields))
+
+                self.by_handle[handle] = new_items
+
+        # All done! Rewrite this and the idb and the pdb afterwards
+        return n
+
+    def rewrite(self):
+        for handle, items in self.by_handle.items():
+            path = self.db_dir / f"{handle}.txt"
+
+            with path.open("wt", encoding="utf-8") as f:
+                for kind, fields in items:
+                    _emit_record(kind, fields, f)
 
 
 # add-alt-urls
@@ -1141,6 +1630,25 @@ def do_prettify(settings):
         prettify(elem, sys.stdout)
 
 
+# register-cxprep
+
+
+def do_register_cxprep(_settings):
+    idb = ImagesetDatabase()
+    pdb = PlaceDatabase()
+    cxpdb = ConstellationsPrepDatabase()
+
+    try:
+        n = cxpdb.register(cx.CxClient(), idb, pdb)
+        print()
+        print(f"Registered {n} items")
+    finally:
+        print("Saving database updates ...")
+        idb.rewrite()
+        pdb.rewrite()
+        cxpdb.rewrite()
+
+
 # replace-urls
 
 
@@ -1312,6 +1820,17 @@ def do_trace(_settings):
         print(f"{imgset.url}: {imgset.name} -- {places}")
 
 
+# update-cxprep
+
+
+def do_update_cxprep(_settings):
+    idb = ImagesetDatabase()
+    pdb = PlaceDatabase()
+    cxpdb = ConstellationsPrepDatabase()
+    cxpdb.update(idb, pdb)
+    cxpdb.rewrite()
+
+
 # generic driver
 
 
@@ -1385,6 +1904,8 @@ def entrypoint():
         "xml", metavar="XML-PATH", help="Path to an XML file to prettify"
     )
 
+    _register_cxprep = subparsers.add_parser("register-cxprep")
+
     replace_urls = subparsers.add_parser("replace-urls")
     replace_urls.add_argument(
         "spec_path", metavar="TEXT-PATH", help="Path to text file of URLs to update"
@@ -1392,6 +1913,7 @@ def entrypoint():
 
     _report = subparsers.add_parser("report")
     _trace = subparsers.add_parser("trace")
+    _update_cxprep = subparsers.add_parser("update-cxprep")
 
     settings = parser.parse_args()
 
@@ -1417,12 +1939,16 @@ def entrypoint():
         do_partition(settings)
     elif settings.subcommand == "prettify":
         do_prettify(settings)
+    elif settings.subcommand == "register-cxprep":
+        do_register_cxprep(settings)
     elif settings.subcommand == "replace-urls":
         do_replace_urls(settings)
     elif settings.subcommand == "report":
         do_report(settings)
     elif settings.subcommand == "trace":
         do_trace(settings)
+    elif settings.subcommand == "update-cxprep":
+        do_update_cxprep(settings)
     else:
         die(f"unknown subcommand `{settings.subcommand}`", prefix="usage error:")
 

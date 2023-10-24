@@ -1108,6 +1108,7 @@ annotation: '{"channel": "noirlab", "itemid": "gemini0406a", "publishedUTCISO860
   "2004-10-08T20:00:00+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:64276334975014bc743f17d8
 data_set_type: Sky
 dec_deg: 12.803213851527595
 description: This Canada-France-Hawaii Telescope image shows a small section of the
@@ -1136,6 +1137,7 @@ annotation: '{"channel": "noirlab", "itemid": "geminiann08018a", "publishedUTCIS
   "2008-07-31T15:52:08+00:00"}'
 classification: ''
 constellation: CVN
+cxstatus: in:6427635b975014bc743f1801
 data_set_type: Sky
 dec_deg: 37.80872169086304
 description: SDSS g-r-i’ band image of the late-type spiral NGC 4244 seen edge-on.
@@ -1151,6 +1153,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02270", "publishedUTCISO8601
   "2020-06-30T21:33:54+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:6427638e975014bc743f1836
 data_set_type: Sky
 dec_deg: -11.623477925058038
 description: The Sombrero Galaxy, of type Sa/Sb in the constellation Virgo, as seen
@@ -1166,6 +1169,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02275", "publishedUTCISO8601
   "2020-06-30T21:33:50+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:64276391975014bc743f1839
 data_set_type: Sky
 dec_deg: 7.999015221406024
 description: An elliptical galaxy of type E1 in the constellation Virgo, M49 is a
@@ -1185,6 +1189,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02284", "publishedUTCISO8601
   "2020-06-30T21:33:53+00:00"}'
 classification: ''
 constellation: CVN
+cxstatus: in:64276394975014bc743f183c
 data_set_type: Sky
 dec_deg: 41.120616675182504
 description: M94, a type Sb spiral galaxy in the constellation Canes Venatici, as
@@ -1200,6 +1205,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02286", "publishedUTCISO8601
   "2020-06-30T21:33:58+00:00"}'
 classification: ''
 constellation: COM
+cxstatus: in:64276395975014bc743f183d
 data_set_type: Sky
 dec_deg: 25.994933972912328
 description: NGC4565 is an edge-on spiral galaxy of type Sb in the constellation Coma
@@ -1216,6 +1222,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02287", "publishedUTCISO8601
   "2020-06-30T21:33:58+00:00"}'
 classification: ''
 constellation: CVN
+cxstatus: in:64276396975014bc743f183e
 data_set_type: Sky
 dec_deg: 32.5340615022418
 description: NGC4631, a type Sc spiral galaxy in the constellation Canes Venatici,
@@ -1232,6 +1239,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02328", "publishedUTCISO8601
   "2020-06-30T21:33:52+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:64276399975014bc743f1842
 data_set_type: Sky
 dec_deg: 12.945674565451315
 description: M86 is a lenticular galaxy, although some prefer to call it an elliptical,
@@ -1250,6 +1258,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02330", "publishedUTCISO8601
   "2020-06-30T21:33:51+00:00"}'
 classification: ''
 constellation: COM
+cxstatus: in:6427639b975014bc743f1843
 data_set_type: Sky
 dec_deg: 21.681707925652898
 description: M64, or NGC4826, also known as the `Black Eye&#x27; galaxy, is a type
@@ -1266,6 +1275,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02335", "publishedUTCISO8601
   "2020-06-30T21:33:58+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:6427639e975014bc743f1847
 data_set_type: Sky
 dec_deg: -1.195368093293593
 description: NGC4753 is an unusual lenticular galaxy of type S0(pec), in the constellation
@@ -1282,6 +1292,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02345", "publishedUTCISO8601
   "2020-06-30T21:33:46.935532+00:00"}'
 classification: ''
 constellation: COM
+cxstatus: in:642763a4975014bc743f184d
 data_set_type: Sky
 dec_deg: 27.98298369609153
 description: The Coma Berenices cluster of galaxies contains more than 1000 galaxies,
@@ -1299,6 +1310,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02346", "publishedUTCISO8601
   "2020-06-30T21:34:01+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:642763a5975014bc743f184e
 data_set_type: Sky
 dec_deg: 12.8509992785441
 description: The Virgo cluster of galaxies includes M84 and M86. Thousands of galaxies
@@ -1315,6 +1327,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-02353", "publishedUTCISO8601
   "2020-06-30T21:33:46.677631+00:00"}'
 classification: ''
 constellation: CEN
+cxstatus: in:642763ab975014bc743f1854
 data_set_type: Sky
 dec_deg: -41.385923545550405
 description: This cluster of galaxies in the constellation Centaurus is more easily
@@ -1331,6 +1344,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-m100", "publishedUTCISO8601"
   "2003-03-07T12:35:21+00:00"}'
 classification: ''
 constellation: COM
+cxstatus: in:642763eb975014bc743f1897
 data_set_type: Sky
 dec_deg: 15.832750978713916
 description: M100 is one of the brighter galaxies in the Virgo Cluster, although it&#x27;s
@@ -1353,6 +1367,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-m104", "publishedUTCISO8601"
   "2020-06-30T21:33:54.844561+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:642763ee975014bc743f189b
 data_set_type: Sky
 dec_deg: -11.623813790612987
 description: M104, or NGC4594, is a spiral galaxy, type Sa/Sb, in the constellation
@@ -1373,6 +1388,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-m106", "publishedUTCISO8601"
   "2020-06-30T21:33:54.993253+00:00"}'
 classification: ''
 constellation: CVN
+cxstatus: in:642763f0975014bc743f189d
 data_set_type: Sky
 dec_deg: 47.313526656166445
 description: M106 is a type Sb spiral galaxy in the constellation Canes Venatici.
@@ -1399,6 +1415,7 @@ angular_size: 1.97197824
 annotation: '{"channel": "noirlab", "itemid": "noao-m58", "publishedUTCISO8601": "2020-06-30T21:33:50.667330+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:64276413975014bc743f18c1
 data_set_type: Sky
 dec_deg: 11.818591357655178
 description: M58 is a spiral galaxy of type SBc in the constellation Virgo, although
@@ -1419,6 +1436,7 @@ angular_size: 2.3133600000000003
 annotation: '{"channel": "noirlab", "itemid": "noao-m60", "publishedUTCISO8601": "2020-06-30T21:33:50.869798+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:64276413975014bc743f18c2
 data_set_type: Sky
 dec_deg: 11.572898871696227
 description: 'M60 is a large elliptical galaxy in the constellation Virgo, being about
@@ -1442,6 +1460,7 @@ angular_size: 1.52796
 annotation: '{"channel": "noirlab", "itemid": "noao-m61", "publishedUTCISO8601": "2020-06-30T21:33:50.959986+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:64276414975014bc743f18c3
 data_set_type: Sky
 dec_deg: 4.473192840062091
 description: The SABbc spiral galaxy M61 is one of the larger galaxies in the Virgo
@@ -1461,6 +1480,7 @@ angular_size: 2.467584
 annotation: '{"channel": "noirlab", "itemid": "noao-m64", "publishedUTCISO8601": "2020-06-30T21:33:51.229694+00:00"}'
 classification: ''
 constellation: COM
+cxstatus: in:64276416975014bc743f18c5
 data_set_type: Sky
 dec_deg: 21.684110207492004
 description: 'The &quot;Black Eye&quot; or &quot;Sleeping Beauty&quot; galaxy, M64
@@ -1488,6 +1508,7 @@ angular_size: 0.8670000000000001
 annotation: '{"channel": "noirlab", "itemid": "noao-m84", "publishedUTCISO8601": "2020-06-30T21:33:52.682390+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:64276428975014bc743f18d8
 data_set_type: Sky
 dec_deg: 12.88273469375431
 description: M84 is an elliptical galaxy of type E1 and a member of the large Virgo
@@ -1510,6 +1531,7 @@ angular_size: 0.8670000000000001
 annotation: '{"channel": "noirlab", "itemid": "noao-m85", "publishedUTCISO8601": "2020-06-30T21:33:52.784751+00:00"}'
 classification: ''
 constellation: COM
+cxstatus: in:64276429975014bc743f18d9
 data_set_type: Sky
 dec_deg: 18.190540849121273
 description: A lenticular galaxy of type S0, M85 is the northernmost member of the
@@ -1529,6 +1551,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-m87i", "publishedUTCISO8601"
   "2020-06-30T21:33:53.060196+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:6427642a975014bc743f18da
 data_set_type: Sky
 dec_deg: 12.393663518831481
 description: A giant elliptical galaxy (E0) in the Virgo Cluster, M87 is a strong
@@ -1550,6 +1573,7 @@ angular_size: 1.0418688
 annotation: '{"channel": "noirlab", "itemid": "noao-m88", "publishedUTCISO8601": "2020-06-30T21:33:53.349485+00:00"}'
 classification: ''
 constellation: COM
+cxstatus: in:6427642b975014bc743f18db
 data_set_type: Sky
 dec_deg: 14.415899064311118
 description: M88, a symmetrical type Sc spiral galaxy in the constellation Coma Berenices,
@@ -1567,6 +1591,7 @@ angular_size: 2.40975
 annotation: '{"channel": "noirlab", "itemid": "noao-m90", "publishedUTCISO8601": "2020-06-30T21:33:53.549980+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:6427642c975014bc743f18dc
 data_set_type: Sky
 dec_deg: 13.18295743253937
 description: M90 is a large spiral galaxy of type Sb in the constellation Virgo. Although
@@ -1589,6 +1614,7 @@ angular_size: 1.97615616
 annotation: '{"channel": "noirlab", "itemid": "noao-m91", "publishedUTCISO8601": "2020-06-30T21:33:53+00:00"}'
 classification: ''
 constellation: COM
+cxstatus: in:6427642d975014bc743f18dd
 data_set_type: Sky
 dec_deg: 14.495575142738035
 description: 'M91 is a spiral galaxy of type SBb in the constellation Coma Berenices.
@@ -1610,6 +1636,7 @@ angular_size: 2.8917
 annotation: '{"channel": "noirlab", "itemid": "noao-m94", "publishedUTCISO8601": "2002-12-16T11:48:56+00:00"}'
 classification: ''
 constellation: CVN
+cxstatus: in:6427642f975014bc743f18e0
 data_set_type: Sky
 dec_deg: 41.12024939018799
 description: The Sab spiral galaxy M94 in the constellation Canes Venatici is considered
@@ -1631,6 +1658,7 @@ _uuid: 5a1cabe5-41c6-42e0-aca9-0c15f2c6c2ec
 annotation: '{"channel": "noirlab", "itemid": "noao-m98", "publishedUTCISO8601": "2020-06-30T21:33:54.048147+00:00"}'
 classification: ''
 constellation: COM
+cxstatus: in:64276431975014bc743f18e2
 data_set_type: Sky
 dec_deg: 14.90094639824033
 description: 'M98 is a nearly edge-on type Sb spiral galaxy in the constellation Coma
@@ -1652,6 +1680,7 @@ _uuid: f8f72b49-424a-4b52-bd8a-473f85ef8a6c
 annotation: '{"channel": "noirlab", "itemid": "noao-m99", "publishedUTCISO8601": "2020-06-30T21:33:54.133178+00:00"}'
 classification: ''
 constellation: COM
+cxstatus: in:64276432975014bc743f18e3
 data_set_type: Sky
 dec_deg: 14.417776051994874
 description: M99 is a type Sc spiral galaxy in the constellation Coma Berenices. Its
@@ -1676,6 +1705,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc4214", "publishedUTCISO86
   "2020-06-30T21:33:57+00:00"}'
 classification: ''
 constellation: CVN
+cxstatus: in:6427644d975014bc743f18ff
 data_set_type: Sky
 dec_deg: 36.278393487892025
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -1699,6 +1729,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc4395", "publishedUTCISO86
   "2020-06-30T21:33:58.077806+00:00"}'
 classification: ''
 constellation: CVN
+cxstatus: in:6427644e975014bc743f1900
 data_set_type: Sky
 dec_deg: 33.546602928076744
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -1721,6 +1752,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc4490", "publishedUTCISO86
   "2020-06-30T21:33:58.234876+00:00"}'
 classification: ''
 constellation: CVN
+cxstatus: in:6427644f975014bc743f1901
 data_set_type: Sky
 dec_deg: 41.64172794522932
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -1743,6 +1775,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-ngc4656", "publishedUTCISO86
   "2020-06-30T21:33:58.569337+00:00"}'
 classification: ''
 constellation: CVN
+cxstatus: in:64276451975014bc743f1902
 data_set_type: Sky
 dec_deg: 32.1818112589355
 description: This image was obtained with the wide-field view of the Mosaic camera
@@ -1767,6 +1800,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao-virgo", "publishedUTCISO8601
   "2020-06-30T21:34:01+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:6427646e975014bc743f1920
 data_set_type: Sky
 dec_deg: 12.483978410404
 description: 'The Virgo cluster of galaxies contains over 2000 galaxies and dominates
@@ -1799,6 +1833,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao0407a", "publishedUTCISO8601"
   "2004-06-03T00:00:00+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:64276488975014bc743f193c
 data_set_type: Sky
 dec_deg: 13.114386219591767
 description: This three-color composite image of spiral galaxy NGC 4402 shows several
@@ -1829,6 +1864,7 @@ annotation: '{"channel": "noirlab", "itemid": "noao1601b", "publishedUTCISO8601"
   "2016-05-25T00:00:00+00:00"}'
 classification: ''
 constellation: COM
+cxstatus: in:6427649e975014bc743f1952
 data_set_type: Sky
 dec_deg: 27.97306655016532
 description: Coma Cluster image from the Sloan Digital Sky Survey.
@@ -1843,6 +1879,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2014e", "publishedUTCISO86
   "2020-06-24T06:00:00+00:00"}'
 classification: ''
 constellation: CEN
+cxstatus: in:642764b9975014bc743f196f
 data_set_type: Sky
 dec_deg: -49.86358140231605
 description: A circumstellar disk around star HD 111520 selected from the larger sample
@@ -1859,6 +1896,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2014f", "publishedUTCISO86
   "2020-06-24T06:00:00+00:00"}'
 classification: ''
 constellation: CEN
+cxstatus: in:642764ba975014bc743f1970
 data_set_type: Sky
 dec_deg: -39.86950206996362
 description: A circumstellar disk around star HR 4796 A selected from the larger sample
@@ -1875,6 +1913,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2017c", "publishedUTCISO86
   "2020-07-14T08:17:59+00:00"}'
 classification: ''
 constellation: COM
+cxstatus: in:642764bf975014bc743f1975
 data_set_type: Sky
 dec_deg: 14.5964991482877
 description: The afterglow of GRB181123B, captured by the Gemini North telescope.
@@ -1890,6 +1929,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2019d", "publishedUTCISO86
   "2020-08-05T06:05:40+00:00"}'
 classification: ''
 constellation: COM
+cxstatus: in:642764c2975014bc743f1978
 data_set_type: Sky
 dec_deg: 15.824844145551168
 description: Hubble Space Telescope image of SN 2019ehk in its spiral host galaxy,
@@ -1906,6 +1946,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2112a", "publishedUTCISO86
   "2021-03-16T12:00:00+00:00"}'
 classification: ''
 constellation: CVN
+cxstatus: in:642764d7975014bc743f198e
 data_set_type: Sky
 dec_deg: 47.30295078032794
 description: 'This image of the spiral galaxy Messier 106, or NGC 4258, was taken
@@ -1928,6 +1969,7 @@ annotation: '{"channel": "noirlab", "itemid": "noirlab2112b", "publishedUTCISO86
   "2021-03-16T12:00:00+00:00"}'
 classification: ''
 constellation: CVN
+cxstatus: in:642764d8975014bc743f198f
 data_set_type: Sky
 dec_deg: 47.3050656316495
 description: 'This image of the spiral galaxy Messier 106, or NGC 4258, was taken
@@ -1950,6 +1992,7 @@ _uuid: d3f5473b-c289-41f9-ae9e-abde11df5d5b
 angular_size: 0.8755942001279999
 classification: Unidentified
 constellation: CVN
+cxstatus: in:6537c92db493728d11b82bcf
 data_set_type: Sky
 dec_deg: 47.30427823775423
 foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1302a/L{1}X{2}Y{3}.png
@@ -2009,6 +2052,7 @@ zoom_level: 0.40920219111601974
 _uuid: 4515944e-15f5-4a38-bbf5-dd6070d7266c
 classification: ''
 constellation: VIR
+cxstatus: in:649bab471e6961df10c19469
 data_set_type: Sky
 dec_deg: 2.0502210342904874
 foreground_image_set_url: http://data1.wwtassets.org/packages/2021/08_lofar_17821/3C273/{1}/{3}/{3}_{2}.png
@@ -2020,6 +2064,7 @@ zoom_level: 0.059250716862232045
 _uuid: a286d849-da46-448e-9d02-43fa2e958bb3
 classification: ''
 constellation: COM
+cxstatus: in:649e31021e6961df10c19531
 data_set_type: Sky
 dec_deg: 21.83311649194694
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/04_jwst/potm2303a/{1}/{3}/{3}_{2}.png
@@ -2087,6 +2132,7 @@ _uuid: 76f3fbdf-6d7a-4e4b-863a-49a45264497a
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: COM
+cxstatus: in:64b74782a15b29de42b30686
 data_set_type: Sky
 dec_deg: 27.9677777777778
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010210{Q}?g=131
@@ -2208,6 +2254,7 @@ _uuid: cc1c9a33-ce2a-47a6-a0f9-70e9d619101d
 angular_size: -1.0
 classification: SpiralGalaxy
 constellation: COM
+cxstatus: in:649cf3e11e6961df10c19515
 data_set_type: Sky
 dec_deg: 21.683333333333334
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000120011{Q}?g=138
@@ -2219,6 +2266,7 @@ _uuid: 6c939749-1e7e-42e8-8059-2896c631893b
 angular_size: 360.0
 classification: Stellar
 constellation: VIR
+cxstatus: in:649ba0e81e6961df10c19445
 data_set_type: Sky
 dec_deg: 13.27
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wtl11{Q}?g=155&band=wwt_rgb
@@ -2430,6 +2478,7 @@ _uuid: d97cdb80-b33e-4902-9352-68d9ac82f3bc
 angular_size: 1.0
 classification: Galaxy
 constellation: CVN
+cxstatus: in:64b74783a15b29de42b30688
 data_set_type: Sky
 dec_deg: 47.3119444444444
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000120333{Q}?g=182
@@ -4530,6 +4579,7 @@ zoom_level: 0.290741110070711
 _uuid: c84acb02-6602-40ec-b0e6-653b1585781b
 classification: ''
 constellation: COM
+cxstatus: in:64b74784a15b29de42b3068a
 data_set_type: Sky
 dec_deg: 25.4242051767
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig05-011L{1}X{2}Y{3}.png
@@ -4541,6 +4591,7 @@ zoom_level: 0.853560952097792
 _uuid: 97ed734e-6478-4a86-bb60-731b2d8c3851
 classification: ''
 constellation: VIR
+cxstatus: in:64b74785a15b29de42b3068c
 data_set_type: Sky
 dec_deg: 11.8485014446
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig06-003L{1}X{2}Y{3}.png
@@ -4552,6 +4603,7 @@ zoom_level: 0.853593578787103
 _uuid: 75a96428-4385-4e3f-9abb-d09ffe080147
 classification: ''
 constellation: MUS
+cxstatus: in:64b74787a15b29de42b3068e
 data_set_type: Sky
 dec_deg: -65.1459300769619
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig07-005L{1}X{2}Y{3}.png
@@ -4563,6 +4615,7 @@ zoom_level: 0.610154558026297
 _uuid: bdfdf268-09a6-4589-be97-997305dd4bfe
 classification: ''
 constellation: MUS
+cxstatus: in:64b749c1a15b29de42b30693
 data_set_type: Sky
 dec_deg: -65.1459300769619
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig07-005bL{1}X{2}Y{3}.png
@@ -4574,6 +4627,7 @@ zoom_level: 0.446890545429416
 _uuid: b622a664-15ec-44c7-9db9-c2fca3b608ae
 classification: ''
 constellation: CRV
+cxstatus: in:64b749c2a15b29de42b30695
 data_set_type: Sky
 dec_deg: -18.8831994
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-017L{1}X{2}Y{3}.png
@@ -4585,6 +4639,7 @@ zoom_level: 0.25907560448
 _uuid: caec1cb9-cb76-4289-8ff3-8cd21d40deab
 classification: ''
 constellation: COM
+cxstatus: in:64b749c3a15b29de42b30697
 data_set_type: Sky
 dec_deg: 15.8223239
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig12-007L{1}X{2}Y{3}.png
@@ -4596,6 +4651,7 @@ zoom_level: 0.85389299712
 _uuid: 639dd831-36a7-4efe-8c48-bbd606fc8750
 classification: ''
 constellation: COM
+cxstatus: in:64b749c4a15b29de42b30699
 data_set_type: Sky
 dec_deg: 15.8223239
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig12-008L{1}X{2}Y{3}.png
@@ -4607,6 +4663,7 @@ zoom_level: 0.85389299712
 _uuid: 1e2c7960-7552-4625-b0ae-c57d5b057bf8
 classification: ''
 constellation: CVN
+cxstatus: in:64b749c5a15b29de42b3069b
 data_set_type: Sky
 dec_deg: 41.1196043
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig13-004L{1}X{2}Y{3}.png
@@ -4618,6 +4675,7 @@ zoom_level: 1.7061371904
 _uuid: 030e16f1-2654-4115-a311-8b1bea9d256b
 classification: ''
 constellation: CVN
+cxstatus: in:64b749c6a15b29de42b3069d
 data_set_type: Sky
 dec_deg: 47.3013126
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig14-020L{1}X{2}Y{3}.png
@@ -4629,6 +4687,7 @@ zoom_level: 0.499527073792
 _uuid: c9b28b0a-1d63-49be-b08f-1c589842d0d5
 classification: ''
 constellation: CRV
+cxstatus: in:64b749c7a15b29de42b3069f
 data_set_type: Sky
 dec_deg: -18.8769847015282
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-14a1L{1}X{2}Y{3}.png
@@ -4640,6 +4699,7 @@ zoom_level: 0.526122172137212
 _uuid: 9c2a00a9-ce09-40cc-a299-86312df1768d
 classification: ''
 constellation: CRV
+cxstatus: in:64b749c8a15b29de42b306a1
 data_set_type: Sky
 dec_deg: -18.8769847015282
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-14a2L{1}X{2}Y{3}.png
@@ -4651,6 +4711,7 @@ zoom_level: 0.526122172137212
 _uuid: 4755faf4-fb20-407e-9938-7699369056d2
 classification: ''
 constellation: CRV
+cxstatus: in:64b749c9a15b29de42b306a3
 data_set_type: Sky
 dec_deg: -18.8769847015282
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-14a3L{1}X{2}Y{3}.png
@@ -4662,6 +4723,7 @@ zoom_level: 0.376469643173738
 _uuid: 4c0c4ea6-0c40-4fd6-8d1c-49cb735edf77
 classification: ''
 constellation: VIR
+cxstatus: in:64b749caa15b29de42b306a5
 data_set_type: Sky
 dec_deg: -11.5869704984
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2005-11a1L{1}X{2}Y{3}.png
@@ -4673,6 +4735,7 @@ zoom_level: 0.434856877226107
 _uuid: 84d425ac-3a2b-4dd9-8b1f-b4a29456baa4
 classification: ''
 constellation: VIR
+cxstatus: in:64b749cba15b29de42b306a7
 data_set_type: Sky
 dec_deg: -11.5869704984
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2005-11a3L{1}X{2}Y{3}.png
@@ -4684,6 +4747,7 @@ zoom_level: 0.434856877226107
 _uuid: d4ce8230-79fb-42bc-810c-49131ba62cd0
 classification: ''
 constellation: CVN
+cxstatus: in:64b749cca15b29de42b306a9
 data_set_type: Sky
 dec_deg: 39.8842586074034
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2009-15a2L{1}X{2}Y{3}.png
@@ -4695,6 +4759,7 @@ zoom_level: 1.365336064
 _uuid: 2c440612-8e74-445c-9473-3e11604d13a1
 classification: ''
 constellation: CRV
+cxstatus: in:64b749cca15b29de42b306ab
 data_set_type: Sky
 dec_deg: -18.7842004172747
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2009-15a3L{1}X{2}Y{3}.png
@@ -4706,6 +4771,7 @@ zoom_level: 0.682668032
 _uuid: 41a82b8e-11ba-4941-8972-b04568994fd4
 classification: ''
 constellation: VIR
+cxstatus: in:64b749cda15b29de42b306ad
 data_set_type: Sky
 dec_deg: -11.6228372
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-06aL{1}X{2}Y{3}.png
@@ -4717,6 +4783,7 @@ zoom_level: 1.70560765952
 _uuid: dc2b3fe5-5cfe-4136-856f-af407b8583fd
 classification: ''
 constellation: VIR
+cxstatus: in:64bb0fd5d87c275bcc5875a6
 data_set_type: Sky
 dec_deg: -11.6228372
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-06bL{1}X{2}Y{3}.png
@@ -4728,6 +4795,7 @@ zoom_level: 1.70560765952
 _uuid: 3545c4a0-6351-4fe0-9eb9-751008a0f516
 classification: ''
 constellation: VIR
+cxstatus: in:64bb0fd6d87c275bcc5875a8
 data_set_type: Sky
 dec_deg: 12.3653749
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-05aL{1}X{2}Y{3}.png
@@ -4739,6 +4807,7 @@ zoom_level: 1.3654249472
 _uuid: 5fe38cd1-b50f-42a4-abae-1b79a59ba935
 classification: ''
 constellation: VIR
+cxstatus: in:64bb0fd7d87c275bcc5875aa
 data_set_type: Sky
 dec_deg: 12.3653749
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-05bL{1}X{2}Y{3}.png
@@ -4750,6 +4819,7 @@ zoom_level: 1.3654249472
 _uuid: a98aa382-20aa-4b33-a37b-7b62133c086b
 classification: ''
 constellation: VIR
+cxstatus: in:64bb0fd8d87c275bcc5875ac
 data_set_type: Sky
 dec_deg: 12.3653749
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-05cL{1}X{2}Y{3}.png
@@ -4761,6 +4831,7 @@ zoom_level: 1.3654249472
 _uuid: e48a3548-109b-48c3-a9ac-8727d061e9db
 classification: ''
 constellation: HYA
+cxstatus: in:649e46381e6961df10c195fa
 data_set_type: Sky
 dec_deg: -26.0704305833866
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-002L{1}X{2}Y{3}.png
@@ -4772,6 +4843,7 @@ zoom_level: 3.13344
 _uuid: db2c5eab-b09a-4712-9852-f5c513a8886e
 classification: ''
 constellation: CRU
+cxstatus: in:649e46391e6961df10c195fb
 data_set_type: Sky
 dec_deg: -60.198492
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-038L{1}X{2}Y{3}.png
@@ -4783,6 +4855,7 @@ zoom_level: 6.25777769088778
 _uuid: 6ea8e0ad-861b-47ee-a397-ce5d03c3a19d
 classification: ''
 constellation: VIR
+cxstatus: in:649e463a1e6961df10c195fc
 data_set_type: Sky
 dec_deg: 11.5542836
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-045DL{1}X{2}Y{3}.png
@@ -4794,6 +4867,7 @@ zoom_level: 3.12887762944
 _uuid: c852c93c-96d7-4e42-8819-d6200e7215f5
 classification: ''
 constellation: VIR
+cxstatus: in:649e463c1e6961df10c195fd
 data_set_type: Sky
 dec_deg: 11.7831805556
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2011-005L{1}X{2}Y{3}.png
@@ -4827,6 +4901,7 @@ zoom_level: 2.81166666666667
 _uuid: 740ed4d8-0b84-482a-9772-1d4cf0bb01d7
 classification: ClusterOfGalaxies
 constellation: CVN
+cxstatus: in:649ceb841e6961df10c194bf
 data_set_type: Sky
 dec_deg: 47.3333333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},967184262
@@ -4838,6 +4913,7 @@ _uuid: 46d4b5af-5c8e-4fe4-ac19-0f07bcdf0113
 angular_size: -1.0
 classification: SpiralGalaxy
 constellation: COM
+cxstatus: in:649cf3e21e6961df10c19516
 data_set_type: Sky
 dec_deg: 15.816666666666666
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn028
@@ -4849,6 +4925,7 @@ _uuid: 58df62da-5c59-4942-a0aa-ab1bcdefa200
 angular_size: -1.0
 classification: SpiralGalaxy
 constellation: VIR
+cxstatus: in:649cf3e21e6961df10c19517
 data_set_type: Sky
 dec_deg: -11.616666666666667
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn030
@@ -4860,6 +4937,7 @@ _uuid: 4e02c44b-979a-4125-a58a-55079e306804
 angular_size: -1.0
 classification: GlobularCluster
 constellation: HYA
+cxstatus: in:649cf3e31e6961df10c19518
 data_set_type: Sky
 dec_deg: -26.702777777777776
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn039
@@ -4871,6 +4949,7 @@ _uuid: 4b4f6a0d-95e1-4f28-9015-0b78dc0ffb2c
 angular_size: -1.0
 classification: SpiralGalaxy
 constellation: COM
+cxstatus: in:649cf3e41e6961df10c19519
 data_set_type: Sky
 dec_deg: 25.988611111111112
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},jn052
