@@ -833,6 +833,22 @@ class ConstellationsPrepDatabase(object):
                     new_items.append((kind, fields))
                     continue
 
+                if "skip" in fields:
+                    # Something to skip. We still need to do a little work here
+                    # to log this decision in the main database files.
+
+                    if kind == "image":
+                        imgset = idb.by_url[fields["url"]]
+                        imgset.xmeta.cxstatus = f"skip"
+                    elif kind == "scene":
+                        uuid = fields["place_uuid"]
+                        pdb.by_uuid[uuid]["cxstatus"] = f"skip"
+                    else:
+                        warn(f"unexpected skipped prep item kind `{kind}`")
+                        new_items.append((kind, fields))
+
+                    continue
+
                 # Ooh, we have something to upload!
                 if handle_client is None:
                     handle_client = client.handle_client(handle)
