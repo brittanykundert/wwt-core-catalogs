@@ -19,45 +19,6 @@ X-ray ring is thought to be a shock wave that marks the boundary between the
 surrounding nebula and the flow of matter and antimatter particles from the
 pulsar.
 
----
-
-@image
-url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000010{Q}?g=131
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> NASA/CXC/Rutgers/J.Hughes et al.
-
-wip: yes
----
-
-@scene
-place_uuid: db55fe85-73ef-495c-83ac-315748595d8f
-image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000010{Q}?g=131
-outgoing_url: https://chandra.harvard.edu/photo/2001/0112/
-
-text> G292.0+1.8 Supernova Remnant
-
-wip: yes
----
-
-@image
-url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000020{Q}?g=131
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> NASA/CXC/Univ. de Liège/Y. Naze et al
-
-wip: yes
----
-
-@scene
-place_uuid: 596a1b3f-6a73-4ce9-a369-f4d00a72095b
-image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000020{Q}?g=131
-outgoing_url: https://chandra.harvard.edu/photo/2008/wd2/
-
-text> Westerlund 2 Star Cluster;Wd 2
-
 wip: yes
 ---
 
@@ -98,27 +59,6 @@ image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000100{Q}?g=1
 outgoing_url: https://chandra.harvard.edu/photo/2001/1220/more.html#img2
 
 text> NGC 6543;Cat's Eye Nebula
-
-wip: yes
----
-
-@image
-url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000110{Q}?g=131
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> NASA/JPL/Caltech/P.Appleton et al. X-ray: NASA/CXC/A.Wolter &
-G.Trinchieri et al.
-
-wip: yes
----
-
-@scene
-place_uuid: 4af053ed-2f9d-496d-a288-483e57d8d6d6
-image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000110{Q}?g=131
-outgoing_url: https://chandra.harvard.edu/photo/2006/cartwheel/
-
-text> Cartwheel Galaxy
 
 wip: yes
 ---
@@ -186,46 +126,6 @@ wip: yes
 ---
 
 @image
-url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000021{Q}?g=131
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> Chandra: NASA/CXC/CfA/J. Forbrich
-
-wip: yes
----
-
-@scene
-place_uuid: 9a1f8c2d-2917-4e83-9724-49427521bac3
-image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000021{Q}?g=131
-outgoing_url: https://chandra.harvard.edu/photo/2007/coronet/
-
-text> Coronet Cluster
-
-wip: yes
----
-
-@image
-url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000031{Q}?g=131
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> X-ray: NASA/CXC/GSFC/M.Corcoran et al.; Optical: NASA/STScI
-
-wip: yes
----
-
-@scene
-place_uuid: 03bf8eaf-8802-4dde-ad80-e4046d78011b
-image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000031{Q}?g=131
-outgoing_url: https://chandra.harvard.edu/photo/2007/etacar/
-
-text> Eta Carinae
-
-wip: yes
----
-
-@image
 url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000101{Q}?g=131
 copyright: Public domain
 license_id: CC-PDDC
@@ -241,27 +141,6 @@ image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000101{Q}?g=1
 outgoing_url: https://chandra.harvard.edu/photo/2003/ngc6888/more.html
 
 text> Crescent Nebula;NGC 6888
-
-wip: yes
----
-
-@image
-url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000111{Q}?g=131
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> X-ray: NASA/CXC/UVic./A.Mahdavi et al. Optical/Lensing:
-CFHT/UVic./A.Mahdavi et al.
-
-wip: yes
----
-
-@scene
-place_uuid: ab980721-dd73-4860-bb4a-53d0c7d71d11
-image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000111{Q}?g=131
-outgoing_url: https://chandra.harvard.edu/photo/2007/a520/
-
-text> Abell 520
 
 wip: yes
 ---
@@ -303,211 +182,6 @@ image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000002{Q}?g=1
 outgoing_url: https://chandra.harvard.edu/photo/2007/a520/more.html
 
 text> Abell 520
-
-wip: yes
----
-
-@image
-url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000012{Q}?g=131
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> X-ray: NASA/CXC/SAO/UMass/D.Wang et al, Optical:
-NASA/STScI/U.Alabama/W.Keel, Radio: NRAO/ F.Owen, Optical (OII): Gemini
-Obs./M.Ledlow
-
-wip: yes
----
-
-@scene
-place_uuid: ef90dada-34d6-4fb6-a6c7-d39d4eb79ed1
-image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000012{Q}?g=131
-outgoing_url: https://chandra.harvard.edu/photo/2004/c153/
-
-text> C153
-
-wip: yes
----
-
-@image
-url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000032{Q}?g=131
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> NASA/CXC/NCSU/S.Reynolds et al.
-
-wip: yes
----
-
-@scene
-place_uuid: 12725b30-ea96-4cad-b58c-2bacbfa21506
-image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000032{Q}?g=131
-outgoing_url: https://chandra.harvard.edu/photo/2007/kepler/
-
-text> Kepler's Supernova Remnant
-
-wip: yes
----
-
-@image
-url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000102{Q}?g=131
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> X-ray: NASA/CXC/CfA/J.Forbrich et al.; Infrared: NASA/SSC/CfA/IRAC GTO
-Team
-
-wip: yes
----
-
-@scene
-place_uuid: 1cc70b6d-4f2e-4567-88ef-9ceb14f517f7
-image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000102{Q}?g=131
-outgoing_url: https://chandra.harvard.edu/photo/2008/cena/
-
-text> Centaurus A;Cen A
-
-wip: yes
----
-
-@image
-url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000112{Q}?g=131
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> X-ray: NASA/CXC/SAO/UMass/D.Wang et al.
-
-wip: yes
----
-
-@scene
-place_uuid: b4fecc42-1f8d-4a8f-9bd7-8c51780b5060
-image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000112{Q}?g=131
-outgoing_url: https://chandra.harvard.edu/photo/2004/c153/
-
-text> C153
-
-wip: yes
----
-
-@image
-url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000122{Q}?g=131
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> X-ray: NASA/CXC/CfA/W.Forman et al.; Optical: DSS
-
-wip: yes
----
-
-@scene
-place_uuid: de5f0b63-310b-429b-bd46-0876bb4a5a2d
-image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000122{Q}?g=131
-outgoing_url: https://chandra.harvard.edu/photo/2006/m87/
-
-text> M87
-
-wip: yes
----
-
-@image
-url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000003{Q}?g=131
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> X-ray: NASA/CXC/SAO; Optical: NASA/STScI; Infrared: NASA/JPL-Caltech
-
-wip: yes
----
-
-@scene
-place_uuid: 78850e71-1bfa-427f-be36-56d53d29b7f9
-image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000003{Q}?g=131
-outgoing_url: https://chandra.harvard.edu/photo/2005/casa/index.html
-
-text> Cassiopeia A
-
-wip: yes
----
-
-@image
-url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000013{Q}?g=131
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> NASA/CXC/GSFC/F.P.Gavriil et al.
-
-wip: yes
----
-
-@scene
-place_uuid: 11018fb6-cfde-417f-9c2c-0d6cea477457
-image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000013{Q}?g=131
-outgoing_url: https://chandra.harvard.edu/photo/2008/kes75/
-
-text> Kes 75
-
-wip: yes
----
-
-@image
-url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000023{Q}?g=131
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> NASA/UMass/Q.D.Wang et al.; Optical: NASA/STScI/AURA/Hubble Heritage;
-Infrared : NASA/JPL-Caltech/Univ. AZ/R.Kennicutt/SINGS Team
-
-wip: yes
----
-
-@scene
-place_uuid: cc579b36-0f97-490e-9cca-f9c0e0800bd1
-image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000023{Q}?g=131
-outgoing_url: https://chandra.harvard.edu/photo/2007/sombrero/
-
-text> M104;Sombrero Galaxy;NGC 4594
-
-wip: yes
----
-
-@image
-url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000033{Q}?g=131
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> NASA/UIUC/Y. Chu & R. Gruendl et al.
-
-wip: yes
----
-
-@scene
-place_uuid: 589fbe16-9826-4945-8fa5-880d50d9738c
-image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000033{Q}?g=131
-outgoing_url: https://chandra.harvard.edu/photo/2003/ngc6888/
-
-text> Crescent Nebula;NGC 6888
-
-wip: yes
----
-
-@image
-url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000103{Q}?g=131
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> X-ray: NASA/CXC/Caltech/S.Kulkarni et al.; Optical:
-NASA/STScI/UIUC/Y.H.Chu & R.Williams et al.; IR: NASA/JPL-Caltech/R.Gehrz et al.
-
-wip: yes
----
-
-@scene
-place_uuid: 775f5c9a-4608-4bd6-81e2-ae93bce16df2
-image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000103{Q}?g=131
-outgoing_url: https://chandra.harvard.edu/photo/2006/n49/
-
-text> N49
 
 wip: yes
 ---
@@ -1010,28 +684,6 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-142L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2002/rcw38/
 
 text> RCW 38
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-145L{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> Left: X-ray (NASA/UIUC/Y.Chu et ; The Chandra X-ray Observatory image
-on the left shows a bright central star surrounded by a cloud of
-multimillion-degree gas in ...
-
-wip: yes
----
-
-@scene
-place_uuid: 4f55b37d-d238-45e3-9930-2b3c06ead22e
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-145L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2001/1220/
-
-text> NGC 6543
 
 wip: yes
 ---
@@ -8289,39 +7941,9 @@ wip: yes
 @scene
 place_uuid: 797dae26-fa7f-4f67-affb-e13596504be2
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1129358135
-outgoing_url: https://chandra.harvard.edu/photo/2008/w28/
+outgoing_url: https://chandra.harvard.edu/photo/2008/w28/more.html#img1b
 
 text> W28: A Mixed Bag;G6.4-0.1
-
-wip: yes
----
-
-@image
-url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1387326604
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> X-ray: NASA/CXC/CfA/D.Evans et al.; Optical/UV: NASA/STScI; Radio:
-NSF/VLA/CfA/D.Evans et al., STFC/JBO/MERLIN 3C321 is a so-called radio galaxy
-because it belongs to a class of galaxies known to have strong radio emission.
-Many radio galaxies have powerful jets blasting out of their cores. When
-astronomers looked at this object, however, they saw something very unusual.
-They found that the jet from 3C321 appears to be striking another galaxy only
-about 21,000 light years away. At this distance, less than that between the
-Earth and the center of the Milky Way, the galaxy being blasted could be
-experiencing significant disruptions. By combining data from Chandra, Hubble,
-and the Very Large Array, astronomers are examining the effects of this violent
-eruption from one galaxy to another.
-
-wip: yes
----
-
-@scene
-place_uuid: 324b2f6e-a0ea-49e9-a374-d71abcd0bf80
-image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1387326604
-outgoing_url: https://chandra.harvard.edu/photo/2007/3c321/
-
-text> 3C321: Black Hole Fires at Neighboring Galaxy
 
 wip: yes
 ---
@@ -8344,32 +7966,6 @@ image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},143
 outgoing_url: https://chandra.harvard.edu/photo/2004/kepler/more.html
 
 text> Kepler's Supernova Remnant (Optical)
-
-wip: yes
----
-
-@image
-url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1433013114
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> NASA/CXC/NCSU/K.J.Borkowski et al. The supernova remnant (SNR) N132D is
-the brightest in the Large Magellanic Cloud, and it belongs to a rare class of
-oxygen-rich remnants. In this Chandra image, low energy X-rays are colored red,
-the medium energy range are green, and the highest energy X-rays are blue.
-Substantial amounts of are detected, particularly in the green regions near the
-center of the image. Most of the oxygen on Earth is thought to come from stellar
-explosions similar to this one.
-
-wip: yes
----
-
-@scene
-place_uuid: 1988eb77-3f64-4ab8-852d-95c00ed40863
-image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1433013114
-outgoing_url: https://chandra.harvard.edu/photo/2008/n132d/
-
-text> N132D: An Oxygen Factory in a Nearby Galaxy
 
 wip: yes
 ---
@@ -8417,7 +8013,7 @@ wip: yes
 @scene
 place_uuid: c6457cee-8e2f-431f-b1d6-9508c1ff0fd3
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1730537678
-outgoing_url: https://chandra.harvard.edu/photo/2008/g19/more.html
+outgoing_url: https://chandra.harvard.edu/photo/2008/g19/more.html#img6b
 
 text> Infrared Panoramic image of the Galactic center
 
@@ -8455,53 +8051,6 @@ wip: yes
 ---
 
 @image
-url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1872640162
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> X-ray(NASA/CXC/Stanford/S.Allen); Optical/Lensing(NASA/STScI/UC Santa
-Barbara/M.Bradac).
-
-wip: yes
----
-
-@scene
-place_uuid: a8b9b589-3acc-40fc-91b5-0040eb1e048b
-image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1872640162
-outgoing_url: https://chandra.harvard.edu/photo/2008/macs/
-
-text> MACS J0025.4-1222 :A Clash of Clusters Provides Another Clue to Dark
-Matter
-
-wip: yes
----
-
-@image
-url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},189400275
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> NASA/CXC/SAO. NGC 6543 shows a phase that Sun-like stars undergo at the
-end of their lives. Material from the outer layers of the star in the Cat's Eye
-is flying away at about 4 million miles per hour. A hot core is left behind that
-eventually collapses to become a white dwarf star. The Chandra data reveal that
-the central star in NGC 6543 is surrounded by a cloud of multi-million-degree
-gas.
-
-wip: yes
----
-
-@scene
-place_uuid: 40515e1f-7ac3-4db4-ab5c-98729f15bbd4
-image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},189400275
-outgoing_url: https://chandra.harvard.edu/photo/2008/catseye/
-
-text> NGC 6543 in XRay: The Cat's Eye Nebula Redux;Cat's Eye Nebula
-
-wip: yes
----
-
-@image
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1912661927
 copyright: Public domain
 license_id: CC-PDDC
@@ -8515,7 +8064,7 @@ wip: yes
 @scene
 place_uuid: 58aa8957-8cad-47dd-a0cc-256e9d97c830
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1912661927
-outgoing_url: https://chandra.harvard.edu/photo/2008/w28/
+outgoing_url: https://chandra.harvard.edu/photo/2008/w28/more.html#img1a
 
 text> W28: A Mixed Bag;G6.4-0.1
 
@@ -8536,36 +8085,9 @@ wip: yes
 @scene
 place_uuid: 0465219f-0284-41bf-8f72-7227a7a0b1d3
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},202800000
-outgoing_url: https://chandra.harvard.edu/photo/2008/w28/
+outgoing_url: https://chandra.harvard.edu/photo/2008/w28/more.html#img2d
 
 text> W28: A Mixed Bag;G6.4-0.1
-
-wip: yes
----
-
-@image
-url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},2055390745
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> X-ray: NASA/CXC/MIT/E.-H Peng et al; Optical: NASA/STScI This image of
-Abell 1689 is a composite of data from the Chandra X-ray Observatory (purple)
-and the Hubble Space Telescope (yellow). Abell 1689 is a massive cluster of
-galaxies that shows signs of merging activity. The long arcs in the optical
-image, the largest system of such arcs ever found, are caused by gravitational
-lensing of the background galaxies by matter in the galaxy cluster. Further
-studies of this cluster are needed to explain the lack of agreement between mass
-estimates based on the X-ray data and on the gravitational lensing.
-
-wip: yes
----
-
-@scene
-place_uuid: c61126e8-793a-4151-80a2-09f6ad17d103
-image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},2055390745
-outgoing_url: https://chandra.harvard.edu/photo/2008/a1689/
-
-text> Abell 1689: A Galaxy Cluster Makes Its Mark
 
 wip: yes
 ---
@@ -8613,7 +8135,7 @@ wip: yes
 @scene
 place_uuid: 9afdf5af-e2eb-488b-8700-702f74554bbc
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},269828725
-outgoing_url: https://chandra.harvard.edu/photo/2008/g19/more.html
+outgoing_url: https://chandra.harvard.edu/photo/2008/g19/more.html#img8
 
 text> G1.9+0.3: Discovery of Most Recent Supernova in Our Galaxy;SNR G001.9+00.3
 
@@ -8684,7 +8206,7 @@ wip: yes
 @scene
 place_uuid: 730f8c96-4be0-48ab-bda3-076a032f2e50
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},436046038
-outgoing_url: https://chandra.harvard.edu/photo/2008/sn1006c/more.html
+outgoing_url: https://chandra.harvard.edu/photo/2008/sn1006c/more.html#img2a
 
 text> SN 1006
 
@@ -8735,7 +8257,7 @@ wip: yes
 @scene
 place_uuid: 6de1145c-f70d-4d48-9de0-eb4cadb934db
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},613200509
-outgoing_url: https://chandra.harvard.edu/photo/2008/cena/more.html
+outgoing_url: https://chandra.harvard.edu/photo/2008/cena/more.html#img2a
 
 text> Centaurus A
 
@@ -8763,7 +8285,7 @@ wip: yes
 @scene
 place_uuid: b02eb194-646f-45b0-a326-1b8a2f162341
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},658770390
-outgoing_url: https://chandra.harvard.edu/photo/2008/g19/index.html
+outgoing_url: https://chandra.harvard.edu/photo/2008/g19/more.html#img1c
 
 text> G1.9+0.3: Discovery of Most Recent Supernova in Our Galaxy;SNR G001.9+00.3
 
@@ -8861,7 +8383,7 @@ wip: yes
 @scene
 place_uuid: f424040b-9f18-44c6-8e3d-591936348e1f
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},788116595
-outgoing_url: https://chandra.harvard.edu/photo/2008/m81/more.html
+outgoing_url: https://chandra.harvard.edu/photo/2008/m81/more.html#img1
 
 text> M81 in XRay;Messier 81
 
@@ -8897,55 +8419,6 @@ wip: yes
 ---
 
 @image
-url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},962869576
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> X-ray: NASA/CXC/SAO; Optical: NASA/STScI A composite image of data from
-NASA’s Chandra X-ray Observatory (blue) and Hubble Space Telescope (red and
-purple) of NGC 6543 shows a phase that Sun-like stars undergo at the end of
-their lives. Material from the outer layers of the star in the Cat's Eye is
-flying away at about 4 million miles per hour. A hot core is left behind that
-eventually collapses to become a white dwarf star. The Chandra data reveal that
-the central star in NGC 6543 is surrounded by a cloud of multi-million-degree
-gas.
-
-wip: yes
----
-
-@scene
-place_uuid: 3663a1d0-a614-4ac3-b323-f9e00e79a88d
-image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},962869576
-outgoing_url: https://chandra.harvard.edu/photo/2008/catseye/
-
-text> NGC 6543: The Cat's Eye Nebula Redux;Cat's Eye Nebula
-
-wip: yes
----
-
-@image
-url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},972848043
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> NASA/CXC/Rutgers/J.Hughes et al. This false-color Chandra image of a
-supernova remnant shows X-rays produced by high-energy particles (blue) and
-multimillion degree gas (red/green).
-
-wip: yes
----
-
-@scene
-place_uuid: 9a0233a4-4368-41fa-b912-d2e11880ef04
-image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},972848043
-outgoing_url: https://chandra.harvard.edu/photo/2005/sn1006/
-
-text> SN 1006: The Hot Remains of a 1000 Year-Old Supernova
-
-wip: yes
----
-
-@image
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},996535480
 copyright: Public domain
 license_id: CC-PDDC
@@ -8965,7 +8438,7 @@ wip: yes
 @scene
 place_uuid: 5c2e2536-7cf2-47c3-967c-61e5b955805f
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},996535480
-outgoing_url: https://chandra.harvard.edu/photo/2008/m81/more.html
+outgoing_url: https://chandra.harvard.edu/photo/2008/m81/more.html#img2a
 
 text> M81;Messier 81
 

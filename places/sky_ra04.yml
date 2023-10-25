@@ -525,17 +525,6 @@ name: NGC 1614;Arp 186;Mrk 0617;II Zw 015
 ra_hr: 4.56666388888889
 zoom_level: 1.0
 ---
-_uuid: ab980721-dd73-4860-bb4a-53d0c7d71d11
-angular_size: 1.0
-classification: Galaxy
-constellation: ORI
-data_set_type: Sky
-dec_deg: 2.89504939236373
-foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000111{Q}?g=131
-name: Abell 520
-ra_hr: 4.90544643902324
-zoom_level: 1.0
----
 _uuid: c5f04d86-655b-4b25-9dcb-d2d831495709
 angular_size: 1.0
 classification: SpiralGalaxy

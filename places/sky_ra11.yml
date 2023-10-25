@@ -966,17 +966,6 @@ ra_hr: 11.110050194635805
 thumbnail: http://data1.wwtassets.org/packages/2023/01_jwst/weic2303a/thumb.jpg
 zoom_level: 0.3947264502402712
 ---
-_uuid: db55fe85-73ef-495c-83ac-315748595d8f
-angular_size: 1.0
-classification: Galaxy
-constellation: CEN
-data_set_type: Sky
-dec_deg: -59.266678641361
-foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000010{Q}?g=131
-name: G292.0+1.8 Supernova Remnant
-ra_hr: 11.4097866734987
-zoom_level: 1.0
----
 _uuid: 1e54c08d-ef49-4425-aec6-4a5003ebf5b0
 angular_size: 1.0
 classification: ClusterOfGalaxies

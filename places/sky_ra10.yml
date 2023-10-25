@@ -1294,17 +1294,6 @@ ra_hr: 10.400709639613666
 thumbnail: http://data1.wwtassets.org/packages/2023/08_jwst/westerlund2-bk/thumb.jpg
 zoom_level: 0.3113757223826241
 ---
-_uuid: 596a1b3f-6a73-4ce9-a369-f4d00a72095b
-angular_size: 1.0
-classification: Galaxy
-constellation: CAR
-data_set_type: Sky
-dec_deg: -57.7658996582
-foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000020{Q}?g=131
-name: Westerlund 2 Star Cluster;Wd 2
-ra_hr: 10.3992279052667
-zoom_level: 1.0
----
 _uuid: a183b358-2e89-41f4-bde0-f4e07e99c4eb
 angular_size: 1.0
 classification: Galaxy
@@ -1337,17 +1326,6 @@ foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa00
 name: Hubble Captures a 'Five-Star' Rated Gravitational Lens
 ra_hr: 10.0761111111111
 zoom_level: 0.996666666666667
----
-_uuid: 03bf8eaf-8802-4dde-ad80-e4046d78011b
-angular_size: 1.0
-classification: Galaxy
-constellation: CAR
-data_set_type: Sky
-dec_deg: -59.685
-foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000031{Q}?g=131
-name: Eta Carinae
-ra_hr: 10.751
-zoom_level: 1.0
 ---
 _uuid: 58ed996d-fa91-422c-84c9-21c67b71b75c
 angular_size: 1.0

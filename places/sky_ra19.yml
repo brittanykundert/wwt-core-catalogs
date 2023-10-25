@@ -1167,17 +1167,6 @@ name: NGC 6786;UGC11415;VV 414;KPG 538;LEDA 62867
 ra_hr: 19.1830555555556
 zoom_level: 0.836666666666667
 ---
-_uuid: 9a1f8c2d-2917-4e83-9724-49427521bac3
-angular_size: 1.0
-classification: Galaxy
-constellation: CRA
-data_set_type: Sky
-dec_deg: -36.97373199
-foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000021{Q}?g=131
-name: Coronet Cluster
-ra_hr: 19.0291951466667
-zoom_level: 1.0
----
 _uuid: 8887e6b2-f8f5-4803-b8fa-facff58f9cce
 angular_size: 1.0
 classification: Galaxy

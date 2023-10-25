@@ -299,28 +299,6 @@ name: Hubble Identifies Primeval Galaxies, Uncovers New Clues to the Universe's 
 ra_hr: 15.8302777777778
 zoom_level: 1.0
 ---
-_uuid: ef90dada-34d6-4fb6-a6c7-d39d4eb79ed1
-angular_size: 1.0
-classification: Galaxy
-constellation: DRA
-data_set_type: Sky
-dec_deg: 66.2645263672
-foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000012{Q}?g=131
-name: C153
-ra_hr: 15.6864339192667
-zoom_level: 1.0
----
-_uuid: b4fecc42-1f8d-4a8f-9bd7-8c51780b5060
-angular_size: 1.0
-classification: Galaxy
-constellation: DRA
-data_set_type: Sky
-dec_deg: 66.2645263672
-foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000112{Q}?g=131
-name: C153
-ra_hr: 15.6864339192667
-zoom_level: 1.0
----
 _uuid: e774e1c7-bbc4-4440-9980-06b39d3fd0eb
 angular_size: 1.0
 classification: Galaxy
@@ -1011,17 +989,6 @@ ra_hr: 15.2649444666667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-020g.jpg
 zoom_level: 3.12888884544307
 ---
-_uuid: 324b2f6e-a0ea-49e9-a374-d71abcd0bf80
-angular_size: 1.0
-classification: BlackHole
-constellation: SER1
-data_set_type: Sky
-dec_deg: 24.0780555555556
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1387326604
-name: '3C321: Black Hole Fires at Neighboring Galaxy'
-ra_hr: 15.5288888888889
-zoom_level: 0.688333333333333
----
 _uuid: 730f8c96-4be0-48ab-bda3-076a032f2e50
 angular_size: 1.0
 classification: Supernova
@@ -1043,14 +1010,3 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Splinter Galaxy;NGC 5907
 ra_hr: 15.2638888888889
 zoom_level: 5.08
----
-_uuid: 9a0233a4-4368-41fa-b912-d2e11880ef04
-angular_size: 1.0
-classification: Supernova
-constellation: CEN
-data_set_type: Sky
-dec_deg: -41.9208333333333
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},972848043
-name: 'SN 1006: The Hot Remains of a 1000 Year-Old Supernova'
-ra_hr: 15.0461111111111
-zoom_level: 11.25
