@@ -27,7 +27,7 @@
     TileLevels="4"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000000{Q}?g=131"
     WidthFactor="2"
-    Xcxstatus="queue:chandra"
+    Xcxstatus="in:65394894b493728d11b82eb1"
   >
     <Credits>NASA/CXC/ASU/J. Hester et al.</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2006/crab/more.html#0052_xray_widefield</CreditsUrl>
@@ -55,10 +55,10 @@
     TileLevels="4"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000030{Q}?g=131"
     WidthFactor="2"
-    Xcxstatus="queue:chandra"
+    Xcxstatus="in:65394895b493728d11b82eb3"
   >
     <Credits>X-ray: NASA/UIUC/Y. Chu &amp; R. Gruendl et al. Optical: SDSU/MLO/Y. Chu et al..</Credits>
-    <CreditsUrl>https://chandra.harvard.edu/photo/2007/coronet/more.html</CreditsUrl>
+    <CreditsUrl>https://chandra.harvard.edu/photo/2007/coronet/more.html#img1</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=212910400</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -83,7 +83,7 @@
     TileLevels="4"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000100{Q}?g=131"
     WidthFactor="2"
-    Xcxstatus="queue:chandra"
+    Xcxstatus="in:65394896b493728d11b82eb5"
   >
     <Credits>X-ray: NASA/UIUC/Y.Chu et al., Optical: NASA/HST</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2001/1220/more.html#img2</CreditsUrl>
@@ -111,10 +111,10 @@
     TileLevels="3"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000130{Q}?g=131"
     WidthFactor="2"
-    Xcxstatus="queue:chandra"
+    Xcxstatus="in:65394897b493728d11b82eb7"
   >
     <Credits>NASA/CXC/STScI/U.North Carolina/G.Cecil</Credits>
-    <CreditsUrl>https://chandra.harvard.edu/photo/2003/ngc3079/more.html</CreditsUrl>
+    <CreditsUrl>https://chandra.harvard.edu/photo/2003/ngc3079/more.html#img2</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=543733190</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -191,7 +191,7 @@
     TileLevels="4"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000001{Q}?g=131"
     WidthFactor="2"
-    Xcxstatus="queue:chandra"
+    Xcxstatus="in:65394898b493728d11b82eb9"
   >
     <Credits>NASA/CXC/U.Colorado/Linsky et al.</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2007/m16/more.html#img1</CreditsUrl>
@@ -219,10 +219,10 @@
     TileLevels="5"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000011{Q}?g=131"
     WidthFactor="2"
-    Xcxstatus="queue:chandra"
+    Xcxstatus="in:65394899b493728d11b82ebb"
   >
     <Credits>Chandra: NASA/CXC/Middlebury College/F.Winkler et al; ROSAT: NASA/GSFC/S.Snowden et al.; Optical: NOAO/AURA/NSF/Middlebury College/F.Winkler et al.</Credits>
-    <CreditsUrl>https://chandra.harvard.edu/photo/2007/puppis/</CreditsUrl>
+    <CreditsUrl>https://chandra.harvard.edu/photo/2007/puppis/more.html#img3a</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1554288739</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -247,10 +247,10 @@
     TileLevels="4"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000101{Q}?g=131"
     WidthFactor="2"
-    Xcxstatus="queue:chandra"
+    Xcxstatus="in:6539489ab493728d11b82ebd"
   >
     <Credits>NASA/UIUC/Y. Chu &amp; R. Gruendl et al.</Credits>
-    <CreditsUrl>https://chandra.harvard.edu/photo/2003/ngc6888/more.html</CreditsUrl>
+    <CreditsUrl>https://chandra.harvard.edu/photo/2003/ngc6888/more.html#img1</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=3188233611</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -275,7 +275,7 @@
     TileLevels="3"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000121{Q}?g=131"
     WidthFactor="2"
-    Xcxstatus="queue:chandra"
+    Xcxstatus="in:6539489bb493728d11b82ebf"
   >
     <Credits>X-ray: NASA/CXC/RIT/J.Kastner et al, Optical/IR: NASA/STScI/Univ. Washington/B.Balick</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2006/pne/</CreditsUrl>
@@ -355,10 +355,10 @@
     TileLevels="4"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000002{Q}?g=131"
     WidthFactor="2"
-    Xcxstatus="queue:chandra"
+    Xcxstatus="in:6539489cb493728d11b82ec1"
   >
     <Credits>NASA/CXC/UVic./A.Mahdavi et al.</Credits>
-    <CreditsUrl>https://chandra.harvard.edu/photo/2007/a520/more.html</CreditsUrl>
+    <CreditsUrl>https://chandra.harvard.edu/photo/2007/a520/more.html#img1b</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1377370811</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -436,10 +436,10 @@
     TileLevels="4"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000113{Q}?g=131"
     WidthFactor="2"
-    Xcxstatus="queue:chandra"
+    Xcxstatus="in:6539489db493728d11b82ec3"
   >
     <Credits>NASA/CXC/GSFC/M.Corcoran et al.</Credits>
-    <CreditsUrl>https://chandra.harvard.edu/photo/2007/etacar/more.html</CreditsUrl>
+    <CreditsUrl>https://chandra.harvard.edu/photo/2007/etacar/more.html#img1</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=3920979722</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -464,10 +464,10 @@
     TileLevels="4"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000123{Q}?g=131"
     WidthFactor="2"
-    Xcxstatus="queue:chandra"
+    Xcxstatus="in:6539489eb493728d11b82ec5"
   >
     <Credits>X-ray (NASA/CXC/M. Karovska et al.); Radio 21-cm image (NRAO/AUI/NSF/J.Van Gorkom/Schminovich et al.), Radio continuum image (NRAO/AUI/NSF/J. Condon et al.); Optical (Digitized Sky Survey U.K. Schmidt Image/STScI)</Credits>
-    <CreditsUrl>https://chandra.harvard.edu/photo/2002/0157/</CreditsUrl>
+    <CreditsUrl>https://chandra.harvard.edu/photo/2002/0157/more.html#img2</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=4110398841</ThumbnailUrl>
   </ImageSet>
   <ImageSet

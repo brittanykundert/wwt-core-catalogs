@@ -1298,6 +1298,7 @@ _uuid: a183b358-2e89-41f4-bde0-f4e07e99c4eb
 angular_size: 1.0
 classification: Galaxy
 constellation: UMA
+cxstatus: in:65394898b493728d11b82eb8
 data_set_type: Sky
 dec_deg: 55.6806907654
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000130{Q}?g=131
@@ -1419,6 +1420,7 @@ _uuid: 4bf6a784-a965-4e9a-9137-4969d7720b91
 angular_size: 1.0
 classification: Galaxy
 constellation: CAR
+cxstatus: in:6539489db493728d11b82ec4
 data_set_type: Sky
 dec_deg: -59.685
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000113{Q}?g=131
