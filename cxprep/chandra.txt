@@ -3827,16 +3827,6 @@ wip: yes
 ---
 
 @scene
-place_uuid: 754b5dcf-575f-48a6-bae2-7615bd28e11c
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-432L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2009/cepb/
-
-text> Cepheus B
-
-wip: yes
----
-
-@scene
 place_uuid: d94654dd-e9e6-44e6-be64-8e15d43afe3d
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-432L{1}X{2}Y{3}.png
 outgoing_url: https://chandra.harvard.edu/photo/2009/cepb/
