@@ -95,7 +95,7 @@ wip: yes
 @scene
 place_uuid: b8aa745a-f65b-4948-b3c1-4965d00a6012
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000100{Q}?g=131
-outgoing_url: https://chandra.harvard.edu/press/01_releases/press_010801.html
+outgoing_url: https://chandra.harvard.edu/photo/2001/1220/more.html#img2
 
 text> NGC 6543;Cat's Eye Nebula
 
@@ -1390,9 +1390,7 @@ url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-169L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
 
-credits> X-ray: NASA/CXC/Rutgers/J.Hughes; Chandra's X-ray image (left panel) of
-the supernova remnant DEM L71 revealed a ten million-degree hot inner cloud
-(aqua) of glow...
+credits> NASA/CXC/SAO/S.Murray et al.
 
 wip: yes
 ---
@@ -1400,7 +1398,7 @@ wip: yes
 @scene
 place_uuid: c59f62c4-2abf-4e5c-9364-8046caa1f60b
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-169L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2003/deml71/
+outgoing_url: https://chandra.harvard.edu/photo/2001/0022/
 
 text> 3C58
 
@@ -1434,9 +1432,7 @@ url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-173L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
 
-credits> NASA/CXC/Penn State/K.Mori et al; When Titan passed in front of the
-X-ray bright Crab Nebula on January 5, 2003, it gave astronomers a rare
-opportunity to study i...
+credits> NASA/MIT/J.Arabadjis et al.
 
 wip: yes
 ---
@@ -1444,7 +1440,7 @@ wip: yes
 @scene
 place_uuid: 1321bb3d-da64-466b-b82f-1874fcdbc2b1
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-173L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2004/titan/
+outgoing_url: https://chandra.harvard.edu/photo/2001/0164/
 
 text> EMSS 1358+6245
 
@@ -1544,9 +1540,7 @@ url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-180L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
 
-credits> NASA/CXC/PSU/S.Park et al.; Chandra's image shows a striking, nearly
-perfect ring about 150 light years in diameter surrounding a cloud of gas rich
-in oxyge...
+credits> NASA/CXC/Rutgers/J.Hughes et al.
 
 wip: yes
 ---
@@ -1554,7 +1548,7 @@ wip: yes
 @scene
 place_uuid: ef2c9625-6fa5-457e-bcf3-428cc0ce53ab
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-180L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2003/snr0103/
+outgoing_url: https://chandra.harvard.edu/photo/2001/0112/
 
 text> G292.0+1.8
 
@@ -1610,9 +1604,7 @@ url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-185L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
 
-credits> NASA/CXC/Chuo U./Y.Tsuboi et al.; Chandra's observation of TWA 5
-distinguished the brown dwarf TWA 5B from TWA 5A. The X-rays from both the stars
-and the brown dw...
+credits> NASA/IoA/AC Fabian et al.
 
 wip: yes
 ---
@@ -1620,7 +1612,7 @@ wip: yes
 @scene
 place_uuid: 468a87fe-2e18-477f-8d52-dd1fffdf6d68
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-185L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2003/twa5b/
+outgoing_url: https://chandra.harvard.edu/photo/2000/0163/
 
 text> Abell 1795
 
@@ -1654,9 +1646,7 @@ url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-191L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
 
-credits> NASA/CXC/PSU/G.Pavlov et al.; The combined action of the intense
-magnetic field and fast rotation of the Vela pulsar has produced a jet of
-high-energy charged...
+credits> NASA/CXC/SAO/H.Marshall et al.
 
 wip: yes
 ---
@@ -1664,7 +1654,7 @@ wip: yes
 @scene
 place_uuid: b77e0959-130e-42a0-b3f0-5d9b3613ae47
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-191L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2003/vela_pulsar/
+outgoing_url: https://chandra.harvard.edu/photo/2000/0131/
 
 text> 3C273
 
@@ -1697,9 +1687,7 @@ url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-196L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
 
-credits> NASA/CXC/IoA/S.Allen et al.; Chandra's images of these three galaxy
-clusters are part of a study that used 26 Chandra images of galaxy clusters to
-study the ...
+credits> NASA/SAO/CXC/G.Fabbiano et al.
 
 wip: yes
 ---
@@ -1707,7 +1695,7 @@ wip: yes
 @scene
 place_uuid: f23b0623-98d7-41eb-959d-c4ab607f9ab6
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-196L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2004/darkenergy/
+outgoing_url: https://chandra.harvard.edu/photo/2000/0120/
 
 text> Antennae
 
@@ -2172,9 +2160,7 @@ url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-275L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
 
-credits> X-ray: NASA/CXC/INAF-Brera/G.Tri; In the upper left a Chandra X-ray
-Observatory image (blue) is superimposed on a Digitized Sky Survey optical image
-(yellow). The...
+credits> NASA/CXC/U.Manitoba/H.Matheson & S.Safi-Harb
 
 wip: yes
 ---
@@ -2182,7 +2168,7 @@ wip: yes
 @scene
 place_uuid: 52166b49-b533-4d84-844e-c450db6adc76
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-275L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2003/stephan/
+outgoing_url: https://chandra.harvard.edu/photo/2005/g21/
 
 text> G21.5-0.9
 
@@ -2301,9 +2287,7 @@ url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-290L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
 
-credits> NASA/CXC/PSU/D.M.Alexander, F.E.; Chandra's Deep Field North image is
-the most sensitive or "deepest" X-ray exposure ever made. The faintest sources
-produced only...
+credits> NASA/CXC/SAO
 
 wip: yes
 ---
@@ -2311,7 +2295,7 @@ wip: yes
 @scene
 place_uuid: a614e71c-49d3-4096-a8fc-b65c7ece2969
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-290L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2003/goods/
+outgoing_url: https://chandra.harvard.edu/photo/1999/0157/
 
 text> Centaurus A
 
@@ -2345,9 +2329,8 @@ url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-295L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
 
-credits> NASA/CXC/IoA/A.Fabian et al.; Chandra's 53-hour observation of the
-central region of the Perseus galaxy cluster (left) has revealed wavelike
-features (right) ...
+credits> X-ray: NASA/CXC/SAO; Optical: NASA/STScI; Infrared:
+NASA/JPL-Caltech/Steward/O.Krause et al.
 
 wip: yes
 ---
@@ -2355,7 +2338,7 @@ wip: yes
 @scene
 place_uuid: fef2bbbb-3d7b-4bb4-964e-d272cd4a0fb6
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-295L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2003/perseus/
+outgoing_url: https://chandra.harvard.edu/photo/2005/casa/
 
 text> Cassiopeia A
 
@@ -3159,9 +3142,8 @@ url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-368L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
 
-credits> X-ray: NASA/CXC/ASTRON/B.Stapper; This composite X-ray (red/white) and
-optical (green/blue) image reveals an elongated cloud, or cocoon, of high-energy
-particles ...
+credits> X-ray: NASA/CXC/UVic./A.Mahdavi et al. Optical/Lensing:
+CFHT/UVic./A.Mahdavi et al.
 
 wip: yes
 ---
@@ -3169,7 +3151,7 @@ wip: yes
 @scene
 place_uuid: c908555f-75f1-4edf-94cf-816674a46163
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-368L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2003/b1957/
+outgoing_url: https://chandra.harvard.edu/photo/2007/a520/
 
 text> Abell 520
 
@@ -3225,9 +3207,8 @@ url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-371L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
 
-credits> NASA/CXC/U.Leicester/U.London/R.; Chandra's image of M83 shows numerous
-point-like neutron star and black hole X-ray sources scattered throughout the
-disk of the ...
+credits> X-ray: NASA/CXC/MSU/M.Sun et al; H-alpha/Optical: SOAR
+(MSU/NOAO/UNC/CNPq-Brazil)/M.Sun et al.
 
 wip: yes
 ---
@@ -3235,7 +3216,7 @@ wip: yes
 @scene
 place_uuid: d2ed6653-bd64-4a55-8b77-fe37fd941b59
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-371L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2003/1154/
+outgoing_url: https://chandra.harvard.edu/photo/2007/a3627/
 
 text> ESO 137-001
 
@@ -3313,9 +3294,8 @@ url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-381L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
 
-credits> NASA/SAO/CXC/G.Fabbiano et al.; Chandra's image of the central regions
-of The Antennae where intense star formation is occurring, shows dozens of
-bright point-l...
+credits> X-ray: NASA/CXC/CfA/D.Evans et al.; Optical/UV: NASA/STScI; Radio:
+NSF/VLA/CfA/D.Evans et al., STFC/JBO/MERLIN
 
 wip: yes
 ---
@@ -3323,7 +3303,7 @@ wip: yes
 @scene
 place_uuid: d073a5ac-e8dd-4b26-8770-973a963c28c4
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-381L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2001/0120true/
+outgoing_url: https://chandra.harvard.edu/photo/2007/3c321/
 
 text> 3C321
 
@@ -3335,9 +3315,7 @@ url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-382L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
 
-credits> NASA/CXC/SAO/G.Fabbiano et al.; This montage of Chandra images shows
-X-ray views of The Antennae (top), and a closeup of the system's central region
-(lower left...
+credits> NASA/CXC/CfA/R.Kraft et al.
 
 wip: yes
 ---
@@ -3345,7 +3323,7 @@ wip: yes
 @scene
 place_uuid: d8afc6a9-7a26-41df-9821-eaed5bc25b01
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-382L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2004/antennae/
+outgoing_url: https://chandra.harvard.edu/photo/2008/cena/
 
 text> Centaurus A
 
@@ -6685,9 +6663,8 @@ url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-586L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
 
-credits> NASA/CXC/IoA/A.Fabian et al.; Chandra's images of two distant massive
-galaxies show that they are enveloped by vast clouds of high-energy particles
-that are e...
+credits> X-ray: NASA/CXC/INAF/P.Tozzi, et al; Optical: NAOJ/Subaru and ESO/VLT;
+Infrared : ESA/Herschel
 
 wip: yes
 ---
