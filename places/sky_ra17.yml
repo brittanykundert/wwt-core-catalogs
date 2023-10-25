@@ -1514,6 +1514,7 @@ _uuid: b8aa745a-f65b-4948-b3c1-4965d00a6012
 angular_size: 1.0
 classification: Galaxy
 constellation: DRA
+cxstatus: in:65394897b493728d11b82eb6
 data_set_type: Sky
 dec_deg: 66.6330566406
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000100{Q}?g=131
@@ -1642,17 +1643,6 @@ name: Faint White Dwarf Star in Globular Cluster NGC 6397
 ra_hr: 17.6836111111111
 zoom_level: 1.0
 ---
-_uuid: 12725b30-ea96-4cad-b58c-2bacbfa21506
-angular_size: 1.0
-classification: SupernovaRemnant
-constellation: OPH
-data_set_type: Sky
-dec_deg: -21.4908333333333
-foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000032{Q}?g=131
-name: Kepler's Supernova Remnant
-ra_hr: 17.5113888888889
-zoom_level: 1.40666666666667
----
 _uuid: abc4969d-1de6-420e-8c58-0c3574c205e3
 angular_size: 1.0
 classification: GlobularCluster
@@ -1773,17 +1763,6 @@ name: Galactic Center
 ra_hr: 17.7558187733333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-109.jpg
 zoom_level: 6.81374154752
----
-_uuid: 4f55b37d-d238-45e3-9930-2b3c06ead22e
-classification: ''
-constellation: DRA
-data_set_type: Sky
-dec_deg: 66.323736
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-145L{1}X{2}Y{3}.png
-name: NGC 6543
-ra_hr: 17.9756985933333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-145.jpg
-zoom_level: 0.0703968945144526
 ---
 _uuid: 82593ac2-a1aa-4de3-af26-61c20103bfaa
 classification: ''
@@ -3335,17 +3314,6 @@ name: Infrared Panoramic image of the Galactic center
 ra_hr: 17.7772222222222
 zoom_level: 45.4066666666667
 ---
-_uuid: 40515e1f-7ac3-4db4-ab5c-98729f15bbd4
-angular_size: 1.0
-classification: PlanetaryNebula
-constellation: DRA
-data_set_type: Sky
-dec_deg: 66.6319444444444
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},189400275
-name: 'NGC 6543 in XRay: The Cat''s Eye Nebula Redux;Cat''s Eye Nebula'
-ra_hr: 17.9761111111111
-zoom_level: 0.703333333333333
----
 _uuid: 9afdf5af-e2eb-488b-8700-702f74554bbc
 angular_size: 1.0
 classification: Unfiltered
@@ -3411,17 +3379,6 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Kepler's Supernova Remnant (Higher Energy XRay)
 ra_hr: 17.5113888888889
 zoom_level: 1.40666666666667
----
-_uuid: 3663a1d0-a614-4ac3-b323-f9e00e79a88d
-angular_size: 1.0
-classification: PlanetaryNebula
-constellation: DRA
-data_set_type: Sky
-dec_deg: 66.6319444444444
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},962869576
-name: 'NGC 6543: The Cat''s Eye Nebula Redux;Cat''s Eye Nebula'
-ra_hr: 17.9761111111111
-zoom_level: 0.703333333333333
 ---
 _uuid: 130cb5b5-815a-4ade-b399-c0c7a125b505
 angular_size: -1.0

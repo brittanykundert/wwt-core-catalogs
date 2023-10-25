@@ -1214,17 +1214,6 @@ ra_hr: 0.2384117359168401
 thumbnail: http://data1.wwtassets.org/packages/2023/02_jwst/weic2305a/thumb.jpg
 zoom_level: 0.7604968878638656
 ---
-_uuid: 4af053ed-2f9d-496d-a288-483e57d8d6d6
-angular_size: 1.0
-classification: Galaxy
-constellation: SCL
-data_set_type: Sky
-dec_deg: -33.7183380127
-foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000110{Q}?g=131
-name: Cartwheel Galaxy
-ra_hr: 0.627120526632
-zoom_level: 1.0
----
 _uuid: a6b15f59-9aad-4c91-9744-388a05f9b48b
 angular_size: 1.0
 classification: Nebula
@@ -3275,17 +3264,6 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Andromeda Galaxy;M31;Messier 31;NGC 206;M32;M110
 ra_hr: 0.708333333333333
 zoom_level: 33.3083333333333
----
-_uuid: a8b9b589-3acc-40fc-91b5-0040eb1e048b
-angular_size: 1.0
-classification: ClusterOfGalaxies
-constellation: CET
-data_set_type: Sky
-dec_deg: -12.3813888888889
-foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1872640162
-name: MACS J0025.4-1222 :A Clash of Clusters Provides Another Clue to Dark Matter
-ra_hr: 0.425277777777778
-zoom_level: 1.40666666666667
 ---
 _uuid: 53228f53-c23d-4125-b997-a09ccaf09317
 classification: Nebula

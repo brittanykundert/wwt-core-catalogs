@@ -2274,17 +2274,6 @@ name: Big Picture
 ra_hr: 12.390277777777778
 zoom_level: 35.0
 ---
-_uuid: de5f0b63-310b-429b-bd46-0876bb4a5a2d
-angular_size: 1.0
-classification: Galaxy
-constellation: VIR
-data_set_type: Sky
-dec_deg: 12.3635101318
-foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000122{Q}?g=131
-name: M87
-ra_hr: 12.5131642659333
-zoom_level: 1.0
----
 _uuid: f422c442-4330-41b9-98dc-1501be0b9e1a
 angular_size: 1.0
 classification: Galaxy
@@ -2395,17 +2384,6 @@ dec_deg: 56.87425
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000013202{Q}?g=182
 name: UGC 8058;Mrk 0231;VII Zw 490;QSO B1254+571
 ra_hr: 12.9372111111111
-zoom_level: 1.0
----
-_uuid: cc579b36-0f97-490e-9cca-f9c0e0800bd1
-angular_size: 1.0
-classification: Galaxy
-constellation: VIR
-data_set_type: Sky
-dec_deg: -11.6441220093
-foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000023{Q}?g=131
-name: M104;Sombrero Galaxy;NGC 4594
-ra_hr: 12.6657756444
 zoom_level: 1.0
 ---
 _uuid: bd12d7c0-0aa4-4723-ace2-85834101cf32

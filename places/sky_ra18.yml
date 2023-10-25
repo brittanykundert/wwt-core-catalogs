@@ -1740,17 +1740,6 @@ ra_hr: 18.89309503965818
 thumbnail: http://data1.wwtassets.org/packages/2023/08_jwst/weic2320c/thumb.jpg
 zoom_level: 0.31955296204472305
 ---
-_uuid: d5498cfc-b36b-4cf7-8a59-a72c18c257cc
-angular_size: 1.0
-classification: Galaxy
-constellation: SER2
-data_set_type: Sky
-dec_deg: -13.8412151337
-foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000120{Q}?g=131
-name: Eagle Nebula;M16
-ra_hr: 18.3145568847333
-zoom_level: 1.0
----
 _uuid: 08bd7904-6e8e-44f4-9a5a-61cc621ef0cf
 angular_size: 1.0
 classification: Nebula
@@ -1822,6 +1811,7 @@ _uuid: 13972c95-4daf-4052-9447-a50995b235cc
 angular_size: 1.0
 classification: Galaxy
 constellation: SER2
+cxstatus: in:65394899b493728d11b82eba
 data_set_type: Sky
 dec_deg: -13.8412151337
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000001{Q}?g=131
@@ -1938,17 +1928,6 @@ dec_deg: -57.7252777777778
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012102{Q}?g=182
 name: IC 4687/6;IC 4689;AM 1809-574
 ra_hr: 18.2277722222222
-zoom_level: 1.0
----
-_uuid: 11018fb6-cfde-417f-9c2c-0d6cea477457
-angular_size: 1.0
-classification: Galaxy
-constellation: AQL
-data_set_type: Sky
-dec_deg: -2.97508049011
-foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000013{Q}?g=131
-name: Kes 75
-ra_hr: 18.7736022949333
 zoom_level: 1.0
 ---
 _uuid: c7042016-b722-42a7-a116-0d340361e2f3
