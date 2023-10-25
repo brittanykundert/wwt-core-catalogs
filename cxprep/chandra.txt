@@ -7372,16 +7372,6 @@ wip: yes
 ---
 
 @scene
-place_uuid: 67a7a0b4-536b-48bb-9837-3390409c9fb9
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-613L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2015/ic443/
-
-text> IC 443
-
-wip: yes
----
-
-@scene
 place_uuid: 8c64db13-6bc4-4ce4-ace9-88d1c47c99c8
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-613L{1}X{2}Y{3}.png
 outgoing_url: https://chandra.harvard.edu/photo/2015/ic443/
