@@ -175,34 +175,6 @@
   </ImageSet>
   <ImageSet
     BandPass="XRay"
-    BaseDegreesPerTile="0.0708315875409871"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="274.718353271"
-    CenterY="-13.8412151337"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Eagle Nebula;M16"
-    OffsetX="-0.00155635812467989"
-    OffsetY="0.0124249256953611"
-    Projection="Tan"
-    QuadTreeMap="0123"
-    Rotation="-42.6346704418859"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="4"
-    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000120{Q}?g=131"
-    WidthFactor="2"
-    Xcxstatus="queue:chandra"
-  >
-    <Credits>X-ray: NASA/CXC/U.Colorado/Linsky et al.; Optical: NASA/ESA/STScI/ASU/J.Hester &amp; P.Scowen.</Credits>
-    <CreditsUrl>https://chandra.harvard.edu/photo/2007/m16/</CreditsUrl>
-    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=3986985799</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="XRay"
     BaseDegreesPerTile="0.0489171879226544"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -306,7 +278,7 @@
     Xcxstatus="queue:chandra"
   >
     <Credits>NASA/CXC/U.Colorado/Linsky et al.</Credits>
-    <CreditsUrl>https://chandra.harvard.edu/m16_xray.tif</CreditsUrl>
+    <CreditsUrl>https://chandra.harvard.edu/photo/2007/m16/more.html#img1</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1059454164</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -584,34 +556,6 @@
     <Credits>X-ray: NASA/CXC/SAO/UMass/D.Wang et al, Optical: NASA/STScI/U.Alabama/W.Keel, Radio: NRAO/ F.Owen, Optical (OII): Gemini Obs./M.Ledlow</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2004/c153/</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1615982165</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="XRay"
-    BaseDegreesPerTile="0.18369295877079"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="350.91843664599"
-    CenterY="58.840324072004"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Cassiopeia A; Cas A"
-    OffsetX="0.0241675757808766"
-    OffsetY="-0.0243501915966375"
-    Projection="Tan"
-    QuadTreeMap="0123"
-    Rotation="0"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="4"
-    Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000022{Q}?g=131"
-    WidthFactor="2"
-    Xcxstatus="queue:chandra"
-  >
-    <Credits>NASA/CXC/SAO</Credits>
-    <CreditsUrl>https://chandra.harvard.edu/photo/2002/0237/</CreditsUrl>
-    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=2082909000</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="XRay"

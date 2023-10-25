@@ -46541,8 +46541,8 @@ powers the dramatic activity seen by...</Credits>
     WidthFactor="1"
     Xcxstatus="queue:chandra"
   >
-    <Credits>NASA/CXC/STScI/U.North Carolina/; Chandra's X-ray image (blue) combined with Hubble's optical image (red and green) reveal towering filaments of warm (about ten t...</Credits>
-    <CreditsUrl>https://chandra.harvard.edu/photo/2003/ngc3079/</CreditsUrl>
+    <Credits>X-ray: NASA/CXC/SAO/D.Patnaude et al, Optical: ESO/VLT, Infrared: NASA/JPL/Caltech</Credits>
+    <CreditsUrl>https://chandra.harvard.edu/photo/2010/sn1979c/</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-467.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -49318,7 +49318,7 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     ElevationModel="False"
     FileType=".png"
     Generic="False"
-    Name="Chandra 2003/0203long"
+    Name="Chandra 2015/iyl"
     Projection="Tan"
     QuadTreeMap=""
     Rotation="-2.68"
@@ -49329,8 +49329,8 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     WidthFactor="1"
     Xcxstatus="queue:chandra"
   >
-    <Credits>NASA/CXC/MIT/F.K.Baganoff et al.; This Chandra image of Sgr A* and the surrounding region was made from a 164 hours of observation time over a two-week period. Du...</Credits>
-    <CreditsUrl>https://chandra.harvard.edu/photo/2003/0203long/</CreditsUrl>
+    <Credits>X-ray: NASA/CXC/SAO; UV: NASA/JPL-Caltech; Optical: NASA/STScI; IR: NASA/JPL-Caltech</Credits>
+    <CreditsUrl>https://chandra.harvard.edu/photo/2015/iyl/</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-587e.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
