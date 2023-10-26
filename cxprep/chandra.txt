@@ -1,27 +1,5 @@
 
 @image
-url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-102L{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-
-credits> X-ray: NASA/CXC/SAO/C. Jones, W.; This composite X-ray (blue)/optical
-(orange) image of M86 shows gas being swept out of the galaxy to form a long
-tail more than ...
-
-wip: yes
----
-
-@scene
-place_uuid: d893621a-1361-4786-99b0-fe5e444c4892
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-102L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2003/m86/
-
-text> M86
-
-wip: yes
----
-
-@image
 url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-103L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
