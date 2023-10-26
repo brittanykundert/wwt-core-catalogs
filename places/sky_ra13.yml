@@ -1790,6 +1790,7 @@ zoom_level: 0.15615272671294847
 _uuid: 584e8946-52a6-470f-b2b8-253b780b4823
 classification: ''
 constellation: VIR
+cxstatus: in:653a6c88dba86d239b27cdd9
 data_set_type: Sky
 dec_deg: -21.033828661215537
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/06_jwst/potm2305a/{1}/{3}/{3}_{2}.png
@@ -1801,6 +1802,7 @@ zoom_level: 0.3652276312503283
 _uuid: fe5984ef-cf8d-4701-a33c-8899bc8f318a
 classification: ''
 constellation: VIR
+cxstatus: in:653a6c89dba86d239b27cddb
 data_set_type: Sky
 dec_deg: -21.034058279052854
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/06_jwst/potm2305d/{1}/{3}/{3}_{2}.png
@@ -1812,6 +1814,7 @@ zoom_level: 0.36534649151784937
 _uuid: c60a8511-a8cd-490d-94dc-168b0b35ef14
 classification: ''
 constellation: VIR
+cxstatus: in:653a6c8adba86d239b27cddd
 data_set_type: Sky
 dec_deg: -21.034058279052854
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/06_jwst/potm2305e/{1}/{3}/{3}_{2}.png
