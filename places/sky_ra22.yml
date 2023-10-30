@@ -864,6 +864,7 @@ _uuid: 7e7cde59-3d37-4d66-8ba5-3ac8df60bf47
 angular_size: 1.0
 classification: SupernovaRemnant
 constellation: CEP
+cxstatus: in:653fc3e4dba86d239b27d590
 data_set_type: Sky
 dec_deg: 60.1980555555556
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011030{Q}?g=131
@@ -875,6 +876,7 @@ _uuid: 880bb468-9725-4d77-9879-954fee4e4803
 angular_size: 1.0
 classification: GiantMolecularCloud
 constellation: CEP
+cxstatus: in:653fc3e6dba86d239b27d594
 data_set_type: Sky
 dec_deg: 63.2958333333333
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000120300{Q}?g=182
