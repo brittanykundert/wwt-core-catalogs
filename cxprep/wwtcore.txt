@@ -3,6 +3,7 @@
 url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000220{Q}?g=131
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap
 
 credits> Courtesy WMAP Science Team
 
@@ -13,6 +14,7 @@ wip: yes
 url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000320{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=rosat
 
 credits> We have made use of the ROSAT Data Archive of the Max-Planck-Institut
 fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data
@@ -25,6 +27,7 @@ wip: yes
 url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000330{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=batsig
 
 credits> NASA BAT Team. TOASTing of images done by NASA's SkyView Virtual
 Telescope (BATSig, Min=1, Max=10).
@@ -36,6 +39,7 @@ wip: yes
 url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001000{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=iris25
 
 credits> Original IRAS data: NASA/JPL IPAC, IRIS Reprocessing: Canadian
 Institute for Theoretical Astrophysics/Institut d'Astrophysique Spatiale.
@@ -49,6 +53,7 @@ wip: yes
 url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001010{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=cobe
 
 credits> COBE Team. TOAST-formatted data was obtained from NASA's SkyView
 Virtual Telescope (COBEZSMA, Min=10, Max=5000).
@@ -60,6 +65,7 @@ wip: yes
 url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001020{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=euvebw_jbis_map
 
 credits> Center for Extreme UV Astronomy, University of California at Berkeley.
 TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope
@@ -72,6 +78,7 @@ wip: yes
 url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001030{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=most4sumss
 
 credits> The SUMSS project team and 1997-2000 School of Physics, University of
 Sydney. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope
@@ -84,6 +91,7 @@ wip: yes
 url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000001100{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=granatsigmaflux
 
 credits> Original data: High Energy Astrophysics Department, Space Research
 Institute, Moscow, Russia; CEA, Centre d'Etudes de Saclay Orme des Merisiers,
@@ -99,6 +107,7 @@ wip: yes
 url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000002000{Q}?g=182
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=fermilogo
 
 credits> NASA and the FERMI-LAT Team. Survey announced 26 AUgust 2008.
 
@@ -109,6 +118,7 @@ wip: yes
 url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000003210{Q}?g=209
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=galexnear
 
 credits> Space Telescope Science Institute. The GALEX, Galaxy Explorer,
 instrument allows imaging and spectroscopic observations to be made in two
@@ -123,6 +133,7 @@ wip: yes
 url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000221{Q}?g=131
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap
 
 credits> Courtesy WMAP Science Team
 
@@ -133,6 +144,7 @@ wip: yes
 url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000231{Q}?g=131
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=egretmap
 
 credits> EGRET Instrument team, NASA Goddard Space Flight Center.
 TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope
@@ -145,6 +157,7 @@ wip: yes
 url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000321{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=rosathard
 
 credits> We have made use of the ROSAT Data Archive of the Max-Planck-Institut
 fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data
@@ -157,6 +170,7 @@ wip: yes
 url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000000331{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=batflux
 
 credits> NASA BAT Team. TOASTing of images done by NASA's SkyView Virtual
 Telescope (BATFlux, Min=1e-5, Max=1e-3).
@@ -168,6 +182,7 @@ wip: yes
 url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001001{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=iris60
 
 credits> Original IRAS data: NASA/JPL IPAC, IRIS Reprocessing: Canadian
 Institute for Theoretical Astrophysics/Institut d'Astrophysique Spatiale.
@@ -181,6 +196,7 @@ wip: yes
 url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001011{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=cobe
 
 credits> COBE Team. TOAST-formatted data was obtained from NASA's SkyView
 Virtual Telescope (COBEAAM, Min=10, Max=5000).
@@ -192,6 +208,7 @@ wip: yes
 url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001021{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=comptel
 
 credits> CompTel Instrument Team. Maps generated by Andrew Strong, Max-Planck
 Institute for Extraterrestrial Physics, Garching, Germany. TOAST-formatted data
@@ -205,6 +222,7 @@ wip: yes
 url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001031{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wsrt
 
 credits> WENSS Team. The WENSS project is a collaboration between the
 Netherlands Foundation for Research in Astronomy (NFRA/ASTRON) and the Leiden
@@ -221,6 +239,7 @@ wip: yes
 url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000001131{Q}?g=182
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=euve_jbis_map
 
 credits> Data from Center for Extreme UV Astronomy, University of California at
 Berkeley. TOAST-formatted data was obtained from NASA's SkyView Virtual
@@ -234,6 +253,7 @@ wip: yes
 url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wts0000003211{Q}?g=209
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=galexfar
 
 credits> Space Telescope Science Institute. The GALEX, Galaxy Explorer,
 instrument allows imaging and spectroscopic observations to be made in two
@@ -248,6 +268,7 @@ wip: yes
 url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000112{Q}?g=131
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap
 
 credits> Courtesy WMAP Science Team
 
@@ -258,6 +279,7 @@ wip: yes
 url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000212{Q}?g=131
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap
 
 credits> Courtesy WMAP Science Team
 
@@ -268,6 +290,7 @@ wip: yes
 url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000222{Q}?g=131
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap
 
 credits> Courtesy WMAP Science Team
 
@@ -278,6 +301,7 @@ wip: yes
 url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000302{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1420mhz
 
 credits> Max Planck Institute for Radio Astronomy, generated by Glyn Haslam
 using data taken at Jodrell Bank, Effelsberg and Parkes telescopes.
@@ -291,6 +315,7 @@ wip: yes
 url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000322{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=rosathard
 
 credits> We have made use of the ROSAT Data Archive of the Max-Planck-Institut
 fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data
@@ -303,6 +328,7 @@ wip: yes
 url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000000332{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=sfddust
 
 credits> Data provided by two NASA satellites, the Infrared Astronomy Satellite
 (IRAS) and the Cosmic Background Explorer (COBE). Processing by David J.
@@ -317,6 +343,7 @@ wip: yes
 url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001002{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=iris100
 
 credits> Original IRAS data: NASA/JPL IPAC, IRIS Reprocessing: Canadian
 Institute for Theoretical Astrophysics/Institut d'Astrophysique Spatiale.
@@ -330,6 +357,7 @@ wip: yes
 url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001012{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=euvebw_jbis_map
 
 credits> Center for Extreme UV Astronomy, University of California at Berkeley.
 TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope
@@ -342,6 +370,7 @@ wip: yes
 url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001022{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=vlafirst
 
 credits> The FIRST project team: R.J. Becker, D.H. Helfand, R.L. White M.D.
 Gregg. S.A. Laurent-Muehleisen. 1994, University of California.
@@ -353,6 +382,7 @@ wip: yes
 url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001032{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=granatsigmasig
 
 credits> Original data: High Energy Astrophysics Department, Space Research
 Institute, Moscow, Russia; CEA, Centre d'Etudes de Saclay Orme des Merisiers,
@@ -368,6 +398,7 @@ wip: yes
 url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000001102{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1420mhz
 
 credits> Max Planck Institute for Radio Astronomy, generated by Patricia Reich
 and Wolfgang Reich using with the Bonn Stockert 25m telescope. TOAST-formatted
@@ -381,6 +412,7 @@ wip: yes
 url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wts0000003212{Q}?g=209
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=galexboth
 
 credits> Space Telescope Science Institute. The GALEX, Galaxy Explorer,
 instrument allows imaging and spectroscopic observations to be made in two
@@ -395,6 +427,7 @@ wip: yes
 url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000003{Q}?g=131
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=euvebw_jbis_map
 
 credits> Center for Extreme UV Astronomy, University of California at Berkeley.
 TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (euve83,
@@ -407,6 +440,7 @@ wip: yes
 url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000203{Q}?g=131
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=egretmap
 
 credits> EGRET Instrument team, NASA Goddard Space Flight Center.
 TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope
@@ -419,6 +453,7 @@ wip: yes
 url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000213{Q}?g=131
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap
 
 credits> Courtesy WMAP Science Team
 
@@ -429,6 +464,7 @@ wip: yes
 url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000233{Q}?g=131
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap
 
 credits> Courtesy WMAP Science Team
 
@@ -439,6 +475,7 @@ wip: yes
 url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000313{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=rosat
 
 credits> We have made use of the ROSAT Data Archive of the Max-Planck-Institut
 fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data
@@ -451,6 +488,7 @@ wip: yes
 url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000323{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=rosatpspc2int
 
 credits> Observational data from NASA Goddard Space Flight Center, mosaicking
 and TOASTing of images done by NASA's SkyView Virtual Telescope (PSPC2int,
@@ -463,6 +501,7 @@ wip: yes
 url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000000333{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=iris12
 
 credits> Original IRAS data: NASA/JPL IPAC, IRIS Reprocessing: Canadian
 Institute for Theoretical Astrophysics/Institut d'Astrophysique Spatiale.
@@ -476,6 +515,7 @@ wip: yes
 url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001003{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=cobe
 
 credits> COBE Team. TOAST-formatted data was obtained from NASA's SkyView
 Virtual Telescope (COBE, Min=10, Max=5000).
@@ -487,6 +527,7 @@ wip: yes
 url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001013{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=euvebw_jbis_map
 
 credits> Center for Extreme UV Astronomy, University of California at Berkeley.
 TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope
@@ -499,6 +540,7 @@ wip: yes
 url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001033{Q}?g=138
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap
 
 credits> Courtesy WMAP Science Team
 
@@ -509,6 +551,7 @@ wip: yes
 url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wts0000001133{Q}?g=182
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=rosat
 
 credits> We have made use of the ROSAT Data Archive of the Max-Planck-Institut
 fur extraterrestrische Physik (MPE) at Garching, Germany. TOAST-formatted data
@@ -521,6 +564,7 @@ wip: yes
 url: http://wwtfiles.blob.core.windows.net/plnk/planck4channelL{1}X{2}Y{3}.png
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://wwtfiles.blob.core.windows.net/plnk/planck4channel_thumb.jpg
 
 credits>
 
@@ -531,6 +575,7 @@ wip: yes
 url: http://wwtfiles.blob.core.windows.net/plnk/planckcoL{1}X{2}Y{3}.png
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://wwtfiles.blob.core.windows.net/plnk/planckco_thumb.jpg
 
 credits>
 
@@ -541,6 +586,7 @@ wip: yes
 url: http://wwtfiles.blob.core.windows.net/plnk/planckfreefreeL{1}X{2}Y{3}.png
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://wwtfiles.blob.core.windows.net/plnk/planckfreefree_thumb.jpg
 
 credits>
 
@@ -551,6 +597,7 @@ wip: yes
 url: http://wwtfiles.blob.core.windows.net/plnk/planckmassmapL{1}X{2}Y{3}.png
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://wwtfiles.blob.core.windows.net/plnk/planckmassmap_thumb.jpg
 
 credits>
 
@@ -561,6 +608,7 @@ wip: yes
 url: http://wwtfiles.blob.core.windows.net/plnk/planckspinningdustL{1}X{2}Y{3}.png
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://wwtfiles.blob.core.windows.net/plnk/planckspinningdust_thumb.jpg
 
 credits>
 
@@ -571,6 +619,7 @@ wip: yes
 url: http://wwtfiles.blob.core.windows.net/plnk/plancksynchrotronL{1}X{2}Y{3}.png
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://wwtfiles.blob.core.windows.net/plnk/plancksynchrotron_thumb.jpg
 
 credits>
 
@@ -581,6 +630,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/galex4far.aspx?q={1},{2},{3}
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=galexfar
 
 credits> This is the Far UV band(1350-1780A) of the GALEX GR4 data release
 archived at MAST/STScI. TOAST-formatted mosaics were obtained using facilities
@@ -593,6 +643,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/galex4near.aspx?q={1},{2},{3}
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=galexnear
 
 credits> This is the Near UV band (1770-2730A) of the GALEX GR4 data release
 archived at MAST/STScI. TOAST-formatted mosaics were obtained using facilities
@@ -605,6 +656,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},FermiYearThree
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=FermiYearThree
 
 credits> NASA and the FERMI-LAT Team.
 
@@ -615,6 +667,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},FermiYearTwo
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=FermiYearTwo
 
 credits> NASA and the FERMI-LAT Team.
 
@@ -625,6 +678,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_23GHz_K_200uK
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap5yr_23ghz_k_200uk
 
 credits> Courtesy WMAP Science Team
 
@@ -635,6 +689,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_23GHz_K_nonlin
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap5yr_23ghz_k_nonlin
 
 credits> Courtesy WMAP Science Team
 
@@ -645,6 +700,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_33GHz_Ka_200uK
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap5yr_33ghz_ka_200uk
 
 credits> Courtesy WMAP Science Team
 
@@ -655,6 +711,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_33GHz_Ka_nonlin
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap5yr_33ghz_ka_nonlin
 
 credits> Courtesy WMAP Science Team
 
@@ -665,6 +722,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_41GHz_Q_200uK
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap5yr_41ghz_q_200uk
 
 credits> Courtesy WMAP Science Team
 
@@ -675,6 +733,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_41GHz_Q_nonlin
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap5yr_41ghz_q_nonlin
 
 credits> Courtesy WMAP Science Team
 
@@ -685,6 +744,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_61GHz_V_200uK
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap5yr_61ghz_v_200uk
 
 credits> Courtesy WMAP Science Team
 
@@ -695,6 +755,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_61GHz_V_nonlin
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap5yr_61ghz_v_nonlin
 
 credits> Courtesy WMAP Science Team
 
@@ -705,6 +766,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_94GHz_W_200uK
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap5yr_94ghz_w_200uk
 
 credits> Courtesy WMAP Science Team
 
@@ -715,6 +777,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_94GHz_W_nonlin
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap5yr_94ghz_w_nonlin
 
 credits> Courtesy WMAP Science Team
 
@@ -725,6 +788,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_K_50uK
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap5yr_polmap_k_50uk
 
 credits> Courtesy WMAP Science Team
 
@@ -735,6 +799,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_Ka_35uK
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap5yr_polmap_ka_35uk
 
 credits> Courtesy WMAP Science Team
 
@@ -745,6 +810,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_Q_35uK
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap5yr_polmap_q_35uk
 
 credits> Courtesy WMAP Science Team
 
@@ -755,6 +821,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_V_35uK
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap5yr_polmap_v_35uk
 
 credits> Courtesy WMAP Science Team
 
@@ -765,6 +832,7 @@ wip: yes
 url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},wmap5yr_polmap_W_35uK
 copyright: ~~COPYRIGHT~~
 license_id: ~~LICENSE~~
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=wmap5yr_polmap_w_35uk
 
 credits> Courtesy WMAP Science Team
 

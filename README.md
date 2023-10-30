@@ -222,7 +222,7 @@ After running it, you should see any new records appended to the appropriate
 `cxprep/<handle>.txt` text file, with `wip: yes` flags indicating that they
 still need review.
 
-### `cattool register-cxprep`
+### `cattool [--dry-run] register-cxprep`
 
 This command scans the Constellations "prep" files in the `cxprep/` subdirectory
 and registers any images or scenes that have been marked as ready to ingest.
@@ -232,6 +232,11 @@ database is updated to log the Constellations IDs of the new assets.
 It is very important that after this step is run, a pull request is filed
 containing the database updates. Otherwise, we could end up with redundant
 Constellations records for the different items, and people will duplicate work.
+
+In `--dry-run` mode, everything is done except for the actual registrations, and
+the `cxprep/` files are not rewritten. If anything was fake-registered, *you
+must make sure to throw away the changes* in `imagesets/` and `places/` since
+they will contain fake IDs!
 
 In order to actually do the registration, you will need to have a Constellations
 login with the appropriate permissions on the handles to be modified. In order

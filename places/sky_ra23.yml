@@ -715,6 +715,7 @@ _uuid: 77b6dc6d-a869-4854-8fcb-a68dfc76eccd
 angular_size: 1.0
 classification: Galaxy
 constellation: SCL
+cxstatus: in:653fc3e5dba86d239b27d592
 data_set_type: Sky
 dec_deg: -26.0833333333333
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000120210{Q}?g=182
@@ -792,6 +793,7 @@ _uuid: 6477ecbf-c198-4c92-b915-91dc6c7ea66a
 angular_size: 1.0
 classification: Galaxy
 constellation: CAS
+cxstatus: in:653fc3e7dba86d239b27d596
 data_set_type: Sky
 dec_deg: 58.8202777777778
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000121001{Q}?g=182
@@ -814,6 +816,7 @@ _uuid: 910dd30a-cc42-4ce5-8313-17536520ff87
 angular_size: 1.0
 classification: Galaxy
 constellation: CAS
+cxstatus: in:653fc3e8dba86d239b27d598
 data_set_type: Sky
 dec_deg: 58.8205555555556
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000120332{Q}?g=182
@@ -825,6 +828,7 @@ _uuid: 4a1535e0-cbed-429b-901c-a46c1f6e5e40
 angular_size: 1.0
 classification: Galaxy
 constellation: CAS
+cxstatus: in:653fc3e8dba86d239b27d59a
 data_set_type: Sky
 dec_deg: 58.8202777777778
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000121002{Q}?g=182
@@ -880,6 +884,7 @@ _uuid: 3929b087-625f-4a9b-8f94-31a20d41fcf9
 angular_size: 1.0
 classification: Galaxy
 constellation: CAS
+cxstatus: in:653fc3e9dba86d239b27d59c
 data_set_type: Sky
 dec_deg: 58.8202777777778
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000121003{Q}?g=182

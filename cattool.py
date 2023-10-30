@@ -557,7 +557,7 @@ def _retry(operation):
             time.sleep(0.5)
 
 
-def _register_image(client: HandleClient, fields, imgset) -> str:
+def _register_image(client: HandleClient, fields, imgset, dry_run: bool = False) -> str:
     "Returns the new image ID"
 
     if imgset.band_pass != Bandpass.VISIBLE:
@@ -594,21 +594,26 @@ def _register_image(client: HandleClient, fields, imgset) -> str:
     license_id = fields["license_id"]
     alt_text = fields.get("description")
 
-    print("registering image:", imgset.url, "...", end=" ")
-    id = _retry(
-        lambda: client.add_image_from_set(
-            imgset,
-            copyright,
-            license_id,
-            credits=credits,
-            alt_text=alt_text,
+    if dry_run:
+        print("*not* registering image:", imgset.url, "=>", end=" ")
+        id = "<fakeimageid>"
+    else:
+        print("registering image:", imgset.url, "=>", end=" ")
+        id = _retry(
+            lambda: client.add_image_from_set(
+                imgset,
+                copyright,
+                license_id,
+                credits=credits,
+                alt_text=alt_text,
+            )
         )
-    )
+
     print(id)
     return id
 
 
-def _register_scene(client, fields, place, imgid) -> str:
+def _register_scene(client, fields, place, imgid, dry_run: bool = False) -> str:
     "Returns the new scene ID"
 
     image_layers = [SceneImageLayer(image_id=imgid, opacity=1.0)]
@@ -630,8 +635,13 @@ def _register_scene(client, fields, place, imgid) -> str:
         outgoing_url=fields["outgoing_url"],
     )
 
-    print("registering place/scene:", fields["place_uuid"], "...", end=" ")
-    id = _retry(lambda: client.add_scene(req))
+    if dry_run:
+        print("*not* registering place/scene:", fields["place_uuid"], "=>", end=" ")
+        id = "<fakesceneid>"
+    else:
+        print("registering place/scene:", fields["place_uuid"], "=>", end=" ")
+        id = _retry(lambda: client.add_scene(req))
+
     print(id)
     return id
 
@@ -778,6 +788,8 @@ class ConstellationsPrepDatabase(object):
                 fields["url"] = url
                 fields["copyright"] = "~~COPYRIGHT~~"
                 fields["license_id"] = "~~LICENSE~~"
+                if imgset.thumbnail_url:
+                    fields["thumbnail"] = imgset.thumbnail_url
                 fields["credits"] = imgset.credits
                 fields["wip"] = "yes"
                 items.append(("image", fields))
@@ -794,6 +806,10 @@ class ConstellationsPrepDatabase(object):
                     fields["outgoing_url"] = imgset.credits_url
 
                     pinfo = pdb.by_uuid[pid]
+
+                    if pinfo.get("thumbnail"):
+                        fields["thumbnail"] = pinfo["thumbnail"]
+
                     text = pinfo.get("description")
 
                     if not text:
@@ -833,7 +849,13 @@ class ConstellationsPrepDatabase(object):
 
         # All done! Call rewrite() after this if you don't want to lose all this work.
 
-    def register(self, client: cx.CxClient, idb: ImagesetDatabase, pdb: PlaceDatabase):
+    def register(
+        self,
+        client: cx.CxClient,
+        idb: ImagesetDatabase,
+        pdb: PlaceDatabase,
+        dry_run: bool = False,
+    ):
         # prefill the list of all known image IDs by URL since we may need
         # these to consruct scene records
 
@@ -884,7 +906,9 @@ class ConstellationsPrepDatabase(object):
                     if kind == "image":
                         url = fields["url"]
                         imgset = idb.by_url[url]
-                        id = _register_image(handle_client, fields, imgset)
+                        id = _register_image(
+                            handle_client, fields, imgset, dry_run=dry_run
+                        )
                         imgset.xmeta.cxstatus = f"in:{id}"
                         imgids_by_url[url] = id
                         remove_img_urls.add(url)
@@ -901,7 +925,9 @@ class ConstellationsPrepDatabase(object):
                             continue
 
                         place = pdb.reconst_by_id(uuid, idb)
-                        id = _register_scene(handle_client, fields, place, img_id)
+                        id = _register_scene(
+                            handle_client, fields, place, img_id, dry_run=dry_run
+                        )
                         pdb.by_uuid[uuid]["cxstatus"] = f"in:{id}"
                         remove_place_uuids.add(uuid)
                         n += 1
@@ -1666,20 +1692,30 @@ def do_prettify(settings):
 # register-cxprep
 
 
-def do_register_cxprep(_settings):
+def do_register_cxprep(settings):
+    if settings.dry_run:
+        print("NOTE: dry-run mode engaged!\n")
+
     idb = ImagesetDatabase()
     pdb = PlaceDatabase()
     cxpdb = ConstellationsPrepDatabase()
 
     try:
-        n = cxpdb.register(cx.CxClient(), idb, pdb)
+        n = cxpdb.register(cx.CxClient(), idb, pdb, dry_run=settings.dry_run)
         print()
         print(f"Registered {n} items")
     finally:
         print("Saving database updates ...")
         idb.rewrite()
         pdb.rewrite()
-        cxpdb.rewrite()
+
+        if settings.dry_run:
+            print("\nWARNING: dry-run mode -- NOT rewriting `cxprep` files!")
+            print(
+                "  Throw away any imageset/place updates since they will contain fake Constellations IDs!"
+            )
+        else:
+            cxpdb.rewrite()
 
 
 # replace-urls
@@ -1943,7 +1979,12 @@ def entrypoint():
         "xml", metavar="XML-PATH", help="Path to an XML file to prettify"
     )
 
-    _register_cxprep = subparsers.add_parser("register-cxprep")
+    register_cxprep = subparsers.add_parser("register-cxprep")
+    register_cxprep.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Do not actually register",
+    )
 
     replace_urls = subparsers.add_parser("replace-urls")
     replace_urls.add_argument(
