@@ -1113,6 +1113,7 @@ _uuid: 9543f754-baeb-4f4d-af60-806bc2a9dd0f
 angular_size: 0.46406731180752914
 classification: Unidentified
 constellation: CAS
+cxstatus: in:654106a7a5946236dee82e12
 data_set_type: Sky
 dec_deg: 60.89951994541687
 foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1818a/L{1}X{2}Y{3}.png
@@ -2622,17 +2623,6 @@ name: NGC 248
 ra_hr: 0.75634782256
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1623a.jpg
 zoom_level: 0.22752278744105
----
-_uuid: 192b49c1-f9fc-481e-9b9c-3b73f46f504b
-classification: ''
-constellation: CAS
-data_set_type: Sky
-dec_deg: 60.8998185224
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1818aL{1}X{2}Y{3}.png
-name: IC 63
-ra_hr: 0.985485488406667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1818a.jpg
-zoom_level: 0.360715941829018
 ---
 _uuid: b334bbc1-51ac-4f63-afe0-8890a8ae9805
 classification: ''
