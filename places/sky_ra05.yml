@@ -3796,6 +3796,50 @@ ra_hr: 5.588969307845307
 thumbnail: http://data1.wwtassets.org/packages/2023/06_jwst/weic2315c/thumb.jpg
 zoom_level: 0.10908982305422525
 ---
+_uuid: 889460f7-ff4b-4c64-8013-6eaa1aa9a4de
+classification: ''
+constellation: ORI
+data_set_type: Sky
+dec_deg: -5.387293158436137
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/10_jwst/orion_nircam_lw/{1}/{3}/{3}_{2}.png
+name: Long-wavelength NIRCam Orion Nebula
+ra_hr: 5.587233166022187
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/orion_nircam_lw/thumb.jpg
+zoom_level: 1.267686772750636
+---
+_uuid: 2a008d80-e2ff-4858-b1f2-7cd8f59f777a
+classification: ''
+constellation: ORI
+data_set_type: Sky
+dec_deg: -5.386928854253156
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/10_jwst/orion_nircam_sw/{1}/{3}/{3}_{2}.png
+name: Short-wavelength NIRCam Orion Nebula
+ra_hr: 5.587232472506767
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/orion_nircam_sw/thumb.jpg
+zoom_level: 1.270418727056915
+---
+_uuid: a30ec986-0642-4fa2-9b52-f46d15d84305
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.27101962021796
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/10_jwst/sn1987a-1/{1}/{3}/{3}_{2}.png
+name: SN 1987A (NIRCam image)
+ra_hr: 5.591154002200682
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/sn1987a-1/thumb.jpg
+zoom_level: 0.02079174904680542
+---
+_uuid: 5cc33772-9863-411c-9930-f7308cbff462
+classification: ''
+constellation: TAU
+data_set_type: Sky
+dec_deg: 22.016666350721923
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/10_jwst/weic2326e/{1}/{3}/{3}_{2}.png
+name: Webb’s new view of the Crab Nebula
+ra_hr: 5.575714829864344
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/weic2326e/thumb.jpg
+zoom_level: 0.8097077417065481
+---
 _uuid: 54b995f9-eb0c-4e51-a8a2-f91cb071a3cd
 angular_size: 1.0
 classification: Galaxy
