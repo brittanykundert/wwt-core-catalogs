@@ -859,29 +859,27 @@ text> This image shows the full survey of the inner Orion Nebula and Trapezium
 Cluster made using the NIRCam instrument on the NASA/ESA/CSA James Webb Space
 Telescope. This is the long-wavelength colour composite, which focuses on the
 gas, dust, and molecules in the region with unprecedented sensitivity in the
-thermal infrared.                                  The cavity is mostly filled
-with ionised gas, seen here in purple, while the surroundings have a mix of dust
-and molecular gas seen in reds, browns, and greens. The Bright Bay to the upper
-left is being eroded by the massive stars at the centre of the region and there
-are many pillars of gas and dust which are being carved.
-This young star-forming region is just a million years old and contains
-thousands of new stars spanning a range of masses from 40 down to less than 0.1
-times the mass of the Sun. The most massive and hottest stars in the region,
-notably the Trapezium in the centre, have sculpted a cavity in the surface of
-the giant molecular cloud from which they were born, which can be readily seen
-in this image.                                  The Orion Nebula lies roughly
-1300 light-years from Earth in the so-called 'sword' of the constellation of
-Orion the Hunter, and the image shows a region that is 4 by 2.75 light years in
-size.                                  Image description: An image of a young
-star-forming region filled with with wispy purple, green, and red nebulosity.
-The purple ionised gas is seen mostly towards the centre, with browns, greens,
-and reds behind, while the periphery is mostly bright green and darker brown to
-the left. There is a large spray of yellow, orange, red, and purple towards the
-top centre, and the nebula fades to near black to the right. There are thousands
-of stars sprinkled across the field, concentrated towards the centre, but they
-generally appear fainter at longer wavelengths, with some exceptions. The
-brightest sources in the field have extensive diffraction spikes characteristic
-of Webb.
+thermal infrared. The cavity is mostly filled with ionised gas, seen here in
+purple, while the surroundings have a mix of dust and molecular gas seen in
+reds, browns, and greens. The Bright Bay to the upper left is being eroded by
+the massive stars at the centre of the region and there are many pillars of gas
+and dust which are being carved. This young star-forming region is just a
+million years old and contains thousands of new stars spanning a range of masses
+from 40 down to less than 0.1 times the mass of the Sun. The most massive and
+hottest stars in the region, notably the Trapezium in the centre, have sculpted
+a cavity in the surface of the giant molecular cloud from which they were born,
+which can be readily seen in this image. The Orion Nebula lies roughly 1300
+light-years from Earth in the so-called 'sword' of the constellation of Orion
+the Hunter, and the image shows a region that is 4 by 2.75 light years in size.
+Image description: An image of a young star-forming region filled with with
+wispy purple, green, and red nebulosity. The purple ionised gas is seen mostly
+towards the centre, with browns, greens, and reds behind, while the periphery is
+mostly bright green and darker brown to the left. There is a large spray of
+yellow, orange, red, and purple towards the top centre, and the nebula fades to
+near black to the right. There are thousands of stars sprinkled across the
+field, concentrated towards the centre, but they generally appear fainter at
+longer wavelengths, with some exceptions. The brightest sources in the field
+have extensive diffraction spikes characteristic of Webb.
 
 wip: yes
 ---
@@ -907,24 +905,7 @@ text> This image shows the full survey of the inner Orion Nebula and Trapezium
 Cluster made using the NIRCam instrument on the NASA/ESA/CSA James Webb Space
 Telescope. This is the short-wavelength colour composite, which reveals the
 nebula, its stars, and many other objects in unprecedented detail in the
-infrared.  This young star-forming region is just a million years old and
-contains thousands of new stars spanning a range of masses from 40 down to less
-than 0.1 times the mass of the Sun. The region also contains many brown dwarfs,
-objects below seven percent of the mass of the Sun which are too small to start
-nuclear fusion in their cores. And below that, starting at roughly 13 times the
-mass of Jupiter, lie the planetary-mass objects. These new Webb data have
-revealed hundreds of such objects, floating freely in the nebula, not orbiting
-stars, the very smallest of which have just 60% the mass of Jupiter or two times
-the mass of Saturn.  The Orion Nebula lies roughly 1300 light-years from Earth
-in the so-called 'sword' of the constellation of Orion the Hunter, and the image
-shows a region that is 4 by 2.75-light years in size, smaller than the distance
-between Earth and our nearest stellar neighbour, Proxima Centauri.  Image
-description: An image of a young star-forming region filled with wispy blue,
-grey, green, and red nebulosity that is brightest towards the centre and fainter
-towards the edges, especially in the top left corner and on the right side.
-Thousands of stars are seen sprinkled across the field, concentrated towards the
-centre, and the brightest stars show the eight spikes due to diffraction that
-are characteristic of Webb images.
+infrared.
 
 wip: yes
 ---
@@ -1045,7 +1026,7 @@ dust. In this image blue represents silicates and sooty chemical molecules known
 as polycyclic aromatic hydrocarbons, or PAHs. More diffuse red emission shines
 from warm dust heated by the brightest and most massive stars in the heart of
 the region. Bright patches and filaments mark areas with abundant numbers of
-protostars.  This image includes 7.7-micron light shown in blue, 10 microns in
+protostars. This image includes 7.7-micron light shown in blue, 10 microns in
 cyan, 11.3 microns in green, 15 microns in yellow, and 21 microns in red (770W,
 1000W, 1130W, 1500W, and 2100W filters, respectively). [Image description: The
 lower half of this image contains arcs of bluish material that form a boat-like
@@ -1060,54 +1041,6 @@ black or dark grey.]
 
 wip: yes
 ---
-
-@image
-url: http://data1.wwtassets.org/packages/2023/10_jwst/weic2326e/{1}/{3}/{3}_{2}.png
-copyright: ~~COPYRIGHT~~
-license_id: ~~LICENSE~~
-thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/weic2326e/thumb.jpg
-
-credits> NASA, ESA, CSA, STScI, T. Temim (Princeton University)
-
-wip: yes
----
-
-@scene
-place_uuid: 5cc33772-9863-411c-9930-f7308cbff462
-image_url: http://data1.wwtassets.org/packages/2023/10_jwst/weic2326e/{1}/{3}/{3}_{2}.png
-outgoing_url: https://esawebb.org/images/weic2326e/
-thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/weic2326e/thumb.jpg
-
-text> The NASA/ESA/CSA James Webb Space Telescope has gazed at the Crab Nebula
-in the search for answers about the supernova remnant’s origins. Webb’s NIRCam
-(Near-Infrared Camera) and MIRI (Mid-Infrared Instrument) have revealed new
-details in infrared light. Similar to the Hubble optical wavelength image
-released in 2005, with Webb the remnant appears to consist of a crisp, cage-like
-structure of fluffy red-orange filaments of gas that trace doubly ionised
-sulphur (sulphur III). Within the remnant’s interior, yellow-white and green
-fluffy ridges form large-scale loop-like structures, which represent areas where
-dust particles reside. The area within is composed of translucent, milky
-material. This material is emitting synchrotron radiation, which is emitted
-across the electromagnetic spectrum but becomes particularly vibrant thanks to
-Webb’s sensitivity and spatial resolution. It is generated by particles
-accelerated to extremely high speeds as they wind around magnetic field lines.
-The synchrotron radiation can be traced throughout the majority of the Crab
-Nebula’s interior. Locate the wisps that follow a ripple-like pattern in the
-middle. In the centre of this ring-like structure is a bright white dot: a
-rapidly rotating neutron star. Further out from the core, follow the thin white
-ribbons of the radiation. The curvy wisps are closely grouped together,
-following different directions that mimic the structure of the pulsar’s magnetic
-field. Note how certain gas filaments are bluer in colour. These areas contain
-singly ionised iron (iron II). [Image description: An oval nebula with a complex
-structure against a black background. On the oval’s exterior lie curtains of
-glowing red and orange fluffy material. Interior to this outer shell lie
-large-scale loops of mottled filaments of yellow-white and green, studded with
-clumps and knots. Translucent thin ribbons of smoky white lie within the
-remnant’s interior, brightest toward its centre.]
-
-wip: yes
----
-
 
 @image
 url: http://data1.wwtassets.org/packages/2023/10_jwst/potm2309a/{1}/{3}/{3}_{2}.png
