@@ -85005,32 +85005,6 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="0.0901789854572544"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="14.7822823261"
-    CenterY="60.8998185224"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="IC 63"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="-97.94"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="5"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1818aL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-    Xcxstatus="queue:hubble"
-  >
-    <Credits>ESA/Hubble, NASA; IC 63 — nicknamed the Ghost Nebula — is about 550 light-years from Earth. The nebula is classified as both a reflection nebula —...</Credits>
-    <CreditsUrl>https://esahubble.org/images/heic1818a/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1818a.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="0.0606761204916224"
     BaseTileLevel="0"
     BottomsUp="False"
