@@ -233,31 +233,6 @@ wip: yes
 ---
 
 @image
-url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1818a/L{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1818a/thumb.jpg
-
-credits> ESA/Hubble, NASA
-
----
-
-@scene
-place_uuid: 9543f754-baeb-4f4d-af60-806bc2a9dd0f
-image_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1818a/L{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic1818a/
-thumbnail: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1818a/thumb.jpg
-
-text> IC 63 — nicknamed the Ghost Nebula — is about 550 light-years from Earth.
-The nebula is classified as both a reflection nebula — as it is reflecting the
-light of a nearby star — and as an emission nebula — as it releases
-hydrogen-alpha radiation. Both effects are caused by the gigantic star Gamma
-Cassiopeiae. The radiation of this star is also slowly causing the nebula to
-dissipate.
-
----
-
-@image
 url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1820b/L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
