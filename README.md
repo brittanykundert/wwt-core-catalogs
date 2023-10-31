@@ -194,14 +194,16 @@ not go into Constellations. If the imagery should go to multiple handles, edit
 the resulting files to change the `Xcxstatus` `queue` setting as appropriate. At
 some point after you run this command, run `cattool update-cxprep` to transfer
 the appropriate information into the `cxprep/` files for the next stage of
-Constellations ingest.
+Constellations ingest. To guard against typos, this command requires that a
+`cxprep/{HANDLE}.txt` file already exists; to add entries for a new handle,
+create that file as an empty text file before running the command.
 
 With the `--prepend-to=FILENAME` option, this command will update an existing
 catalog template file to include the newly-ingested imagery at its beginning.
 For instance, the command:
 
 ```sh
-./cattool.py ingest jwst_fgs_preview.wtml --prepend-to=catfiles/jwst.yml
+./cattool.py ingest jwst_fgs_preview.wtml --prepend-to=catfiles/jwst.yml --cx-handle=jwst
 ```
 
 will take the new images and places defined in the file `jwst_fgs_preview.wtml`,

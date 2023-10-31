@@ -837,3 +837,298 @@ Kundert.
 
 wip: yes
 ---
+
+@image
+url: http://data1.wwtassets.org/packages/2023/10_jwst/orion_nircam_lw/{1}/{3}/{3}_{2}.png
+copyright: Public domain
+license_id: CC-PDDC
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/orion_nircam_lw/thumb.jpg
+
+credits> NASA, ESA, CSA / Mark McCaughrean and Sam Pearson
+
+wip: yes
+---
+
+@scene
+place_uuid: 889460f7-ff4b-4c64-8013-6eaa1aa9a4de
+image_url: http://data1.wwtassets.org/packages/2023/10_jwst/orion_nircam_lw/{1}/{3}/{3}_{2}.png
+outgoing_url: https://www.esa.int/ESA_Multimedia/Images/2023/09/Orion_Nebula_in_NIRCam_long-wavelength_channel
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/orion_nircam_lw/thumb.jpg
+
+text> This image shows the full survey of the inner Orion Nebula and Trapezium
+Cluster made using the NIRCam instrument on the NASA/ESA/CSA James Webb Space
+Telescope. This is the long-wavelength colour composite, which focuses on the
+gas, dust, and molecules in the region with unprecedented sensitivity in the
+thermal infrared. The cavity is mostly filled with ionised gas, seen here in
+purple, while the surroundings have a mix of dust and molecular gas seen in
+reds, browns, and greens. The Bright Bay to the upper left is being eroded by
+the massive stars at the centre of the region and there are many pillars of gas
+and dust which are being carved. This young star-forming region is just a
+million years old and contains thousands of new stars spanning a range of masses
+from 40 down to less than 0.1 times the mass of the Sun. The most massive and
+hottest stars in the region, notably the Trapezium in the centre, have sculpted
+a cavity in the surface of the giant molecular cloud from which they were born,
+which can be readily seen in this image. The Orion Nebula lies roughly 1300
+light-years from Earth in the so-called 'sword' of the constellation of Orion
+the Hunter, and the image shows a region that is 4 by 2.75 light years in size.
+Image description: An image of a young star-forming region filled with with
+wispy purple, green, and red nebulosity. The purple ionised gas is seen mostly
+towards the centre, with browns, greens, and reds behind, while the periphery is
+mostly bright green and darker brown to the left. There is a large spray of
+yellow, orange, red, and purple towards the top centre, and the nebula fades to
+near black to the right. There are thousands of stars sprinkled across the
+field, concentrated towards the centre, but they generally appear fainter at
+longer wavelengths, with some exceptions. The brightest sources in the field
+have extensive diffraction spikes characteristic of Webb.
+
+wip: yes
+---
+
+@image
+url: http://data1.wwtassets.org/packages/2023/10_jwst/orion_nircam_sw/{1}/{3}/{3}_{2}.png
+copyright: Public domain
+license_id: CC-PDDC
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/orion_nircam_sw/thumb.jpg
+
+credits> NASA, ESA, CSA / Mark McCaughrean and Sam Pearson
+
+wip: yes
+---
+
+@scene
+place_uuid: 2a008d80-e2ff-4858-b1f2-7cd8f59f777a
+image_url: http://data1.wwtassets.org/packages/2023/10_jwst/orion_nircam_sw/{1}/{3}/{3}_{2}.png
+outgoing_url: https://www.esa.int/ESA_Multimedia/Images/2023/09/Orion_Nebula_in_NIRCam_short-wavelength_channel
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/orion_nircam_sw/thumb.jpg
+
+text> This image shows the full survey of the inner Orion Nebula and Trapezium
+Cluster made using the NIRCam instrument on the NASA/ESA/CSA James Webb Space
+Telescope. This is the short-wavelength colour composite, which reveals the
+nebula, its stars, and many other objects in unprecedented detail in the
+infrared.
+
+wip: yes
+---
+
+@image
+url: http://data1.wwtassets.org/packages/2023/10_jwst/sn1987a-1/{1}/{3}/{3}_{2}.png
+copyright: Public domain
+license_id: CC-PDDC
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/sn1987a-1/thumb.jpg
+
+credits> NASA, ESA, CSA, M. Matsuura (Cardiff University), R. Arendt (NASA’s
+Goddard Spaceflight Center & University of Maryland, Baltimore County), C.
+Fransson (Stockholm University), J. Larsson (KTH Royal Institute of Technology),
+A. Pagan (STScI)
+
+wip: yes
+---
+
+@scene
+place_uuid: a30ec986-0642-4fa2-9b52-f46d15d84305
+image_url: http://data1.wwtassets.org/packages/2023/10_jwst/sn1987a-1/{1}/{3}/{3}_{2}.png
+outgoing_url: https://esawebb.org/images/SN1987a-1/
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/sn1987a-1/thumb.jpg
+
+text> The NASA/ESA/CSA James Webb Space Telescope has begun the study of one of
+the most renowned supernovae, SN 1987A (Supernova 1987A). Located 168,000
+light-years away in the Large Magellanic Cloud, SN 1987A has been a target of
+intense observations at wavelengths ranging from gamma rays to radio for nearly
+40 years, since its discovery in February of 1987. New observations by Webb’s
+NIRCam (Near-Infrared Camera) provide a crucial clue to our understanding of how
+a supernova develops over time to shape its remnant. This image reveals a
+central structure like a keyhole. This center is packed with clumpy gas and dust
+ejected by the supernova explosion. The dust is so dense that even near-infrared
+light that Webb detects can’t penetrate it, shaping the dark “hole” in the
+keyhole. A bright, equatorial ring surrounds the inner keyhole, forming a band
+around the waist that connects two faint arms of hourglass-shaped outer rings.
+The equatorial ring, formed from material ejected tens of thousands of years
+before the supernova explosion, contains bright hot spots, which appeared as the
+supernova’s shock wave hit the ring. Now spots are found even exterior to the
+ring, with diffuse emission surrounding it. These are the locations of supernova
+shocks hitting more exterior material. In this image blue represents light at
+1.5 microns (F150W), cyan 1.64 and 2.0 microns (F164N, F200W), yellow 3.23
+microns (F323N), orange 4.05 microns (F405N), and red 4.44 microns (F444W).
+
+wip: yes
+---
+
+@image
+url: http://data1.wwtassets.org/packages/2023/10_jwst/weic2322b/{1}/{3}/{3}_{2}.png
+copyright: Public domain
+license_id: CC-PDDC
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/weic2322b/thumb.jpg
+
+credits> ESA/Webb, NASA, CSA, T. Ray (Dublin Institute for Advanced Studies)
+
+wip: yes
+---
+
+@scene
+place_uuid: 97166f99-a084-4acd-9ded-577d912b3f2c
+image_url: http://data1.wwtassets.org/packages/2023/10_jwst/weic2322b/{1}/{3}/{3}_{2}.png
+outgoing_url: https://esawebb.org/images/weic2322b/
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/weic2322b/thumb.jpg
+
+text> Featured in this image from the NASA/ESA/CSA James Webb Space Telescope is
+Herbig-Haro 211 (HH 211), a bipolar jet travelling through interstellar space at
+supersonic speeds. At roughly 1,000 light-years away from Earth in the
+constellation Perseus, the object is one of the youngest and nearest
+protostellar outflows, making it an ideal target for Webb. Herbig-Haro objects
+are luminous regions surrounding newborn stars, and are formed when stellar
+winds or jets of gas spewing from these newborn stars form shockwaves colliding
+with nearby gas and dust at high speeds. This spectacular image of HH 211
+reveals an outflow from a Class 0 protostar, an infantile analogue of our Sun
+when it was no more than a few tens of thousands of years old and with a mass
+only 8% of the present-day Sun (it will eventually grow into a star like the
+Sun). Infrared imaging is powerful in studying newborn stars and their outflows,
+because such stars are invariably still embedded within the gas from the
+molecular cloud in which they formed. The infrared emission of the star’s
+outflows penetrates the obscuring gas and dust, making a Herbig-Haro object like
+HH 211 ideal for observation with Webb’s sensitive infrared instruments.
+Molecules excited by the turbulent conditions, including molecular hydrogen,
+carbon monoxide and silicon monoxide, emit infrared light that Webb can collect
+to map out the structure of the outflows. The image showcases a series of bow
+shocks to the southeast (lower-left) and northwest (upper-right) as well as the
+narrow bipolar jet that powers them in unprecedented detail — roughly 5 to 10
+times higher spatial resolution than any previous images of HH 211. The inner
+jet is seen to “wiggle” with mirror symmetry on either side of the central
+protostar. This is in agreement with observations on smaller scales and suggests
+that the protostar may in fact be an unresolved binary star. [Image description:
+At the centre is a thin horizontal multi-coloured cloud tilted from bottom left
+to top right. At its centre is a dark brown cloud from which both outflows are
+spewing from. These outflows transition from colours of yellow/orange, to a
+light blue region, with prominent light pink features in the outer regions.]
+
+wip: yes
+---
+
+@image
+url: http://data1.wwtassets.org/packages/2023/10_jwst/weic2324a/{1}/{3}/{3}_{2}.png
+copyright: Public domain
+license_id: CC-PDDC
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/weic2324a/thumb.jpg
+
+credits> NASA, ESA, CSA, N. Habel (JPL), P. Kavanagh (Maynooth University)
+
+wip: yes
+---
+
+@scene
+place_uuid: 6c3f5874-84eb-4590-a1ee-637c3dd7da92
+image_url: http://data1.wwtassets.org/packages/2023/10_jwst/weic2324a/{1}/{3}/{3}_{2}.png
+outgoing_url: https://esawebb.org/images/weic2324a/
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/weic2324a/thumb.jpg
+
+text> This new infrared image of NGC 346 from the NASA/ESA/CSA James Webb Space
+Telescope’s Mid-Infrared Instrument (MIRI) traces emission from cool gas and
+dust. In this image blue represents silicates and sooty chemical molecules known
+as polycyclic aromatic hydrocarbons, or PAHs. More diffuse red emission shines
+from warm dust heated by the brightest and most massive stars in the heart of
+the region. Bright patches and filaments mark areas with abundant numbers of
+protostars. This image includes 7.7-micron light shown in blue, 10 microns in
+cyan, 11.3 microns in green, 15 microns in yellow, and 21 microns in red (770W,
+1000W, 1130W, 1500W, and 2100W filters, respectively). [Image description: The
+lower half of this image contains arcs of bluish material that form a boat-like
+shape. One end of these arcs points to the top right of the image, while the
+other end points toward the bottom left. Another plume of blue filaments expands
+from the centre to the top left, resembling the mast of a sailboat. Within and
+extending beyond the boat shape are translucent curtains of pink, which cover
+most of the image. Stars are noticeably scarce. A couple dozen bright pink
+patches with six short diffraction spikes are scattered within the blue
+filaments. Many faint blue dots, or stars, also speckle the background, which is
+black or dark grey.]
+
+wip: yes
+---
+
+@image
+url: http://data1.wwtassets.org/packages/2023/10_jwst/potm2309a/{1}/{3}/{3}_{2}.png
+copyright: Public domain
+license_id: CC-PDDC
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/potm2309a/thumb.jpg
+
+credits> ESA/Webb, NASA & CSA, M. Meixner
+
+wip: yes
+---
+
+@scene
+place_uuid: fe6ddda5-4b2e-4891-ab90-94311df210c9
+image_url: http://data1.wwtassets.org/packages/2023/10_jwst/potm2309a/{1}/{3}/{3}_{2}.png
+outgoing_url: https://esawebb.org/images/potm2309a/
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/potm2309a/thumb.jpg
+
+text> This image shows the irregular galaxy NGC 6822, as observed by the
+Near-InfraRed Camera (NIRCam) mounted on the NASA/ESA/CSA James Webb Space
+Telescope. NIRCam probes the near-infrared, which in this case makes it suitable
+for observing the densely packed star field. Webb’s near-infrared NIRCam image
+shows the galaxy’s countless stars in incredible detail. Here, the dust and gas
+that pervade the galaxy are reduced to translucent red wisps, laying the stars
+bare for astronomical study. The power of Webb’s ice-cold infrared instruments
+and the incredible resolution of its primary mirror is necessary to examine
+stars hidden in dusty environments, and the results as shown here are
+spectacular. The brightest stars appear in pale blue and cyan colours in this
+image, colours which are assigned to the shortest wavelengths of light that
+NIRCam can detect: red and nearest infrared. The amount of light emitted by any
+star decreases at longer and longer wavelengths, towards the mid-infrared, so
+the stars that are more faint to NIRCam also appear more warmly coloured here. A
+bright blue orb to the lower left of the gas is particularly prominent: this is
+a globular cluster, packed with stars. A composite image of NGC 6822 featuring
+data from both NIRCam and Webb’s Mid-InfraRed Instrument (MIRI) was published
+for the ESA/Webb Picture of the Month series in July 2023. [Image Description: A
+huge, dense field completely filled with tiny stars. A few of the star images
+are a bit larger than the rest, with visible diffraction spikes; two foreground
+stars are large and bright on the right side. Many small galaxies within various
+shapes and sizes can be seen hiding behind the stars. In the centre some faint,
+wispy, dark red gas appears.] or [Image Description: A huge, dense field
+completely filled with stars. A few of the star images are a bit larger than the
+rest, with visible diffraction spikes; two foreground stars are bright on the
+right side. Many galaxies with various shapes and sizes can be seen hiding
+behind the stars. In the centre some faint, wispy, dark red gas appears.] Links
+Composite NIRCam and MIRI image of NGC 6822 (July 2023 Picture of the Month)
+MIRI image of NGC 6822 (July 2023 Picture of the Month) Science paper (L. Lenkić
+et al.) Science paper (C. Nally et al.)
+
+wip: yes
+---
+
+@scene
+place_uuid: 18f7d79e-aeed-4f17-81ea-41feceaf91f1
+image_url: http://data1.wwtassets.org/packages/2023/10_jwst/potm2309a/{1}/{3}/{3}_{2}.png
+outgoing_url: https://esawebb.org/images/potm2309a/
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/potm2309a/thumb.jpg
+
+text> This image shows the irregular galaxy NGC 6822, as observed by the
+Near-InfraRed Camera (NIRCam) mounted on the NASA/ESA/CSA James Webb Space
+Telescope. NIRCam probes the near-infrared, which in this case makes it suitable
+for observing the densely packed star field. Webb’s near-infrared NIRCam image
+shows the galaxy’s countless stars in incredible detail. Here, the dust and gas
+that pervade the galaxy are reduced to translucent red wisps, laying the stars
+bare for astronomical study. The power of Webb’s ice-cold infrared instruments
+and the incredible resolution of its primary mirror is necessary to examine
+stars hidden in dusty environments, and the results as shown here are
+spectacular. The brightest stars appear in pale blue and cyan colours in this
+image, colours which are assigned to the shortest wavelengths of light that
+NIRCam can detect: red and nearest infrared. The amount of light emitted by any
+star decreases at longer and longer wavelengths, towards the mid-infrared, so
+the stars that are more faint to NIRCam also appear more warmly coloured here. A
+bright blue orb to the lower left of the gas is particularly prominent: this is
+a globular cluster, packed with stars. A composite image of NGC 6822 featuring
+data from both NIRCam and Webb’s Mid-InfraRed Instrument (MIRI) was published
+for the ESA/Webb Picture of the Month series in July 2023. [Image Description: A
+huge, dense field completely filled with tiny stars. A few of the star images
+are a bit larger than the rest, with visible diffraction spikes; two foreground
+stars are large and bright on the right side. Many small galaxies within various
+shapes and sizes can be seen hiding behind the stars. In the centre some faint,
+wispy, dark red gas appears.] or [Image Description: A huge, dense field
+completely filled with stars. A few of the star images are a bit larger than the
+rest, with visible diffraction spikes; two foreground stars are bright on the
+right side. Many galaxies with various shapes and sizes can be seen hiding
+behind the stars. In the centre some faint, wispy, dark red gas appears.] Links
+Composite NIRCam and MIRI image of NGC 6822 (July 2023 Picture of the Month)
+MIRI image of NGC 6822 (July 2023 Picture of the Month) Science paper (L. Lenkić
+et al.) Science paper (C. Nally et al.)
+
+wip: yes
+---

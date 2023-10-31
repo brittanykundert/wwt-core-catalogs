@@ -1214,6 +1214,17 @@ ra_hr: 0.2384117359168401
 thumbnail: http://data1.wwtassets.org/packages/2023/02_jwst/weic2305a/thumb.jpg
 zoom_level: 0.7604968878638656
 ---
+_uuid: 6c3f5874-84eb-4590-a1ee-637c3dd7da92
+classification: ''
+constellation: TUC
+data_set_type: Sky
+dec_deg: -72.16914258950875
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/10_jwst/weic2324a/{1}/{3}/{3}_{2}.png
+name: NGC 346 (MIRI image)
+ra_hr: 0.9847384686356235
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/weic2324a/thumb.jpg
+zoom_level: 0.6068108692408796
+---
 _uuid: a6b15f59-9aad-4c91-9744-388a05f9b48b
 angular_size: 1.0
 classification: Nebula

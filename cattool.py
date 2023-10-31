@@ -1474,6 +1474,12 @@ def do_ingest(settings):
     idb = ImagesetDatabase()
     pdb = PlaceDatabase()
 
+    if settings.cx_handle != "skip":
+        if not os.path.exists(f"cxprep/{settings.cx_handle}.txt"):
+            die(
+                f"expected file `cxprep/{settings.cx_handle}.txt` to exist but it's missing - mistaken handle name?"
+            )
+
     def folder_to_yaml(f):
         info = {}
         info["browseable"] = f.browseable

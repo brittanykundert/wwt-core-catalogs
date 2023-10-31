@@ -1123,6 +1123,28 @@ ra_hr: 19.749511127385784
 thumbnail: http://data1.wwtassets.org/packages/2023/08_jwst/potm2307a/thumb.jpg
 zoom_level: 0.30672612777886515
 ---
+_uuid: 18f7d79e-aeed-4f17-81ea-41feceaf91f1
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -14.797813658708462
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/10_jwst/potm2309a/{1}/{3}/{3}_{2}.png
+name: NIRCam’s view of NGC 6822
+ra_hr: 19.74895231393197
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/potm2309a/thumb.jpg
+zoom_level: 0.7120539380331178
+---
+_uuid: fe6ddda5-4b2e-4891-ab90-94311df210c9
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -14.797813658708462
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/10_jwst/potm2309a/{1}/{3}/{3}_{2}.png
+name: NIRCam’s view of NGC 6822
+ra_hr: 19.74895231393197
+thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/potm2309a/thumb.jpg
+zoom_level: 0.7120539380331178
+---
 _uuid: 1be15b0f-4cf0-4142-9401-3b86b645508d
 angular_size: 1.0
 classification: Galaxy
