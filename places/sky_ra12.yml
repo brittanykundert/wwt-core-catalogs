@@ -2479,6 +2479,7 @@ zoom_level: 2.81229901824
 _uuid: 6485fbce-5f85-4abe-9bf5-8c87cb510e28
 classification: ''
 constellation: CEN
+cxstatus: in:65424fa0a5946236dee82f40
 data_set_type: Sky
 dec_deg: -41.3099387
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-112L{1}X{2}Y{3}.png
@@ -2490,6 +2491,7 @@ zoom_level: 0.388221845504
 _uuid: be174a6e-f477-4aa7-88ba-ffafe66f7d00
 classification: ''
 constellation: COM
+cxstatus: in:65424fa3a5946236dee82f46
 data_set_type: Sky
 dec_deg: 27.9546508
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-118L{1}X{2}Y{3}.png
@@ -2501,6 +2503,7 @@ zoom_level: 1.72923486208
 _uuid: 0bfc5a22-b48e-44cb-a9e9-c029c4c3be20
 classification: ''
 constellation: VIR
+cxstatus: in:65424fa6a5946236dee82f4e
 data_set_type: Sky
 dec_deg: 11.5684064
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-125L{1}X{2}Y{3}.png
