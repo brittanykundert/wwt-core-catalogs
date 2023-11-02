@@ -3777,6 +3777,7 @@ zoom_level: 0.33000088248955006
 _uuid: 14728d0f-adeb-4e67-9563-176c6fbd9f3f
 classification: ''
 constellation: ORI
+cxstatus: in:6543a6625dff7c3291e39874
 data_set_type: Sky
 dec_deg: -5.4082360464119255
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/06_jwst/weic2315b/{1}/{3}/{3}_{2}.png
@@ -3788,6 +3789,7 @@ zoom_level: 0.39243617192450325
 _uuid: 3655e540-6b97-439c-93b1-8dce5cf242fe
 classification: ''
 constellation: ORI
+cxstatus: in:6543a6635dff7c3291e39876
 data_set_type: Sky
 dec_deg: -5.417921818065528
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/06_jwst/weic2315c/{1}/{3}/{3}_{2}.png
