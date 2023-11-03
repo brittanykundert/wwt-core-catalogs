@@ -931,6 +931,7 @@ zoom_level: 1.36533331968
 _uuid: 187fd4ce-0780-468f-8531-df41056d7888
 classification: ''
 constellation: CYG
+cxstatus: in:6544ef755dff7c3291e399ce
 data_set_type: Sky
 dec_deg: 50.11823627
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-015L{1}X{2}Y{3}.png
@@ -942,6 +943,7 @@ zoom_level: 2.73066666667213
 _uuid: ed5f35ce-ba72-4191-bd24-4ab436f2e85f
 classification: ''
 constellation: CYG
+cxstatus: in:6544ee2f5dff7c3291e399c8
 data_set_type: Sky
 dec_deg: 52.54738116
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig10-016L{1}X{2}Y{3}.png
@@ -953,6 +955,7 @@ zoom_level: 2.73066663936
 _uuid: 8cc4d425-92a6-4914-a86d-56897e919d6b
 classification: ''
 constellation: CEP
+cxstatus: in:6544ee315dff7c3291e399cc
 data_set_type: Sky
 dec_deg: 68.1701712
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-sig13-005L{1}X{2}Y{3}.png
