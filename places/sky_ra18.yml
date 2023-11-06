@@ -1621,6 +1621,7 @@ _uuid: c15e12cd-4fda-4ef0-ac98-d89ae3a3ed33
 angular_size: 0.691031832846452
 classification: Unidentified
 constellation: SER2
+cxstatus: in:6548efd95dff7c3291e39e12
 data_set_type: Sky
 dec_deg: -13.84
 foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1501a/L{1}X{2}Y{3}.png
@@ -1632,6 +1633,7 @@ _uuid: 3b7b654b-23a7-4e69-8878-57151275fb28
 angular_size: 0.691031832846452
 classification: Unidentified
 constellation: SER2
+cxstatus: in:6548efda5dff7c3291e39e14
 data_set_type: Sky
 dec_deg: -13.84
 foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1501b/L{1}X{2}Y{3}.png
@@ -2733,28 +2735,6 @@ name: M 57
 ra_hr: 18.8931104933333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1310d.jpg
 zoom_level: 18.3731227867218
----
-_uuid: f55ec926-11d5-4a99-9cbe-b51b46051f2a
-classification: ''
-constellation: SER2
-data_set_type: Sky
-dec_deg: -13.8394365494
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1501aL{1}X{2}Y{3}.png
-name: Eagle Nebula
-ra_hr: 18.3146437856
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1501a.jpg
-zoom_level: 0.364815354314752
----
-_uuid: 7288905f-3d6f-4834-b584-533c4623758d
-classification: ''
-constellation: SER2
-data_set_type: Sky
-dec_deg: -13.8347924699
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1501bL{1}X{2}Y{3}.png
-name: Eagle Nebula
-ra_hr: 18.3144705826
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1501b.jpg
-zoom_level: 0.364527690825728
 ---
 _uuid: ba484753-d918-44bb-8ad5-d5b60367c49e
 classification: ''

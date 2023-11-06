@@ -3416,6 +3416,7 @@ _uuid: 442827f6-d765-4f6a-952d-9e76b4db18aa
 angular_size: 1.027548515826617
 classification: Unidentified
 constellation: ORI
+cxstatus: in:6548efd85dff7c3291e39e10
 data_set_type: Sky
 dec_deg: -2.4549845639696444
 foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1307a/L{1}X{2}Y{3}.png
@@ -6119,17 +6120,6 @@ ra_hr: 5.85735035372
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1210a.jpg
 zoom_level: 0.18141282304
 ---
-_uuid: d5989ef9-af87-4bab-9261-506a01e64942
-classification: ''
-constellation: ORI
-data_set_type: Sky
-dec_deg: -2.45331220032
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1307aL{1}X{2}Y{3}.png
-name: Barnard 33
-ra_hr: 5.68360864452667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1307a.jpg
-zoom_level: 0.584049889794849
----
 _uuid: 7776a1b9-9a7d-4a19-be64-a77d2c870c94
 classification: ''
 constellation: DOR
@@ -6184,17 +6174,6 @@ name: Crab Nebula
 ra_hr: 5.57560044894667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1614a.jpg
 zoom_level: 0.227445642896998
----
-_uuid: 0d76874a-b1ae-4f3d-99f0-cc8a5c5a131f
-classification: ''
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.269874114
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1704aL{1}X{2}Y{3}.png
-name: SN 1987A
-ra_hr: 5.59112835027333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1704a.jpg
-zoom_level: 0.178576473767936
 ---
 _uuid: 29a5befc-7a56-4ccd-a7bf-297a87201fab
 classification: ''

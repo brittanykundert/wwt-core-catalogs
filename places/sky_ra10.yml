@@ -1180,6 +1180,7 @@ _uuid: 175fd742-44e8-43e2-96ce-64efb9138f25
 angular_size: 0.9471072653441663
 classification: Unidentified
 constellation: CAR
+cxstatus: in:6548efdb5dff7c3291e39e16
 data_set_type: Sky
 dec_deg: -57.76
 foreground_image_set_url: http://data1.wwtassets.org/packages/2020/07_hubble30/heic1509a/L{1}X{2}Y{3}.png
@@ -2584,17 +2585,6 @@ name: NGC 3314
 ra_hr: 10.620163601
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1208a.jpg
 zoom_level: 0.22765846528
----
-_uuid: d923967d-3845-4977-8f19-e98fc5ee1714
-classification: ''
-constellation: CAR
-data_set_type: Sky
-dec_deg: -57.763449935
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1509aL{1}X{2}Y{3}.png
-name: Gum 29
-ra_hr: 10.4018067478667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1509a.jpg
-zoom_level: 0.455278844343091
 ---
 _uuid: 55d60a2b-90e2-4149-8e66-62975d2cf43e
 classification: ''
