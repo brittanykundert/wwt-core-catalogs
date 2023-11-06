@@ -3722,17 +3722,6 @@ ra_hr: 12.8140283500667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1621b.jpg
 zoom_level: 18.3344374859039
 ---
-_uuid: ce73a644-ec71-4a1b-87ae-bdb6fad4caca
-classification: ''
-constellation: COM
-data_set_type: Sky
-dec_deg: 14.5965754086
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1709aL{1}X{2}Y{3}.png
-name: NGC 4298
-ra_hr: 12.3605687092
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1709a.jpg
-zoom_level: 0.365041903409562
----
 _uuid: 09732a8e-c20f-409d-813a-5cca30e57eaf
 classification: ''
 constellation: COM
@@ -4040,17 +4029,6 @@ name: NGC 4631
 ra_hr: 12.6994963648667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1146a.jpg
 zoom_level: 0.454798724094362
----
-_uuid: 9941b393-d648-4a9c-b8d1-0aefa8ee6201
-classification: ''
-constellation: COM
-data_set_type: Sky
-dec_deg: 15.8222934304
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1203aL{1}X{2}Y{3}.png
-name: M 100
-ra_hr: 12.3819092866667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1203a.jpg
-zoom_level: 0.0568885246671258
 ---
 _uuid: 021e5c8a-bf4d-431d-8c29-0b4e2d52b279
 classification: ''

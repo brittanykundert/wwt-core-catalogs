@@ -1088,17 +1088,6 @@ ra_hr: 4.63746799989333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1702e.jpg
 zoom_level: 0.00709282088962048
 ---
-_uuid: 28cf7d1c-b7c4-48ad-a3a5-aa0ffeb23dd4
-classification: ''
-constellation: HOR
-data_set_type: Sky
-dec_deg: -43.3704864493
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1712aL{1}X{2}Y{3}.png
-name: ngc 1510
-ra_hr: 4.06246495792667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1712a.jpg
-zoom_level: 0.360493646702182
----
 _uuid: b992f736-4ba0-4532-961b-986c4f3237ea
 classification: ''
 constellation: HOR
@@ -1109,17 +1098,6 @@ name: NGC 1512
 ra_hr: 4.06513209086667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1712b.jpg
 zoom_level: 9.17441275458355
----
-_uuid: 323968ba-b2da-46ff-be64-5bdba0e956ae
-classification: ''
-constellation: ERI
-data_set_type: Sky
-dec_deg: -24.0746335883
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1820bL{1}X{2}Y{3}.png
-name: MACS J0416.1-2403
-ra_hr: 4.26911046868667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1820b.jpg
-zoom_level: 0.246897348681728
 ---
 _uuid: de8fa19b-44e7-4eb5-800f-7ef938e4ee68
 classification: ''

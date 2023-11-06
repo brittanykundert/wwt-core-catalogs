@@ -81391,32 +81391,6 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="0.146012472448712"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="85.2541296679"
-    CenterY="-2.45331220032"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Barnard 33"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="-103"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="4"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1307aL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-    Xcxstatus="queue:hubble"
-  >
-    <Credits>NASA, ESA, and the Hubble Herita; This new Hubble image, captured and released to celebrate the telescope’s 23rd year in orbit, shows part of the sky in the const...</Credits>
-    <CreditsUrl>https://esahubble.org/images/heic1307a/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1307a.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="4.59328069668045"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -81908,58 +81882,6 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     <Credits>ESO/Digitized Sky Survey 2; The Fornax dwarf galaxy is one of the Milky Way’s neighbouring dwarf galaxies. New observations of four globular clusters — larg...</Credits>
     <CreditsUrl>https://esahubble.org/images/heic1425h/</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1425h.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="0.091203838578688"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="274.719656784"
-    CenterY="-13.8394365494"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Eagle Nebula"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="-34.98"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="5"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1501aL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-    Xcxstatus="queue:hubble"
-  >
-    <Credits>NASA, ESA/Hubble  and the Hubble; The NASA/ESA Hubble Space Telescope has revisited one of its most iconic and popular images: the Eagle Nebula’s Pillars of Creat...</Credits>
-    <CreditsUrl>https://esahubble.org/images/heic1501a/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1501a.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="0.091131922706432"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="274.717058739"
-    CenterY="-13.8347924699"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Eagle Nebula"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="-35.0600000000001"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="4"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1501bL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-    Xcxstatus="queue:hubble"
-  >
-    <Credits>NASA, ESA/Hubble and the Hubbl; The NASA/ESA Hubble Space Telescope has revisited one of its most iconic and popular images: the Eagle Nebula’s Pillars of Creat...</Credits>
-    <CreditsUrl>https://esahubble.org/images/heic1501b/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1501b.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -82483,32 +82405,6 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="0.113819711085773"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="156.027101218"
-    CenterY="-57.763449935"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Gum 29"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="-8.78000000000002"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="5"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1509aL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-    Xcxstatus="queue:hubble"
-  >
-    <Credits>NASA, ESA, the Hubble Heritage T;   This NASA/ESA Hubble Space Telescope image of the cluster Westerlund 2 and its surroundings has been released to celebrate Hub...</Credits>
-    <CreditsUrl>https://esahubble.org/images/heic1509a/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1509a.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="2.29506714651853"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -82636,32 +82532,6 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     <Credits>NASA, ESA, the Hubble Heritage T; The red dots scattered throughout the cosmic landscape captured in this NASA/ESA Hubble Space Telescope image are a rich populat...</Credits>
     <CreditsUrl>https://esahubble.org/images/heic1509f/</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1509f.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="0.0568698831945728"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="6.02778918685"
-    CenterY="-72.0813454574"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="47 Tucanae"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="-14.8399999999999"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="4"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1510aL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-    Xcxstatus="queue:hubble"
-  >
-    <Credits>NASA, ESA, and the Hubble Herita; This NASA/ESA Hubble Space Telescope image shows a globular cluster known as NGC 104 — or, more commonly, 47 Tucanae, since it i...</Credits>
-    <CreditsUrl>https://esahubble.org/images/heic1510a/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1510a.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -83081,32 +82951,6 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="0.0909341070426112"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="311.427588625"
-    CenterY="30.9649765181"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Cygnus Loop"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="-137.659999999999"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="5"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1520aL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-    Xcxstatus="queue:hubble"
-  >
-    <Credits>NASA, ESA, Hubble Heritage Team; This image shows a small section of the Veil Nebula, as it was observed by the NASA/ESA Hubble Space Telescope. This section of ...</Credits>
-    <CreditsUrl>https://esahubble.org/images/heic1520a/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1520a.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="4.58799410695373"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -83416,32 +83260,6 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     <Credits>NASA, ESA, Digitized Sky Survey ; This image shows the ground-based view of NGC 1600 and some of the other galaxies of the group it is located in....</Credits>
     <CreditsUrl>https://esahubble.org/images/heic1607b/</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1607b.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="0.0902006945447936"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="350.175386125"
-    CenterY="61.1912206849"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Bubble Nebula"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="-33.58"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="5"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1608aL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-    Xcxstatus="queue:hubble"
-  >
-    <Credits>NASA, ESA, Hubble Heritage Team; The Bubble Nebula, also known as NGC 7635, is an emission nebula located 8 000 light-years away. This stunning new image was obs...</Credits>
-    <CreditsUrl>https://esahubble.org/images/heic1608a/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1608a.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -83991,32 +83809,6 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="0.044644118441984"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="83.8669252541"
-    CenterY="-69.269874114"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="SN 1987A"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="-11.12"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="4"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1704aL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-    Xcxstatus="queue:hubble"
-  >
-    <Credits>NASA, ESA, and R. Kirshner (Harv; This new image of the supernova remnant SN 1987A was taken by the NASA/ESA Hubble Space Telescope in January 2017 using its Wide...</Credits>
-    <CreditsUrl>https://esahubble.org/images/heic1704a/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1704a.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="0.00186387743001395"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -84118,32 +83910,6 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     <Credits>ESA/Hubble, NASA; This image, taken with the NASA/ESA Hubble Space Telescope, shows the supernova remnant SNR 0509-68.7, also known as N103B (top ...</Credits>
     <CreditsUrl>https://esahubble.org/images/heic1707a/</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1707a.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="0.0912604758523904"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="185.408530638"
-    CenterY="14.5965754086"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="NGC 4298"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="-9.67999999999999"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="5"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1709aL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-    Xcxstatus="queue:hubble"
-  >
-    <Credits>NASA, ESA, and M. Mutchler (STSc; This image displays the galaxies NGC 4302 — seen edge-on — and NGC 4298, both located 55 million light-years away. They were obs...</Credits>
-    <CreditsUrl>https://esahubble.org/images/heic1709a/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1709a.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -84404,32 +84170,6 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     <Credits>ESA/Hubble; This image of Abell 370 was released in 2009. Compared to the new image, which contains more observation time, less structures a...</Credits>
     <CreditsUrl>https://esahubble.org/images/heic1711d/</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1711d.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="0.0901234116755456"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="60.9369743689"
-    CenterY="-43.3704864493"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="ngc 1510"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="-37.4600000000001"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="5"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1712aL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-    Xcxstatus="queue:hubble"
-  >
-    <Credits>ESA/Hubble, NASA; This composite image, created out of two different pointings from Hubble, shows the barred spiral galaxy NGC 1512 (left) and the...</Credits>
-    <CreditsUrl>https://esahubble.org/images/heic1712a/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1712a.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -85057,32 +84797,6 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="0.061724337170432"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="64.0366570303"
-    CenterY="-24.0746335883"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="MACS J0416.1-2403"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="-24.02"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="4"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1820bL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-    Xcxstatus="queue:hubble"
-  >
-    <Credits>NASA, ESA, and M. Montes (Univer; This image from the NASA/ESA Hubble Space Telescope shows the galaxy cluster MACS J0416. This is one of six being studied by the...</Credits>
-    <CreditsUrl>https://esahubble.org/images/heic1820b/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1820b.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="0.0200500161876992"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -85392,32 +85106,6 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     <Credits>ESA/Hubble, NASA, Digitized Sky ; This image shows the sky around the galaxy ESO 495-21. It was created from images forming part of the Digitized Sky Survey 2. Lo...</Credits>
     <CreditsUrl>https://esahubble.org/images/heic1911b/</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1911b.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="0.072041127936"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="22.3712981"
-    CenterY="-73.5590771"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Hubble ngc602"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="-80.6"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="4"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-ngc602L{1}X{2}Y{3}.png"
-    WidthFactor="1"
-    Xcxstatus="queue:hubble"
-  >
-    <Credits>X-ray: NASA/CXC/Univ.Potsdam/L.O;   NASA’s Chandra X-ray telescope has made the first detection of X-ray emission from young solar-type stars that lie outside our...</Credits>
-    <CreditsUrl>https://esahubble.org/images/ngc602/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-ngc602.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -92151,58 +91839,6 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     <Credits>ESA/Hubble &amp; NASA; This  classic shot of a galaxy in the constellation of Ursa Major was taken  by the NASA/ESA Hubble Space Telescope. NGC 3259 is...</Credits>
     <CreditsUrl>https://esahubble.org/images/potw1202a/</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1202a.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="0.0142221311667814"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="185.7286393"
-    CenterY="15.8222934304"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="M 100"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="35.760000000001"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="3"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1203aL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-    Xcxstatus="queue:hubble"
-  >
-    <Credits>ESA/Hubble &amp; NASA ; Messier 100 is a perfect example of a grand design spiral galaxy, a type of galaxy with prominent and very well-defined spiral a...</Credits>
-    <CreditsUrl>https://esahubble.org/images/potw1203a/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1203a.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="0.0070214772731904"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="340.125538955"
-    CenterY="3.35923541037"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Hubble potw1204a"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="124.26"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="1"
-    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1204aL{1}X{2}Y{3}.png"
-    WidthFactor="1"
-    Xcxstatus="queue:hubble"
-  >
-    <Credits>ESA/Hubble &amp; NASA; This NASA/ESA Hubble Space Telescope picture may trick you into thinking that the galaxy in it — known as UZC J224030.2+032131 —...</Credits>
-    <CreditsUrl>https://esahubble.org/images/potw1204a/</CreditsUrl>
-    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1204a.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"

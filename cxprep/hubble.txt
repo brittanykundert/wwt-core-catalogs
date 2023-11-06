@@ -15171,30 +15171,6 @@ wip: yes
 ---
 
 @image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1307aL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1307a.jpg
-
-credits> NASA, ESA, and the Hubble Herita; This new Hubble image, captured and
-released to celebrate the telescope’s 23rd year in orbit, shows part of the sky
-in the const...
-
-wip: yes
----
-
-@scene
-place_uuid: d5989ef9-af87-4bab-9261-506a01e64942
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1307aL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic1307a/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1307a.jpg
-
-text> Barnard 33
-
-wip: yes
----
-
-@image
 url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1310dL{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
@@ -15645,54 +15621,6 @@ outgoing_url: https://esahubble.org/images/heic1425h/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1425h.jpg
 
 text> Fornax Dwarf Spheroidal (Galaxy)
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1501aL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1501a.jpg
-
-credits> NASA, ESA/Hubble and the Hubble; The NASA/ESA Hubble Space Telescope
-has revisited one of its most iconic and popular images: the Eagle Nebula’s
-Pillars of Creat...
-
-wip: yes
----
-
-@scene
-place_uuid: f55ec926-11d5-4a99-9cbe-b51b46051f2a
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1501aL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic1501a/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1501a.jpg
-
-text> Eagle Nebula
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1501bL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1501b.jpg
-
-credits> NASA, ESA/Hubble and the Hubbl; The NASA/ESA Hubble Space Telescope has
-revisited one of its most iconic and popular images: the Eagle Nebula’s Pillars
-of Creat...
-
-wip: yes
----
-
-@scene
-place_uuid: 7288905f-3d6f-4834-b584-533c4623758d
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1501bL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic1501b/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1501b.jpg
-
-text> Eagle Nebula
 
 wip: yes
 ---
@@ -16177,30 +16105,6 @@ wip: yes
 ---
 
 @image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1509aL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1509a.jpg
-
-credits> NASA, ESA, the Hubble Heritage T; This NASA/ESA Hubble Space Telescope
-image of the cluster Westerlund 2 and its surroundings has been released to
-celebrate Hub...
-
-wip: yes
----
-
-@scene
-place_uuid: d923967d-3845-4977-8f19-e98fc5ee1714
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1509aL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic1509a/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1509a.jpg
-
-text> Gum 29
-
-wip: yes
----
-
-@image
 url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1509bL{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
@@ -16316,30 +16220,6 @@ outgoing_url: https://esahubble.org/images/heic1509f/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1509f.jpg
 
 text> Westerlund 2
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1510aL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1510a.jpg
-
-credits> NASA, ESA, and the Hubble Herita; This NASA/ESA Hubble Space Telescope
-image shows a globular cluster known as NGC 104 — or, more commonly, 47 Tucanae,
-since it i...
-
-wip: yes
----
-
-@scene
-place_uuid: 49c2c0c2-c195-4826-9aa8-8723ebc5eefd
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1510aL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic1510a/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1510a.jpg
-
-text> 47 Tucanae
 
 wip: yes
 ---
@@ -16726,30 +16606,6 @@ wip: yes
 ---
 
 @image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1520aL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1520a.jpg
-
-credits> NASA, ESA, Hubble Heritage Team; This image shows a small section of
-the Veil Nebula, as it was observed by the NASA/ESA Hubble Space Telescope. This
-section of ...
-
-wip: yes
----
-
-@scene
-place_uuid: 11da9ae7-c150-4daa-94d9-4ddfc1de824e
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1520aL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic1520a/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1520a.jpg
-
-text> Cygnus Loop
-
-wip: yes
----
-
-@image
 url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1520bL{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
@@ -17031,30 +16887,6 @@ outgoing_url: https://esahubble.org/images/heic1607b/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1607b.jpg
 
 text> NGC 1600
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1608aL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1608a.jpg
-
-credits> NASA, ESA, Hubble Heritage Team; The Bubble Nebula, also known as NGC
-7635, is an emission nebula located 8 000 light-years away. This stunning new
-image was obs...
-
-wip: yes
----
-
-@scene
-place_uuid: 122071fd-a2fa-42b9-a86b-1e0298f1366c
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1608aL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic1608a/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1608a.jpg
-
-text> Bubble Nebula
 
 wip: yes
 ---
@@ -17560,30 +17392,6 @@ wip: yes
 ---
 
 @image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1704aL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1704a.jpg
-
-credits> NASA, ESA, and R. Kirshner (Harv; This new image of the supernova
-remnant SN 1987A was taken by the NASA/ESA Hubble Space Telescope in January
-2017 using its Wide...
-
-wip: yes
----
-
-@scene
-place_uuid: 0d76874a-b1ae-4f3d-99f0-cc8a5c5a131f
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1704aL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic1704a/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1704a.jpg
-
-text> SN 1987A
-
-wip: yes
----
-
-@image
 url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1704cL{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
@@ -17675,30 +17483,6 @@ outgoing_url: https://esahubble.org/images/heic1707a/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1707a.jpg
 
 text> SNR 0509-68.7
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1709aL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1709a.jpg
-
-credits> NASA, ESA, and M. Mutchler (STSc; This image displays the galaxies NGC
-4302 — seen edge-on — and NGC 4298, both located 55 million light-years away.
-They were obs...
-
-wip: yes
----
-
-@scene
-place_uuid: ce73a644-ec71-4a1b-87ae-bdb6fad4caca
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1709aL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic1709a/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1709a.jpg
-
-text> NGC 4298
 
 wip: yes
 ---
@@ -17936,29 +17720,6 @@ outgoing_url: https://esahubble.org/images/heic1711d/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1711d.jpg
 
 text> Abell 370
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1712aL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1712a.jpg
-
-credits> ESA/Hubble, NASA; This composite image, created out of two different
-pointings from Hubble, shows the barred spiral galaxy NGC 1512 (left) and the...
-
-wip: yes
----
-
-@scene
-place_uuid: 28cf7d1c-b7c4-48ad-a3a5-aa0ffeb23dd4
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1712aL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic1712a/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1712a.jpg
-
-text> ngc 1510
 
 wip: yes
 ---
@@ -18534,30 +18295,6 @@ wip: yes
 ---
 
 @image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1820bL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1820b.jpg
-
-credits> NASA, ESA, and M. Montes (Univer; This image from the NASA/ESA Hubble
-Space Telescope shows the galaxy cluster MACS J0416. This is one of six being
-studied by the...
-
-wip: yes
----
-
-@scene
-place_uuid: 323968ba-b2da-46ff-be64-5bdba0e956ae
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1820bL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic1820b/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1820b.jpg
-
-text> MACS J0416.1-2403
-
-wip: yes
----
-
-@image
 url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1901bL{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
@@ -18839,30 +18576,6 @@ outgoing_url: https://esahubble.org/images/heic1911b/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1911b.jpg
 
 text> ESO 495-21
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-ngc602L{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-ngc602.jpg
-
-credits> X-ray: NASA/CXC/Univ.Potsdam/L.O; NASA’s Chandra X-ray telescope has
-made the first detection of X-ray emission from young solar-type stars that lie
-outside our...
-
-wip: yes
----
-
-@scene
-place_uuid: 9cdecd93-438a-4018-8702-9c97b870bee5
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-ngc602L{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/ngc602/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-ngc602.jpg
-
-text> Image File
 
 wip: yes
 ---
@@ -24974,53 +24687,6 @@ outgoing_url: https://esahubble.org/images/potw1202a/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1202a.jpg
 
 text> NGC 3259
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1203aL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1203a.jpg
-
-credits> ESA/Hubble & NASA ; Messier 100 is a perfect example of a grand design
-spiral galaxy, a type of galaxy with prominent and very well-defined spiral a...
-
-wip: yes
----
-
-@scene
-place_uuid: 9941b393-d648-4a9c-b8d1-0aefa8ee6201
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1203aL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/potw1203a/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1203a.jpg
-
-text> M 100
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1204aL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1204a.jpg
-
-credits> ESA/Hubble & NASA; This NASA/ESA Hubble Space Telescope picture may
-trick you into thinking that the galaxy in it — known as UZC J224030.2+032131
-—...
-
-wip: yes
----
-
-@scene
-place_uuid: 16785060-e685-42bf-ad48-3aa2aa0a6d33
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1204aL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/potw1204a/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1204a.jpg
-
-text> Image File
 
 wip: yes
 ---
