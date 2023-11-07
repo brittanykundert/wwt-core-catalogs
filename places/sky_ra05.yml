@@ -110,6 +110,7 @@ _uuid: 35873011-3af3-4123-87e5-a7dad9b098b4
 annotation: '{"channel": "eso", "itemid": "ann18006a", "publishedUTCISO8601": "2018-01-30T11:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:654a35e55dff7c3291e3a1dc
 data_set_type: Sky
 dec_deg: -69.10213330914965
 description: This image of the dramatic star formation region 30 Doradus, also known
@@ -127,6 +128,7 @@ _uuid: 3ada7de0-d754-4e41-a104-8f8621969885
 annotation: '{"channel": "eso", "itemid": "ann18006b", "publishedUTCISO8601": "2018-01-30T11:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:654a35e65dff7c3291e3a1de
 data_set_type: Sky
 dec_deg: -69.10213330914965
 description: This image of the dramatic star formation region 30 Doradus, also known
@@ -142,6 +144,7 @@ _uuid: 8f379ac2-060f-4365-b33f-ff7787005c3e
 annotation: '{"channel": "eso", "itemid": "ann21010b", "publishedUTCISO8601": "2021-07-06T14:00:00+00:00"}'
 classification: ''
 constellation: TAU
+cxstatus: in:654a35e85dff7c3291e3a1e2
 data_set_type: Sky
 dec_deg: 22.012041889298857
 description: This image of the Crab Nebula (also known as Messier 1) in the constellation
@@ -164,6 +167,7 @@ _uuid: 6d4cfc22-6ae4-4a9c-9dc5-356a9f93b063
 annotation: '{"channel": "eso", "itemid": "ann21010d", "publishedUTCISO8601": "2021-07-06T14:00:00+00:00"}'
 classification: ''
 constellation: TAU
+cxstatus: in:654a35ea5dff7c3291e3a1e6
 data_set_type: Sky
 dec_deg: 22.01533436368912
 description: This image of the Crab Nebula (also known as Messier 1) in the constellation
@@ -184,6 +188,7 @@ _uuid: 5ebd549a-d8f7-4ed2-8185-f7c57a4066d7
 annotation: '{"channel": "eso", "itemid": "eso0004b", "publishedUTCISO8601": "2000-01-28T00:00:00+00:00"}'
 classification: ''
 constellation: TAU
+cxstatus: in:654a35ec5dff7c3291e3a1ea
 data_set_type: Sky
 dec_deg: 22.02238245505049
 description: This is the central region of the Crab Nebula, the famous supernova remnant

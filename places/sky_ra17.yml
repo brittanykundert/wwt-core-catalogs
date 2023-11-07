@@ -12,6 +12,7 @@ _uuid: 9d01623c-135c-426f-8f20-82dbeace58c0
 annotation: '{"channel": "eso", "itemid": "ann21010a", "publishedUTCISO8601": "2021-07-06T14:00:00+00:00"}'
 classification: ''
 constellation: SCO
+cxstatus: in:654a35e75dff7c3291e3a1e0
 data_set_type: Sky
 dec_deg: -35.77492361544291
 description: This image of the star-forming region NGC 6334, also known as the Cat’s
@@ -32,6 +33,7 @@ _uuid: 973f6910-225d-4c25-b8d7-f2fd195cb592
 annotation: '{"channel": "eso", "itemid": "ann21010c", "publishedUTCISO8601": "2021-07-06T14:00:00+00:00"}'
 classification: ''
 constellation: SCO
+cxstatus: in:654a35e95dff7c3291e3a1e4
 data_set_type: Sky
 dec_deg: -35.77580197704966
 description: This image of the star-forming region NGC 6334, also known as the Cat’s
