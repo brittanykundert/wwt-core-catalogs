@@ -80,7 +80,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/eso/03_sn-1987a_cc/L{1}X{2}Y{3}.png"
     WidthFactor="2"
-    Xcxstatus="queue:eso"
+    Xcxstatus="in:654a32aa5dff7c3291e3a1be"
   >
     <Credits>ESO</Credits>
     <CreditsUrl>https://www.eso.org/public/images/03_sn-1987a_cc/</CreditsUrl>
@@ -108,7 +108,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/eso/05_sn-1987a_cc/L{1}X{2}Y{3}.png"
     WidthFactor="2"
-    Xcxstatus="queue:eso"
+    Xcxstatus="in:654a32ab5dff7c3291e3a1c0"
   >
     <Credits>ESO</Credits>
     <CreditsUrl>https://www.eso.org/public/images/05_sn-1987a_cc/</CreditsUrl>
@@ -136,7 +136,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/eso/06_sn-1987a_cc/L{1}X{2}Y{3}.png"
     WidthFactor="2"
-    Xcxstatus="queue:eso"
+    Xcxstatus="in:654a32ac5dff7c3291e3a1c2"
   >
     <Credits>ESO</Credits>
     <CreditsUrl>https://www.eso.org/public/images/06_sn-1987a_cc/</CreditsUrl>
@@ -164,7 +164,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/eso/10_sn-1987a_cc/L{1}X{2}Y{3}.png"
     WidthFactor="2"
-    Xcxstatus="queue:eso"
+    Xcxstatus="in:654a32ad5dff7c3291e3a1c4"
   >
     <Credits>ESO</Credits>
     <CreditsUrl>https://www.eso.org/public/images/10_sn-1987a_cc/</CreditsUrl>
@@ -192,7 +192,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/eso/16_sn-1987a_cc/L{1}X{2}Y{3}.png"
     WidthFactor="2"
-    Xcxstatus="queue:eso"
+    Xcxstatus="in:654a32ae5dff7c3291e3a1c6"
   >
     <Credits>ESO</Credits>
     <CreditsUrl>https://www.eso.org/public/images/16_sn-1987a_cc/</CreditsUrl>
@@ -220,39 +220,11 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/eso/20171102_whya/L{1}X{2}Y{3}.png"
     WidthFactor="2"
-    Xcxstatus="queue:eso"
+    Xcxstatus="in:654a32af5dff7c3291e3a1c8"
   >
     <Credits>ALMA (ESO/NAOJ/NRAO), Takigawa et al.</Credits>
     <CreditsUrl>https://www.eso.org/public/images/20171102_whya/</CreditsUrl>
     <ThumbnailUrl>http://data1.wwtassets.org/feeds/eso/20171102_whya/thumb.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="0.012931341531519272"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="188.504052708"
-    CenterY="7.70313610194"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Supernova 1994D in the galaxy NGC 4526"
-    OffsetX="0.007469343527450007"
-    OffsetY="0.005604165455046211"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="169.10075622098"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="4"
-    Url="http://data1.wwtassets.org/feeds/eso/ann11014a/L{1}X{2}Y{3}.png"
-    WidthFactor="2"
-    Xcxstatus="queue:eso"
-  >
-    <Credits>NASA/ESA, The Hubble Key Project Team and The High-Z Supernova Search Team</Credits>
-    <CreditsUrl>https://www.eso.org/public/images/ann11014a/</CreditsUrl>
-    <ThumbnailUrl>http://data1.wwtassets.org/feeds/eso/ann11014a/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"

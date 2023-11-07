@@ -3,6 +3,7 @@ annotation: '{"channel": "eso", "itemid": "03_sn-1987a_cc", "publishedUTCISO8601
   "2010-03-12T18:51:38+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:654a32ab5dff7c3291e3a1bf
 data_set_type: Sky
 dec_deg: -69.26905268109698
 description: 'Image in continuum light of the surroundings of supernova SN 1987A,
@@ -26,6 +27,7 @@ annotation: '{"channel": "eso", "itemid": "05_sn-1987a_cc", "publishedUTCISO8601
   "2010-03-12T18:51:39+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:654a32ab5dff7c3291e3a1c1
 data_set_type: Sky
 dec_deg: -69.2688537915643
 description: 'High resolution NTT image of SN 1987A taken from La Silla Observatory
@@ -46,6 +48,7 @@ annotation: '{"channel": "eso", "itemid": "06_sn-1987a_cc", "publishedUTCISO8601
   "2010-03-12T18:51:40+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:654a32ac5dff7c3291e3a1c3
 data_set_type: Sky
 dec_deg: -69.26900322410086
 description: 'High resolution NTT image of supernova SN 1987A taken from La Silla
@@ -66,6 +69,7 @@ annotation: '{"channel": "eso", "itemid": "10_sn-1987a_cc", "publishedUTCISO8601
   "2010-06-10T18:32:05+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:654a32ad5dff7c3291e3a1c5
 data_set_type: Sky
 dec_deg: -69.26901067810688
 description: 'Image of the neighbourhood of supernova SN 1987A, taken with the NTT,
@@ -85,6 +89,7 @@ annotation: '{"channel": "eso", "itemid": "16_sn-1987a_cc", "publishedUTCISO8601
   "2010-03-12T18:51:48+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:654a32ae5dff7c3291e3a1c7
 data_set_type: Sky
 dec_deg: -69.29247883392287
 description: 'This frame was obtained by NTT and EMMI in 1992, with 10 minutes exposure
