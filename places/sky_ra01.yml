@@ -1191,28 +1191,6 @@ ra_hr: 1.08429454666667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-80.jpg
 zoom_level: 0.489864757248
 ---
-_uuid: ba245a22-1e02-44d6-a185-0b52d7606608
-classification: ''
-constellation: PHE
-data_set_type: Sky
-dec_deg: -44.4423343648
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-ann11075aL{1}X{2}Y{3}.png
-name: Phoenix Dwarf
-ra_hr: 1.85205690008667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-ann11075a.jpg
-zoom_level: 0.11415207773225
----
-_uuid: 088ac65c-ac5c-44fb-acb5-3fc751dabd16
-classification: ''
-constellation: CET
-data_set_type: Sky
-dec_deg: -16.0172208166
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0106aL{1}X{2}Y{3}.png
-name: CS 31082-001
-ra_hr: 1.49307182726667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0106a.jpg
-zoom_level: 0.724772136472079
----
 _uuid: 3650e728-ace0-4b10-b808-20e9b60d1e5f
 classification: ''
 constellation: SCL
@@ -1267,17 +1245,6 @@ name: HE 0109-3518
 ra_hr: 1.19546726666667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1228a.jpg
 zoom_level: 0.57200541696
----
-_uuid: 78069559-b78f-4f3a-b1c1-88b901c485c5
-classification: ''
-constellation: TRI
-data_set_type: Sky
-dec_deg: 30.6739356771
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1424aL{1}X{2}Y{3}.png
-name: M 33
-ra_hr: 1.56447677516
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1424a.jpg
-zoom_level: 3.89789944921457
 ---
 _uuid: 06baf1c8-0f3f-4cea-a09b-e1c497170803
 classification: ''
@@ -1377,61 +1344,6 @@ name: 1E 0102.2-7219
 ra_hr: 1.06723938082
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1810d.jpg
 zoom_level: 0.08934434594816
----
-_uuid: f8696400-e4dc-4f30-965e-6c7c65b74726
-classification: ''
-constellation: SCL
-data_set_type: Sky
-dec_deg: -25.7575305791
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9857dL{1}X{2}Y{3}.png
-name: FORS Deep Field
-ra_hr: 1.10108087151333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9857d.jpg
-zoom_level: 0.333324649911091
----
-_uuid: 0a5669c8-cf0c-4238-8b24-b6e36632b1c2
-classification: ''
-constellation: PSC
-data_set_type: Sky
-dec_deg: 3.791666
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1048aL{1}X{2}Y{3}.png
-name: Arp 157
-ra_hr: 1.40965166666667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1048a.jpg
-zoom_level: 0.35889856512
----
-_uuid: 336f63c0-62ea-4cd5-9f4f-feb99159eeae
-classification: ''
-constellation: CET
-data_set_type: Sky
-dec_deg: -10.2318115604
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1107aL{1}X{2}Y{3}.png
-name: Abell 226
-ra_hr: 1.65462985778667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1107a.jpg
-zoom_level: 2.15994601005438
----
-_uuid: 04520a3a-2add-404f-abba-accf596e7699
-classification: ''
-constellation: SCL
-data_set_type: Sky
-dec_deg: -32.5431758287
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1807aL{1}X{2}Y{3}.png
-name: R Sculptoris
-ra_hr: 1.4494700712
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1807a.jpg
-zoom_level: 0.00039742648300585
----
-_uuid: 8e98df9b-27d3-461a-b8d7-e9b27793a76f
-classification: ''
-constellation: PHE
-data_set_type: Sky
-dec_deg: -44.4423889391
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1838aL{1}X{2}Y{3}.png
-name: Phoenix Dwarf
-ra_hr: 1.85176464709333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1838a.jpg
-zoom_level: 0.574165310154342
 ---
 _uuid: 3c8975db-2dfb-46df-8fa6-80e6b593d435
 classification: ''

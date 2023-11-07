@@ -803,39 +803,6 @@ ra_hr: 7.29246882
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-622b.jpg
 zoom_level: 0.406363930624
 ---
-_uuid: d6f647c3-f122-4a43-b7dc-e9c075127f12
-classification: ''
-constellation: PUP
-data_set_type: Sky
-dec_deg: -26.441611
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0544aL{1}X{2}Y{3}.png
-name: NGC 2467
-ra_hr: 7.87203613333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0544a.jpg
-zoom_level: 3.08023019053443
----
-_uuid: 55568f01-c854-4198-a6ae-e1133f447144
-classification: ''
-constellation: PUP
-data_set_type: Sky
-dec_deg: -25.949706
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0943bL{1}X{2}Y{3}.png
-name: V445 Puppis
-ra_hr: 7.63247653333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0943b.jpg
-zoom_level: 4.58224549888
----
-_uuid: 21aa9fdb-cade-4726-84cd-047ccb329583
-classification: ''
-constellation: PUP
-data_set_type: Sky
-dec_deg: -25.949656
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0943cL{1}X{2}Y{3}.png
-name: V445 Puppis
-ra_hr: 7.6324878
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0943c.jpg
-zoom_level: 18.3351278655654
----
 _uuid: 40dc9db0-e8fb-4834-9be5-4361c08de83d
 classification: ''
 constellation: VOL
@@ -869,17 +836,6 @@ ra_hr: 7.60662993333333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1115c.jpg
 zoom_level: 18.33920626688
 ---
-_uuid: 559156cc-53cb-4305-9888-c3db6281b7fa
-classification: ''
-constellation: CMA
-data_set_type: Sky
-dec_deg: -13.23017
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1238aL{1}X{2}Y{3}.png
-name: NGC 2359
-ra_hr: 7.30835806666667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1238a.jpg
-zoom_level: 0.57495420928
----
 _uuid: e24b3d18-ccaf-4d02-8f1a-5bf8ee1f56e9
 classification: ''
 constellation: PUP
@@ -902,17 +858,6 @@ ra_hr: 7.6097521462
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1441c.jpg
 zoom_level: 18.3487593790177
 ---
-_uuid: 21963b7a-e41a-446d-b6fa-d2bbb839aaf4
-classification: ''
-constellation: PUP
-data_set_type: Sky
-dec_deg: -46.9351380929
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1503aL{1}X{2}Y{3}.png
-name: CG4
-ra_hr: 7.5721985636
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1503a.jpg
-zoom_level: 0.572831312471654
----
 _uuid: 2990270f-313b-42a9-a0cf-c5904c29bb92
 classification: ''
 constellation: PUP
@@ -923,17 +868,6 @@ name: CG4
 ra_hr: 7.55712048453333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1503c.jpg
 zoom_level: 18.5685145846415
----
-_uuid: d0ac2cef-2f49-41f6-97bf-964a17c9a580
-classification: ''
-constellation: GEM
-data_set_type: Sky
-dec_deg: 13.2658378236
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1520aL{1}X{2}Y{3}.png
-name: Medusa Nebula
-ra_hr: 7.48647949046667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1520a.jpg
-zoom_level: 0.573405771746509
 ---
 _uuid: 8b77d7c3-c272-4570-9182-8bba00108d57
 classification: ''
@@ -1044,17 +978,6 @@ name: NGC 2442
 ra_hr: 7.60763480853333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-ngc2442.jpg
 zoom_level: 0.976425945462306
----
-_uuid: d54370d2-b61f-4834-9ea5-d969376ce4c4
-classification: ''
-constellation: CMA
-data_set_type: Sky
-dec_deg: -24.9661990997
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1911aL{1}X{2}Y{3}.png
-name: NGC 2362
-ra_hr: 7.3113580892
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1911a.jpg
-zoom_level: 0.573899349793178
 ---
 _uuid: d8602f43-bdb3-462c-814e-277451c53860
 classification: ''

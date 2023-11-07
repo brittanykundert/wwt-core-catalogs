@@ -1047,17 +1047,6 @@ ra_hr: 23.74553974
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-609.jpg
 zoom_level: 0.0893495361536
 ---
-_uuid: 1241a8d2-af46-4073-b9d0-9143a985c246
-classification: ''
-constellation: GRU
-data_set_type: Sky
-dec_deg: -38.977755
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0533aL{1}X{2}Y{3}.png
-name: GRB 050709
-ra_hr: 23.0241713333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0533a.jpg
-zoom_level: 0.22474801152
----
 _uuid: 70b7425e-7e3d-4b72-b966-a0f4e016f87e
 classification: ''
 constellation: PEG
@@ -1112,83 +1101,6 @@ name: Omega Centauri
 ra_hr: 23.841832373
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9411a.jpg
 zoom_level: 0.732086870637747
----
-_uuid: 83ce787e-2f62-4b70-9c22-6acbb2ead57c
-classification: ''
-constellation: PHE
-data_set_type: Sky
-dec_deg: -43.433091
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9720aL{1}X{2}Y{3}.png
-name: HE 2347-4342
-ra_hr: 23.8428640666667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9720a.jpg
-zoom_level: 0.96583139328
----
-_uuid: 94be1bbf-79f8-4db2-b6a8-883b049d62a9
-classification: ''
-constellation: PEG
-data_set_type: Sky
-dec_deg: 17.1925195327
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1710aL{1}X{2}Y{3}.png
-name: LL Pegasi
-ra_hr: 23.3201706366
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1710a.jpg
-zoom_level: 0.0220280119650838
----
-_uuid: b4891709-84e2-4e80-a6eb-21a62d399b41
-classification: ''
-constellation: PEG
-data_set_type: Sky
-dec_deg: 17.1925195327
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1710bL{1}X{2}Y{3}.png
-name: LL Pegasi
-ra_hr: 23.3201706366
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1710b.jpg
-zoom_level: 0.0220280119650714
----
-_uuid: 69718e39-386d-445c-bb46-8bf468d1e0c7
-classification: ''
-constellation: PSC
-data_set_type: Sky
-dec_deg: -2.07417818567
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1752aL{1}X{2}Y{3}.png
-name: RCS2 J2327
-ra_hr: 23.4577055958
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1752a.jpg
-zoom_level: 0.227710535442432
----
-_uuid: a8e0d286-600b-42ae-9921-2ff9be53a654
-classification: ''
-constellation: PSC
-data_set_type: Sky
-dec_deg: -2.07417818567
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1752bL{1}X{2}Y{3}.png
-name: RCS2 J2327
-ra_hr: 23.4577055958
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1752b.jpg
-zoom_level: 0.227710535442432
----
-_uuid: eb9b77f3-a4b6-4f39-bfcc-be0388813736
-classification: ''
-constellation: AQR
-data_set_type: Sky
-dec_deg: -15.2865758279
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1850aL{1}X{2}Y{3}.png
-name: R Aquarii
-ra_hr: 23.7304438447333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1850a.jpg
-zoom_level: 0.436331321624166
----
-_uuid: 9d6bb6a0-c6f3-457e-9765-59139f175501
-classification: ''
-constellation: AQR
-data_set_type: Sky
-dec_deg: -15.2865758279
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1850bL{1}X{2}Y{3}.png
-name: R Aquarii
-ra_hr: 23.7304438447333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1850b.jpg
-zoom_level: 0.436331321624166
 ---
 _uuid: 1e1cfaff-acfb-4674-8375-11e6f25d4713
 classification: ''

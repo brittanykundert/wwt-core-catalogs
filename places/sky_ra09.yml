@@ -730,28 +730,6 @@ ra_hr: 9.68441318
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-633.jpg
 zoom_level: 0.065371553792
 ---
-_uuid: befdc1e0-47e7-495d-8f79-edbe735c98ab
-classification: ''
-constellation: HYA
-data_set_type: Sky
-dec_deg: -20.343523
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0419cL{1}X{2}Y{3}.png
-name: RXCJ0937.9-2020
-ra_hr: 9.63376646666667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0419c.jpg
-zoom_level: 0.75128406016
----
-_uuid: 0b61ab49-3b27-4cc7-9b83-69b878e55f49
-classification: ''
-constellation: LYN
-data_set_type: Sky
-dec_deg: 33.123363
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0823aL{1}X{2}Y{3}.png
-name: NGC 2770
-ra_hr: 9.15933746666667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0823a.jpg
-zoom_level: 0.28616597504
----
 _uuid: 2a214ee5-ed17-44c2-b700-615d3496381f
 classification: ''
 constellation: ANT
@@ -773,17 +751,6 @@ name: COSMOS Field
 ra_hr: 9.99191223546667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1124c.jpg
 zoom_level: 18.3481374777978
----
-_uuid: 7bd0ac80-5920-478d-bc4a-e59786e2454a
-classification: ''
-constellation: VEL
-data_set_type: Sky
-dec_deg: -45.950068
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1236aL{1}X{2}Y{3}.png
-name: NGC 2736
-ra_hr: 9.003339
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1236a.jpg
-zoom_level: 4.33353129984
 ---
 _uuid: b51d2bc4-3dce-4c62-9d32-54a25097a96b
 classification: ''
@@ -851,50 +818,6 @@ ra_hr: 9.05326241733333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1522d.jpg
 zoom_level: 0.102364548030874
 ---
-_uuid: 77d0c42b-04cb-44dd-8aeb-6fc90e1a51e7
-classification: ''
-constellation: CAR
-data_set_type: Sky
-dec_deg: -72.055344
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9003dL{1}X{2}Y{3}.png
-name: ESO 060-G27
-ra_hr: 9.06689826666667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9003d.jpg
-zoom_level: 0.14212472832
----
-_uuid: 7c100573-300e-4f65-b99a-946b1f1fa871
-classification: ''
-constellation: ANT
-data_set_type: Sky
-dec_deg: -31.19135
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9921aL{1}X{2}Y{3}.png
-name: NGC 2997
-ra_hr: 9.76078433333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9921a.jpg
-zoom_level: 0.22605316096
----
-_uuid: 28b385ba-b9f0-48d4-961b-8e72c20c120c
-classification: ''
-constellation: ANT
-data_set_type: Sky
-dec_deg: -31.19135
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9921bL{1}X{2}Y{3}.png
-name: NGC 2997
-ra_hr: 9.76078433333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9921b.jpg
-zoom_level: 0.22636142592
----
-_uuid: 34d8c54e-994f-4e5b-bd54-bfa5379cfbdb
-classification: ''
-constellation: VOL
-data_set_type: Sky
-dec_deg: -68.226969
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9924fL{1}X{2}Y{3}.png
-name: ESO 60-24
-ra_hr: 9.04432553333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9924f.jpg
-zoom_level: 0.4553867264
----
 _uuid: e9f4cd39-145d-493d-acca-452326bbf33b
 classification: ''
 constellation: ANT
@@ -905,17 +828,6 @@ name: NGC 2997
 ra_hr: 9.76078433333333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-ngc_2997.jpg
 zoom_level: 0.62150443008
----
-_uuid: fd44dafd-df26-4deb-82e2-2513bb1f0404
-classification: ''
-constellation: SEX
-data_set_type: Sky
-dec_deg: -10.0243519601
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1304aL{1}X{2}Y{3}.png
-name: ACO 901-902 SUPERCLUSTER
-ra_hr: 9.93827288853333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1304a.jpg
-zoom_level: 2.16553008422584
 ---
 _uuid: 74a3e119-548b-4d7f-9800-f5d7224a2000
 classification: ''

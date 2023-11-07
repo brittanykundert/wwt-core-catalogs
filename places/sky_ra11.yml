@@ -1221,72 +1221,6 @@ ra_hr: 11.5309618066667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-563.jpg
 zoom_level: 0.0901533712384
 ---
-_uuid: 46ea6153-3e83-4e01-aef5-78eb6afde08c
-classification: ''
-constellation: CAR
-data_set_type: Sky
-dec_deg: -61.271524
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0137dL{1}X{2}Y{3}.png
-name: NGC 3603
-ra_hr: 11.2525444
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0137d.jpg
-zoom_level: 0.3366377472
----
-_uuid: 7f06e87f-5454-4a8f-8602-85a74011b3f3
-classification: ''
-constellation: CAR
-data_set_type: Sky
-dec_deg: -61.271524
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0317aL{1}X{2}Y{3}.png
-name: NGC 3603
-ra_hr: 11.2525444
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0317a.jpg
-zoom_level: 0.2863593472
----
-_uuid: 0474baad-2ce9-453a-9009-43c89b3e6b07
-classification: ''
-constellation: CRT
-data_set_type: Sky
-dec_deg: -19.9253789442
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0419bL{1}X{2}Y{3}.png
-name: Abell 1300
-ra_hr: 11.5325457336
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0419b.jpg
-zoom_level: 0.981191389539583
----
-_uuid: fc0cbd22-5982-47c5-a69a-a7733e14d470
-classification: ''
-constellation: CRT
-data_set_type: Sky
-dec_deg: -21.6775904063
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0614aL{1}X{2}Y{3}.png
-name: DPS Deep 3 Field
-ra_hr: 11.3425355948
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0614a.jpg
-zoom_level: 6.1203645803935
----
-_uuid: 203f41e3-35d2-4ba6-8f21-31e05ebcde21
-classification: ''
-constellation: CRT
-data_set_type: Sky
-dec_deg: -21.4844182366
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0614bL{1}X{2}Y{3}.png
-name: ESO 570-19
-ra_hr: 11.3303433879333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0614b.jpg
-zoom_level: 1.08307923277931
----
-_uuid: 70313cda-4c26-49e6-bda3-194d967e5351
-classification: ''
-constellation: CRT
-data_set_type: Sky
-dec_deg: -21.8664361892
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0614cL{1}X{2}Y{3}.png
-name: DPS Deep 3 Field
-ra_hr: 11.3095610366667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0614c.jpg
-zoom_level: 0.541752275608371
----
 _uuid: 5b4cd403-f2ee-4f4a-b3ea-16567ef718af
 classification: ''
 constellation: CAR
@@ -1297,17 +1231,6 @@ name: NGC 3576
 ra_hr: 11.1980957592
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0817b.jpg
 zoom_level: 0.338553543049216
----
-_uuid: 25a9fc01-f888-4a5f-8933-4b2a798f4e7d
-classification: ''
-constellation: CAR
-data_set_type: Sky
-dec_deg: -61.271524
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1005aL{1}X{2}Y{3}.png
-name: NGC 3603
-ra_hr: 11.2525444
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1005a.jpg
-zoom_level: 1.14881232896
 ---
 _uuid: 5cd2bf14-2608-4c87-8b1c-0db13c7a8e3f
 classification: ''
@@ -1418,17 +1341,6 @@ name: HD 100546
 ra_hr: 11.5569404255333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1310f.jpg
 zoom_level: 9.17478306368717
----
-_uuid: 50d46bce-800f-421e-84c8-1c191b22ca7a
-classification: ''
-constellation: CEN
-data_set_type: Sky
-dec_deg: -63.372898
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1322aL{1}X{2}Y{3}.png
-name: IC 2944
-ra_hr: 11.6389890666667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1322a.jpg
-zoom_level: 0.567771493115178
 ---
 _uuid: 9dc1b32d-3a71-4320-bbd5-4016595e09dc
 classification: ''
@@ -1573,17 +1485,6 @@ ra_hr: 11.9361813760667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1528c.jpg
 zoom_level: 0.910492165860557
 ---
-_uuid: 0f255381-49d6-4bcf-ab9b-498fdcf6619b
-classification: ''
-constellation: HYA
-data_set_type: Sky
-dec_deg: -34.3708069128
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1532aL{1}X{2}Y{3}.png
-name: PN K1-22
-ra_hr: 11.4455425365333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1532a.jpg
-zoom_level: 0.573839305357722
----
 _uuid: d6dc49c1-e030-4fd9-ab92-ee36ee5dd620
 classification: ''
 constellation: HYA
@@ -1694,17 +1595,6 @@ ra_hr: 11.9355218846667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1830b.jpg
 zoom_level: 9.18280437635482
 ---
-_uuid: 16afb08c-39a2-4da0-b7c7-0902079a2154
-classification: ''
-constellation: VIR
-data_set_type: Sky
-dec_deg: 4.10219917083
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9011aL{1}X{2}Y{3}.png
-name: (3933) Portugal
-ra_hr: 11.6905206914667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9011a.jpg
-zoom_level: 0.865034198826164
----
 _uuid: 1ad50fba-8bec-4da2-a058-8ab901c66da4
 classification: ''
 constellation: CRT
@@ -1715,72 +1605,6 @@ name: HE 1104-1805
 ra_hr: 11.1092770666667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9304a.jpg
 zoom_level: 0.48985718784
----
-_uuid: 3ba2b8fa-2daf-4bb6-9ed1-1eea8587aee6
-classification: ''
-constellation: CAR
-data_set_type: Sky
-dec_deg: -61.27153
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9946aL{1}X{2}Y{3}.png
-name: NGC 3603
-ra_hr: 11.2525638
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9946a.jpg
-zoom_level: 0.34081374208
----
-_uuid: 3d7e450c-1955-47eb-b964-a685b61b4283
-classification: ''
-constellation: CAR
-data_set_type: Sky
-dec_deg: -61.2596723465
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9946bL{1}X{2}Y{3}.png
-name: NGC 3603
-ra_hr: 11.2519552246667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9946b.jpg
-zoom_level: 0.0839760156205056
----
-_uuid: 2688cbc5-5626-485c-b591-e7d14cbcf71c
-classification: ''
-constellation: LEO
-data_set_type: Sky
-dec_deg: 13.5560067804
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1026aL{1}X{2}Y{3}.png
-name: NGC 3628
-ra_hr: 11.3370362864
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1026a.jpg
-zoom_level: 0.457782168396468
----
-_uuid: c1d5c34b-bd64-46ea-8ff4-693b91ca527b
-classification: ''
-constellation: CRV
-data_set_type: Sky
-dec_deg: -19.26522
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1030aL{1}X{2}Y{3}.png
-name: NGC 4027
-ra_hr: 11.991724
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1030a.jpg
-zoom_level: 0.27346579456
----
-_uuid: 6e5d9607-610c-4009-a309-d4d18e824c38
-classification: ''
-constellation: VIR
-data_set_type: Sky
-dec_deg: -1.71147041668
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1202aL{1}X{2}Y{3}.png
-name: COMBO-17 survey
-ra_hr: 11.715542794
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1202a.jpg
-zoom_level: 2.16702910921114
----
-_uuid: feaf9fa7-d25b-46f6-8f6a-db50be3f6aca
-classification: ''
-constellation: CEN
-data_set_type: Sky
-dec_deg: -59.9530792544
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1550aL{1}X{2}Y{3}.png
-name: NGC 3699
-ra_hr: 11.4663191146667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1550a.jpg
-zoom_level: 0.35893433664553
 ---
 _uuid: 18edad95-d568-40b0-9148-823d9b1beab7
 classification: ''

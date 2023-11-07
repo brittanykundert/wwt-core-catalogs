@@ -1421,116 +1421,6 @@ ra_hr: 19.9911432533333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-587d.jpg
 zoom_level: 0.205425573888
 ---
-_uuid: d3e4f9e3-77ad-4c50-b33e-f1c5bc56fe28
-classification: ''
-constellation: AQL
-data_set_type: Sky
-dec_deg: 15.777815
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0028aL{1}X{2}Y{3}.png
-name: Hen 2-428
-ra_hr: 19.2181222666667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0028a.jpg
-zoom_level: 0.09054343168
----
-_uuid: 42ebd865-3ef1-4012-b792-b5a5a456ec33
-classification: ''
-constellation: CRA
-data_set_type: Sky
-dec_deg: -36.95263
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0031aL{1}X{2}Y{3}.png
-name: R Coronae Australis
-ra_hr: 19.0315881333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0031a.jpg
-zoom_level: 3.03583215616
----
-_uuid: 28ead0b1-f0b1-4052-8614-9697bab91577
-classification: ''
-constellation: CRA
-data_set_type: Sky
-dec_deg: -36.952387
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0031bL{1}X{2}Y{3}.png
-name: R Coronae Australis
-ra_hr: 19.031569
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0031b.jpg
-zoom_level: 1.08365217792
----
-_uuid: 8f153273-27e0-4f9d-b514-7e339b3c09d2
-classification: ''
-constellation: AQL
-data_set_type: Sky
-dec_deg: 9.10347263017
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0322bL{1}X{2}Y{3}.png
-name: W49A
-ra_hr: 19.1711280502667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0322b.jpg
-zoom_level: 0.327502621745562
----
-_uuid: f11b6ce6-ca30-4b90-a5ea-358659748b23
-classification: ''
-constellation: PAV
-data_set_type: Sky
-dec_deg: -60.500983
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0413aL{1}X{2}Y{3}.png
-name: NGC 6769
-ra_hr: 19.3063043333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0413a.jpg
-zoom_level: 0.4692762624
----
-_uuid: 729ab86e-c65c-4458-9e7a-56c1ac93bb6c
-classification: ''
-constellation: SGR
-data_set_type: Sky
-dec_deg: -21.319267
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0755bL{1}X{2}Y{3}.png
-name: ESO 593-IG 008
-ra_hr: 19.2419660666667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0755b.jpg
-zoom_level: 0.0761724928
----
-_uuid: 2666c4db-bb12-4e9b-a0f3-4e98a8ef3414
-classification: ''
-constellation: CRA
-data_set_type: Sky
-dec_deg: -36.84999
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0806aL{1}X{2}Y{3}.png
-name: Corona Australis
-ra_hr: 19.0133373333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0806a.jpg
-zoom_level: 0.65546297344
----
-_uuid: b6672f38-d604-4f8b-a75d-46946f0eddc3
-classification: ''
-constellation: SGR
-data_set_type: Sky
-dec_deg: -14.803199
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0938aL{1}X{2}Y{3}.png
-name: NGC 6822
-ra_hr: 19.7493795333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0938a.jpg
-zoom_level: 2.16598478848
----
-_uuid: 6aedbe14-1007-49a5-9476-edb565f32338
-classification: ''
-constellation: SGR
-data_set_type: Sky
-dec_deg: -14.803198
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0938bL{1}X{2}Y{3}.png
-name: NGC 6822
-ra_hr: 19.7493892
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0938b.jpg
-zoom_level: 18.33850503168
----
-_uuid: 4fb9244a-dcd1-4515-b1b8-6f230bd4468e
-classification: ''
-constellation: CRA
-data_set_type: Sky
-dec_deg: -36.95263
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1027aL{1}X{2}Y{3}.png
-name: R Coronae Australis
-ra_hr: 19.0315881333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1027a.jpg
-zoom_level: 4.33073487872
----
 _uuid: c5043b35-71a3-46c0-866b-23147587856f
 classification: ''
 constellation: CRA
@@ -1541,17 +1431,6 @@ name: Corona Australis
 ra_hr: 19.0315910666667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1027b.jpg
 zoom_level: 15.98076665856
----
-_uuid: 304df651-5dcd-4a64-bb13-71ea2acddabc
-classification: ''
-constellation: CRA
-data_set_type: Sky
-dec_deg: -37.00541629
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1109aL{1}X{2}Y{3}.png
-name: NGC 6729
-ra_hr: 19.0261803
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1109a.jpg
-zoom_level: 0.91716845568
 ---
 _uuid: 535eb2e9-17e6-44c5-91c0-19af9b117172
 classification: ''
@@ -1685,39 +1564,6 @@ ra_hr: 19.7939062944
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1826a.jpg
 zoom_level: 0.0325178454904013
 ---
-_uuid: d87fd757-1d7a-4ee3-bf51-340ab1af0b73
-classification: ''
-constellation: SGR
-data_set_type: Sky
-dec_deg: -30.9641116689
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9821aL{1}X{2}Y{3}.png
-name: M 55
-ra_hr: 19.6664463566667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9821a.jpg
-zoom_level: 0.0964031276253184
----
-_uuid: 64dfc5da-fdbb-4dd7-b961-2b86e02ee7f3
-classification: ''
-constellation: VUL
-data_set_type: Sky
-dec_deg: 22.720973
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9846bL{1}X{2}Y{3}.png
-name: Dumbbell Nebula
-ra_hr: 19.9934416666667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9846b.jpg
-zoom_level: 0.32731201536
----
-_uuid: d8ef99ba-f6fb-49ec-bd32-6d6d2ce6050d
-classification: ''
-constellation: SGR
-data_set_type: Sky
-dec_deg: -30.964858
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-m55-3point6-m_copyL{1}X{2}Y{3}.png
-name: Messier 55
-ra_hr: 19.6665825333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-m55-3point6-m_copy.jpg
-zoom_level: 3.96194742272
----
 _uuid: 7c8f62a3-d0f8-4239-8a27-51688ca81886
 classification: ''
 constellation: AQL
@@ -1728,39 +1574,6 @@ name: NGC 6781
 ra_hr: 19.307779552
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-ngc6781-potw.jpg
 zoom_level: 0.358891551042765
----
-_uuid: 02e01760-60d5-48e4-bfa6-2be86d4b1bde
-classification: ''
-constellation: TEL
-data_set_type: Sky
-dec_deg: -54.538391248
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1621aL{1}X{2}Y{3}.png
-name: HD 181327
-ra_hr: 19.3830537082667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1621a.jpg
-zoom_level: 0.00863417218342912
----
-_uuid: b3184733-4268-48cc-b74c-52b786ef0443
-classification: ''
-constellation: SGR
-data_set_type: Sky
-dec_deg: -14.7973073214
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1711bL{1}X{2}Y{3}.png
-name: NGC 6822
-ra_hr: 19.7485105674
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1711b.jpg
-zoom_level: 2.16532414805443
----
-_uuid: ac157ac4-d405-4d78-a030-4870f38e111a
-classification: ''
-constellation: SGR
-data_set_type: Sky
-dec_deg: -17.6826960422
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1805aL{1}X{2}Y{3}.png
-name: Sagittarius Dwarf Irregular Galaxy
-ra_hr: 19.4999817112
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1805a.jpg
-zoom_level: 1.86585575117947
 ---
 _uuid: 4a9057f0-be7b-4c49-b409-9f689992fb54
 classification: ''

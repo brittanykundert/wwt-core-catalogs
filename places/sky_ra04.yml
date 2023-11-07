@@ -670,39 +670,6 @@ ra_hr: 4.26909288
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-622a.jpg
 zoom_level: 0.255819005952
 ---
-_uuid: d101461d-6fa0-4c11-960c-fbfadc6e31a6
-classification: ''
-constellation: DOR
-data_set_type: Sky
-dec_deg: -69.3469101997
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0310bL{1}X{2}Y{3}.png
-name: BAT99-2
-ra_hr: 4.82658731812
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0310b.jpg
-zoom_level: 0.756479249453056
----
-_uuid: 6cd6887d-ae1e-46f0-8b07-23f0bf4fde07
-classification: ''
-constellation: RET
-data_set_type: Sky
-dec_deg: -62.784163
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0527aL{1}X{2}Y{3}.png
-name: NGC 1559
-ra_hr: 4.2937114
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0527a.jpg
-zoom_level: 0.455532544
----
-_uuid: f8d32dd8-b621-40ec-b0b5-244ba3dfc05f
-classification: ''
-constellation: CAE
-data_set_type: Sky
-dec_deg: -29.8932138888
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0946bL{1}X{2}Y{3}.png
-name: HE0450-2958
-ra_hr: 4.87502916654
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0946b.jpg
-zoom_level: 0.01040623616
----
 _uuid: 1a1730de-7c88-4bd7-9202-f5f33fd99c24
 classification: ''
 constellation: MEN
@@ -802,17 +769,6 @@ ra_hr: 4.54173908260667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1434b.jpg
 zoom_level: 9.27388250420019
 ---
-_uuid: e5f2ee52-ddc3-4da8-b85a-c345e4bc3db8
-classification: ''
-constellation: TAU
-data_set_type: Sky
-dec_deg: 18.233609398
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1436aL{1}X{2}Y{3}.png
-name: HL Tauri
-ra_hr: 4.52732459384
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1436a.jpg
-zoom_level: 0.00248912381229224
----
 _uuid: ba6444d2-20f2-4d51-bc89-025409219343
 classification: ''
 constellation: TAU
@@ -845,50 +801,6 @@ name: MWC 480
 ra_hr: 4.97937586929333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1513b.jpg
 zoom_level: 18.3517920650199
----
-_uuid: 3d46dd5f-b2b4-4e40-ba7a-91bda1450735
-classification: ''
-constellation: ERI
-data_set_type: Sky
-dec_deg: -24.304886
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9805eL{1}X{2}Y{3}.png
-name: MRC 0406-244
-ra_hr: 4.14761973333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9805e.jpg
-zoom_level: 0.32928960512
----
-_uuid: ce8f3470-23f2-4562-aea8-93c736cc751e
-classification: ''
-constellation: ERI
-data_set_type: Sky
-dec_deg: -13.261745
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9954fL{1}X{2}Y{3}.png
-name: Abell 496
-ra_hr: 4.56048653333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9954f.jpg
-zoom_level: 2.1643333632
----
-_uuid: 0b46d58b-366f-4009-8cdd-4e4350fc5b0c
-classification: ''
-constellation: ERI
-data_set_type: Sky
-dec_deg: -13.261893
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9954gL{1}X{2}Y{3}.png
-name: Abell 496
-ra_hr: 4.56050286666667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9954g.jpg
-zoom_level: 0.5407674368
----
-_uuid: e4b5cd2d-9e1c-4308-af06-d2eb58604ed4
-classification: ''
-constellation: ERI
-data_set_type: Sky
-dec_deg: -13.2592548489
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9954hL{1}X{2}Y{3}.png
-name: Abell 496
-ra_hr: 4.56025772823333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9954h.jpg
-zoom_level: 0.272236985611878
 ---
 _uuid: 072bb60b-ce79-49da-999c-4af337edd0cd
 classification: ''
