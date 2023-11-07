@@ -574,50 +574,6 @@ ra_hr: 15.6860163733333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-79.jpg
 zoom_level: 0.0577568444748108
 ---
-_uuid: d2e4e4df-cd6d-45d6-a6de-16ea29cc9178
-classification: ''
-constellation: LIB
-data_set_type: Sky
-dec_deg: -7.377376
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0622aL{1}X{2}Y{3}.png
-name: MCG-01-39-003
-ra_hr: 15.3590528666667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0622a.jpg
-zoom_level: 0.45566500864
----
-_uuid: bba9e0ec-4a93-4b1b-b7a9-c213366d621c
-classification: ''
-constellation: LIB
-data_set_type: Sky
-dec_deg: -7.377376
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0622bL{1}X{2}Y{3}.png
-name: SN 2005cf
-ra_hr: 15.3590528666667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0622b.jpg
-zoom_level: 0.764962558883381
----
-_uuid: 15fc9291-6713-4f6b-a5f3-6de7015d9cbc
-classification: ''
-constellation: LIB
-data_set_type: Sky
-dec_deg: -7.722496
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0722cL{1}X{2}Y{3}.png
-name: Gliese 581
-ra_hr: 15.3241089333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0722c.jpg
-zoom_level: 0.50801061888
----
-_uuid: 1e4476a4-8c1f-4ce8-a3dc-817684805c8a
-classification: ''
-constellation: LIB
-data_set_type: Sky
-dec_deg: -7.722491
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0915cL{1}X{2}Y{3}.png
-name: Gliese 581
-ra_hr: 15.3241047333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0915c.jpg
-zoom_level: 18.3306656465411
----
 _uuid: 9b1aa34d-a7f2-41c9-902c-2d70c26bf86b
 classification: ''
 constellation: CEN
@@ -661,39 +617,6 @@ name: Arp 220
 ra_hr: 15.5826021702
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1645a.jpg
 zoom_level: 0.0284174192689971
----
-_uuid: 9e51dbee-5d21-4fbf-8385-d62e1c6d06f2
-classification: ''
-constellation: SER1
-data_set_type: Sky
-dec_deg: 12.912293
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9936aL{1}X{2}Y{3}.png
-name: NN Serpentis
-ra_hr: 15.882262
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9936a.jpg
-zoom_level: 0.54029877248
----
-_uuid: 262d8713-0e28-4c1a-a0dc-ae6a1e094749
-classification: ''
-constellation: NOR
-data_set_type: Sky
-dec_deg: -51.524649
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1131aL{1}X{2}Y{3}.png
-name: Fine Ring Nebula
-ra_hr: 15.8613773333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1131a.jpg
-zoom_level: 0.27321008128
----
-_uuid: 650cd3f5-5aaa-45d7-940e-32016eb5d4b2
-classification: ''
-constellation: CIR
-data_set_type: Sky
-dec_deg: -57.805078
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1231aL{1}X{2}Y{3}.png
-name: RCW 88
-ra_hr: 15.118859
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1231a.jpg
-zoom_level: 0.27395330048
 ---
 _uuid: f17981ae-1af7-4c8f-a724-b2becaac618f
 classification: ''

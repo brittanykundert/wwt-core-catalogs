@@ -3,6 +3,7 @@ angular_size: 1.3198323687799076
 annotation: '{"channel": "eso", "itemid": "eso-2613", "publishedUTCISO8601": "2009-12-03T23:19:57+00:00"}'
 classification: ''
 constellation: PYX
+cxstatus: in:654a35eb5dff7c3291e3a1e8
 data_set_type: Sky
 dec_deg: -22.973207793306916
 description: NGC 2613 is a rarely imaged spiral galaxy located about 60 million light
@@ -609,17 +610,6 @@ ra_hr: 8.69953482666667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-646.jpg
 zoom_level: 1.33837185024
 ---
-_uuid: c6e21819-0b0e-4d5c-b975-39405a5ab2be
-classification: ''
-constellation: PYX
-data_set_type: Sky
-dec_deg: -22.9728489658
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso-2613L{1}X{2}Y{3}.png
-name: NGC 2613
-ra_hr: 8.5562920794
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso-2613.jpg
-zoom_level: 0.898310631858176
----
 _uuid: 54fcf61d-9f32-4673-a358-764ee9b7e841
 classification: ''
 constellation: CNC
@@ -630,72 +620,6 @@ name: NGC 6822
 ra_hr: 8.51058209333333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0028f.jpg
 zoom_level: 0.616962546698158
----
-_uuid: ab670cda-bf05-4348-9a77-7dc5de43b15d
-classification: ''
-constellation: PYX
-data_set_type: Sky
-dec_deg: -22.9747509206
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0209gL{1}X{2}Y{3}.png
-name: NGC 2613
-ra_hr: 8.55577417486667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0209g.jpg
-zoom_level: 0.467506852237443
----
-_uuid: a7e72146-68da-4833-9d65-55518a25a8fc
-classification: ''
-constellation: PUP
-data_set_type: Sky
-dec_deg: -34.578677
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0805aL{1}X{2}Y{3}.png
-name: RS Puppis
-ra_hr: 8.2178256
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0805a.jpg
-zoom_level: 0.56606253056
----
-_uuid: ecbc654c-b83e-4b38-a94e-48faaa3387ae
-classification: ''
-constellation: VEL
-data_set_type: Sky
-dec_deg: -47.5104322223
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0929aL{1}X{2}Y{3}.png
-name: RCW 38
-ra_hr: 8.98493500826667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0929a.jpg
-zoom_level: 0.06149656576
----
-_uuid: 3651cf11-e611-414f-9ca8-a59432398ce2
-classification: ''
-constellation: VEL
-data_set_type: Sky
-dec_deg: -47.5293839654
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0929bL{1}X{2}Y{3}.png
-name: RCW 38
-ra_hr: 8.98553279533333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0929b.jpg
-zoom_level: 1.08258686150982
----
-_uuid: 8c3cdda5-3378-42aa-9344-5568510475e2
-classification: ''
-constellation: VEL
-data_set_type: Sky
-dec_deg: -47.532576
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0929cL{1}X{2}Y{3}.png
-name: RCW 38
-ra_hr: 8.99645153333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0929c.jpg
-zoom_level: 4.33313611776
----
-_uuid: 7b881a7b-f63a-44a0-b221-4805ab11a07b
-classification: ''
-constellation: VEL
-data_set_type: Sky
-dec_deg: -47.532344
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0929dL{1}X{2}Y{3}.png
-name: Digitized Sky Survey 2 (DSS 2)
-ra_hr: 8.99642773333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0929d.jpg
-zoom_level: 8.95663210496
 ---
 _uuid: e0c0d6f2-03ea-40ba-8e7b-92402cf3616f
 classification: ''
@@ -740,17 +664,6 @@ name: HH 46
 ra_hr: 8.42899093333333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1336c.jpg
 zoom_level: 1.14675662848
----
-_uuid: 7385c27b-ad20-4d50-99ca-9ae3ab83e637
-classification: ''
-constellation: VEL
-data_set_type: Sky
-dec_deg: -41.2506834636
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1420aL{1}X{2}Y{3}.png
-name: Gum 15
-ra_hr: 8.74926453526667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1420a.jpg
-zoom_level: 2.16562267369964
 ---
 _uuid: 953bd71d-ca7f-48f6-8511-44c7257691a6
 classification: ''
@@ -817,17 +730,6 @@ name: RCW 38
 ra_hr: 8.9964412
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9856b.jpg
 zoom_level: 0.24022450176
----
-_uuid: 0cb6ade1-eaae-41fe-a100-9b6fdb12731d
-classification: ''
-constellation: VEL
-data_set_type: Sky
-dec_deg: -41.3122276772
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1444aL{1}X{2}Y{3}.png
-name: Gum 15
-ra_hr: 8.7438122384
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1444a.jpg
-zoom_level: 0.573625216239206
 ---
 _uuid: 6e5cb3c5-f101-4ab0-9442-be9922f02bda
 classification: ''

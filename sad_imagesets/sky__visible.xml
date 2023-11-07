@@ -473,4 +473,33 @@
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2009-20a1-nasas-great-observatories-examine-the-galaxy-center</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2009-20a1.jpg</ThumbnailUrl>
   </ImageSet>
+  <ImageSet
+    _Reason="Bad astrometry; image way too small on sky"
+    BandPass="Visible"
+    BaseDegreesPerTile="0.012931341531519272"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="188.504052708"
+    CenterY="7.70313610194"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Supernova 1994D in the galaxy NGC 4526"
+    OffsetX="0.007469343527450007"
+    OffsetY="0.005604165455046211"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="169.10075622098"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/eso/ann11014a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcxstatus="in:654a32b05dff7c3291e3a1ca"
+  >
+    <Credits>NASA/ESA, The Hubble Key Project Team and The High-Z Supernova Search Team</Credits>
+    <CreditsUrl>https://www.eso.org/public/images/ann11014a/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/eso/ann11014a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
 </Folder>

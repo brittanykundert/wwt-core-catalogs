@@ -673,39 +673,6 @@ ra_hr: 21.0697215903333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1731e.jpg
 zoom_level: 18.3589115401994
 ---
-_uuid: f57142af-cc65-4996-97dc-e560f49b18a9
-classification: ''
-constellation: MIC
-data_set_type: Sky
-dec_deg: -37.627331
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9842cL{1}X{2}Y{3}.png
-name: ESO 342-G017
-ra_hr: 21.2030232666667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9842c.jpg
-zoom_level: 0.16862298112
----
-_uuid: 892ca55e-bec7-4237-91e0-28b743cfc16c
-classification: ''
-constellation: GRU
-data_set_type: Sky
-dec_deg: -39.385596
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1242aL{1}X{2}Y{3}.png
-name: IC 5148
-ra_hr: 21.9931139333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1242a.jpg
-zoom_level: 0.5478187008
----
-_uuid: 14a2e924-65b2-4e63-abb9-c9acd5343d88
-classification: ''
-constellation: OCT
-data_set_type: Sky
-dec_deg: -75.1111483215
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1730aL{1}X{2}Y{3}.png
-name: NGC 7098
-ra_hr: 21.7380862658667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1730a.jpg
-zoom_level: 0.573198416892723
----
 _uuid: fb01d381-7ee5-4941-a710-9f15cd9111c7
 classification: ''
 constellation: PEG

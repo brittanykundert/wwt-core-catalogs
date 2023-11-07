@@ -974,17 +974,6 @@ ra_hr: 22.4286232133333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-610f.jpg
 zoom_level: 0.252050522112
 ---
-_uuid: 8a387b03-e328-4d59-9236-118e129f746e
-classification: ''
-constellation: PSA
-data_set_type: Sky
-dec_deg: -35.3577289905
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0326aL{1}X{2}Y{3}.png
-name: Galaxies
-ra_hr: 22.4527847192
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0326a.jpg
-zoom_level: 0.5753847003136
----
 _uuid: 1283882c-d09e-439c-b165-17308c13434c
 classification: ''
 constellation: GRU
@@ -995,39 +984,6 @@ name: NGC 7424
 ra_hr: 22.9551126
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0436c.jpg
 zoom_level: 0.93685317632
----
-_uuid: 22321e4a-0f55-4ba8-9805-65ef23689857
-classification: ''
-constellation: PSA
-data_set_type: Sky
-dec_deg: -27.8158305712
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0649bL{1}X{2}Y{3}.png
-name: GRB 060505
-ra_hr: 22.1177846089333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0649b.jpg
-zoom_level: 0.456115572775291
----
-_uuid: f49bd9a8-48bb-49f7-ac3c-8d1336780135
-classification: ''
-constellation: PSA
-data_set_type: Sky
-dec_deg: -31.99353
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0802aL{1}X{2}Y{3}.png
-name: NGC 7173
-ra_hr: 22.0352352
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0802a.jpg
-zoom_level: 0.45574651904
----
-_uuid: ca1ffab5-9c43-467e-86f6-91f0a6088908
-classification: ''
-constellation: AQR
-data_set_type: Sky
-dec_deg: -20.837171
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso0907aL{1}X{2}Y{3}.png
-name: Helix Nebula
-ra_hr: 22.4940459333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso0907a.jpg
-zoom_level: 2.16790761472
 ---
 _uuid: 5e6f1134-795a-4088-b405-1e5486a99387
 classification: ''
@@ -1182,61 +1138,6 @@ name: HD 212087
 ra_hr: 22.3793020792667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1741b.jpg
 zoom_level: 18.5564891752038
----
-_uuid: a1f43d32-a40b-462e-a759-641d254c9863
-classification: ''
-constellation: AQR
-data_set_type: Sky
-dec_deg: -2.09582095963
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-eso9856dL{1}X{2}Y{3}.png
-name: CL2244-02
-ra_hr: 22.7866934763333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso9856d.jpg
-zoom_level: 0.13030144939819
----
-_uuid: acb6d166-bb23-449a-8eea-1571a8d37002
-classification: ''
-constellation: AQR
-data_set_type: Sky
-dec_deg: -20.83703
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-helixL{1}X{2}Y{3}.png
-name: Helix Nebula
-ra_hr: 22.4940357333333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-helix.jpg
-zoom_level: 3.89268570112
----
-_uuid: 0b667371-5110-4742-87bd-8b2f20ae1808
-classification: ''
-constellation: PSA
-data_set_type: Sky
-dec_deg: -29.6218084824
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1721aL{1}X{2}Y{3}.png
-name: Fomalhaut
-ra_hr: 22.9608485591333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1721a.jpg
-zoom_level: 0.0920909559886852
----
-_uuid: b78adf30-7fe6-4b32-98a3-55734b769f0a
-classification: ''
-constellation: AQR
-data_set_type: Sky
-dec_deg: -24.6784261606
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1806aL{1}X{2}Y{3}.png
-name: NGC 7252
-ra_hr: 22.3457471382
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1806a.jpg
-zoom_level: 0.0902158832574464
----
-_uuid: 54ef2926-3af8-4277-b21d-58a841e1e542
-classification: ''
-constellation: AQR
-data_set_type: Sky
-dec_deg: -24.6784261606
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/ESO-potw1806bL{1}X{2}Y{3}.png
-name: NGC 7252
-ra_hr: 22.3457471382
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-potw1806b.jpg
-zoom_level: 0.0902158832574464
 ---
 _uuid: a777b459-b28e-4160-b306-71335c148b10
 classification: ''
