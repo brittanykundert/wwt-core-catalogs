@@ -93,6 +93,7 @@ for posterity and to help make sure that work isn't duplicated.
 Operations are driven from the script `./cattool.py`, which has as Git-like
 subcommand interface.
 
+
 ### `cattool emit`
 
 The `emit` subcommand emits the WTML and XML files into the current directory.
@@ -183,6 +184,7 @@ export AZURE_STORAGE_CONNECTION_STRING=secret-for-wwtwebstatic
 az storage azcopy blob upload -c '$web' -s searchdata_v2.min.js -d data/
 ```
 
+
 ### `cattool ingest --cx-handle=HANDLE <WTML>`
 
 This reads a WTML file and updates `places/`, and `imagesets/` with its data
@@ -214,6 +216,7 @@ With the `--emit` option, this command will create a wholly new catalog template
 in `catfiles/` mirroring the input WTML's structure. You'll only want this
 option if you're importing a substantial, new image collection.
 
+
 ### `cattool update-cxprep`
 
 This command updates the Constellations "prep" files in the `cxprep/`
@@ -223,6 +226,7 @@ database.
 After running it, you should see any new records appended to the appropriate
 `cxprep/<handle>.txt` text file, with `wip: yes` flags indicating that they
 still need review.
+
 
 ### `cattool [--dry-run] register-cxprep`
 
@@ -249,9 +253,31 @@ validate that they look like you expect. The most important thing to check is
 that the bounding boxes and backgrounds of the new scenes are good; those are
 the things that you can't control before the Constellations items are created.
 
+
+### `cattool forget <URL> [URLs....]`
+
+Rewrite the main files to remove one or more imagesets by their URLs. Any places
+referencing those imagesets are removed, and any folders referencing those places
+or imagesets have those entries removed.
+
+This command is mainly meant to be used to remove duplicated imagesets. Ones
+that are busted in some way should ideally have their information logged into
+the `sad_imagesets` directory.
+
+If the removed imagesets are listed somewhere in the `cxprep/` tree, you should
+regenerate those files with the `update-cxprep` command to remove them from
+those files.
+
+The code that rewrites the folder YAML files unfortunately removes any comments
+that were in place. You should avoid committing spurious or undesired changes
+to such comments by putting them back, either manually or with a command like
+`git add -p`.
+
+
 ### `cattool report`
 
 Report the number of imagesets in the database.
+
 
 ### `cattool trace`
 
@@ -260,15 +286,18 @@ not referenced from any WTML collections. This indicates the presence of a known
 imageset that isn't accessible by the clients (with a small number of known
 false positives).
 
+
 ### `cattool format-imagesets`
 
 Read and rewrite the files in `imagesets/`, applying the system's organization
 and normalization. E.g., if you edit an imageset's bandpass setting, it will
 move into a new file.
 
+
 ### `cattool format-places`
 
 Like `format-imagesets`, but for places.
+
 
 ### `cattool ground-truth`
 
@@ -277,24 +306,29 @@ version that's currently being served by the production server and save it into
 the current directory. You can combine this with a temporary Git repository or
 other diffing solution in order to review the updates that you'll be uploading.
 
+
 ### `cattool prettify <XML>`
 
 Rewrite an XML file in "prettified" format, assuming that elements have lots of
 attributes. This is a low-level utility.
+
 
 ### `cattool replace-urls <SPEC-PATH>`
 
 A specialized, untested utility intended to update imageset URLs in a compatible
 way by using WWT's AltUrl support.
 
+
 ### `cattool add-alt-urls <SPEC-PATH>`
 
 A specialized utility to add AltUrl attributes to many imagesets at once.
+
 
 ### `cattool partition <PARTITION-PATH>`
 
 A specialized utility for partitioning images of the sky into different
 categories.
+
 
 ### `cattool emit-partition <PARTITION-PATH> <NAME> <WTML-PATH>`
 

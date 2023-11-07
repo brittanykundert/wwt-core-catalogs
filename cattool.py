@@ -18,7 +18,7 @@ import shutil
 import sys
 import textwrap
 import time
-from typing import Dict, Optional
+from typing import Dict, Optional, Tuple
 import uuid
 from xml.etree import ElementTree as etree
 import yaml
@@ -1418,6 +1418,94 @@ def do_emit_searchdata(settings):
         print(";")
 
 
+# forget
+
+
+def do_forget(settings):
+    # Remove the imageset definitions
+
+    idb = ImagesetDatabase()
+
+    for imgurl in settings.image_urls:
+        try:
+            del idb.by_url[imgurl]
+        except KeyError:
+            warn(f"no imageset with URL {imgurl}")
+
+    # Remove places that use the imageset(s)
+
+    pdb = PlaceDatabase()
+    image_urls = frozenset(settings.image_urls)
+    removed_pids = set()
+
+    for pid in list(pdb.by_uuid.keys()):
+        pinfo = pdb.by_uuid[pid]
+
+        for key in (
+            "image_set_url",
+            "background_image_set_url",
+            "foreground_image_set_url",
+        ):
+            url = pinfo.get(key)
+
+            if url is not None and url in image_urls:
+                break
+        else:
+            # loop did not exit early - no match
+            continue
+
+        del pdb.by_uuid[pid]
+        removed_pids.add(pid)
+
+    # Remove folder entries that use the places
+
+    def folder_child_filter(spec):
+        if isinstance(spec, str):
+            if spec.startswith("imageset "):
+                url = spec[9:]
+                if url in image_urls:
+                    return False
+            elif spec.startswith("place "):
+                pid = spec[6:]
+                if pid in removed_pids:
+                    return False
+
+        return True
+
+    for path in (BASEDIR / "catfiles").glob("*.yml"):
+        with path.open("rt", encoding="utf-8") as f:
+            root_info = yaml.load(f, yaml.SafeLoader)
+
+        def filter_folder(info: dict) -> Tuple[dict, bool]:
+            """Take care to keep track of whether we modified anything,
+            since automated rewrites of the YAML discard comments, leading to
+            excessive Git diffs."""
+
+            n_before = len(info["children"])
+            new_children = list(filter(folder_child_filter, info["children"]))
+            modified = len(new_children) != n_before
+
+            for i in range(len(new_children)):
+                spec = new_children[i]
+
+                if not isinstance(spec, str):
+                    new_children[i], child_modified = filter_folder(spec)
+                    modified = modified or child_modified
+
+            info["children"] = new_children
+            return info, modified
+
+        root_info, modified = filter_folder(root_info)
+
+        if modified:
+            write_one_yaml(path, root_info)
+
+    # Rewrite the other bits
+
+    idb.rewrite()
+    pdb.rewrite()
+
+
 # format-imagesets
 
 
@@ -1948,6 +2036,14 @@ def entrypoint():
         help="Directory with catalog files",
     )
 
+    forget = subparsers.add_parser("forget")
+    forget.add_argument(
+        "image_urls",
+        metavar="URL",
+        nargs="+",
+        help="URL(s) of imageset(s) to forget",
+    )
+
     _format_imagesets = subparsers.add_parser("format-imagesets")
     _format_places = subparsers.add_parser("format-places")
     _ground_truth = subparsers.add_parser("ground-truth")
@@ -2013,6 +2109,8 @@ def entrypoint():
         do_emit_partition(settings)
     elif settings.subcommand == "emit-searchdata":
         do_emit_searchdata(settings)
+    elif settings.subcommand == "forget":
+        do_forget(settings)
     elif settings.subcommand == "format-imagesets":
         do_format_imagesets(settings)
     elif settings.subcommand == "format-places":
