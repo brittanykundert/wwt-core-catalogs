@@ -2,6 +2,7 @@ _uuid: 714ef507-7f68-4037-8401-05ef226562a7
 annotation: '{"channel": "eso", "itemid": "eso0007a", "publishedUTCISO8601": "2000-02-23T00:00:00+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:654b8bbe5dff7c3291e3a55f
 data_set_type: Sky
 dec_deg: -11.623107265316092
 description: 'Image of the famous early-type spiral galaxy Messier 104, widely known
@@ -40,6 +41,7 @@ _uuid: dff9e189-ab26-41c3-bfa1-ed387ebed63d
 annotation: '{"channel": "eso", "itemid": "eso0007b", "publishedUTCISO8601": "2000-02-23T00:00:00+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:654b8bbf5dff7c3291e3a561
 data_set_type: Sky
 dec_deg: -11.624068676446429
 description: This is the eastern area of the Sombrero Galaxy, with the pronounced
@@ -61,6 +63,7 @@ _uuid: b0eb4e0b-8148-49eb-a58b-dbfeca2d6127
 annotation: '{"channel": "eso", "itemid": "eso0007c", "publishedUTCISO8601": "2000-02-23T00:00:00+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:654b8bc15dff7c3291e3a563
 data_set_type: Sky
 dec_deg: -11.62747562138153
 description: 'It is possible to follow the spiral structure of the Sombrero Galaxy

@@ -2,6 +2,7 @@ _uuid: e651c1a7-8367-4075-a27a-06b89c5e0a9f
 annotation: '{"channel": "eso", "itemid": "eso0006b", "publishedUTCISO8601": "2000-02-17T00:00:00+00:00"}'
 classification: ''
 constellation: FOR
+cxstatus: in:654b8bbd5dff7c3291e3a55d
 data_set_type: Sky
 dec_deg: -27.790444767534957
 description: This image is a combination of a K-band image from ANTU/ISAAC   with
@@ -22,6 +23,7 @@ _uuid: 5746b2e1-3193-4dfd-8315-a4d9fd90f7e2
 annotation: '{"channel": "eso", "itemid": "eso0024a", "publishedUTCISO8601": "2000-07-28T00:00:00+00:00"}'
 classification: ''
 constellation: FOR
+cxstatus: in:654b8bc25dff7c3291e3a565
 data_set_type: Sky
 dec_deg: -37.20344064204452
 description: Colour composite photo of the central area of NGC 1316, a giant elliptical
@@ -1448,6 +1450,18 @@ name: HH 211 (NIRCam image)
 ra_hr: 3.7326240269556163
 thumbnail: http://data1.wwtassets.org/packages/2023/10_jwst/weic2322b/thumb.jpg
 zoom_level: 0.3918254987951696
+---
+_uuid: 46544509-c425-4a8b-a152-2de1f3acc860
+classification: ''
+constellation: PER
+cxstatus: in:654b8bd05dff7c3291e3a573
+data_set_type: Sky
+dec_deg: 41.6144187915315
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/11_euclid/euclid-ero-perseuscluster/{1}/{3}/{3}_{2}.png
+name: Euclid's View of the Perseus Cluster of Galaxies
+ra_hr: 3.3120728199325264
+thumbnail: http://data1.wwtassets.org/packages/2023/11_euclid/euclid-ero-perseuscluster/thumb.jpg
+zoom_level: 7.4817136025077104
 ---
 _uuid: d82f4bbb-3dfb-484c-896f-af88eca90de8
 angular_size: 1.0

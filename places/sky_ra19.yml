@@ -2,6 +2,7 @@ _uuid: 46b244ef-3330-4d38-9f19-5c4ec7cbf90b
 annotation: '{"channel": "eso", "itemid": "eso0028a", "publishedUTCISO8601": "2000-09-04T00:00:00+00:00"}'
 classification: ''
 constellation: AQL
+cxstatus: in:654b8bc45dff7c3291e3a567
 data_set_type: Sky
 dec_deg: 15.780843952238612
 description: 'Colour composite of some of the first astronomical exposures obtained
@@ -24,6 +25,7 @@ _uuid: ca6e95a2-e8d1-48f2-a1df-b3af41904b1a
 annotation: '{"channel": "eso", "itemid": "eso0031a", "publishedUTCISO8601": "2000-10-06T00:00:00+00:00"}'
 classification: ''
 constellation: CRA
+cxstatus: in:654b8bc95dff7c3291e3a56b
 data_set_type: Sky
 dec_deg: -36.97533180060528
 description: 'This is a colour photo of the R Coronae Australis  region in the southern
@@ -51,6 +53,7 @@ _uuid: a4eb4e53-3eb6-4b32-a063-92eb58053d1a
 annotation: '{"channel": "eso", "itemid": "eso0031b", "publishedUTCISO8601": "2000-10-06T00:00:00+00:00"}'
 classification: ''
 constellation: CRA
+cxstatus: in:654b8bcb5dff7c3291e3a56d
 data_set_type: Sky
 dec_deg: -36.99487424749938
 description: 'This is a colour photo of a small area of about 12 x 12 arcmin 2, near

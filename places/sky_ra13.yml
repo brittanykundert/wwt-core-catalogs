@@ -45,6 +45,7 @@ _uuid: c0c108c3-1275-4a33-9606-11b11552b4bc
 annotation: '{"channel": "eso", "itemid": "eso0005b", "publishedUTCISO8601": "2000-02-08T00:00:00+00:00"}'
 classification: ''
 constellation: CEN
+cxstatus: in:654b8bba5dff7c3291e3a559
 data_set_type: Sky
 dec_deg: -43.01586369603458
 description: The new FORS2 image of Centaurus A, also known as NGC 5128, is an example
@@ -83,6 +84,7 @@ _uuid: 7b6b0417-8e26-4f60-9d6f-1b1093ecaa39
 annotation: '{"channel": "eso", "itemid": "eso0005c", "publishedUTCISO8601": "2000-02-08T00:00:00+00:00"}'
 classification: ''
 constellation: CEN
+cxstatus: in:654b8bbc5dff7c3291e3a55b
 data_set_type: Sky
 dec_deg: -43.000985704443536
 description: An area, north-west of the centre of Centaurus A  with a detailed view
