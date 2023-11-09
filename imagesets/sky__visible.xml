@@ -34142,6 +34142,72 @@ Image description: An image of a young star-forming region filled with wispy blu
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="1.3652439752108212"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="56.7000149669122"
+    CenterY="68.0969907746382"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Euclid's View of Spiral Galaxy IC 342"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-43.5164552687965"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2023/11_euclid/euclid-ero-ic342/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:654c63105dff7c3291e3a74a"
+  >
+    <Credits>ESA/Euclid/Euclid Consortium/NASA, image processing by J.-C. Cuillandre (CEA Paris-Saclay), G. Anselmi</Credits>
+    <CreditsUrl>https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness</CreditsUrl>
+    <Description>Over its lifetime, our dark Universe detective will image billions of galaxies, revealing the hidden influence that dark matter and dark energy have on them.
+
+				That’s why it’s fitting that one of the first galaxies that Euclid observed is nicknamed the ‘Hidden Galaxy’. This galaxy, also known as IC 342 or Caldwell 5, is difficult to observe because it lies behind the busy disc of our Milky Way, and so dust, gas and stars obscure our view.
+
+				Euclid could take this beautiful and sharp image thanks to its incredible sensitivity and superb optics. Most important here is that Euclid used its near-infrared instrument to peer through the dust and measure the light from the many cool and low-mass stars that dominate the galaxy's mass.
+				
+				[Technical details: The data in this image were taken in just about one hour of observation. This colour image was obtained by combining VIS data and NISP photometry in Y and H bands; its size is 8800 x 8800 pixels. VIS and NISP enable observing astronomical sources in four different wavelength ranges. Aesthetics choices led to the selection of three out of these four bands to be cast onto the traditional Red-Green-Blue colour channels used to represent images on our digital screens (RGB). The blue, green, red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1, and 1.7 micron respectively. This gives Euclid a distinctive colour palette: hot stars have a white-blue hue, excited hydrogen gas appears in the blue channel, and regions rich in dust and molecular gas have a clear red hue. Distant redshifted background galaxies appear very red. In the image, the stars have six prominent spikes due to how light interacts with the optical system of the telescope in the process of diffraction. Another signature of Euclid special optics is the presence of a few, very faint and small round regions of a fuzzy blue colour. These are normal artefacts of complex optical systems, so-called ‘optical ghost’; easily identifiable during data analysis, they do not cause any problem for the science goals. ]
+
+				[Image description: A big spiral galaxy is visible face-on in white/pink colours at the centre of this square astronomical image. The galaxy covers almost the entire image and appears whiter at its centre where more stars are located. Its spiral arms stretch out across the image and appear fainter at the edges. The entire image is speckled with stars ranging in colour from blue to white to yellow/red, across a black background of space. Blue stars are younger and red stars are older. A few of the stars are a bit larger than the rest, with six diffraction spikes.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/11_euclid/euclid-ero-ic342/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.3653066189058702"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="296.236657596121"
+    CenterY="-14.7882697614798"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Euclid's View of Irregular Galaxy NGC 6822"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-14.646908344247402"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2023/11_euclid/euclid-ero-ngc6822/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:654c63125dff7c3291e3a74c"
+  >
+    <Credits>ESA/Euclid/Euclid Consortium/NASA, image processing by J.-C. Cuillandre (CEA Paris-Saclay), G. Anselmi</Credits>
+    <CreditsUrl>https://www.esa.int/ESA_Multimedia/Images/2023/11/Euclid_s_view_of_irregular_galaxy_NGC_6822</CreditsUrl>
+    <Description>To create a 3D map of the Universe, Euclid will observe the light from galaxies out to 10 billion light-years. Most galaxies in the early Universe don’t look like the quintessential neat spiral, but are irregular and small. They are the building blocks for bigger galaxies like our own, and we can still find some of these galaxies relatively close to us. This first irregular dwarf galaxy that Euclid observed is called NGC 6822 and is located close by, just 1.6 million light-years from Earth.
+				
+				[Technical details: The data in this image were taken in just five hours of observation. This colour image was obtained by combining VIS data and NISP photometry in Y and H bands; its size is 8800 x 8800 pixels. VIS and NISP enable observing astronomical sources in four different wavelength ranges. Aesthetics choices led to the selection of three out of these four bands to be cast onto the traditional Red-Green-Blue colour channels used to represent images on our digital screens (RGB). The blue, green, red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1, and 1.7 micron respectively. This gives Euclid a distinctive colour palette: hot stars have a white-blue hue, excited hydrogen gas appears in the blue channel, and regions rich in dust and molecular gas have a clear red hue. Distant redshifted background galaxies appear very red. In the image, the stars have six prominent spikes due to how light interacts with the optical system of the telescope in the process of diffraction. Another signature of Euclid special optics is the presence of a few, very faint and small round regions of a fuzzy blue colour. These are normal artefacts of complex optical systems, so-called ‘optical ghost’; easily identifiable during data analysis, they do not cause any problem for the science goals.]
+
+				[Image description: This square astronomical image is speckled with numerous stars visible across the black expanse of space. Most stars are visible only as pinpoints. More stars are crowding the centre of the image, visible as an irregular round shape. This is an irregular galaxy. The centre of the galaxy appears whiter and the edges yellower. Several pink bubbles are visible spread throughout the galaxy, these are star forming regions. The stars across the entire image range in colour from blue to white to yellow/red, across a black background of space. Blue stars are younger and red stars are older. A few of the stars are a bit larger than the rest, with six diffraction spikes.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/11_euclid/euclid-ero-ngc6822/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="1.3656461192456142"
     BaseTileLevel="0"
     BottomsUp="False"
