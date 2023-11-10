@@ -357,6 +357,7 @@ zoom_level: 1.0
 _uuid: 2e4cb804-37c6-4e82-a08f-b26d0a946173
 classification: ''
 constellation: SER1
+cxstatus: in:654e41445dff7c3291e3a98c
 data_set_type: Sky
 dec_deg: -3.3014253
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-134L{1}X{2}Y{3}.png
@@ -368,6 +369,7 @@ zoom_level: 1.182966120448
 _uuid: 291b8441-5d9d-4dea-8341-ed882fec7b1b
 classification: ''
 constellation: CIR
+cxstatus: in:654e41575dff7c3291e3a9b4
 data_set_type: Sky
 dec_deg: -59.1222431
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-170L{1}X{2}Y{3}.png
