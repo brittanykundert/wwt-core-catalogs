@@ -728,6 +728,7 @@ zoom_level: 1.0
 _uuid: 0646a9a8-8adc-4568-a438-1ecd56f23884
 classification: ''
 constellation: CVN
+cxstatus: in:654e41495dff7c3291e3a996
 data_set_type: Sky
 dec_deg: 34.1903186
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-150L{1}X{2}Y{3}.png
@@ -739,6 +740,7 @@ zoom_level: 0.1059073605632
 _uuid: 0aade191-3dca-4f32-a1d9-d0d4ca87f3fe
 classification: ''
 constellation: BOO
+cxstatus: in:654e414d5dff7c3291e3a99e
 data_set_type: Sky
 dec_deg: 43.0168431
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-154L{1}X{2}Y{3}.png
@@ -750,6 +752,7 @@ zoom_level: 0.46939848704
 _uuid: ef195ceb-6241-48d8-a904-d05030b5c042
 classification: ''
 constellation: CIR
+cxstatus: in:654e414f5dff7c3291e3a9a2
 data_set_type: Sky
 dec_deg: -65.340514
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-156L{1}X{2}Y{3}.png

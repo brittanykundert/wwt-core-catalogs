@@ -1103,6 +1103,7 @@ zoom_level: 0.1077344731136
 _uuid: 6c28497b-7510-49a4-b11d-38ef3a4b1306
 classification: ''
 constellation: CAR
+cxstatus: in:654e41485dff7c3291e3a994
 data_set_type: Sky
 dec_deg: -61.2613669
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-148L{1}X{2}Y{3}.png
@@ -1114,6 +1115,7 @@ zoom_level: 0.52123451392
 _uuid: 621a5e58-1ddb-482b-84fb-bc5ce8f06e00
 classification: ''
 constellation: UMA
+cxstatus: in:654e414e5dff7c3291e3a9a0
 data_set_type: Sky
 dec_deg: 48.0362949
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-1555L{1}X{2}Y{3}.png
