@@ -1415,6 +1415,7 @@ zoom_level: 18.9124792975958
 _uuid: eb2df032-884e-4d46-bf63-586e5ea0c6f5
 classification: ''
 constellation: PEG
+cxstatus: in:6551ac2c5dff7c3291e3aeeb
 data_set_type: Sky
 dec_deg: 29.4734
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-03aL{1}X{2}Y{3}.png
@@ -1426,6 +1427,7 @@ zoom_level: 0.5322031104
 _uuid: 0ff132c0-2deb-455f-b262-e0b4df59aebf
 classification: ''
 constellation: CEP
+cxstatus: in:6551ac315dff7c3291e3aeed
 data_set_type: Sky
 dec_deg: 62.3713889954074
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-08aL{1}X{2}Y{3}.png
@@ -1448,6 +1450,7 @@ zoom_level: 5.46144256
 _uuid: 92066867-1118-465d-bdb6-a1b29389a136
 classification: ''
 constellation: CEP
+cxstatus: in:6551ac315dff7c3291e3aeef
 data_set_type: Sky
 dec_deg: 62.3713889954074
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-08cL{1}X{2}Y{3}.png
