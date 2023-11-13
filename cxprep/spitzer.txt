@@ -168,78 +168,6 @@ wip: yes
 ---
 
 @image
-url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-12a1L{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2004-12a1.jpg
-
-credits> Credit: NASA/JPL-Caltech/M. Rega; This composite infrared image from
-NASA's Spitzer Space Telescope has captured a nearby spiral galaxy that
-resembles our own Mil...
-
-wip: yes
----
-
-@scene
-place_uuid: c27276c9-524b-4954-97d6-0372c6ef95ca
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-12a1L{1}X{2}Y{3}.png
-outgoing_url: https://www.spitzer.caltech.edu/image/ssc2004-12a1-spitzer-composite-view-of-ngc-7331
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2004-12a1.jpg
-
-text> NGC 7331
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-12a2L{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2004-12a2.jpg
-
-credits> Credit: NASA/JPL-Caltech/M. Rega; This infrared image from NASA's
-Spitzer Space Telescope has captured a nearby spiral galaxy that resembles our
-own Milky Way. Th...
-
-wip: yes
----
-
-@scene
-place_uuid: ca293255-ba90-46c8-87ab-e306576b63af
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-12a2L{1}X{2}Y{3}.png
-outgoing_url: https://www.spitzer.caltech.edu/image/ssc2004-12a2-spitzer-near-infrared-view-of-ngc-7331
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2004-12a2.jpg
-
-text> NGC 7331
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-12a3L{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2004-12a3.jpg
-
-credits> Credit: NASA/JPL-Caltech/M. Rega; This infrared image from NASA's
-Spitzer Space Telescope has captured a nearby spiral galaxy that resembles our
-own Milky Way. Th...
-
-wip: yes
----
-
-@scene
-place_uuid: db5ec41f-09cc-455a-8534-47880513ebeb
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-12a3L{1}X{2}Y{3}.png
-outgoing_url: https://www.spitzer.caltech.edu/image/ssc2004-12a3-spitzer-mid-inrared-view-of-ngc-7331
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2004-12a3.jpg
-
-text> NGC 7331
-
-wip: yes
----
-
-@image
 url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-20a2L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
@@ -331,30 +259,6 @@ outgoing_url: https://www.spitzer.caltech.edu/image/ssc2006-01b1-spitzer-and-hub
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2006-01b1.jpg
 
 text> Helix Nebula
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2006-08a1L{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2006-08a1.jpg
-
-credits> NASA/JPL-Caltech/Max-Planck Inst; This false-color composite image of
-the Stephan's Quintet galaxy cluster clearly shows one of the largest shock
-waves ever seen ...
-
-wip: yes
----
-
-@scene
-place_uuid: a21e1999-6fcb-4908-bcb7-a9cbdc8fc67f
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2006-08a1L{1}X{2}Y{3}.png
-outgoing_url: https://www.spitzer.caltech.edu/image/ssc2006-08a1-a-shocking-surprise-in-stephans-quintet
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2006-08a1.jpg
-
-text> Stephan's Quintet
 
 wip: yes
 ---
@@ -480,53 +384,6 @@ wip: yes
 ---
 
 @image
-url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-03aL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2019-03a.jpg
-
-credits> NASA/JPL-Caltech; This image shows the merger of two galaxies, known as
-NGC 7752 (larger) and NGC 7753 (smaller), also collectively called Arp86. ...
-
-wip: yes
----
-
-@scene
-place_uuid: eb2df032-884e-4d46-bf63-586e5ea0c6f5
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-03aL{1}X{2}Y{3}.png
-outgoing_url: https://www.spitzer.caltech.edu/image/ssc2019-03a-galaxy-merger-arp86
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2019-03a.jpg
-
-text> NGC 7752
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-08aL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2019-08a.jpg
-
-credits> NASA/JPL-Caltech; This image was compiled using data from NASA's
-Spitzer Space Telescope using the Infrared Array Camera (IRAC) and the Multiband
-...
-
-wip: yes
----
-
-@scene
-place_uuid: 0ff132c0-2deb-455f-b262-e0b4df59aebf
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-08aL{1}X{2}Y{3}.png
-outgoing_url: https://www.spitzer.caltech.edu/image/ssc2019-08a-cepheus-c-and-cepheus-b-irac-mips
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2019-08a.jpg
-
-text> Cepheus B
-
-wip: yes
----
-
-@image
 url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-08bL{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
@@ -544,30 +401,6 @@ place_uuid: a4f2512a-7d50-409e-bda9-7614fc2b67e1
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-08bL{1}X{2}Y{3}.png
 outgoing_url: https://www.spitzer.caltech.edu/image/ssc2019-08b-cepheus-c-and-cepheus-b-irac-mips-annotated
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2019-08b.jpg
-
-text> Cepheus B
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-08cL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2019-08c.jpg
-
-credits> NASA/JPL-Caltech; This image shows data from NASA's Spitzer Space
-Telescope, from the IRAC instrument, with colors corresponding to wavelengths
-of...
-
-wip: yes
----
-
-@scene
-place_uuid: 92066867-1118-465d-bdb6-a1b29389a136
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-08cL{1}X{2}Y{3}.png
-outgoing_url: https://www.spitzer.caltech.edu/image/ssc2019-08c-cepheus-c-and-cepheus-b-irac
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Spitzer-ssc2019-08c.jpg
 
 text> Cepheus B
 

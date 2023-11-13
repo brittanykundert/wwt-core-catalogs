@@ -34177,6 +34177,43 @@ Image description: An image of a young star-forming region filled with wispy blu
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="1.3656924869601346"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="265.175000909276"
+    CenterY="-53.6758206630084"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Euclid’s View of Globular Cluster NGC 6397"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-2.068666924257689"
+    Sparse="False"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2023/11_euclid/euclid-ero-ngc6397/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:6551b7295dff7c3291e3af07"
+  >
+    <Credits>ESA/Euclid/Euclid Consortium/NASA, image processing by J.-C. Cuillandre (CEA Paris-Saclay), G. Anselmi</Credits>
+    <CreditsUrl>https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_view_of_globular_cluster_NGC_6397</CreditsUrl>
+    <Description>This sparkly image shows Euclid’s view on a globular cluster called NGC 6397. Globular clusters are collections of hundreds of thousands of stars held together by gravity.
+
+Located about 7800 light-years from Earth, NGC 6397 is the second-closest globular cluster to us. Together with other globular clusters it orbits in the disc of the Milky Way, where the majority of stars are located.
+
+Globular clusters are some of the oldest objects in the Universe. That’s why they contain a lot of clues about the history and evolution of their host galaxies, like this one for the Milky Way.
+
+The challenge is that it is typically difficult to observe an entire globular cluster in just one sitting. Their centres contain lots of stars, so many that the brightest ‘drown out’ the fainter ones. Their outer regions extend a long way out and contain mostly low-mass, faint stars. It is the faint stars that can tell us about previous interactions with the Milky Way.
+
+[Technical details: The data in this image were taken in just about one hour of observation. This colour image was obtained by combining VIS data and NISP photometry in Y and H bands; its size is 8800 x 8800 pixels. VIS and NISP enable observing astronomical sources in four different wavelength ranges. Aesthetics choices led to the selection of three out of these four bands to be cast onto the traditional Red-Green-Blue colour channels used to represent images on our digital screens (RGB). The blue, green, red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1, and 1.7 micron respectively. This gives Euclid a distinctive colour palette: hot stars have a white-blue hue, excited hydrogen gas appears in the blue channel, and regions rich in dust and molecular gas have a clear red hue. Distant redshifted background galaxies appear very red. In the image, the stars have six prominent spikes due to how light interacts with the optical system of the telescope in the process of diffraction. Another signature of Euclid special optics is the presence of a few, very faint and small round regions of a fuzzy blue colour. These are normal artefacts of complex optical systems, so-called ‘optical ghost’; easily identifiable during data analysis, they do not cause any problem for the science goals. ]
+
+[Image description: This square astronomical image is speckled with hundreds of thousands of stars visible across the black expanse of space. The stars vary in size and colour, from blue to white to yellow/red. Blue stars are younger and red stars are older. More stars are located at the centre of the image, where they are bound together by gravity into a spheroid conglomeration – also called a globular cluster. Some of the stars are a bit larger than the rest, with six diffraction spikes.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2023/11_euclid/euclid-ero-ngc6397/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="1.3653066189058702"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -92046,7 +92083,7 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     TileLevels="2"
     Url="http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-12a1L{1}X{2}Y{3}.png"
     WidthFactor="1"
-    Xcxstatus="queue:spitzer"
+    Xcxstatus="in:6551ac245dff7c3291e3aee2"
   >
     <Credits>Credit: NASA/JPL-Caltech/M. Rega; This composite infrared image from NASA's Spitzer Space Telescope has captured a nearby spiral galaxy that resembles our own Mil...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-12a1-spitzer-composite-view-of-ngc-7331</CreditsUrl>
@@ -92072,7 +92109,7 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     TileLevels="2"
     Url="http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-12a2L{1}X{2}Y{3}.png"
     WidthFactor="1"
-    Xcxstatus="queue:spitzer"
+    Xcxstatus="in:6551ac245dff7c3291e3aee4"
   >
     <Credits>Credit: NASA/JPL-Caltech/M. Rega; This infrared image from NASA's Spitzer Space Telescope has captured a nearby spiral galaxy that resembles our own Milky Way. Th...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-12a2-spitzer-near-infrared-view-of-ngc-7331</CreditsUrl>
@@ -92098,7 +92135,7 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     TileLevels="2"
     Url="http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2004-12a3L{1}X{2}Y{3}.png"
     WidthFactor="1"
-    Xcxstatus="queue:spitzer"
+    Xcxstatus="in:6551ac255dff7c3291e3aee6"
   >
     <Credits>Credit: NASA/JPL-Caltech/M. Rega; This infrared image from NASA's Spitzer Space Telescope has captured a nearby spiral galaxy that resembles our own Milky Way. Th...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-12a3-spitzer-mid-inrared-view-of-ngc-7331</CreditsUrl>
@@ -92800,7 +92837,7 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     TileLevels="2"
     Url="http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2006-08a1L{1}X{2}Y{3}.png"
     WidthFactor="1"
-    Xcxstatus="queue:spitzer"
+    Xcxstatus="in:6551ac2b5dff7c3291e3aee8"
   >
     <Credits>NASA/JPL-Caltech/Max-Planck Inst; This false-color composite image of the Stephan's Quintet galaxy cluster clearly shows one of the largest shock waves ever seen ...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2006-08a1-a-shocking-surprise-in-stephans-quintet</CreditsUrl>
@@ -95064,7 +95101,7 @@ The saturated yellow point at the center ...</Credits>
     TileLevels="3"
     Url="http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-03aL{1}X{2}Y{3}.png"
     WidthFactor="1"
-    Xcxstatus="queue:spitzer"
+    Xcxstatus="in:6551ac2c5dff7c3291e3aeea"
   >
     <Credits>NASA/JPL-Caltech; This image shows the merger of two galaxies, known as NGC 7752 (larger) and NGC 7753 (smaller), also collectively called Arp86. ...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2019-03a-galaxy-merger-arp86</CreditsUrl>
@@ -95246,7 +95283,7 @@ The saturated yellow point at the center ...</Credits>
     TileLevels="5"
     Url="http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-08aL{1}X{2}Y{3}.png"
     WidthFactor="1"
-    Xcxstatus="queue:spitzer"
+    Xcxstatus="in:6551ac2c5dff7c3291e3aeec"
   >
     <Credits>NASA/JPL-Caltech; This image was compiled using data from NASA's Spitzer Space Telescope using the Infrared Array Camera (IRAC) and the Multiband ...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2019-08a-cepheus-c-and-cepheus-b-irac-mips</CreditsUrl>
@@ -95298,7 +95335,7 @@ The saturated yellow point at the center ...</Credits>
     TileLevels="5"
     Url="http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2019-08cL{1}X{2}Y{3}.png"
     WidthFactor="1"
-    Xcxstatus="queue:spitzer"
+    Xcxstatus="in:6551ac315dff7c3291e3aeee"
   >
     <Credits>NASA/JPL-Caltech; This image shows data from NASA's Spitzer Space Telescope, from the IRAC instrument, with colors corresponding to wavelengths of...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2019-08c-cepheus-c-and-cepheus-b-irac</CreditsUrl>

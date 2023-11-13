@@ -1512,6 +1512,18 @@ ra_hr: 17.285243086424266
 thumbnail: http://data1.wwtassets.org/packages/2023/05_jwst/m92a/thumb.jpg
 zoom_level: 0.3843550698034026
 ---
+_uuid: 3332f06c-46f8-41a6-8a1c-a8cfade8d203
+classification: ''
+constellation: ARA
+cxstatus: in:6551b7295dff7c3291e3af08
+data_set_type: Sky
+dec_deg: -53.67582066300841
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/11_euclid/euclid-ero-ngc6397/{1}/{3}/{3}_{2}.png
+name: Euclid’s View of Globular Cluster NGC 6397
+ra_hr: 17.678333393951732
+thumbnail: http://data1.wwtassets.org/packages/2023/11_euclid/euclid-ero-ngc6397/thumb.jpg
+zoom_level: 6.9718334722501005
+---
 _uuid: b8aa745a-f65b-4948-b3c1-4965d00a6012
 angular_size: 1.0
 classification: Galaxy
