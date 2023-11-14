@@ -106,6 +106,27 @@ ra_hr: 6.730445933044459
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0933c/thumb.jpg
 zoom_level: 30.397905736176007
 ---
+_uuid: bf9469d2-456c-48c8-913a-ec6acde494d5
+annotation: '{"channel": "eso", "itemid": "eso2309a", "publishedUTCISO8601": "2023-06-27T14:00:00+00:00"}'
+classification: ''
+constellation: MON
+cxstatus: in:6552f2c55dff7c3291e3b0eb
+data_set_type: Sky
+dec_deg: 0.21365458318494776
+description: This spectacular picture of the Sh2-284 nebula has been captured in great
+  detail by the VLT Survey Telescope at ESO’s Paranal Observatory. Sh2-284 is a star
+  formation region, and at its centre there is a cluster of young stars, dubbed Dolidze
+  25. The radiation from this cluster is powerful enough to ionise the hydrogen gas
+  in the nebula’s cloud. It is this ionisation that produces its bright orange and
+  red colours. This image is part of the VST Photometric Hα Survey of the Southern
+  Galactic Plane and Bulge, led by Janet Drew at the University of Hertfordshire in
+  the UK.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2309a/L{1}X{2}Y{3}.png
+name: The Sh2-284 nebula, imaged by the VLT Survey Telescope
+ra_hr: 6.75249693896449
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2309a/thumb.jpg
+zoom_level: 7.649700606479758
+---
 _uuid: 9b56cea2-3820-4008-a150-7984da3c3011
 annotation: '{"channel": "eso", "itemid": "eso9920v", "publishedUTCISO8601": "1999-02-27T00:00:00+00:00"}'
 classification: ''
