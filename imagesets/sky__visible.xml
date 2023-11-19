@@ -32574,7 +32574,7 @@ SCIENCE: Brant Robertson (UC Santa Cruz), S. Tacchella (Cambridge), E. Curtis-La
     TileLevels="3"
     Url="http://data1.wwtassets.org/packages/2022/12_jwst/potm2210c/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
-    Xcxstatus="queue:hubble"
+    Xcxstatus="in:6559a2dd8a2fdcee25a05718"
   >
     <Credits>ESA/Hubble &amp; NASA, R. Chandar</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2210c/</CreditsUrl>
@@ -32832,7 +32832,7 @@ SCIENCE: Brant Robertson (UC Santa Cruz), S. Tacchella (Cambridge), E. Curtis-La
     TileLevels="6"
     Url="http://data1.wwtassets.org/packages/2023/01_jwst/weic2301c/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
-    Xcxstatus="queue:hubble"
+    Xcxstatus="in:6559a2de8a2fdcee25a0571a"
   >
     <Credits>NASA, ESA, A. James (STScI)</Credits>
     <CreditsUrl>https://esawebb.org/images/weic2301c/</CreditsUrl>
@@ -33678,7 +33678,7 @@ These belts are most likely shaped by the gravitational forces produced by unsee
     TileLevels="5"
     Url="http://data1.wwtassets.org/packages/2023/08_jwst/elgordo1/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
-    Xcxstatus="queue:jwst"
+    Xcxstatus="in:6559a1f58a2fdcee25a0570c"
   >
     <Credits>NASA, ESA, CSA, J. Diego (Instituto de Física de Cantabria), B. Frye (University of Arizona), P. Kamieneski (Arizona State University), T. Carleton (Arizona State University), R. Windhorst (Arizona State University), A. Pagan (STScI), J. Summers (Arizona State University), J. D’Silva (University of Western Australia), A. Koekemoer (STScI), A. Robotham (University of Western Australia)</Credits>
     <CreditsUrl>https://esawebb.org/images/elgordo1/</CreditsUrl>
@@ -33707,7 +33707,7 @@ These belts are most likely shaped by the gravitational forces produced by unsee
     TileLevels="6"
     Url="http://data1.wwtassets.org/packages/2023/08_jwst/potm2307a/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
-    Xcxstatus="queue:jwst"
+    Xcxstatus="in:6559a1f68a2fdcee25a0570e"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, M. Meixner</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2307a/</CreditsUrl>
@@ -33736,7 +33736,7 @@ These belts are most likely shaped by the gravitational forces produced by unsee
     TileLevels="5"
     Url="http://data1.wwtassets.org/packages/2023/08_jwst/potm2308a/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
-    Xcxstatus="queue:jwst"
+    Xcxstatus="in:6559a1f78a2fdcee25a05710"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, A. Adamo (Stockholm University) and the FEAST JWST team</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2308a/</CreditsUrl>
@@ -33764,7 +33764,7 @@ These belts are most likely shaped by the gravitational forces produced by unsee
     TileLevels="6"
     Url="http://data1.wwtassets.org/packages/2023/08_jwst/potm2308b/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
-    Xcxstatus="queue:jwst"
+    Xcxstatus="in:6559a1f88a2fdcee25a05712"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, A. Adamo (Stockholm University) and the FEAST JWST team</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2308b/</CreditsUrl>
@@ -33792,7 +33792,7 @@ These belts are most likely shaped by the gravitational forces produced by unsee
     TileLevels="5"
     Url="http://data1.wwtassets.org/packages/2023/08_jwst/potm2308c/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
-    Xcxstatus="queue:jwst"
+    Xcxstatus="in:6559a1f98a2fdcee25a05714"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, A. Adamo (Stockholm University) and the FEAST JWST team</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2308c/</CreditsUrl>
@@ -33821,7 +33821,7 @@ These belts are most likely shaped by the gravitational forces produced by unsee
     TileLevels="5"
     Url="http://data1.wwtassets.org/packages/2023/08_jwst/sunrisearc1/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
-    Xcxstatus="queue:jwst"
+    Xcxstatus="in:6559a1fa8a2fdcee25a05716"
   >
     <Credits>NASA, ESA, CSA, D. Coe (AURA/STScI for ESA), Z. Levay</Credits>
     <CreditsUrl>https://esawebb.org/images/sunrisearc1/</CreditsUrl>
@@ -99732,7 +99732,7 @@ A composite image of X-ray (orange) and radio (blue) data from NASA’s Chandra 
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},788114285"
     WidthFactor="2"
-    Xcxstatus="queue:chandra"
+    Xcxstatus="in:6559a4eb8a2fdcee25a0571f"
   >
     <Credits>NASA/CXC/CfA/W. Forman et al. In X-rays, M87 reveals evidence for a series of outbursts from the central supermassive black hole. The loops and bubbles in the hot, X-ray emitting gas are relics of small outbursts from close to the black hole. Other interesting features in M87 are narrow filaments of X-ray emission, which may be due to hot gas trapped by magnetic fields. One of these filaments is over 100,000 light years long, and extends below and to the right of the center of M87 in almost a straight line. </Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2008/m87/more.html</CreditsUrl>
@@ -99760,7 +99760,7 @@ A composite image of X-ray (orange) and radio (blue) data from NASA’s Chandra 
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},788116595"
     WidthFactor="2"
-    Xcxstatus="queue:chandra"
+    Xcxstatus="in:6559a4ec8a2fdcee25a05721"
   >
     <Credits>NASA/CXC/Wisconsin/D.Pooley &amp; CfA/A.Zezas. The biggest black holes may feed just like the smallest ones, according to data from NASA's Chandra X-ray Observatory and ground-based telescopes. This discovery supports the implication of Einstein's relativity theory that black holes of all sizes have similar properties, and will be useful for predicting the properties of a conjectured new class of black holes. The conclusion comes from a large observing campaign of the spiral galaxy M81, which is about 12 million light years from Earth.
 
@@ -99866,7 +99866,7 @@ A composite image of X-ray (orange) and radio (blue) data from NASA’s Chandra 
     TileLevels="5"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},90554641"
     WidthFactor="2"
-    Xcxstatus="queue:chandra"
+    Xcxstatus="in:6559a4ed8a2fdcee25a05723"
   >
     <Credits>X-ray: NASA/CXC/IoA/A.Fabian et al.; Radio: NRAO/VLA/G. Taylor; Optical: NASA/ESA/Hubble Heritage (STScI/AURA) &amp; Univ. of Cambridge/IoA/A. Fabian
 The active galaxy NGC 1275 lies at the center of the cluster of galaxies known as the Perseus Cluster. By combining multi-wavelength images into a single composite, the dynamics of the galaxy are more easily visible. In this composite image, X-rays from Chandra are shown in violet and reveal the presence of a black hole at the center of NGC 1275. Optical data from Hubble is depicted in red, green, and blue, and radio emission in pink traces the jets generated from the central black hole.</Credits>
@@ -99973,7 +99973,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     TileLevels="4"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},996535480"
     WidthFactor="2"
-    Xcxstatus="queue:chandra"
+    Xcxstatus="in:6559a4ee8a2fdcee25a05725"
   >
     <Credits>X-ray: NASA/CXC/Wisconsin/D.Pooley &amp; CfA/A.Zezas; Optical: NASA/ESA/CfA/A.Zezas; UV: NASA/JPL-Caltech/CfA/J.Huchra et al.; IR: NASA/JPL-Caltech/CfA. This composite NASA image of the spiral galaxy M81, located about 12 million light years away, includes X-ray data from the Chandra X-ray Observatory (blue), optical data from the Hubble Space Telescope (green), infrared data from the Spitzer Space Telescope (pink) and ultraviolet data from GALEX (purple). At the center of M81 is a supermassive black hole that is about 70 million times more massive than the Sun.
 </Credits>
