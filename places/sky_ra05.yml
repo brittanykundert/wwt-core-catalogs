@@ -234,6 +234,7 @@ _uuid: b2978443-49b5-44eb-82ec-266f743e01d2
 annotation: '{"channel": "eso", "itemid": "eso0104a", "publishedUTCISO8601": "2001-01-17T00:00:00+00:00"}'
 classification: ''
 constellation: ORI
+cxstatus: in:65621c8b8a2fdcee25a061a6
 data_set_type: Sky
 dec_deg: -5.384621266402692
 description: This photo shows a colour composite mosaic image of the central part
@@ -252,6 +253,7 @@ _uuid: d1f50cda-1714-4e4d-8f59-789be2524bff
 annotation: '{"channel": "eso", "itemid": "eso0104c", "publishedUTCISO8601": "2001-01-17T00:00:00+00:00"}'
 classification: ''
 constellation: ORI
+cxstatus: in:65621c8c8a2fdcee25a061a8
 data_set_type: Sky
 dec_deg: -5.410207509767114
 description: This image shows smaller, particularly interesting areas of ESO Press

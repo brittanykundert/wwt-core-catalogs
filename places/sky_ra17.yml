@@ -52,6 +52,7 @@ _uuid: 2368b877-1439-4300-a555-7dc52f091263
 annotation: '{"channel": "eso", "itemid": "eso0102a", "publishedUTCISO8601": "2001-01-10T00:00:00+00:00"}'
 classification: ''
 constellation: OPH
+cxstatus: in:65621c8a8a2fdcee25a061a2
 data_set_type: Sky
 dec_deg: -23.832719353896582
 description: This image shows a colour composite of visible and near-infrared images
@@ -69,6 +70,7 @@ _uuid: 4e51fc79-634f-4278-9bf4-a052ef9443fc
 annotation: '{"channel": "eso", "itemid": "eso0102b", "publishedUTCISO8601": "2001-01-10T00:00:00+00:00"}'
 classification: ''
 constellation: OPH
+cxstatus: in:65621c8b8a2fdcee25a061a4
 data_set_type: Sky
 dec_deg: -23.83163425985046
 description: This view of the dark cloud B68, a so-called Bok globule,  is a false-colour

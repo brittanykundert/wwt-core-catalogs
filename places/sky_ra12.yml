@@ -90,6 +90,7 @@ _uuid: ab898fdd-4318-4703-b02e-d5507fc30833
 annotation: '{"channel": "eso", "itemid": "eso0116a", "publishedUTCISO8601": "2001-04-10T00:00:00+00:00"}'
 classification: ''
 constellation: CRV
+cxstatus: in:65621c8f8a2fdcee25a061ae
 data_set_type: Sky
 dec_deg: -12.593114146450652
 description: 'This is a three-colour image of about 1/4 of the Capodimonte Deep Field
@@ -125,6 +126,7 @@ _uuid: 7191ab36-bf3b-47a4-a484-a5229395fe6a
 annotation: '{"channel": "eso", "itemid": "eso0116b", "publishedUTCISO8601": "2001-04-10T00:00:00+00:00"}'
 classification: ''
 constellation: CRV
+cxstatus: in:65621c908a2fdcee25a061b0
 data_set_type: Sky
 dec_deg: -12.376822573469141
 description: 'This is an image of interacting galaxies that are seen in the Capodimonte
@@ -144,6 +146,7 @@ _uuid: 0d54c191-5917-467a-b8e5-7c619c1098a0
 annotation: '{"channel": "eso", "itemid": "eso0116c", "publishedUTCISO8601": "2001-04-10T00:00:00+00:00"}'
 classification: ''
 constellation: CRV
+cxstatus: in:65621c918a2fdcee25a061b2
 data_set_type: Sky
 dec_deg: -12.479998554872633
 description: 'This image shows a spiral galaxy and a nebulous object in the Capodimonte
@@ -164,6 +167,7 @@ _uuid: 82c7bb69-aa9b-42c3-9f11-862c73b7cf7d
 annotation: '{"channel": "eso", "itemid": "eso0116d", "publishedUTCISO8601": "2001-04-10T00:00:00+00:00"}'
 classification: ''
 constellation: CRV
+cxstatus: in:65621c928a2fdcee25a061b4
 data_set_type: Sky
 dec_deg: -12.658727367967254
 description: 'This is an enlargement of a galaxy cluster of the Capodimonte Deep Field,
@@ -187,6 +191,7 @@ _uuid: 62e92937-cf7d-4f1a-8bfe-8b83bd721296
 annotation: '{"channel": "eso", "itemid": "eso0116e", "publishedUTCISO8601": "2001-04-10T00:00:00+00:00"}'
 classification: ''
 constellation: CRV
+cxstatus: in:65621c938a2fdcee25a061b6
 data_set_type: Sky
 dec_deg: -12.813474269571762
 description: 'This image shows an enlargement of a moderately distant galaxy cluster
@@ -205,6 +210,7 @@ _uuid: c70a8fa2-0c90-4d17-9acc-9a6f69ceff27
 annotation: '{"channel": "eso", "itemid": "eso0116f", "publishedUTCISO8601": "2001-04-10T00:00:00+00:00"}'
 classification: ''
 constellation: CRV
+cxstatus: in:65621c948a2fdcee25a061b8
 data_set_type: Sky
 dec_deg: -12.554638283307554
 description: 'This image shows an enlargement of an elliptical galaxy that is located
