@@ -155,10 +155,13 @@ place_uuid: a6b15f59-9aad-4c91-9744-388a05f9b48b
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000230{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-35.html
 
-text> Young Stars Sculpt Gas with Powerful Outflows in the Small Magellanic
-Cloud
+text> This is a Hubble Space Telescope view of one of the most dynamic and
+intricately detailed star-forming regions in space, located 210,000 light-years
+away in the Small Magellanic Cloud (SMC), a satellite galaxy of our Milky Way.
+At the center of the region is a brilliant star cluster called NGC 346. A
+dramatic structure of arched, ragged filaments with a distinct ridge surrounds
+the cluster.
 
-wip: yes
 ---
 
 @image
@@ -167,10 +170,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1240340553
 
-credits> Photo credits: NASA, Rogier Windhorst (Arizona State University, Tempe,
-AZ), and the Hubble mid-UV team
+credits> NASA, Rogier Windhorst (Arizona State University, Tempe, AZ), and the
+Hubble mid-UV team
 
-wip: yes
 ---
 
 @scene
@@ -178,9 +180,12 @@ place_uuid: 1e54c08d-ef49-4425-aec6-4a5003ebf5b0
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000300{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-04.html
 
-text> A Cosmic Collision Between Two Galaxies, UGC 06471 and UGC 06472
+text> Astronomers are using Hubble telescope images of nearby galaxies to help
+tackle the question of why their distant relatives have such odd shapes,
+appearing markedly different from the typical “ellipticals” and “spirals” seen
+in the nearby universe. By viewing these galaxies in ultraviolet light,
+astronomers can compare their shapes with those of their distant relatives.
 
-wip: yes
 ---
 
 @image
@@ -19911,7 +19916,7 @@ wip: yes
 @scene
 place_uuid: df09cfac-d70a-4dff-a1f6-07db852cf62c
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-opo1007bL{1}X{2}Y{3}.png
-outgoing_url: 
+outgoing_url:
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-opo1007b.jpg
 
 text> Image File
