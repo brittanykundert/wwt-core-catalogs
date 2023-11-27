@@ -1,195 +1,5 @@
 
 @image
-url: http://data1.wwtassets.org/packages/2022/08_hubble/smacs0723-73/{1}/{3}/{3}_{2}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://data1.wwtassets.org/packages/2022/08_hubble/smacs0723-73/thumb.jpg
-
-credits> ESA/Hubble & NASA, RELICS
-
-wip: yes
----
-
-@scene
-place_uuid: 64e2af0d-430a-42a2-b0ae-05e59b664912
-image_url: http://data1.wwtassets.org/packages/2022/08_hubble/smacs0723-73/{1}/{3}/{3}_{2}.png
-outgoing_url: https://archive.stsci.edu/prepds/relics/color_images/smacs0723-73.html
-thumbnail: http://data1.wwtassets.org/packages/2022/08_hubble/smacs0723-73/thumb.jpg
-
-text> Hubble RELICS SMACS J0723.3-7327 ACS-WFC3IR
-
-wip: yes
----
-
-@image
-url: http://data1.wwtassets.org/packages/2022/12_jwst/hudf/{1}/{3}/{3}_{2}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://data1.wwtassets.org/packages/2022/12_jwst/hudf/thumb.jpg
-
-credits> NASA, ESA, and S. Beckwith (STScI) and the HUDF Team
-
-wip: yes
----
-
-@scene
-place_uuid: 47be714e-2ac8-4e16-b7dd-a4ac6833d918
-image_url: http://data1.wwtassets.org/packages/2022/12_jwst/hudf/{1}/{3}/{3}_{2}.png
-outgoing_url: https://esahubble.org/images/heic0611b/
-thumbnail: http://data1.wwtassets.org/packages/2022/12_jwst/hudf/thumb.jpg
-
-text> Hubble Ultra Deep Field
-
-wip: yes
----
-
-@image
-url: http://data1.wwtassets.org/packages/2022/12_jwst/potm2211c/{1}/{3}/{3}_{2}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://data1.wwtassets.org/packages/2022/12_jwst/potm2211c/thumb.jpg
-
-credits> NASA, ESA, the Hubble Heritage Team (STScI/AURA)-ESA/Hubble
-Collaboration and A. Evans (University of Virginia, Charlottesville/NRAO/Stony
-Brook University)
-
-wip: yes
----
-
-@scene
-place_uuid: 01b95f0e-0358-48ac-91f5-1b3ebd2a27a1
-image_url: http://data1.wwtassets.org/packages/2022/12_jwst/potm2211c/{1}/{3}/{3}_{2}.png
-outgoing_url: https://esawebb.org/images/potm2211c/
-thumbnail: http://data1.wwtassets.org/packages/2022/12_jwst/potm2211c/thumb.jpg
-
-text> This is an image of II ZW 96 released by the NASA/ESA Hubble Space
-Telescope in 2008 for the telescope’s 18th anniversary. Hubble provides a unique
-view of this bizarre galaxy merger in visible wavelengths. This version has been
-scaled to match the size and orientation of the new Webb image of II ZW 96.
-[Image description: Two galaxies are connected by dark blue spots of star
-formation. The galaxies are blue with faint red dust, and are heavily distorted
-from their spiral shapes. The background is black, and covered with many tiny
-galaxies.] Links Slider Tool Zoom Into II ZW 96 Pan of II ZW 96 Hubble and Webb
-Observe II ZW 96
-
-wip: yes
----
-
-@image
-url: http://data1.wwtassets.org/packages/2022/12_jwst/weic2217c/{1}/{3}/{3}_{2}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://data1.wwtassets.org/packages/2022/12_jwst/weic2217c/thumb.jpg
-
-credits> ESA/Hubble, NASA, N. Zakamska
-
-wip: yes
----
-
-@scene
-place_uuid: 10d80f1d-05d8-4ea2-8436-0413625f515b
-image_url: http://data1.wwtassets.org/packages/2022/12_jwst/weic2217c/{1}/{3}/{3}_{2}.png
-outgoing_url: https://esawebb.org/images/weic2217c/
-thumbnail: http://data1.wwtassets.org/packages/2022/12_jwst/weic2217c/thumb.jpg
-
-text> This field of view from the NASA/ESA Hubble Space Telescope is centred on
-the quasar SDSS J165202.64+172852.3. The quasar is an “extremely red” quasar
-that exists in the very early Universe, 11.5 billion years ago. [Image
-Description : This visual shows a wide field view of multiple galaxies in the
-field of view, centred on the quasar that is the focus of this study.]
-
-wip: yes
----
-
-@image
-url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000210{Q}?g=138
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1497612889
-
-credits> Credit: ESA, NASA, K. Sharon (Tel Aviv University) and E. Ofek
-(Caltech)
-
-wip: yes
----
-
-@scene
-place_uuid: c3d2215d-2a77-447b-af2a-8831459ae6de
-image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000210{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/23/
-
-text> Hubble Captures a 'Five-Star' Rated Gravitational Lens
-
-wip: yes
----
-
-@image
-url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000220{Q}?g=138
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1998765919
-
-credits> Credit: NASA and The Hubble Heritage Team (AURA/STScI) Acknowledgment:
-A. Cool (SFSU)
-
-wip: yes
----
-
-@scene
-place_uuid: f8eec05b-b4c7-4f5c-a4d4-09d7333c8b7a
-image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000220{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/21/
-
-text> Too Close for Comfort
-
-wip: yes
----
-
-@image
-url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000230{Q}?g=138
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1956473068
-
-credits> Credit: NASA, ESA, and A. Nota (STScI/ESA)
-
-wip: yes
----
-
-@scene
-place_uuid: a6b15f59-9aad-4c91-9744-388a05f9b48b
-image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000230{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/35/
-
-text> Young Stars Sculpt Gas with Powerful Outflows in the Small Magellanic
-Cloud
-
-wip: yes
----
-
-@image
-url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000300{Q}?g=138
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1240340553
-
-credits> Photo credits: NASA, Rogier Windhorst (Arizona State University, Tempe,
-AZ), and the Hubble mid-UV team
-
-wip: yes
----
-
-@scene
-place_uuid: 1e54c08d-ef49-4425-aec6-4a5003ebf5b0
-image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000300{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/04/
-
-text> A Cosmic Collision Between Two Galaxies, UGC 06471 and UGC 06472
-
-wip: yes
----
-
-@image
 url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000310{Q}?g=138
 copyright: Public domain
 license_id: CC-PDDC
@@ -203,7 +13,7 @@ wip: yes
 @scene
 place_uuid: a01b6a87-b079-4568-b96b-e9616736ee7e
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000310{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1994/24/
+outgoing_url: http://hubblesite.org/contents/news-releases/1994/news-1994-24.html
 
 text> Hubble Probes the Great Orion Nebula
 
@@ -224,7 +34,7 @@ wip: yes
 @scene
 place_uuid: 5ecffcd2-2bc6-42cd-b1ce-264b52c191b5
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000320{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1995/07/
+outgoing_url: http://hubblesite.org/contents/news-releases/1995/news-1995-07.html
 
 text> Color Print of NGC 4881 and Part of the Surrounding Field
 
@@ -245,7 +55,7 @@ wip: yes
 @scene
 place_uuid: f73f9476-7bbc-4acb-831e-8748cacb67dd
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000330{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/34/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-34.html
 
 text> Detail of SWEEPS ACS/WFC Color Composite
 
@@ -267,7 +77,7 @@ wip: yes
 @scene
 place_uuid: 8d8fa300-db03-4bbe-a4a3-825501a96bcc
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001000{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/16/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-16.html
 
 text> The Pencil Nebula: Remnants of an Exploded Star (NGC 2736);NGC 2736
 
@@ -288,7 +98,7 @@ wip: yes
 @scene
 place_uuid: 08bd7904-6e8e-44f4-9a5a-61cc621ef0cf
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001010{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1996/38/
+outgoing_url: http://hubblesite.org/contents/news-releases/1996/news-1996-38.html
 
 text> Giant 'Twisters' in the Lagoon Nebula
 
@@ -310,7 +120,7 @@ wip: yes
 @scene
 place_uuid: 53a1a2b0-0678-4a7c-ae78-b04985434e06
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001020{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1997/38/
+outgoing_url: http://hubblesite.org/contents/news-releases/1997/news-1997-38.html
 
 text> Spiral-Structured Planetary Nebula NGC 5307
 
@@ -332,7 +142,7 @@ wip: yes
 @scene
 place_uuid: 1ba4d24b-e418-402f-8c3d-8ed74379ee1b
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001030{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/35/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-35.html
 
 text> Hubble's Black and White View of the Universe
 
@@ -353,7 +163,7 @@ wip: yes
 @scene
 place_uuid: d82f4bbb-3dfb-484c-896f-af88eca90de8
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001100{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/21/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-21.html
 
 text> An Eclectic Mix of Galaxies
 
@@ -375,7 +185,7 @@ wip: yes
 @scene
 place_uuid: e9595e48-93c4-4b0c-be9b-746ac2044099
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001110{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1995/01/
+outgoing_url: http://hubblesite.org/contents/news-releases/1995/news-1995-01.html
 
 text> Hubble Probes the Complex History of a Dying Star
 
@@ -398,7 +208,7 @@ wip: yes
 @scene
 place_uuid: 47b0410a-1f2f-4a68-b37c-71dd257ec5d4
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001120{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/55/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-55.html
 
 text> Star-Forming Region LH 95 in the Large Magellanic Cloud
 
@@ -419,7 +229,7 @@ wip: yes
 @scene
 place_uuid: 30b2b8b6-85fa-4c26-b8bd-f36dedb31fa2
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001130{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1996/01/
+outgoing_url: http://hubblesite.org/contents/news-releases/1996/news-1996-01.html
 
 text> Hubble Deep Field Image at Full Resolution
 
@@ -440,7 +250,7 @@ wip: yes
 @scene
 place_uuid: f93259d5-50b0-4219-a3b6-867eba1bd82a
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001200{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2000/21/
+outgoing_url: http://hubblesite.org/contents/news-releases/2000/news-2000-21.html
 
 text> Galaxy NGC 4438
 
@@ -461,7 +271,7 @@ wip: yes
 @scene
 place_uuid: 3b10fd74-4801-49bb-b3fa-88fb3977358f
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001220{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/02/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-02.html
 
 text> V838 Monocerotis - 23 October 2004
 
@@ -483,7 +293,7 @@ wip: yes
 @scene
 place_uuid: 2f3de7e6-3872-4e4d-8e93-ae748bb80292
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001230{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/11/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-11.html
 
 text> The Dusty Galaxy NGC 1316
 
@@ -526,7 +336,7 @@ wip: yes
 @scene
 place_uuid: 4f7adfe5-25e3-4b55-b547-9f0761d45578
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001310{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/24/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-24.html
 
 text> NGC 5866;Full Hubble ACS Image of NGC 5866
 
@@ -547,7 +357,7 @@ wip: yes
 @scene
 place_uuid: 318031e6-1473-447d-85c2-7f011aec0e36
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001320{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1996/01/
+outgoing_url: http://hubblesite.org/contents/news-releases/1996/news-1996-01.html
 
 text> Hubble Deep Field Image Unveils Myriad Galaxies Back to the Beginning of
 Time
@@ -569,7 +379,7 @@ wip: yes
 @scene
 place_uuid: 733a89fc-ef43-48ed-8277-dca03273b01b
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001330{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/37/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-37.html
 
 text> Faint Red Star in NGC 6397
 
@@ -590,7 +400,7 @@ wip: yes
 @scene
 place_uuid: a6ac0d1f-bb0b-44f7-bbb0-a78b34d50bf4
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002000{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1999/35/
+outgoing_url: http://hubblesite.org/contents/news-releases/1999/news-1999-35.html
 
 text> NGC 2346
 
@@ -612,7 +422,7 @@ wip: yes
 @scene
 place_uuid: 2dd3dc6f-7888-405a-9b04-65119ae07c14
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002010{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/09/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-09.html
 
 text> Rainbow Image of the Egg Nebula
 
@@ -635,7 +445,7 @@ wip: yes
 @scene
 place_uuid: 07049c7e-34c7-4df7-b12b-5d0f338d7e85
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002030{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/01/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-01.html
 
 text> Galaxies Magnified by Galaxy Cluster Abell 1689's 'Graviational Lens'
 
@@ -657,7 +467,7 @@ wip: yes
 @scene
 place_uuid: bd26e031-448f-4ed7-99bd-c6ea70382abe
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002100{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/13/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-13.html
 
 text> Edifice of Gas and Dust in the Cone Nebula
 
@@ -678,7 +488,7 @@ wip: yes
 @scene
 place_uuid: a7146ef6-22f7-4b54-899b-8ae7fa94ebf6
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002110{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/05/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-05.html
 
 text> Orion Nebula ( NGC 1976, M42)
 
@@ -688,7 +498,7 @@ wip: yes
 @scene
 place_uuid: 28be8a19-d12c-4e79-babb-b4d30e18e92c
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002110{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/05/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-05.html
 
 text> Orion Nebula ( NGC 1976, M42)
 
@@ -710,7 +520,7 @@ wip: yes
 @scene
 place_uuid: 794b908e-8b5c-492a-b363-cab95c31167b
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002120{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/23/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-23.html
 
 text> Warped Edge-On Galaxy ESO 510-G13
 
@@ -732,7 +542,7 @@ wip: yes
 @scene
 place_uuid: fee19b2d-ddca-4bd3-935a-86f8b13cb44e
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002130{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/04/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-04.html
 
 text> A Tiny, Youthful Spiral Galaxy, ESO 418-008
 
@@ -753,7 +563,7 @@ wip: yes
 @scene
 place_uuid: 73938bf4-fdcc-4740-9c6a-9825bf3a5550
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002210{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/08/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-08.html
 
 text> Star HD 209458
 
@@ -777,7 +587,7 @@ wip: yes
 @scene
 place_uuid: 30682844-3f7a-4942-9336-998026a09a74
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002220{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1996/21/
+outgoing_url: http://hubblesite.org/contents/news-releases/1996/news-1996-21.html
 
 text> Spiral Galaxy NGC 4639
 
@@ -798,7 +608,7 @@ wip: yes
 @scene
 place_uuid: 9ca32e6e-6769-4adc-8c17-7ab07d6a716a
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002230{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/37/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-37.html
 
 text> Location of ACS detail in NGC 6397
 
@@ -819,7 +629,7 @@ wip: yes
 @scene
 place_uuid: b5d27dd3-5957-42ae-888a-d8a200df0f1b
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002300{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/06/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-06.html
 
 text> M27, the Dumbbell Nebula
 
@@ -840,7 +650,7 @@ wip: yes
 @scene
 place_uuid: 4c269446-7ccc-4028-b2a1-2d32ceb626dc
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002310{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/10/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-10.html
 
 text> V838 Monocerotis - 8 February 2004
 
@@ -862,7 +672,7 @@ wip: yes
 @scene
 place_uuid: 9ea10f8f-61d0-476d-95b4-3aa96230b150
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002320{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/11/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-11.html
 
 text> Iridescent Glory of Nearby Helix Nebula;Helix Nebula;NGC 7293
 
@@ -884,7 +694,7 @@ wip: yes
 @scene
 place_uuid: 22be6842-0deb-479a-a5ae-32046531fcd2
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002330{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/17/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-17.html
 
 text> Star Cluster NGC 290
 
@@ -907,7 +717,7 @@ wip: yes
 @scene
 place_uuid: c4df00f4-6e7a-45ff-9478-99282ae95427
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003000{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/13/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-13.html
 
 text> Myriad of Stars in Spiral Galaxy NGC 300
 
@@ -917,7 +727,7 @@ wip: yes
 @scene
 place_uuid: ee95e791-c38f-45a8-923f-a071174b9239
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003000{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/13/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-13.html
 
 text> NGC 300;Myriad of Stars in Spiral Galaxy NGC 300
 
@@ -939,7 +749,7 @@ wip: yes
 @scene
 place_uuid: f3c6eb51-b4eb-4000-ab2e-b31277c8dea0
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003020{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2000/15/
+outgoing_url: http://hubblesite.org/contents/news-releases/2000/news-2000-15.html
 
 text> Peering into the Heart of the Crab Nebula
 
@@ -961,7 +771,7 @@ wip: yes
 @scene
 place_uuid: 3178e1ca-1127-495c-a397-ec3b3f9fb1a1
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003110{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/35/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-35.html
 
 text> Supernova Remnant E0102 in the Small Magellanic Cloud
 
@@ -987,7 +797,7 @@ wip: yes
 @scene
 place_uuid: f4ab942e-b3ed-4a7c-a88b-785a1f7a3256
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003130{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2000/04/
+outgoing_url: http://hubblesite.org/contents/news-releases/2000/news-2000-04.html
 
 text> The Bubble Nebula: NGC 7635
 
@@ -1010,7 +820,7 @@ wip: yes
 @scene
 place_uuid: c509d3a7-dbcc-44d5-b4b1-4803dd84b20c
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003200{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/01/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-01.html
 
 text> Galaxies Magnified by Galaxy Cluster Abell 1689's 'Graviational Lens'
 
@@ -1032,7 +842,7 @@ wip: yes
 @scene
 place_uuid: 3d5a2858-5dda-4139-b2a3-3659c2f9bac9
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003210{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1999/33/
+outgoing_url: http://hubblesite.org/contents/news-releases/1999/news-1999-33.html
 
 text> R136: A Cluster of Massive Stars in Nebula 30 Doradus
 
@@ -1053,7 +863,7 @@ wip: yes
 @scene
 place_uuid: 7c5e431d-a4e5-48bb-a720-15765c09bfe8
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003220{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/25/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-25.html
 
 text> An Old Star Gives Up the Ghost
 
@@ -1075,7 +885,7 @@ wip: yes
 @scene
 place_uuid: 66998f7b-3bc5-4acf-bf3e-8ca273c1a4f1
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003230{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/17/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-17.html
 
 text> Closeup of Filamentary Structure in Trifid Nebula
 
@@ -1096,7 +906,7 @@ wip: yes
 @scene
 place_uuid: 42affcd3-33c2-4c9c-91e5-8147bd8ceb58
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003300{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/02/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-02.html
 
 text> Intergalactic 'Pipeline' Funnels Matter Between Colliding Galaxies NGC
 1410 and NGC 1409
@@ -1118,7 +928,7 @@ wip: yes
 @scene
 place_uuid: 17202384-c1c6-4c06-9461-44a38f2d7d51
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003310{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2007/17/
+outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-17.html
 
 text> Hubble Finds Dark Matter Ring in Galaxy Cluster
 
@@ -1142,7 +952,7 @@ wip: yes
 @scene
 place_uuid: 9448ffdf-11a6-4245-80e8-e94048c85b47
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003320{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/25/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-25.html
 
 text> Double Cluster NGC 1850: Second Brightest Star Cluster in the Large
 Magellanic Cloud
@@ -1171,7 +981,7 @@ wip: yes
 @scene
 place_uuid: 2b288222-441e-4d86-8851-b95a491f5da0
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003330{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/11/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-11.html
 
 text> Omega Nebula;Swan Nebula;M17;Messier 17
 
@@ -1195,7 +1005,7 @@ wip: yes
 @scene
 place_uuid: b4d1ee84-a359-45c2-ab32-ede6d66c55e2
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010000{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/22/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-22.html
 
 text> Seyfert's Sextet: Four Colliding Galaxies, and Two Bystanders
 
@@ -1216,7 +1026,7 @@ wip: yes
 @scene
 place_uuid: 3fc7d6a8-0d66-4540-afb6-0d70d7080ff6
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010010{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1995/02/
+outgoing_url: http://hubblesite.org/contents/news-releases/1995/news-1995-02.html
 
 text> Cartwheel Galaxy
 
@@ -1237,7 +1047,7 @@ wip: yes
 @scene
 place_uuid: 29558496-7cf8-4ea7-814a-3522e5e5ea4a
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010020{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/15/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-15.html
 
 text> Details of Supernova Remnant Cassiopeia A
 
@@ -1259,7 +1069,7 @@ wip: yes
 @scene
 place_uuid: 65617ba8-3943-4c62-97f9-879b8e42a03f
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010030{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/01/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-01.html
 
 text> Thackeray's Globules: Dense, Opaque Dust Clouds in Star-Forming Region IC
 2944
@@ -1282,7 +1092,7 @@ wip: yes
 @scene
 place_uuid: 3a10ffaa-6894-4627-a4f3-af1dde10dcad
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010100{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/21/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-21.html
 
 text> Vast Star-Forming Region 30 Doradus
 
@@ -1304,7 +1114,7 @@ wip: yes
 @scene
 place_uuid: 1591f847-91ff-470b-9388-b52c7434d017
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010110{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1999/10/
+outgoing_url: http://hubblesite.org/contents/news-releases/1999/news-1999-10.html
 
 text> Close-Up of Galaxy NGC 2903 in Infrared
 
@@ -1332,7 +1142,7 @@ wip: yes
 @scene
 place_uuid: 9cc24305-7947-49a4-899a-de1588756e0e
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010120{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/11/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-11.html
 
 text> Cone Nebula;NGC 2264
 
@@ -1354,7 +1164,7 @@ wip: yes
 @scene
 place_uuid: 3c28466c-e458-4b0e-ae65-6a67ed3ea627
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010130{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/15/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-15.html
 
 text> Cassiopeia A: Colorful, Shredded Remains of Old Supernova
 
@@ -1433,7 +1243,7 @@ wip: yes
 @scene
 place_uuid: b0b1e513-56d9-438e-8966-382761b05d06
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000012020{Q}?g=182
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/10/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-10.html
 
 text> Hubble's Largest Galaxy Portrait showcases Messier 101;M101
 
@@ -1890,7 +1700,7 @@ wip: yes
 @scene
 place_uuid: fb2baa18-2e2c-43dd-98aa-6ec9fdf5f911
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000201{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/24/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-24.html
 
 text> Astronomers Use Image to Measure Star's Mass
 
@@ -1911,7 +1721,7 @@ wip: yes
 @scene
 place_uuid: 3512e587-f023-4669-ba29-b8e863bf3cee
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000211{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/10/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-10.html
 
 text> V838 Monocerotis - 28 October 2002
 
@@ -1933,7 +1743,7 @@ wip: yes
 @scene
 place_uuid: 59334b8e-2cc4-4af3-bc5a-687ad936b96c
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000221{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1997/38/
+outgoing_url: http://hubblesite.org/contents/news-releases/1997/news-1997-38.html
 
 text> Planetary Nebula NGC 3918
 
@@ -1954,7 +1764,7 @@ wip: yes
 @scene
 place_uuid: 0d92c1c5-18a5-425a-a5d1-844fdf5e1f3f
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000231{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1995/02/
+outgoing_url: http://hubblesite.org/contents/news-releases/1995/news-1995-02.html
 
 text> Cartwheel Galaxy Image Close-up
 
@@ -1976,7 +1786,7 @@ wip: yes
 @scene
 place_uuid: c5f04d86-655b-4b25-9dcb-d2d831495709
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000301{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2007/15/
+outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-15.html
 
 text> Hubble’s View of Barred Spiral Galaxy NGC 1672
 
@@ -1997,7 +1807,7 @@ wip: yes
 @scene
 place_uuid: dba6bf42-6b42-490e-aff9-b242d532d3e1
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000311{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2007/17/
+outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-17.html
 
 text> Searching for Dark Matter in a Galaxy Cluster
 
@@ -2018,7 +1828,7 @@ wip: yes
 @scene
 place_uuid: 5e729fa2-1f51-4b1b-8e5a-d0deaaedc1b8
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000331{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1999/35/
+outgoing_url: http://hubblesite.org/contents/news-releases/1999/news-1999-35.html
 
 text> NGC 2440
 
@@ -2039,7 +1849,7 @@ wip: yes
 @scene
 place_uuid: dc773e56-487f-42bf-89ad-bf98af0a7ffd
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001001{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1995/24/
+outgoing_url: http://hubblesite.org/contents/news-releases/1995/news-1995-24.html
 
 text> HH-34
 
@@ -2060,7 +1870,7 @@ wip: yes
 @scene
 place_uuid: 521e1b44-3d5f-44c6-8647-b367ac46ce77
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001011{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/12/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-12.html
 
 text> Eagle Nebula (M16) Pillar Detail: Portion of Top
 
@@ -2081,7 +1891,7 @@ wip: yes
 @scene
 place_uuid: 36bcf332-d9ee-454b-afc8-2378bf560eb8
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001021{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/10/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-10.html
 
 text> V838 Monocerotis - 20 May 2002
 
@@ -2103,7 +1913,7 @@ wip: yes
 @scene
 place_uuid: de6e56ee-6d9c-44b1-8544-620fe87754fc
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001031{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/23/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-23.html
 
 text> A Bright Supernova in the Nearby Galaxy NGC 2403
 
@@ -2125,7 +1935,7 @@ wip: yes
 @scene
 place_uuid: fee4b827-b422-4008-b69b-c39765488a54
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001101{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/14/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-14.html
 
 text> The Retina Nebula: Dying Star IC 4406
 
@@ -2147,7 +1957,7 @@ wip: yes
 @scene
 place_uuid: 0000da9c-1af2-4f86-9e42-fb33cfd8fcee
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001111{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/25/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-25.html
 
 text> Spiral Galaxy NGC 3949: A Galaxy Similar to the Milky Way
 
@@ -2169,7 +1979,7 @@ wip: yes
 @scene
 place_uuid: 601bb50e-0a0a-4fd9-9968-3851573c7bf1
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001121{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/05/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-05.html
 
 text> Bow Shock Near Young Star LL Ori
 
@@ -2191,7 +2001,7 @@ wip: yes
 @scene
 place_uuid: b01ebc59-9406-41b0-9b64-c4803d0ca9ee
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001131{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2007/12/
+outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-12.html
 
 text> Hubble Sees 'Comet Galaxy' Being Ripped Apart By Galaxy Cluster
 
@@ -2212,7 +2022,7 @@ wip: yes
 @scene
 place_uuid: d3ed473c-a10c-4c61-b80f-1fdd7bb002b4
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001201{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1999/01/
+outgoing_url: http://hubblesite.org/contents/news-releases/1999/news-1999-01.html
 
 text> The Ring Nebula (M57)
 
@@ -2233,7 +2043,7 @@ wip: yes
 @scene
 place_uuid: 045d24d4-b2ce-4a34-940d-3d062244d41e
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001211{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/02/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-02.html
 
 text> Galaxy I Zw 18
 
@@ -2256,7 +2066,7 @@ wip: yes
 @scene
 place_uuid: 58ed996d-fa91-422c-84c9-21c67b71b75c
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001221{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/28/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-28.html
 
 text> Galaxy NGC 3079
 
@@ -2277,7 +2087,7 @@ wip: yes
 @scene
 place_uuid: a3c1d473-5179-48b5-b491-661d0dea5c4a
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001231{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/12/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-12.html
 
 text> The Eagle Has Risen: Stellar Spire in the Eagle Nebula
 
@@ -2298,7 +2108,7 @@ wip: yes
 @scene
 place_uuid: d72fdea1-a1cf-43d5-acf1-9d1f10920da3
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001301{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/14/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-14.html
 
 text> NGC 1275
 
@@ -2320,7 +2130,7 @@ wip: yes
 @scene
 place_uuid: 1505d98d-1840-473e-99d3-dffbb22ff833
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001311{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2007/04/
+outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-04.html
 
 text> Hubble Observes Infant Stars in Nearby Galaxy
 
@@ -2330,7 +2140,7 @@ wip: yes
 @scene
 place_uuid: f5223399-6db0-4f94-b5fc-693db0d5f473
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001311{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2007/04/
+outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-04.html
 
 text> Hubble Observes Infant Stars in Nearby Galaxy
 
@@ -2351,7 +2161,7 @@ wip: yes
 @scene
 place_uuid: 6492b213-8592-443a-9fcf-f57bb06925e3
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001321{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/37/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-37.html
 
 text> Giant Hubble Mosaic of the Crab Nebula
 
@@ -2361,7 +2171,7 @@ wip: yes
 @scene
 place_uuid: 6a0c9089-27d4-4949-83f9-abb1badee694
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001321{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/37/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-37.html
 
 text> Giant Hubble Mosaic of the Crab Nebula
 
@@ -2383,7 +2193,7 @@ wip: yes
 @scene
 place_uuid: f99f2444-f012-4f47-8ce1-7cecc5f63daf
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001331{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2000/07/
+outgoing_url: http://hubblesite.org/contents/news-releases/2000/news-2000-07.html
 
 text> NGC 2392
 
@@ -2393,7 +2203,7 @@ wip: yes
 @scene
 place_uuid: 7a9839fe-d181-4976-b44b-5a24653e939c
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001331{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2000/07/
+outgoing_url: http://hubblesite.org/contents/news-releases/2000/news-2000-07.html
 
 text> The Eskimo Nebula (NGC 2392)
 
@@ -2415,7 +2225,7 @@ wip: yes
 @scene
 place_uuid: 17bef19a-de0d-440b-9bbc-48665b21f0b2
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002001{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/23/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-23.html
 
 text> Spiral Galaxy NGC 4319 and Quasar Markarian 205
 
@@ -2437,7 +2247,7 @@ wip: yes
 @scene
 place_uuid: a7e62f13-44d9-475f-99ec-32a73107c41d
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002011{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2007/09/
+outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-09.html
 
 text> The Colorful Demise of a Sun-like Star
 
@@ -2458,7 +2268,7 @@ wip: yes
 @scene
 place_uuid: f251210b-886c-4676-98f8-8fda85d0d66a
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002021{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1997/07/
+outgoing_url: http://hubblesite.org/contents/news-releases/1997/news-1997-07.html
 
 text> Butterfly Wing-Shaped Planetary Nebula NGC 2346
 
@@ -2479,7 +2289,7 @@ wip: yes
 @scene
 place_uuid: cf2f2014-bb3e-4edc-bc06-be203dbe3393
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002031{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1998/14/
+outgoing_url: http://hubblesite.org/contents/news-releases/1998/news-1998-14.html
 
 text> Nearby Galaxy Centaurus A
 
@@ -2501,7 +2311,7 @@ wip: yes
 @scene
 place_uuid: 8887e6b2-f8f5-4803-b8fa-facff58f9cce
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002101{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/31/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-31.html
 
 text> Sagittarius Dwarf Galaxy
 
@@ -2523,7 +2333,7 @@ wip: yes
 @scene
 place_uuid: f4bb83ec-bda0-43fc-aedf-6c2d3687c0e2
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002111{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1998/12/
+outgoing_url: http://hubblesite.org/contents/news-releases/1998/news-1998-12.html
 
 text> The Center of Barred Spiral Galaxy NGC 1808
 
@@ -2544,7 +2354,7 @@ wip: yes
 @scene
 place_uuid: 5b9b662d-6569-427d-a5d5-02afb79a14d3
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002121{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2000/12/
+outgoing_url: http://hubblesite.org/contents/news-releases/2000/news-2000-12.html
 
 text> The Glowing Eye of Planetary Nebula NGC 6751
 
@@ -2586,7 +2396,7 @@ wip: yes
 @scene
 place_uuid: 8191a700-02e4-43f8-8705-f74175a1d6ba
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002201{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1994/52/
+outgoing_url: http://hubblesite.org/contents/news-releases/1994/news-1994-52.html
 
 text> Hubble Identifies Primeval Galaxies, Uncovers New Clues to the Universe's
 Evolution
@@ -2609,7 +2419,7 @@ wip: yes
 @scene
 place_uuid: 6984d5ff-5131-4336-9826-893a55150247
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002211{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/13/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-13.html
 
 text> Nearby Dust Clouds in the Milky Way
 
@@ -2630,7 +2440,7 @@ wip: yes
 @scene
 place_uuid: aedd689c-bb47-44ce-9c22-654ee5687501
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002221{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1997/34/
+outgoing_url: http://hubblesite.org/contents/news-releases/1997/news-1997-34.html
 
 text> NGC 4038/4039, Antennae
 
@@ -2651,7 +2461,7 @@ wip: yes
 @scene
 place_uuid: 0c0b836a-4af5-470b-acb9-92a579098d4a
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002231{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/15/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-15.html
 
 text> Details of Supernova Remnant Cassiopeia A
 
@@ -2672,7 +2482,7 @@ wip: yes
 @scene
 place_uuid: 68a82f7b-51b8-419d-9060-0628adf3c973
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002301{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/12/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-12.html
 
 text> Hubble Ultra Deep Field
 
@@ -2693,7 +2503,7 @@ wip: yes
 @scene
 place_uuid: 87458833-eca0-4555-a00f-61d700c5e596
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002331{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/10/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-10.html
 
 text> V838 Monocerotis - 17 December 2002
 
@@ -2715,7 +2525,7 @@ wip: yes
 @scene
 place_uuid: d64e6398-ad78-4dd2-9f1c-921db60f079e
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003001{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/25/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-25.html
 
 text> Scattered Light from the Boomerang Nebula
 
@@ -2737,7 +2547,7 @@ wip: yes
 @scene
 place_uuid: 3a42e45a-ebbb-44c1-a2f3-c5c17d6dffaa
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003011{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/45/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-45.html
 
 text> Full Hubble ACS View of Spiderweb Galaxy Field
 
@@ -2760,7 +2570,7 @@ wip: yes
 @scene
 place_uuid: fea5a19e-d1bc-489e-b5d5-5a52f547353f
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003021{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/30/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-30.html
 
 text> Supernova Remnant Cassiopeia A - December 2004
 
@@ -2782,7 +2592,7 @@ wip: yes
 @scene
 place_uuid: ed00dcd9-45af-4ad3-96f0-b0652753557d
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003031{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/19/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-19.html
 
 text> Gomez's Hamburger: A Sun-Like Star Near the End of Its Life
 
@@ -2804,7 +2614,7 @@ wip: yes
 @scene
 place_uuid: af1f81b3-d891-4650-ad44-f9f9cbf5f1d5
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003101{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/13/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-13.html
 
 text> Dense Gas and Dust Beyond the Outer Layers of the Cone Nebula
 
@@ -2825,7 +2635,7 @@ wip: yes
 @scene
 place_uuid: 8a02fa52-6c55-4042-b50c-68a0d4f52224
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003111{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/28/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-28.html
 
 text> Galaxy HUDF-JD2 From the Hubble Ultra Deep Field
 
@@ -2848,7 +2658,7 @@ wip: yes
 @scene
 place_uuid: 047ac218-2b29-448d-9bc6-3460c458d554
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003121{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/14/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-14.html
 
 text> Messier 82;Happy Sweet Sixteen, Hubble Telescope!;M82
 
@@ -2884,7 +2694,7 @@ wip: yes
 @scene
 place_uuid: 282d38f1-df66-41d4-914a-a698c9f2b989
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003131{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/01/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-01.html
 
 text> Galaxy Abell 1689's 'Gravitational Lens' Magnifies Light of Distant
 Galaxies
@@ -2906,7 +2716,7 @@ wip: yes
 @scene
 place_uuid: 45732c52-41e6-41c9-a581-5c09d8180447
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003201{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/45/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-45.html
 
 text> Spiral Galaxies NGC 2207 and IC 2163
 
@@ -2927,7 +2737,7 @@ wip: yes
 @scene
 place_uuid: dfae6e2f-cdaa-4f31-b79b-0f7e78bb3719
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003211{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1999/04/
+outgoing_url: http://hubblesite.org/contents/news-releases/1999/news-1999-04.html
 
 text> Supernova 1987A Mosaic
 
@@ -2948,7 +2758,7 @@ wip: yes
 @scene
 place_uuid: 2537fcc2-dede-4be8-9f77-eb2618e91ccd
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003221{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1994/02/
+outgoing_url: http://hubblesite.org/contents/news-releases/1994/news-1994-02.html
 
 text> Messier 100;M100 using new Hubble WFPC-2 camera
 
@@ -2970,7 +2780,7 @@ wip: yes
 @scene
 place_uuid: ead2e56b-ffcd-4f85-819d-6b633842843f
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003231{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/15/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-15.html
 
 text> Supernova Remnant N 63A Menagerie
 
@@ -2993,7 +2803,7 @@ wip: yes
 @scene
 place_uuid: 687504ab-8e01-4dba-9779-7dd82ee50d6b
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003301{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1998/21/
+outgoing_url: http://hubblesite.org/contents/news-releases/1998/news-1998-21.html
 
 text> Close-Up View of Galaxy NGC 4314
 
@@ -3003,7 +2813,7 @@ wip: yes
 @scene
 place_uuid: db68bbbd-8272-402d-9b9e-702576b9d706
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003301{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1998/21/
+outgoing_url: http://hubblesite.org/contents/news-releases/1998/news-1998-21.html
 
 text> Close-Up View of Galaxy NGC 4314
 
@@ -3026,7 +2836,7 @@ wip: yes
 @scene
 place_uuid: aa71b3a6-f939-487f-bf09-5e6a8347b3b1
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003311{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/41/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-41.html
 
 text> N 180B in the Large Magellanic Cloud
 
@@ -3048,7 +2858,7 @@ wip: yes
 @scene
 place_uuid: 4bba641a-310d-4fe5-9d5d-d18ac73d1306
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003321{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/12/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-12.html
 
 text> Gaseous Streamers from Nebula N44C Flutter in Stellar Breeze
 
@@ -3069,7 +2879,7 @@ wip: yes
 @scene
 place_uuid: 6d417225-d00d-4b6b-9144-95ead2dbd9be
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003331{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/37/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-37.html
 
 text> Faint White Dwarf Star in Globular Cluster NGC 6397
 
@@ -3091,7 +2901,7 @@ wip: yes
 @scene
 place_uuid: 8c71501d-6b1b-4638-bcbf-0ead6b78399f
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010001{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1995/41/
+outgoing_url: http://hubblesite.org/contents/news-releases/1995/news-1995-41.html
 
 text> Comet Hale-Bopp (26 Sep 1995)
 
@@ -3112,7 +2922,7 @@ wip: yes
 @scene
 place_uuid: c90d8827-433d-40c2-8fc3-7575b431ba23
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010011{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1999/41/
+outgoing_url: http://hubblesite.org/contents/news-releases/1999/news-1999-41.html
 
 text> A Grazing Encounter Between Two Spiral Galaxies (NGC 2207 and IC2163)
 
@@ -3133,7 +2943,7 @@ wip: yes
 @scene
 place_uuid: 0f84de52-4591-4d29-b014-8914de8b2fe5
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010021{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/24/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-24.html
 
 text> Spiral Galaxy NGC 3370, home to Supernova Seen in 1994
 
@@ -3155,7 +2965,7 @@ wip: yes
 @scene
 place_uuid: 91e1160f-ec72-4fa7-b7e3-47640754669f
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010031{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/04/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-04.html
 
 text> The Central Region of the 'Star-burst' Spiral Galaxy NGC 3310
 
@@ -3178,7 +2988,7 @@ wip: yes
 @scene
 place_uuid: c8c74d03-2ea1-4400-8eb4-50b170262028
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010101{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/01/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-01.html
 
 text> Galaxies Magnified by Galaxy Cluster Abell 1689's Graviational Lens
 
@@ -3205,7 +3015,7 @@ wip: yes
 @scene
 place_uuid: f38bb1b8-0e89-45fb-925c-59965faed2ea
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010111{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/22/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-22.html
 
 text> Star Clusters Born Among the Interacting Galaxies of Stephan's Quintet
 
@@ -3227,7 +3037,7 @@ wip: yes
 @scene
 place_uuid: eae379b5-de63-45e8-bd9e-dec7ec11e09d
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010121{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/14/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-14.html
 
 text> Freewheeling Galaxies Collide in a Blaze of Star Birth (NGC 1275)
 
@@ -3255,7 +3065,7 @@ wip: yes
 @scene
 place_uuid: 4e909e38-d66a-4ad7-b96d-86389e5106dc
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010131{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/11/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-11.html
 
 text> The Mice - NGC 4676: Colliding Galaxies Stream Stars and Gas
 
@@ -3265,7 +3075,7 @@ wip: yes
 @scene
 place_uuid: ad902e5c-30e4-4b9d-be73-c32acdfdc968
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010131{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/11/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-11.html
 
 text> 'The Mice' (NGC 4676): Colliding Galaxies Stream Stars and Gas
 
@@ -3286,7 +3096,7 @@ wip: yes
 @scene
 place_uuid: d99af5b7-cfda-464f-9f1e-e77c120e381a
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010201{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1994/16/
+outgoing_url: http://hubblesite.org/contents/news-releases/1994/news-1994-16.html
 
 text> 1229+204
 
@@ -3632,7 +3442,7 @@ wip: yes
 @scene
 place_uuid: 5ab9a92c-6aaf-4c05-a531-93065df7243a
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000132{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2000/37/
+outgoing_url: http://hubblesite.org/contents/news-releases/2000/news-2000-37.html
 
 text> Circinus Galaxy Spews Gas Into Space
 
@@ -3654,7 +3464,7 @@ wip: yes
 @scene
 place_uuid: e774e1c7-bbc4-4440-9980-06b39d3fd0eb
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000202{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/21/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-21.html
 
 text> Ring of Hot Blue Stars Pinwheels Around Yellow Nucleus of Hoag's Object
 Galaxy
@@ -3676,7 +3486,7 @@ wip: yes
 @scene
 place_uuid: 52f87738-a464-40fe-9d32-8194317965be
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000212{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1999/35/
+outgoing_url: http://hubblesite.org/contents/news-releases/1999/news-1999-35.html
 
 text> Herbig Haro 32: Jets of Material Ejected From a Young Star
 
@@ -3699,7 +3509,7 @@ wip: yes
 @scene
 place_uuid: 3179be1f-96ad-4567-8567-d547c0cdb2ee
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000232{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1993/11/
+outgoing_url: http://hubblesite.org/contents/news-releases/1993/news-1993-11.html
 
 text> NGC 7257: Spiral Disk and Globular Star Clusters at the Core of a
 Colliding Galaxy
@@ -3721,7 +3531,7 @@ wip: yes
 @scene
 place_uuid: a53fef93-8015-439d-ac42-06c37d66858f
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000302{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1994/10/
+outgoing_url: http://hubblesite.org/contents/news-releases/1994/news-1994-10.html
 
 text> Hubble Probes the Great Orion Nebula
 
@@ -3743,7 +3553,7 @@ wip: yes
 @scene
 place_uuid: a9558dcf-5251-45a8-995b-f22c3e9bdcc4
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000312{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/30/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-30.html
 
 text> Black Hole Companion Star GRO J1655-40
 
@@ -3764,7 +3574,7 @@ wip: yes
 @scene
 place_uuid: df17b331-da32-4849-be30-69434e3e925a
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000322{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/30/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-30.html
 
 text> WFPC2 Mosaic of NGC 604 in M33
 
@@ -3785,7 +3595,7 @@ wip: yes
 @scene
 place_uuid: 63971a87-44e8-4065-8c96-eaa3abea413a
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000332{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/18/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-18.html
 
 text> Globular Cluster M15
 
@@ -3808,7 +3618,7 @@ wip: yes
 @scene
 place_uuid: 3757e870-cbfc-4984-9d6a-3b8f1375685c
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001002{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/01/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-01.html
 
 text> Galaxies Magnified by Galaxy Cluster Abell 1689's 'Graviational Lens'
 
@@ -3829,7 +3639,7 @@ wip: yes
 @scene
 place_uuid: abc4969d-1de6-420e-8c58-0c3574c205e3
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001012{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/37/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-37.html
 
 text> NGC 6397
 
@@ -3852,7 +3662,7 @@ wip: yes
 @scene
 place_uuid: f6bef738-930c-4faa-a6cb-93638d3186f0
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001022{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/09/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-09.html
 
 text> Galaxy NGC 1427A Plunges Toward the Fornax Galaxy Cluster
 
@@ -3874,7 +3684,7 @@ wip: yes
 @scene
 place_uuid: 0fc6cc12-0bcb-4e1f-ab15-b932c378235a
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001032{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1998/11/
+outgoing_url: http://hubblesite.org/contents/news-releases/1998/news-1998-11.html
 
 text> Silkworm Nebula (IRAS 17441-2411)
 
@@ -3896,7 +3706,7 @@ wip: yes
 @scene
 place_uuid: 0d75c0e0-0184-435d-804b-04a267355003
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001102{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/37/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-37.html
 
 text> Crab Nebula : Dead Star Creates Celestial Havoc
 
@@ -3917,7 +3727,7 @@ wip: yes
 @scene
 place_uuid: c059d8b8-0372-48be-baa6-4ee2103c6f38
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001122{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/46/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-46.html
 
 text> A Dying Star Shrouded by a Blanket of Hailstones Forms the Bug Nebula (NGC
 6302)
@@ -3939,7 +3749,7 @@ wip: yes
 @scene
 place_uuid: cac433a1-a9eb-4d10-a662-8d6c625834ed
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001202{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/12/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-12.html
 
 text> Eagle Nebula (M16) Pillar Detail: Portion of Base
 
@@ -3962,7 +3772,7 @@ wip: yes
 @scene
 place_uuid: f301a8a2-94c3-438f-be0c-ed0437dcd3c9
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001212{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/30/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-30.html
 
 text> Firestorm of Star Birth In Galaxy NGC 604
 
@@ -3983,7 +3793,7 @@ wip: yes
 @scene
 place_uuid: ceff9eff-139b-4447-a454-7af0459c5d2d
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001222{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2000/25/
+outgoing_url: http://hubblesite.org/contents/news-releases/2000/news-2000-25.html
 
 text> A Dying Star in Globular Cluster M15
 
@@ -4005,7 +3815,7 @@ wip: yes
 @scene
 place_uuid: da363adf-db87-4843-8135-d222f4dd5255
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001232{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/33/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-33.html
 
 text> Hubble Space Telescope (ACS) Image of 47 Tucanae
 
@@ -4028,7 +3838,7 @@ wip: yes
 @scene
 place_uuid: d1dafecd-4128-49d4-bee1-1cc3d7fa4e9d
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001302{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/39/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-39.html
 
 text> A Giant Star Factory in Neighboring Galaxy NGC 6822
 
@@ -4038,7 +3848,7 @@ wip: yes
 @scene
 place_uuid: 3c7930d6-f410-45a5-bd44-7a9022fb6c8b
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001302{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/39/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-39.html
 
 text> A Giant Star Factory in Neighboring Galaxy NGC 6822
 
@@ -4059,7 +3869,7 @@ wip: yes
 @scene
 place_uuid: 37963ab2-741b-43c2-ae39-02354edb130e
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001312{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1999/06/
+outgoing_url: http://hubblesite.org/contents/news-releases/1999/news-1999-06.html
 
 text> NGC 1316;Elliptical Galaxy NGC 1316 Shows Aftermath of Cosmic Collision
 
@@ -4080,7 +3890,7 @@ wip: yes
 @scene
 place_uuid: f422c442-4330-41b9-98dc-1501be0b9e1a
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001322{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/04/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-04.html
 
 text> Messier 64;HST Image Overlay on Ground-based Image
 
@@ -4102,7 +3912,7 @@ wip: yes
 @scene
 place_uuid: 9fc230a1-f461-4ef8-95f8-6a798c17b57c
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001332{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/46/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-46.html
 
 text> The Antennae Galaxies/NGC 4038-4039
 
@@ -4112,7 +3922,7 @@ wip: yes
 @scene
 place_uuid: 16564c42-08ec-4823-8472-f839f800413b
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001332{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/46/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-46.html
 
 text> The Antennae Galaxies/NGC 4038-4039
 
@@ -4136,7 +3946,7 @@ wip: yes
 @scene
 place_uuid: ff08e22d-9eca-4f3c-8a14-b4b6bd96c910
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002002{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/18/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-18.html
 
 text> DSS-I
 
@@ -4157,7 +3967,7 @@ wip: yes
 @scene
 place_uuid: b3d086ed-c5ea-430e-8ba8-dac506270ecf
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002012{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2000/23/
+outgoing_url: http://hubblesite.org/contents/news-releases/2000/news-2000-23.html
 
 text> Star WR 136 Tears Apart a Shell of Gas
 
@@ -4178,7 +3988,7 @@ wip: yes
 @scene
 place_uuid: 01edb4d6-cfe2-4e37-b2da-fb0226f2b35e
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002022{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/15/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-15.html
 
 text> Chandra 3-Color X-ray Image of N 63A
 
@@ -4199,7 +4009,7 @@ wip: yes
 @scene
 place_uuid: 614f0df5-9887-4f2e-8e12-8b78cfc65371
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002032{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2007/05/
+outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-05.html
 
 text> Barred Spiral Galaxy NGC 1313 - VLT
 
@@ -4220,7 +4030,7 @@ wip: yes
 @scene
 place_uuid: 34fcd01e-3da0-4cc6-a5b0-dfe941acd066
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002102{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1998/39/
+outgoing_url: http://hubblesite.org/contents/news-releases/1998/news-1998-39.html
 
 text> A Glowing Pool of Light: Planetary Nebula NGC 3132
 
@@ -4262,7 +4072,7 @@ wip: yes
 @scene
 place_uuid: 1856b8a2-d75b-4642-aefa-10bb1cdab25e
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002132{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2000/06/
+outgoing_url: http://hubblesite.org/contents/news-releases/2000/news-2000-06.html
 
 text> Light and Shadow in the Carina Nebula (NGC 3372)
 
@@ -4272,7 +4082,7 @@ wip: yes
 @scene
 place_uuid: e049196c-e990-49e9-9b8d-43772f55df54
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002132{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2000/06/
+outgoing_url: http://hubblesite.org/contents/news-releases/2000/news-2000-06.html
 
 text> Light and Shadow in the Carina Nebula (NGC 3372)
 
@@ -4295,7 +4105,7 @@ wip: yes
 @scene
 place_uuid: 13be8e31-75b8-456a-a541-4fc3875ee2e0
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002202{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/05/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-05.html
 
 text> The Ant Nebula (Menzel 3): Fiery Lobes Protrude From Dying, Sun-like Star
 
@@ -4316,7 +4126,7 @@ wip: yes
 @scene
 place_uuid: 17728d20-17e0-4b15-ba32-7bda0df231f9
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002212{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/50/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-50.html
 
 text> V838 Monocerotis - 17 November 2005
 
@@ -4338,7 +4148,7 @@ wip: yes
 @scene
 place_uuid: d52b7553-a69c-4f16-a080-8797d44cef8d
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002222{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/02/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-02.html
 
 text> Galaxy C153 in Cluster Abell 2125, Shown in Visible Light
 
@@ -4360,7 +4170,7 @@ wip: yes
 @scene
 place_uuid: 6ac6c8c1-bdd9-4a98-8e86-6016acc1c02d
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002232{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/29/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-29.html
 
 text> Close-Up Visible Light Image of Kepler's Supernova Remnant
 
@@ -4382,7 +4192,7 @@ wip: yes
 @scene
 place_uuid: 862f21d3-e0c9-47b2-b6b2-707251d4412d
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002302{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/25/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-25.html
 
 text> The Boomerang Nebula
 
@@ -4403,7 +4213,7 @@ wip: yes
 @scene
 place_uuid: c51e5ace-40ed-492a-a6cf-c6badf7df997
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002312{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/10/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-10.html
 
 text> A Detailed Look at Spiral Galaxy M101
 
@@ -4424,7 +4234,7 @@ wip: yes
 @scene
 place_uuid: c982b72d-fed7-4e0d-9f8a-d34999b3f752
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002322{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1997/34/
+outgoing_url: http://hubblesite.org/contents/news-releases/1997/news-1997-34.html
 
 text> Fireworks Show in Collision of Antennae Galaxies (NGC 4038/4039)
 
@@ -4446,7 +4256,7 @@ wip: yes
 @scene
 place_uuid: aaf15ca3-04d0-441e-92cf-a156ee023ebf
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002332{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/35/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-35.html
 
 text> I Zwicky 18: Possibly the Youngest Galaxy Ever Seen
 
@@ -4470,7 +4280,7 @@ wip: yes
 @scene
 place_uuid: 4239d899-f478-4af3-aef4-9b16e68435fd
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003012{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1997/38/
+outgoing_url: http://hubblesite.org/contents/news-releases/1997/news-1997-38.html
 
 text> Eye-Shaped Planetary Nebula NGC 6826
 
@@ -4492,7 +4302,7 @@ wip: yes
 @scene
 place_uuid: 48ca3d4d-5c8f-425c-a548-95b65a961a31
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003032{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/15/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-15.html
 
 text> Ring Galaxy AM 0644-741
 
@@ -4514,7 +4324,7 @@ wip: yes
 @scene
 place_uuid: fe22cb6f-bd68-41cf-b647-69c7455d0faf
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003102{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/12/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-12.html
 
 text> Out of This Whirl: the Whirlpool Galaxy (M51) and Companion Galaxy;Messier
 51;M51
@@ -4525,7 +4335,7 @@ wip: yes
 @scene
 place_uuid: d50f590d-387b-45ff-88d9-1f8d07c78228
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003102{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/12/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-12.html
 
 text> Out of This Whirl: the Whirlpool Galaxy (M51) and Companion Galaxy
 
@@ -4547,7 +4357,7 @@ wip: yes
 @scene
 place_uuid: bc39eea6-f3e2-4f08-8ed2-3f283d38c2da
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003112{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/32/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-32.html
 
 text> Helix Nebula As Seen By Hubble and the Cerro Tololo Inter-American
 Observatory;NGC 7293
@@ -4569,7 +4379,7 @@ wip: yes
 @scene
 place_uuid: f0ff0419-ca85-4d4c-b916-6748cb9f79fe
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003122{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/34/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-34.html
 
 text> SWEEPS ACS/WFC Color Composite
 
@@ -4590,7 +4400,7 @@ wip: yes
 @scene
 place_uuid: a88d81d4-48f8-415a-8a10-30b736a3d689
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003132{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/28/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-28.html
 
 text> The Sombrero Galaxy in Infrared Light
 
@@ -4612,7 +4422,7 @@ wip: yes
 @scene
 place_uuid: 3bb906c5-87a7-482b-8ffc-3f287ea58643
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003202{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/20/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-20.html
 
 text> A Zoo of Galaxies
 
@@ -4634,7 +4444,7 @@ wip: yes
 @scene
 place_uuid: aafcf151-2375-4e8a-8ec4-14f398055302
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003212{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/54/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-54.html
 
 text> Pismis 24 and NGC 6357
 
@@ -4655,7 +4465,7 @@ wip: yes
 @scene
 place_uuid: 87bd87cf-0cea-4d30-86ab-ea5dab8e0313
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003222{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/08/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-08.html
 
 text> The Heart Starburst Galaxy M82
 
@@ -4677,7 +4487,7 @@ wip: yes
 @scene
 place_uuid: 4a77dfba-3e77-4b5f-858e-cd58cdd94930
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003232{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/26/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-26.html
 
 text> Super Star Clusters in Dust-Enshrouded Galaxy
 
@@ -4699,7 +4509,7 @@ wip: yes
 @scene
 place_uuid: 15be52fb-fbff-4ed0-89b1-e0380b9130d4
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003302{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1995/44/
+outgoing_url: http://hubblesite.org/contents/news-releases/1995/news-1995-44.html
 
 text> Pillars of Creation in a Star-Forming Region (Gas Pillars in M16 - Eagle
 Nebula)
@@ -4721,7 +4531,7 @@ wip: yes
 @scene
 place_uuid: a095e58b-6530-4527-8840-e9211645b9fd
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003312{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/15/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-15.html
 
 text> Details of Supernova Remnant Cassiopeia A
 
@@ -4742,7 +4552,7 @@ wip: yes
 @scene
 place_uuid: d4e6b07f-d8fc-4796-afff-3986018d5c66
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003322{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/34/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-34.html
 
 text> Chandra X-ray Observatory: Expanding Bubble of Tycho's Supernova
 
@@ -4763,7 +4573,7 @@ wip: yes
 @scene
 place_uuid: 18651b93-52ec-4cc7-8613-5a513ab9d58c
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010002{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1999/16/
+outgoing_url: http://hubblesite.org/contents/news-releases/1999/news-1999-16.html
 
 text> 'Polar Ring' Galaxy NGC 4650: A Disk of Red Stars Ringed By Dust, Gas, and
 More Stars
@@ -4791,7 +4601,7 @@ wip: yes
 @scene
 place_uuid: e6f72511-28db-45fe-839c-d7eb3a7abb5d
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010012{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/16/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-16.html
 
 text> Barred Spiral Galaxy NGC 1512 in Many Wavelengths
 
@@ -4812,7 +4622,7 @@ wip: yes
 @scene
 place_uuid: c473e261-7c81-473d-838e-0ed7ca70b11e
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010022{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/16/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-16.html
 
 text> POX 186: A Tiny Galaxy is Born
 
@@ -4834,7 +4644,7 @@ wip: yes
 @scene
 place_uuid: ea988d08-799c-4b95-aed3-8393b27f3a1e
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010032{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/29/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-29.html
 
 text> Shock Wave in Kepler's Supernova Remnant
 
@@ -4855,7 +4665,7 @@ wip: yes
 @scene
 place_uuid: 88f43343-3bed-496d-898a-0e4e238f5c0d
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010102{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1997/34/
+outgoing_url: http://hubblesite.org/contents/news-releases/1997/news-1997-34.html
 
 text> NGC 4038/4039, Antennae
 
@@ -4877,7 +4687,7 @@ wip: yes
 @scene
 place_uuid: 8fc0bea5-b4aa-41bf-a9fe-301454342584
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010112{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/17/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-17.html
 
 text> Trifid Nebula;Messier 20;NGC 6514
 
@@ -4898,7 +4708,7 @@ wip: yes
 @scene
 place_uuid: ecd8938e-4b02-4bda-a647-ccff3031a86e
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010122{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2000/20/
+outgoing_url: http://hubblesite.org/contents/news-releases/2000/news-2000-20.html
 
 text> Black Hole-Powered Jet of Electrons and Sub-Atomic Particles Streams From
 Center of Galaxy M87
@@ -4921,7 +4731,7 @@ wip: yes
 @scene
 place_uuid: 6e45d2cc-767c-4d56-bb0f-43b54dc43cad
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010132{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1997/38/
+outgoing_url: http://hubblesite.org/contents/news-releases/1997/news-1997-38.html
 
 text> Supersonic Exhaust from Nebula M2-9
 
@@ -4943,7 +4753,7 @@ wip: yes
 @scene
 place_uuid: 18cfc141-ead2-45d4-b3ce-8f6a61fa312b
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010202{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/07/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-07.html
 
 text> Full ACS Field of NGC 1309
 
@@ -5241,7 +5051,7 @@ wip: yes
 @scene
 place_uuid: 09f33230-2f10-4522-9225-4c38dc63cbdb
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000133{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/06/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-06.html
 
 text> Close-Up of M27, the Dumbbell Nebula
 
@@ -5251,7 +5061,7 @@ wip: yes
 @scene
 place_uuid: 24208c23-29d3-4d61-a3f9-839386d03440
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000133{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/06/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-06.html
 
 text> Close-Up of M27, the Dumbbell Nebula
 
@@ -5272,7 +5082,7 @@ wip: yes
 @scene
 place_uuid: 7bec8468-69fc-43b2-8eb1-1555782ee5ab
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000213{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1994/09/
+outgoing_url: http://hubblesite.org/contents/news-releases/1994/news-1994-09.html
 
 text> Eta Carinae: A Star On the Brink of Destruction
 
@@ -5293,7 +5103,7 @@ wip: yes
 @scene
 place_uuid: bd12d7c0-0aa4-4723-ace2-85834101cf32
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000223{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1998/32/
+outgoing_url: http://hubblesite.org/contents/news-releases/1998/news-1998-32.html
 
 text> Hubble Goes to the Limit In Search Of Farthest Galaxies
 
@@ -5315,7 +5125,7 @@ wip: yes
 @scene
 place_uuid: 04bba304-f1e9-454a-bdc2-c2b4d251a31f
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000233{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/04/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-04.html
 
 text> Wide View of Giant Radio Jet Coming From Spiral Galaxy 0313-192
 
@@ -5337,7 +5147,7 @@ wip: yes
 @scene
 place_uuid: 2bb6e0d5-6ab9-4ef2-8b34-f84d18098749
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000303{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/11/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-11.html
 
 text> Massive Stars Sculpt Gas of Nebula N83B (NGC 1748)
 
@@ -5358,7 +5168,7 @@ wip: yes
 @scene
 place_uuid: c7042016-b722-42a7-a116-0d340361e2f3
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000313{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1996/38/
+outgoing_url: http://hubblesite.org/contents/news-releases/1996/news-1996-38.html
 
 text> Giant 'Twisters' and Star Wisps in the Lagoon Nebula
 
@@ -5380,7 +5190,7 @@ wip: yes
 @scene
 place_uuid: 68a11385-4499-432b-a48c-2a42e7dac999
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000323{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/34/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-34.html
 
 text> The Ghost Head Nebula (NGC 2080)
 
@@ -5390,7 +5200,7 @@ wip: yes
 @scene
 place_uuid: da440de6-b4ae-4f78-9490-a2b587551070
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000323{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/34/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-34.html
 
 text> The Ghost Head Nebula (NGC 2080)
 
@@ -5411,7 +5221,7 @@ wip: yes
 @scene
 place_uuid: 9225a875-2c29-4bac-98db-d652edf76bb4
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000333{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/10/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-10.html
 
 text> V838 Monocerotis - 30 April 2002
 
@@ -5454,7 +5264,7 @@ wip: yes
 @scene
 place_uuid: c65418e7-6697-4f3e-a0fd-73cfe55626bb
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001023{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/04/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-04.html
 
 text> Dust Band Around the Nucleus of 'Black Eye Galaxy' Messier 64 (M64)
 
@@ -5476,7 +5286,7 @@ wip: yes
 @scene
 place_uuid: ab9e7614-6385-4ffd-b1c5-d41c21f24f5a
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001033{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1995/44/
+outgoing_url: http://hubblesite.org/contents/news-releases/1995/news-1995-44.html
 
 text> Stellar 'Eggs' Emerge from Molecular Cloud (Closeup) (Evaporating Globules
 in M16)
@@ -5500,7 +5310,7 @@ wip: yes
 @scene
 place_uuid: da4a7d76-5030-4667-b93a-1421930930c3
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001103{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/30/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-30.html
 
 text> NASA Great Space Observatories Glimpse Faint Afterglow of Nearby Stellar
 Explosion
@@ -5523,7 +5333,7 @@ wip: yes
 @scene
 place_uuid: 90f981da-6d89-4a36-9ef6-38d8d8cad9ba
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001113{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/07/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-07.html
 
 text> Hubble Snaps Images of a Pinwheel-Shaped Galaxy
 
@@ -5544,7 +5354,7 @@ wip: yes
 @scene
 place_uuid: 14a56f55-c83f-4083-a97e-3dfb3ce75d5d
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001123{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2000/01/
+outgoing_url: http://hubblesite.org/contents/news-releases/2000/news-2000-01.html
 
 text> Fireworks of Star Formation Light Up Galaxy NGC 4214
 
@@ -5565,7 +5375,7 @@ wip: yes
 @scene
 place_uuid: 8f44f961-49c1-4f47-8faf-d7fd6e57c05a
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001133{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/04/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-04.html
 
 text> Infant Stars in the Small Magellanic Cloud
 
@@ -5588,7 +5398,7 @@ wip: yes
 @scene
 place_uuid: a5f4d14e-4198-421e-8f0f-56887804393a
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001203{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/07/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-07.html
 
 text> NGC 4013: A Galaxy on the Edge
 
@@ -5598,7 +5408,7 @@ wip: yes
 @scene
 place_uuid: 7451cfb7-b9c0-4dd0-8210-59f0aded4e9e
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001203{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/07/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-07.html
 
 text> NGC 4013: A Galaxy on the Edge
 
@@ -5621,7 +5431,7 @@ wip: yes
 @scene
 place_uuid: 6d3010b8-b494-41c7-a257-2d35540cb1d0
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001213{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/51/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-51.html
 
 text> Composite Image of Galaxy Cluster MS 0735
 
@@ -5643,7 +5453,7 @@ wip: yes
 @scene
 place_uuid: 90e80567-5b1e-4016-ba90-e4a1574c0626
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001223{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1998/12/
+outgoing_url: http://hubblesite.org/contents/news-releases/1998/news-1998-12.html
 
 text> Barred Spiral Galaxy NGC 1808
 
@@ -5665,7 +5475,7 @@ wip: yes
 @scene
 place_uuid: 15c2a7be-9bb6-4184-bc8a-b08620fc509d
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001233{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/33/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-33.html
 
 text> Peering into the Core of Globular Cluster Omega Centauri
 
@@ -5686,7 +5496,7 @@ wip: yes
 @scene
 place_uuid: 67cb034a-1708-41b4-b5bb-af8b6e15a3a1
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001303{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2007/05/
+outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-05.html
 
 text> Barred Spiral Galaxy NGC 1313 - HST
 
@@ -5709,7 +5519,7 @@ wip: yes
 @scene
 place_uuid: 7499a1d9-d980-4372-b79a-ad402feb8269
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001313{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/01/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-01.html
 
 text> Galaxies Magnified by Galaxy Cluster Abell 1689's 'Graviational Lens'
 
@@ -5731,7 +5541,7 @@ wip: yes
 @scene
 place_uuid: 0ba3b99b-69e0-4136-b843-839681ec939d
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001323{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1995/01/
+outgoing_url: http://hubblesite.org/contents/news-releases/1995/news-1995-01.html
 
 text> The Cat's Eye Nebula
 
@@ -5753,7 +5563,7 @@ wip: yes
 @scene
 place_uuid: 1625314a-26b2-43d1-8ade-93ea5cbb20a1
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001333{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/29/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-29.html
 
 text> 'Double Bubble' of Gas and Dust in the Large Magellanic Cloud
 
@@ -5776,7 +5586,7 @@ wip: yes
 @scene
 place_uuid: 4ea938e1-d4d2-435a-9c71-d85f0c806ae1
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002013{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/01/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-01.html
 
 text> Massive Galaxy Cluster RDCS 1252
 
@@ -5798,7 +5608,7 @@ wip: yes
 @scene
 place_uuid: fbaad9f5-c88e-46f7-b8f2-73bec6c81e39
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002023{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2007/16/
+outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-16.html
 
 text> Close Up of Ancient, White Dwarf Stars in the Milky Way Galaxy
 
@@ -5819,7 +5629,7 @@ wip: yes
 @scene
 place_uuid: 1b4922b5-d7f9-4b56-ba6a-70886371f850
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002033{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/20/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-20.html
 
 text> Hubble Refines Distance to the Pleiades Star Cluster
 
@@ -5841,7 +5651,7 @@ wip: yes
 @scene
 place_uuid: 649e6fd0-e2b2-47a4-b3e6-e6156196b7e4
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002103{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1996/17/
+outgoing_url: http://hubblesite.org/contents/news-releases/1996/news-1996-17.html
 
 text> Whirpool Galaxy Closeup;M51;Messier 51
 
@@ -5862,7 +5672,7 @@ wip: yes
 @scene
 place_uuid: a3ecf204-82e6-48c8-8ba1-12d13bbbfc97
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002113{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2000/14/
+outgoing_url: http://hubblesite.org/contents/news-releases/2000/news-2000-14.html
 
 text> Lined-Up Galaxies Show Rare Details (NGC 3314)
 
@@ -5884,7 +5694,7 @@ wip: yes
 @scene
 place_uuid: 1393c91d-26e3-45d5-871e-a05649a96fb4
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002123{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/08/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-08.html
 
 text> Hubble and Keck Team Up to Find the Farthest Known Galaxy
 
@@ -5906,7 +5716,7 @@ wip: yes
 @scene
 place_uuid: 5724f8ae-d8d6-40ae-81b3-af3c8a76ce2d
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002203{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1995/44/
+outgoing_url: http://hubblesite.org/contents/news-releases/1995/news-1995-44.html
 
 text> Stellar 'Eggs' Emerge from Molecular Cloud (Star-Birth Clouds in M16)
 
@@ -5916,7 +5726,7 @@ wip: yes
 @scene
 place_uuid: 084c568e-37c7-4559-bc64-c57fbf4ad1ee
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002203{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1995/44/
+outgoing_url: http://hubblesite.org/contents/news-releases/1995/news-1995-44.html
 
 text> Stellar 'Eggs' Emerge from Molecular Cloud (Star-Birth Clouds in M16)
 
@@ -5939,7 +5749,7 @@ wip: yes
 @scene
 place_uuid: 9032c4e2-6760-4574-a1fe-aa372b76e872
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002213{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2007/18/
+outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-18.html
 
 text> Globular Cluster with Multiple Stellar Populations
 
@@ -5961,7 +5771,7 @@ wip: yes
 @scene
 place_uuid: 7bcc0350-4346-413b-9801-e4a82edf5dad
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002223{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/26/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-26.html
 
 text> Hubble Peers Inside Interstellar Bubble N44F
 
@@ -5983,7 +5793,7 @@ wip: yes
 @scene
 place_uuid: 3791728a-effc-40a1-86c9-300a1bc3aeaf
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002233{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/15/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-15.html
 
 text> Supernova Remnant LMC N 63A in X-Ray, Optical and Radio Radiation
 
@@ -6005,7 +5815,7 @@ wip: yes
 @scene
 place_uuid: a0b412c7-1cd9-490a-ad9f-a7c6fd8735ad
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002303{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/38/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-38.html
 
 text> Planetary Host Star
 
@@ -6026,7 +5836,7 @@ wip: yes
 @scene
 place_uuid: 1994c9bb-873a-483c-84ab-3b8e622f4c5f
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002313{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1999/26/
+outgoing_url: http://hubblesite.org/contents/news-releases/1999/news-1999-26.html
 
 text> Globular Cluster M80: A Swarm of Ancient Stars in the Milky Way
 
@@ -6054,7 +5864,7 @@ wip: yes
 @scene
 place_uuid: b1a29933-96f3-465d-883d-e38982d35a24
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002323{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/11/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-11.html
 
 text> Rich Background of Galaxies Behind the Tadpole Galaxy
 
@@ -6075,7 +5885,7 @@ wip: yes
 @scene
 place_uuid: 98559261-db0d-4c72-b0a7-dcdf0e88384e
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002333{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/15/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-15.html
 
 text> Supernova Remnant Cassiopeia A
 
@@ -6096,7 +5906,7 @@ wip: yes
 @scene
 place_uuid: 33d3ff99-d2e6-43fb-8d79-5303d3f36b43
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003003{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1998/28/
+outgoing_url: http://hubblesite.org/contents/news-releases/1998/news-1998-28.html
 
 text> Black Hole-Powered Spiral Galaxy NGC 7742
 
@@ -6118,7 +5928,7 @@ wip: yes
 @scene
 place_uuid: 1afdc0e2-b174-4626-9440-4862c2f6c27e
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003023{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2000/34/
+outgoing_url: http://hubblesite.org/contents/news-releases/2000/news-2000-34.html
 
 text> A Bird's Eye View of a Galaxy Collision
 
@@ -6141,7 +5951,7 @@ wip: yes
 @scene
 place_uuid: c6d113aa-9ac0-4cd4-8ca2-f0fa96c16ab1
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003033{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/01/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-01.html
 
 text> Galaxies Magnified by Galaxy Cluster Abell 1689's 'Graviational Lens'
 
@@ -6163,7 +5973,7 @@ wip: yes
 @scene
 place_uuid: b53e2a3a-b0cf-45d3-9b4d-0e8cd7e761f0
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003103{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2002/24/
+outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-24.html
 
 text> Combined X-Ray and Optical Images of the Crab Nebula
 
@@ -6184,7 +5994,7 @@ wip: yes
 @scene
 place_uuid: 8e1f1a73-9dc5-4efc-90a0-b3d53067847d
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003113{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/50/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-50.html
 
 text> V838 Monocerotis - 9 September 2006
 
@@ -6206,7 +6016,7 @@ wip: yes
 @scene
 place_uuid: 2f838673-6917-4cd2-9400-cde18bb35bf5
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003133{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/01/
+outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-01.html
 
 text> Barred Spiral Galaxy NGC 1300
 
@@ -6228,7 +6038,7 @@ wip: yes
 @scene
 place_uuid: ebbc0fea-df0e-4183-adf0-fa4d7b2e1c6d
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003203{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2007/08/
+outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-08.html
 
 text> Hubble Illuminates Cluster of Diverse Galaxies
 
@@ -6250,7 +6060,7 @@ wip: yes
 @scene
 place_uuid: c111f99b-0726-42f5-9cd9-216965c7d5bf
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003213{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/17/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-17.html
 
 text> Star Cluster NGC 265
 
@@ -6272,7 +6082,7 @@ wip: yes
 @scene
 place_uuid: 8bd45bdc-e330-47b8-ae67-c64ce7d5ede1
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003233{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/51/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-51.html
 
 text> Visible-Light Image of Galaxy Cluster MS 0735
 
@@ -6293,7 +6103,7 @@ wip: yes
 @scene
 place_uuid: 0336cb1a-56aa-443d-82ea-32b7d1b26291
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003303{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/15/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-15.html
 
 text> Young and Old Stars Found in Andromeda's Halo
 
@@ -6314,7 +6124,7 @@ wip: yes
 @scene
 place_uuid: 20dd71e5-cee9-4983-95ff-182ad5381e2d
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003313{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/10/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-10.html
 
 text> V838 Monocerotis - 2 September 2002
 
@@ -6337,7 +6147,7 @@ wip: yes
 @scene
 place_uuid: 2762be22-cda9-48f3-bb2a-e1dd94e1a700
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003323{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/20/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-20.html
 
 text> Celestial Fireworks: Sheets of Debris From a Stellar Explosion (N 49, DEM
 L 190)
@@ -6360,7 +6170,7 @@ wip: yes
 @scene
 place_uuid: a2bfe7ee-b52d-46fc-885b-94e5e014df82
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003333{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2001/37/
+outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-37.html
 
 text> Galaxy NGC 6882 in Ultraviolet Light
 
@@ -6382,7 +6192,7 @@ wip: yes
 @scene
 place_uuid: e86f4367-4c53-4f0b-a811-9aee107d2d80
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010003{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2007/10/
+outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-10.html
 
 text> Supernova 1987A Composite;A String of 'Cosmic Pearls' Surrounds an
 Exploding Star
@@ -6405,7 +6215,7 @@ wip: yes
 @scene
 place_uuid: 39c59b74-316f-4fbc-b050-e53ccf9921eb
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010023{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2004/06/
+outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-06.html
 
 text> Supernova Bonanza in Nearby Galaxy NGC 1569
 
@@ -6426,7 +6236,7 @@ wip: yes
 @scene
 place_uuid: b285c390-fdb6-4fc6-8757-df7fe44159b4
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010033{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/12/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-12.html
 
 text> Supernova (Sn2002dd) in the Hubble Deep Field -- 1995
 
@@ -6448,7 +6258,7 @@ wip: yes
 @scene
 place_uuid: faa527f6-5287-4e8b-ba7a-8409c9cbf25d
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010103{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1998/17/
+outgoing_url: http://hubblesite.org/contents/news-releases/1998/news-1998-17.html
 
 text> Host Galaxy of Gamma Ray Burst 971214
 
@@ -6471,7 +6281,7 @@ wip: yes
 @scene
 place_uuid: 125dc2fe-2fea-4b8b-a937-07cc17be3fda
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010113{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/39/
+outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-39.html
 
 text> Visible-Light and X-Ray Composite Image of Galaxy Cluster 1E 0657-556
 
@@ -6492,7 +6302,7 @@ wip: yes
 @scene
 place_uuid: 3a65205d-c23c-4603-8d97-845bbc4a0f13
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010123{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1995/49/
+outgoing_url: http://hubblesite.org/contents/news-releases/1995/news-1995-49.html
 
 text> The Orion Nebula: Stellar Birthplace
 
@@ -6513,7 +6323,7 @@ wip: yes
 @scene
 place_uuid: 4cd0ca6f-192f-451b-921a-0a5959c2128c
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010133{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/1998/28/
+outgoing_url: http://hubblesite.org/contents/news-releases/1998/news-1998-28.html
 
 text> The Sagittarius Star Cloud: A Sky Full of Glittering Jewels
 
@@ -6534,7 +6344,7 @@ wip: yes
 @scene
 place_uuid: 6b187882-e150-4d1e-b19b-59261d25d39f
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010203{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/28/
+outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-28.html
 
 text> Sombrero Galaxy;Messier 104;M104
 
