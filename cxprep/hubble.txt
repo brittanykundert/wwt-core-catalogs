@@ -5,9 +5,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://data1.wwtassets.org/packages/2022/08_hubble/smacs0723-73/thumb.jpg
 
-credits> ESA/Hubble & NASA, RELICS
+credits> ESA/Hubble &amp; NASA, RELICS
 
-wip: yes
 ---
 
 @scene
@@ -16,9 +15,10 @@ image_url: http://data1.wwtassets.org/packages/2022/08_hubble/smacs0723-73/{1}/{
 outgoing_url: https://archive.stsci.edu/prepds/relics/color_images/smacs0723-73.html
 thumbnail: http://data1.wwtassets.org/packages/2022/08_hubble/smacs0723-73/thumb.jpg
 
-text> Hubble RELICS SMACS J0723.3-7327 ACS-WFC3IR
+text> This image of the galaxy cluster SMACS J0723.3-7327 was obtained as part
+of the RELICS program, which imaged 41 massive galaxy clusters to efficiently
+search for brightly lensed high-redshift galaxies in time for JWST Cycle 1.
 
-wip: yes
 ---
 
 @image
@@ -29,7 +29,6 @@ thumbnail: http://data1.wwtassets.org/packages/2022/12_jwst/hudf/thumb.jpg
 
 credits> NASA, ESA, and S. Beckwith (STScI) and the HUDF Team
 
-wip: yes
 ---
 
 @scene
@@ -38,9 +37,13 @@ image_url: http://data1.wwtassets.org/packages/2022/12_jwst/hudf/{1}/{3}/{3}_{2}
 outgoing_url: https://esahubble.org/images/heic0611b/
 thumbnail: http://data1.wwtassets.org/packages/2022/12_jwst/hudf/thumb.jpg
 
-text> Hubble Ultra Deep Field
+text> This view of nearly 10,000 galaxies is called the Hubble Ultra Deep Field.
+The snapshot includes galaxies of various ages, sizes, shapes, and colours. The
+smallest, reddest galaxies, about 100, may be among the most distant known,
+existing when the universe was just 800 million years old. The nearest galaxies
+— the larger, brighter, well-defined spirals and ellipticals — thrived about 1
+billion years ago, when the cosmos was 13 billion years old.
 
-wip: yes
 ---
 
 @image
@@ -53,7 +56,6 @@ credits> NASA, ESA, the Hubble Heritage Team (STScI/AURA)-ESA/Hubble
 Collaboration and A. Evans (University of Virginia, Charlottesville/NRAO/Stony
 Brook University)
 
-wip: yes
 ---
 
 @scene
@@ -64,15 +66,8 @@ thumbnail: http://data1.wwtassets.org/packages/2022/12_jwst/potm2211c/thumb.jpg
 
 text> This is an image of II ZW 96 released by the NASA/ESA Hubble Space
 Telescope in 2008 for the telescope’s 18th anniversary. Hubble provides a unique
-view of this bizarre galaxy merger in visible wavelengths. This version has been
-scaled to match the size and orientation of the new Webb image of II ZW 96.
-[Image description: Two galaxies are connected by dark blue spots of star
-formation. The galaxies are blue with faint red dust, and are heavily distorted
-from their spiral shapes. The background is black, and covered with many tiny
-galaxies.] Links Slider Tool Zoom Into II ZW 96 Pan of II ZW 96 Hubble and Webb
-Observe II ZW 96
+view of this bizarre galaxy merger in visible wavelengths.
 
-wip: yes
 ---
 
 @image
@@ -83,7 +78,6 @@ thumbnail: http://data1.wwtassets.org/packages/2022/12_jwst/weic2217c/thumb.jpg
 
 credits> ESA/Hubble, NASA, N. Zakamska
 
-wip: yes
 ---
 
 @scene
@@ -94,11 +88,8 @@ thumbnail: http://data1.wwtassets.org/packages/2022/12_jwst/weic2217c/thumb.jpg
 
 text> This field of view from the NASA/ESA Hubble Space Telescope is centred on
 the quasar SDSS J165202.64+172852.3. The quasar is an “extremely red” quasar
-that exists in the very early Universe, 11.5 billion years ago. [Image
-Description : This visual shows a wide field view of multiple galaxies in the
-field of view, centred on the quasar that is the focus of this study.]
+that exists in the very early Universe, 11.5 billion years ago.
 
-wip: yes
 ---
 
 @image
@@ -110,17 +101,20 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=14976128
 credits> Credit: ESA, NASA, K. Sharon (Tel Aviv University) and E. Ofek
 (Caltech)
 
-wip: yes
 ---
 
 @scene
 place_uuid: c3d2215d-2a77-447b-af2a-8831459ae6de
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000210{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2006/23/
+outgoing_url: https://hubblesite.org/contents/news-releases/2006/news-2006-23.html
 
-text> Hubble Captures a 'Five-Star' Rated Gravitational Lens
+text>  NASA's Hubble Space Telescope captured the first-ever picture of a group
+of five star-like images of a single distant quasar. The multiple-image effect
+seen in the Hubble picture is produced by a process called gravitational
+lensing, in which the gravitational field of a massive object – in this case, a
+cluster of galaxies – bends and amplifies light from an object – in this case, a
+quasar – farther behind it.
 
-wip: yes
 ---
 
 @image
@@ -129,20 +123,21 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1998765919
 
-credits> Credit: NASA and The Hubble Heritage Team (AURA/STScI) Acknowledgment:
+credits> Credit: NASA and The Hubble Heritage Team (AURA/STScI; acknowledgment:
 A. Cool (SFSU)
 
-wip: yes
 ---
 
 @scene
 place_uuid: f8eec05b-b4c7-4f5c-a4d4-09d7333c8b7a
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000220{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/21/
+outgoing_url: https://hubblesite.org/contents/news-releases/2003/news-2003-21.html
 
-text> Too Close for Comfort
+text> This Hubble Space Telescope view of the core of one of the nearest
+globular star clusters, called NGC 6397, resembles a treasure chest of
+glittering jewels. The cluster is located 8,200 light-years away in the
+constellation Ara.
 
-wip: yes
 ---
 
 @image
@@ -153,7 +148,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=19564730
 
 credits> Credit: NASA, ESA, and A. Nota (STScI/ESA)
 
-wip: yes
 ---
 
 @scene
