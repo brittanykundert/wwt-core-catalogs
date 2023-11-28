@@ -684,10 +684,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-241.jpg
 
-credits> NASA/CXC/SAO; The explosion was seen on Earth in 1054 AD. At the center
-of the nebula is a rapidly spinning neutron star, or pulsar that emits...
+credits> NASA/CXC/SAO
 
-wip: yes
 ---
 
 @scene
@@ -696,9 +694,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-241L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/1999/0052/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-241.jpg
 
-text> Crab Nebula
+text> The Crab Nebula is the remnant of a supernova explosion that was seen on
+Earth in 1054 AD. It is 6000 light years from Earth. At the center of the bright
+nebula is a rapidly spinning neutron star, or pulsar that emits pulses of
+radiation 30 times a second.
 
-wip: yes
 ---
 
 @image
@@ -1441,11 +1441,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-335.jpg
 
-credits> X-ray: NASA/CXC/ASU/J.Hester et ; The supernova that produced the Crab
-Nebula was detected by naked-eye observers around the world in 1054 A.D. This
-composite ima...
+credits> X-ray: NASA/CXC/ASU/J.Hester et al.; Optical: NASA/ESA/ASU/J.Hester &
+A.Loll; Infrared: NASA/JPL-Caltech/Univ. Minn./R.Gehrz
 
-wip: yes
 ---
 
 @scene
@@ -1454,9 +1452,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-335L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2006/crab/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-335.jpg
 
-text> Crab Nebula
+text> A star's spectacular death in the constellation Taurus was observed on
+Earth as the supernova of 1054 A.D. Now, almost a thousand years later, a
+superdense neutron star left behind by the stellar death is spewing out a
+blizzard of extremely high-energy particles into the expanding debris field
+known as the Crab Nebula.
 
-wip: yes
 ---
 
 @image
@@ -2396,11 +2397,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-408.jpg
 
-credits> NASA/CXC/SAO/F.Seward et al; In the Crab Nebula, a rapidly rotating
-neutron star, or pulsar (white dot near the center), powers the dramatic
-activity seen by...
+credits> NASA/CXC/SAO/F.Seward et al
 
-wip: yes
 ---
 
 @scene
@@ -2409,9 +2407,14 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-408L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2008/crab/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-408.jpg
 
-text> Crab Nebula
+text> This image gives the first clear view of the faint boundary of the Crab
+Nebula's X-ray-emitting pulsar wind nebula. The nebula is powered by a rapidly
+rotating, highly magnetized neutron star, or pulsar (white dot near the center).
+The combination of rapid rotating and strong magnetic field generates an intense
+electromagnetic field that creates jets of matter and anti-matter moving away
+from the north and south poles of the pulsar, and an intense wind flowing out in
+the equatorial direction.
 
-wip: yes
 ---
 
 @image
@@ -3584,11 +3587,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-482.jpg
 
-credits> NASA/CXC/MSFC/M.Weisskopf et al; This image represents a sequence of
-Chandra observations of the Crab Nebula taken from September 2010 through April
-2011. Durin...
+credits> NASA/CXC/MSFC/M.Weisskopf et al
 
-wip: yes
 ---
 
 @scene
@@ -3597,9 +3597,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-482L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2011/crab/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-482.jpg
 
-text> Crab Nebula
+text> The pulsar at the center of the Crab Nebula is a neutron star that spins
+around about 30 times a second. It was created from a supernova explosion in our
+galaxy that was observed by astronomers in China and other countries in the year
+1054.
 
-wip: yes
 ---
 
 @image
