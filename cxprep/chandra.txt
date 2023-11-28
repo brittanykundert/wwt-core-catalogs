@@ -679,29 +679,6 @@ wip: yes
 ---
 
 @image
-url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-241L{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-241.jpg
-
-credits> NASA/CXC/SAO; The explosion was seen on Earth in 1054 AD. At the center
-of the nebula is a rapidly spinning neutron star, or pulsar that emits...
-
-wip: yes
----
-
-@scene
-place_uuid: 10bd4489-0d6a-4c46-ad1b-5db91acf6261
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-241L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/1999/0052/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-241.jpg
-
-text> Crab Nebula
-
-wip: yes
----
-
-@image
 url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-244L{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
@@ -1431,30 +1408,6 @@ outgoing_url: https://chandra.harvard.edu/photo/2006/m87/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-334.jpg
 
 text> M87
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-335L{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-335.jpg
-
-credits> X-ray: NASA/CXC/ASU/J.Hester et ; The supernova that produced the Crab
-Nebula was detected by naked-eye observers around the world in 1054 A.D. This
-composite ima...
-
-wip: yes
----
-
-@scene
-place_uuid: 47228d45-c21e-4235-9ed3-01679b674e12
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-335L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2006/crab/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-335.jpg
-
-text> Crab Nebula
 
 wip: yes
 ---
@@ -2386,30 +2339,6 @@ outgoing_url: https://chandra.harvard.edu/photo/2008/bullet/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-407.jpg
 
 text> Bullet Cluster
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-408L{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-408.jpg
-
-credits> NASA/CXC/SAO/F.Seward et al; In the Crab Nebula, a rapidly rotating
-neutron star, or pulsar (white dot near the center), powers the dramatic
-activity seen by...
-
-wip: yes
----
-
-@scene
-place_uuid: 71400e40-c1a2-4a83-8f24-5e5f81ab8f0c
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-408L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2008/crab/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-408.jpg
-
-text> Crab Nebula
 
 wip: yes
 ---
@@ -3574,30 +3503,6 @@ outgoing_url: https://chandra.harvard.edu/photo/2011/tycho2/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-481.jpg
 
 text> Tycho's Supernova Remnant
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-482L{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-482.jpg
-
-credits> NASA/CXC/MSFC/M.Weisskopf et al; This image represents a sequence of
-Chandra observations of the Crab Nebula taken from September 2010 through April
-2011. Durin...
-
-wip: yes
----
-
-@scene
-place_uuid: 480297f3-985a-4ccd-bd4a-57ce0c423e26
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-482L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2011/crab/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-482.jpg
-
-text> Crab Nebula
 
 wip: yes
 ---
