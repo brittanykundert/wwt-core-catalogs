@@ -4427,6 +4427,7 @@ zoom_level: 2.24297549824
 _uuid: 10bd4489-0d6a-4c46-ad1b-5db91acf6261
 classification: ''
 constellation: TAU
+cxstatus: in:65660692f864172823763def
 data_set_type: Sky
 dec_deg: 22.0155289
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-241L{1}X{2}Y{3}.png
@@ -4493,6 +4494,7 @@ zoom_level: 0.71621312512
 _uuid: 47228d45-c21e-4235-9ed3-01679b674e12
 classification: ''
 constellation: TAU
+cxstatus: in:65660693f864172823763df1
 data_set_type: Sky
 dec_deg: 22.0171908354881
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-335L{1}X{2}Y{3}.png
@@ -4548,6 +4550,7 @@ zoom_level: 0.248661160529101
 _uuid: 71400e40-c1a2-4a83-8f24-5e5f81ab8f0c
 classification: ''
 constellation: TAU
+cxstatus: in:65660694f864172823763df3
 data_set_type: Sky
 dec_deg: 22.01318897321
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-408L{1}X{2}Y{3}.png
@@ -4581,6 +4584,7 @@ zoom_level: 0.0924058976256
 _uuid: 480297f3-985a-4ccd-bd4a-57ce0c423e26
 classification: ''
 constellation: TAU
+cxstatus: in:65660695f864172823763df5
 data_set_type: Sky
 dec_deg: 22.013189
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-482L{1}X{2}Y{3}.png
