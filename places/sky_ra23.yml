@@ -1361,6 +1361,7 @@ zoom_level: 0.856414293990482
 _uuid: ffa4286d-ccde-4d67-be07-57e58e22d2e1
 classification: ''
 constellation: CAS
+cxstatus: in:656d5506f86417282376493c
 data_set_type: Sky
 dec_deg: 58.8160117037731
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2005-14c1L{1}X{2}Y{3}.png
@@ -1372,6 +1373,7 @@ zoom_level: 0.64701658545157
 _uuid: af7f9397-e953-4030-9479-bab58b1912c0
 classification: ''
 constellation: CAS
+cxstatus: in:656d5509f864172823764942
 data_set_type: Sky
 dec_deg: 58.8205278
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2006-19a1L{1}X{2}Y{3}.png
@@ -1383,6 +1385,7 @@ zoom_level: 0.7011876864
 _uuid: cfba3c4a-5a93-4702-b76a-8de4a2522751
 classification: ''
 constellation: CAS
+cxstatus: in:656d550bf864172823764946
 data_set_type: Sky
 dec_deg: 58.8202617
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2007-20bL{1}X{2}Y{3}.png
@@ -1394,6 +1397,7 @@ zoom_level: 0.56825856
 _uuid: 9441bc68-9d9a-4e67-b919-c719b3965f27
 classification: ''
 constellation: CAS
+cxstatus: in:656d550bf864172823764948
 data_set_type: Sky
 dec_deg: 58.8337922497167
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2008-09a1L{1}X{2}Y{3}.png
