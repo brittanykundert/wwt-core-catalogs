@@ -33,6 +33,7 @@ _uuid: a77fed3c-92e8-45ae-8941-e63e7c4a73a4
 annotation: '{"channel": "eso", "itemid": "eso0142a", "publishedUTCISO8601": "2001-12-20T00:00:00+00:00"}'
 classification: ''
 constellation: SER2
+cxstatus: in:656f3928f864172823764b44
 data_set_type: Sky
 dec_deg: -13.829770644580888
 description: 'Messier 16 (M16), also known as the Eagle Nebula, is located in the
@@ -92,6 +93,7 @@ _uuid: 59f0f190-cbb0-4649-b074-5321a5377b11
 annotation: '{"channel": "eso", "itemid": "eso0142b", "publishedUTCISO8601": "2001-12-20T00:00:00+00:00"}'
 classification: ''
 constellation: SER2
+cxstatus: in:656f3929f864172823764b46
 data_set_type: Sky
 dec_deg: -13.838597324750472
 description: 'This shows a zoom into the centre of ESO Press Photo eso0142a, with
@@ -117,6 +119,7 @@ _uuid: 39e357af-023c-45aa-9e5f-7f0ee39d6518
 annotation: '{"channel": "eso", "itemid": "eso0142c", "publishedUTCISO8601": "2001-12-20T00:00:00+00:00"}'
 classification: ''
 constellation: SER2
+cxstatus: in:656f392af864172823764b48
 data_set_type: Sky
 dec_deg: -13.816138367621921
 description: Enlarged view of the head of the largest of the three main pillars, Column
@@ -145,6 +148,7 @@ _uuid: 580332d8-6c8f-43f4-af04-5bc423c9183f
 annotation: '{"channel": "eso", "itemid": "eso0142d", "publishedUTCISO8601": "2001-12-20T00:00:00+00:00"}'
 classification: ''
 constellation: SER2
+cxstatus: in:656f392bf864172823764b4a
 data_set_type: Sky
 dec_deg: -13.832591432706609
 description: 'Enlarged view of the head of Column 2. The bright blue-yellow source
@@ -164,6 +168,7 @@ _uuid: 1fee0630-5110-46be-909a-130ddc5dad8f
 annotation: '{"channel": "eso", "itemid": "eso0142e", "publishedUTCISO8601": "2001-12-20T00:00:00+00:00"}'
 classification: ''
 constellation: SER2
+cxstatus: in:656f392cf864172823764b4c
 data_set_type: Sky
 dec_deg: -13.88068974612502
 description: Enlarged view of the head of Column 4 in the Eagle Nebula. This column
