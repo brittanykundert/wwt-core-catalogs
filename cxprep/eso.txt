@@ -7,7 +7,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0122a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -16,20 +15,12 @@ image_url: http://data1.wwtassets.org/feeds/eso/eso0122a/L{1}X{2}Y{3}.png
 outgoing_url: https://www.eso.org/public/images/eso0122a/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0122a/thumb.jpg
 
-text> This photograph shows an image of the Quasar HE 1013-2136 (center) and its
+text> This photograph shows an image of the Quasar HE 1013-2136 and its
 surroundings, as obtained with the FORS2 multi-mode instrument at the 8.2-m VLT
 KUEYEN telescope in February 2001. A spectacular arc-like tidal tail stretches
-from the quasar towards south-east (lower-left) over a distance of more than
-150,000 light-years. Another, shorter tidal tail towards the east-northeast is
-barely visible. Technical information: this image is based on an image that was
-obtained in the morning of February 26, 2001 with the FORS2 instrument on VLT
-KUEYEN. It is composed of eight exposures in the I-band filter (effective
-wavelength 768 nm; FWHM 138 nm), lasting a total of 32 min. The combined image
-has a FWHM of 0.6 arcsec. The field shown measures 33 x 33 arcsec 2, or 540,000
-x 540,000 light-years 2 projected at the distance of the quasar; 1 pixel = 0.2
-arcsec. North is up and East is left.
+from the quasar towards south-east over a distance of more than 150,000
+light-years.
 
-wip: yes
 ---
 
 @image
@@ -40,7 +31,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0122b/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -49,20 +39,11 @@ image_url: http://data1.wwtassets.org/feeds/eso/eso0122b/L{1}X{2}Y{3}.png
 outgoing_url: https://www.eso.org/public/images/eso0122b/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0122b/thumb.jpg
 
-text> This photograph shows an image of the Quasar HE 1013-2136 (center) and its
+text> This photograph shows an image of the Quasar HE 1013-2136 and its
 surroundings sharpened with a computer algorithm to bring out more details in
 the immediate neighbourhood of the quasar. Now numerous details can be
-recognized within the two tidal tails, including various knotty structures. In
-particular, a very close companion galaxy at 20,000 light-years projected
-distance to the quasar can now be seen (at the 5 o&#x27;&#x27;clock position)
-that may be in gravitational interaction with the quasar host galaxy. Quasar
-activity is believed to be triggered by such dramatic events. Technical
-information : this image has been processed by applying the Lucy algorithm with
-15 iterations. The field shown measures 33 x 33 arcsec 2, or 540,000 x 540,000
-light-years 2 projected at the distance of the quasar; 1 pixel = 0.2 arcsec.
-North is up and East is left.
+recognized within the two tidal tails, including various knotty structures.
 
-wip: yes
 ---
 
 @image
@@ -73,7 +54,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0124a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -85,14 +65,9 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0124a/thumb.jpg
 text> This image shows a colour composite of near-infrared images of the central
 regions of the Orion Nebula, obtained on March 14, 2000, with the SOFI
 instrument at the ESO 3.5-m New Technology Telescope (NTT) at La Silla. Three
-exposures were made through J- (wavelength 1.25 µm here colour-coded as
-&quot;blue&quot;), H- (1.65 µm; &quot;green&quot;) and Ks-filters (2.16 µm;
-&quot;red&quot;), respectively. The central group of bright stars is the famous
-&quot;Trapezium&quot; . The total effective exposure time was 86.4 seconds per
-band. The sky field measures about 4.9 x 4.9 arcmin 2 (1024 x 1024 pix 2). North
-is up and East is left.
+exposures were made through J- (wavelength 1.25 µm here colour-coded as "blue"),
+H- (1.65 µm; "green") and Ks-filters (2.16 µm; "red"), respectively.
 
-wip: yes
 ---
 
 @image
@@ -103,7 +78,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0136a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -114,30 +88,8 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0136a/thumb.jpg
 
 text> The image is a false-colour infrared photo of the nearby barred spiral
 galaxy Messier 83. It is based on the combination of three images obtained in
-the Ks- (wavelength 2.2 µm), J- (1.2 µm) and I-bands (0.8 µm), respectively. The
-first two were recorded with the SOFI instrument at the ESO 3.5-m New Technology
-Telescope , the third with the DFOSC instrument at the Danish 1.54-m telescope,
-both at the La Silla Observatory. Technical information: This image of Messier
-83 is based on a composite of three images in the filters Ks (NTT + SOFI ;
-wavelength 2.162 µm; Full-Width-Half-Maximum (FWHM) 0.275 µm; total exposure
-time on target 49 min; approx. 12 min per quadrant; here rendered as red); J
-(NTT + SOFI; 1.247 µm; 0.290 µm; 22 min; 5 min; green), and I (Danish 1.54-m +
-DFOSC ; 0.797 µm; 0.142 µm; 20 min; full-field coverage; blue). As indicated,
-the Ks and J images were created from exposures of four neighbouring fields.
-These images were taken in May 2001 during a period with 1.0 arcsec average
-seeing. The original frames have 1024 x 1024 pixels, each measuring 0.29 arcsec.
-The resulting mosaic was created from 31 Ks-band object frames and 17 J-band
-object frames, each with 100 sec exposure time. From each object frame, a sky
-frame with the same exposure time was subtracted to remove the sky contribution.
-The final size of the mosaic image is 1905 x 1839 pixels (9.2 x 8.9 arcmin). The
-I image was observed in February 1998 by Søren Larsen (more information about
-this image is available in &quot;Astronomy and Astrophysics Supplement&quot;,
-Vol 139, p.393-415, 1999 and at URL: http://nedwww.ipac.caltech.edu/). The
-original frame size was 2036 x 2042 pixels, each measuring 0.39 arcsec. The
-pixel size and the field-of-view of this image was changed to match the
-characteristics of the Ks and J images. North is up and east to the left.
+the Ks- (wavelength 2.2 µm), J- (1.2 µm) and I-bands (0.8 µm), respectively.
 
-wip: yes
 ---
 
 @image
@@ -148,7 +100,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0137d/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -157,11 +108,9 @@ image_url: http://data1.wwtassets.org/feeds/eso/eso0137d/L{1}X{2}Y{3}.png
 outgoing_url: https://www.eso.org/public/images/eso0137d/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0137d/thumb.jpg
 
-text> The sky area shown in the NAOS-CONICA high-resolution image is indicated
-on an earlier image of a much larger area, obtained in 1999 with the ISAAC
-multi-mode instrument on VLT ANTU (ESO Press Release eso9946)
+text> An image of the area around the star-forming region NGC 3603, obtained in
+1999 with the ISAAC multi-mode instrument on VLT ANTU.
 
-wip: yes
 ---
 
 @image
@@ -172,7 +121,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0142a/thumb.jpg
 
 credits> ESO/M.McCaughrean &amp; M.Andersen (AIP)
 
-wip: yes
 ---
 
 @scene
@@ -185,54 +133,10 @@ text> Messier 16 (M16), also known as the Eagle Nebula, is located in the
 southern constellation of Serpens (the Snake). Using the infrared multi-mode
 ISAAC instrument on the 8.2-m VLT ANTU telescope, European astronomers were able
 to image the Eagle Nebula at near-infrared wavelength. The ISAAC near-infrared
-images cover a 9 x 9 arcminutes region, in three broad-band colours and with
+images cover a 9×9 arcminutes region, in three broad-band colours and with
 sufficient sensitivity to detect young stars of all masses and — most
-importantly — with an image sharpness as good as 0.35 arcseconds. The wide-field
-view of M16 shows that there is much happening in the region. The first
-impression one gets is of an enormous number of stars. Those which are blue in
-the infrared image are either members of the young NGC 6611 cluster — whose
-massive stars are concentrated in the upper right (north west) part of the field
-— or foreground stars which happen to lie along the line of sight towards M16.
-Most of the stars are fainter and more yellow. They are ordinary stars behind
-M16, along the line of sight through the galactic bulge, and are seen through
-the molecular clouds out of which NGC 6611 formed. Some very red stars are also
-seen : these are either very young and embedded in gas and dust clouds, or just
-brighter stars in the background shining through them. This photo is the result
-of a three-colour composite mosaic image of the Eagle Nebula (Messier 16), based
-on 144 individual images obtained with the infrared multi-mode instrument ISAAC
-on the ESO Very Large Telescope (VLT) at the Paranal Observatory. At the centre,
-the so-called &quot;Pillars of Creation&quot; can be seen. This wide-field
-infrared image shows not only the central three pillars but also several others
-in the same star-forming region, as well as a huge number of stars in front of,
-in, or behind the Eagle Nebula. The cluster of bright blue stars to the upper
-right is NGC 6611, home to the massive and hot stars that illuminate the
-pillars. Technical information: This image was made using the near-infrared
-camera ISAAC on the ESO 8.2-m VLT ANTU telescope on April 8 and May 8 - 10,
-2001. The full field measures approximately 9.1 x 9.1 arcmin, covering roughly
-17 x 17 light-years (5.3 x 5.3 pc) at the distance to the region (about 6,500
-light-years or 2 kpc). This required a 16-position mosaic (4 x 4 grid) of ISAAC
-pointings : at each pointing, a series of images were taken in each of the
-near-infrared J s - (centred at 1.24 µm wavelength), H- (1.65µm), and K s -
-(2.16 µm) bands. North is up and East left.The total integration time for each
-pixel in the mosaic was 1200, 300, and 300 seconds in the central 4.5 x 4.5
-arcmin region, and 200, 50, and 50 seconds in the outer part, in J s -, H-, and
-K s - bands, respectively. The seeing FWHM (full width at half maximum) was
-excellent, at 0.38, 0.36, and 0.33 arcsec in J s, H, and K s, respectively.
-Point sources are detected in the central region at the 3-sigma level (brightest
-pixel above background noise) at 22.6, 21.3, and 20.4 magnitudes in J s, H, and
-K s, respectively. These limits imply that a 1 million year old, 0.075
-solar-mass object on the star/brown dwarf boundary could be detected in M16
-through roughly 15, 20, and 30 magnitudes of visual extinction at J s, H, and K
-s, respectively.After removal of instrumental signatures and the bright infrared
-sky background, all frames in a given band were carefully aligned and adjusted
-to form a seamless mosaic. The three monochromatic mosaics were then scaled to
-the cube root of their intensities to reduce the enormous dynamic range and
-enhance faint nebular features. The mosaics were then combined to create the
-colour-coded image, with the J s -band being rendered as blue, the H-band as
-green, and the K s -band as red. A total of 144 individual 1024 x 1024 pixel
-ISAAC images were merged to form this mosaic. #L
+importantly — with an image sharpness as good as 0.35 arcseconds.
 
-wip: yes
 ---
 
 @image
@@ -243,7 +147,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0142b/thumb.jpg
 
 credits> ESO/M.McCaughrean &amp; M.Andersen (AIP)
 
-wip: yes
 ---
 
 @scene
@@ -252,21 +155,13 @@ image_url: http://data1.wwtassets.org/feeds/eso/eso0142b/L{1}X{2}Y{3}.png
 outgoing_url: https://www.eso.org/public/images/eso0142b/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0142b/thumb.jpg
 
-text> This shows a zoom into the centre of ESO Press Photo eso0142a, with the
+text> This shows a zoom into the centre of the Eagle Nebula (M16), with the
 infrared view of the columns and their immediate surroundings in more detail.
 The pillars or columns are numbered 1 to 3 from left to right (east to west).
 The pillars themselves are less prominent than on the Hubble visible-light image
-of this region - this because near-infrared light penetrates the thinner parts
-of the gas and dust clouds and only the heads remain opaque. A number of red
-objects can be seen associated with the pillars : some of these are just
-background sources seen through the dust, but some are probably real young stars
-embedded in the pillars. The purple arc near the bottom of the picture is
-Herbig-Haro object 216, a fast-moving clump of heated gas emanating from a young
-star (see also ESO Press Photo eso0142e). Technical information: This image
-shows an enlarged section of the full mosaic covering 6.2 x 7.5 light-years (1.9
-x 2.3 pc) centred on the pillars. North is up and East left.
+of this region — this because near-infrared light penetrates the thinner parts
+of the gas and dust clouds and only the heads remain opaque.
 
-wip: yes
 ---
 
 @image
@@ -277,7 +172,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0142c/thumb.jpg
 
 credits> ESO/M.McCaughrean &amp; M.Andersen (AIP)
 
-wip: yes
 ---
 
 @scene
@@ -291,20 +185,8 @@ text> Enlarged view of the head of the largest of the three main pillars, Column
 but there is still a substantial opaque core which even these near-infrared VLT
 observations cannot penetrate. The complex bluish nebulosity bisected by a dark
 lane near the tip is being lit up by the bright yellow star just below it, which
-appears to be very young and rather massive. Several of the much fainter stars
-to the right of and below this source are found to be associated with EGGs seen
-in the Hubble image, and these all have much lower masses. Finally, there is a
-faint streak of blue light emanating from from the tip of EGG 23, one of the
-darkest parts of Column 1, ending in a blue blob further north. An equal
-distance to the south of the EGG and off the head, there is another curving blue
-nebulosity. These features are also seen in the Hubble image, and may be part of
-a Herbig-Haro jet coming from a young star buried deeply in EGG 23 and invisible
-in this image. Technical information: The region shown measures 1.9 x 2.8
-light-years (0.6 x 0.9 pc). The intensity scalings have been adjusted to better
-show the young stars embedded in the head of each column. North is up and East
-left.
+appears to be very young and rather massive.
 
-wip: yes
 ---
 
 @image
@@ -315,7 +197,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0142d/thumb.jpg
 
 credits> ESO/M.McCaughrean &amp; M.Andersen (AIP)
 
-wip: yes
 ---
 
 @scene
@@ -325,14 +206,10 @@ outgoing_url: https://www.eso.org/public/images/eso0142d/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0142d/thumb.jpg
 
 text> Enlarged view of the head of Column 2. The bright blue-yellow source
-embedded in nebulosity near the tip is another young star unseen in the Hubble
-images : although it appears to be double here, it is in fact just one
-relatively massive young star surrounding by nebulosity. Technical information:
-The region shown measures 1.9 x 2.8 light-years (0.6 x 0.9 pc). The intensity
-scalings have been adjusted to better show the young stars embedded in the head
-of each column. North is up and East left.
+embedded in nebulosity near the tip is another young star unseen in the Hubble images:
+although it appears to be double here, it is in fact just one
+relatively massive young star surrounding by nebulosity.
 
-wip: yes
 ---
 
 @image
@@ -343,7 +220,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0142e/thumb.jpg
 
 credits> ESO/M.McCaughrean &amp; M.Andersen (AIP)
 
-wip: yes
 ---
 
 @scene
@@ -356,14 +232,8 @@ text> Enlarged view of the head of Column 4 in the Eagle Nebula. This column is
 similar to the more familiar ones, but thus far less impacted by the massive
 stars in NGC6611. The two red nebulosities in the head signpost one or more
 young stars so deeply embedded that they cannot be seen directly in the VLT
-infrared image, only indirectly as they illuminate dust around them. One of
-these sources is thought to be the origin of the Herbig-Haro object HH216 seen
-in ESO Press Photo eso0142a and ESO Press Photo eso0142b. Technical
-information-- The region shown measures 1.9 x 2.8 light-years (0.6 x 0.9 pc).
-The intensity scalings have been adjusted to better show the young stars
-embedded in the head of each column. North is up and East left.
+infrared image, only indirectly as they illuminate dust around them.
 
-wip: yes
 ---
 
 @image
@@ -374,7 +244,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0202a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -386,17 +255,11 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0202a/thumb.jpg
 text> A reproduction of a composite colour image of the Horsehead Nebula and its
 immediate surroundings. It is based on three exposures in the visual part of the
 spectrum with the FORS2 multi-mode instrument at the 8.2-m KUEYEN telescope,
-part of ESO&#x27;s Very Large Telescope, at Paranal. It was produced from three
+part of ESO’s Very Large Telescope, at Paranal. It was produced from three
 images, obtained on February 1, 2000, with the FORS2 multi-mode instrument at
 the 8.2-m KUEYEN Unit Telescope and extracted from the VLT Science Archive
-Facility . The frames were obtained in the B-band (600 sec exposure; wavelength
-429 nm; FWHM 88 nm; here rendered as blue), V-band (300 sec; 554 nm; 112 nm;
-green) and R-band (120 sec; 655 nm; 165 nm; red). The original pixel size is 0.2
-arcsec. The photo shows the full field recorded in all three colours,
-approximately 6.5 x 6.7 arcmin 2 . The seeing was about 0.75 arcsec. This image
-is available as a mounted image in the ESOshop. #L
+Facility.
 
-wip: yes
 ---
 
 @image
@@ -407,7 +270,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0202b/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -416,14 +278,11 @@ image_url: http://data1.wwtassets.org/feeds/eso/eso0202b/L{1}X{2}Y{3}.png
 outgoing_url: https://www.eso.org/public/images/eso0202b/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0202b/thumb.jpg
 
-text> An enlargement of a smaller area. Technical information about these photos
-is available below. This is an enlargement of a smaller area, measuring 3.8 x
-4.1 arcmin 2 . North is to the left and east is down (the usual orientation for
-showing this object). The frames were recorded with a TK2048 SITe CCD and the
-ESO-FIERA Controller, built by the Optical Detector Team (ODT). The images were
-prepared by Cyril Cavadore (ESO-ODT), by means of Prism software.
+text> An enlargement of a smaller area of the Horsehead Nebula. The frames were
+recorded with a TK2048 SITe CCD and the ESO-FIERA Controller, built by the
+Optical Detector Team (ODT). The images were prepared by Cyril Cavadore
+(ESO-ODT), by means of Prism software.
 
-wip: yes
 ---
 
 @image
@@ -434,7 +293,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0209a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -444,15 +302,12 @@ outgoing_url: https://www.eso.org/public/images/eso0209a/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0209a/thumb.jpg
 
 text> One of the first images from the new VIMOS facility, obtained right after
-the moment of &quot;first light&quot; on February 26, 2002. It shows the famous
-&quot;Antennae Galaxies&quot; (NGC 4038/9), the result of a recent collision
+the moment of “first light” on February 26, 2002. It shows the famous
+“Antennae Galaxies” (NGC 4038/9), the result of a recent collision
 between two galaxies. As an immediate outcome of this dramatic event, stars are
 born within massive complexes that appear blue in this composite photo, based on
-exposures through green, orange and red optical filters. Individual exposures of
-60 seconds each; image quality 0.6 arcsec FWHM; the field measures 3.5 x 3.5
-arcmin2. North is up and East is left.
+exposures through green, orange and red optical filters.
 
-wip: yes
 ---
 
 @image
