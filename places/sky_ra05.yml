@@ -272,6 +272,7 @@ _uuid: ad2c3c73-e198-4e7f-b89b-a54a45959b96
 annotation: '{"channel": "eso", "itemid": "eso0124a", "publishedUTCISO8601": "2001-06-07T00:00:00+00:00"}'
 classification: ''
 constellation: ORI
+cxstatus: in:656f3926f864172823764b3e
 data_set_type: Sky
 dec_deg: -5.392250457657111
 description: This image shows a colour composite of near-infrared images of the central
@@ -292,6 +293,7 @@ _uuid: 64cd47e0-dea3-45fc-8046-87dc72356e85
 annotation: '{"channel": "eso", "itemid": "eso0202a", "publishedUTCISO8601": "2002-01-25T00:00:00+00:00"}'
 classification: ''
 constellation: ORI
+cxstatus: in:656f392cf864172823764b4e
 data_set_type: Sky
 dec_deg: -2.449841894907901
 description: 'A reproduction of a composite colour image of the Horsehead Nebula and
@@ -316,6 +318,7 @@ _uuid: bfb7c932-256b-4e0a-9649-ed20d93a5daa
 annotation: '{"channel": "eso", "itemid": "eso0202b", "publishedUTCISO8601": "2002-01-25T00:00:00+00:00"}'
 classification: ''
 constellation: ORI
+cxstatus: in:656f392df864172823764b50
 data_set_type: Sky
 dec_deg: -2.442293981988156
 description: An enlargement of a smaller area. Technical information about these photos

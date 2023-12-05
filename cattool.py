@@ -633,6 +633,7 @@ def _register_scene(client, fields, place, imgid, dry_run: bool = False) -> str:
         content=content,
         text=fields["text"],
         outgoing_url=fields["outgoing_url"],
+        published=True,  # YOLO
     )
 
     if dry_run:
