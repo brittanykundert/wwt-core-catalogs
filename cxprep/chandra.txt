@@ -7,7 +7,6 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-173.jpg
 
 credits> NASA/MIT/J.Arabadjis et al.
 
-wip: yes
 ---
 
 @scene
@@ -16,9 +15,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-173L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2001/0164/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-173.jpg
 
-text> EMSS 1358+6245
+text> The cluster of galaxies EMSS 1358+6245 about 4 billion light year away in
+the constellation Draco is shown in this Chandra image. When combined with
+Chandra's X-ray spectrum, this image allowed scientists to determine that the
+mass of dark matter in the cluster is about 4 times that of normal matter.
 
-wip: yes
 ---
 
 @image
@@ -27,11 +28,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-174.jpg
 
-credits> NASA/Penn State/L.Townsley et al; These four Chandra images combine to
-form a mosaic of a region of the Rosette Nebula. The images move outward from
-the center of...
+credits> NASA/Penn State/L.Townsley et al.
 
-wip: yes
 ---
 
 @scene
@@ -40,9 +38,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-174L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2001/2237/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-174.jpg
 
-text> Rosette Nebula
+text> This series of Chandra images shows a mosaic of the Rosette Nebula region.
+The colors represent various levels of X-ray energy: red shows low-energy (0.5-2
+keV) and blue shows high-energy (2-8 keV) X-rays. The red sources in the Chandra
+images are dominated by low-energy X-rays and suffer little absorption by the
+molecular cloud, whereas the blue sources are very young stars still embedded in
+the gas and dust from which they formed.
 
-wip: yes
 ---
 
 @image
@@ -51,11 +53,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-175.jpg
 
-credits> NASA/CXC/Wijnands et al.; Chandra's observation in March of 2001 of the
-neutron star KS 1731-260 (pale blue dot just above the middle of the image)
-showed...
+credits> NASA/CXC/Wijnands et al.
 
-wip: yes
 ---
 
 @scene
@@ -64,9 +63,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-175L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2001/ks1731/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-175.jpg
 
-text> KS 1731-260
+text> Chandra's observation in March of 2001 of the neutron star KS 1731-260
+(the pale blue dot) showed that it is a remarkably 'cool' 3 million degrees
+Celsius. This low temperature was surprising because in the period 1988 to 2000
+the neutron star was shining brightly in X-rays due to the heavy bombardment of
+gas from a companion star, not visible here. A neutron star temperature of 10
+million degrees or more was expected.
 
-wip: yes
 ---
 
 @image
@@ -75,11 +78,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-176.jpg
 
-credits> NASA/GSFC/N.White, L.Angelini; The Chandra X-ray Observatory image of a
-previously identified neutron star binary system in the globular cluster M15,
-revealed ...
+credits> NASA/GSFC/N.White, L.Angelini
 
-wip: yes
 ---
 
 @scene
@@ -88,9 +88,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-176L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2001/m15/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-176.jpg
 
-text> M15
+text> Chandra's image of a puzzling X-ray source in the globular star cluster
+M15 shows that it is not one neutron star binary system, but two neutron star
+binary systems that appear so close together (2.7 seconds of arc) that they were
+indistinguishable with previous X-ray telescopes.
 
-wip: yes
 ---
 
 @image
@@ -99,11 +101,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-178.jpg
 
-credits> X-ray: (NASA/SAO/CXC/M.Garcia et; This image of the central region of
-the Andromeda Galaxy is a composite of Chandra X-ray data (3 pixilated sources)
-and Hubble o...
+credits> X-ray: NASA/SAO/CXC/M.Garcia et al.; optical: NASA/GSFC/T.Brown et al.
 
-wip: yes
 ---
 
 @scene
@@ -112,9 +111,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-178L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2001/0007rev/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-178.jpg
 
-text> M31
+text> Chandra and Hubble Space Telescope images of two recently detected
+emitting globular star clusters — so called because of their spherical shape —
+were used as a cross-check to determine the position of X-ray sources near the
+center of the Andromeda galaxy to an accuracy ten times greater than before.
 
-wip: yes
 ---
 
 @image
@@ -125,7 +126,6 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-180.jpg
 
 credits> NASA/CXC/Rutgers/J.Hughes et al.
 
-wip: yes
 ---
 
 @scene
@@ -134,9 +134,15 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-180L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2001/0112/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-180.jpg
 
-text> G292.0+1.8
+text> NASA's Chandra X-ray Observatory has captured a spectacular image of
+G292.0+1.8, a young, oxygen-rich supernova remnant with a pulsar at its center
+surrounded by outflowing material. Astronomers know that pulsars are formed in
+supernova explosions, but they are currently unable to identify what types of
+massive stars must die in order for a pulsar to be born. Now that Chandra has
+revealed strong evidence for a pulsar in G292.0+1.8, astronomers can use the
+pattern of elements seen in the remnant to make a much closer connection between
+pulsars and the massive stars from which they form.
 
-wip: yes
 ---
 
 @image
@@ -145,11 +151,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-183.jpg
 
-credits> NASA/SAO/CXC/C.Jones et al.; This Chandra image of NGC 4636 shows
-symmetric arms, or arcs, of 10 million degree gas extending 25,000 light years
-into a cloud...
+credits> NASA/SAO/CXC/C.Jones et al.
 
-wip: yes
 ---
 
 @scene
@@ -158,9 +161,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-183L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2001/0144/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-183.jpg
 
-text> NGC 4636
+text> Chandra's image of the elliptical NGC 4636 shows spectacular symmetric
+arms, or arcs, of hot gas extending 25,000 light years into a huge cloud of
+multimillion-degree-Celsius gas that envelopes the galaxy. At a temperature of
+10 million degrees, the arms are 30 percent hotter than the surrounding gas
+cloud.
 
-wip: yes
 ---
 
 @image
@@ -169,11 +175,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-184.jpg
 
-credits> NASA/NCSSM/C.Olbert et al.; Using this Chandra image, along with radio
-data from the Very Large Array, three high school students found evidence for a
-neutr...
+credits> NASA/NCSSM/C.Olbert et al.
 
-wip: yes
 ---
 
 @scene
@@ -182,9 +185,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-184L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/1083/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-184.jpg
 
-text> IC 443
+text> This Chandra image reveals a point-like source of X-rays embedded in the
+remains of the supernova remnant IC443. This discovery was made by three high
+school students using data from NASA's Chandra X-ray Observatory in conjunction
+with radio data from the National Science Foundation's Very Large Array (VLA).
 
-wip: yes
 ---
 
 @image
@@ -195,7 +200,6 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-185.jpg
 
 credits> NASA/IoA/AC Fabian et al.
 
-wip: yes
 ---
 
 @scene
@@ -204,9 +208,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-185L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/0163/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-185.jpg
 
-text> Abell 1795
+text> Like a spoon moving through hot soup, the massive elliptical galaxy near
+the top of this image has cut a swath across the dense, hot gas in this crowded
+galaxy cluster known as Abell 1795. This smoothed Chandra X-ray Observatory
+image of the galaxy cluster A1795 shows a bright filament some 200,000 light
+years in length.
 
-wip: yes
 ---
 
 @image
@@ -215,11 +222,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-190.jpg
 
-credits> NASA/UMD/A.Wilson et al.; Chandra's image shows a giant football-shaped
-cavity within X-ray emitting hot gas surrounding the galaxy Cygnus A. The cavity
-i...
+credits> NASA/UMD/A.Wilson et al.
 
-wip: yes
 ---
 
 @scene
@@ -228,9 +232,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-190L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/0216/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-190.jpg
 
-text> Cygnus A
+text> This Chandra image shows a giant football-shaped cavity (yellow/light
+orange inner region) within X-ray emitting hot gas surrounding the galaxy Cygnus
+A. The cavity in the hot gas has been created by two powerful jets emitted from
+the central black hole region in the nucleus of Cygnus A. Hot gas is steadily
+being piled up around the cavity as it continuously expands, creating a bright
+rim of X-ray emission (bright orange outer area).
 
-wip: yes
 ---
 
 @image
@@ -241,7 +249,6 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-191.jpg
 
 credits> NASA/CXC/SAO/H.Marshall et al.
 
-wip: yes
 ---
 
 @scene
@@ -250,9 +257,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-191L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/0131/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-191.jpg
 
-text> 3C273
+text> This Chandra image shows important new details in the powerful jet
+shooting from the quasar 3C273, providing an X-ray view into the area between
+3C273's core and the beginning of the jet. High-powered jets driven from
+quasars, often at velocities very close to the speed of light, have long been
+perplexing for scientists.
 
-wip: yes
 ---
 
 @image
@@ -261,10 +271,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-194.jpg
 
-credits> NASA/SAO/CXC; The Chandra X-ray image of Sirius A & B, a double star
-system located 8.6 light years from Earth, shows a bright source and a di...
+credits> NASA/SAO/CXC
 
-wip: yes
 ---
 
 @scene
@@ -273,9 +281,14 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-194L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/0065/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-194.jpg
 
-text> Sirius A & B
+text> An X-ray image of the Sirius star system located 8.6 light years from
+Earth. This image shows two sources and a spike-like pattern due to the support
+structure for the transmission grating. The bright source is Sirius B, a white
+dwarf star that has a surface temperature of about 25,000 degrees Celsius which
+produces very low energy X-rays. The dim source at the position of Sirius A – a
+normal star more than twice as massive as the Sun – may be due to ultraviolet
+radiation from Sirius A leaking through the filter on the detector.
 
-wip: yes
 ---
 
 @image
@@ -286,7 +299,6 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-196.jpg
 
 credits> NASA/SAO/CXC/G.Fabbiano et al.
 
-wip: yes
 ---
 
 @scene
@@ -295,9 +307,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-196L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/0120/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-196.jpg
 
-text> Antennae
+text> This Chandra X-ray image of the Antennae (NGC 4038/4039) shows the central
+regions of two galaxies in collision. The dozens of bright point-like sources
+are neutron stars or black holes pulling gas off nearby stars. The bright fuzzy
+patches are superbubbles thousands of light years in diameter that were produced
+by the accumulated power of thousands of supernovas.
 
-wip: yes
 ---
 
 @image
