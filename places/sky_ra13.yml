@@ -2191,6 +2191,7 @@ zoom_level: 0.598502858752
 _uuid: 1321bb3d-da64-466b-b82f-1874fcdbc2b1
 classification: ''
 constellation: DRA
+cxstatus: in:65707d222cd220bb5b6d7daa
 data_set_type: Sky
 dec_deg: 62.5170858
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-173L{1}X{2}Y{3}.png
@@ -2202,6 +2203,7 @@ zoom_level: 0.240300843008
 _uuid: 468a87fe-2e18-477f-8d52-dd1fffdf6d68
 classification: ''
 constellation: BOO
+cxstatus: in:65707d292cd220bb5b6d7dba
 data_set_type: Sky
 dec_deg: 26.5878436
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-185L{1}X{2}Y{3}.png
