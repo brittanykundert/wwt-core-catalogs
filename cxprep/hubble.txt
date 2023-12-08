@@ -7,7 +7,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=20149522
 
 credits> C.R. O'Dell/Rice University; NASA
 
-wip: yes
 ---
 
 @scene
@@ -15,9 +14,13 @@ place_uuid: a01b6a87-b079-4568-b96b-e9616736ee7e
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000310{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/1994/news-1994-24.html
 
-text> Hubble Probes the Great Orion Nebula
+text>  Astronomers using the Hubble telescope have uncovered the strongest
+evidence yet that the planet-making process is common in the Milky Way Galaxy.
+Observations clearly reveal that great disks of dust — the raw material for
+planet formation — are swirling around at least half and probably many more of
+the stars in the Orion Nebula, a star-forming region only 1,500 light-years from
+Earth.
 
-wip: yes
 ---
 
 @image
@@ -28,7 +31,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=10176574
 
 credits> Hubble Space Telescope WFPC Team, NASA, STScI
 
-wip: yes
 ---
 
 @scene
@@ -36,9 +38,12 @@ place_uuid: 5ecffcd2-2bc6-42cd-b1ce-264b52c191b5
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000320{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/1995/news-1995-07.html
 
-text> Color Print of NGC 4881 and Part of the Surrounding Field
+text> This Hubble telescope photo mosaic shows a field of distant galaxies. The
+brightest object in this picture is NGC 4881, an elliptical galaxy in the
+outskirts of the Coma Cluster, a great cluster of galaxies more than five times
+farther away than the Virgo Cluster. The distance to the Coma Cluster is an
+important cosmic yardstick for scaling the overall size of the universe.
 
-wip: yes
 ---
 
 @image
@@ -47,9 +52,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=750506750
 
-credits> NASA, ESA, and K. Sahu (STScI)
+credits> NASA, ESA, K. Sahu and the SWEEPS Science Team
 
-wip: yes
 ---
 
 @scene
@@ -57,9 +61,13 @@ place_uuid: f73f9476-7bbc-4acb-831e-8748cacb67dd
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000330{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-34.html
 
-text> Detail of SWEEPS ACS/WFC Color Composite
+text>  NASA's Hubble Space Telescope has discovered 16 extrasolar planet
+candidates orbiting a variety of distant stars in the central region of our
+Milky Way galaxy. The planet bonanza was uncovered during a Hubble survey,
+called the Sagittarius Window Eclipsing Extrasolar Planet Search (SWEEPS).
+Hubble peered at 180,000 stars in the crowded central bulge of our galaxy 26,000
+light-years away, or one-quarter the diameter of the Milky Way's spiral disk
 
-wip: yes
 ---
 
 @image
@@ -68,10 +76,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=464350015
 
-credits> Image Credit: NASA and The Hubble Heritage Team (STScI/AURA)
-Acknowledgment : W. Blair (JHU) and D. Malin (David Malin Images)
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment: W.
+Blair (JHU) and D. Malin (David Malin Images)
 
-wip: yes
 ---
 
 @scene
@@ -79,9 +86,12 @@ place_uuid: 8d8fa300-db03-4bbe-a4a3-825501a96bcc
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001000{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-16.html
 
-text> The Pencil Nebula: Remnants of an Exploded Star (NGC 2736);NGC 2736
+text> Remnants from a star that exploded thousands of years ago created a
+celestial abstract portrait, as captured in this NASA Hubble Space Telescope
+image of the Pencil Nebula. Officially known as NGC 2736, the Pencil Nebula is
+part of the huge Vela supernova remnant, located in the southern constellation
+Vela.
 
-wip: yes
 ---
 
 @image
@@ -92,7 +102,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=23061127
 
 credits> A. Caulet (ST-ECF, ESA) and NASA
 
-wip: yes
 ---
 
 @scene
@@ -100,9 +109,11 @@ place_uuid: 08bd7904-6e8e-44f4-9a5a-61cc621ef0cf
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001010{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/1996/news-1996-38.html
 
-text> Giant 'Twisters' in the Lagoon Nebula
+text> This Hubble telescope snapshot unveils a pair of one-half, light-year-long
+interstellar “twisters” – eerie funnels and twisted-rope structures – in the
+heart of the Lagoon Nebula (M8) which lies 5,000 light-years from Earth in the
+direction of the constellation Sagittarius.
 
-wip: yes
 ---
 
 @image
@@ -114,7 +125,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=41844948
 credits> Howard Bond (Space Telescope Science Institute), Robin
 Ciardullo (Pennsylvania State University) and NASA
 
-wip: yes
 ---
 
 @scene
@@ -122,9 +132,11 @@ place_uuid: 53a1a2b0-0678-4a7c-ae78-b04985434e06
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001020{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/1997/news-1997-38.html
 
-text> Spiral-Structured Planetary Nebula NGC 5307
+text> NGC 5307 also lies in Centaurus but is about 10,000 light-years away and
+has a diameter of approximately 0.6 light-year. It is an example of a planetary
+nebula with a pinwheel or spiral structure; each blob of gas ejected from the
+central star has a counterpart on the opposite side of the star.
 
-wip: yes
 ---
 
 @image
@@ -133,10 +145,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1111633463
 
-credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA)
-Acknowledgment : A. Nota (STScI/ESA)
+credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA); acknowledgment: A. Nota (STScI/ESA)
 
-wip: yes
 ---
 
 @scene
@@ -144,9 +154,12 @@ place_uuid: 1ba4d24b-e418-402f-8c3d-8ed74379ee1b
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001030{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-35.html
 
-text> Hubble's Black and White View of the Universe
+text> Contained within the most massive and active star-forming region in the
+nearby galaxy, the Small Magellanic Cloud, star cluster NGC 346 delivers
+energetic radiation that excites nearby gas, causing it to glow. The result is
+one of the most dynamic and intricately detailed images of a nearby star-forming
+region that has ever been taken with NASA's Hubble Space Telescope.
 
-wip: yes
 ---
 
 @image
@@ -157,7 +170,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=20673958
 
 credits> NASA, ESA, J. Blakeslee and H. Ford (Johns Hopkins University)
 
-wip: yes
 ---
 
 @scene
@@ -165,9 +177,11 @@ place_uuid: d82f4bbb-3dfb-484c-896f-af88eca90de8
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001100{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-21.html
 
-text> An Eclectic Mix of Galaxies
+text> In taking this picture, Hubble's Advanced Camera for Surveys was not
+looking at any particular target. The camera was taking a picture of a typical
+patch of sky, while Hubble's infrared camera was viewing a target in an adjacent
+galaxy-rich region.
 
-wip: yes
 ---
 
 @image
@@ -179,7 +193,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=14249163
 credits> J.P. Harrington and K.J. Borkowski (University of Maryland),
 and NASA
 
-wip: yes
 ---
 
 @scene
@@ -187,9 +200,13 @@ place_uuid: e9595e48-93c4-4b0c-be9b-746ac2044099
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001110{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/1995/news-1995-01.html
 
-text> Hubble Probes the Complex History of a Dying Star
+text> This Hubble telescope image shows one of the most complex planetary
+nebulae ever seen, NGC 6543, nicknamed the “Cat’s Eye Nebula.” Hubble reveals
+surprisingly intricate structures including concentric gas shells, jets of
+high-speed gas, and unusual shock-induced knots of gas. Estimated to be 1,000
+years old, the nebula is a visual “fossil record” of the dynamics and late
+evolution of a dying star.
 
-wip: yes
 ---
 
 @image
@@ -199,10 +216,9 @@ license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1659343886
 
 credits> NASA, ESA, and the Hubble Heritage Team (STScI/AURA)-ESA/Hubble
-Collaboration Acknowledgment: D. Gouliermis (Max Planck Institute for Astronomy,
+Collaboration; acknowledgment: D. Gouliermis (Max Planck Institute for Astronomy,
 Heidelberg)
 
-wip: yes
 ---
 
 @scene
@@ -210,9 +226,13 @@ place_uuid: 47b0410a-1f2f-4a68-b37c-71dd257ec5d4
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001120{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-55.html
 
-text> Star-Forming Region LH 95 in the Large Magellanic Cloud
+text> Swirls of gas and dust reside in this ethereal-looking region of star
+formation imaged by NASA's Hubble Space Telescope. This majestic view of LH 95,
+located in the Large Magellanic Cloud, reveals a region where low-mass, infant
+stars and their much more massive stellar neighbors reside. A shroud of blue
+haze gently lingers amid the stars. The image was taken in March 2006 with
+Hubble's Advanced Camera for Surveys.
 
-wip: yes
 ---
 
 @image
@@ -223,7 +243,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=11306643
 
 credits> R. Williams (STScI), the Hubble Deep Field Team and NASA
 
-wip: yes
 ---
 
 @scene
@@ -231,9 +250,13 @@ place_uuid: 30b2b8b6-85fa-4c26-b8bd-f36dedb31fa2
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001130{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/1996/news-1996-01.html
 
-text> Hubble Deep Field Image at Full Resolution
+text> The Hubble telescope has provided mankind's deepest, most detailed visible
+view of the universe. Representing a narrow “keyhole” view stretching to the
+visible horizon of the universe, the Hubble Deep Field image covers a speck of
+the sky only about the width of a dime 75 feet away. Gazing into this small
+field, Hubble uncovered a bewildering assortment of at least 1,500 galaxies at
+various stages of evolution.
 
-wip: yes
 ---
 
 @image
