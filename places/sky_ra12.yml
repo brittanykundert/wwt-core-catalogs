@@ -2077,6 +2077,7 @@ _uuid: 5ecffcd2-2bc6-42cd-b1ce-264b52c191b5
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: COM
+cxstatus: in:6573279d5077f2f4480b0036
 data_set_type: Sky
 dec_deg: 28.25
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000320{Q}?g=138
@@ -2088,6 +2089,7 @@ _uuid: 30b2b8b6-85fa-4c26-b8bd-f36dedb31fa2
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: UMA
+cxstatus: in:657327a55077f2f4480b0048
 data_set_type: Sky
 dec_deg: 62.2169444444444
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001130{Q}?g=138
