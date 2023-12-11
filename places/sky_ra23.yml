@@ -657,6 +657,17 @@ ra_hr: 23.390543493062957
 thumbnail: http://data1.wwtassets.org/packages/2023/04_jwst/weic2311a/thumb.jpg
 zoom_level: 1.2595043348023565
 ---
+_uuid: 41836711-7676-4c01-a0ed-c8053fe4ad71
+classification: ''
+constellation: CAS
+data_set_type: Sky
+dec_deg: 58.81505979915397
+foreground_image_set_url: http://data1.wwtassets.org/packages/2023/12_jwst/weic2330a/{1}/{3}/{3}_{2}.png
+name: Cas A (NIRCam image)
+ra_hr: 23.38998424745964
+thumbnail: http://data1.wwtassets.org/packages/2023/12_jwst/weic2330a/thumb.jpg
+zoom_level: 1.1850598121445086
+---
 _uuid: f4ab942e-b3ed-4a7c-a88b-785a1f7a3256
 angular_size: 1.0
 classification: Galaxy
