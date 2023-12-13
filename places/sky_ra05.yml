@@ -337,6 +337,7 @@ _uuid: 0d05fdbd-d84a-48db-932a-f1356eee7c32
 annotation: '{"channel": "eso", "itemid": "eso0209f", "publishedUTCISO8601": "2002-03-13T00:00:00+00:00"}'
 classification: ''
 constellation: TAU
+cxstatus: in:6579d0f560c68ea9c726b2a9
 data_set_type: Sky
 dec_deg: 22.016514231330166
 description: The Crab Nebula (Messier 1), as observed by VIMOS. This well-known object
@@ -353,6 +354,7 @@ _uuid: cb3c12b6-ad5e-419d-a8e6-053b20e459e9
 annotation: '{"channel": "eso", "itemid": "eso0209i", "publishedUTCISO8601": "2002-03-13T00:00:00+00:00"}'
 classification: ''
 constellation: COL
+cxstatus: in:6579d0f760c68ea9c726b2af
 data_set_type: Sky
 dec_deg: -31.575926928870928
 description: This photo of the galaxy cluster ACO 3341 is from a collection of the
@@ -372,6 +374,7 @@ _uuid: ddfdeaf3-4460-49f8-9373-98f4a6ac6c12
 annotation: '{"channel": "eso", "itemid": "eso0216a", "publishedUTCISO8601": "2002-06-07T00:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:6579d0fb60c68ea9c726b2b9
 data_set_type: Sky
 dec_deg: -69.09154237679377
 description: A reproduction of a composite colour image of the Tarantula Nebula in
@@ -400,6 +403,7 @@ _uuid: 9bf0db6f-049d-4e1f-bd6a-4649953cae63
 annotation: '{"channel": "eso", "itemid": "eso0216b", "publishedUTCISO8601": "2002-06-07T00:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:6579d0fc60c68ea9c726b2bb
 data_set_type: Sky
 dec_deg: -69.10418022282406
 description: The bright core of the Tarantula Nebula with the cluster of hot stars.
@@ -415,6 +419,7 @@ _uuid: e64eed3a-4feb-43c8-aad7-d88bbfdde67a
 annotation: '{"channel": "eso", "itemid": "eso0216c", "publishedUTCISO8601": "2002-06-07T00:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:6579d0fd60c68ea9c726b2bd
 data_set_type: Sky
 dec_deg: -68.99999386924142
 description: 'This image shows a part of the Tarantula Nebula region: in the upper
@@ -430,6 +435,7 @@ _uuid: 1af617c1-5cf8-4862-a6a9-00d6d42e010f
 annotation: '{"channel": "eso", "itemid": "eso0216d", "publishedUTCISO8601": "2002-06-07T00:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:6579d0fe60c68ea9c726b2bf
 data_set_type: Sky
 dec_deg: -69.23518076540817
 description: The area of the young globular cluster NGC 2100 , located east of the Tarantula
@@ -445,6 +451,7 @@ _uuid: 96be1094-ce7b-476c-aa4e-d41078659ed3
 annotation: '{"channel": "eso", "itemid": "eso0216e", "publishedUTCISO8601": "2002-06-07T00:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:6579d0ff60c68ea9c726b2c1
 data_set_type: Sky
 dec_deg: -68.86818489326119
 description: This image displays a rich field NW of the centre of the Tarantula Nebula,
@@ -465,6 +472,7 @@ _uuid: 3b065136-d84c-420f-967f-394bb0d3a172
 annotation: '{"channel": "eso", "itemid": "eso0216g", "publishedUTCISO8601": "2002-06-07T00:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:6579d10060c68ea9c726b2c3
 data_set_type: Sky
 dec_deg: -69.18553051617502
 description: Colour composite image of the Tarantula Nebula in the Large Magellanic
