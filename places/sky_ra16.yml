@@ -62,6 +62,7 @@ _uuid: 40f2d60a-af46-4ce4-9223-c54abf9beabf
 annotation: '{"channel": "eso", "itemid": "eso0214a", "publishedUTCISO8601": "2002-05-07T00:00:00+00:00"}'
 classification: ''
 constellation: OPH
+cxstatus: in:6579d0f960c68ea9c726b2b3
 data_set_type: Sky
 dec_deg: -24.527042859304185
 description: The image is a three-colour reproduction of the discovery image of strange-looking
@@ -86,6 +87,7 @@ _uuid: cfc50fee-9190-4713-941c-6913e61e7681
 annotation: '{"channel": "eso", "itemid": "eso0214b", "publishedUTCISO8601": "2002-05-07T00:00:00+00:00"}'
 classification: ''
 constellation: OPH
+cxstatus: in:6579d0fa60c68ea9c726b2b5
 data_set_type: Sky
 dec_deg: -24.530445871665872
 description: The image shows the a new stellar system, as imaged with the ISAAC multi-mode
@@ -106,6 +108,7 @@ _uuid: 3e1e04cd-7b55-4d82-b118-9e80e76635f7
 annotation: '{"channel": "eso", "itemid": "eso0214c", "publishedUTCISO8601": "2002-05-07T00:00:00+00:00"}'
 classification: ''
 constellation: OPH
+cxstatus: in:6579d0fb60c68ea9c726b2b7
 data_set_type: Sky
 dec_deg: -24.527032034236345
 description: An enlargement of ESO Press Photo eso0214 showing the unusual &quot;Flying
