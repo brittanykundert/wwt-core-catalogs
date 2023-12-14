@@ -5,11 +5,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-200.jpg
 
-credits> NASA/IoA/A.Fabian et al.; The Chandra image of Perseus A shows a
-supergiant galaxy in the center of a galaxy cluster and provides new insight
-into how the...
+credits> NASA/IoA/A.Fabian et al.
 
-wip: yes
 ---
 
 @scene
@@ -18,9 +15,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-200L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/perseus/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-200.jpg
 
-text> Perseus A
+text> Chandra's X-ray image of the core of the Perseus galaxy cluster shows hot
+gas in and around the supergiant galaxy, Perseus A. The small dark patch
+(located at two o'clock from the center of the image) is due to the absorption
+of X rays by gas in a galaxy of about 20 billion stars that is falling into the
+central galaxy.
 
-wip: yes
 ---
 
 @image
@@ -29,11 +29,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-201.jpg
 
-credits> NASA/PSU/G.Pavlov et al.; Chandra's bizarre image of the Vela pulsar
-(bright spot in the center) shows the details of a compact nebula that resembles
-a gi...
+credits> NASA/PSU/G.Pavlov et al.
 
-wip: yes
 ---
 
 @scene
@@ -42,9 +39,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-201L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/vela/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-201.jpg
 
-text> Vela Pulsar
+text> Chandra image of compact nebula around Vela pulsar. The image shows a
+dramatic bow-like structure at the leading edge of the cloud, or nebula,
+embedded in the Vela supernova remnant. This bow and the smaller one inside it,
+are thought to be the near edges of tilted rings of X-ray emission from
+high-energy particles produced by the central neutron star.
 
-wip: yes
 ---
 
 @image
@@ -53,11 +53,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-202.jpg
 
-credits> NASA/RIT/J.Kastner et al.; The Chandra image of the planetary nebula
-BD+30 3639 shows a hot bubble of 3 million degree Celsius gas surrounding a
-dying, Sun...
+credits> NASA/RIT/J.Kastner et al.
 
-wip: yes
 ---
 
 @scene
@@ -66,9 +63,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-202L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/pne/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-202.jpg
 
-text> BD+30-3639
+text> X-ray image of the Planetary Nebula BD+30 3639. The Chandra image shows a
+hot bubble of 3 million degree Celsius gas surrounding a dying, Sun-like star
+that is about 5000 light years from Earth. The distance across the bubble is
+roughly 100 times the diameter of our solar system.
 
-wip: yes
 ---
 
 @image
@@ -77,11 +76,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-203.jpg
 
-credits> NASA/UMD/A.Wilson et al.; Chandra's image of Pictor A gave scientists
-their first look at a spectacular X-ray jet. The jet originates near a giant
-black h...
+credits> NASA/UMD/A.Wilson et al.
 
-wip: yes
 ---
 
 @scene
@@ -90,9 +86,16 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-203L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/pictor/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-203.jpg
 
-text> Pictor A
+text> This Chandra X-ray image of Pictor A shows a spectacular jet that emanates
+from the center of the galaxy (left) and extends across 360 thousand light years
+toward a brilliant hot spot. The hot spot is at least 800 thousand light years
+(8 times the diameter of our Milky Way galaxy) away from where the jet
+originates. The hot spot is thought to represent the advancing head of the jet,
+which brightens conspicuously where it plows into the tenuous gas of
+intergalactic space.
 
-wip: yes
+
+
 ---
 
 @image
@@ -101,10 +104,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-208.jpg
 
-credits> NASA/SRON/MPE; The Chandra image of Cygnus X-3 shows the X-ray source
-(red) and a halo (green & blue). The halo is due to scattering by interst...
+credits> NASA/SRON/MPE
 
-wip: yes
 ---
 
 @scene
@@ -113,9 +114,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-208L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/cygx399/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-208.jpg
 
-text> Cygnus X-3
+text> A team of scientists have used Chandra to observe a halo around the X-ray
+source Cygnus X-3. The halo (beyond the yellow ring in the center) is due to
+scattering by interstellar dust grains along the line of sight to the source.
+The sharp horizontal line is an instrumental effect.
 
-wip: yes
 ---
 
 @image
@@ -124,11 +127,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-209.jpg
 
-credits> X-ray: NASA/CXC/SAO, Optical: NA; The Chandra X-ray image (blue) shows
-gas that has been heated to millions of degrees Celsius by a shock wave moving
-into matter ...
+credits> X-ray: NASA/CXC/SAO, optical: NASA/HST, radio: CSIRO/ATNF/ATCA
 
-wip: yes
 ---
 
 @scene
@@ -137,9 +137,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-209L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/0015multi/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-209.jpg
 
-text> E0102-72.3
+text> Color composite of the supernova remnant E0102-72: X-ray (blue), optical
+(green), and radio (red). E0102-72 is the remnant of a star that exploded in a
+nearby galaxy known as the Small Magellanic Cloud. The galaxy is approximately
+190,000 light years from Earth, so we see the remnant as it was about 190,000
+years ago, around a thousand years after the explosion occurred.
 
-wip: yes
 ---
 
 @image
@@ -148,10 +151,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-212.jpg
 
-credits> NASA/CXC/SAO; This image made by NASA's Chandra X-ray Observatory shows
-the merger of two sub-clusters of galaxies. The sub-clusters are embed...
+credits> NASA/CXC/SAO
 
-wip: yes
 ---
 
 @scene
@@ -160,9 +161,14 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-212L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/a2142/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-212.jpg
 
-text> Abell 2142
+text> Chandra X-ray Observatory image of the galaxy cluster Abell 2142. The
+image shows a colossal cosmic "weather system" produced by the collision of two
+giant clusters of galaxies. For the first time, the pressure fronts in the
+system can be traced in detail, and they show a bright, but relatively cool 50
+million degree central region (white) embedded in large elongated cloud of 70
+million degree gas (magenta), all of which is roiling in a faint atmosphere of
+100 million degree gas (faint magenta and dark blue).
 
-wip: yes
 ---
 
 @image
@@ -171,11 +177,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-214.jpg
 
-credits> NASA/CXC/SAO/PSU/CMU; M82, at a distance of 11 million light years from
-Earth, is the nearest starburst galaxy. Massive stars are forming and
-expiring...
+credits> NASA/CXC/SAO/PSU/CMU
 
-wip: yes
 ---
 
 @scene
@@ -184,9 +187,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-214L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/0094/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-214.jpg
 
-text> M82
+text> M82, at a distance of 11 million light years from Earth, is the nearest
+starburst galaxy. Massive stars are forming and expiring in M82 at a rate ten
+times higher than in our galaxy. The bright spots in the center are supernova
+remnants and X-ray binaries. These are some of the brightest such objects known.
 
-wip: yes
 ---
 
 @image
@@ -195,11 +200,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-215.jpg
 
-credits> NASA/CXC/SAO; This X-ray image shows the central portion of the
-Andromeda Galaxy. The blue dot in the center of the image is an unusual
-"cool"...
+credits> NASA/CXC/SAO
 
-wip: yes
 ---
 
 @scene
@@ -208,9 +210,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-215L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/0007/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-215.jpg
 
-text> M31
+text> This Chandra X-ray image shows the central portion of the Andromeda
+Galaxy. The blue dot in the center of the image is an unusually "cool" million
+degree X-ray source of unknown nature. Just above this cool source is a source
+(yellow) that is thought to be due to X-rays from matter swirling toward a
+supermassive black hole in the nucleus of the galaxy.
 
-wip: yes
 ---
 
 @image
@@ -219,10 +224,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-216.jpg
 
-credits> NASA/MIT/PSU; The image has been smoothed to bring out the X-ray
-emission from an extended cloud of hot gas surrounding the supermassive black...
+credits> NASA/MIT/PSU
 
-wip: yes
 ---
 
 @scene
@@ -231,9 +234,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-216L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/0204/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-216.jpg
 
-text> Galactic Center
+text> Chandra X-ray image of the innermost 10 light years at the center of our
+galaxy. The image has been smoothed to bring out the X-ray emission from an
+extended cloud of hot gas surrounding the supermassive black-hole candidate
+Sagittarius A*.
 
-wip: yes
 ---
 
 @image
@@ -242,10 +247,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-217.jpg
 
-credits> NASA/MIT; This X-ray image of the supernova remnant E0102-72 shows an
-expanding multimillion degree ring of oxygen that was created deep i...
+credits> NASA/MIT
 
-wip: yes
 ---
 
 @scene
@@ -254,9 +257,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-217L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/0015/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-217.jpg
 
-text> E0102-72.3
+text> This X-ray image of the supernova remnant E0102-72 shows an expanding
+multimillion degree ring of oxygen that was created deep inside a massive star
+and hurled into space by the explosion of the star. The ring is about 30 light
+years across and contains more than a billion times the oxygen contained in the
+Earth's ocean and atmosphere.
 
-wip: yes
 ---
 
 @image
@@ -265,10 +271,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-218.jpg
 
-credits> NASA/PSU; This X-ray image shows about a thousand X-ray emitting young
-stars in the Orion Nebula star cluster. The X rays are produced in ...
+credits> NASA/PSU
 
-wip: yes
 ---
 
 @scene
@@ -277,9 +281,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-218L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/0054/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-218.jpg
 
-text> Orion Nebula
+text> This X-ray image shows about a thousand X-ray emitting young stars in the
+Orion Nebula star cluster. The X rays are produced in the multimillion degree
+upper atmospheres of these stars. At a distance of about 1800 light years, this
+cluster is the closest massive star forming region to Earth. It is well-known in
+the night sky because it illuminates the Orion Nebula.
 
-wip: yes
 ---
 
 @image
@@ -288,11 +295,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-220.jpg
 
-credits> NASA/GSFC (Mushotzky et al.); This Chandra X-ray Observatory image of a
-27.7 hour observation of a region in the direction of the constellation Canes
-Venatici...
+credits> NASA/GSFC (Mushotzky et al.)
 
-wip: yes
 ---
 
 @scene
@@ -301,9 +305,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-220L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2000/bg/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-220.jpg
 
-text> Deep Field in Canes Venatici
+text> This Chandra X-ray Observatory image of a 27.7 hour observation of a
+region in the direction of the constellation Canes Venatici, close to the Big
+Dipper, shows about 3 dozen X-ray sources. Some of the sources were too faint to
+be seen by optical telescopes such as the Hubble Space Telescope and the Keck 10
+meter telescope in Hawaii. This new class of sources may represent some of the
+most distant objects ever detected.
 
-wip: yes
 ---
 
 @image
@@ -312,11 +320,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-229.jpg
 
-credits> NASA/CXC/UMass/Q.D.Wang et al.; Chandra's image reveals a complex of
-several multimillion degree Celsius gas clouds in the process of merging to form
-a massive ...
+credits> NASA/CXC/UMass/Q.D.Wang et al.
 
-wip: yes
 ---
 
 @scene
@@ -325,9 +330,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-229L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2004/a2125/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-229.jpg
 
-text> Abell 2125
+text> Chandra's image of the galaxy cluster Abell 2125 reveals a complex of
+several massive multimillion-degree-Celsius gas clouds in the process of
+merging. Ten of the point-like sources are associated with galaxies in the
+cluster, and the rest are probably distant background galaxies.
 
-wip: yes
 ---
 
 @image
