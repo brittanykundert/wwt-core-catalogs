@@ -1079,6 +1079,7 @@ zoom_level: 1.415
 _uuid: e58de1cd-93ef-45ae-9e2c-c9018ef80d9e
 classification: ''
 constellation: TUC
+cxstatus: in:657b1ef060c68ea9c726b4be
 data_set_type: Sky
 dec_deg: -72.0313761
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-209L{1}X{2}Y{3}.png
@@ -1090,6 +1091,7 @@ zoom_level: 0.1041102585856
 _uuid: 2c1237e5-d6ca-4c17-92e2-95281c07291d
 classification: ''
 constellation: TUC
+cxstatus: in:657b1ef460c68ea9c726b4c8
 data_set_type: Sky
 dec_deg: -72.031088
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-217L{1}X{2}Y{3}.png

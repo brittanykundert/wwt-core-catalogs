@@ -4418,6 +4418,7 @@ zoom_level: 0.33490558976
 _uuid: 38607c83-953b-4929-9fef-78347ebb2f32
 classification: ''
 constellation: PIC
+cxstatus: in:657b1eef60c68ea9c726b4ba
 data_set_type: Sky
 dec_deg: -45.7710273
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-203L{1}X{2}Y{3}.png
@@ -4429,6 +4430,7 @@ zoom_level: 0.226005803008
 _uuid: 234f7e02-7cb5-407f-b1e9-f3503eed1b30
 classification: ''
 constellation: ORI
+cxstatus: in:657b1ef560c68ea9c726b4ca
 data_set_type: Sky
 dec_deg: -5.3788804
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-218L{1}X{2}Y{3}.png
