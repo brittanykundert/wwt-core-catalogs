@@ -7,7 +7,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=13353884
 
 credits> NASA and Jeffrey Kenney and Elizabeth Yale (Yale University)
 
-wip: yes
 ---
 
 @scene
@@ -15,9 +14,12 @@ place_uuid: f93259d5-50b0-4219-a3b6-867eba1bd82a
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001200{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2000/news-2000-21.html
 
-text> Galaxy NGC 4438
+text> A monstrous black hole's rude table manners include blowing huge bubbles
+of hot gas into space. At least, that's the gustatory practice followed by the
+supermassive black hole residing in the hub of the nearby galaxy NGC 4438. These
+NASA Hubble Space Telescope images of the galaxy's central region clearly show
+one of the bubbles rising from a dark band of dust.
 
-wip: yes
 ---
 
 @image
@@ -28,7 +30,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=44396111
 
 credits> NASA, ESA and H.E. Bond (STScI)
 
-wip: yes
 ---
 
 @scene
@@ -36,9 +37,12 @@ place_uuid: 3b10fd74-4801-49bb-b3fa-88fb3977358f
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001220{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-02.html
 
-text> V838 Monocerotis - 23 October 2004
+text> The Hubble Space Telescope's latest image of the star V838 Monocerotis
+(V838 Mon) reveals dramatic changes in the illumination of surrounding dusty
+cloud structures. The effect, called a light echo, has been unveiling
+never-before-seen dust patterns ever since the star suddenly brightened for
+several weeks in early 2002.
 
-wip: yes
 ---
 
 @image
@@ -47,10 +51,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1601413419
 
-credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA) Acknowledgment :
+credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA), acknowledgment:
 P. Goudfrooij (STScI)
 
-wip: yes
 ---
 
 @scene
@@ -58,9 +61,12 @@ place_uuid: 2f3de7e6-3872-4e4d-8e93-ae748bb80292
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001230{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-11.html
 
-text> The Dusty Galaxy NGC 1316
+text> Like dust bunnies that lurk in corners and under beds, surprisingly
+complex loops and blobs of cosmic dust lie hidden in the giant elliptical galaxy
+NGC 1316. This image made from data obtained with the NASA Hubble Space
+Telescope reveals the dust lanes and star clusters of this giant galaxy that
+give evidence that it was formed from a past merger of two gas-rich galaxies.
 
-wip: yes
 ---
 
 @image
@@ -71,17 +77,17 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=16304131
 
 credits> NASA, ESA, CXC, and JPL-Caltech
 
-wip: yes
 ---
 
 @scene
 place_uuid: 14089666-589c-4716-ab88-3e0686a64ab2
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001300{Q}?g=138
-outgoing_url: http://hubblesite.org/newscenter/archive/releases/2006/14/image/f/
+outgoing_url: https://hubblesite.org/contents/media/images/2006/14/1882-Image.html
 
-text> Messier 82;Chandra/Hubble/Spitzer X-ray/Visible/Infrared Image of M82
+text> Composite of multi-wavelength images of the active galaxy M82 from the
+three Great Observatories: Hubble Space Telescope, Chandra X-Ray Observatory,
+and Spitzer Space Telescope.
 
-wip: yes
 ---
 
 @image
@@ -90,10 +96,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1945855611
 
-credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA) Acknowledgment :
+credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA), acknowledgment:
 W. Keel (University of Alabama, Tuscaloosa)
 
-wip: yes
 ---
 
 @scene
@@ -101,9 +106,12 @@ place_uuid: 4f7adfe5-25e3-4b55-b547-9f0761d45578
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001310{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-24.html
 
-text> NGC 5866;Full Hubble ACS Image of NGC 5866
+text> This is a unique view of the disk galaxy NGC 5866 tilted nearly edge-on to
+our line-of-sight. Hubble's sharp vision reveals a crisp dust lane dividing the
+galaxy into two halves. The image highlights the galaxy's structure: a subtle,
+reddish bulge surrounding a bright nucleus, a blue disk of stars running
+parallel to the dust lane, and a transparent outer halo.
 
-wip: yes
 ---
 
 @image
@@ -114,7 +122,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=13883009
 
 credits> Robert Williams and the Hubble Deep Field Team (STScI) and NASA
 
-wip: yes
 ---
 
 @scene
@@ -122,10 +129,14 @@ place_uuid: 318031e6-1473-447d-85c2-7f011aec0e36
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001320{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/1996/news-1996-01.html
 
-text> Hubble Deep Field Image Unveils Myriad Galaxies Back to the Beginning of
-Time
+text> Representing a narrow "keyhole" view stretching to the visible horizon of
+the universe, the Hubble Deep Field image covers a speck of the sky only about
+the width of a dime 75 feet away. Though the field is a very small sample of the
+heavens, it is considered representative of the typical distribution of galaxies
+in space, because the universe, statistically, looks largely the same in all
+directions. Gazing into this small field, Hubble uncovered a bewildering
+assortment of at least 1,500 galaxies at various stages of evolution.
 
-wip: yes
 ---
 
 @image
@@ -136,7 +147,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=11019855
 
 credits> NASA, ESA, and H. Richer (University of British Columbia)
 
-wip: yes
 ---
 
 @scene
@@ -144,9 +154,13 @@ place_uuid: 733a89fc-ef43-48ed-8277-dca03273b01b
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001330{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-37.html
 
-text> Faint Red Star in NGC 6397
+text> NASA's Hubble Space Telescope has uncovered what astronomers are reporting
+as the dimmest stars ever seen in any globular star cluster. Globular clusters
+are spherical concentrations of hundreds of thousands of stars. The cluster NGC
+6397 is one of the closest globular star clusters to Earth. Seeing the whole
+range of stars in this area will yield insights into the age, origin, and
+evolution of the cluster.
 
-wip: yes
 ---
 
 @image
@@ -155,9 +169,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1118889341
 
-credits> Image Credit: NASA and The Hubble Heritage Team (AURA/STScI).
+credits> NASA and The Hubble Heritage Team (AURA/STScI)
 
-wip: yes
 ---
 
 @scene
@@ -165,9 +178,11 @@ place_uuid: a6ac0d1f-bb0b-44f7-bbb0-a78b34d50bf4
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002000{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/1999/news-1999-35.html
 
-text> NGC 2346
+text> NGC 2346 is a so-called "planetary nebula," which is ejected from Sun-like
+stars which are near the ends of their lives. NGC 2346 is remarkable because its
+central star is known to be actually a very close pair of stars, orbiting each
+other every 16 days.
 
-wip: yes
 ---
 
 @image
@@ -176,10 +191,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=114236925
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment: W.
+credits> NASA and The Hubble Heritage Team (STScI/AURA), acknowledgment: W.
 Sparks (STScI) and R. Sahai (JPL)
 
-wip: yes
 ---
 
 @scene
@@ -187,9 +201,15 @@ place_uuid: 2dd3dc6f-7888-405a-9b04-65119ae07c14
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002010{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-09.html
 
-text> Rainbow Image of the Egg Nebula
+text> Resembling a rippling pool illuminated by underwater lights, the Egg
+Nebula offers astronomers a special look at the normally invisible dust shells
+swaddling an aging star. These dust layers, extending over one-tenth of a
+light-year from the star, have an onionskin structure that forms concentric
+rings around the star. A thicker dust belt, running almost vertically through
+the image, blocks off light from the central star. Twin beams of light radiate
+from the hidden star and illuminate the pitch-black dust, like a flashlight
+shining in a smoky room.
 
-wip: yes
 ---
 
 @image
