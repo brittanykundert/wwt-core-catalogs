@@ -2102,6 +2102,7 @@ _uuid: f93259d5-50b0-4219-a3b6-867eba1bd82a
 angular_size: 1.0
 classification: Galaxy
 constellation: VIR
+cxstatus: in:657c642417aa40fc703f3af4
 data_set_type: Sky
 dec_deg: 12.9969444444444
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001200{Q}?g=138
@@ -2113,6 +2114,7 @@ _uuid: 318031e6-1473-447d-85c2-7f011aec0e36
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: UMA
+cxstatus: in:657c642917aa40fc703f3afe
 data_set_type: Sky
 dec_deg: 62.2122222222222
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001320{Q}?g=138
