@@ -511,6 +511,7 @@ _uuid: 3b10fd74-4801-49bb-b3fa-88fb3977358f
 angular_size: 1.0
 classification: Galaxy
 constellation: MON
+cxstatus: in:657c642517aa40fc703f3af6
 data_set_type: Sky
 dec_deg: -3.8475
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001220{Q}?g=138
@@ -522,6 +523,7 @@ _uuid: a6ac0d1f-bb0b-44f7-bbb0-a78b34d50bf4
 angular_size: 1.0
 classification: Nebula
 constellation: MON
+cxstatus: in:657c642b17aa40fc703f3b02
 data_set_type: Sky
 dec_deg: -0.804722222222222
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002000{Q}?g=138
