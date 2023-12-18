@@ -3843,6 +3843,7 @@ zoom_level: 0.10908982305422525
 _uuid: 889460f7-ff4b-4c64-8013-6eaa1aa9a4de
 classification: ''
 constellation: ORI
+cxstatus: in:65805a143affb5769f42617e
 data_set_type: Sky
 dec_deg: -5.387293158436137
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/10_jwst/orion_nircam_lw/{1}/{3}/{3}_{2}.png
@@ -3854,6 +3855,7 @@ zoom_level: 1.267686772750636
 _uuid: 2a008d80-e2ff-4858-b1f2-7cd8f59f777a
 classification: ''
 constellation: ORI
+cxstatus: in:65805a143affb5769f426180
 data_set_type: Sky
 dec_deg: -5.386928854253156
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/10_jwst/orion_nircam_sw/{1}/{3}/{3}_{2}.png
