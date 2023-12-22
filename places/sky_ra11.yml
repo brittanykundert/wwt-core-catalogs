@@ -293,6 +293,24 @@ ra_hr: 11.337580512204081
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso2110i/thumb.jpg
 zoom_level: 0.3275449151593102
 ---
+_uuid: dc2e81bb-d4a6-4ce9-81cf-2df8bc48762f
+annotation: '{"channel": "eso", "itemid": "eso2320a", "publishedUTCISO8601": "2023-12-21T14:00:00+00:00"}'
+classification: ''
+constellation: CEN
+cxstatus: in:65860314293f0a574636f247
+data_set_type: Sky
+dec_deg: -63.175138757239694
+description: The Running Chicken Nebula comprises several clouds, all of which we
+  can see in this vast image from the VLT Survey Telescope (VST), hosted at ESO’s
+  Paranal site. This 1.5-billion pixel image spans an area in the sky of about 25
+  full Moons. The clouds shown in wispy pink plumes are full of gas and dust, illuminated
+  by the young and hot stars within them.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/eso2320a/L{1}X{2}Y{3}.png
+name: The Running Chicken Nebula
+ra_hr: 11.58666855727729
+thumbnail: http://data1.wwtassets.org/feeds/eso/eso2320a/thumb.jpg
+zoom_level: 22.43784561390995
+---
 _uuid: 8d6ac3e5-abc8-4911-ae0c-12964f1ffd5a
 annotation: '{"channel": "eso", "itemid": "eso9011a", "publishedUTCISO8601": "1990-09-29T00:00:00+00:00"}'
 classification: ''
