@@ -2,6 +2,7 @@ _uuid: e182a533-a531-48b5-b076-58c109ec0dfc
 annotation: '{"channel": "eso", "itemid": "eso0221a", "publishedUTCISO8601": "2002-08-07T00:00:00+00:00"}'
 classification: ''
 constellation: SCL
+cxstatus: in:6585a23419f6c100f1f685ce
 data_set_type: Sky
 dec_deg: -37.65872695773215
 description: Colour-composite image of the nearby spiral galaxy NGC 300  and the surrounding
@@ -17,6 +18,7 @@ _uuid: be340c14-8557-488f-bddb-9255b3089ba5
 annotation: '{"channel": "eso", "itemid": "eso0221b", "publishedUTCISO8601": "2002-08-07T00:00:00+00:00"}'
 classification: ''
 constellation: SCL
+cxstatus: in:6585a23419f6c100f1f685d0
 data_set_type: Sky
 dec_deg: -37.584330422283905
 description: Some of the Cepheid type stars in the spiral galaxy NGC 300 (at the centre
@@ -35,6 +37,7 @@ _uuid: abf988ba-1c9c-498c-a557-3aa71a2193af
 annotation: '{"channel": "eso", "itemid": "eso0221c", "publishedUTCISO8601": "2002-08-07T00:00:00+00:00"}'
 classification: ''
 constellation: SCL
+cxstatus: in:6585a23519f6c100f1f685d2
 data_set_type: Sky
 dec_deg: -37.6786770389453
 description: NGC 300, as seen through a narrow optical filter (H-alpha) in the red
@@ -53,6 +56,7 @@ _uuid: e5a3e631-0c93-45f8-b255-ff82721f7687
 annotation: '{"channel": "eso", "itemid": "eso0221d", "publishedUTCISO8601": "2002-08-07T00:00:00+00:00"}'
 classification: ''
 constellation: SCL
+cxstatus: in:6585a23619f6c100f1f685d4
 data_set_type: Sky
 dec_deg: -37.54963982810267
 description: The distant cluster of galaxies CL0053-37, as imaged on the WFI photo
@@ -71,6 +75,7 @@ _uuid: c0a37f75-2b0f-4b17-9c0a-21fdd3d44147
 annotation: '{"channel": "eso", "itemid": "eso0221f", "publishedUTCISO8601": "2002-08-07T00:00:00+00:00"}'
 classification: ''
 constellation: SCL
+cxstatus: in:6585a23719f6c100f1f685d6
 data_set_type: Sky
 dec_deg: -37.710912305769725
 description: A group of galaxies seen on NGC 300 images. They are all quite red and
@@ -86,6 +91,7 @@ _uuid: b12a7de5-faa3-495a-9cb5-d8e265974db7
 annotation: '{"channel": "eso", "itemid": "eso0221g", "publishedUTCISO8601": "2002-08-07T00:00:00+00:00"}'
 classification: ''
 constellation: SCL
+cxstatus: in:6585a23819f6c100f1f685d8
 data_set_type: Sky
 dec_deg: -37.6064651624291
 description: An area in the outer regions of NGC 300. Disks of spiral galaxies are
@@ -103,6 +109,7 @@ _uuid: 2f0dc8fb-95db-406a-a7e5-4b15302fad9d
 annotation: '{"channel": "eso", "itemid": "eso0221h", "publishedUTCISO8601": "2002-08-07T00:00:00+00:00"}'
 classification: ''
 constellation: SCL
+cxstatus: in:6585a23919f6c100f1f685da
 data_set_type: Sky
 dec_deg: -37.83810508289187
 description: This is an astronomers&#x27; joy ride to infinity. Such a rarely seen

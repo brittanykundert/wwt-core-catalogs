@@ -46,6 +46,7 @@ _uuid: 2de0a847-7f4a-4110-aea3-f1581429e0d4
 annotation: '{"channel": "eso", "itemid": "eso0302a", "publishedUTCISO8601": "2003-01-10T00:00:00+00:00"}'
 classification: ''
 constellation: FOR
+cxstatus: in:6585a23b19f6c100f1f685e0
 data_set_type: Sky
 dec_deg: -27.804236850097908
 description: 'Three-colour composite image of the Chandra Deep Field South (CDF-S),
@@ -81,6 +82,7 @@ _uuid: 22375842-b8cd-4e49-abde-fbae581e9a20
 annotation: '{"channel": "eso", "itemid": "eso0302c", "publishedUTCISO8601": "2003-01-10T00:00:00+00:00"}'
 classification: ''
 constellation: FOR
+cxstatus: in:6585a23c19f6c100f1f685e2
 data_set_type: Sky
 dec_deg: -27.98368044339332
 description: 'Sky field within the wide field imager (WFI) image of the Chandra Deep
@@ -115,6 +117,7 @@ _uuid: aa89202c-0431-472e-bc06-2130b96e8dc9
 annotation: '{"channel": "eso", "itemid": "eso0302d", "publishedUTCISO8601": "2003-01-10T00:00:00+00:00"}'
 classification: ''
 constellation: FOR
+cxstatus: in:6585a23d19f6c100f1f685e4
 data_set_type: Sky
 dec_deg: -27.802216924491336
 description: 'Sky field within the wide field imager (WFI) image of the Chandra Deep
