@@ -10028,6 +10028,34 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="3.895308237183386"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="173.800094229"
+    CenterY="-63.1751684702"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="The Running Chicken Nebula"
+    OffsetX="5.94376867246e-05"
+    OffsetY="2.97188433623e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.011370379878429001"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="8"
+    Url="http://data1.wwtassets.org/feeds/eso/eso2320a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcxstatus="in:65860314293f0a574636f246"
+  >
+    <Credits>ESO/VPHAS+ team. Acknowledgement: CASU</Credits>
+    <CreditsUrl>https://www.eso.org/public/images/eso2320a/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/eso/eso2320a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.17593358336"
     BaseTileLevel="0"
     BottomsUp="False"
