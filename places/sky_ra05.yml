@@ -4456,6 +4456,7 @@ zoom_level: 0.363350736896
 _uuid: cb203949-629d-4ef3-82a3-ba735c4daf9f
 classification: ''
 constellation: DOR
+cxstatus: in:6596ca6d293f0a5746370292
 data_set_type: Sky
 dec_deg: -69.6413275
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-244L{1}X{2}Y{3}.png
@@ -4467,6 +4468,7 @@ zoom_level: 0.330788388864
 _uuid: eb923b9b-0665-4f85-9b14-151dc4ae8535
 classification: ''
 constellation: ORI
+cxstatus: in:6596ca71293f0a574637029c
 data_set_type: Sky
 dec_deg: -5.39440574387
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-283L{1}X{2}Y{3}.png
@@ -4478,6 +4480,7 @@ zoom_level: 0.63223463936
 _uuid: 410a1172-f2f7-4777-80b8-b1276a071fb5
 classification: ''
 constellation: DOR
+cxstatus: in:6596ca73293f0a57463702a1
 data_set_type: Sky
 dec_deg: -69.3326124
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-286L{1}X{2}Y{3}.png
