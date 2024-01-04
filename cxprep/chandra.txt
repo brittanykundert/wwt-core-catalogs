@@ -5,10 +5,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-239.jpg
 
-credits> NASA/CXC; Beta Ceti is in an advanced stage of evolution called core
-helium burning. In this stage, the core of the star is very hot (more...
+credits> NASA/CXC
 
-wip: yes
 ---
 
 @scene
@@ -17,9 +15,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-239L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2004/bceti/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-239.jpg
 
-text> Beta Ceti
+text> Beta Ceti is a bright, giant star with a hot corona that radiates about
+2,000 times more X-ray power than the Sun. Scientists suspect that this X-ray
+activity is somehow related to its advanced stage of evolution called core
+helium burning. During this stage, the core of the star is very hot (more than a
+hundred million degrees Celsius) and converting helium to carbon via nuclear
+fusion reactions.
 
-wip: yes
 ---
 
 @image
@@ -28,11 +30,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-240.jpg
 
-credits> NASA/CXC/SAO/Rutgers/J.Hughes; The red, green, and blue regions in this
-Chandra X-ray image of the supernova remnant Cassiopeia A show where the
-intensity of l...
+credits> NASA/CXC/SAO/Rutgers/J.Hughes
 
-wip: yes
 ---
 
 @scene
@@ -41,9 +40,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-240L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/1999/casajph/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-240.jpg
 
-text> Cassiopeia A
+text> Chandra X-ray image of the supernovas remnant Cassiopeia A (Cas A). The
+red, green, and blue regions in this Chandra X-ray image of the supernovas
+remnant Cassiopeia A show where the intensity of low, medium, and high-energy
+X-rays, respectively, is greatest.
 
-wip: yes
 ---
 
 @image
@@ -52,11 +53,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-244.jpg
 
-credits> NASA/CXC/SAO; The Chandra X-ray image of N132D shows a highly
-structured remnant, or shell, of 10 million degree Celsius gas that is 80 light
-...
+credits> NASA/CXC/SAO
 
-wip: yes
 ---
 
 @scene
@@ -65,9 +63,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-244L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/1999/0050/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-244.jpg
 
-text> N132D
+text> N132D is the remnant of an exploded star in the Large Magellanic Cloud.
+The Chandra image shows a highly structured remnant, or shell, of
+10-million-degree gas that is 80 light years across. The remnant is thought to
+be about 3,000 years old.
 
-wip: yes
 ---
 
 @image
@@ -76,10 +76,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-245.jpg
 
-credits> NASA/CXC/SAO; The Chandra X-ray image of Hydra A, a galaxy cluster 840
-million light years from Earth, shows strands of 35-40 million degree C...
+credits> NASA/CXC/SAO
 
-wip: yes
 ---
 
 @scene
@@ -88,9 +86,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-245L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/1999/0087/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-245.jpg
 
-text> Hydra A
+text> Hydra A is a galaxy cluster that is 840 million light years from Earth
+(redshift = 0.054). The cluster gets its name from the strong radio source, Hydra
+A, that originates in a galaxy near the center of the cluster. Optical
+observations show a few hundred galaxies in the cluster. Chandra X-ray
+observations reveal a large cloud of hot gas that extends throughout the
+cluster.
 
-wip: yes
 ---
 
 @image
@@ -99,11 +101,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-246.jpg
 
-credits> X-ray: NASA/SAO/CXC/M.Sun et al.; This image is a composite (X-ray,
-blue and optical, red & green) of the galaxy UGC 6697. The X-rays reveal a sharp
-edge on the l...
+credits> X-ray: NASA/SAO/CXC/M.Sun et al.; optical: GOLDMine/G. Gavazzi et al.
 
-wip: yes
 ---
 
 @scene
@@ -112,9 +111,15 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-246L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2005/u6697/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-246.jpg
 
-text> UGC 6697
+text> The galaxy UGC 6697, located about 1.5 million light years from the core
+of the galaxy cluster Abell 1367, is shown here in a composite X-ray (blue)-
+optical (red & green) image. The Chandra image reveals a sharp edge on the lower
+left that is inside the optical edge of the galaxy, and a long tail of
+X-radiation extending to the upper right beyond the optical galaxy. These
+features suggest that the density of the hot gas that pervades the cluster is
+just right — not too high or not too low — to trigger a burst of star formation
+by compressing clouds of cool gas in the galaxy.
 
-wip: yes
 ---
 
 @image
@@ -123,10 +128,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-263.jpg
 
-credits> NASA/CXC/SAO; The Chandra X-ray image shows the complex nature of the
-region around Eta Carinae, a massive supergiant star that is 7,500 light...
+credits> NASA/CXC/SAO
 
-wip: yes
 ---
 
 @scene
@@ -135,9 +138,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-263L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/1999/0099/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-263.jpg
 
-text> Eta Carinae
+text> Eta Carinae is the most luminous star known in our galaxy. It radiates
+energy at a rate that is 5 million times that of the Sun. Observations indicate
+that Eta Carinae is an unstable star that is rapidly boiling matter off its
+surface. Some astronomers think that it could explode as a supernova any time!
 
-wip: yes
 ---
 
 @image
@@ -148,7 +153,6 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-275.jpg
 
 credits> NASA/CXC/U.Manitoba/H.Matheson & S.Safi-Harb
 
-wip: yes
 ---
 
 @scene
@@ -157,9 +161,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-275L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2005/g21/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-275.jpg
 
-text> G21.5-0.9
+text> This image, made by combining 150 hours of archived Chandra data, shows
+the remnant of a supernova explosion. The central bright cloud of high-energy
+electrons is surrounded by a distinctive shell of hot gas. The shell is due to a
+shock wave generated as the material ejected by the supernova plows into
+interstellar matter.
 
-wip: yes
 ---
 
 @image
@@ -168,11 +175,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-283.jpg
 
-credits> NASA/CXC/Penn State/E.Feigelson ; This Chandra image was produced by
-observing the Orion Nebula almost continuously for 13 days. The long observation
-enabled scie...
+credits> NASA/CXC/Penn State/E.Feigelson
 
-wip: yes
 ---
 
 @scene
@@ -181,9 +185,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-283L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2005/orion/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-283.jpg
 
-text> Orion Nebula
+text> This Chandra image shows the Orion Nebula Cluster, a rich cluster of young
+stars observed almost continuously for 13 days. The long observation enabled
+scientists to study the X-ray behavior of young Sun-like stars with ages between
+1 and 10 million years.
 
-wip: yes
 ---
 
 @image
@@ -192,10 +198,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-285.jpg
 
-credits> NASA/CXC/SAO; This X-ray image of the Cassiopeia A (Cas A) supernova
-remnant is the official first light image of the Chandra X-ray Observator...
+credits> NASA/CXC/SAO
 
-wip: yes
 ---
 
 @scene
@@ -204,9 +208,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-285L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/1999/0237/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-285.jpg
 
-text> Cassiopeia A
+text> Cas A is the remnant of a star that exploded about 300 years ago. The
+X-ray image shows an expanding shell of hot gas produced by the explosion. This
+gaseous shell is about 10 light years in diameter, and has a temperature of
+about 50 million degrees.
 
-wip: yes
 ---
 
 @image
@@ -215,22 +221,22 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-286.jpg
 
-credits> NASA/CXC/SAO; PSR 0540-69 is a neutron star, or pulsar, that is
-rotating very rapidly, making a complete rotation every one-twentieth of a
-sec...
+credits> NASA/CXC/SAO
 
-wip: yes
 ---
 
 @scene
 place_uuid: 410a1172-f2f7-4777-80b8-b1276a071fb5
 image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-286L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/1999/snrg/
+outgoing_url: https://chandra.harvard.edu/photo/1999/snrg/#object3
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-286.jpg
 
-text> PSR 0540-69
+text> PSR 0540-69 is a neutron star, or pulsar, that is rotating very rapidly,
+making a complete rotation every one-twentieth of a second. It is similar in
+many ways to the famous Crab Nebula pulsar. Both objects are spinning rapidly,
+are about 1,000 years old and are surrounded by a large cloud of gas and
+high-energy particles.
 
-wip: yes
 ---
 
 @image
@@ -239,10 +245,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-288.jpg
 
-credits> NASA/CXC/SAO; NASA's Chandra X-ray Observatory image of the distant
-galaxy 3C295 shows an explosive galaxy enveloped by a vast cloud of fifty ...
+credits> NASA/CXC/SAO
 
-wip: yes
 ---
 
 @scene
@@ -251,9 +255,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-288L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/1999/0166/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-288.jpg
 
-text> 3C295
+text> 3C295 (Cl 1409+524) is one of the most distant galaxy clusters observed by
+X-ray telescopes. The cluster is filled with a vast cloud of fifty million
+degree gas that radiates strongly in X rays. It has a redshift of 0.461, which
+means that we see the galaxy cluster as it was 4.7 billion years ago.
 
-wip: yes
+
 ---
 
 @image
@@ -262,10 +269,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-289.jpg
 
-credits> NASA/CXC/SAO; PKS 0637-72 is so distant that we see it as it was 6
-billion years ago. It is a luminous quasar that radiates with the power of ...
+credits> NASA/CXC/SAO
 
-wip: yes
 ---
 
 @scene
@@ -274,9 +279,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-289L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/1999/0064/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-289.jpg
 
-text> PKS 0637-72
+text> PKS 0637-752 is so distant that we see it as it was 6 billion years ago.
+It is a luminous quasar that radiates with the power of 10 trillion suns from a
+region smaller than our solar system. The source of this prodigious energy is
+believed to be a supermassive black hole.
 
-wip: yes
 ---
 
 @image
@@ -287,7 +294,6 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-290.jpg
 
 credits> NASA/CXC/SAO
 
-wip: yes
 ---
 
 @scene
@@ -296,9 +302,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-290L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/1999/0157/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-290.jpg
 
-text> Centaurus A
+text> At a distance of 11 million light years, Centaurus A or NGC 5128, is the
+nearest example of a type of galaxy called an active galaxy. It is a large
+elliptically shaped galaxy that shows evidence of repeated explosions, probably
+from a supermassive black hole in the center of the galaxy.
 
-wip: yes
 ---
 
 @image
@@ -307,11 +315,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-294.jpg
 
-credits> X-ray: NASA/CXC/RIT/J.Kastner & ; This composite X-ray (blue)/optical
-(red) image of NGC 40 shows hot gas around a dying, Sun-like star. Planetary
-nebulas get the...
+credits> X-ray: NASA/CXC/RIT/J.Kastner & R.Montez.; optical: NSF/AURA/NOAO/WIYN
 
-wip: yes
 ---
 
 @scene
@@ -320,9 +325,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-294L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2005/n40/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-294.jpg
 
-text> NGC 40
+text> This composite X-ray (blue)/optical (red) image of the object NGC 40 shows
+hot gas around a dying, Sun-like star. NGC 40 is one of a class of objects
+called planetary nebulas, so-called because they look like the disk of a planet
+when viewed with a small telescope.
 
-wip: yes
 ---
 
 @image
