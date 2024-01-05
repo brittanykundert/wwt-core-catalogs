@@ -3939,23 +3939,13 @@ _uuid: a7146ef6-22f7-4b54-899b-8ae7fa94ebf6
 angular_size: 1.0
 classification: Nebula
 constellation: ORI
+cxstatus: in:6598294b293f0a5746370455
 data_set_type: Sky
 dec_deg: -5.38388888888889
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002110{Q}?g=138
 name: Orion Nebula ( NGC 1976, M42)
 ra_hr: 5.58722222222222
 zoom_level: 8.0
----
-_uuid: 28be8a19-d12c-4e79-babb-b4d30e18e92c
-angular_size: 8.0
-classification: Nebula
-constellation: ORI
-data_set_type: Sky
-dec_deg: -5.38388888888889
-foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002110{Q}?g=138
-name: Orion Nebula ( NGC 1976, M42)
-ra_hr: 5.58722222222222
-zoom_level: 1.2
 ---
 _uuid: f3c6eb51-b4eb-4000-ab2e-b31277c8dea0
 angular_size: 1.0
