@@ -9,7 +9,6 @@ credits> NASA, N. Benitez (JHU), T. Broadhurst (The Hebrew University), H. Ford
 (JHU), M. Clampin(STScI), G. Hartig (STScI), G. Illingworth (UCO/Lick
 Observatory), the ACS Science Team and ESA
 
-wip: yes
 ---
 
 @scene
@@ -17,9 +16,11 @@ place_uuid: 07049c7e-34c7-4df7-b12b-5d0f338d7e85
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002030{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-01.html
 
-text> Galaxies Magnified by Galaxy Cluster Abell 1689's 'Graviational Lens'
+text> The Advanced Camera for Surveys (ACS) aboard NASA's Hubble Space Telescope
+has used a natural "zoom lens" in space to boost its view of the distant
+universe. Besides offering an unprecedented and dramatic new view of the cosmos,
+the results promise to shed light on galaxy evolution and dark matter in space.
 
-wip: yes
 ---
 
 @image
@@ -31,7 +32,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=18463471
 credits> NASA, The NICMOS Group (STScI, ESA) and The NICMOS Science Team (Univ.
 of Arizona)
 
-wip: yes
 ---
 
 @scene
@@ -39,9 +39,10 @@ place_uuid: bd26e031-448f-4ed7-99bd-c6ea70382abe
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002100{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-13.html
 
-text> Edifice of Gas and Dust in the Cone Nebula
+text> Peering into our stellar backyard, Hubble's NICMOS peeled back the outer
+layers of the Cone Nebula to see the underlying dusty "bedrock" in this stellar
+"pillar of creation."
 
-wip: yes
 ---
 
 @image
@@ -52,7 +53,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=93799117
 
 credits> NASA and C.R. O'Dell (Vanderbilt University)
 
-wip: yes
 ---
 
 @scene
@@ -60,19 +60,11 @@ place_uuid: a7146ef6-22f7-4b54-899b-8ae7fa94ebf6
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002110{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-05.html
 
-text> Orion Nebula ( NGC 1976, M42)
+text> The Hubble Space Telescope continues to reveal various stunning and
+intricate treasures that reside within the nearby, intense star-forming region
+known as the Great Nebula in Orion. One such jewel is the bow shock around the
+very young star, LL Ori, featured in this Hubble Heritage image.
 
-wip: yes
----
-
-@scene
-place_uuid: 28be8a19-d12c-4e79-babb-b4d30e18e92c
-image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002110{Q}?g=138
-outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-05.html
-
-text> Orion Nebula ( NGC 1976, M42)
-
-wip: yes
 ---
 
 @image
@@ -81,10 +73,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1665248914
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment : C.
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment: C.
 Conselice (U. Wisconsin/STScI)
 
-wip: yes
 ---
 
 @scene
@@ -92,9 +83,14 @@ place_uuid: 794b908e-8b5c-492a-b363-cab95c31167b
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002120{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-23.html
 
-text> Warped Edge-On Galaxy ESO 510-G13
+text> The Hubble telescope has captured an image of an unusual edge-on galaxy,
+revealing remarkable details of its warped dusty disk and showing how colliding
+galaxies spawn the formation of new generations of stars. The dust and spiral
+arms of normal spiral galaxies, like our own Milky Way, appear flat when viewed
+edge-on. This Hubble Heritage image of ESO 510-G13 shows a galaxy that, by
+contrast, has an unusual twisted disk structure, first seen in ground-based
+photographs.
 
-wip: yes
 ---
 
 @image
@@ -106,7 +102,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=18094945
 credits> NASA, Rogier Windhorst (Arizona State University, Tempe, AZ), and the
 Hubble mid-UV team
 
-wip: yes
 ---
 
 @scene
@@ -114,9 +109,8 @@ place_uuid: fee19b2d-ddca-4bd3-935a-86f8b13cb44e
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002130{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-04.html
 
-text> A Tiny, Youthful Spiral Galaxy, ESO 418-008
+text> A tiny, youthful spiral galaxy: ESO 418-008.
 
-wip: yes
 ---
 
 @image
@@ -127,7 +121,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=69643552
 
 credits> ESA, NASA and the Digitized Sky Survey
 
-wip: yes
 ---
 
 @scene
@@ -135,9 +128,10 @@ place_uuid: 73938bf4-fdcc-4740-9c6a-9825bf3a5550
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002210{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-08.html
 
-text> Star HD 209458
+text> Astronomers using NASA's Hubble Space Telescope have observed for the
+first time the atmosphere of a planet beyond our solar system evaporating into
+space. Most of the planet may eventually disappear, leaving only a dense core. 
 
-wip: yes
 ---
 
 @image
@@ -151,7 +145,6 @@ Institute), G.A. Tammann, and L. Labhardt (Astronomical Institute, University of
 Basel), F.D. Macchetto and N. Panagia (Space Telescope Science Institute and
 European Space Agency) and NASA
 
-wip: yes
 ---
 
 @scene
@@ -159,9 +152,12 @@ place_uuid: 30682844-3f7a-4942-9336-998026a09a74
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002220{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/1996/news-1996-21.html
 
-text> Spiral Galaxy NGC 4639
+text> This Hubble Space Telescope image shows NGC 4639, a spiral galaxy located
+78 million light-years away in the Virgo cluster of galaxies. The blue dots in
+the galaxy's outlying regions indicate the presence of young stars. Among them
+are older, bright stars called Cepheids, which are used as reliable milepost
+markers to obtain accurate distances to nearby galaxies.
 
-wip: yes
 ---
 
 @image
@@ -172,7 +168,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=94512487
 
 credits> NASA, ESA, Anglo-Australian Telescope, Digitized Sky Survey
 
-wip: yes
 ---
 
 @scene
@@ -180,9 +175,15 @@ place_uuid: 9ca32e6e-6769-4adc-8c17-7ab07d6a716a
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002230{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-37.html
 
-text> Location of ACS detail in NGC 6397
+text> NASA's Hubble Space Telescope has uncovered what astronomers are reporting
+as the dimmest stars ever seen in any globular star cluster. Globular clusters
+are spherical concentrations of hundreds of thousands of stars. These clusters
+formed early in the 13.7-billion-year-old universe. The cluster NGC 6397 is one
+of the closest globular star clusters to Earth. Seeing the whole range of stars
+in this area will yield insights into the age, origin, and evolution of the
+cluster.
 
-wip: yes
+
 ---
 
 @image
@@ -193,7 +194,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=18869082
 
 credits> NASA and The Hubble Heritage Team (STScI/AURA)
 
-wip: yes
 ---
 
 @scene
@@ -201,9 +201,12 @@ place_uuid: b5d27dd3-5957-42ae-888a-d8a200df0f1b
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002300{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-06.html
 
-text> M27, the Dumbbell Nebula
+text> An aging star's last hurrah is creating a flurry of glowing knots of gas
+that appear to be streaking through space in this close-up image of the Dumbbell
+Nebula, taken with NASA's Hubble Space Telescope. The Dumbbell, a nearby
+planetary nebula residing more than 1,200 light-years away, is the result of an
+old star that has shed its outer layers in a unique display of color.
 
-wip: yes
 ---
 
 @image
@@ -214,7 +217,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=19028267
 
 credits> NASA and The Hubble Heritage Team (AURA/STScI)
 
-wip: yes
 ---
 
 @scene
@@ -222,9 +224,11 @@ place_uuid: 4c269446-7ccc-4028-b2a1-2d32ceb626dc
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002310{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-10.html
 
-text> V838 Monocerotis - 8 February 2004
+text> This image resembling Vincent van Gogh's painting, "Starry Night," is
+Hubble's latest view of an expanding halo of light around a distant star, named
+V838 Monocerotis (V838 Mon). This Hubble image was obtained with the Advanced
+Camera for Surveys on February 8, 2004.
 
-wip: yes
 ---
 
 @image
@@ -236,7 +240,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=15251277
 credits> NASA, NOAO, ESA, the Hubble Helix Nebula Team, M. Meixner (STScI), and
 T.A. Rector (NRAO).
 
-wip: yes
 ---
 
 @scene
@@ -244,9 +247,12 @@ place_uuid: 9ea10f8f-61d0-476d-95b4-3aa96230b150
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002320{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-11.html
 
-text> Iridescent Glory of Nearby Helix Nebula;Helix Nebula;NGC 7293
+text> This photograph of the coil-shaped Helix Nebula is one of the largest and
+most detailed celestial images ever made. The composite picture is a seamless
+blend of ultra-sharp images from NASA's Hubble Space Telescope combined with the
+wide view of the Mosaic Camera on the National Science Foundation's 0.9-meter
+telescope at Kitt Peak National Observatory near Tucson, Ariz.
 
-wip: yes
 ---
 
 @image
