@@ -843,6 +843,7 @@ _uuid: 73938bf4-fdcc-4740-9c6a-9825bf3a5550
 angular_size: 1.0
 classification: Star
 constellation: PEG
+cxstatus: in:6598294e293f0a574637045b
 data_set_type: Sky
 dec_deg: 18.8872222222222
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002210{Q}?g=138
@@ -854,6 +855,7 @@ _uuid: 9ea10f8f-61d0-476d-95b4-3aa96230b150
 angular_size: 1.0
 classification: PlanetaryNebula
 constellation: AQR
+cxstatus: in:65982952293f0a5746370465
 data_set_type: Sky
 dec_deg: -20.8394444444444
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002320{Q}?g=138
