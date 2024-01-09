@@ -284,6 +284,7 @@ _uuid: 291d0879-dea3-48eb-87ed-e33a1203d440
 annotation: '{"channel": "eso", "itemid": "eso0304a", "publishedUTCISO8601": "2003-01-16T00:00:00+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:659d64df293f0a5746370a30
 data_set_type: Sky
 dec_deg: 12.893831465615747
 description: Sky field near some of the brighter galaxies in the Virgo Cluster. This
@@ -301,6 +302,7 @@ _uuid: ce366c5c-0208-41e8-b183-a64e2e19a148
 annotation: '{"channel": "eso", "itemid": "eso0304b", "publishedUTCISO8601": "2003-01-16T00:00:00+00:00"}'
 classification: ''
 constellation: VIR
+cxstatus: in:659d64e1293f0a5746370a32
 data_set_type: Sky
 dec_deg: 12.723867117734098
 description: Larger region of the Virgo cluster, with the galaxies Messier 86 (at
