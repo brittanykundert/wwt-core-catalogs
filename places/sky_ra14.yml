@@ -776,6 +776,7 @@ zoom_level: 0.448003852580571
 _uuid: 4461e1eb-0c0b-4542-9383-082b99eb47cc
 classification: ''
 constellation: UMA
+cxstatus: in:65a69a04293f0a5746371343
 data_set_type: Sky
 dec_deg: 54.348171
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-310L{1}X{2}Y{3}.png
@@ -787,6 +788,7 @@ zoom_level: 2.42071355392
 _uuid: bc2a35e2-29e2-44a4-a462-f8b5cc4e8d84
 classification: ''
 constellation: VIR
+cxstatus: in:65a69a07293f0a5746371349
 data_set_type: Sky
 dec_deg: 1.954692
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-315L{1}X{2}Y{3}.png
