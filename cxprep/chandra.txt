@@ -8,7 +8,6 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-295.jpg
 credits> X-ray: NASA/CXC/SAO; Optical: NASA/STScI; Infrared:
 NASA/JPL-Caltech/Steward/O.Krause et al.
 
-wip: yes
 ---
 
 @scene
@@ -17,9 +16,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-295L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2005/casa/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-295.jpg
 
-text> Cassiopeia A
+text> This stunning picture of the supernova remnant Cassiopeia A (Cas A) is a
+composite of images taken by three of NASA's Great Observatories. Infrared data
+from the Spitzer Space Telescope are colored red; optical data from the Hubble
+Space Telescope are yellow; and X-ray data from the Chandra X-ray Observatory
+are green and blue.
 
-wip: yes
 ---
 
 @image
@@ -28,11 +30,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-301.jpg
 
-credits> NASA/CXC/PSU/L.Townsley et al; Chandra's image of Trumpler 14 shows
-about 1,600 stars and a diffuse glow from hot X-ray producing gas. The cluster
-has an unusu...
+credits> NASA/CXC/PSU/L.Townsley et al
 
-wip: yes
 ---
 
 @scene
@@ -41,9 +40,10 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-301L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2005/trump/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-301.jpg
 
-text> Trumpler 14
+text> Chandra's image of the star cluster Trumpler 14 shows about 1,600 stars
+and a diffuse glow from hot multimillion degree X-ray producing gas. The cluster
+has one of the highest concentrations of massive, luminous stars in the Galaxy.
 
-wip: yes
 ---
 
 @image
@@ -52,11 +52,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-302.jpg
 
-credits> NASA/CXC/Rutgers/J.Warren & J.Hu; The Chandra image shows a bubble of
-hot gaseous supernova debris (green and red) inside a more rapidly moving shell
-of extremely...
+credits> NASA/CXC/Rutgers/J.Warren & J.Hughes et al.
 
-wip: yes
 ---
 
 @scene
@@ -65,9 +62,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-302L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2005/tycho/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-302.jpg
 
-text> Tycho's Supernova Remnant
+text> In 1572, the Danish astronomer Tycho Brahe observed and studied the
+explosion of a star that became known as Tycho's supernova. More than four
+centuries later, Chandra's image of the supernova remnant shows an expanding
+bubble of multimillion degree debris (green and red) inside a more rapidly
+moving shell of extremely high energy electrons (filamentary blue).
 
-wip: yes
 ---
 
 @image
@@ -76,11 +76,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-304.jpg
 
-credits> X-ray: NASA/SAO/CXC; Optical: ; This is a composite Chandra
-(X-ray/blue) and Hubble (optical/pink & purple) of N132D. The beautiful glowing
-horseshoe-shaped clo...
+credits> X-ray: NASA/SAO/CXC; Optical: NASA, ESA, Hubble Heritage Team
+(STScI/AURA)
 
-wip: yes
 ---
 
 @scene
@@ -89,9 +87,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-304L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2005/n132d/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-304.jpg
 
-text> N132D
+text> This beautiful image shows a glowing horseshoe-shaped cloud of hot gas
+against a backdrop of thousands of stars in the Large Magellanic Cloud, a nearby
+galaxy. Observations with Chandra (X-ray/blue) and Hubble (optical/pink &
+purple) were used to make this composite image of N132D, a supernova remnant
+that was produced by the explosion of a massive star.
 
-wip: yes
 ---
 
 @image
@@ -100,11 +101,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-308.jpg
 
-credits> NASA/CXC/IoA/A.Fabian et al.; An accumulation of 270 hours of Chandra
-observations reveals evidence of the turmoil that has wracked the central region
-of the ...
+credits> NASA/CXC/IoA/A.Fabian et al.
 
-wip: yes
 ---
 
 @scene
@@ -113,9 +111,10 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-308L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2005/perseus/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-308.jpg
 
-text> Perseus Cluster
+text> An accumulation of 270 hours of Chandra observations of the central
+regions of the Perseus galaxy cluster reveals evidence of the turmoil that has
+wracked the cluster for hundreds of millions of years.
 
-wip: yes
 ---
 
 @image
@@ -124,11 +123,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-309.jpg
 
-credits> X-ray: NASA/CXC/U.Illinois/R.Wil; This is a composite X-ray (red and
-green)/optical (blue) image of two hot gas shells produced by supernova
-explosions. Although ...
+credits> X-ray: NASA/CXC/U.Illinois/R.Williams & Y.-H.Chu; optical:
+NOAO/CTIO/U.Illinois/R.Williams & MCELS coll.
 
-wip: yes
 ---
 
 @scene
@@ -137,9 +134,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-309L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2005/d316/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-309.jpg
 
-text> DEM L316
+text> This composite X-ray (red and green)/optical (blue) image reveals a
+cat-shaped image produced by the remnants of two exploded stars in the Large
+Magellanic Cloud galaxy. Although the shells of hot gas appear to be colliding,
+this may be an illusion.
 
-wip: yes
 ---
 
 @image
@@ -148,11 +147,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-310.jpg
 
-credits> X-ray: NASA/CXC/GFSC/S.Immler & ; Chandra's image (inset) shows X-rays
-from a supernova that was observed to occur 35 years ago. The bright cloud in
-the box in th...
+credits> X-ray: NASA/CXC/GFSC/S.Immler & K.Kuntz; optical:
+NOAO/AURA/NSF/G.Jacoby, B.Bohannan & M.Hanna
 
-wip: yes
 ---
 
 @scene
@@ -161,9 +158,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-310L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2005/sn70/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-310.jpg
 
-text> SN 1970G
+text> The Chandra image in the inset shows X-rays from SN 1970G, a supernova
+that was observed to occur in the galaxy M101 35 years ago. The bright cloud in
+the box in the optical image is not related to the supernova, which is located
+immediately to the upper right (arrow) of the cloud.
 
-wip: yes
 ---
 
 @image
@@ -172,11 +171,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-312.jpg
 
-credits> NASA/CXC/Rutgers/J.Hughes et al.; Chandra's image of SN 1006 shows
-X-rays from multimillion degree gas (red/green) and high-energy electrons
-(blue). In the year 1...
+credits> NASA/CXC/Rutgers/J.Hughes et al.
 
-wip: yes
 ---
 
 @scene
@@ -185,9 +181,10 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-312L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2005/sn1006/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-312.jpg
 
-text> SN 1006
+text> In 1006 AD, what was thought to be a "new star" suddenly appeared in the
+sky and over the course of a few days became brighter than the planet Venus. The
+supernova of 1006, or SN 1006, may have been the brightest supernova on record.
 
-wip: yes
 ---
 
 @image
@@ -196,11 +193,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-314.jpg
 
-credits> Composite: NASA/JPL/Caltech/P.Ap; This image combines data from four
-different wavelengths of light: infrared (red), visible (green), ultraviolet
-(blue), and X-ra...
+credits> Composite: NASA/JPL/Caltech/P.Appleton et al.; X-ray: NASA/CXC/A.Wolter
+& G.Trinchieri et al.
 
-wip: yes
 ---
 
 @scene
@@ -209,9 +204,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-314L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2006/cartwheel/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-314.jpg
 
-text> Cartwheel Galaxy
+text> This image combines data from four different observatories: the Chandra
+X-ray Observatory (purple); the Galaxy Evolution Explorer satellite
+(ultraviolet/blue); the Hubble Space Telescope (visible/green); the Spitzer
+Space Telescope (infrared/red). The unusual shape of the Cartwheel Galaxy is
+likely due to a collision with one of the smaller galaxies on the lower left
+several hundred million years ago.
 
-wip: yes
 ---
 
 @image
@@ -220,11 +219,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-315.jpg
 
-credits> X-ray: NASA/CXC/U. Copenhagen/K.; Chandra's observation of the hot halo
-(blue) surrounding the optical disk (white) of NGC 5746 should help astronomers
-better und...
+credits> X-ray: NASA/CXC/U. Copenhagen/K.Pedersen et al; optical: Palomar DSS
 
-wip: yes
 ---
 
 @scene
@@ -233,9 +229,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-315L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2006/n5746/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-315.jpg
 
-text> NGC 5746
+text> Chandra observations of the massive spiral galaxy NGC 5746 revealed a
+large halo of hot gas (blue) surrounding the optical disk of the galaxy (white).
+The halo extends more than 60,000 light years on either side of the disk of the
+galaxy, which is viewed edge-on.
 
-wip: yes
 ---
 
 @image
