@@ -1,87 +1,11 @@
 
 @image
-url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002330{Q}?g=138
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1624901980
-
-credits> European Space Agency & NASA Acknowledgment: E. Olszewski (University
-of Arizona)
-
-wip: yes
----
-
-@scene
-place_uuid: 22be6842-0deb-479a-a5ae-32046531fcd2
-image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002330{Q}?g=138
-outgoing_url: http://hubblesite.org/contents/news-releases/2006/news-2006-17.html
-
-text> Star Cluster NGC 290
-
-wip: yes
----
-
-@image
-url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003000{Q}?g=138
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=214691552
-
-credits> NASA, ESA, and The Hubble Heritage Team (AURA/STScI) Acknowledgment :
-F. Bresolin (Institute for Astronomy, U. Hawaii) and the Digitized Sky Survey
-
-wip: yes
----
-
-@scene
-place_uuid: c4df00f4-6e7a-45ff-9478-99282ae95427
-image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003000{Q}?g=138
-outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-13.html
-
-text> Myriad of Stars in Spiral Galaxy NGC 300
-
-wip: yes
----
-
-@scene
-place_uuid: ee95e791-c38f-45a8-923f-a071174b9239
-image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003000{Q}?g=138
-outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-13.html
-
-text> NGC 300;Myriad of Stars in Spiral Galaxy NGC 300
-
-wip: yes
----
-
-@image
-url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003020{Q}?g=138
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1133469345
-
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment: W. P.
-Blair (JHU)
-
-wip: yes
----
-
-@scene
-place_uuid: f3c6eb51-b4eb-4000-ab2e-b31277c8dea0
-image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003020{Q}?g=138
-outgoing_url: http://hubblesite.org/contents/news-releases/2000/news-2000-15.html
-
-text> Peering into the Heart of the Crab Nebula
-
-wip: yes
----
-
-@image
 url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003110{Q}?g=138
 copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=550509559
 
-credits> NASA, ESA, and the Hubble Heritage Team (STScI/AURA) Acknowledgment :
+credits> NASA, ESA, and the Hubble Heritage Team (STScI/AURA); acknowledgment :
 J. Green (University of Colorado, Boulder)
 
 wip: yes
@@ -195,7 +119,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1979985392
 
-credits> NASA, ESA, and The Hubble Heritage Team (AURA/STScI) Acknowledgment :
+credits> NASA, ESA, and The Hubble Heritage Team (AURA/STScI); acknowledgment :
 F. Yusef-Zadeh (Northwestern Univ.)
 
 wip: yes
@@ -261,7 +185,7 @@ license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=75859957
 
 credits> Image Credits: NASA, ESA, and Martino Romaniello (European Southern
-Observatory, Germany) Acknowledgments: The image processing for this image was
+Observatory, Germany); acknowledgments: The image processing for this image was
 done by Martino Romaniello, Richard Hook, Bob Fosbury and the Hubble European
 Space Agency Information Center.
 
@@ -379,7 +303,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=175727998
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment : Bo
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment : Bo
 Reipurth (University of Hawaii)
 
 wip: yes
@@ -473,7 +397,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=2117471657
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment : R.
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment : R.
 Fesen (Dartmouth) and J. Morse (Univ. of Colorado)
 
 wip: yes
@@ -1244,7 +1168,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1696243811
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment : C.R.
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment : C.R.
 O'Dell (Vanderbilt University)
 
 wip: yes
@@ -1266,8 +1190,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=724083399
 
-credits> NASA, ESA and The Hubble Heritage Team (STScI/AURA) Acknowledgment : S.
-Smartt (The Queen's University of Belfast)
+credits> NASA, ESA and The Hubble Heritage Team (STScI/AURA); acknowledgment :
+S. Smartt (The Queen's University of Belfast)
 
 wip: yes
 ---
@@ -1288,7 +1212,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1539525951
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment : C. R.
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment : C. R.
 O'Dell (Vanderbilt University)
 
 wip: yes
@@ -1533,7 +1457,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=238365128
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment: R.
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment: R.
 Knacke (Penn State Erie)
 
 wip: yes
@@ -1555,8 +1479,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=208805864
 
-credits> NASA, ESA, and K. Noll (STScI) Acknowledgment: The Hubble Heritage Team
-(STScI/AURA)
+credits> NASA, ESA, and K. Noll (STScI); acknowledgment: The Hubble Heritage
+Team (STScI/AURA)
 
 wip: yes
 ---
@@ -1619,7 +1543,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1467229686
 
-credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA) Acknowledgment :
+credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA); acknowledgment :
 Y. Momany (University of Padua)
 
 wip: yes
@@ -1727,7 +1651,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=599717539
 
-credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA) Acknowledgment :
+credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA); acknowledgment :
 P. McCullough (STScI)
 
 wip: yes
@@ -1833,8 +1757,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=731739133
 
-credits> NASA, ESA and The Hubble Heritage Team (STScI/AURA) Acknowledgment : J.
-Biretta (STScI)
+credits> NASA, ESA and The Hubble Heritage Team (STScI/AURA); acknowledgment :
+J. Biretta (STScI)
 
 wip: yes
 ---
@@ -1900,7 +1824,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1057672650
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment : A.
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment : A.
 Gomez (Cerro Tololo Inter-American Observatory)
 
 wip: yes
@@ -1965,7 +1889,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=39734206
 
-credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA) Acknowledgment :
+credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA); acknowledgment :
 J. Gallagher (University of Wisconsin), M. Mountain (STScI), and P. Puxley
 (National Science Foundation)
 
@@ -2143,7 +2067,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=2121009947
 
-credits> NASA, ESA, and the Hubble Heritage Team (STScI/AURA) Acknowledgment :
+credits> NASA, ESA, and the Hubble Heritage Team (STScI/AURA); acknowledgment :
 Y.-H. Chu (University of Illinois, Urbana - Champaign) and Y. Nazé (Universite
 de Liège, Belgium)
 
@@ -2166,7 +2090,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=245563811
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment : D.
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment : D.
 Garnett (University of Arizona)
 
 wip: yes
@@ -2345,7 +2269,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1751433174
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment : M.
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment : M.
 Donahue (STScI) and J. Trauger (JPL)
 
 wip: yes
@@ -2772,7 +2696,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1448911066
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment : Ray A.
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment : Ray A.
 Lucas (STScI/AURA)
 
 wip: yes
@@ -2969,7 +2893,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=37951224
 
-credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA) Acknowledgment :
+credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA); acknowledgment :
 M. Gregg (Univ. Calif.-Davis and Inst. for Geophysics and Planetary Physics,
 Lawrence Livermore Natl. Lab.)
 
@@ -3079,7 +3003,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1424292271
 
-credits> NASA and The Hubble Heritage Team (AURA/STScI) Acknowledgment : D.
+credits> NASA and The Hubble Heritage Team (AURA/STScI); acknowledgment : D.
 Garnett (U. Arizona), J. Hester (ASU), and J. Westphal (Caltech)
 
 wip: yes
@@ -3143,7 +3067,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=100313071
 
-credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA) Acknowledgment :
+credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA); acknowledgment :
 C. R. O'Dell (Vanderbilt University) and L. Bianchi (Johns Hopkins University
 and Osservatorio Astronomico, Torinese, Italy)
 
@@ -3410,8 +3334,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=112642165
 
-credits> NASA, ESA and The Hubble Heritage Team (STScI/AURA) Acknowledgment : R.
-Sahai (Jet Propulsion Lab) and B. Balick (University of Washington)
+credits> NASA, ESA and The Hubble Heritage Team (STScI/AURA); acknowledgment :
+R. Sahai (Jet Propulsion Lab) and B. Balick (University of Washington)
 
 wip: yes
 ---
@@ -3475,7 +3399,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=698170338
 
-credits> NASA, ESA, The Hubble Heritage Team (STScI/AURA) Acknowledgment
+credits> NASA, ESA, The Hubble Heritage Team (STScI/AURA); acknowledgment
 
 : R. Sankrit and W. Blair (Johns Hopkins University)
 wip: yes
@@ -3607,7 +3531,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=519826736
 
-credits> NASA, ESA, and The Hubble Heritage Team (AURA/STScI) Acknowledgment :
+credits> NASA, ESA, and The Hubble Heritage Team (AURA/STScI); acknowledgment :
 J. Higdon (Cornell U.) and I. Jordan (STScI)
 
 wip: yes
@@ -3727,7 +3651,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1214982571
 
-credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA) Acknowledgment :
+credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA); acknowledgment :
 J. Blakeslee (JHU) and R. Thompson (University of Arizona)
 
 wip: yes
@@ -3948,7 +3872,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1824514372
 
-credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA) Acknowledgment :
+credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA); acknowledgment :
 R. Sankrit and W. Blair (Johns Hopkins University)
 
 wip: yes
@@ -3991,7 +3915,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1930783597
 
-credits> NASA, ESA, and The Hubble Heritage Team (AURA/STScI) Acknowledgment :
+credits> NASA, ESA, and The Hubble Heritage Team (AURA/STScI); acknowledgment :
 F. Yusef-Zadeh (Northwestern Univ.)
 
 wip: yes
@@ -4354,7 +4278,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1550435984
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment : C.R.
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment : C.R.
 O'Dell (Vanderbilt University)
 
 wip: yes
@@ -4564,7 +4488,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1723505511
 
-credits> NASA and The Hubble Heritage Team (AURA/STScI) Acknowledgment: S.
+credits> NASA and The Hubble Heritage Team (AURA/STScI); acknowledgment: S.
 Smartt (Institute of Astronomy) and D. Richstone (U. Michigan)
 
 wip: yes
@@ -4608,7 +4532,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1500577972
 
-credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA) Acknowledgment :
+credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA); acknowledgment :
 J.C. Green (Univ. of Colorado) and the Cosmic Origins Spectrograph (COS) GTO
 Team; NASA/CXO/SAO
 
@@ -4695,7 +4619,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1921322152
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment : J.C.
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment : J.C.
 Howk (Johns Hopkins University) and B.D. Savage (University of
 Wisconsin-Madison)
 
@@ -4773,8 +4697,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1042310781
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment : A. Cool
-(SFSU)
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment : A.
+Cool (SFSU)
 
 wip: yes
 ---
@@ -4860,8 +4784,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=38305263
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment: M.S. Oey
-(Lowell Observatory) and Y.-H. Chu (U. of Illinois)
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment: M.S.
+Oey (Lowell Observatory) and Y.-H. Chu (U. of Illinois)
 
 wip: yes
 ---
@@ -5222,7 +5146,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=131409215
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment : Roger
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment : Roger
 Lynds (KPNO/NOAO)
 
 wip: yes
@@ -5310,7 +5234,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=595276612
 
-credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA) Acknowledgment :
+credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA); acknowledgment :
 P. Knezek (WIYN)
 
 wip: yes
@@ -5332,7 +5256,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=985356464
 
-credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA) Acknowledgment :
+credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA); acknowledgment :
 J. Blakeslee (Washington State University)
 
 wip: yes
@@ -5439,7 +5363,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1291268272
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment : Y.-H.
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment : Y.-H.
 Chu (UIUC), S. Kulkarni (Caltech), and R. Rothschild (UCSD)
 
 wip: yes
@@ -5462,7 +5386,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=341641841
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment
 
 : R. Windhorst (ASU)
 wip: yes
