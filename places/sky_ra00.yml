@@ -1281,17 +1281,6 @@ name: Myriad of Stars in Spiral Galaxy NGC 300
 ra_hr: 0.915
 zoom_level: 2.0
 ---
-_uuid: ee95e791-c38f-45a8-923f-a071174b9239
-angular_size: 1.0
-classification: SpiralGalaxy
-constellation: SCL
-data_set_type: Sky
-dec_deg: -37.6819444444444
-foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003000{Q}?g=138
-name: NGC 300;Myriad of Stars in Spiral Galaxy NGC 300
-ra_hr: 0.915
-zoom_level: 2.0
----
 _uuid: 17202384-c1c6-4c06-9461-44a38f2d7d51
 angular_size: 1.0
 classification: ClusterOfGalaxies
