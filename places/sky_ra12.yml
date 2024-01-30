@@ -2077,6 +2077,54 @@ ra_hr: 12.446912735793761
 thumbnail: http://data1.wwtassets.org/packages/2023/04_jwst/potm2303a/thumb.jpg
 zoom_level: 0.24491423841724247
 ---
+_uuid: 00b47ea6-e100-4802-97ae-b4c759a49ea4
+classification: ''
+constellation: COM
+cxstatus: in:<fakesceneid>
+data_set_type: Sky
+dec_deg: 14.422586488407681
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403o/{1}/{3}/{3}_{2}.png
+name: NGC 4254
+ra_hr: 12.31408096401268
+thumbnail: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403o/thumb.jpg
+zoom_level: 0.3462514586415121
+---
+_uuid: a659ae32-794f-4616-8dde-cff6f8bb2414
+classification: ''
+constellation: VIR
+cxstatus: in:<fakesceneid>
+data_set_type: Sky
+dec_deg: 4.470780956478406
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403p/{1}/{3}/{3}_{2}.png
+name: NGC 4303
+ra_hr: 12.365881282648056
+thumbnail: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403p/thumb.jpg
+zoom_level: 0.36888165074770524
+---
+_uuid: 6f256517-0b78-4cf1-8052-c5b0d3129c10
+classification: ''
+constellation: COM
+cxstatus: in:<fakesceneid>
+data_set_type: Sky
+dec_deg: 15.818474524521923
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403q/{1}/{3}/{3}_{2}.png
+name: NGC 4321
+ra_hr: 12.382754207400932
+thumbnail: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403q/thumb.jpg
+zoom_level: 0.37239280457975693
+---
+_uuid: 8aa35525-07de-4b7f-8fa3-a1614bb10d5b
+classification: ''
+constellation: VIR
+cxstatus: in:<fakesceneid>
+data_set_type: Sky
+dec_deg: 8.196824405746257
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403r/{1}/{3}/{3}_{2}.png
+name: NGC 4535
+ra_hr: 12.57227139715648
+thumbnail: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403r/thumb.jpg
+zoom_level: 0.33340857133165147
+---
 _uuid: 5ecffcd2-2bc6-42cd-b1ce-264b52c191b5
 angular_size: 1.0
 classification: ClusterOfGalaxies

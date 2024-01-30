@@ -34365,6 +34365,548 @@ The challenge is that it is typically difficult to observe an entire globular cl
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.035881734214773475"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="353.6137016888"
+    CenterY="-36.10121498248"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="IC 5332"
+    OffsetX="8.76018901727868e-06"
+    OffsetY="8.76018901727868e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-2.266636142335976"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403b/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), R. Chandar (UToledo), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403b/</CreditsUrl>
+    <Description>Galaxy IC 5332 was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. IC 5332 is 30 million light-years away in the constellation Sculptor. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of IC 5332 shows a densely populated face-on spiral galaxy anchored by a central region that has a light blue haze. Spine-like spiral orange arms extend to the edges and rotate clockwise.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.0716190133471716"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="24.174371502246"
+    CenterY="15.780613507832"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 628"
+    OffsetX="8.742555340230909e-06"
+    OffsetY="8.742555340230909e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="70.5419521644074"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403c/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403c/</CreditsUrl>
+    <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 628 is 32 million light-years away in the constellation Pisces. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of NGC 628 shows a densely populated face-on spiral galaxy anchored by a central region that has a light blue haze. Spine-like f spiral orange arms extend to the edges and rotate counterclockwise.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403c/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.0716190133471716"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="41.60571645321"
+    CenterY="-0.49926082093552"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1087"
+    OffsetX="1.7485110680461818e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-17.898047835592582"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403d/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), R. Chandar (UToledo), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403d/</CreditsUrl>
+    <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 1087 is 80 million light-years away in the constellation Cetus. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of NGC 1087 shows a densely populated face-on spiral galaxy anchored by a central region that takes the shape of a short line. Its filamentary orange spiral arms appear muddled together and it is difficult to pick out individual spiral arms. The arms extend to the edges and rotate clockwise.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403d/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.0716190133471716"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="49.920787522768"
+    CenterY="-19.410067014966"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1300"
+    OffsetX="8.742555340230909e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-19.578047835592503"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403e/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403e/</CreditsUrl>
+    <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 1300 is 69 million light-years away in the constellation Eridanus. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of NGC 1300 shows a face-on barred spiral galaxy anchored by its central region, which is circular and shows a bright white point at the centre with a light yellow circle around it. The galaxy has a prominent bar connected to spiral orange arms that rotate counterclockwise. Together, they form a backward S shape.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403e/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07171317420246594"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="53.398504486751"
+    CenterY="-36.144276936456"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1365"
+    OffsetX="1.750809917052391e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-8.09261972360724"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403f/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403f/</CreditsUrl>
+    <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 1365 is 56 million light-years away in the constellation Fornax. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of galaxy NGC 1365 shows a central region that looks like an angled, smashed oval that is a mix of bright orange shades that emanate a blue glow. The galaxy’s bar extends horizontally from the oval. It is crossed by messy dust filaments that curve slightly, forming a backward S shape. Fainter filaments appear below and above the core.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403f/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.03582414337063639"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="54.370848150816"
+    CenterY="-24.501320524145"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1385"
+    OffsetX="8.746128752596775e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="26.313536427654082"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403g/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403g/</CreditsUrl>
+    <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 1385 is 30 million light-years away in the constellation Fornax. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of NGC 1385 shows a messy face-on spiral galaxy with filamentary structures in shades of white, yellow, orange, and red. At the centre are some light blue regions.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403g/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07188852934512671"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="55.508022458705"
+    CenterY="-47.220906764067"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1433"
+    OffsetX="8.775455242325038e-06"
+    OffsetY="8.775455242325038e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-29.53011672182008"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403h/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403h/</CreditsUrl>
+    <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 1433 is 46 million light-years away in the constellation Horologium. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of NGC 1433 shows a face-on barred spiral galaxy anchored by its central region, which is circular and shows a bright white point at the centre with a light yellow circle around it. The galaxy has a large bar connected to filamentary spiral orange arms that appear to rotate counterclockwise.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403h/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07153418458732505"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="60.975149793501"
+    CenterY="-43.347335679326"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1512"
+    OffsetX="1.7464400534014905e-05"
+    OffsetY="8.732200267007452e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-18.268281564453467"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403i/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403i/</CreditsUrl>
+    <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 1512 is 30 million light-years away in the constellation Horologium. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of NGC 1512 shows a face-on barred spiral galaxy anchored by its central region, which is circular and shows a bright white point at the center with blue and yellow circles around it. The galaxy’s large bar is crossed by filamentary dust lanes that extend diagonally to the top left and bottom right. The bar is connected to a dense oval-shaped ring of orange spiral arms that start at the edges of the bar.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403i/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07167049532916764"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="65.000651720668"
+    CenterY="-54.936926269498"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1566"
+    OffsetX="1.7497679523722568e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-5.532146211337899"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403j/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), R. Chandar (UToledo), D. Calzetti (UMass), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403j/</CreditsUrl>
+    <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 1566 is 60 million light-years away in the constellation Dorado. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of NGC 1566 shows a densely populated face-on spiral galaxy anchored by a central region that has a light blue haze surrounding it. Two prominent spiny spiral orange arms extend to the edges and rotate counterclockwise.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403j/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07149069961717043"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="71.42851274152"
+    CenterY="-59.243831215412"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1672"
+    OffsetX="1.745378408622325e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-15.729014598365318"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403k/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403k/</CreditsUrl>
+    <Description>Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 1672 is 60 million light-years away in the constellation Dorado. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of NGC 1672 shows a portion of a densely populated face-on spiral galaxy anchored by a central core and bar structure made of filamentary dust lanes and a light blue haze of stars, just below centre. Two spiny spiral orange arms extend from the bar to the edges and rotate clockwise.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403k/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.03583711560270512"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="139.47045694392"
+    CenterY="-22.353394698928"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 2835"
+    OffsetX="8.749295801441679e-06"
+    OffsetY="8.749295801441679e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="14.122351704960305"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403l/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403l/</CreditsUrl>
+    <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 2835 is 35 million light-years away in the constellation Hydra. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of NGC 2835 shows a densely populated face-on spiral galaxy anchored by a central region that is bright blue. The spiral arms appear muddled, but it is possible to pick out individual spiral arms. The arms extend to the edges and rotate counterclockwise.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403l/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07175714107794627"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="160.99076778193"
+    CenterY="11.704179919585"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 3351"
+    OffsetX="8.759416635491488e-06"
+    OffsetY="8.759416635491488e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="24.172381868314982"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403m/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403m/</CreditsUrl>
+    <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 3351 is 33 million light-years away in the constellation Leo. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of NGC 3351 shows a face-on barred spiral galaxy anchored by its central region, which is oval and shows a bright white point at the centre with darker and lighter yellow ovals around it. The galaxy’s filamentary spiral orange arms rotate clockwise and form a wide circular structure at the outer edges.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403m/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07177542456649683"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="170.05964076626"
+    CenterY="12.984035777728"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 3627"
+    OffsetX="1.752329701330489e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="21.997451792753164"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403n/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403n/</CreditsUrl>
+    <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 3627 is 36 million light-years away in the constellation Leo. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of NGC 3627 shows a face-on barred spiral galaxy anchored by its central region, which has a bright blue central dot. It is surrounded by a bar structure filled with a lighter blue haze of stars, which forms a large, angled oval toward the top. Two large distinct spiral arms appear as arcs that start at the central bar. One starts at left and stretches to the top and another starts at right and extends to the bottom.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403n/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07163509685706951"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="184.71122680845"
+    CenterY="14.422589636903"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 4254"
+    OffsetX="1.7489037318620485e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-59.74966582208508"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403o/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403o/</CreditsUrl>
+    <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 4254 is 50 million light-years away in the constellation Coma Berenices. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of NGC 4254 shows a densely populated face-on spiral galaxy anchored by its central region, which is right of centre. Spiral orange arms sweep out to the edges and rotate counterclockwise.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403o/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07169956349593799"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="185.48822384542"
+    CenterY="4.4707694619134"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 4303"
+    OffsetX="8.752388122062743e-06"
+    OffsetY="8.752388122062743e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="23.224983661134523"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403p/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403p/</CreditsUrl>
+    <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 4303 is 55 million light-years away in the constellation Virgo. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of NGC 4303 shows a portion of the face-on spiral galaxy anchored by its central region, which is located at far right, midway down. Darker, more diffuse orange arms spiral away counterclockwise.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403p/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07175684616493003"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="185.74131953264"
+    CenterY="15.818463787652"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 4321"
+    OffsetX="8.759380635367435e-06"
+    OffsetY="8.759380635367435e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="15.08209342545237"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403q/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403q/</CreditsUrl>
+    <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 4321 is 56 million light-years away in the constellation Coma Berenices. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of NGC 4321 shows a face-on spiral galaxy anchored by its central region, which is located at far right, midway down, slightly cut off at far right. Darker, filamentary orange arms spiral away counterclockwise, showing only arc shapes.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403q/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.035817662485297906"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="188.58407675057"
+    CenterY="8.1968134487863"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 4535"
+    OffsetX="1.7489093010399368e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="17.375858627041268"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403r/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403r/</CreditsUrl>
+    <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 4535 is 50 million light-years away in the constellation Virgo. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of NGC 4535 shows a densely populated face-on barred spiral galaxy anchored by its central region, which has a light orange haze. The galaxy’s core is centred and connected by an almost vertical bar structure to the galaxy’s two prominent spiral arms, which appear to rotate clockwise, forming an elongated S shape in shades of orange.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403r/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07163532497059581"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="199.71084184798"
+    CenterY="-21.034188663199"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 5068"
+    OffsetX="1.7489093010399368e-05"
+    OffsetY="8.744546505199684e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="36.075858627041"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403s/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403s/</CreditsUrl>
+    <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 5068 is 20 million light-years away in the constellation Virgo. Learn more about what can be seen in this vast collection of Webb images here. [Image description: Webb’s image of NGC 5068 shows a portion of a messy face-on barred spiral galaxy in shades of white, yellow, orange, and red. The galaxy’s bar is a bright yellow arc-shaped region toward the centre-left, and it is very difficult to see a spiral shape.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403s/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07187565839420122"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="347.4460782313"
+    CenterY="-43.428906686029"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 7496"
+    OffsetX="8.773884081323391e-06"
+    OffsetY="8.773884081323391e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.9687455202206845"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/01_jwst/weic2403t/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:&lt;fakeimageid&gt;"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2403t/</CreditsUrl>
+    <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 7496 is 24 million light-years away in the constellation Grus. Learn more about what can be seen in this vast collection of Webb images here. [Image description: The central core of Webb’s image of the galaxy NGC 7496 begins as a bright white dot that melts into bright oranges. Eight prominent diffraction spikes emanate from the centre. A bright orange arc that looks like a thin, backward S forms the bar and two of the face-on spiral galaxy’s arms.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403t/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"

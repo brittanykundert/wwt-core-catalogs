@@ -985,6 +985,18 @@ ra_hr: 11.110050194635805
 thumbnail: http://data1.wwtassets.org/packages/2023/01_jwst/weic2303a/thumb.jpg
 zoom_level: 0.3947264502402712
 ---
+_uuid: 2ddbf796-7568-4747-abce-e5236e771cd5
+classification: ''
+constellation: LEO
+cxstatus: in:<fakesceneid>
+data_set_type: Sky
+dec_deg: 12.984047183342954
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403n/{1}/{3}/{3}_{2}.png
+name: NGC 3627
+ra_hr: 11.337309053147992
+thumbnail: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403n/thumb.jpg
+zoom_level: 0.5996647470923065
+---
 _uuid: 1e54c08d-ef49-4425-aec6-4a5003ebf5b0
 angular_size: 1.0
 classification: ClusterOfGalaxies
