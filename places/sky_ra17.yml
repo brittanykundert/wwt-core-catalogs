@@ -114,6 +114,7 @@ _uuid: ec2a56c5-1a46-4a55-b5cf-48d5a8c32908
 annotation: '{"channel": "eso", "itemid": "eso0311a", "publishedUTCISO8601": "2003-04-22T00:00:00+00:00"}'
 classification: ''
 constellation: SCO
+cxstatus: in:65bd1ac13dd4a5b0962fa32b
 data_set_type: Sky
 dec_deg: -30.223649497666287
 description: This photograph shows the 16.5-mag star OGLE-TR-3, a solar-like star
@@ -131,6 +132,7 @@ _uuid: 1bae42c9-1f17-4ff8-9a76-5919a7d86da6
 annotation: '{"channel": "eso", "itemid": "eso0313h", "publishedUTCISO8601": "2003-05-13T00:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:65bd1ac23dd4a5b0962fa32d
 data_set_type: Sky
 dec_deg: -29.007773274402656
 description: K-band image of the central 6 x 13 square arcsec around the Galactic
