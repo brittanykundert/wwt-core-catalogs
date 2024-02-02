@@ -489,6 +489,7 @@ _uuid: 8e9b1d5a-b3ca-4b67-93c2-ab61ae1b1631
 annotation: '{"channel": "eso", "itemid": "eso0310c", "publishedUTCISO8601": "2003-04-09T00:00:00+00:00"}'
 classification: ''
 constellation: MEN
+cxstatus: in:65bd1ac03dd4a5b0962fa327
 data_set_type: Sky
 dec_deg: -70.99076945718818
 description: The nebula around the hot double star BAT99-49 in the Large Magellanic
@@ -512,6 +513,7 @@ _uuid: 06332356-4746-4551-a53b-a93e94c061d0
 annotation: '{"channel": "eso", "itemid": "eso0310d", "publishedUTCISO8601": "2003-04-09T00:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:65bd1ac13dd4a5b0962fa329
 data_set_type: Sky
 dec_deg: -67.99022279168987
 description: The N44C nebula in the Large Magellanic Cloud (LMC), obtained in January
