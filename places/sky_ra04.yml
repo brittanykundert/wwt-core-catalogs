@@ -508,7 +508,7 @@ zoom_level: 0.39537568481158214
 _uuid: 2ddfdbc9-2ca4-4983-8933-81332ee56ca5
 classification: ''
 constellation: HOR
-cxstatus: in:<fakesceneid>
+cxstatus: in:65bdbc8ee1238e3fe35f5f97
 data_set_type: Sky
 dec_deg: -43.34733012449
 foreground_image_set_url: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403i/{1}/{3}/{3}_{2}.png
@@ -520,7 +520,7 @@ zoom_level: 0.3719498168132358
 _uuid: 234aeaf2-6db1-4922-8110-660c8c49c6ce
 classification: ''
 constellation: DOR
-cxstatus: in:<fakesceneid>
+cxstatus: in:65bdbc8fe1238e3fe35f5f99
 data_set_type: Sky
 dec_deg: -54.93691840483185
 foreground_image_set_url: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403j/{1}/{3}/{3}_{2}.png
@@ -532,7 +532,7 @@ zoom_level: 0.6177065820823588
 _uuid: 667d2fc9-6a00-4605-b720-6b22cc95dfab
 classification: ''
 constellation: DOR
-cxstatus: in:<fakesceneid>
+cxstatus: in:65bdbc90e1238e3fe35f5f9b
 data_set_type: Sky
 dec_deg: -59.24382518105531
 foreground_image_set_url: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403k/{1}/{3}/{3}_{2}.png
