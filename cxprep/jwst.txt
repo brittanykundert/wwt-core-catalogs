@@ -178,3 +178,37 @@ et al.) Science paper (C. Nally et al.)
 
 wip: yes
 ---
+
+@image
+url: http://data1.wwtassets.org/packages/2023/08_jwst/westerlund2-bk/{1}/{3}/{3}_{2}.png
+copyright: Public domain
+license_id: CC-PDDC
+thumbnail: http://data1.wwtassets.org/packages/2023/08_jwst/westerlund2-bk/thumb.jpg
+
+credits> NASA/ESA/CSA/Brittany Kundert
+
+wip: yes
+---
+
+@scene
+place_uuid: 1a65d53d-95e7-4796-83df-1789646e414f
+image_url: http://data1.wwtassets.org/packages/2023/08_jwst/westerlund2-bk/{1}/{3}/{3}_{2}.png
+outgoing_url: https://twitter.com/specificwave
+thumbnail: http://data1.wwtassets.org/packages/2023/08_jwst/westerlund2-bk/thumb.jpg
+
+text> The NASA/ESA/CSA James Webb Space Telescope (JWST) observed part of the
+nebulous region surrounding Westerlund 2, a young star cluster in the Milky Way.
+Dense pillars of gas and dust, as seen in this image, point towards the central
+star cluster. These nebulous areas are thought to house stellar birth! What
+appears to be steam coming off of the central pillar is material streaming away
+from the nebula as it is being eroded by stellar radiation from nearby stars.
+This intense radiation eats away at gas and dust, shaping these pillars and the
+surrounding region. Using infrared light, JWST can peer behind some of this gas
+and dust to reveal evidence of stellar formation, such as protostellar jets! The
+James Webb Space Telescope will revolutionize our understanding of stellar birth
+as it continues to study the life of stars. These observations are from Proposal
+2640 as part of the General Observer (GO) Program. Image processed by Brittany
+Kundert.
+
+wip: yes
+---

@@ -1480,6 +1480,54 @@ ra_hr: 3.3120728199325264
 thumbnail: http://data1.wwtassets.org/packages/2023/11_euclid/euclid-ero-perseuscluster/thumb.jpg
 zoom_level: 7.4817136025077104
 ---
+_uuid: 33ee74eb-4047-48aa-924d-fd0793f70f24
+classification: ''
+constellation: ERI
+cxstatus: in:65bdbc8be1238e3fe35f5f8f
+data_set_type: Sky
+dec_deg: -19.41005585944591
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403e/{1}/{3}/{3}_{2}.png
+name: NGC 1300
+ra_hr: 3.3280528783302445
+thumbnail: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403e/thumb.jpg
+zoom_level: 0.37684959645172134
+---
+_uuid: 0e330cbc-e98f-42b0-a710-8563a3f1c21a
+classification: ''
+constellation: FOR
+cxstatus: in:65bdbc8ce1238e3fe35f5f91
+data_set_type: Sky
+dec_deg: -36.144269501920384
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403f/{1}/{3}/{3}_{2}.png
+name: NGC 1365
+ra_hr: 3.559899481878897
+thumbnail: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403f/thumb.jpg
+zoom_level: 0.37234474505953197
+---
+_uuid: 4c880b23-3b71-432c-9af3-2db7607c3deb
+classification: ''
+constellation: FOR
+cxstatus: in:65bdbc8de1238e3fe35f5f93
+data_set_type: Sky
+dec_deg: -24.50130880726493
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403g/{1}/{3}/{3}_{2}.png
+name: NGC 1385
+ra_hr: 3.6247229197196074
+thumbnail: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403g/thumb.jpg
+zoom_level: 0.3502404751234884
+---
+_uuid: 02d4fe8d-610e-4cd2-a4c6-84eec36861cb
+classification: ''
+constellation: HOR
+cxstatus: in:65bdbc8de1238e3fe35f5f95
+data_set_type: Sky
+dec_deg: -47.22090345382562
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403h/{1}/{3}/{3}_{2}.png
+name: NGC 1433
+ra_hr: 3.7005336565309155
+thumbnail: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403h/thumb.jpg
+zoom_level: 0.36663149966014624
+---
 _uuid: d82f4bbb-3dfb-484c-896f-af88eca90de8
 angular_size: 1.0
 classification: ClusterOfGalaxies

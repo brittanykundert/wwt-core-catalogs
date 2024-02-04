@@ -1299,6 +1299,18 @@ ra_hr: 10.400709639613666
 thumbnail: http://data1.wwtassets.org/packages/2023/08_jwst/westerlund2-bk/thumb.jpg
 zoom_level: 0.3113757223826241
 ---
+_uuid: 69065813-aaad-4143-8fa5-0f6bc74626a7
+classification: ''
+constellation: LEO
+cxstatus: in:65bdbc92e1238e3fe35f5f9f
+data_set_type: Sky
+dec_deg: 11.704191497789969
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403m/{1}/{3}/{3}_{2}.png
+name: NGC 3351
+ra_hr: 10.732717552258084
+thumbnail: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403m/thumb.jpg
+zoom_level: 0.3627449617089735
+---
 _uuid: a183b358-2e89-41f4-bde0-f4e07e99c4eb
 angular_size: 1.0
 classification: Galaxy
