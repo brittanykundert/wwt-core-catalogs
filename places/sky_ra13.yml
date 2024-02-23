@@ -193,6 +193,7 @@ _uuid: 39ff14c0-bfb5-4f6b-882d-4955a8aeaaa3
 annotation: '{"channel": "eso", "itemid": "eso0315c", "publishedUTCISO8601": "2003-06-10T00:00:00+00:00"}'
 classification: ''
 constellation: CEN
+cxstatus: in:65d8c470affb32cbf1d96a42
 data_set_type: Sky
 dec_deg: -42.865653418949336
 description: High-resolution, very deep colour image of a field around the jet in
@@ -214,6 +215,7 @@ _uuid: ae849a21-d2ee-4e08-8d64-36f18027203e
 annotation: '{"channel": "eso", "itemid": "eso0315d", "publishedUTCISO8601": "2003-06-10T00:00:00+00:00"}'
 classification: ''
 constellation: CEN
+cxstatus: in:65d8c471affb32cbf1d96a44
 data_set_type: Sky
 dec_deg: -43.16585467421143
 description: High-resolution, very deep colour image of a field in the South of the
@@ -234,6 +236,7 @@ _uuid: 695d1ee0-896c-435f-a266-5d67c498f8bf
 annotation: '{"channel": "eso", "itemid": "eso0315e", "publishedUTCISO8601": "2003-06-10T00:00:00+00:00"}'
 classification: ''
 constellation: CEN
+cxstatus: in:65d8c472affb32cbf1d96a46
 data_set_type: Sky
 dec_deg: -42.8674126752729
 description: Colour composite of &quot;Field 1&quot; (around the jet) in the peculiar
@@ -255,6 +258,7 @@ _uuid: c39f58cb-d69a-4253-bd58-89b0e4e1b983
 annotation: '{"channel": "eso", "itemid": "eso0315f", "publishedUTCISO8601": "2003-06-10T00:00:00+00:00"}'
 classification: ''
 constellation: CEN
+cxstatus: in:65d8c473affb32cbf1d96a48
 data_set_type: Sky
 dec_deg: -43.167671297903375
 description: Colour composites of &quot;Field 2&quot; in the halo of the peculiar
@@ -276,6 +280,7 @@ _uuid: b1f59c04-45c3-4e31-b37d-affc0b83c91f
 annotation: '{"channel": "eso", "itemid": "eso0315g", "publishedUTCISO8601": "2003-06-10T00:00:00+00:00"}'
 classification: ''
 constellation: CEN
+cxstatus: in:65d8c474affb32cbf1d96a4a
 data_set_type: Sky
 dec_deg: -43.161062997748765
 description: Zoomed-in area within &quot;Field 2&quot; (Halo) in Centaurus A, from
@@ -1918,6 +1923,7 @@ _uuid: c509d3a7-dbcc-44d5-b4b1-4803dd84b20c
 angular_size: 1.0
 classification: Galaxy
 constellation: VIR
+cxstatus: in:65d8c47faffb32cbf1d96a60
 data_set_type: Sky
 dec_deg: -1.34472222222222
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003200{Q}?g=138

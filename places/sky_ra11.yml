@@ -18,6 +18,7 @@ _uuid: 86a7c78a-d7ec-4f64-92c6-df4617b364ef
 annotation: '{"channel": "eso", "itemid": "eso0317a", "publishedUTCISO8601": "2003-06-16T00:00:00+00:00"}'
 classification: ''
 constellation: CAR
+cxstatus: in:65d8c474affb32cbf1d96a4c
 data_set_type: Sky
 dec_deg: -61.26038173833077
 description: The region around NGC 3603, a cluster of young, hot O and B-type stars
@@ -1183,6 +1184,7 @@ zoom_level: 0.34563719168
 _uuid: b9763960-9f6d-4d6f-aad5-ee23f41abd06
 classification: ''
 constellation: CAR
+cxstatus: in:65d8c46eaffb32cbf1d96a3e
 data_set_type: Sky
 dec_deg: -61.3085175
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-333L{1}X{2}Y{3}.png
