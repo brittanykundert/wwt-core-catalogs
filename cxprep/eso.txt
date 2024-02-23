@@ -7,7 +7,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0315c/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -19,14 +18,8 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0315c/thumb.jpg
 text> High-resolution, very deep colour image of a field around the jet in the
 North-East of the Centaurus A galaxy. This image was taken in July 1999 through
 U- and V-band optical filters with the VLT FORS1 multi-mode instrument at the
-8.2-m VLT ANTU telescope on Paranal. Note the great variety of object types and
-colours, including many background galaxies which are seen through these less
-dense regions of Centaurus A. The total exposure time was 30 min in each filter
-and the seeing was excellent, 0.5 arcsec. The original pixel size is 0.196
-arcsec and the fields measure 6.7 x 6.7 square arcmin (2048 x 2048 square pix).
-North is up and East is left.
+8.2-m VLT ANTU telescope on Paranal.
 
-wip: yes
 ---
 
 @image
@@ -37,7 +30,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0315d/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -49,14 +41,8 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0315d/thumb.jpg
 text> High-resolution, very deep colour image of a field in the South of the
 Centaurus A galaxy halo. This image was taken in July 1999 through U- and V-band
 optical filters with the VLT FORS1 multi-mode instrument at the 8.2-m VLT ANTU
-telescope on Paranal. Note the great variety of object types and colours,
-including many background galaxies which are seen through these less dense
-regions of Centaurus A. The total exposure time was 30 min in each filter and
-the seeing was excellent, 0.5 arcsec. The original pixel size is 0.196 arcsec
-and the fields measure 6.7 x 6.7 square arcmin (2048 x 2048 square pix). North
-is up and East is left.
+telescope on Paranal.
 
-wip: yes
 ---
 
 @image
@@ -67,7 +53,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0315e/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -76,17 +61,12 @@ image_url: http://data1.wwtassets.org/feeds/eso/eso0315e/L{1}X{2}Y{3}.png
 outgoing_url: https://www.eso.org/public/images/eso0315e/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0315e/thumb.jpg
 
-text> Colour composite of &quot;Field 1&quot; (around the jet) in the peculiar
-galaxy Centaurus A (NGC 5128), based on exposures through three near-infrared
-filters (the J-, H- and K-bands at wavelengths 1.2, 1.6 and 2.2 µm,
-respectively) with the ISAAC multi-mode instrument at the 8.2-m VLT ANTU
-telescope at the ESO Paranal observatory. This ISAAC image is one of the two
-deepest near-infrared images ever obtained in this galaxy and show thousands of
-its stars of different colours. In the present colour-coding, the redder an
-image, the cooler is the star. The original pixel size is 0.15 arcsec and both
-fields measure 2.5 x 2.5 arcmin 2. North is up and East is left.
+text> Colour composite of “Field 1” (around the jet) in the peculiar galaxy
+Centaurus A (NGC 5128), based on exposures through three near-infrared filters
+(the J-, H- and K-bands at wavelengths 1.2, 1.6 and 2.2 µm, respectively) with
+the ISAAC multi-mode instrument at the 8.2-m VLT ANTU telescope at the ESO
+Paranal observatory.
 
-wip: yes
 ---
 
 @image
@@ -97,7 +77,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0315f/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -106,17 +85,12 @@ image_url: http://data1.wwtassets.org/feeds/eso/eso0315f/L{1}X{2}Y{3}.png
 outgoing_url: https://www.eso.org/public/images/eso0315f/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0315f/thumb.jpg
 
-text> Colour composites of &quot;Field 2&quot; in the halo of the peculiar
+text> Colour composites of “Field 2” in the halo of the peculiar
 galaxy Centaurus A (NGC 5128), based on exposures through three near-infrared
 filters (the J-, H- and K-bands at wavelengths 1.2, 1.6 and 2.2 µm,
 respectively) with the ISAAC multi-mode instrument at the 8.2-m VLT ANTU
-telescope at the ESO Paranal observatory. This ISAAC image is one of the two
-deepest near-infrared images ever obtained in this galaxy and shows thousands of
-its stars of different colours. In the present colour-coding, the redder an
-image, the cooler is the star. The original pixel size is 0.15 arcsec and both
-fields measure 2.5 x 2.5 arcmin 2. North is up and East is left.
+telescope at the ESO Paranal observatory.
 
-wip: yes
 ---
 
 @image
@@ -127,7 +101,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0315g/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -136,11 +109,10 @@ image_url: http://data1.wwtassets.org/feeds/eso/eso0315g/L{1}X{2}Y{3}.png
 outgoing_url: https://www.eso.org/public/images/eso0315g/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0315g/thumb.jpg
 
-text> Zoomed-in area within &quot;Field 2&quot; (Halo) in Centaurus A, from the
+text> Zoomed-in area within “Field 2” (halo) in Centaurus A, from the
 ISAAC colour image. Nearly all red stars in this area are of the variable
 Mira-type.
 
-wip: yes
 ---
 
 @image
@@ -151,7 +123,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0317a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -161,14 +132,8 @@ outgoing_url: https://www.eso.org/public/images/eso0317a/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0317a/thumb.jpg
 
 text> The region around NGC 3603, a cluster of young, hot O and B-type stars
-still partly embedded in its natal cloud of gas and dust. A small group of
-nascent, very massive stars has been found to the south of the cluster centre —
-here indicated as &quot;IRS9&quot;. The image was obtained with the ISAAC
-multi-mode instrument at the 8.2-m VLT ANTU telescope at Paranal. The
-orientation and the scale at the distance of NGC 3603 (22,000 light-years) are
-indicated.
+still partly embedded in its natal cloud of gas and dust.
 
-wip: yes
 ---
 
 @image
@@ -179,7 +144,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0322b/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -189,14 +153,13 @@ outgoing_url: https://www.eso.org/public/images/eso0322b/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0322b/thumb.jpg
 
 text> Three-colour composite of the central region of the star-forming region
-W49A, based on a radio emission map (wavelength 3.6 cm ; here rendered as red)
+W49A, based on a radio emission map (wavelength 3.6 cm; here rendered as red)
 as well as two SofI images in the Ks- (green) and J-bands (blue). The red-only
 features in this image represent regions of ionized hydrogen so deeply embedded
 in the molecular cloud that they cannot be detected in the near-infrared, while
 blue sources are foreground stars. The radio continuum data were taken with the
 Very Large Array by Chris De Pree.
 
-wip: yes
 ---
 
 @image
@@ -207,7 +170,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0326a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -219,13 +181,8 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0326a/thumb.jpg
 text> Sky region imaged with the multi-mode FORS2 instrument on the 8.2-m VLT
 YEPUN telescope, in which a number of galaxies in the redshift range from 4.8 to
 5.8 were discovered. They are accordingly located at a distance of about 12,600
-million light-years from the Earth. This is a composite image where the blue,
-green and red colours correspond to the R- (central wavelength at 650 nm), the
-I- (about 780 nm), and the z-band filter (910 nm), respectively. The size of the
-sky field corresponds to about 1,000 million light-years at the distance of
-these galaxies. North is up and East is left.
+million light-years from the Earth.
 
-wip: yes
 ---
 
 @image
@@ -236,7 +193,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0332a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -246,10 +202,8 @@ outgoing_url: https://www.eso.org/public/images/eso0332a/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0332a/thumb.jpg
 
 text> Southern part of the spectacular N44 H II region in the Large Magellanic
-Cloud. The green colour indicates areas that are particularly hot. The field
-measures 27.5 x 26.5 square arcminutes. North is up and East is left. #L
+Cloud. The green colour indicates areas that are particularly hot.
 
-wip: yes
 ---
 
 @image
@@ -260,7 +214,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0332b/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -270,10 +223,8 @@ outgoing_url: https://www.eso.org/public/images/eso0332b/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0332b/thumb.jpg
 
 text> The centre of the associated nebular complex N44 in the Large Magellanic
-Cloud in more detail. The field size is 8.5 x 8.5 square arcminutes. North is up
-and East is left.
+Cloud.
 
-wip: yes
 ---
 
 @image
@@ -284,7 +235,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0332c/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -294,10 +244,9 @@ outgoing_url: https://www.eso.org/public/images/eso0332c/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0332c/thumb.jpg
 
 text> The ionised region DEM L 159 and two clusters with hot stars named KMHK
-840 (top left) and KMHK 831 (bottom right). The colours have been enhanced
-compared to ESO Press Photo eso0332a to clearly show the different shades.
+840 and KMHK 831. The colours have been enhanced to clearly show the different
+shades.
 
-wip: yes
 ---
 
 @image
@@ -308,7 +257,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0332d/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -319,10 +267,8 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0332d/thumb.jpg
 
 text> Region in the Large Magellanic Cloud towards the South of N44 with
 pink-green shades that has been designated DEM L 144. It is a region of ionised
-hydrogen. The colours have been enhanced compared to ESO Press Photo eso0332a to
-clearly show the different shades.
+hydrogen.
 
-wip: yes
 ---
 
 @image
@@ -333,7 +279,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0332e/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -347,7 +292,6 @@ The green colour indicates areas that are particularly hot. The nature of the
 exciting source that delivers the necessary energy has been the subject of
 studies during two decades but is still not known with certainty.
 
-wip: yes
 ---
 
 @image

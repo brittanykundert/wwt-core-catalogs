@@ -5,11 +5,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-317.jpg
 
-credits> X-ray: NASA/CXC/U. Mass/Q.D.Wang; This X-ray/optical composite image
-shows multimillion degree gas (blue/X-ray) rising above the disk of stars and
-cooler gas (gra...
+credits> X-ray: NASA/CXC/U. Mass/Q.D.Wang; optical: NOAO/KPNO
 
-wip: yes
 ---
 
 @scene
@@ -18,9 +15,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-317L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2006/n2841/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-317.jpg
 
-text> NGC 2841
+text> This X-ray/optical composite image of the large spiral galaxy NGC 2841
+shows multimillion degree gas (blue/X-ray) rising above the disk of stars and
+cooler gas (gray/optical). The rapid outflows of gas from giant stars, and
+supernova explosions in the disk of a galaxy create huge shells or bubbles of
+hot gas that expand rapidly and rise above the disk like plumes of smoke from a
+chimney.
 
-wip: yes
 ---
 
 @image
@@ -29,11 +30,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-319.jpg
 
-credits> X-ray: NASA/CXC/AIfA/D.Hudson &; This composite X-ray/radio image of
-Abell 400 shows radio jets (pink), immersed in a vast cloud of multimillion
-degree X-ray emi...
+credits> X-ray: NASA/CXC/AIfA/D.Hudson & T.Reiprich et al.; radio: NRAO/VLA/NRL
 
-wip: yes
 ---
 
 @scene
@@ -42,9 +40,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-319L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2006/a400/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-319.jpg
 
-text> 3C 75 in Abell 400
+text> This composite X-ray (blue)/radio (pink) image of the galaxy cluster Abell
+400 shows radio jets immersed in a vast cloud of multimillion degree X-ray
+emitting gas that pervades the cluster. The jets emanate from the vicinity of
+two supermassive black holes.
 
-wip: yes
 ---
 
 @image
@@ -53,11 +53,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-320.jpg
 
-credits> X-ray: NASA/CXC/JHU/D.Stricklan; Images from three of NASA's Great
-Observatories were combined to create this spectacular, multiwavelength view of
-the starburst ...
+credits> X-ray: NASA/CXC/JHU/D.Strickland; optical: NASA/ESA/STScI/AURA/The
+Hubble Heritage Team; IR: NASA/JPL-Caltech/Univ. of AZ/C. Engelbracht
 
-wip: yes
 ---
 
 @scene
@@ -66,9 +64,9 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-320L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2006/m82/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-320.jpg
 
-text> M82
+text> Images from three of NASA's Great Observatories were combined to create
+this spectacular, multiwavelength view of the starburst galaxy M82.
 
-wip: yes
 ---
 
 @image
@@ -77,11 +75,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-321.jpg
 
-credits> X-ray: NASA/CXC/KIPAC/S.Allen et; This composite image shows a vast
-cloud of hot gas (X-ray/red), surrounding high-energy bubbles (radio/blue) on
-either side of t...
+credits> X-ray: NASA/CXC/KIPAC/S.Allen et al; radio: NRAO/VLA/G.Taylor;
+infrared: NASA/ESA/McMaster Univ./W.Harris
 
-wip: yes
 ---
 
 @scene
@@ -90,9 +86,10 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-321L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2006/bhcen/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-321.jpg
 
-text> NGC 4696
+text> By studying the inner regions of nine elliptical galaxies with Chandra,
+scientists can now estimate the rate at which gas is falling toward the
+galaxies' supermassive black holes.
 
-wip: yes
 ---
 
 @image
@@ -101,11 +98,10 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-323.jpg
 
-credits> Chandra X-ray: NASA/CXC/B.Gaensl; This wide-field composite image was
-made with X-ray (blue/ROSAT & Chandra), radio (green/Very Large Array), and
-optical (red/Di...
+credits> Chandra X-ray: NASA/CXC/B.Gaensler et al; ROSAT X-ray:
+NASA/ROSAT/Asaoka & Aschenbach; radio wide: NRC/DRAO/D.Leahy; radio detail:
+NRAO/VLA; optical: DSS
 
-wip: yes
 ---
 
 @scene
@@ -114,9 +110,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-323L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2006/ic443/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-323.jpg
 
-text> J0617 in IC 443
+text> This wide-field composite image was made with X-ray (blue/ROSAT &
+Chandra), radio (green/Very Large Array), and optical (red/Digitized Sky Survey)
+observations of the supernova remnant, IC 443. The pullout, also a composite
+with a Chandra X-ray close-up, shows a neutron star that is spewing out a
+comet-like wake of high-energy particles as it races through space.
 
-wip: yes
 ---
 
 @image
@@ -125,11 +124,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-324.jpg
 
-credits> NASA/UMass/Z.Li & Q.D.Wang; This color-coded Chandra image (red/low
-energy, green/medium energy, and blue/high energy X-rays) shows the central
-region of th...
+credits> NASA/UMass/Z.Li & Q.D.Wang
 
-wip: yes
 ---
 
 @scene
@@ -138,9 +134,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-324L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2006/m31/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-324.jpg
 
-text> Andromeda Galaxy (M31)
+text> This color-coded Chandra image (red/low energy, green/medium energy, and
+blue/high energy X-rays) shows the central region of the Andromeda Galaxy,
+a.k.a. M31, where a diffuse, X-ray emitting cloud of hot gas was discovered in
+the midst of a collection of point-like sources.
 
-wip: yes
 ---
 
 @image
@@ -149,11 +147,10 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-330.jpg
 
-credits> X-ray: NASA/CXC/CfA/M.Markevitch; This composite image shows the galaxy
-cluster 1E 0657-56, also known as the "bullet cluster", formed after the
-collision of two ...
+credits> X-ray: NASA/CXC/CfA/M.Markevitch et al.; optical: NASA/STScI;
+Magellan/U.Arizona/D.Clowe et al.; lensing map: NASA/STScI; ESO WFI;
+Magellan/U.Arizona/D.Clowe et al.
 
-wip: yes
 ---
 
 @scene
@@ -162,9 +159,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-330L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2006/1e0657/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-330.jpg
 
-text> 1E 0657-56
+text> This composite image shows the galaxy cluster 1E 0657-56, also known as
+the “bullet cluster.” This cluster was formed after the collision of two large
+clusters of galaxies, the most energetic event known in the universe since the
+Big Bang.
 
-wip: yes
 ---
 
 @image
@@ -173,11 +172,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-333.jpg
 
-credits> NASA/CXC/Penn State/L.Townsley e; Chandra's image of NGC 3576
-(lower-energy X-rays in red, higher-energy X-rays in blue) reveals a cluster of
-point-like X-ray sou...
+credits> NASA/CXC/Penn State/L.Townsley et al.
 
-wip: yes
 ---
 
 @scene
@@ -186,9 +182,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-333L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2006/ngc3576/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-333.jpg
 
-text> NGC 3576
+text> NGC 3576 is a giant HII region of glowing gas located about 9,000 light
+years from Earth. In the Chandra image of this star forming region, lower-energy
+X-rays (0.5-2.0 keV) are shown in red and higher-energy X-rays (2-8 keV) are in
+blue.
 
-wip: yes
 ---
 
 @image
@@ -197,11 +195,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-334.jpg
 
-credits> X-ray: NASA/CXC/CfA/W.Forman et ; A long Chandra exposure of M87 has
-revealed a shock wave in high-energy X-rays as well as evidence for a series of
-outbursts fro...
+credits> X-ray: NASA/CXC/CfA/W.Forman et al.; optical: DSS
 
-wip: yes
 ---
 
 @scene
@@ -210,9 +205,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-334L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2006/m87/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-334.jpg
 
-text> M87
+text> A striking example of the power and effervescence of supermassive black
+holes is shown in this composite image of the elliptical galaxy M87 in the Virgo
+Cluster. The features in this image imply that outbursts and deep sounds have
+been generated by the black hole for eons.
 
-wip: yes
 ---
 
 @image
