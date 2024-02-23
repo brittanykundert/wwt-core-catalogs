@@ -536,6 +536,7 @@ _uuid: 1d8745ac-bbbe-49d3-a48f-a85c84f46627
 annotation: '{"channel": "eso", "itemid": "eso0332a", "publishedUTCISO8601": "2003-11-03T00:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:65d8c477affb32cbf1d96a52
 data_set_type: Sky
 dec_deg: -67.96018256663237
 description: 'Southern part of the spectacular N44 H II region in the Large Magellanic
@@ -551,6 +552,7 @@ _uuid: 5d9518eb-7c42-4972-9871-38b08696c270
 annotation: '{"channel": "eso", "itemid": "eso0332b", "publishedUTCISO8601": "2003-11-03T00:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:65d8c478affb32cbf1d96a54
 data_set_type: Sky
 dec_deg: -67.93168031506201
 description: The centre of the associated nebular complex N44 in the Large Magellanic
@@ -566,6 +568,7 @@ _uuid: 55442e13-36bf-4a3e-aa55-3ea62e9635db
 annotation: '{"channel": "eso", "itemid": "eso0332c", "publishedUTCISO8601": "2003-11-03T00:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:65d8c479affb32cbf1d96a56
 data_set_type: Sky
 dec_deg: -68.13743414022802
 description: The ionised region DEM L 159 and two clusters with hot stars named KMHK
@@ -581,6 +584,7 @@ _uuid: f0fd5deb-8f86-4053-8893-7afa69e04cf7
 annotation: '{"channel": "eso", "itemid": "eso0332d", "publishedUTCISO8601": "2003-11-03T00:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:65d8c47aaffb32cbf1d96a58
 data_set_type: Sky
 dec_deg: -68.1817839744483
 description: Region in the Large Magellanic Cloud towards the South of N44 with pink-green
@@ -597,6 +601,7 @@ _uuid: ba62c235-85cf-4d5a-a173-5196f3aca477
 annotation: '{"channel": "eso", "itemid": "eso0332e", "publishedUTCISO8601": "2003-11-03T00:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:65d8c47baffb32cbf1d96a5a
 data_set_type: Sky
 dec_deg: -67.99108392184908
 description: Part of the central nebula, known as N44C, in the Large Magellanic Cloud.
@@ -3966,6 +3971,7 @@ _uuid: 3d5a2858-5dda-4139-b2a3-3659c2f9bac9
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: DOR
+cxstatus: in:65d8c480affb32cbf1d96a62
 data_set_type: Sky
 dec_deg: -69.0997222222222
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003210{Q}?g=138

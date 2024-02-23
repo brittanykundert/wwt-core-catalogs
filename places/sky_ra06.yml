@@ -760,6 +760,7 @@ zoom_level: 0.1159185088512
 _uuid: caf4f691-d8e0-4af1-bbb0-c6232a3a7753
 classification: ''
 constellation: GEM
+cxstatus: in:65d8c46baffb32cbf1d96a38
 data_set_type: Sky
 dec_deg: 22.660073
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-323L{1}X{2}Y{3}.png
@@ -771,6 +772,7 @@ zoom_level: 5.29188196111059
 _uuid: ce9ecbb5-6e1e-427b-b56c-1538d853b131
 classification: ''
 constellation: CAR
+cxstatus: in:65d8c46daffb32cbf1d96a3c
 data_set_type: Sky
 dec_deg: -55.9597414809
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-330L{1}X{2}Y{3}.png
