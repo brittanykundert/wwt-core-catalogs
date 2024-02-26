@@ -7,7 +7,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0338a/thumb.jpg
 
 credits> ESO/P.D. Barthel
 
-wip: yes
 ---
 
 @scene
@@ -18,12 +17,8 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0338a/thumb.jpg
 
 text> This image of the barred spiral galaxy NGC 613 was obtained with the FORS1
 and FORS2 multi-mode instruments (at VLT MELIPAL and YEPUN, respectively) on
-December 16-18, 2001. It is a composite of three exposures in different
-wavebands, cf. the technical note below. The full-resolution version of this
-photo retains the original pixels. Note the many arms and the pronounced dust
-bands. North is up and East is left.
+December 16-18, 2001.
 
-wip: yes
 ---
 
 @image
@@ -34,7 +29,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0338b/thumb.jpg
 
 credits> ESO/P. Barthel
 
-wip: yes
 ---
 
 @scene
@@ -46,14 +40,8 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0338b/thumb.jpg
 text> Colour composite image of the starburst spiral galaxy NGC 1792 obtained
 with the FORS1 and FORS2 multi-mode instruments (at VLT MELIPAL and YEPUN,
 respectively). Its optical appearance of NGC 1792 is quite chaotic, due to the
-patchy distribution of dust throughout the disc of this galaxy. It is very rich
-in neutral hydrogen gas - fuel for the formation of new stars - and is indeed
-rapidly forming such stars. The galaxy is characterized by unusually luminous
-far-infrared radiation ; this is due to dust heated by young stars. Note the
-numerous background galaxies in this sky field. North is up and East is to the
-left.
+patchy distribution of dust throughout the disc of this galaxy.
 
-wip: yes
 ---
 
 @image
@@ -64,7 +52,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0338c/thumb.jpg
 
 credits> ESO/P. Barthel
 
-wip: yes
 ---
 
 @scene
@@ -73,24 +60,9 @@ image_url: http://data1.wwtassets.org/feeds/eso/eso0338c/L{1}X{2}Y{3}.png
 outgoing_url: https://www.eso.org/public/images/eso0338c/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0338c/thumb.jpg
 
-text> NGC 3627, also known as Messier 66, i.e. it is the 66th object in the
-famous catalogue of nebulae by French astronomer Charles Messier (1730 - 1817).
-It is located in the constellation Leo (The Lion). NGC 3627 is a beautiful
-spiral with a well-developed central bulge. It also displays large-scale dust
-lanes. Many regions of warm hydrogen gas are seen throughout the disc of this
-galaxy. The latter regions are being ionised by radiation from clusters of
-newborn stars. Very active star-formation is most likely also occurring in the
-nuclear regions of NGC 3627. The galaxy forms, together with its neighbours M 65
-and NGC 3628, the so-called &quot;Leo Triplet&quot; ; they are located at a
-distance of about 35 million light-years. M 66 is the largest of the three. Its
-spiral arms appear distorted and displaced above the main plane of the galaxy.
-The asymmetric appearance is most likely due to gravitational interaction with
-its neighbours. This photo of the spiral galaxy M 66 (or NGC 3627) was obtained
-with the FORS1 and FORS2 multi-mode instruments (at VLT MELIPAL and YEPUN,
-respectively) on December 16-18, 2001. It is a composite of three exposures in
-different wavebands. North is towards upper left, West towards upper right.
+text> NGC 3627, also known as Messier 66, is a beautiful spiral with a
+well-developed central bulge. It also displays large-scale dust lanes.
 
-wip: yes
 ---
 
 @image
@@ -101,7 +73,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0413a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -112,15 +83,8 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0413a/thumb.jpg
 
 text> Colour-composite image showing the triplet of galaxies NGC 6769, 6770 and
 NGC 6771, as observed with the VIMOS instrument on Melipal, one of the four
-8.2-m Unit Telescopes of ESO&#x27;s Very Large Telescope. The images were
-obtained on the morning of April 1, 2004 during twilight in three different
-wavebands, each of which is here being represented by a different colour: U
-(around 380 nm; associated to the Blue channel) ; B (425 nm ; Green channel) and
-V (550 nm ; Red channel). The total exposure time in the U, B and V bands is,
-respectively, 20, 6 and 12 minutes. The mean seeing was around 0.9 arcsec. The
-field shown measures 6.1 x 6.8 square arcmin. North is up and East is left.
+8.2-m Unit Telescopes of ESO’s Very Large Telescope.
 
-wip: yes
 ---
 
 @image
@@ -131,7 +95,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0415a/thumb.jpg
 
 credits> DSS
 
-wip: yes
 ---
 
 @scene
@@ -142,10 +105,8 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0415a/thumb.jpg
 
 text> Sky field in the southern constellation Carina (The Ship Keel) with the
 images of the star OGLE-TR-113, around which a transiting exoplanet has been
-identified. The field measures 10 x 10 square arcmin; North is up and East is
-left. This image has been reproduced from the Digitized Sky Survey (DSS).
+identified. This image has been reproduced from the Digitized Sky Survey (DSS).
 
-wip: yes
 ---
 
 @image
@@ -156,7 +117,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0415b/thumb.jpg
 
 credits> DSS
 
-wip: yes
 ---
 
 @scene
@@ -167,11 +127,9 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0415b/thumb.jpg
 
 text> Sky field in the southern constellation Carina (The Ship Keel) with the
 images of the star OGLE-TR-132, around which a transiting extra-solar planet
-(exoplanet) has been identified. The field measures 10 x 10 square arcmin; North
-is up and East is left. This image has been reproduced from the Digitized Sky
-Survey (DSS).
+(exoplanet) has been identified. This image has been reproduced from the
+Digitized Sky Survey (DSS).
 
-wip: yes
 ---
 
 @image
@@ -182,7 +140,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0416a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -193,10 +150,8 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0416a/thumb.jpg
 
 text> Three-colour composite of the sky region of M 17, a H II region excited by
 a cluster of young, hot stars. A large silhouette disc has been found to the
-south-west of the cluster centre. The present image was obtained with the ISAAC
-near-infrared instrument at the 8.2-m VLT ANTU telescope at Paranal.
+south-west of the cluster centre.
 
-wip: yes
 ---
 
 @image
@@ -207,7 +162,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0416b/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -218,12 +172,9 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0416b/thumb.jpg
 
 text> Three-colour composite of the sky region of M 17, a H II region excited by
 a cluster of young, hot stars. A large silhouette disc has been found to the
-south-west of the cluster centre. The present image was obtained with the ISAAC
-near-infrared instrument at the 8.2-m VLT ANTU telescope at Paranal. The
-orientation and the scale at the distance of M 17 (7,000 light-years) are
-indicated, and the main regions are identified.
+south-west of the cluster centre. The orientation and the scale at the distance
+of M 17 (7,000 light-years) are indicated, and the main regions are identified.
 
-wip: yes
 ---
 
 @image
@@ -234,7 +185,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0419b/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -245,10 +195,9 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0419b/thumb.jpg
 
 text> Very massive galaxy cluster RXCJ1131.9-1955 at redshift z = 0.306 in a
 very rich galaxy field with two major concentrations. It was originally found by
-George Abell and designated &quot;Abell 1300&quot;. The image was obtained with
+George Abell and designated “Abell 1300”. The image was obtained with
 the ESO/MPG 2.2-m telescope and the WFI camera at La Silla.
 
-wip: yes
 ---
 
 @image
@@ -259,7 +208,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0419c/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -270,12 +218,8 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0419c/thumb.jpg
 
 text> Nearby galaxy group RXCJ0937.9-2020 at a redshift of z = 0.034. It is
 dominated by the massive elliptical galaxy seen at the top of the image. The
-photo covers only the southern part of this group. Such galaxy groups with
-typical masses of a few 1013 solar masses constitute the smallest objects
-included in the REFLEX catalogue. This image was obtained with the FORS1
-multi-mode instrument on the ESO 8.2-m VLT Antu telescope.
+photo covers only the southern part of this group.
 
-wip: yes
 ---
 
 @image
@@ -286,7 +230,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0421a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -295,20 +238,12 @@ image_url: http://data1.wwtassets.org/feeds/eso/eso0421a/L{1}X{2}Y{3}.png
 outgoing_url: https://www.eso.org/public/images/eso0421a/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0421a/thumb.jpg
 
-text> The individual images of the Orion Nebula where obtained with WFI at the
-ESO/MPG 2.2m telescope on the night of Dec.10-11, 2001. Several images were
-obtained in the following filters: U (363.690 nm; 15 images for a total exposure
-time of 1.25 hour); B (456.252 nm; 14 images; total exp.: 21 min); Oxygen [OIII]
-(502.393 nm; 15 images; total exp.: 32 min); Halpha (658.827 nm; 15 images;
-total exp.: 32 min); Sulphur [SII] (676.340 nm; 10 images; total exp.: 30 min).
-ESO Press Photo eso0421 is a false-colour composite of all of the images
-obtained in B, Halpha, [OIII], and [SII] where each waveband was associated to a
-given colour: B to blue, [OIII] to green; Halpha to orange, and [SII] to red.
-The field of view covers 34 x 33 arcmin2. North is up and East is to the left.
-The images were first processed by Massimo Robberto (STSci) then further
-combined by Hännes Heyer and Henri Boffin (ESO).
+text> Individual images of the Orion Nebula were obtained with WFI at the
+ESO/MPG 2.2m telescope on the night of Dec. 10–11, 2001. This photo is a
+false-colour composite of images obtained in B, Halpha, [OIII], and [SII] where
+each waveband was associated to a given colour: B to blue, [OIII] to green;
+Halpha to orange, and [SII] to red.
 
-wip: yes
 ---
 
 @image
@@ -319,7 +254,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0422a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -328,14 +262,10 @@ image_url: http://data1.wwtassets.org/feeds/eso/eso0422a/L{1}X{2}Y{3}.png
 outgoing_url: https://www.eso.org/public/images/eso0422a/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0422a/thumb.jpg
 
-text> Small region in the K20 field centred on a z=1.9 redshift galaxy. The
-image is based on frames acquired by the Advanced Camera for Surveys (ACS) on
-the Hubble Space Telescope in the framework of the GOODS Public HST Treasury
-Program (P.I. M. Giavalisco, STScI, Baltimore, USA). They show the real colours
-of the galaxies. The four old massive spheroidal galaxies discovered in this
-survey appear very red compared to the other faint galaxies.
+text> Small region in the K20 field centered on a z=1.9 redshift galaxy. The
+four old massive spheroidal galaxies discovered in this survey appear very red
+compared to the other faint galaxies.
 
-wip: yes
 ---
 
 @image

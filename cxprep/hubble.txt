@@ -7,7 +7,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=90363740
 
 credits> NASA, ESA, M.J. Jee and H. Ford (Johns Hopkins University)
 
-wip: yes
 ---
 
 @scene
@@ -15,9 +14,11 @@ place_uuid: 17202384-c1c6-4c06-9461-44a38f2d7d51
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003310{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-17.html
 
-text> Hubble Finds Dark Matter Ring in Galaxy Cluster
+text> Astronomers using NASA's Hubble Space Telescope have discovered a ghostly
+ring of dark matter that formed long ago during a titanic collision between two
+massive galaxy clusters. The ring's discovery is among the strongest evidence
+yet that dark matter exists.
 
-wip: yes
 ---
 
 @image
@@ -26,12 +27,11 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=75859957
 
-credits> Image Credits: NASA, ESA, and Martino Romaniello (European Southern
-Observatory, Germany); acknowledgments: The image processing for this image was
-done by Martino Romaniello, Richard Hook, Bob Fosbury and the Hubble European
-Space Agency Information Center.
+credits> NASA, ESA, and Martino Romaniello (European Southern Observatory,
+Germany); acknowledgments: The image processing for this image was done by
+Martino Romaniello, Richard Hook, Bob Fosbury and the Hubble European Space
+Agency Information Center.
 
-wip: yes
 ---
 
 @scene
@@ -39,10 +39,11 @@ place_uuid: 9448ffdf-11a6-4245-80e8-e94048c85b47
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003320{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-25.html
 
-text> Double Cluster NGC 1850: Second Brightest Star Cluster in the Large
-Magellanic Cloud
+text> These two dazzling clusters of stars, called NGC 1850, are found in one of
+our neighboring galaxies, the Large Magellanic Cloud. The photo's centerpiece is
+a young, “globular-like” star cluster — a type of object unknown in our own
+Milky Way Galaxy.
 
-wip: yes
 ---
 
 @image
@@ -52,7 +53,7 @@ license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1646351688
 
 credits> NASA, H. Ford (JHU), G. Illingworth (UCSC/LO), M.Clampin (STScI), G.
-Hartig (STScI), the ACS Science Team, and ESA The ACS Science Team: H. Ford, G.
+Hartig (STScI), the ACS Science Team, and ESA; the ACS Science Team: H. Ford, G.
 Illingworth, M. Clampin, G. Hartig, T. Allen, K. Anderson, F. Bartko, N.
 Benitez, J. Blakeslee, R. Bouwens, T. Broadhurst, R. Brown, C. Burrows, D.
 Campbell, E. Cheng, N. Cross, P. Feldman, M. Franx, D. Golimowski, C. Gronwall,
@@ -60,17 +61,18 @@ R. Kimble, J. Krist, M. Lesser, D. Magee, A. Martel, W. J. McCann, G. Meurer, G.
 Miley, M. Postman, P. Rosati, M. Sirianni, W. Sparks, P. Sullivan, H. Tran, Z.
 Tsvetanov, R. White, and R. Woodruff.
 
-wip: yes
 ---
 
 @scene
 place_uuid: 2b288222-441e-4d86-8851-b95a491f5da0
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003330{Q}?g=138
-outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-11.html
+outgoing_url: https://hubblesite.org/contents/media/images/2002/11/1192-Image.html?news=true
 
-text> Omega Nebula;Swan Nebula;M17;Messier 17
+text> Peering into a celestial maternity ward called the Omega Nebula or M17,
+Hubble’s Advanced Camera for Surveys (ACS) revealed a watercolor fantasy-world
+of glowing gases, where stars and perhaps embryonic planetary systems are
+forming.
 
-wip: yes
 ---
 
 @image
@@ -80,11 +82,10 @@ license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1354558490
 
 credits> NASA, J. English (U. Manitoba), S. Hunsberger, S. Zonak, J. Charlton,
-S. Gallagher (PSU), and L. Frattare (STScI) Science Credit: NASA, C. Palma, S.
+S. Gallagher (PSU), and L. Frattare (STScI); science Credit: NASA, C. Palma, S.
 Zonak, S. Hunsberger, J. Charlton, S. Gallagher, P. Durrell (The Pennsylvania
 State University) and J. English (University of Manitoba)
 
-wip: yes
 ---
 
 @scene
@@ -92,9 +93,13 @@ place_uuid: b4d1ee84-a359-45c2-ab32-ede6d66c55e2
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010000{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-22.html
 
-text> Seyfert's Sextet: Four Colliding Galaxies, and Two Bystanders
+text> NASA's Hubble Space Telescope is witnessing a grouping of galaxies
+engaging in a slow dance of destruction that will last for billions of years.
+The galaxies are so tightly packed together that gravitational forces are
+beginning to rip stars from them and distort their shapes. Those same
+gravitational forces eventually could bring the galaxies together to form one
+large galaxy. 
 
-wip: yes
 ---
 
 @image
@@ -105,7 +110,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=11837615
 
 credits> Kirk Borne (STScI), and NASA
 
-wip: yes
 ---
 
 @scene
@@ -113,9 +117,10 @@ place_uuid: 3fc7d6a8-0d66-4540-afb6-0d70d7080ff6
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010010{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/1995/news-1995-02.html
 
-text> Cartwheel Galaxy
+text> A rare and spectacular head-on collision between two galaxies appears in
+this Hubble telescope picture of the Cartwheel Galaxy, located 500 million
+light-years from Earth in the constellation Sculptor.
 
-wip: yes
 ---
 
 @image
@@ -126,7 +131,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=25422088
 
 credits> NASA and The Hubble Heritage Team (STScI/AURA)
 
-wip: yes
 ---
 
 @scene
@@ -134,9 +138,12 @@ place_uuid: 29558496-7cf8-4ea7-814a-3522e5e5ea4a
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010020{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-15.html
 
-text> Details of Supernova Remnant Cassiopeia A
+text> Glowing gaseous streamers of red, white, and blue – as well as green and
+pink – illuminate the heavens like Fourth of July fireworks. The colorful
+streamers that float across the sky in this photo taken by NASA's Hubble Space
+Telescope were created by the universe's biggest firecracker, the titanic
+supernova explosion of a massive star
 
-wip: yes
 ---
 
 @image
@@ -145,10 +152,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=175727998
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment : Bo
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment: Bo
 Reipurth (University of Hawaii)
 
-wip: yes
 ---
 
 @scene
@@ -156,10 +162,11 @@ place_uuid: 65617ba8-3943-4c62-97f9-879b8e42a03f
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010030{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-01.html
 
-text> Thackeray's Globules: Dense, Opaque Dust Clouds in Star-Forming Region IC
-2944
+text> Strangely glowing dark clouds float serenely in this remarkable and
+beautiful image taken with the Hubble Space Telescope. These dense, opaque dust
+clouds — known as “globules” — are silhouetted against nearby bright stars in
+the busy star-forming region, IC 2944.
 
-wip: yes
 ---
 
 @image
@@ -171,7 +178,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=14191724
 credits> NASA, N. Walborn and J. Maíz-Apellániz (Space Telescope Science
 Institute, Baltimore, MD), R. Barbá (La Plata Observatory, La Plata, Argentina)
 
-wip: yes
 ---
 
 @scene
@@ -179,9 +185,12 @@ place_uuid: 3a10ffaa-6894-4627-a4f3-af1dde10dcad
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010100{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-21.html
 
-text> Vast Star-Forming Region 30 Doradus
+text> NASA's Hubble Space Telescope has snapped a panoramic portrait of a vast,
+sculpted landscape of gas and dust where thousands of stars are being born. This
+fertile star-forming region, called the 30 Doradus Nebula, has a sparkling
+stellar centerpiece: the most spectacular cluster of massive stars in our cosmic
+neighborhood of about 25 galaxies.
 
-wip: yes
 ---
 
 @image
@@ -190,19 +199,20 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1944819974
 
-credits> Torsten Boeker, Space Telescope Science Institute (STScI) , and NASA
+credits> Torsten Boeker, Space Telescope Science Institute (STScI), and NASA
 
-wip: yes
 ---
 
 @scene
 place_uuid: 1591f847-91ff-470b-9388-b52c7434d017
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010110{Q}?g=138
-outgoing_url: http://hubblesite.org/contents/news-releases/1999/news-1999-10.html
+outgoing_url: https://hubblesite.org/contents/media/images/1999/10/789-Image.html?news=true
 
-text> Close-Up of Galaxy NGC 2903 in Infrared
+text> Astronomers have used the Hubble telescope to produce an infrared “photo
+essay” of spiral galaxies. By penetrating the dust clouds swirling around the
+centers of these galaxies, the telescope's infrared vision is offering fresh
+views of star birth.
 
-wip: yes
 ---
 
 @image
