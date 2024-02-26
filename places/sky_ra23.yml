@@ -709,6 +709,7 @@ _uuid: 29558496-7cf8-4ea7-814a-3522e5e5ea4a
 angular_size: 1.0
 classification: SupernovaRemnant
 constellation: CAS
+cxstatus: in:65dcd001affb32cbf1d96fc5
 data_set_type: Sky
 dec_deg: 58.8169444444444
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010020{Q}?g=138
@@ -993,6 +994,7 @@ zoom_level: 0.44561424384
 _uuid: 828fe617-2f17-4a2c-b816-1ab0b98d51dd
 classification: ''
 constellation: CAS
+cxstatus: in:65dccfecaffb32cbf1d96f93
 data_set_type: Sky
 dec_deg: 58.840324072004
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-337L{1}X{2}Y{3}.png

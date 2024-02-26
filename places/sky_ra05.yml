@@ -618,6 +618,7 @@ _uuid: bc389381-907a-4ce9-95e0-e38308c4f316
 annotation: '{"channel": "eso", "itemid": "eso0338b", "publishedUTCISO8601": "2003-12-19T00:00:00+00:00"}'
 classification: ''
 constellation: COL
+cxstatus: in:65dccff4affb32cbf1d96fa5
 data_set_type: Sky
 dec_deg: -37.98037126664619
 description: Colour composite image of the starburst spiral galaxy NGC 1792 obtained
@@ -638,6 +639,7 @@ _uuid: 98e54b10-7dfb-4528-bc99-d3b457d3c8aa
 annotation: '{"channel": "eso", "itemid": "eso0421a", "publishedUTCISO8601": "2004-06-30T00:00:00+00:00"}'
 classification: ''
 constellation: ORI
+cxstatus: in:65dccffbaffb32cbf1d96fb7
 data_set_type: Sky
 dec_deg: -5.385526187095931
 description: ' The individual images of the Orion Nebula where obtained with WFI at
@@ -3983,6 +3985,7 @@ _uuid: 9448ffdf-11a6-4245-80e8-e94048c85b47
 angular_size: 1.0
 classification: GlobularCluster
 constellation: DOR
+cxstatus: in:65dccffeaffb32cbf1d96fbd
 data_set_type: Sky
 dec_deg: -68.7636111111111
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003320{Q}?g=138
@@ -3995,6 +3998,7 @@ _uuid: 3a10ffaa-6894-4627-a4f3-af1dde10dcad
 angular_size: 1.0
 classification: Nebula
 constellation: DOR
+cxstatus: in:65dcd003affb32cbf1d96fc9
 data_set_type: Sky
 dec_deg: -69.0922222222222
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010100{Q}?g=138
@@ -4528,6 +4532,7 @@ zoom_level: 0.906313728
 _uuid: 1e0cfd6a-ed01-4321-8ee7-81dc4fc968fd
 classification: ''
 constellation: DOR
+cxstatus: in:65dccfedaffb32cbf1d96f95
 data_set_type: Sky
 dec_deg: -66.08055863528
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-338L{1}X{2}Y{3}.png
@@ -4539,6 +4544,7 @@ zoom_level: 0.21309784064
 _uuid: 94390bf6-50e8-4613-9dfb-dfbb1ecbbbca
 classification: ''
 constellation: DOR
+cxstatus: in:65dccff1affb32cbf1d96f9f
 data_set_type: Sky
 dec_deg: -69.268967405
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-346L{1}X{2}Y{3}.png

@@ -37,6 +37,7 @@ _uuid: b2f84d3e-3667-4cda-a6f8-abfe5136e87b
 annotation: '{"channel": "eso", "itemid": "eso0338c", "publishedUTCISO8601": "2003-12-19T00:00:00+00:00"}'
 classification: ''
 constellation: LEO
+cxstatus: in:65dccff4affb32cbf1d96fa7
 data_set_type: Sky
 dec_deg: 12.991895288686958
 description: NGC 3627, also known as Messier 66, i.e. it is the 66th object in the
@@ -65,6 +66,7 @@ _uuid: 0caeb793-400b-4ad7-853f-08404e1f8231
 annotation: '{"channel": "eso", "itemid": "eso0419b", "publishedUTCISO8601": "2004-06-03T00:00:00+00:00"}'
 classification: ''
 constellation: CRT
+cxstatus: in:65dccffaaffb32cbf1d96fb3
 data_set_type: Sky
 dec_deg: -19.932538127450535
 description: Very massive galaxy cluster RXCJ1131.9-1955 at redshift z = 0.306 in
@@ -1014,6 +1016,7 @@ _uuid: 65617ba8-3943-4c62-97f9-879b8e42a03f
 angular_size: 1.0
 classification: Nebula
 constellation: CEN
+cxstatus: in:65dcd002affb32cbf1d96fc7
 data_set_type: Sky
 dec_deg: -63.3436111111111
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010030{Q}?g=138

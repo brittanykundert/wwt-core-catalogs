@@ -69,6 +69,7 @@ _uuid: a5400841-451e-4b7a-8ff0-3021d68395b7
 annotation: '{"channel": "eso", "itemid": "eso0415a", "publishedUTCISO8601": "2004-05-07T00:00:00+00:00"}'
 classification: ''
 constellation: CAR
+cxstatus: in:65dccff6affb32cbf1d96fab
 data_set_type: Sky
 dec_deg: -61.446869776227196
 description: Sky field in the southern constellation Carina (The Ship Keel) with the
@@ -85,6 +86,7 @@ _uuid: 0f96bb2a-f1e5-4e5e-9f48-4f838b780131
 annotation: '{"channel": "eso", "itemid": "eso0415b", "publishedUTCISO8601": "2004-05-07T00:00:00+00:00"}'
 classification: ''
 constellation: CAR
+cxstatus: in:65dccff7affb32cbf1d96fad
 data_set_type: Sky
 dec_deg: -61.95620701611645
 description: Sky field in the southern constellation Carina (The Ship Keel) with the
