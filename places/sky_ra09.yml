@@ -2,6 +2,7 @@ _uuid: a8706db4-4378-498a-bc4f-841e8acf9504
 annotation: '{"channel": "eso", "itemid": "eso0419c", "publishedUTCISO8601": "2004-06-03T00:00:00+00:00"}'
 classification: ''
 constellation: HYA
+cxstatus: in:65dccffaaffb32cbf1d96fb5
 data_set_type: Sky
 dec_deg: -20.39345013823487
 description: Nearby galaxy group RXCJ0937.9-2020 at a redshift of z = 0.034. It is
@@ -471,6 +472,7 @@ _uuid: 1591f847-91ff-470b-9388-b52c7434d017
 angular_size: 1.0
 classification: SpiralGalaxy
 constellation: LEO
+cxstatus: in:65dcd004affb32cbf1d96fcb
 data_set_type: Sky
 dec_deg: 21.5038888888889
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010110{Q}?g=138

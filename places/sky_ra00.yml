@@ -1287,6 +1287,7 @@ _uuid: 17202384-c1c6-4c06-9461-44a38f2d7d51
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: PSC
+cxstatus: in:65dccffdaffb32cbf1d96fbb
 data_set_type: Sky
 dec_deg: 17.1647222222222
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003310{Q}?g=138
@@ -1298,6 +1299,7 @@ _uuid: 3fc7d6a8-0d66-4540-afb6-0d70d7080ff6
 angular_size: 1.0
 classification: Galaxy
 constellation: SCL
+cxstatus: in:65dcd000affb32cbf1d96fc3
 data_set_type: Sky
 dec_deg: -33.71
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010010{Q}?g=138

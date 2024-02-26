@@ -190,6 +190,7 @@ _uuid: 1f0211d8-d31b-496b-b9e5-0d2b55771f7d
 annotation: '{"channel": "eso", "itemid": "eso0416a", "publishedUTCISO8601": "2004-05-12T00:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:65dccff8affb32cbf1d96faf
 data_set_type: Sky
 dec_deg: -16.173646290450552
 description: Three-colour composite of the sky region of M 17, a H II region excited
@@ -206,6 +207,7 @@ _uuid: a56a5e93-2467-44cd-9dd2-3256a4ab0a82
 annotation: '{"channel": "eso", "itemid": "eso0416b", "publishedUTCISO8601": "2004-05-12T00:00:00+00:00"}'
 classification: ''
 constellation: SGR
+cxstatus: in:65dccff9affb32cbf1d96fb1
 data_set_type: Sky
 dec_deg: -16.173231608328916
 description: Three-colour composite of the sky region of M 17, a H II region excited
@@ -1789,6 +1791,7 @@ _uuid: 2b288222-441e-4d86-8851-b95a491f5da0
 angular_size: 1.0
 classification: Nebula
 constellation: SGR
+cxstatus: in:65dccfffaffb32cbf1d96fbf
 data_set_type: Sky
 dec_deg: -16.1566666666667
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003330{Q}?g=138
@@ -2047,6 +2050,7 @@ zoom_level: 0.71727710208
 _uuid: 41bb88b9-0937-4260-98c3-a20c53fa27b2
 classification: ''
 constellation: SGR
+cxstatus: in:65dccfefaffb32cbf1d96f9b
 data_set_type: Sky
 dec_deg: -19.44174413891
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-344L{1}X{2}Y{3}.png
@@ -2058,6 +2062,7 @@ zoom_level: 0.70660702208
 _uuid: 1e3d9c34-f647-4f91-be7d-9afdfdf0878c
 classification: ''
 constellation: SER2
+cxstatus: in:65dccff0affb32cbf1d96f9d
 data_set_type: Sky
 dec_deg: -13.80295277781
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-345L{1}X{2}Y{3}.png
