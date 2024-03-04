@@ -1311,6 +1311,7 @@ _uuid: a66ed820-c415-4b93-8c8a-431321cae5ec
 angular_size: 1.0
 classification: Galaxy
 constellation: CET
+cxstatus: in:65e5f100affb32cbf1d97d2f
 data_set_type: Sky
 dec_deg: -12.1069444444444
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013102{Q}?g=131
@@ -1562,6 +1563,7 @@ zoom_level: 3.18549950464
 _uuid: 7e98bbd4-d796-4fb0-8ea3-ea4e59362d9d
 classification: ''
 constellation: AND
+cxstatus: in:65e5f0e6affb32cbf1d97cf5
 data_set_type: Sky
 dec_deg: 41.268814
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-355L{1}X{2}Y{3}.png

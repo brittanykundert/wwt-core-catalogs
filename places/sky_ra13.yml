@@ -295,6 +295,7 @@ _uuid: 11b2b479-fccc-4d73-a3f2-fa82bc9bbcd5
 annotation: '{"channel": "eso", "itemid": "eso0434a", "publishedUTCISO8601": "2004-11-18T00:00:00+00:00"}'
 classification: ''
 constellation: CEN
+cxstatus: in:65e5f0e8affb32cbf1d97cfb
 data_set_type: Sky
 dec_deg: -31.64059487491888
 description: Composite colour-coded image of the small starburst galaxy NGC 5253,
@@ -314,6 +315,7 @@ _uuid: 355b92cb-0e19-49b7-87e6-b9b877602ff4
 annotation: '{"channel": "eso", "itemid": "eso0434b", "publishedUTCISO8601": "2004-11-18T00:00:00+00:00"}'
 classification: ''
 constellation: CEN
+cxstatus: in:65e5f0e9affb32cbf1d97cfd
 data_set_type: Sky
 dec_deg: -31.641377343658796
 description: Composite colour-coded image of the small starburst galaxy NGC 5253,
@@ -1935,6 +1937,7 @@ _uuid: f2538675-cf16-4929-b68f-99ddda3e083a
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: VIR
+cxstatus: in:65e5f101affb32cbf1d97d31
 data_set_type: Sky
 dec_deg: 0.834416666666667
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013110{Q}?g=182
@@ -1946,6 +1949,7 @@ _uuid: ab420b8a-0657-4097-a631-5b01712ec475
 angular_size: 1.0
 classification: Galaxy
 constellation: HYA
+cxstatus: in:65e5f103affb32cbf1d97d35
 data_set_type: Sky
 dec_deg: -24.4863888888889
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013312{Q}?g=131

@@ -123,6 +123,7 @@ _uuid: 6bcfb21e-1a42-4b95-8c62-d6e14bc78453
 annotation: '{"channel": "eso", "itemid": "eso0436a", "publishedUTCISO8601": "2004-12-01T00:00:00+00:00"}'
 classification: ''
 constellation: SER1
+cxstatus: in:65e5f0eaaffb32cbf1d97cff
 data_set_type: Sky
 dec_deg: -2.2864562137522233
 description: 'These are almost-true colour composites based on images made with the
@@ -154,6 +155,7 @@ _uuid: 903bef1a-be6b-44e3-b804-7c9958ca19ba
 annotation: '{"channel": "eso", "itemid": "eso0436b", "publishedUTCISO8601": "2004-12-01T00:00:00+00:00"}'
 classification: ''
 constellation: SER1
+cxstatus: in:65e5f0ebaffb32cbf1d97d01
 data_set_type: Sky
 dec_deg: -2.2869712843657886
 description: Composite colour-coded image of the &quot;grand design&quot; spiral galaxy

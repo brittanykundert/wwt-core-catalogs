@@ -546,6 +546,7 @@ _uuid: db0b944b-82c3-4329-80ff-ee71eae981cf
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: ERI
+cxstatus: in:65e5f0f9affb32cbf1d97d1f
 data_set_type: Sky
 dec_deg: -18.8130555555556
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000012100{Q}?g=182
@@ -557,6 +558,7 @@ _uuid: f78fdd0c-36ff-4a76-9e82-f3221afe814e
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: ERI
+cxstatus: in:65e5f0fbaffb32cbf1d97d25
 data_set_type: Sky
 dec_deg: -8.57855555555556
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000012300{Q}?g=182
