@@ -721,6 +721,7 @@ _uuid: 3c28466c-e458-4b0e-ae65-6a67ed3ea627
 angular_size: 1.0
 classification: SupernovaRemnant
 constellation: CAS
+cxstatus: in:65e5f0f4affb32cbf1d97d15
 data_set_type: Sky
 dec_deg: 58.8169444444444
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010130{Q}?g=138
@@ -732,6 +733,7 @@ _uuid: 73a9e065-e16d-424c-86ad-b2d80c89f296
 angular_size: 1.0
 classification: Galaxy
 constellation: IND
+cxstatus: in:65e5f0f8affb32cbf1d97d1d
 data_set_type: Sky
 dec_deg: -69.2155555555556
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000012023{Q}?g=131
@@ -743,6 +745,7 @@ _uuid: f30da3ae-ed8b-4868-a19f-c16b4f8ee585
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: PEG
+cxstatus: in:65e5f0fdaffb32cbf1d97d29
 data_set_type: Sky
 dec_deg: 20.5821944444444
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013010{Q}?g=182
