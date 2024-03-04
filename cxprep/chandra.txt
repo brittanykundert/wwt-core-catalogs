@@ -5,11 +5,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-349.jpg
 
-credits> X-ray: NASA/CXC/Univ. of Bristol; X-ray data from NASA's Chandra X-ray
-Observatory and radio observations from the NSF's Very Large Array show that a
-role reversa...
+credits> X-ray: NASA/CXC/Univ. of Bristol/Worrall et al.; radio: NRAO/AUI/NSF
 
-wip: yes
 ---
 
 @scene
@@ -18,9 +15,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-349L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2007/3c442a/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-349.jpg
 
-text> 3C442A
+text> X-ray data from NASA's Chandra X-ray Observatory and radio observations
+from the NSF's Very Large Array show that the hot gas (blue) in the middle of
+3C442A is pushing apart the radio-bright gas (orange). The inner sections of the
+radio structure are sharp and concave, which is consistent with the idea that
+the X-ray bright gas is sweeping the radio-emitting gas aside.
 
-wip: yes
 ---
 
 @image
@@ -29,11 +29,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-352.jpg
 
-credits> X-ray: NASA/CXC/CfA/INAF/Risalit; The bright X-ray source in the middle
-of Chandra's image of NGC 1365 (inset) reveals the position of the supermassive
-black hole...
+credits> X-ray: NASA/CXC/CfA/INAF/Risaliti; optical: ESO/VLT
 
-wip: yes
 ---
 
 @scene
@@ -42,9 +39,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-352L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2007/ngc1365/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-352.jpg
 
-text> NGC 1365
+text> Chandra observations of the galaxy NGC 1365 have captured a remarkable
+eclipse of the supermassive black hole at its center. A dense cloud of gas
+passed in front of the black hole, which blocked high-energy X-rays from
+material close to the black hole.
 
-wip: yes
 ---
 
 @image
@@ -53,11 +52,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-353.jpg
 
-credits> X-ray: NASA/UMass/Q.D.Wang et al; This Great Observatories view of the
-famous Sombrero galaxy was made using Chandra, Hubble, and Spitzer. The main
-figure shows t...
+credits> X-ray: NASA/UMass/Q.D.Wang et al.; optical: NASA/STScI/AURA/Hubble
+Heritage; infrared: NASA/JPL-Caltech/Univ. AZ/R.Kennicutt/SINGS Team
 
-wip: yes
 ---
 
 @scene
@@ -66,9 +63,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-353L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2007/sombrero/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-353.jpg
 
-text> Sombrero Galaxy
+text> The Sombrero, also known as M104, is one of the largest galaxies in the
+nearby Virgo cluster, about 28 million light years from Earth. This Great
+Observatories view of the famous Sombrero galaxy was made using NASA's Chandra
+X-ray Observatory, Hubble Space Telescope and Spitzer Space Telescope.
 
-wip: yes
 ---
 
 @image
@@ -77,11 +76,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-355.jpg
 
-credits> X-ray: NASA/CXC/MPE/W.Pietsch et; In this image, Andromeda's central
-region is seen in a combination of Chandra's X-ray data (blue) and optical
-light. Hot, X-ray ...
+credits> X-ray: NASA/CXC/MPE/W.Pietsch et al; optical: NOAO/AURA/NSF/T.Rector &
+B.A.Wolpa
 
-wip: yes
 ---
 
 @scene
@@ -90,9 +87,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-355L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2007/m31/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-355.jpg
 
-text> Andromeda Galaxy (M31)
+text> Andromeda, the nearest major galaxy to the Milky Way, is shown here in
+this wide-field optical image from Kitt Peak. The central region of Andromeda is
+shown in a composite image, with X-rays from NASA's Chandra X-ray Observatory
+(blue) combined with the optical image.
 
-wip: yes
 ---
 
 @image
@@ -101,11 +100,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-357.jpg
 
-credits> X-ray: NASA/SAO/CXC; Infrared: ; This composite image from NASA's
-Chandra X-ray Observatory and Spitzer Space Telescope shows the supernova
-remnant known as N132...
+credits> X-ray: NASA/SAO/CXC; infrared: NASA/JPL-Caltech/A. Tappe & J. Rho
 
-wip: yes
 ---
 
 @scene
@@ -114,9 +110,10 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-357L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2007/n132d/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-357.jpg
 
-text> LMC
+text> This composite from NASA's Spitzer Space Telescope and Chandra X-ray
+Observatory shows the remnant of a supernova explosion, known as N132D, and the
+environment it is expanding into.
 
-wip: yes
 ---
 
 @image

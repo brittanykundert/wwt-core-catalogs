@@ -82,7 +82,7 @@ children:
   - place 0776f932-dd8c-4103-bc7f-503b43765589
   - place 0a1c8c5a-d62f-4f8a-9d61-ef7d5860e957
   - place a00a43bd-2a4c-4297-bc64-7edf6ac9e5a7
-  - place f2d3393d-c0d4-4e87-a47a-8bc8087c9fef
+  - place e6865297-f0c2-4a58-a854-ef0b554a23dc
   - place 5ba855e8-38f7-41a0-8f34-2f6ed47c0bf6
   - place f99f2444-f012-4f47-8ce1-7cecc5f63daf
   - place 4e909e38-d66a-4ad7-b96d-86389e5106dc
@@ -94,7 +94,6 @@ children:
   type: Sky
 - browseable: true
   children:
-  - place e6865297-f0c2-4a58-a854-ef0b554a23dc
   - place a53fef93-8015-439d-ac42-06c37d66858f
   - place a7146ef6-22f7-4b54-899b-8ae7fa94ebf6
   - place 3a65205d-c23c-4603-8d97-845bbc4a0f13
