@@ -33934,7 +33934,7 @@ These belts are most likely shaped by the gravitational forces produced by unsee
     TileLevels="3"
     Url="http://data1.wwtassets.org/packages/2023/08_jwst/westerlund2-bk/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
-    Xcxstatus="queue:jwst"
+    Xcxstatus="in:65f7d42daffb32cbf1d9964d"
   >
     <Credits>NASA/ESA/CSA/Brittany Kundert</Credits>
     <CreditsUrl>https://twitter.com/specificwave</CreditsUrl>
@@ -34039,7 +34039,7 @@ Image description: An image of a young star-forming region filled with wispy blu
     TileLevels="6"
     Url="http://data1.wwtassets.org/packages/2023/10_jwst/potm2309a/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
-    Xcxstatus="queue:jwst"
+    Xcxstatus="in:65f7d42caffb32cbf1d9964b"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, M. Meixner</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2309a/</CreditsUrl>
@@ -34097,7 +34097,7 @@ Image description: An image of a young star-forming region filled with wispy blu
     TileLevels="5"
     Url="http://data1.wwtassets.org/packages/2023/10_jwst/weic2322b/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
-    Xcxstatus="queue:jwst"
+    Xcxstatus="in:65f7d42aaffb32cbf1d99647"
   >
     <Credits>ESA/Webb, NASA, CSA, T. Ray (Dublin Institute for Advanced Studies)</Credits>
     <CreditsUrl>https://esawebb.org/images/weic2322b/</CreditsUrl>
@@ -34126,7 +34126,7 @@ Image description: An image of a young star-forming region filled with wispy blu
     TileLevels="3"
     Url="http://data1.wwtassets.org/packages/2023/10_jwst/weic2324a/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
-    Xcxstatus="queue:jwst"
+    Xcxstatus="in:65f7d42baffb32cbf1d99649"
   >
     <Credits>NASA, ESA, CSA, N. Habel (JPL), P. Kavanagh (Maynooth University)</Credits>
     <CreditsUrl>https://esawebb.org/images/weic2324a/</CreditsUrl>
@@ -34904,6 +34904,462 @@ The challenge is that it is typically difficult to observe an entire globular cl
     <CreditsUrl>https://esawebb.org/images/weic2403t/</CreditsUrl>
     <Description>This spiral galaxy was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images. NGC 7496 is 24 million light-years away in the constellation Grus. Learn more about what can be seen in this vast collection of Webb images here. [Image description: The central core of Webb’s image of the galaxy NGC 7496 begins as a bright white dot that melts into bright oranges. Eight prominent diffraction spikes emanate from the centre. A bright orange arc that looks like a thin, backward S forms the bar and two of the face-on spiral galaxy’s arms.]</Description>
     <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/01_jwst/weic2403t/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.1820645117583003"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="204.25695014327"
+    CenterY="-29.868096098584"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="No tricks, just treats (M83 MIRI image)"
+    OffsetX="2.222467184549564e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-44.97999999999905"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2024/03_jwst/potm2301a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:65f7d42daffb32cbf1d9964f"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, A. Adamo (Stockholm University) and the FEAST JWST team</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2310a/</CreditsUrl>
+    <Description>This month, Webb presents a spectacular treat… for the eyes. The barred spiral galaxy M83 is revealed in detail by the NASA/ESA/CSA James Webb Space Telescope. M83, which is also known as NGC 5236, was observed by Webb as part of a series of observations collectively titled Feedback in Emerging extrAgalactic Star clusTers, or FEAST. Another target of the FEAST observations, M51, was the subject of a previous Webb Picture of the Month. As with all six galaxies that comprise the FEAST sample, M83 and M51 were observed with both NIRCam and MIRI, two of the four instruments that are mounted on Webb. MIRI, or the Mid-InfraRed Instrument, makes observations in the mid-infrared, which spans wavelengths of light very different from optical wavelengths. Optical wavelengths in astronomy roughly correspond to the range of light waves that human eyes are sensitive to, and extend from about 0.38 to 0.75 micrometres (a micrometre, or micron, is one thousandth of a millimetre). By contrast, MIRI detects light from 5 to 28 micrometres — however, when it makes observations, it does not typically observe across this entire wavelength range all at once. Instead, MIRI has a set of ten filters that allow very specific regions of light through. For example, one of MIRI’s filters (dubbed F770W), allows light with wavelengths of 6.581 to 8.687 micrometres to pass through it.  This image was compiled using data collected through just two of MIRI’s ten filters, near the short end of the instrument’s wavelength range. The result is this extraordinarily detailed image, with its creeping tendrils of gas, dust and stars. In this image, the bright blue shows the distribution of stars across the central part of the galaxy. The bright yellow regions that weave through the spiral arms indicate concentrations of active stellar nurseries, where new stars are forming. The orange-red areas indicate the distribution of a type of carbon-based compound known as polycyclic aromatic hydrocarbons (or PAHs) — the F770W filter, one of the two used here, is particularly suited to imaging these important molecules. [Image Description: A close-up view of a barred spiral galaxy. Two spiral arms reach horizontally away from the core in the centre, merging into a broad network of gas and dust which fills the image. This material glows brightest orange along the path of the arms, and is darker red across the rest of the galaxy. Through many gaps in the dust, countless tiny stars can be seen, most densely around the core.] Links  M83 (NIRCam image) Slider tool (MIRI and NIRCam images) Video: Pan of M83 (MIRI image) Video: Pan of M83 (NIRCam image) Video: M83 (MIRI and NIRCam images) </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/03_jwst/potm2301a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.18203719553222178"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="204.25740732721"
+    CenterY="-29.866844817555"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="No tricks, just treats (M83 NIRCam image)"
+    OffsetX="1.1110668672620958e-05"
+    OffsetY="5.555334336310479e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-49.6199999999998"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2024/03_jwst/potm2301b/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:65f7d42eaffb32cbf1d99651"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, A. Adamo (Stockholm University) and the FEAST JWST team</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2310b/</CreditsUrl>
+    <Description>This image, which truly is a visual treat, was captured by Webb’s NIRCam, or Near-InfraRed Camera. NIRCam makes observations in the near-infrared, which spans wavelengths of light that are just longer than optical wavelengths. Like MIRI, it is equipped with a range of filters that cover its wavelength range of 0.6 to 5 micrometres, including 29 filters specifically intended for imaging. Data collected through eight of those filters were used to complete this impressive image, which picks out light emitted from the wealth of stars that might be obscured by dust at other wavelengths. Even though stars do not emit the majority of their light in the infrared, optical light is much more vulnerable to being scattered by dust than infrared light is, and so infrared instruments like Webb can provide the best opportunities to study stars in regions (like galaxies) that might also contain large amounts of dust.  In this image, the bright red-pink spots correspond to regions rich in ionised hydrogen, which is due to the presence of newly formed stars. The diffuse gradient of blue light around the central region shows the distribution of older stars. The compact light blue regions within the red, ionised gas, mostly concentrated in the spiral arms, show the distribution of young star clusters. [Image Description: A close-up view of a spiral galaxy. The core glows very brightly from the multitude of stars there, which are so dense they appear like noise or static. Near the edges of the image, the density of the stars notably follows the galaxy’s spiral arms. The two arms are highlighted by patchy red gas, connecting in the galactic centre. The gas is very thread-like in the centre and thicker further out along the arms.] Links  M83 (MIRI image) Slider tool (MIRI and NIRCam images) Video: Pan of M83 (MIRI image) Video: Pan of M83 (NIRCam image) Video: M83 (MIRI and NIRCam images) </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/03_jwst/potm2301b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07122775979711103"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="55.977145097894"
+    CenterY="32.055718641071"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="A prominent protostar in Perseus"
+    OffsetX="4.347397448554188e-06"
+    OffsetY="4.34739744855414e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-104.71999999999991"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2024/03_jwst/potm2311a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:65f7d42faffb32cbf1d99653"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, T. Ray (Dublin Institute for Advanced Studies)</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2311a/</CreditsUrl>
+    <Description>This new Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope reveals intricate details of the Herbig Haro object number 797 (HH 797). Herbig-Haro objects are luminous regions surrounding newborn stars (known as protostars), and are formed when stellar winds or jets of gas spewing from these newborn stars form shockwaves colliding with nearby gas and dust at high speeds. HH 797, which dominates the lower half of this image, is located close to the young open star cluster IC 348, near the eastern edge of the Perseus dark cloud complex. The bright infrared objects in the upper portion of the image are thought to host two further protostars. This image was captured with Webb’s Near-InfraRed Camera (NIRCam). Infrared imaging is a powerful way to study newborn stars and their outflows, because the youngest stars are invariably still embedded within the gas and dust from which they are formed. The infrared emission of the star’s outflows penetrates the obscuring gas and dust, making Herbig-Haro objects ideal for observation with Webb’s sensitive infrared instruments. Molecules excited by the turbulent conditions, including molecular hydrogen and carbon monoxide, emit infrared light that Webb can collect to visualise the structure of the outflows. NIRCam is particularly good at observing the hot (thousands of degree Celsius) molecules that are excited as a result of shocks. Using ground-based observations, researchers have previously found that for cold molecular gas associated with HH 797, most of the red-shifted gas (moving away from us) is found to the south (bottom right), while the blue-shifted gas (moving towards us) is to the north (bottom left). A gradient was also found across the outflow, such that at a given distance from the young central star, the velocity of the gas near the eastern edge of the jet is more red-shifted than that of the gas on the western edge. Astronomers in the past thought this was due to the outflow’s rotation. In this higher resolution Webb image, however, we can see that what was thought to be one outflow is in fact made up of two almost parallel outflows with their own separate series of shocks (which explains the velocity asymmetries). The source, located in the small dark region (bottom right of centre), and already known from previous observations, is therefore not a single but a double star. Each star is producing its own dramatic outflow. Other outflows are also seen in this image, including one from the protostar in the top right of centre along with its illuminated cavity walls. HH 797 resides directly north of HH 211 (separated by approximately 30 arcseconds), which was the feature of a Webb image release in September 2023. [Image Description: In the lower half of the image is a narrow, horizontal nebula that stretches from edge to edge. It is brightly coloured with more variety on its right side. In the upper half there is a glowing point with multi-coloured light radiating from it in all directions. A bright star with long diffraction spikes lies along the right edge, and a few smaller stars are spread around. The background is covered in a thin haze.] Links  Video: Pan of HH 797 Release on ESA website Release on NASA website </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/03_jwst/potm2311a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.03564680368993386"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="186.71764671449"
+    CenterY="21.872990541957"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Galactic gathering"
+    OffsetX="8.702832932112848e-06"
+    OffsetY="4.351416466056379e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-64.0800000000007"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/03_jwst/potm2312a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:65f7d430affb32cbf1d99655"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, J. Rigby and the JWST TEMPLATES team</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2312a/</CreditsUrl>
+    <Description>The vast galaxy cluster SDSS J1226+2152 in the constellation Coma Berenices is distorting the images of distant background galaxies into streaks and smears of light in this image from the NASA/ESA/CSA James Webb Space Telescope. This is a spectacular example of gravitational lensing, a phenomenon which occurs when a massive celestial object such as a galaxy cluster deforms spacetime and causes the path of light from more distant galaxies to be deflected, almost as if a monumental lens was redirecting it. This image is from a set of early science observations with Webb. One of the most notable lensed galaxies in this rich field is named SGAS J12265.3+215220. In this image, it's the innermost lensed galaxy, just above and to the right of the central galaxy. This lies far beyond the foreground cluster in distance, giving us a view into the galaxy roughly two billion years after the big bang. Astronomers are now using this eagerly-awaited hoard of bright, gravitationally-lensed galaxies from Webb to explore star formation in distant galaxies. Just like their optical namesakes, gravitational lenses can magnify as well as distort distant galaxies. This allows astronomers to observe the finer details of galaxies that would usually be too distant to clearly resolve. In the case of SGAS J122651.3+215220, the combination of gravitational lensing and Webb’s unprecedented observational capabilities will allow astronomers to measure where, and how fast, stars are forming and also to gain an insight into the environments which support star formation in lensed galaxies. Amid this spectacular display of gravitational lensing, a menagerie of spiral and elliptical galaxies in all shapes and sizes surround the galaxy cluster. Webb’s sensitive infrared instruments have proven prodigious in picking out distant galaxies from the darkness of space. None of the tiny pinpricks in the patch of sky captured here is a star: each one is a galaxy. The variety of colours of the small, dim galaxies gives us hints at what we are seeing: many of the paler white galaxies will date back to the period of intense star formation known as cosmic noon, some two to three billion years after the big bang, while the few small orange and red systems are probably from even earlier in the Universe's history. [Image Description: A cluster of galaxies. Most of the visible galaxies are oval-shaped and smooth. A few have spiral arms in various orientations. The largest galaxy is directly in the centre, and close by it are several images of background galaxies, stretched and warped into long arcs by gravitational lensing. The background is black and contains many very small galaxies, but no stars.] Links  Pan of galaxy cluster SDSS J1226+2152 </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/03_jwst/potm2312a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.06310691997066942"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="72.99006857012"
+    CenterY="-69.39472869339"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="A massive cluster is born"
+    OffsetX="3.0813925766928426e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-75.23999999999987"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2024/03_jwst/potm2401a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:65f7d431affb32cbf1d99657"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, O. Nayak, M. Meixner</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2401a/</CreditsUrl>
+    <Description>This image from the NASA/ESA/CSA James Webb Space Telescope features an H II region in the Large Magellanic Cloud (LMC), a satellite galaxy of our Milky Way. This nebula, known as N79, is a region of interstellar atomic hydrogen that is ionised, captured here by Webb’s Mid-InfraRed Instrument (MIRI). N79 is a massive star-forming complex spanning roughly 1630 light-years in the generally unexplored southwest region of the LMC. N79 is typically regarded as a younger version of 30 Doradus (also known as the Tarantula Nebula), another of Webb’s recent targets. Research suggests that N79 has a star formation efficiency exceeding that of 30 Doradus by a factor of two over the past 500 000 years.  This particular image centres on one of the three giant molecular cloud complexes, dubbed N79 South (S1 for short). The distinct ‘starburst’ pattern surrounding this bright object is a series of diffraction spikes. All telescopes which use a mirror to collect light, as Webb does, have this form of artifact which arises from the design of the telescope. In Webb's case, the six largest starburst spikes appear because of the hexagonal symmetry of Webb's 18 primary mirror segments. Patterns like these are only noticeable around very bright, compact objects, where all the light comes from the same place. Most galaxies, even though they appear very small to our eyes, are darker and more spread out than a single star, and therefore do not show this pattern. At the longer wavelengths of light captured by MIRI, Webb’s view of N79 showcases the region’s glowing gas and dust. This is because mid-infrared light is able to reveal what is happening deeper inside the clouds (while shorter wavelengths of light would be absorbed or scattered by dust grains in the nebula). Some still-embedded protostars also appear in this field. Star-forming regions such as this are of interest to astronomers because their chemical composition is similar to that of the gigantic star-forming regions observed when the Universe was only a few billion years old and star formation was at its peak. Star-forming regions in our Milky Way galaxy are not producing stars at the same furious rate as N79, and have a different chemical composition. Webb is now providing astronomers the opportunity to compare and contrast observations of star formation in N79 with the telescope’s deep observations of distant galaxies in the early Universe. These observations of N79 are part of a Webb programme that is studying the evolution of the circumstellar discs and envelopes of forming stars over a wide range in mass and at different evolutionary stages. Webb’s sensitivity will enable scientists to detect for the first time the planet-forming dust discs around stars of similar mass to that of our Sun at the distance of the LMC. This image includes 7.7-micron light shown in blue, 10 microns in cyan, 15 microns in yellow, and 21 microns in red (770W, 1000W, 1500W, and 2100W filters, respectively). [Image description: A bright young star within a colourful nebula. The star is identifiable as the brightest spot in the image, surrounded by six large spokes of light that cross the image. A number of other bright spots can also be seen in the clouds, which are shown in great detail as layers of colourful wisps.] Links  S1 LMC N79 (cropped) Pan video  Image on ESA website </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/03_jwst/potm2401a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.12615417464286682"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="72.974768116327"
+    CenterY="-69.377665604389"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="S1 LMC N79 (cropped)"
+    OffsetX="1.539967952183433e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-75.24000000000001"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/03_jwst/potm2401b/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:65f7d432affb32cbf1d99659"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, O. Nayak, M. Meixner</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2401b/</CreditsUrl>
+    <Description>This image from the NASA/ESA/CSA James Webb Space Telescope features an H II region in the Large Magellanic Cloud (LMC), a satellite galaxy of our Milky Way. This nebula, known as N79, is a region of interstellar atomic hydrogen that is ionised, captured here by Webb’s Mid-InfraRed Instrument (MIRI).This image is a cropped view of the wider N79 region. The full image can be seen here. N79 is a massive star-forming complex spanning roughly 1630 light-years in the generally unexplored southwest region of the LMC. N79 is typically regarded as a younger version of 30 Doradus (also known as the Tarantula Nebula), another of Webb’s recent targets. Research suggests that N79 has a star formation efficiency exceeding that of 30 Doradus by a factor of two over the past 500 000 years.  This particular image centres on one of the three giant molecular cloud complexes, dubbed N79 South (S1 for short). The distinct ‘starburst’ pattern surrounding this bright object is a series of diffraction spikes. All telescopes which use a mirror to collect light, as Webb does, have this form of artifact which arises from the design of the telescope. In Webb's case, the six largest starburst spikes appear because of the hexagonal symmetry of Webb's 18 primary mirror segments. Patterns like these are only noticeable around very bright, compact objects, where all the light comes from the same place. Most galaxies, even though they appear very small to our eyes, are darker and more spread out than a single star, and therefore do not show this pattern. At the longer wavelengths of light captured by MIRI, Webb’s view of N79 showcases the region’s glowing gas and dust. This is because mid-infrared light is able to reveal what is happening deeper inside the clouds (while shorter wavelengths of light would be absorbed or scattered by dust grains in the nebula). Some still-embedded protostars also appear in this field. Star-forming regions such as this are of interest to astronomers because their chemical composition is similar to that of the gigantic star-forming regions observed when the Universe was only a few billion years old and star formation was at its peak. Star-forming regions in our Milky Way galaxy are not producing stars at the same furious rate as N79, and have a different chemical composition. Webb is now providing astronomers the opportunity to compare and contrast observations of star formation in N79 with the telescope’s deep observations of distant galaxies in the early Universe. These observations of N79 are part of a Webb programme that is studying the evolution of the circumstellar discs and envelopes of forming stars over a wide range in mass and at different evolutionary stages. Webb’s sensitivity will enable scientists to detect for the first time the planet-forming dust discs around stars of similar mass to that of our Sun at the distance of the LMC. This image includes 7.7-micron light shown in blue, 10 microns in cyan, 15 microns in yellow, and 21 microns in red (770W, 1000W, 1500W, and 2100W filters, respectively). [Image description: A bright young star within a colourful nebula. The star is identifiable as the brightest spot in the field of view, dominating the right side of the image, surrounded by six large spokes of light that cross the image. A number of other bright spots can also be seen in the clouds, which are shown in great detail as layers of colourful wisps.] Links  S1 LMC N79 (full image) </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/03_jwst/potm2401b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.0700486656271285"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="64.399096216285"
+    CenterY="-62.7848414991"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="A galactic treasury"
+    OffsetX="4.27543125165584e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-74.66000000000044"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2024/03_jwst/potm2402a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:65f7d433affb32cbf1d9965b"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, A. Leroy, J. Lee and the PHANGS Team</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2402a/</CreditsUrl>
+    <Description>This image features the barred spiral galaxy galaxy NGC 1559 as seen by the NASA/ESA/CSA James Webb Space Telescope. The galaxy hosts a visible central region with a distinct open pattern in the loosely-wound spiral arms. NGC 1559 resides approximately 35 million light-years away in the little-observed southern constellation Reticulum (The Reticule). The data featured in this portrait make use of two of Webb’s instruments: the Mid-InfraRed Instrument (MIRI) and Near-InfraRed Camera (NIRCam). Here MIRI captures the glow of interstellar dust grains, which trace out the interstellar medium, the fuel for future star formation. NIRCam shows the light from stars, even young stars hidden behind prodigious amounts of dust. NIRCam also captures emission from ionised nebulae around young stars. The data were collected by the PHANGS team as part of an observing programme in which Webb will observe 55 galaxies that have also been mapped by the Atacama Large Millimeter/submillimeter Array (ALMA) radio telescope, the NASA/ESA Hubble Space Telescope and more. By combining Webb’s unprecedented view of the dust and stars with data from these other facilities, the team aims to obtain a new, highly detailed view of how stars are born, live, and die in galaxies across the Universe. This is also a Treasury programme, which means that the data will have no exclusive access period and so the scientific community (and others, including the general public) can access the data immediately. This has the advantage that more research can be done with the data more quickly. NGC 1559 has massive spiral arms that abound with star formation, and it is receding from us at a speed of about 1300 kilometres per second. Although NGC 1559 appears to sit near one of our nearest neighbours in the sky — the Large Magellanic Cloud (LMC) - this is just a trick of perspective. In reality, NGC 1559 is physically nowhere near the LMC in space; in fact it truly is a loner, lacking the company of any nearby galaxies or membership of any galaxy cluster. NGC 1559 may be alone in space, but with Webb we are admiring from far away. [Image Description: A barred spiral galaxy on a dark, nearly empty background. The whole galaxy glows with a pale light, particularly along the galaxy’s bar which runs from top to bottom through the galactic core. It’s speckled with tiny stars. The centre is surrounded by rich clouds of hot gas and dust along the arms. The arms are loosely wound and a bit ragged, and contain a few star-forming regions that shine brightly.]Links  Pan video of NGC 1559 </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/03_jwst/potm2402a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.06998986107756293"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="24.524233298363"
+    CenterY="-21.929856895825"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb spots a second lensed supernova in a distant galaxy"
+    OffsetX="8.543684213569693e-06"
+    OffsetY="4.271842106784847e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="49.70376007488229"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2024/03_jwst/supernova-encore3/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:65f7d433affb32cbf1d9965d"
+  >
+    <Credits> NASA, ESA, CSA, STScI, Justin Pierel (STScI) and Andrew Newman (Carnegie Institution for Science)</Credits>
+    <CreditsUrl>https://esawebb.org/images/supernova-encore3/</CreditsUrl>
+    <Description>In November 2023, the NASA/ESA/CSA James Webb Space Telescope observed a massive cluster of galaxies named MACS J0138.0-2155. Through an effect called gravitational lensing, first predicted by Albert Einstein, a distant galaxy named MRG-M0138 appears warped by the powerful gravity of the intervening galaxy cluster. In addition to warping and magnifying the distant galaxy, the gravitational lensing effect caused by MACS J0138 produces five different images of MRG-M0138. In 2019, astronomers announced the surprising find that a stellar explosion, or supernova, had occurred within MRG-M0138, as seen in images from the NASA/ESA Hubble Space Telescope taken in 2016. When another group of astronomers examined the 2023 Webb images, they were astonished to find that seven years later, the same galaxy is home to a second supernova.  Two images of the supernova are seen in the Webb NIRCam (Near-Infrared Camera) image above (see the annotated image that highlights these features version here), but an additional supernova image is expected to become visible around 2035. In this image blue represents light at 1.15 and 1.5 microns (F115W+F150), green is 2.0 and 2.77 microns (F200W+277W), and red is 3.56 and 4.44 microns (F356W + F444W). These observations were taken as part of Webb Director’s Discretionary Time program 6549. Note: This post highlights data from Webb science in progress, which has not yet been through the peer-review process.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/03_jwst/supernova-encore3/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.06815843309622438"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="64.037572962901"
+    CenterY="-24.074353550302"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Galaxy cluster MACS0416 (Hubble and Webb composite image)"
+    OffsetX="8.320121227566546e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-67.64000000000024"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2024/03_jwst/weic2327a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:65f7d649affb32cbf1d99662"
+  >
+    <Credits>NASA, ESA, CSA, STScI, J. Diego (Instituto de Física de Cantabria, Spain), J. D’Silva (U. Western Australia), A. Koekemoer (STScI), J. Summers &amp; R. Windhorst (ASU), and H. Yan (U. Missouri)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2327a/</CreditsUrl>
+    <Description>This panchromatic view of galaxy cluster MACS0416 was created by combining infrared observations from the NASA/ESA/CSA James Webb Space Telescope with visible-light data from the NASA/ESA Hubble Space Telescope. To make the image, in general the shortest wavelengths of light were colour-coded blue, the longest wavelengths red, and intermediate wavelengths green. The resulting wavelength coverage, from 0.4 to 5 microns, reveals a vivid landscape of galaxies that could be described as one of the most colourful views of the universe ever created. MACS0416 is a galaxy cluster located about 4.3 billion light-years from Earth, meaning that the light from it that we see now left the cluster shortly after the formation of our Solar System. This cluster magnifies the light from more distant background galaxies through gravitational lensing. As a result, the research team has been able to identify magnified supernovae and even very highly magnified individual stars. Those colours give clues to galaxy distances: the bluest galaxies are relatively nearby and often show intense star formation, as best detected by Hubble, while the redder galaxies tend to be more distant, or else contain copious amounts of dust, as best detected by Webb. The image reveals a wealth of details that it is only possible to capture by combining the power of both space telescopes. In this image, blue represents data at wavelengths of 0.435, 0.606, 0.814, and 1.05 microns (Hubble filters F435W, F606W, F814W, and F105W). Green combines data at 0.90, 1.15, 1.5, 1.6, 2.0, and 2.77 microns (Hubble filter F160W and Webb filters F090W, F115W, F150W, F200W, and F277W). Red represents data at 3.56, 4.1, and 4.44 microns (Webb filters F356W, F410M and F444W). [Image description: A field of galaxies on the black background of space. In the middle is a collection of dozens of yellowish spiral and elliptical galaxies that form a foreground galaxy cluster. Among them are distorted linear features, which mostly appear to follow invisible concentric circles curving around the centre of the image. The linear features are created when the light of a background galaxy is bent and magnified through gravitational lensing. A variety of brightly coloured, red and blue galaxies of various shapes are scattered across the image, making it feel densely populated.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/03_jwst/weic2327a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.14262458363276928"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="266.17032660119"
+    CenterY="-29.44766069844"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Sagittarius C (NIRCam Image)"
+    OffsetX="-0.00015190247479328705"
+    OffsetY="-0.00011167773288767359"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="91.5701988586317"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2024/03_jwst/weic2328a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:65f7d64aaffb32cbf1d99664"
+  >
+    <Credits>NASA, ESA, CSA, STScI, S. Crowe (UVA)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2328a/</CreditsUrl>
+    <Description>The full view of the NASA/ESA/CSA James Webb Space Telescope’s NIRCam (Near-Infrared Camera) instrument reveals a 50 light-years-wide portion of the Milky Way’s dense centre. An estimated 500,000 stars shine in this image of the Sagittarius C (Sgr C) region, along with some as-yet unidentified features.  A vast region of ionised hydrogen, shown in cyan, wraps around an infrared-dark cloud, which is so dense that it blocks the light from distant stars behind it. Intriguing needle-like structures in the ionised hydrogen emission lack any uniform orientation. Researchers note the surprising extent of the ionised region, covering about 25 light-years.  A cluster of protostars – stars that are still forming and gaining mass – are producing outflows that glow like a bonfire at the base of the large infrared-dark cloud, indicating that they are emerging from the cloud’s protective cocoon and will soon join the ranks of the more mature stars around them. Smaller infrared-dark clouds dot the scene, appearing like holes in the starfield.  Researchers say they have only begun to dig into the wealth of unprecedented high-resolution data that Webb has provided on this region, and many features bear detailed study. This includes the rose-coloured clouds on the right side of the image, which have never been seen in such detail. [Image description: In a field crowded with stars, a funnel-shaped region of space appears darker than its surroundings with fewer stars. It is wider at the top edge of the image, narrowing towards the bottom. Toward the narrow end of this dark region a small clump of red and white appears to shoot out streamers upward and left. A large, bright cyan-colored area surrounds the lower portion of the funnel-shaped dark area, forming a rough U shape. The cyan-coloured area has needle-like, linear structures and becomes more diffuse in the center of the image. The right side of the image is dominated by clouds of orange and red, with a purple haze.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/03_jwst/weic2328a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.14317958286969668"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="56.14310814592"
+    CenterY="32.16033465357"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Star Cluster IC 348 (NIRCam image)"
+    OffsetX="8.73898821226176e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-17.737536754516146"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2024/03_jwst/weic2331a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:65f7d435affb32cbf1d9965f"
+  >
+    <Credits>NASA, ESA, CSA, STScI, and K. Luhman (Penn State University) and C. Alves de Oliveira (European Space Agency)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2331a/</CreditsUrl>
+    <Description>This image from the NIRCam (Near-Infrared Camera) instrument on the NASA/ESA/CSA James Webb Space Telescope shows the central portion of the star cluster IC 348. Astronomers combed the cluster in search of tiny, free-floating brown dwarfs: objects too small to be stars but larger than most planets. They found three brown dwarfs that are less than eight times the mass of Jupiter. The smallest weighs just three to four times as much as Jupiter, challenging theories for star formation. The wispy curtains filling the image are interstellar material reflecting the light from the cluster’s stars — what is known as a reflection nebula. The material also includes carbon-containing molecules known as polycyclic aromatic hydrocarbons, or PAHs. The bright star closest to the centre of the frame is actually a pair of type B stars in a binary system, the most massive stars in the cluster. Winds from these stars may help sculpt the large loop seen on the right side of the field of view. [Image description: Wispy hair-like filaments of pink-purple fill the middle of the image, curving left and right on either side of the centre. On the right, the filaments form a dramatic loop that seems to extend toward the viewer. At lower left are additional yellowish filaments. Two prominent, bright stars near the centre of the image show Webb’s eight-point diffraction spikes. Dozens of fainter stars are scattered across the image.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/03_jwst/weic2331a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.0022114923498229556"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="215.03549338231"
+    CenterY="52.890689146268"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Lyman-α emitting galaxy EGSY8p7 (NIRCam image)"
+    OffsetX="5.399151244684987e-07"
+    OffsetY="5.39915124468495e-07"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-48.340000000000046"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/packages/2024/03_jwst/weic2402b/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:65f7d64baffb32cbf1d99666"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, C. Witten, M. Zamani (ESA/Webb)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2402b/</CreditsUrl>
+    <Description>This image shows the galaxy EGSY8p7, a bright galaxy in the early Universe where light emission is seen from, among other things, excited hydrogen atoms — Lyman-α emission. Webb’s high sensitivity picks out this distant galaxy along with its two companion galaxies, where previous observations saw only one larger galaxy in its place. This discovery of a cluster of interacting galaxies sheds light on the mystery of why the hydrogen emission from EGSY8p7, shrouded in neutral gas formed after the Big Bang, should be visible at all. Astronomers have concluded that the intense star-forming activity within these interacting galaxies energised hydrogen emission and cleared swathes of gas from their surroundings, allowing the unexpected hydrogen emission to escape. This close-up view of EGSY8p7 has been newly processed, making use of NIRCam data captured with seven different near-infrared filters. [Image Description: A close-in view of three neighbouring galaxies. They appear as coloured blobs with bright, distinct cores. The image is mostly black, with a few unrelated galaxies visible nearby.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/03_jwst/weic2402b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.1367355186188785"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="189.22903431103"
+    CenterY="62.202319278441"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="GOODS-North field (clean)"
+    OffsetX="3.3382694975311254e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="61.32000000000003"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/03_jwst/weic2406d/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:65f7d64caffb32cbf1d99668"
+  >
+    <Credits>NASA, ESA, CSA, B. Robertson (UC Santa Cruz), B. Johnson (CfA), S. Tacchella (Cambridge), M. Rieke (University of Arizona), D. Eisenstein (CfA)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2406d/</CreditsUrl>
+    <Description>This image from Webb’s NIRCam (Near-Infrared Camera) instrument shows a portion of the GOODS-North field of galaxies. [Image description: A rectangular image with thousands of galaxies of various shapes and colours on the black background of space. Some are noticeably spirals, either face-on or edge-on, while others are blobby ellipticals. Many are too small to discern any structure. One prominent foreground star at top centre features Webb’s signature eight-point diffraction spikes.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/03_jwst/weic2406d/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.07103983326529767"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="23.641402467041"
+    CenterY="30.782534113068"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 604 (NIRCam image)"
+    OffsetX="8.671854646642782e-06"
+    OffsetY="4.335927323321391e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="65.3022000883824"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/packages/2024/03_jwst/weic2407a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:65f7d64daffb32cbf1d9966a"
+  >
+    <Credits>NASA, ESA, CSA, STScI</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2407a/</CreditsUrl>
+    <Description>This image from the NASA/ESA/CSA James Webb Space Telescope’s NIRCam (Near-Infrared Camera) of star-forming region NGC 604 shows how stellar winds from bright, hot young stars carve out cavities in surrounding gas and dust. The bright orange streaks in this image signify the presence of carbon-based molecules known as polycyclic aromatic hydrocarbons, or PAHs. As you travel further from the immediate cavities of dust where the star is forming, the deeper red signifies molecular hydrogen. This cooler gas is a prime environment for star formation. Ionised hydrogen from ultraviolet radiation appears as a white and blue ghostly glow. NGC 604 is located in the Triangulum Galaxy (M33), 2.73 million light-years away from Earth. It provides an opportunity for astronomers to study a high concentration of very young, massive stars in a nearby region. [Image description: At the centre of the image is a nebula on the black background of space. The nebula is composed of clumpy, red, filamentary clouds. At the centre-right of the red clouds is a large cavernous bubble, and at the centre of the bubble there is an opaque blue glow with speckles of stars. At the edges of the bubble, the dust is white. There are several other smaller cavernous bubbles at the top of the nebula. There are also some smaller, red stars and a few disc-shaped galaxies scattered about the image.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/03_jwst/weic2407a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.03545305599916558"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="23.640508118458"
+    CenterY="30.783760733539"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 604 (MIRI image)"
+    OffsetX="4.327765624898142e-06"
+    OffsetY="4.327765624898142e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="73.22982585682723"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/03_jwst/weic2407b/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:65f7d64eaffb32cbf1d9966c"
+  >
+    <Credits>NASA, ESA, CSA, STScI</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2407b/</CreditsUrl>
+    <Description>This image from the NASA/ESA/CSA James Webb Space Telescope’s MIRI (Mid-Infrared Instrument) of star-forming region NGC 604 shows how large clouds of cooler gas and dust glow at mid-infrared wavelengths. This region is a hotbed of star formation and home to more than 200 of the hottest, most massive kinds of stars, all in the early stages of their lives. In the MIRI view of NGC 604, there are noticeably fewer stars than Webb’s NIRCam image. This is because hot stars emit much less light at these wavelengths. Some of the stars seen in this image are red supergiants — stars that are cool but very large, hundreds of times the diameter of our Sun. The blue tendrils of material signify the presence of polycyclic aromatic hydrocarbons, or PAHs. [Image description: At the centre of the image is a nebula on the black background of space. The nebula is composed of wispy filaments of light blue clouds. At the centre-right of the blue clouds is a large cavernous bubble. The bottom left edge of this cavernous bubble is filled with hues of pink and white gas. Hundreds of dim stars fill the area surrounding the nebula.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/03_jwst/weic2407b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.04512140087656514"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="211.64558282043"
+    CenterY="-5.453786147269"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 5468 — Cepheid host galaxy"
+    OffsetX="5.5079835054400804e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="114.53162904539249"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2024/03_jwst/weic2408a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:65f7d64eaffb32cbf1d9966e"
+  >
+    <Credits>NASA, ESA, CSA, STScI, A. Riess (JHU/STScI)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2408a/</CreditsUrl>
+    <Description>This image of NGC 5468, a galaxy located about 130 million light-years from Earth, combines data from the Hubble and James Webb space telescopes. This is the most distant galaxy in which Hubble has identified Cepheid variable stars. These are important milepost markers for measuring the expansion rate of the Universe. The distance calculated from Cepheids has been cross-correlated with a Type Ia supernova in the galaxy. Type Ia supernovae are so bright they are used to measure cosmic distances far beyond the range of the Cepheids, extending measurements of the Universe’s expansion rate deeper into space. [Image description: A face-on spiral galaxy with four spiral arms that curve outward in a counterclockwise direction. The spiral arms are filled with young, blue stars and peppered with purplish star-forming regions that appear as small blobs. The middle of the galaxy is much brighter and more yellowish, and has a distinct narrow linear bar angled from 11 o’clock to 5 o’clock. Dozens of red background galaxies are scattered across the image. The background of space is black.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/03_jwst/weic2408a/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"

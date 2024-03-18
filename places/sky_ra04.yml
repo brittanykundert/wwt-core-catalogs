@@ -542,6 +542,54 @@ ra_hr: 4.76189944594542
 thumbnail: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403k/thumb.jpg
 zoom_level: 0.2437211502232042
 ---
+_uuid: 47821f09-9e30-44c1-9206-ab61222a1717
+classification: ''
+constellation: DOR
+cxstatus: in:65f7d431affb32cbf1d99658
+data_set_type: Sky
+dec_deg: -69.39473966669469
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/03_jwst/potm2401a/{1}/{3}/{3}_{2}.png
+name: A massive cluster is born
+ra_hr: 4.866001005494294
+thumbnail: http://data1.wwtassets.org/packages/2024/03_jwst/potm2401a/thumb.jpg
+zoom_level: 0.4145643944831017
+---
+_uuid: 1765f36f-0acd-4a72-8f02-ef7b31be7c99
+classification: ''
+constellation: DOR
+cxstatus: in:65f7d432affb32cbf1d9965a
+data_set_type: Sky
+dec_deg: -69.37767657250626
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/03_jwst/potm2401b/{1}/{3}/{3}_{2}.png
+name: S1 LMC N79 (cropped)
+ra_hr: 4.864980979747832
+thumbnail: http://data1.wwtassets.org/packages/2024/03_jwst/potm2401b/thumb.jpg
+zoom_level: 0.21708004241158543
+---
+_uuid: 20ad11d0-b8c5-4604-b179-abcb3f7ff6cb
+classification: ''
+constellation: RET
+cxstatus: in:65f7d433affb32cbf1d9965c
+data_set_type: Sky
+dec_deg: -62.78484449116
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/03_jwst/potm2402a/{1}/{3}/{3}_{2}.png
+name: A galactic treasury
+ra_hr: 4.293272315172842
+thumbnail: http://data1.wwtassets.org/packages/2024/03_jwst/potm2402a/thumb.jpg
+zoom_level: 0.38175667680534703
+---
+_uuid: d994c481-01e5-4eb4-b5f7-904a99e8517c
+classification: ''
+constellation: ERI
+cxstatus: in:65f7d64aaffb32cbf1d99663
+data_set_type: Sky
+dec_deg: -24.074355814984862
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/03_jwst/weic2327a/{1}/{3}/{3}_{2}.png
+name: Galaxy cluster MACS0416 (Hubble and Webb composite image)
+ra_hr: 4.269171134382264
+thumbnail: http://data1.wwtassets.org/packages/2024/03_jwst/weic2327a/thumb.jpg
+zoom_level: 0.35074802254202786
+---
 _uuid: db0b944b-82c3-4329-80ff-ee71eae981cf
 angular_size: 1.0
 classification: ClusterOfGalaxies

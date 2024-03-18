@@ -1449,6 +1449,7 @@ zoom_level: 0.35937930142369456
 _uuid: 97166f99-a084-4acd-9ded-577d912b3f2c
 classification: ''
 constellation: PER
+cxstatus: in:65f7d42baffb32cbf1d99648
 data_set_type: Sky
 dec_deg: 32.00878646812287
 foreground_image_set_url: http://data1.wwtassets.org/packages/2023/10_jwst/weic2322b/{1}/{3}/{3}_{2}.png
@@ -1528,6 +1529,30 @@ name: NGC 1433
 ra_hr: 3.7005336565309155
 thumbnail: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403h/thumb.jpg
 zoom_level: 0.36663149966014624
+---
+_uuid: 092625e2-97de-4138-9d14-d929b56dbba2
+classification: ''
+constellation: PER
+cxstatus: in:65f7d430affb32cbf1d99654
+data_set_type: Sky
+dec_deg: 32.05571333170451
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/03_jwst/potm2311a/{1}/{3}/{3}_{2}.png
+name: A prominent protostar in Perseus
+ra_hr: 3.7318094293432558
+thumbnail: http://data1.wwtassets.org/packages/2024/03_jwst/potm2311a/thumb.jpg
+zoom_level: 0.39802684288186396
+---
+_uuid: 24938d33-e3f1-4594-a125-bef1ed8d7fec
+classification: ''
+constellation: PER
+cxstatus: in:65f7d435affb32cbf1d99660
+data_set_type: Sky
+dec_deg: 32.16034031472934
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/03_jwst/weic2331a/{1}/{3}/{3}_{2}.png
+name: Star Cluster IC 348 (NIRCam image)
+ra_hr: 3.7428730112520943
+thumbnail: http://data1.wwtassets.org/packages/2024/03_jwst/weic2331a/thumb.jpg
+zoom_level: 0.9051040003345202
 ---
 _uuid: d82f4bbb-3dfb-484c-896f-af88eca90de8
 angular_size: 1.0

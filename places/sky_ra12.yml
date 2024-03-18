@@ -2125,6 +2125,30 @@ ra_hr: 12.57227139715648
 thumbnail: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403r/thumb.jpg
 zoom_level: 0.33340857133165147
 ---
+_uuid: 6a855c6e-cd72-4d1f-978c-15c92df50b8e
+classification: ''
+constellation: COM
+cxstatus: in:65f7d431affb32cbf1d99656
+data_set_type: Sky
+dec_deg: 21.872988530342795
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/03_jwst/potm2312a/{1}/{3}/{3}_{2}.png
+name: Galactic gathering
+ra_hr: 12.447842696505912
+thumbnail: http://data1.wwtassets.org/packages/2024/03_jwst/potm2312a/thumb.jpg
+zoom_level: 0.2501507486674763
+---
+_uuid: 446019b7-a3d4-4c8a-9f51-22da668e3d2f
+classification: ''
+constellation: UMA
+cxstatus: in:65f7d64caffb32cbf1d99669
+data_set_type: Sky
+dec_deg: 62.202341932454964
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/03_jwst/weic2406d/{1}/{3}/{3}_{2}.png
+name: GOODS-North field (clean)
+ra_hr: 12.615269902294308
+thumbnail: http://data1.wwtassets.org/packages/2024/03_jwst/weic2406d/thumb.jpg
+zoom_level: 0.6677273414351883
+---
 _uuid: 5ecffcd2-2bc6-42cd-b1ce-264b52c191b5
 angular_size: 1.0
 classification: ClusterOfGalaxies
