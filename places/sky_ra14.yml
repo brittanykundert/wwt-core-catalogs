@@ -659,6 +659,30 @@ ra_hr: 14.32766329544028
 thumbnail: http://data1.wwtassets.org/packages/2023/07_jwst/CEERS1/thumb.jpg
 zoom_level: 1.3098328902760412
 ---
+_uuid: 9cf7bd08-b3a0-413a-9575-e228a9c1baa8
+classification: ''
+constellation: BOO
+cxstatus: in:65f7d64baffb32cbf1d99667
+data_set_type: Sky
+dec_deg: 52.89068910178251
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/03_jwst/weic2402b/{1}/{3}/{3}_{2}.png
+name: Lyman-α emitting galaxy EGSY8p7 (NIRCam image)
+ra_hr: 14.335699474593822
+thumbnail: http://data1.wwtassets.org/packages/2024/03_jwst/weic2402b/thumb.jpg
+zoom_level: 0.013701750062711678
+---
+_uuid: 65bc65dc-48e1-48e1-b950-a5240e629db1
+classification: ''
+constellation: VIR
+cxstatus: in:65f7d64faffb32cbf1d9966f
+data_set_type: Sky
+dec_deg: -5.453783423368956
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/03_jwst/weic2408a/{1}/{3}/{3}_{2}.png
+name: NGC 5468 — Cepheid host galaxy
+ra_hr: 14.109706010086365
+thumbnail: http://data1.wwtassets.org/packages/2024/03_jwst/weic2408a/thumb.jpg
+zoom_level: 0.3632691377309907
+---
 _uuid: b0b1e513-56d9-438e-8966-382761b05d06
 angular_size: 1.0
 classification: Galaxy

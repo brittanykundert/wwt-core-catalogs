@@ -1531,6 +1531,18 @@ ra_hr: 17.678333393951732
 thumbnail: http://data1.wwtassets.org/packages/2023/11_euclid/euclid-ero-ngc6397/thumb.jpg
 zoom_level: 6.9718334722501005
 ---
+_uuid: 91448d37-a5a6-4ebd-8765-eacea82240ff
+classification: ''
+constellation: SGR
+cxstatus: in:65f7d64baffb32cbf1d99665
+data_set_type: Sky
+dec_deg: -29.44781842403824
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/03_jwst/weic2328a/{1}/{3}/{3}_{2}.png
+name: Sagittarius C (NIRCam Image)
+ra_hr: 17.744680222776722
+thumbnail: http://data1.wwtassets.org/packages/2024/03_jwst/weic2328a/thumb.jpg
+zoom_level: 0.3851803910369459
+---
 _uuid: b8aa745a-f65b-4948-b3c1-4965d00a6012
 angular_size: 1.0
 classification: Galaxy

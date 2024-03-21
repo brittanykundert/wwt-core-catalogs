@@ -1885,6 +1885,30 @@ ra_hr: 13.31405571363893
 thumbnail: http://data1.wwtassets.org/packages/2024/01_jwst/weic2403s/thumb.jpg
 zoom_level: 0.34500383999754625
 ---
+_uuid: b74230cb-47ec-425e-afb5-4da9d72b7713
+classification: ''
+constellation: HYA
+cxstatus: in:65f7d42eaffb32cbf1d99650
+data_set_type: Sky
+dec_deg: -29.86809609309713
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/03_jwst/potm2301a/{1}/{3}/{3}_{2}.png
+name: No tricks, just treats (M83 MIRI image)
+ra_hr: 13.617128801396118
+thumbnail: http://data1.wwtassets.org/packages/2024/03_jwst/potm2301a/thumb.jpg
+zoom_level: 0.3171416223008537
+---
+_uuid: 2dd7f00b-1c70-4622-aa23-0b2f447a7f77
+classification: ''
+constellation: HYA
+cxstatus: in:65f7d42faffb32cbf1d99652
+data_set_type: Sky
+dec_deg: -29.8668454503654
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/03_jwst/potm2301b/{1}/{3}/{3}_{2}.png
+name: No tricks, just treats (M83 NIRCam image)
+ra_hr: 13.617159886463662
+thumbnail: http://data1.wwtassets.org/packages/2024/03_jwst/potm2301b/thumb.jpg
+zoom_level: 0.3787449179797723
+---
 _uuid: 53a1a2b0-0678-4a7c-ae78-b04985434e06
 angular_size: 1.0
 classification: PlanetaryNebula
