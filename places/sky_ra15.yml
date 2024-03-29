@@ -283,6 +283,7 @@ _uuid: c1abf9d2-a764-44ac-858a-6b6b911cc67c
 angular_size: 1.0
 classification: Galaxy
 constellation: SER1
+cxstatus: in:66070810dc7be96c90c53418
 data_set_type: Sky
 dec_deg: 23.5036111111111
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013331{Q}?g=131
@@ -338,6 +339,7 @@ _uuid: f9af31cc-f248-46c5-8193-ba75c0a02c4f
 angular_size: 1.0
 classification: Galaxy
 constellation: TRA
+cxstatus: in:66070825dc7be96c90c53444
 data_set_type: Sky
 dec_deg: -63.1266666666667
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000013012{Q}?g=131
@@ -349,6 +351,7 @@ _uuid: 83ed8910-d20e-4073-90ea-c587ab30c78d
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: BOO
+cxstatus: in:66070827dc7be96c90c53448
 data_set_type: Sky
 dec_deg: 42.7427777777778
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000013132{Q}?g=182
@@ -419,6 +422,7 @@ zoom_level: 4.304904192
 _uuid: d073a5ac-e8dd-4b26-8770-973a963c28c4
 classification: ''
 constellation: SER1
+cxstatus: in:6607080ddc7be96c90c53412
 data_set_type: Sky
 dec_deg: 24.0713329315
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-381L{1}X{2}Y{3}.png

@@ -32,6 +32,7 @@ _uuid: 5d80ee30-fe71-4be0-8cb5-978bf36ed998
 annotation: '{"channel": "eso", "itemid": "eso0527a", "publishedUTCISO8601": "2005-08-24T00:00:00+00:00"}'
 classification: ''
 constellation: RET
+cxstatus: in:6607083edc7be96c90c5347a
 data_set_type: Sky
 dec_deg: -62.781121508248496
 description: Colour-composite image of the spiral galaxy NGC 1559 in the Reticulum
@@ -697,6 +698,7 @@ zoom_level: 0.589975552
 _uuid: c908555f-75f1-4edf-94cf-816674a46163
 classification: ''
 constellation: ORI
+cxstatus: in:66070806dc7be96c90c53404
 data_set_type: Sky
 dec_deg: 2.896944444
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-368L{1}X{2}Y{3}.png

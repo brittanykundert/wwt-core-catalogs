@@ -2,6 +2,7 @@ _uuid: 66e5554c-1e50-4e98-8d12-df9a85a61883
 annotation: '{"channel": "eso", "itemid": "eso0533a", "publishedUTCISO8601": "2005-10-06T00:00:00+00:00"}'
 classification: ''
 constellation: GRU
+cxstatus: in:66070840dc7be96c90c5347e
 data_set_type: Sky
 dec_deg: -38.97755826268418
 description: First image in the visible (more precisely here, in the so-called R-band)
@@ -802,6 +803,7 @@ _uuid: 1f118417-1a26-4a54-99af-d6a040283da7
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: PEG
+cxstatus: in:66070817dc7be96c90c53426
 data_set_type: Sky
 dec_deg: 25.5574166666667
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012321{Q}?g=182
@@ -813,6 +815,7 @@ _uuid: 6fcc8e51-565e-47dc-90a7-9d0643d18cbe
 angular_size: 1.0
 classification: Galaxy
 constellation: TUC
+cxstatus: in:6607081bdc7be96c90c53430
 data_set_type: Sky
 dec_deg: -59.0536111111111
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000013211{Q}?g=182
@@ -824,6 +827,7 @@ _uuid: 598a240c-a5d5-47e6-8446-2e4ea52e9806
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: PEG
+cxstatus: in:6607081ddc7be96c90c53434
 data_set_type: Sky
 dec_deg: 8.77777777777778
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000020001{Q}?g=182
@@ -915,6 +919,7 @@ _uuid: 00bcf56c-e552-45ae-8b36-b02c74c543b7
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: PEG
+cxstatus: in:66070831dc7be96c90c5345e
 data_set_type: Sky
 dec_deg: 8.88511111111111
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013133{Q}?g=182

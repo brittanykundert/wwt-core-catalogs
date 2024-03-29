@@ -795,6 +795,7 @@ _uuid: 46a950d0-c7c1-4363-8327-e194893608e6
 annotation: '{"channel": "eso", "itemid": "eso0513a", "publishedUTCISO8601": "2005-04-22T00:00:00+00:00"}'
 classification: ''
 constellation: MEN
+cxstatus: in:66070836dc7be96c90c5346a
 data_set_type: Sky
 dec_deg: -71.31510111290811
 description: Composite six-colour image of a part of the LMC H II region N214. The
@@ -816,6 +817,7 @@ _uuid: 46d43fd7-2f28-4032-a02b-9f1e577f8fff
 annotation: '{"channel": "eso", "itemid": "eso0513b", "publishedUTCISO8601": "2005-04-22T00:00:00+00:00"}'
 classification: ''
 constellation: MEN
+cxstatus: in:66070837dc7be96c90c5346c
 data_set_type: Sky
 dec_deg: -71.33221127985534
 description: Zoom-in on the LMC H II region N214C. The field size is 193&quot;x 201&quot;
@@ -832,6 +834,7 @@ _uuid: ae999ff5-0b6b-4c62-82cd-287571c7050b
 annotation: '{"channel": "eso", "itemid": "eso0513e", "publishedUTCISO8601": "2005-04-22T00:00:00+00:00"}'
 classification: ''
 constellation: MEN
+cxstatus: in:66070838dc7be96c90c5346e
 data_set_type: Sky
 dec_deg: -71.31717443477243
 description: Zoom-in on the nebular blob lying ~ 60&quot; (50 light-years) north of
@@ -4376,6 +4379,7 @@ _uuid: cee81fbc-035c-4e83-8213-59c03231408a
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: AUR
+cxstatus: in:66070835dc7be96c90c53466
 data_set_type: Sky
 dec_deg: 49.6947777777778
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013323{Q}?g=182

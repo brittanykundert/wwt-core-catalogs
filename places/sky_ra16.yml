@@ -174,6 +174,7 @@ _uuid: d5c04d23-1f40-4aae-9692-61e80a13dc98
 annotation: '{"channel": "eso", "itemid": "eso0510a", "publishedUTCISO8601": "2005-03-22T00:00:00+00:00"}'
 classification: ''
 constellation: ARA
+cxstatus: in:66070836dc7be96c90c53468
 data_set_type: Sky
 dec_deg: -45.851960429619595
 description: Composite image of the super star cluster &quot;Westerlund 1&quot; from
@@ -1142,6 +1143,7 @@ _uuid: 0853dfea-01cc-42ee-82e2-7bbd8e30f525
 angular_size: 1.0
 classification: Galaxy
 constellation: TRA
+cxstatus: in:6607080edc7be96c90c53414
 data_set_type: Sky
 dec_deg: -68.4416666666667
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013322{Q}?g=131
@@ -1187,6 +1189,7 @@ _uuid: 305f1089-3e0d-49c2-b9f7-9e8605af67c4
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: DRA
+cxstatus: in:6607081edc7be96c90c53436
 data_set_type: Sky
 dec_deg: 52.4569444444444
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012012{Q}?g=182
@@ -1242,6 +1245,7 @@ _uuid: 877ae142-349f-4af2-9f57-05c2ad12466e
 angular_size: 1.0
 classification: Galaxy
 constellation: HER
+cxstatus: in:66070830dc7be96c90c5345c
 data_set_type: Sky
 dec_deg: 17.7575
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013113{Q}?g=131
@@ -1253,6 +1257,7 @@ _uuid: 63ddd1f0-6b61-4909-9d26-91a9c3e9b601
 angular_size: 1.0
 classification: Galaxy
 constellation: OPH
+cxstatus: in:66070832dc7be96c90c53460
 data_set_type: Sky
 dec_deg: 2.40027777777778
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013203{Q}?g=131
@@ -1263,6 +1268,7 @@ zoom_level: 0.981666666666667
 _uuid: dca83e11-a904-499e-b89f-a8f4e8cb16ee
 classification: ''
 constellation: NOR
+cxstatus: in:66070804dc7be96c90c53400
 data_set_type: Sky
 dec_deg: -51.01998487632
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-361L{1}X{2}Y{3}.png
@@ -1274,6 +1280,7 @@ zoom_level: 1.0694623232
 _uuid: d2ed6653-bd64-4a55-8b77-fe37fd941b59
 classification: ''
 constellation: TRA
+cxstatus: in:66070809dc7be96c90c5340a
 data_set_type: Sky
 dec_deg: -60.75511085
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-371L{1}X{2}Y{3}.png

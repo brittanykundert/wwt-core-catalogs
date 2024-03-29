@@ -1001,6 +1001,7 @@ _uuid: 79ea098e-0f37-49fa-a810-dabe9b9e73a4
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: DEL
+cxstatus: in:6607081adc7be96c90c5342e
 data_set_type: Sky
 dec_deg: 17.1262777777778
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000013101{Q}?g=182
@@ -1023,6 +1024,7 @@ _uuid: 5c990bf4-7095-4abb-8ac7-66d3bd1147c3
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: MIC
+cxstatus: in:6607082fdc7be96c90c5345a
 data_set_type: Sky
 dec_deg: -42.6494444444444
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013103{Q}?g=182
@@ -1034,6 +1036,7 @@ _uuid: b42fe933-7cef-4ac6-abe6-d1f5ec4c1d4f
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: VUL
+cxstatus: in:66070834dc7be96c90c53464
 data_set_type: Sky
 dec_deg: 25.5273611111111
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013223{Q}?g=182

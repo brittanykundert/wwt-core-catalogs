@@ -1062,6 +1062,7 @@ _uuid: 2ce4c16d-dd90-4db0-9199-659747b59a19
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: LEO
+cxstatus: in:66070826dc7be96c90c53446
 data_set_type: Sky
 dec_deg: 14.6763888888889
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000013032{Q}?g=182
@@ -1073,6 +1074,7 @@ _uuid: c941eef2-96e4-4979-804f-021cbe9289b7
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: UMA
+cxstatus: in:66070828dc7be96c90c5344c
 data_set_type: Sky
 dec_deg: 58.5630277777778
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000013222{Q}?g=182
@@ -1117,6 +1119,7 @@ _uuid: f7b4975f-6668-4370-8a42-9d6321779db0
 angular_size: 1.0
 classification: Galaxy
 constellation: UMA
+cxstatus: in:6607082ddc7be96c90c53456
 data_set_type: Sky
 dec_deg: 40.8511111111111
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012313{Q}?g=131
@@ -1199,6 +1202,7 @@ zoom_level: 1.54399440896
 _uuid: 9e22ce74-31d6-4fe3-b8b3-d6afce88d32d
 classification: ''
 constellation: CEN
+cxstatus: in:6607080adc7be96c90c5340c
 data_set_type: Sky
 dec_deg: -59.266678641361
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-376L{1}X{2}Y{3}.png
