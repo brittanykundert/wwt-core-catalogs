@@ -710,6 +710,7 @@ _uuid: 377ddc89-ff97-426e-8aeb-c532fab1efc0
 angular_size: 1.0
 classification: Galaxy
 constellation: BOO
+cxstatus: in:66070815dc7be96c90c53422
 data_set_type: Sky
 dec_deg: 24.6147222222222
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012111{Q}?g=131
@@ -743,6 +744,7 @@ _uuid: 815b25b3-48ff-46b0-a6e8-fe632909ad5b
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: BOO
+cxstatus: in:6607082adc7be96c90c53450
 data_set_type: Sky
 dec_deg: 38.7316666666667
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012033{Q}?g=182

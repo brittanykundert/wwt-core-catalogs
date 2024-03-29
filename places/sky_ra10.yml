@@ -1386,6 +1386,7 @@ _uuid: 78f83c98-db80-456e-b508-2e1e715afb13
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: ANT
+cxstatus: in:66070812dc7be96c90c5341c
 data_set_type: Sky
 dec_deg: -33.8874444444444
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012001{Q}?g=182
@@ -1430,6 +1431,7 @@ _uuid: ae53030f-00ae-47b7-b5a4-ae097d28c013
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: VEL
+cxstatus: in:66070822dc7be96c90c5343e
 data_set_type: Sky
 dec_deg: -43.9037222222222
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012202{Q}?g=182
@@ -1475,6 +1477,7 @@ _uuid: d12b0364-ce79-4eed-accb-18d8313dda56
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: LEO
+cxstatus: in:6607082edc7be96c90c53458
 data_set_type: Sky
 dec_deg: 24.5427777777778
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013013{Q}?g=182
@@ -1521,6 +1524,7 @@ zoom_level: 3.1751725056
 _uuid: 8208c385-9775-4bf5-9bd9-c157be77a259
 classification: ''
 constellation: CAR
+cxstatus: in:66070803dc7be96c90c533fe
 data_set_type: Sky
 dec_deg: -59.685
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-359L{1}X{2}Y{3}.png

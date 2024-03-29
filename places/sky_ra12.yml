@@ -323,6 +323,7 @@ _uuid: 2065471b-3e88-45fc-b8c6-7b25292e4631
 annotation: '{"channel": "eso", "itemid": "eso0525a", "publishedUTCISO8601": "2005-08-10T00:00:00+00:00"}'
 classification: ''
 constellation: COM
+cxstatus: in:6607083cdc7be96c90c53476
 data_set_type: Sky
 dec_deg: 25.988174895819974
 description: The first galaxy pictured here is NGC 4565, which for obvious reasons
@@ -2460,6 +2461,7 @@ _uuid: a9ba7b61-8db1-40cf-a533-bd6b3b5cb248
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: UMA
+cxstatus: in:66070827dc7be96c90c5344a
 data_set_type: Sky
 dec_deg: 56.87425
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000013202{Q}?g=182

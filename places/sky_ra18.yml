@@ -1939,6 +1939,7 @@ _uuid: f378084f-9442-4dbb-a7af-6ca09e7ed18f
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: PAV
+cxstatus: in:66070820dc7be96c90c5343a
 data_set_type: Sky
 dec_deg: -57.7252777777778
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012102{Q}?g=182
@@ -2006,6 +2007,7 @@ _uuid: 8cfa10bd-fd09-4505-9cc5-9b713385eaba
 angular_size: 1.0
 classification: Galaxy
 constellation: DRA
+cxstatus: in:66070829dc7be96c90c5344e
 data_set_type: Sky
 dec_deg: 59.8891666666667
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012003{Q}?g=131
@@ -2017,6 +2019,7 @@ _uuid: 498eaf16-f0ef-4530-8e9f-aca33b661801
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: DRA
+cxstatus: in:6607082bdc7be96c90c53452
 data_set_type: Sky
 dec_deg: 68.3636111111111
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012213{Q}?g=182

@@ -128,6 +128,7 @@ _uuid: 006dc43a-8b44-4e30-a087-f5970d5dcbbd
 annotation: '{"channel": "eso", "itemid": "eso0524a", "publishedUTCISO8601": "2005-08-01T00:00:00+00:00"}'
 classification: ''
 constellation: SCL
+cxstatus: in:6607083bdc7be96c90c53474
 data_set_type: Sky
 dec_deg: -37.68206499223349
 description: Location of the three fields in the Sculptor spiral galaxy NGC 300 for
@@ -1357,6 +1358,7 @@ _uuid: 8d5908fb-c602-462e-96c0-ca982b8fa621
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: CAS
+cxstatus: in:66070818dc7be96c90c53428
 data_set_type: Sky
 dec_deg: 73.0874444444444
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012331{Q}?g=182
@@ -1368,6 +1370,7 @@ _uuid: baed4ca6-1c04-4774-8d5d-7f9a37c56218
 angular_size: 1.0
 classification: Galaxy
 constellation: CET
+cxstatus: in:66070819dc7be96c90c5342c
 data_set_type: Sky
 dec_deg: -10.3677777777778
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000013031{Q}?g=131
@@ -1576,6 +1579,7 @@ zoom_level: 7.73554520064
 _uuid: 58f1a9c6-0cfa-4115-b113-55bf4941b9a9
 classification: ''
 constellation: TUC
+cxstatus: in:66070807dc7be96c90c53406
 data_set_type: Sky
 dec_deg: -73.12194444444
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-369L{1}X{2}Y{3}.png
@@ -1587,6 +1591,7 @@ zoom_level: 4.57738338304
 _uuid: f41b07d1-e95e-4b7c-bbb5-ce7afd68e909
 classification: ''
 constellation: CAS
+cxstatus: in:6607080bdc7be96c90c5340e
 data_set_type: Sky
 dec_deg: 56.564947
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-378L{1}X{2}Y{3}.png

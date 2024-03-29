@@ -335,6 +335,7 @@ _uuid: fbb36e31-3e70-4831-aa48-8bb44553003e
 annotation: '{"channel": "eso", "itemid": "eso0525b", "publishedUTCISO8601": "2005-08-10T00:00:00+00:00"}'
 classification: ''
 constellation: HYA
+cxstatus: in:6607083ddc7be96c90c53478
 data_set_type: Sky
 dec_deg: -29.865137739521774
 description: If our Milky Way were to resemble this one, we certainly would be proud
@@ -1985,6 +1986,7 @@ _uuid: 5ecf720c-e2a0-491f-84e6-b61c6bdc0ddd
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: UMA
+cxstatus: in:6607080fdc7be96c90c53416
 data_set_type: Sky
 dec_deg: 55.88625
 foreground_image_set_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013330{Q}?g=182
@@ -2029,6 +2031,7 @@ _uuid: 4836f8c8-b167-4942-9926-351b5fa9451b
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: VIR
+cxstatus: in:66070813dc7be96c90c5341e
 data_set_type: Sky
 dec_deg: 4.33308333333333
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012011{Q}?g=182
@@ -2040,6 +2043,7 @@ _uuid: 6d2d93cf-a8cf-44ea-b1a5-99e8037f8ce4
 angular_size: 1.0
 classification: Galaxy
 constellation: UMA
+cxstatus: in:66070814dc7be96c90c53420
 data_set_type: Sky
 dec_deg: 62.1275
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012101{Q}?g=131
@@ -2096,6 +2100,7 @@ _uuid: 1a58ce3a-b116-4e82-9137-61da6b510e56
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: UMA
+cxstatus: in:6607081fdc7be96c90c53438
 data_set_type: Sky
 dec_deg: 48.2762777777778
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012022{Q}?g=182
@@ -2107,6 +2112,7 @@ _uuid: 577f21c4-d486-4e6d-be97-3adb2ee304f1
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: VIR
+cxstatus: in:66070821dc7be96c90c5343c
 data_set_type: Sky
 dec_deg: 2.10416666666667
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012122{Q}?g=182
@@ -2118,6 +2124,7 @@ _uuid: 1542e6e9-3774-4628-b29c-fca14211abe3
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: HYA
+cxstatus: in:66070824dc7be96c90c53442
 data_set_type: Sky
 dec_deg: -23.9222222222222
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012322{Q}?g=182
@@ -2196,6 +2203,7 @@ _uuid: 46d219ff-ab5f-4689-9511-9d673b435cd3
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: CVN
+cxstatus: in:6607082cdc7be96c90c53454
 data_set_type: Sky
 dec_deg: 34.1393055555556
 foreground_image_set_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012223{Q}?g=182
@@ -2290,6 +2298,7 @@ zoom_level: 2.08747790336
 _uuid: c9bb64c2-240d-4ce6-b285-0a3ebaaa3afd
 classification: ''
 constellation: CVN
+cxstatus: in:6607080cdc7be96c90c53410
 data_set_type: Sky
 dec_deg: 47.2134616
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-380L{1}X{2}Y{3}.png

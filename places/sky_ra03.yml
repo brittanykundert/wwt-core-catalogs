@@ -171,6 +171,7 @@ _uuid: 416f9e95-8607-41a7-9df2-378977e38d99
 annotation: '{"channel": "eso", "itemid": "eso0521a", "publishedUTCISO8601": "2005-06-30T00:00:00+00:00"}'
 classification: ''
 constellation: FOR
+cxstatus: in:66070839dc7be96c90c53470
 data_set_type: Sky
 dec_deg: -35.9929121905587
 description: Composite image taken in two bands (B and R) with VLT/FORS1 of a small
@@ -195,6 +196,7 @@ _uuid: 5798c3d7-0cd3-44d3-b772-10b79f1d7320
 annotation: '{"channel": "eso", "itemid": "eso0521b", "publishedUTCISO8601": "2005-06-30T00:00:00+00:00"}'
 classification: ''
 constellation: FOR
+cxstatus: in:6607083adc7be96c90c53472
 data_set_type: Sky
 dec_deg: -35.96423011781192
 description: 'Using ESO&#x27;s Very Large Telescope, Remi Cabanac and his European
@@ -213,6 +215,7 @@ _uuid: 63c1c44a-46a7-454a-aad6-a527aff823db
 annotation: '{"channel": "eso", "itemid": "eso0532a", "publishedUTCISO8601": "2005-09-29T00:00:00+00:00"}'
 classification: ''
 constellation: FOR
+cxstatus: in:6607083fdc7be96c90c5347c
 data_set_type: Sky
 dec_deg: -33.62629481304104
 description: Colour-composite of the spiral galaxy NGC 1350 taken with FORS2 at the

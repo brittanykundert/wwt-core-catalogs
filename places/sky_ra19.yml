@@ -1281,6 +1281,7 @@ _uuid: 60a0e466-64b3-4923-8e18-95b8ab02af53
 angular_size: 1.0
 classification: Galaxy
 constellation: SGR
+cxstatus: in:66070823dc7be96c90c53440
 data_set_type: Sky
 dec_deg: -21.3183333333333
 foreground_image_set_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012222{Q}?g=131
@@ -1359,6 +1360,7 @@ zoom_level: 0.0855724867584
 _uuid: 2dbfaee7-8e09-4446-ae31-405fd85ef8aa
 classification: ''
 constellation: CRA
+cxstatus: in:66070808dc7be96c90c53408
 data_set_type: Sky
 dec_deg: -36.97373199
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-370L{1}X{2}Y{3}.png
