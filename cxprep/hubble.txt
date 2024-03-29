@@ -8,8 +8,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=77568283
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
@@ -17,9 +15,11 @@ place_uuid: 0853dfea-01cc-42ee-82e2-7bbd8e30f525
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013322{Q}?g=131
 outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> ESO 69-6;ESO 069-IG006;AM 1633-682
+text> This image of ESO 69-6 is one of 59 views of colliding galaxies released
+in celebration of the Hubble Space Telescope’s 18th launch anniversary. This
+Hubble atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -31,18 +31,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=82745644
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 5ecf720c-e2a0-491f-84e6-b61c6bdc0ddd
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013330{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> Mrk 273;UGC 8696;I Zw 071
+text> This image of Mrk 273 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -54,8 +54,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=84878761
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
@@ -63,9 +61,11 @@ place_uuid: c1abf9d2-a764-44ac-858a-6b6b911cc67c
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000013331{Q}?g=131
 outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> Arp 220;IC 1127;VV 540;KPG 470;UGC 09913
+text> This image of Arp 220 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -77,18 +77,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=97503002
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 7454a533-426f-44d7-9331-93a586cf83aa
 image_url: http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000020020{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> NGC 695;V Zw 123
+text> This image of NGC 695 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -1516,18 +1516,17 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=10500301
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 78f83c98-db80-456e-b508-2e1e715afb13
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012001{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> IC 2545;AM 1003-333
-
-wip: yes
+text> This image of IC 2545 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 ---
 
 @image
@@ -1539,18 +1538,17 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=11383047
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 4836f8c8-b167-4942-9926-351b5fa9451b
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012011{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> VV 283;CGCG 043-099;MCG+01-33-036
-
-wip: yes
+text> This image of VV 283 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 ---
 
 @image
@@ -1562,18 +1560,17 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=13172340
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 6d2d93cf-a8cf-44ea-b1a5-99e8037f8ce4
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012101{Q}?g=131
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> UGC 8335;VV 250a';Arp 238;KPG 369B
-
-wip: yes
+text> This image of UGC 8335 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 ---
 
 @image
@@ -1585,18 +1582,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=13624226
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 377ddc89-ff97-426e-8aeb-c532fab1efc0
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012111{Q}?g=131
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> UGC 9618;VV 340A;Arp 302;VV 340B;KPG 446B;
+text> This image of UGC 9618 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -1616,9 +1613,11 @@ place_uuid: 6acc4b45-facb-4ea6-9f7f-213334cabfe4
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012211{Q}?g=131
 outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> 2MASX J09133888-1019196;IRAS F09111-1007
+text> This image of 2MASX J09133888-1019196 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -1630,18 +1629,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=17943681
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: a1cebc63-143e-48e6-b6ab-d1b97f5109b6
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012311{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> UGC 5101
+text> This image of UGC 5101 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -1653,18 +1652,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=18826426
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 1f118417-1a26-4a54-99af-d6a040283da7
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012321{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> IC 5298
+text> This image of IC 5298 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -1677,17 +1676,18 @@ credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
 
-wip: yes
 ---
 
 @scene
 place_uuid: 8d5908fb-c602-462e-96c0-ca982b8fa621
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000012331{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> MCG+12-02-001
+text> This image of MCG+12-02-001 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -1696,12 +1696,10 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=2126486952
 
-credits> The Hubble image was created using HST data from proposal 10592: A.
-Evans (University of Virginia, Charlottesville/NRAO/Stony Brook University).
-NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration, and A.
-Evans (University of Virginia, Charlottesville/NRAO/Stony Brook University)
+credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
+and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
+University)
 
-wip: yes
 ---
 
 @scene
@@ -1709,9 +1707,11 @@ place_uuid: 12721454-cabd-4c67-a3ec-f1428d2c7443
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000013021{Q}?g=182
 outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> ESO 255-7;ESO 255-IG007;AM 0626-470
+text> This image of ESO 255-7 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -1723,18 +1723,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=21944607
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: baed4ca6-1c04-4774-8d5d-7f9a37c56218
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000013031{Q}?g=131
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> Arp 256;UGC 9618;VV 340A;Arp 302;VV 340B;KPG 446B;
+text> This image of Arp 256 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -1746,18 +1746,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=30077394
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 79ea098e-0f37-49fa-a810-dabe9b9e73a4
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000013101{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> II Zw 96;ZW II 96;CGCG 448-020;2MASX J20572362+1707445
+text> This image of II Zw 96 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -1770,7 +1770,6 @@ credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
 
-wip: yes
 ---
 
 @scene
@@ -1778,9 +1777,11 @@ place_uuid: 6fcc8e51-565e-47dc-90a7-9d0643d18cbe
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000013211{Q}?g=182
 outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> ESO 148-2;ESO 148-IG002;AM 2312-591
+text> This image of ESO 148-2 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -1792,8 +1793,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=58661163
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
@@ -1801,9 +1800,11 @@ place_uuid: 184458bb-a5f3-4cda-85a7-11f9b88aafe4
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000013231{Q}?g=182
 outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> ESO 239-2;ESO 239-IG002;AM 2246-490
+text> This image of ESO 239-2 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -1815,18 +1816,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=87612872
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 598a240c-a5d5-47e6-8446-2e4ea52e9806
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000020001{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> NGC 7674;Mrk 533;HCG 96;Arp 182;VV 343a
+text> This image of NGC 7674 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -3168,18 +3169,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=11526892
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 305f1089-3e0d-49c2-b9f7-9e8605af67c4
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012012{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> NGC 6090;Mrk 0496;VV 626;I Zw 135;KPG 486
+text> This image of NGC 6090 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -3191,18 +3192,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=12533011
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 1a58ce3a-b116-4e82-9137-61da6b510e56
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012022{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> NGC 5256;Mrk 0266;I Zw 067;KPG 388
+text> This image of NGC 5256 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -3214,18 +3215,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=13236965
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: f378084f-9442-4dbb-a7af-6ca09e7ed18f
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012102{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> IC 4687/6;IC 4689;AM 1809-574
+text> This image of IC 4687/6 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -3237,18 +3238,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=14171957
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 577f21c4-d486-4e6d-be97-3adb2ee304f1
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012122{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> NGC 5331;VV 253;KPG 401
+text> This image of NGC 5331 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -3260,18 +3261,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=15269674
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: ae53030f-00ae-47b7-b5a4-ae097d28c013
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012202{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> NGC 3256;VV 065;AM 1025-433
+text> This image of NGC 3256 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -3283,18 +3284,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=15817405
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 60a0e466-64b3-4923-8e18-95b8ab02af53
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012222{Q}?g=131
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> ESO 593-8;ESO 593-IG008
+text> This image of ESO 593-8 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -3306,18 +3307,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=19039738
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 1542e6e9-3774-4628-b29c-fca14211abe3
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000012322{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> ESO 507-70;ESO 507-G070;AM 1300-233
+text> This image of ESO 507-70 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -3329,8 +3330,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=20838852
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
@@ -3338,9 +3337,11 @@ place_uuid: f9af31cc-f248-46c5-8193-ba75c0a02c4f
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000013012{Q}?g=131
 outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> ESO 99-4;ESO 099-G004
+text> This image of ESO 99-4 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -3352,18 +3353,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=25817220
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 2ce4c16d-dd90-4db0-9199-659747b59a19
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000013032{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> IC 2810
+text> This image of IC 2810 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -3375,18 +3376,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=44356400
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 83ed8910-d20e-4073-90ea-c587ab30c78d
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000013132{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> VV 705;Mrk 848;I Zw 107
+text> This image of VV 705 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -3398,18 +3399,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=48616575
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: a9ba7b61-8db1-40cf-a533-bd6b3b5cb248
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000013202{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> UGC 8058;Mrk 0231;VII Zw 490;QSO B1254+571
+text> This image of UGC 8058 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -3421,18 +3422,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=54901257
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: c941eef2-96e4-4979-804f-021cbe9289b7
 image_url: http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000013222{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> NGC 3690;IC 694;Mrk 171;Arp 299;VV 118;KPG 288
+text> This image of NGC 3690 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -4748,18 +4749,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=10887562
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 8cfa10bd-fd09-4505-9cc5-9b713385eaba
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012003{Q}?g=131
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> NGC 6670A/B;VII Zw 812
+text> This image of NGC 6670A/B is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -4771,18 +4772,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=12959028
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 815b25b3-48ff-46b0-a6e8-fe632909ad5b
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012033{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> NGC 5754;NGC 5752/4;Arp 297;
+text> This image of NGC 5754 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -4817,18 +4818,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=15604093
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 498eaf16-f0ef-4530-8e9f-aca33b661801
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012213{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> NGC 6621;NGC 6622;VV 247;Arp 81;VII Zw 778;KPG 534A
+text> This image of NGC 6621 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -4840,18 +4841,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=16204666
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 46d219ff-ab5f-4689-9511-9d673b435cd3
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012223{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> IC 883;UGC 08387;Arp 193;VV 821;I Zw 056
+text> This image of IC 883 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -4863,18 +4864,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=18439165
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: f7b4975f-6668-4370-8a42-9d6321779db0
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000012313{Q}?g=131
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> Arp 148;VV 032;Mayall's Object;MCG+07-23-019
+text> This image of Arp 148 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -4886,18 +4887,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=21052163
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: d12b0364-ce79-4eed-accb-18d8313dda56
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013013{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> IRAS F10565+2448;EQ 1056+248
+text> This image of IRAS F10565+2448 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -4909,18 +4910,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=32210512
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 5c990bf4-7095-4abb-8ac7-66d3bd1147c3
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013103{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> ESO 286-19, ESO 286-IG019, AM 2055-425
+text> This image of ESO 286-19 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -4932,8 +4933,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=33570079
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
@@ -4941,9 +4940,11 @@ place_uuid: 877ae142-349f-4af2-9f57-05c2ad12466e
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013113{Q}?g=131
 outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> NGC 6050;IC 1179;Arp 272
+text> This image of NGC 6050 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -4955,18 +4956,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=47178123
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 00bcf56c-e552-45ae-8b36-b02c74c543b7
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013133{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> NGC 7469;QSO J2303+0852;Arp 298;Mrk 1514;IC 5283;KPG 575A
+text> This image of NGC 7469 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -4978,18 +4979,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=49311241
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: 63ddd1f0-6b61-4909-9d26-91a9c3e9b601
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013203{Q}?g=131
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> NGC 6240;VV 617
+text> This image of NGC 6240 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -5001,18 +5002,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=52334767
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: cf8ad326-91d8-4ea7-a5bf-eddfc9ab2157
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013213{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> IRAS 21101+5810;2MASX J21112926+5823074
+text> This image of IRAS 21101+5810 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -5024,18 +5025,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=56528045
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: b42fe933-7cef-4ac6-abe6-d1f5ec4c1d4f
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013223{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> IRAS 20351+2521;2MASX J20371771+2531377
+text> This image of IRAS 20351+2521 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
@@ -5047,18 +5048,18 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=79701401
 credits> NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration,
 and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook
 University)
-
-wip: yes
 ---
 
 @scene
 place_uuid: cee81fbc-035c-4e83-8213-59c03231408a
 image_url: http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000013323{Q}?g=182
-outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html/
+outgoing_url: https://hubblesite.org/contents/news-releases/2008/news-2008-16.html
 
-text> MCG+08-11-002
+text> This image of MCG+08-11-002 is one of 59 views of colliding galaxies released in
+celebration of the Hubble Space Telescope’s 18th launch anniversary. This Hubble
+atlas dramatically illustrates how galaxy collisions produce a remarkable
+variety of intricate structures in never-before-seen detail.
 
-wip: yes
 ---
 
 @image
