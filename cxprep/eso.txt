@@ -7,7 +7,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0510a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -17,15 +16,10 @@ outgoing_url: https://www.eso.org/public/images/eso0510a/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0510a/thumb.jpg
 
 text> Composite image of the super star cluster “Westerlund 1” from
-2.2-m MPG/ESO Wide-Field Imager (WFI) observations. The image covers a 5 x 5
-arcmin sky region and is based on observations made in the V-band (550 nm, 2 min
-exposure time, associated to the blue channel), R-band (650nm, 1 min, green
-channel) and I-band (784nm, 18 sec, red channel). Only the central CCD of WFI
-was used, as the entire cluster fits comfortably inside it. The foreground stars
+2.2-m MPG/ESO Wide-Field Imager (WFI) observations. The foreground stars
 appear blue, while the hot massive members of the cluster look orange, and the
 cool massive ones come out red.
 
-wip: yes
 ---
 
 @image
@@ -36,7 +30,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0513a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -47,16 +40,8 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0513a/thumb.jpg
 
 text> Composite six-colour image of a part of the LMC H II region N214. The
 image, taken with the ESO NTT/SuSI2, results from the co-addition of several
-individual exposures taken through various narrow and broadband filters (see
-Technical Information below). The field size is 248&quot;x 332&quot;
-corresponding to approximately 200 x 270 light-years. North is up and east to
-the left. The large nebula in the lower part is N214C which in shown further as
-ESO Press Photo eso0513b. At upper left to the middle, a stellar cluster is
-clearly seen. At top-right, another series of compact reddish nebulae, N214H,
-are present. The new observations reveal that N214H consist of four compact H II
-regions hosting exciting stars and a diffuse nebula.
+individual exposures taken through various narrow and broadband filters.
 
-wip: yes
 ---
 
 @image
@@ -67,7 +52,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0513b/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -76,12 +60,9 @@ image_url: http://data1.wwtassets.org/feeds/eso/eso0513b/L{1}X{2}Y{3}.png
 outgoing_url: https://www.eso.org/public/images/eso0513b/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0513b/thumb.jpg
 
-text> Zoom-in on the LMC H II region N214C. The field size is 193&quot;x
-201&quot; corresponding to roughly 160 x 170 light-years. The brightest object,
-situated toward the middle of the nebula, is the Sk-71 51 cluster. The striking
-compact H II blob lies ~ 60&quot; (~ 50 light-years) north of Sk-71 51.
+text> Zoom-in on the LMC H II region N214C. The brightest object,
+situated toward the middle of the nebula, is the Sk-71 51 cluster.
 
-wip: yes
 ---
 
 @image
@@ -92,7 +73,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0513e/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -101,13 +81,10 @@ image_url: http://data1.wwtassets.org/feeds/eso/eso0513e/L{1}X{2}Y{3}.png
 outgoing_url: https://www.eso.org/public/images/eso0513e/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0513e/thumb.jpg
 
-text> Zoom-in on the nebular blob lying ~ 60&quot; (50 light-years) north of the
+text> Zoom-in on the nebular blob lying ~ 60 arcsec (50 light-years) north of the
 Sk-71 51 cluster. The image is based on individual exposures taken through
-narrow-band filters around H-alpha (red), [O III] (green) and H-beta (blue). The
-field size is 104&quot; x 101&quot; on the sky, corresponding to roughly 85 by
-82 light-years. North is up and east to the left.
+narrow-band filters around H-alpha (red), [O III] (green) and H-beta (blue).
 
-wip: yes
 ---
 
 @image
@@ -118,7 +95,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0521a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -128,19 +104,10 @@ outgoing_url: https://www.eso.org/public/images/eso0521a/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0521a/thumb.jpg
 
 text> Composite image taken in two bands (B and R) with VLT/FORS1 of a small
-portion of the sky (field-of-view 7x7&#x27; or 1/15th of the area of the full
-moon). The faintest object seen in the image has a magnitude 26 ; that is, it is
-100 million times fainter than what can be observed with the unaided eye. The
-bright elliptical galaxy in the lower left quadrant is a dwarf galaxy that is
-part of a large nearby cluster in the Fornax constellation. As for all deep
-images of the sky, this field shows a variety of objects, the brightest punctual
-sources being stars from our galaxy. By far the field is dominated by thousands
-of faint background galaxies, the colours of which are related to the age of
-their dominant stellar population, their dust content and their distance. An
-Einstein ring is visible in the top right part of the image. ESO Press Photo
-eso0521b zooms-in on the position of the newly found cosmic mirage.
+portion of the sky (field-of-view 7×7 arcmin or 1/15th of the area of the full
+moon). The faintest object seen in the image has a magnitude 26; that is, it is
+100 million times fainter than what can be observed with the unaided eye.
 
-wip: yes
 ---
 
 @image
@@ -151,7 +118,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0521b/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -164,10 +130,9 @@ text> Using ESO’s Very Large Telescope, Remi Cabanac and his European
 colleagues discovered an amazing cosmic mirage, known to scientists as an
 Einstein Ring. Dubbed FOR J0332-3557, this phenomenon is seen towards the
 southern constellation Fornax (the Furnace), and is remarkable on at least two
-counts : first, it is a bright, almost complete Einstein ring, and second, it is
+counts: first, it is a bright, almost complete Einstein ring, and second, it is
 the farthest ever found as of this writing.
 
-wip: yes
 ---
 
 @image
@@ -178,7 +143,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0524a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -192,7 +156,6 @@ which deep imaging in the near-infrared J and K filters was obtained with
 VLT/ISAAC. The fields contain together 16 Cepheids with periods from 6 to 83
 days.
 
-wip: yes
 ---
 
 @image
@@ -203,7 +166,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0525a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -212,20 +174,12 @@ image_url: http://data1.wwtassets.org/feeds/eso/eso0525a/L{1}X{2}Y{3}.png
 outgoing_url: https://www.eso.org/public/images/eso0525a/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0525a/thumb.jpg
 
-text> The first galaxy pictured here is NGC 4565, which for obvious reasons is
+text> The galaxy pictured here is NGC 4565, which for obvious reasons is
 also called the Needle Galaxy. First spotted in 1785 by Uranus’ discoverer,
 Sir William Herschel (1738-1822), this is one of the most famous example of an
 edge-on spiral galaxy and is located some 30 million light-years away in the
-constellation Coma Berenices (Berenice’s Hair). It displays a bright
-yellowish central bulge that juts out above most impressive dust lanes. Because
-it is relatively close (it is only 12 times farther away than Messier 31, the
-Andromeda galaxy, which is the major galaxy closest to us) and relatively large
-(roughly one third larger than the Milky Way), it does not fit entirely into the
-field of view of the FORS instrument (about 7 x 7 arcmin2). Many background
-galaxies are also visible in this FORS image, giving full meaning to their
-nickname of “island universes”.
+constellation Coma Berenices (Berenice’s Hair).
 
-wip: yes
 ---
 
 @image
@@ -236,7 +190,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0525b/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -246,15 +199,10 @@ outgoing_url: https://www.eso.org/public/images/eso0525b/
 thumbnail: http://data1.wwtassets.org/feeds/eso/eso0525b/thumb.jpg
 
 text> If our Milky Way were to resemble this one, we certainly would be proud of
-our home ! The beautiful spiral galaxy Messier 83 [4] is located in the southern
+our home! The beautiful spiral galaxy Messier 83 is located in the southern
 constellation Hydra (the Water Snake) and is also known as NGC 5236 and as the
-Southern Pinwheel galaxy. Its distance is about 15 million light-years. Being
-about twice as small as the Milky Way, its size on the sky is 11x10 arcmin2...
-The image show clumpy, well-defined spiral arms that are rich in young stars,
-while the disc reveals a complex system of intricate dust lanes. This galaxy is
-known to be a site of vigorous star formation.
+Southern Pinwheel galaxy. Its distance is about 15 million light-years.
 
-wip: yes
 ---
 
 @image
@@ -265,7 +213,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0527a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -279,7 +226,6 @@ constellation, obtained with the multi-mode FORS1 instrument on ESO’s 8.2m
 VLT. The supernova, SN 2005df, is visible as the bright star just above the
 galaxy. Many background galaxies can also be seen in this image.
 
-wip: yes
 ---
 
 @image
@@ -290,7 +236,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0532a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -304,7 +249,6 @@ Very Large Telescope. The image, totalling 16 minutes of observations, clearly
 reveals the delicate structures in this gigantic “eye” as well as many
 background galaxies.
 
-wip: yes
 ---
 
 @image
@@ -315,7 +259,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0533a/thumb.jpg
 
 credits> ESO
 
-wip: yes
 ---
 
 @scene
@@ -329,7 +272,6 @@ of a short gamma-ray burst. The image was taken with the Danish 1.5-m telescope
 and the DFOSC camera at La Silla on 11 July 2005. It shows the gamma-ray burst
 to be situated on the edge of a low-redshift galaxy.
 
-wip: yes
 ---
 
 @image
@@ -340,7 +282,6 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0534a/thumb.jpg
 
 credits> ESO/Prieto et al.
 
-wip: yes
 ---
 
 @scene
@@ -351,14 +292,9 @@ thumbnail: http://data1.wwtassets.org/feeds/eso/eso0534a/thumb.jpg
 
 text> Colour-composite image of the central 5,500 light-years wide region of the
 spiral galaxy NGC 1097, obtained with the NACO adaptive optics on the VLT. More
-than 300 star forming regions - white spots in the image - are distributed along
-a ring of dust and gas in the image. At the centre of the ring there is a bright
-central source where the active galactic nucleus and its super-massive black
-hole are located. The image was constructed by stacking J- (blue), H- (green),
-and Ks-band (red) images. North is up and East is to the left. The field of view
-is 24 x 29 arcsec2, i.e. less than 0.03% the size of the full moon!
+than 300 star forming regions — white spots in the image — are distributed along
+a ring of dust and gas in the image.
 
-wip: yes
 ---
 
 @image
