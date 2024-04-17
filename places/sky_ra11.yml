@@ -83,6 +83,7 @@ _uuid: 4e3db9c1-ecb1-44e5-8070-2b3e2d9ec0c3
 annotation: '{"channel": "eso", "itemid": "eso0614a", "publishedUTCISO8601": "2006-04-14T00:00:00+00:00"}'
 classification: ''
 constellation: CRT
+cxstatus: in:661fef7cbefbe21fbdf49bd0
 data_set_type: Sky
 dec_deg: -21.690623264798067
 description: Colour image of the Deep 3 &#x27;empty&#x27; field observed with the
@@ -103,6 +104,7 @@ _uuid: ecd82106-f074-4bec-b8ce-43bfd20a95dd
 annotation: '{"channel": "eso", "itemid": "eso0614b", "publishedUTCISO8601": "2006-04-14T00:00:00+00:00"}'
 classification: ''
 constellation: CRT
+cxstatus: in:661fef7dbefbe21fbdf49bd2
 data_set_type: Sky
 dec_deg: -21.499054325874546
 description: 'Part of the Deep 3 Deep Public Survey field, showing the brightest galaxy
@@ -121,6 +123,7 @@ _uuid: d1da507f-d6ca-410d-be0b-5e47e4cc34dc
 annotation: '{"channel": "eso", "itemid": "eso0614c", "publishedUTCISO8601": "2006-04-14T00:00:00+00:00"}'
 classification: ''
 constellation: CRT
+cxstatus: in:661fef7ebefbe21fbdf49bd4
 data_set_type: Sky
 dec_deg: -21.866403186457486
 description: Detail of a portion of the Deep 3 field, showing the large variety of
@@ -1029,6 +1032,7 @@ _uuid: 59334b8e-2cc4-4af3-bc5a-687ad936b96c
 angular_size: 1.0
 classification: PlanetaryNebula
 constellation: CEN
+cxstatus: in:661fef61befbe21fbdf49b96
 data_set_type: Sky
 dec_deg: -57.1816666666667
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000221{Q}?g=138
@@ -1040,6 +1044,7 @@ _uuid: 0000da9c-1af2-4f86-9e42-fb33cfd8fcee
 angular_size: 1.0
 classification: Galaxy
 constellation: UMA
+cxstatus: in:661fef6bbefbe21fbdf49baa
 data_set_type: Sky
 dec_deg: 47.8597222222222
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001111{Q}?g=138

@@ -103,6 +103,7 @@ _uuid: d3d1064e-2843-43e3-b4a3-a3c419a71938
 annotation: '{"channel": "eso", "itemid": "eso0617a", "publishedUTCISO8601": "2006-05-11T00:00:00+00:00"}'
 classification: ''
 constellation: LEO
+cxstatus: in:661fef7fbefbe21fbdf49bd6
 data_set_type: Sky
 dec_deg: 21.829351898614114
 description: The beautiful edge-on spiral galaxy NGC 3190 with tightly wound arms
@@ -1353,6 +1354,7 @@ _uuid: 58ed996d-fa91-422c-84c9-21c67b71b75c
 angular_size: 1.0
 classification: Galaxy
 constellation: UMA
+cxstatus: in:661fef70befbe21fbdf49bb4
 data_set_type: Sky
 dec_deg: 55.6805555555556
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001221{Q}?g=138
@@ -1536,6 +1538,7 @@ zoom_level: 0.197121460456608
 _uuid: be9a56ed-bb28-4eea-9047-c0732f99455f
 classification: ''
 constellation: CAR
+cxstatus: in:661fef52befbe21fbdf49b74
 data_set_type: Sky
 dec_deg: -57.75975051291
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-384L{1}X{2}Y{3}.png

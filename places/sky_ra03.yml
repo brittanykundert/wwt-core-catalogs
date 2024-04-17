@@ -232,6 +232,7 @@ _uuid: 0ca44f74-6a79-47a2-89c4-61dc6653bcd4
 annotation: '{"channel": "eso", "itemid": "eso0627c", "publishedUTCISO8601": "2006-07-26T00:00:00+00:00"}'
 classification: ''
 constellation: ERI
+cxstatus: in:661fef84befbe21fbdf49be2
 data_set_type: Sky
 dec_deg: -35.614876196622774
 description: Colour composite image of NGC 1427A, based on observations collected
@@ -252,6 +253,7 @@ _uuid: 2d6b36a3-67ac-43cb-b5d5-10a3906b1aee
 annotation: '{"channel": "eso", "itemid": "eso0643a", "publishedUTCISO8601": "2006-11-23T00:00:00+00:00"}'
 classification: ''
 constellation: RET
+cxstatus: in:661fef86befbe21fbdf49be6
 data_set_type: Sky
 dec_deg: -66.48899700263219
 description: The central parts of the starburst galaxy NGC 1313. The very active state
@@ -274,6 +276,7 @@ _uuid: 0bf098e9-44ee-40eb-850f-3eadfaa3078d
 annotation: '{"channel": "eso", "itemid": "eso0643b", "publishedUTCISO8601": "2006-11-23T00:00:00+00:00"}'
 classification: ''
 constellation: RET
+cxstatus: in:661fef87befbe21fbdf49be8
 data_set_type: Sky
 dec_deg: -66.49617779326057
 description: Larger region of the sky around the starburst galaxy NGC 1313 showing
@@ -1610,6 +1613,7 @@ _uuid: d72fdea1-a1cf-43d5-acf1-9d1f10920da3
 angular_size: 1.0
 classification: Galaxy
 constellation: PER
+cxstatus: in:661fef71befbe21fbdf49bb8
 data_set_type: Sky
 dec_deg: 41.5183333333333
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001301{Q}?g=138

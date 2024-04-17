@@ -144,6 +144,7 @@ _uuid: 654d6823-e53f-4822-b62c-6c4748233c4d
 annotation: '{"channel": "eso", "itemid": "eso0535a", "publishedUTCISO8601": "2005-11-04T00:00:00+00:00"}'
 classification: ''
 constellation: PHE
+cxstatus: in:661fef73befbe21fbdf49bbc
 data_set_type: Sky
 dec_deg: -48.639655548056695
 description: Robert&#x27;s Quartet is a family of four very different galaxies, located
@@ -166,6 +167,7 @@ _uuid: 9db5010f-44b1-4f40-b438-980d1c6c74a8
 annotation: '{"channel": "eso", "itemid": "eso0535b", "publishedUTCISO8601": "2005-11-04T00:00:00+00:00"}'
 classification: ''
 constellation: PHE
+cxstatus: in:661fef74befbe21fbdf49bbe
 data_set_type: Sky
 dec_deg: -48.63102719191097
 description: The largest member of the galaxy group known as Robert&#x27;&#x27;s Quartet
@@ -185,6 +187,7 @@ _uuid: 27c14726-31b8-403e-bb41-f0dcbcb3dbfb
 annotation: '{"channel": "eso", "itemid": "eso0620a", "publishedUTCISO8601": "2006-06-08T00:00:00+00:00"}'
 classification: ''
 constellation: TUC
+cxstatus: in:661fef80befbe21fbdf49bd8
 data_set_type: Sky
 dec_deg: -72.0803185700994
 description: 'Based on data obtained with FORS1 on Kueyen, UT2 of the Very Large Telescope.
@@ -1325,6 +1328,7 @@ _uuid: 0d92c1c5-18a5-425a-a5d1-844fdf5e1f3f
 angular_size: 1.0
 classification: Galaxy
 constellation: SCL
+cxstatus: in:661fef62befbe21fbdf49b98
 data_set_type: Sky
 dec_deg: -33.71
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000231{Q}?g=138
@@ -1336,6 +1340,7 @@ _uuid: dba6bf42-6b42-490e-aff9-b242d532d3e1
 angular_size: 1.0
 classification: ClusterOfGalaxies
 constellation: PSC
+cxstatus: in:661fef64befbe21fbdf49b9c
 data_set_type: Sky
 dec_deg: 17.1625
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000311{Q}?g=138
@@ -1603,6 +1608,7 @@ zoom_level: 3.58226362368
 _uuid: 6efb2ae1-25ac-4e0a-81be-4cf5ffeb495b
 classification: ''
 constellation: CET
+cxstatus: in:661fef58befbe21fbdf49b82
 data_set_type: Sky
 dec_deg: -12.3817059556
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-402L{1}X{2}Y{3}.png

@@ -699,6 +699,7 @@ _uuid: fee4b827-b422-4008-b69b-c39765488a54
 angular_size: 1.0
 classification: Nebula
 constellation: LUP
+cxstatus: in:661fef6abefbe21fbdf49ba8
 data_set_type: Sky
 dec_deg: -44.1508333333333
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001101{Q}?g=138
@@ -839,6 +840,7 @@ zoom_level: 17.95458400256
 _uuid: db7f3372-064b-4277-b903-8ca139b2d5ce
 classification: ''
 constellation: CIR
+cxstatus: in:661fef5abefbe21fbdf49b86
 data_set_type: Sky
 dec_deg: -65.34947368583
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-404L{1}X{2}Y{3}.png
@@ -850,6 +852,7 @@ zoom_level: 0.04079476736
 _uuid: 075e5091-0f9c-46dd-b9d1-a738c7f58898
 classification: ''
 constellation: UMA
+cxstatus: in:661fef5ebefbe21fbdf49b90
 data_set_type: Sky
 dec_deg: 54.349
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-410L{1}X{2}Y{3}.png

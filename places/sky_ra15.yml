@@ -2,6 +2,7 @@ _uuid: 4197580c-6ecc-4aa9-a704-b9a82db20c3b
 annotation: '{"channel": "eso", "itemid": "eso0622a", "publishedUTCISO8601": "2006-06-28T00:00:00+00:00"}'
 classification: ''
 constellation: LIB
+cxstatus: in:661fef81befbe21fbdf49bda
 data_set_type: Sky
 dec_deg: -7.4115247041470385
 description: Composite image based on data acquired with the FORS1 multi-mode instrument
@@ -21,6 +22,7 @@ _uuid: 569a32dc-6bf3-4c77-bce0-5cd94fdcadad
 annotation: '{"channel": "eso", "itemid": "eso0622b", "publishedUTCISO8601": "2006-06-28T00:00:00+00:00"}'
 classification: ''
 constellation: LIB
+cxstatus: in:661fef82befbe21fbdf49bdc
 data_set_type: Sky
 dec_deg: -7.411524683121364
 description: Annotated version of ESO Press Photo eso0622. The two interacting galaxies
@@ -434,6 +436,7 @@ zoom_level: 0.03256762368
 _uuid: 9ac0ad2c-667b-4547-8e20-ca86f6312635
 classification: ''
 constellation: CEN
+cxstatus: in:661fef55befbe21fbdf49b7c
 data_set_type: Sky
 dec_deg: -42.096992
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-397L{1}X{2}Y{3}.png

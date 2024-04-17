@@ -852,6 +852,7 @@ _uuid: cd3c5941-6ffa-462a-96c5-6a82e7860b77
 annotation: '{"channel": "eso", "itemid": "eso0613a", "publishedUTCISO8601": "2006-04-07T00:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:661fef79befbe21fbdf49bc8
 data_set_type: Sky
 dec_deg: -69.1003529736711
 description: Three-colour image of the Tarantula Nebula in the Large Magellanic Cloud.
@@ -870,6 +871,7 @@ _uuid: 55ec6565-edba-488e-929b-50b549831146
 annotation: '{"channel": "eso", "itemid": "eso0613b", "publishedUTCISO8601": "2006-04-07T00:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:661fef7abefbe21fbdf49bca
 data_set_type: Sky
 dec_deg: -69.09966607072079
 description: Inside the giant emission nebula lies a cluster of young, massive and
@@ -889,6 +891,7 @@ _uuid: 92cd7afd-f028-4bc3-a0da-8be5a6c91b81
 annotation: '{"channel": "eso", "itemid": "eso0613c", "publishedUTCISO8601": "2006-04-07T00:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:661fef7abefbe21fbdf49bcc
 data_set_type: Sky
 dec_deg: -69.07031827162344
 description: Above and to the right of the central cluster in the Tarantula Nebula,
@@ -909,6 +912,7 @@ _uuid: 51863215-4d14-45ec-b72d-e7a3850ee8a3
 annotation: '{"channel": "eso", "itemid": "eso0613d", "publishedUTCISO8601": "2006-04-07T00:00:00+00:00"}'
 classification: ''
 constellation: DOR
+cxstatus: in:661fef7bbefbe21fbdf49bce
 data_set_type: Sky
 dec_deg: -69.1346490608716
 description: Zoom-in on gas pillars in the Tarantula Nebula. Some structures have
@@ -4055,6 +4059,7 @@ _uuid: fb2baa18-2e2c-43dd-98aa-6ec9fdf5f911
 angular_size: 1.0
 classification: MultipleStars
 constellation: MEN
+cxstatus: in:661fef5fbefbe21fbdf49b92
 data_set_type: Sky
 dec_deg: -70.4880555555556
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000201{Q}?g=138
@@ -4066,6 +4071,7 @@ _uuid: dc773e56-487f-42bf-89ad-bf98af0a7ffd
 angular_size: 1.0
 classification: Nebula
 constellation: ORI
+cxstatus: in:661fef66befbe21fbdf49ba0
 data_set_type: Sky
 dec_deg: -6.46277777777778
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001001{Q}?g=138
@@ -4077,6 +4083,7 @@ _uuid: 601bb50e-0a0a-4fd9-9968-3851573c7bf1
 angular_size: 1.0
 classification: Star
 constellation: ORI
+cxstatus: in:661fef6cbefbe21fbdf49bac
 data_set_type: Sky
 dec_deg: -5.42305555555556
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001121{Q}?g=138
@@ -4570,6 +4577,7 @@ zoom_level: 0.262633116330667
 _uuid: f06b764b-6358-46f3-b067-c5afd2152809
 classification: ''
 constellation: DOR
+cxstatus: in:661fef54befbe21fbdf49b7a
 data_set_type: Sky
 dec_deg: -69.643719970143
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-388L{1}X{2}Y{3}.png

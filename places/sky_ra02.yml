@@ -47,6 +47,7 @@ _uuid: f4c24518-ab04-4d39-bdb7-1b4b0b4c9686
 annotation: '{"channel": "eso", "itemid": "eso0627a", "publishedUTCISO8601": "2006-07-26T00:00:00+00:00"}'
 classification: ''
 constellation: CET
+cxstatus: in:661fef83befbe21fbdf49bde
 data_set_type: Sky
 dec_deg: -21.23408466429496
 description: 'NGC 908, located 65 million light-years towards the constellation of
@@ -639,6 +640,7 @@ zoom_level: 1.1799191552
 _uuid: 4f804f6c-892c-484b-897d-b4204b27a84b
 classification: ''
 constellation: ERI
+cxstatus: in:661fef52befbe21fbdf49b76
 data_set_type: Sky
 dec_deg: -1.26950725417
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-385L{1}X{2}Y{3}.png
