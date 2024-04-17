@@ -7,7 +7,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=18046920
 
 credits> NASA, ESA and D. Bennett (University of Notre Dame)
 
-wip: yes
 ---
 
 @scene
@@ -15,9 +14,12 @@ place_uuid: fb2baa18-2e2c-43dd-98aa-6ec9fdf5f911
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000201{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-24.html
 
-text> Astronomers Use Image to Measure Star's Mass
+text> Astronomers have directly measured the mass of a single star - the first
+time such a feat has been accomplished for any solitary star other than our own
+Sun. The measurement has been done on a small red star located some 1,800
+light-years from Earth. Knowing the masses of stars is important in
+understanding stellar evolution.
 
-wip: yes
 ---
 
 @image
@@ -28,7 +30,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=16031474
 
 credits> NASA, ESA and H.E. Bond (STScI)
 
-wip: yes
 ---
 
 @scene
@@ -36,9 +37,13 @@ place_uuid: 3512e587-f023-4669-ba29-b8e863bf3cee
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000211{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-10.html
 
-text> V838 Monocerotis - 28 October 2002
+text> In January 2002, a dull star in an obscure constellation suddenly became
+600,000 times more luminous than our Sun, temporarily making it the brightest
+star in our Milky Way galaxy. The mysterious star, called V838 Monocerotis, has
+long since faded back to obscurity. But observations by NASA's Hubble Space
+Telescope of a phenomenon called a "light echo" around the star have uncovered
+remarkable new features.
 
-wip: yes
 ---
 
 @image
@@ -50,7 +55,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=10598583
 credits> Howard Bond (Space Telescope Science Institute), Robin Ciardullo
 (Pennsylvania State University) and NASA
 
-wip: yes
 ---
 
 @scene
@@ -58,9 +62,12 @@ place_uuid: 59334b8e-2cc4-4af3-bc5a-687ad936b96c
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000221{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/1997/news-1997-38.html
 
-text> Planetary Nebula NGC 3918
+text> NGC 3918 is in the constellation Centaurus and is about 3,000 light-years
+from us. Its diameter is about 0.3 light-year. It shows a roughly spherical
+outer envelope but an elongated inner balloon inflated by a fast wind from the
+hot central star, which is starting to break out of the spherical envelope at
+the top and bottom of the image.
 
-wip: yes
 ---
 
 @image
@@ -71,7 +78,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=10903980
 
 credits> Kirk Borne (STScI), and NASA
 
-wip: yes
 ---
 
 @scene
@@ -79,9 +85,14 @@ place_uuid: 0d92c1c5-18a5-425a-a5d1-844fdf5e1f3f
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000231{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/1995/news-1995-02.html
 
-text> Cartwheel Galaxy Image Close-up
+text>  A rare and spectacular head-on collision between two galaxies appears in
+this Hubble telescope picture of the Cartwheel Galaxy, located 500 million
+light-years from Earth in the constellation Sculptor. The striking ring-like
+feature is a direct result of a smaller intruder galaxy - possibly one of two
+objects to the right of the ring - that careened through the core of the host
+galaxy. Like a rock tossed into a lake, the collision sent a ripple of energy
+into space, plowing gas and dust in front of it.
 
-wip: yes
 ---
 
 @image
@@ -93,7 +104,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=12356363
 credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA)-ESA/Hubble
 Collaboration
 
-wip: yes
 ---
 
 @scene
@@ -101,9 +111,12 @@ place_uuid: c5f04d86-655b-4b25-9dcb-d2d831495709
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000301{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-15.html
 
-text> Hubble’s View of Barred Spiral Galaxy NGC 1672
+text> This NASA Hubble Space Telescope view of the nearby barred spiral galaxy
+NGC 1672 unveils details in the galaxy's star-forming clouds and dark bands of
+interstellar dust. NGC 1672 is more than 60 million light-years away in the
+direction of the southern constellation Dorado. These observations of NGC 1672
+were taken with Hubble's Advanced Camera for Surveys in August of 2005.
 
-wip: yes
 ---
 
 @image
@@ -114,7 +127,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=13110165
 
 credits> NASA, ESA, M.J. Jee and H. Ford (Johns Hopkins University)
 
-wip: yes
 ---
 
 @scene
@@ -122,9 +134,13 @@ place_uuid: dba6bf42-6b42-490e-aff9-b242d532d3e1
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000311{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-17.html
 
-text> Searching for Dark Matter in a Galaxy Cluster
+text> This rich galaxy cluster, catalogued as Cl 0024+17, is allowing
+astronomers to probe the distribution of dark matter in space. The blue streaks
+near the center of the image are the smeared images of very distant galaxies
+that are not part of the cluster. The distant galaxies appear distorted because
+their light is being bent and magnified by the powerful gravity of Cl 0024+17,
+an effect called gravitational lensing.
 
-wip: yes
 ---
 
 @image
@@ -135,7 +151,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=17113331
 
 credits> NASA and The Hubble Heritage Team (AURA/STScI).
 
-wip: yes
 ---
 
 @scene
@@ -143,9 +158,10 @@ place_uuid: 5e729fa2-1f51-4b1b-8e5a-d0deaaedc1b8
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000331{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/1999/news-1999-35.html
 
-text> NGC 2440
+text> NGC 2440 is a planetary nebula ejected by a dying star with a chaotic
+structure. The central star of NGC 2440 is one of the hottest known, with a
+surface temperature near 200,000 degrees Celsius.
 
-wip: yes
 ---
 
 @image
@@ -156,7 +172,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=49021067
 
 credits> STScI & NASA
 
-wip: yes
 ---
 
 @scene
@@ -164,9 +179,13 @@ place_uuid: dc773e56-487f-42bf-89ad-bf98af0a7ffd
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001001{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/1995/news-1995-24.html
 
-text> HH-34
+text> NASA's Hubble Space Telescope has provided a detailed look at the fitful,
+eruptive, and dynamic processes accompanying the final stages of a star's
+"construction." Images from the orbiting observatory reveal new details that
+will require further refinement of star formation theories, according to several
+independent teams of astronomers that have used Hubble to observe different
+embryonic stars.
 
-wip: yes
 ---
 
 @image
@@ -177,7 +196,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=18377824
 
 credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA)
 
-wip: yes
 ---
 
 @scene
@@ -185,9 +203,10 @@ place_uuid: 521e1b44-3d5f-44c6-8647-b367ac46ce77
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001011{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-12.html
 
-text> Eagle Nebula (M16) Pillar Detail: Portion of Top
+text> A detail of the Eagle Nebula (M16) showing a portion of a pillar of gas
+and dust. Light from nearby bright, hot, young stars is sculpting the cloud into
+intricate forms and causing the gas to glow.
 
-wip: yes
 ---
 
 @image
@@ -198,7 +217,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=12178577
 
 credits> NASA, ESA and H.E. Bond (STScI)
 
-wip: yes
 ---
 
 @scene
@@ -206,9 +224,13 @@ place_uuid: 36bcf332-d9ee-454b-afc8-2378bf560eb8
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001021{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-10.html
 
-text> V838 Monocerotis - 20 May 2002
+text> In January 2002, a dull star in an obscure constellation suddenly became
+600,000 times more luminous than our Sun, temporarily making it the brightest
+star in our Milky Way galaxy. The mysterious star, called V838 Monocerotis, has
+long since faded back to obscurity. But observations by NASA's Hubble Space
+Telescope of a phenomenon called a "light echo" around the star have uncovered
+remarkable new features. This image is from 20 May 2002.
 
-wip: yes
 ---
 
 @image
@@ -220,7 +242,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=10170254
 credits> NASA, ESA, A.V. Filippenko (University of California, Berkeley), P.
 Challis (Harvard-Smithsonian Center for Astrophysics), et al.
 
-wip: yes
 ---
 
 @scene
@@ -228,9 +249,11 @@ place_uuid: de6e56ee-6d9c-44b1-8544-620fe87754fc
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001031{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-23.html
 
-text> A Bright Supernova in the Nearby Galaxy NGC 2403
+text> The explosion of a massive star blazes with the light of 200 million Suns
+in this NASA Hubble Space Telescope image. The arrow at top right points to the
+stellar blast, called a supernova. The supernova is so bright in this image that
+it easily could be mistaken for a foreground star in our Milky Way Galaxy.
 
-wip: yes
 ---
 
 @image
@@ -239,10 +262,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1696243811
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment : C.R.
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment: C.R.
 O'Dell (Vanderbilt University)
 
-wip: yes
 ---
 
 @scene
@@ -250,9 +272,13 @@ place_uuid: fee4b827-b422-4008-b69b-c39765488a54
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001101{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-14.html
 
-text> The Retina Nebula: Dying Star IC 4406
+text> The Hubble telescope reveals a rainbow of colors in this dying star,
+called IC 4406. Like many other so-called planetary nebulae, IC 4406 exhibits a
+high degree of symmetry. The nebula's left and right halves are nearly mirror
+images of the other. If we could fly around IC 4406 in a spaceship, we would see
+that the gas and dust form a vast donut of material streaming outward from the
+dying star.
 
-wip: yes
 ---
 
 @image
@@ -261,10 +287,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=724083399
 
-credits> NASA, ESA and The Hubble Heritage Team (STScI/AURA); acknowledgment :
+credits> NASA, ESA and The Hubble Heritage Team (STScI/AURA); acknowledgment:
 S. Smartt (The Queen's University of Belfast)
 
-wip: yes
 ---
 
 @scene
@@ -272,9 +297,13 @@ place_uuid: 0000da9c-1af2-4f86-9e42-fb33cfd8fcee
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001111{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2004/news-2004-25.html
 
-text> Spiral Galaxy NGC 3949: A Galaxy Similar to the Milky Way
+text> Our Sun and solar system are embedded in a broad pancake of stars deep
+within the disk of the Milky Way galaxy. Even from a distance, it is impossible
+to see our galaxy's large-scale features other than the disk. The next best
+thing is to look farther out into the universe at galaxies that are similar in
+shape and structure to our home galaxy. Other spiral galaxies like NGC 3949,
+pictured in the Hubble image, fit the bill.
 
-wip: yes
 ---
 
 @image
@@ -283,10 +312,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1539525951
 
-credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment : C. R.
+credits> NASA and The Hubble Heritage Team (STScI/AURA); acknowledgment: C. R.
 O'Dell (Vanderbilt University)
 
-wip: yes
 ---
 
 @scene
@@ -294,9 +322,11 @@ place_uuid: 601bb50e-0a0a-4fd9-9968-3851573c7bf1
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001121{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-05.html
 
-text> Bow Shock Near Young Star LL Ori
+text> The Hubble Space Telescope continues to reveal various stunning and
+intricate treasures that reside within the nearby, intense star-forming region
+known as the Great Nebula in Orion. One such jewel is the bow shock around the
+very young star, LL Ori, featured in this Hubble Heritage image.
 
-wip: yes
 ---
 
 @image
@@ -305,9 +335,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1187423061
 
-credits> NASA, ESA, and J. -P. Kneib (Laboratorie d'Astrophysique de Marseille)
+credits> NASA, ESA, and J.-P. Kneib (Laboratorie d'Astrophysique de Marseille)
 
-wip: yes
 ---
 
 @scene
@@ -315,9 +344,13 @@ place_uuid: b01ebc59-9406-41b0-9b64-c4803d0ca9ee
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001131{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-12.html
 
-text> Hubble Sees 'Comet Galaxy' Being Ripped Apart By Galaxy Cluster
+text> NASA's Hubble Space Telescope, in collaboration with several other
+ground- and space- based telescopes, has captured a galaxy being ripped apart by
+a galaxy cluster's gravitational field and harsh environment. The finding sheds
+light on the mysterious process by which gas-rich spiral-shaped galaxies might
+evolve into gas-poor irregular- or elliptical-shaped galaxies over billions of
+years.
 
-wip: yes
 ---
 
 @image
@@ -328,7 +361,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=18083297
 
 credits> The Hubble Heritage Team (AURA/STScI/NASA)
 
-wip: yes
 ---
 
 @scene
@@ -336,9 +368,13 @@ place_uuid: d3ed473c-a10c-4c61-b80f-1fdd7bb002b4
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001201{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/1999/news-1999-01.html
 
-text> The Ring Nebula (M57)
+text> Astronomers using the Hubble telescope have obtained the sharpest view
+yet of a glowing loop of gas called the Ring Nebula (M57), first cataloged more
+than 200 years ago by French astronomer Charles Messier. The pictures reveal
+that the "Ring" is actually a cylinder of gas seen almost end-on. Such elongated
+shapes are common among other planetary nebulae, because thick disks of gas and
+dust form a waist around a dying star.
 
-wip: yes
 ---
 
 @image
@@ -349,7 +385,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=95236948
 
 credits> D. Hunter (Lowell Observ.) and A. Aloisi (JHU)
 
-wip: yes
 ---
 
 @scene
@@ -357,9 +392,8 @@ place_uuid: 045d24d4-b2ce-4a34-940d-3d062244d41e
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001211{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2002/news-2002-02.html
 
-text> Galaxy I Zw 18
+text> Galaxy I Zw 18 as it appears at a distance of about 30 million light years.
 
-wip: yes
 ---
 
 @image
@@ -369,10 +403,9 @@ license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1556423762
 
 credits> NASA, Gerald Cecil (University of North Carolina), Sylvain Veilleux
-(University of Maryland), Joss Bland-Hawthorn (Anglo- Australian Observatory),
+(University of Maryland), Joss Bland-Hawthorn (Anglo-Australian Observatory),
 and Alex Filippenko (University of California at Berkeley).
 
-wip: yes
 ---
 
 @scene
@@ -380,9 +413,10 @@ place_uuid: 58ed996d-fa91-422c-84c9-21c67b71b75c
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001221{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2001/news-2001-28.html
 
-text> Galaxy NGC 3079
+text> This NASA Hubble Space Telescope snapshot reveals dramatic activities
+within the core of the galaxy NGC 3079, where a lumpy bubble of hot gas is
+rising from a cauldron of glowing matter.
 
-wip: yes
 ---
 
 @image
@@ -393,7 +427,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=20515381
 
 credits> NASA, ESA, and The Hubble Heritage Team (STScI/AURA)
 
-wip: yes
 ---
 
 @scene
@@ -401,9 +434,12 @@ place_uuid: a3c1d473-5179-48b5-b491-661d0dea5c4a
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001231{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-12.html
 
-text> The Eagle Has Risen: Stellar Spire in the Eagle Nebula
+text> Appearing like a winged fairy-tale creature poised on a pedestal, this
+object is actually a billowing tower of cold gas and dust rising from a stellar
+nursery called the Eagle Nebula. The soaring tower is 9.5 light-years or about
+57 trillion miles high, about twice the distance from our Sun to the next
+nearest star.
 
-wip: yes
 ---
 
 @image
@@ -414,7 +450,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=13006213
 
 credits> NASA and The Hubble Heritage Team (STScI/AURA)
 
-wip: yes
 ---
 
 @scene
@@ -422,9 +457,12 @@ place_uuid: d72fdea1-a1cf-43d5-acf1-9d1f10920da3
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001301{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2003/news-2003-14.html
 
-text> NGC 1275
+text> A dusty spiral galaxy appears to be rotating on edge, like a pinwheel, as
+it slides through the larger, bright galaxy NGC 1275, in this NASA Hubble Space
+Telescope image. These images, taken with Hubble's Wide Field Planetary Camera 2
+(WFPC2), show traces of spiral structure accompanied by dramatic dust lanes and
+bright blue regions that mark areas of active star formation.
 
-wip: yes
 ---
 
 @image
@@ -436,7 +474,6 @@ thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=18867044
 credits> NASA, ESA, and the Hubble Heritage Team (STScI/AURA) - ESA/Hubble
 Collaboration
 
-wip: yes
 ---
 
 @scene
@@ -444,19 +481,10 @@ place_uuid: 1505d98d-1840-473e-99d3-dffbb22ff833
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001311{Q}?g=138
 outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-04.html
 
-text> Hubble Observes Infant Stars in Nearby Galaxy
+text> This new image taken with NASA's Hubble Space Telescope depicts bright,
+blue, newly formed stars that are blowing a cavity in the center of a
+star-forming region in the Small Magellanic Cloud.
 
-wip: yes
----
-
-@scene
-place_uuid: f5223399-6db0-4f94-b5fc-693db0d5f473
-image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001311{Q}?g=138
-outgoing_url: http://hubblesite.org/contents/news-releases/2007/news-2007-04.html
-
-text> Hubble Observes Infant Stars in Nearby Galaxy
-
-wip: yes
 ---
 
 @image

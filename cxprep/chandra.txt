@@ -7,7 +7,6 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-382.jpg
 
 credits> NASA/CXC/CfA/R.Kraft et al.
 
-wip: yes
 ---
 
 @scene
@@ -16,9 +15,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-382L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2008/cena/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-382.jpg
 
-text> Centaurus A
+text> A dramatic Chandra image of the nearby galaxy Centaurus A provides one of
+the best views to date of the effects of an active supermassive black hole.
+Opposing jets of high-energy particles can be seen extending to the outer
+reaches of the galaxy, and numerous smaller black holes in binary star systems
+are also visible.
 
-wip: yes
 ---
 
 @image
@@ -27,11 +29,7 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-384.jpg
 
-credits> NASA/CXC/Univ. de Liège/Y. Naze; This Chandra X-ray Observatory image
-shows Westerlund 2, a young star cluster with an estimated age of about one or
-two million ...
-
-wip: yes
+credits> NASA/CXC/Univ. de Liège/Y. Naze et al.
 ---
 
 @scene
@@ -40,9 +38,14 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-384L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2008/wd2/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-384.jpg
 
-text> Westerlund 2
+text> This Chandra X-ray Observatory image shows Westerlund 2, a young star
+cluster with an estimated age of about one or two million years. Until recently
+little was known about this cluster because it is heavily obscured by dust and
+gas. However, using infrared and X-ray observations to overcome this
+obscuration, Westerlund 2 has become regarded as one of the most interesting
+star clusters in the Milky Way galaxy. It contains some of the hottest,
+brightest and most massive stars known.
 
-wip: yes
 ---
 
 @image
@@ -51,11 +54,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-385.jpg
 
-credits> X-ray: NASA/CXC/Penn State/G. G; This image of the elliptical galaxy
-NGC 1132 and its surrounding region combines data from NASA's Chandra X-ray
-Observatory and ...
+credits> X-ray: NASA/CXC/Penn State/G. Garmire; optical: NASA/ESA/STScI/M. West
 
-wip: yes
 ---
 
 @scene
@@ -64,9 +64,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-385L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2008/ngc1132/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-385.jpg
 
-text> NGC 1132
+text> This image of the elliptical galaxy NGC 1132 and its surrounding region
+combines data from NASA's Chandra X-ray Observatory and the Hubble Space
+Telescope. The blue/purple in the image is the X-ray glow from hot, diffuse gas
+detected by Chandra. Hubble's data reveal a giant foreground elliptical galaxy,
+plus numerous dwarf galaxies in its neighborhood, and many much more distant
+galaxies in the background.
 
-wip: yes
 ---
 
 @image
@@ -75,11 +79,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-387.jpg
 
-credits> NASA/CXC/GSFC/F.P.Gavriil et al.; A deep Chandra X-ray Observatory
-image shows the supernova remnant Kes 75 that was created when a massive star
-exploded. The pu...
+credits> NASA/CXC/GSFC/F.P.Gavriil et al.
 
-wip: yes
 ---
 
 @scene
@@ -88,9 +89,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-387L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2008/kes75/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-387.jpg
 
-text> Kes 75
+text> This deep Chandra X-ray Observatory image shows the supernova remnant Kes
+75, located almost 20,000 light years away. The explosion of a massive star
+created the supernova remnant, along with a pulsar, a rapidly spinning neutron
+star.
 
-wip: yes
 ---
 
 @image
@@ -99,11 +102,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-388.jpg
 
-credits> NASA/CXC/NCSU/K.J.Borkowski et a; The supernova remnant (SNR) N132D is
-the brightest in the Large Magellanic Cloud, and it belongs to a rare class of
-oxygen-rich ...
+credits> NASA/CXC/NCSU/K.J.Borkowski et al.
 
-wip: yes
 ---
 
 @scene
@@ -112,9 +112,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-388L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2008/n132d/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-388.jpg
 
-text> N132D
+text> This Chandra X-ray Observatory image shows the debris of a massive star
+explosion in the Large Magellanic Cloud, a small galaxy about 160,000 light
+years from Earth. The supernova remnant (SNR) shown here, N132D, is the
+brightest in the Magellanic clouds, and belongs to a rare class of oxygen-rich
+remnants. Most of the oxygen that we breathe on Earth is thought to have come
+from explosions similar to this one.
 
-wip: yes
 ---
 
 @image
@@ -123,11 +127,10 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-397.jpg
 
-credits> X-ray: NASA/CXC/Rutgers/G.Cassam; This is a composite image of the SN
-1006 supernova remnant, which is located about 7000 light years from Earth.
-Shown here are X...
+credits> X-ray: NASA/CXC/Rutgers/G.Cassam-Chenai, J.Hughes et al.; radio:
+NRAO/AUI/NSF/GBT/VLA/Dyer, Maddalena & Cornwell; optical: Middlebury
+College/F.Winkler, NOAO/AURA/NSF/CTIO Schmidt & DSS
 
-wip: yes
 ---
 
 @scene
@@ -136,9 +139,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-397L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2008/sn1006c/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-397.jpg
 
-text> SN 1006
+text> Just over a thousand years ago, the stellar explosion known as supernova
+SN 1006 was observed. It was brighter than Venus, and visible during the day for
+weeks. The brightest supernova ever recorded on Earth, this spectacular light
+show was documented in China, Japan, Europe, and the Arab world.
 
-wip: yes
 ---
 
 @image
@@ -147,11 +152,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-398.jpg
 
-credits> X-ray (NASA/CXC/Univ. of Califor; A composite image of data from NASA's
-Chandra X-ray Observatory (shown in purple) and Hubble Space Telescope (blue)
-shows the gi...
+credits> X-ray (NASA/CXC/Univ. of California Irvine/P.Humphrey et al.); optical (NASA/STScI)
 
-wip: yes
 ---
 
 @scene
@@ -160,9 +162,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-398L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2008/ngc4649/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-398.jpg
 
-text> NGC 4649
+text> This is a composite image of data from NASA’s Chandra X-ray Observatory
+(shown in purple) and Hubble Space Telescope (blue) of the giant elliptical
+galaxy, NGC 4649, located about 51 million light years from Earth. Although NGC
+4649 contains one of the biggest black holes in the local Universe, there are no
+overt signs of its presence because the black hole is in a dormant state.
 
-wip: yes
 ---
 
 @image
@@ -171,11 +176,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-399.jpg
 
-credits> X-ray: NASA/CXC/SAO; Optical: NA; A composite image of data from NASA’s
-Chandra X-ray Observatory (blue) and Hubble Space Telescope (red and purple) of
-NGC 6543 s...
+credits> X-ray: NASA/CXC/SAO; optical: NASA/STScI
 
-wip: yes
 ---
 
 @scene
@@ -184,9 +186,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-399L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2008/catseye/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-399.jpg
 
-text> NGC 6543
+text> This composite of data from NASA's Chandra X-ray Observatory and Hubble
+Space Telescope is a new look for NGC 6543, better known as the Cat's Eye
+nebula. This famous object is a so-called planetary nebula that represents a
+phase of stellar evolution that the Sun should experience several billion years
+from now.
 
-wip: yes
 ---
 
 @image
@@ -195,11 +200,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-402.jpg
 
-credits> X-ray(NASA/CXC/Stanford/S.Allen); This image shows a system where two
-massive galaxy clusters have collided and in doing so have forced the separation
-between dar...
+credits> X-ray (NASA/CXC/Stanford/S.Allen); optical/Lensing (NASA/STScI/UC Santa Barbara/M.Bradac)
 
-wip: yes
 ---
 
 @scene
@@ -208,9 +210,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-402L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2008/macs/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-402.jpg
 
-text> MACS J0025.4-1222
+text> Another powerful collision of galaxy clusters has been captured with
+NASA's Chandra X-ray Observatory and Hubble Space Telescope. Like its famous
+cousin, the so-called Bullet Cluster, this clash of clusters provides striking
+evidence for dark matter and insight into its properties.
 
-wip: yes
 ---
 
 @image
@@ -219,11 +223,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-403.jpg
 
-credits> X-ray: NASA/CXC/MIT/E.-H Peng et; This image of Abell 1689 is a
-composite of data from the Chandra X-ray Observatory (purple) and the Hubble
-Space Telescope (yell...
+credits> X-ray: NASA/CXC/MIT/E.-H Peng et al; optical: NASA/STScI
 
-wip: yes
 ---
 
 @scene
@@ -232,9 +233,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-403L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2008/a1689/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-403.jpg
 
-text> Abell 1689
+text> Abell 1689, shown in this composite image, is a massive cluster of
+galaxies located about 2.3 billion light years away that shows signs of merging
+activity. Hundred-million-degree gas detected by NASA's Chandra X-ray
+Observatory is shown as purple in this image, while galaxies from optical data
+from the Hubble Space Telescope are colored yellow.
 
-wip: yes
 ---
 
 @image
@@ -243,11 +247,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-404.jpg
 
-credits> X-ray (NASA/CXC/Columbia/F.Bauer; This composite image shows the
-central regions of the nearby Circinus galaxy, located about 12 million light
-years away. Data fr...
+credits> X-ray (NASA/CXC/Columbia/F.Bauer et al); optical (NASA/STScI/UMD/A.Wilson et al.)
 
-wip: yes
 ---
 
 @scene
@@ -256,9 +257,14 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-404L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2008/sn1996/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-404.jpg
 
-text> SN 1996cr
+text> This composite image shows the central regions of the nearby Circinus
+galaxy, located about 12 million light years away. Data from NASA's Chandra
+X-ray Observatory is shown in blue and data from the Hubble Space telescope is
+shown in yellow ("I-band"), red (hydrogen emission), cyan ("V-band") and light
+blue (oxygen emission). The bright, blue source near the lower right hand corner
+of the image is the supernova SN 1996cr, that has finally been identified over a
+decade after it exploded.
 
-wip: yes
 ---
 
 @image
@@ -267,11 +273,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-405.jpg
 
-credits> X-ray: NASA/CXC/CfA/S.Wolk et al; In Chandra’s X-ray image (blue) of
-RCW 108, over 400 sources of X-ray light are seen. Many of these X-ray sources
-are young star...
+credits> X-ray: NASA/CXC/CfA/S.Wolk et al; IR: NASA/JPL-Caltech
 
-wip: yes
 ---
 
 @scene
@@ -280,9 +283,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-405L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2008/rcw108/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-405.jpg
 
-text> RCW 108
+text> RCW 108 is a region where stars are actively forming within the Milky Way
+galaxy about 4,000 light years from Earth. This is a complicated region that
+contains young star clusters, including one that is deeply embedded in a cloud
+of molecular hydrogen. By using data from different telescopes, astronomers
+determined that star birth in this region is being triggered by the effect of
+nearby, massive young stars.
 
-wip: yes
 ---
 
 @image
@@ -291,11 +298,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-406.jpg
 
-credits> X-ray (NASA/CXC/INAF/G.Brunetti ; A composite image of X-ray data from
-Chandra (colored blue) and radio emission from the Giant Meterwave Radio
-Telescope (orange)...
+credits> X-ray (NASA/CXC/INAF/G.Brunetti et al.); radio (NRAO/NSF/INAF/G.Brunetti et al.)
 
-wip: yes
 ---
 
 @scene
@@ -304,9 +308,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-406L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2008/a521/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-406.jpg
 
-text> Abell 521
+text> This composite image shows the galaxy cluster Abell 521, located about 2.9
+billion light years from Earth. A Chandra X-ray Observatory image, in blue,
+shows hot gas in the cluster, and an image from the Giant Meterwave Radio
+Telescope in India shows radio emission in orange. The elongated shape of the
+X-ray emission shows that the cluster has undergone a violent collision, where
+another group or cluster of galaxies collided with the main cluster.
 
-wip: yes
 ---
 
 @image
@@ -315,11 +323,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-407.jpg
 
-credits> X-ray: NASA/CXC/CfA/M.Markevitch; This view of the Bullet Cluster is a
-combination of X-rays from Chandra (red) and optical data from the Hubble and
-Magellan tele...
+credits> X-ray: NASA/CXC/CfA/M.Markevitch et al.; optical: NASA/STScI; Magellan/U.Arizona/D.Clowe et al.
 
-wip: yes
 ---
 
 @scene
@@ -328,9 +333,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-407L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2008/bullet/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-407.jpg
 
-text> Bullet Cluster
+text> This view of the Bullet Cluster, located about 3.8 billion light years
+from Earth, combines an image from NASA's Chandra X-ray Observatory with optical
+data from the Hubble Space Telescope and the Magellan telescope in Chile. This
+cluster, officially known as 1E 0657-56, was formed after the violent collision
+of two large clusters of galaxies.
 
-wip: yes
 ---
 
 @image
@@ -339,11 +347,9 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-409.jpg
 
-credits> X-ray (NASA/CXC/MPE/A.Finoguenov; This is a composite image of M84 with
-X-ray data from Chandra (blue) and radio emission from the Very Large Array
-(red) overlaid...
+credits> X-ray (NASA/CXC/MPE/A.Finoguenov et al.); radio
+(NSF/NRAO/VLA/ESO/R.A.Laing et al); optical (SDSS)
 
-wip: yes
 ---
 
 @scene
@@ -352,9 +358,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-409L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2008/m84/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-409.jpg
 
-text> M84
+text> This composite image shows M84, a massive elliptical galaxy in the Virgo
+Cluster, about 55 million light years from Earth. Hot gas around M84 is shown in
+a Chandra X-ray Observatory image in blue and a radio image from the Very Large
+Array is shown in red. A background image from the Sloan Digital Sky Survey is
+shown in yellow and white
 
-wip: yes
 ---
 
 @image
@@ -363,11 +372,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-410.jpg
 
-credits> NASA/CXC/JHU/K.Kuntz et al.; This Chandra image of M101 is one of the
-longest exposures ever obtained of a spiral galaxy in X-rays. The point-like
-sources in...
+credits> NASA/CXC/JHU/K.Kuntz et al.
 
-wip: yes
 ---
 
 @scene
@@ -376,9 +382,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-410L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2008/m101/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-410.jpg
 
-text> M101
+text> With a diameter of about 170,000 light years, the galaxy Messier 101
+(M101) is a swirling spiral of stars, gas, and dust whose diameter is nearly
+twice that of our Milky Way Galaxy. Its orientation allows telescopes to see the
+spiral structure of the galaxy face-on, giving inspiration for its nickname of
+the Pinwheel Galaxy.
 
-wip: yes
 ---
 
 @image
