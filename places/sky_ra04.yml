@@ -619,6 +619,7 @@ _uuid: c5f04d86-655b-4b25-9dcb-d2d831495709
 angular_size: 1.0
 classification: SpiralGalaxy
 constellation: DOR
+cxstatus: in:661fef63befbe21fbdf49b9a
 data_set_type: Sky
 dec_deg: -59.2455555555556
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000301{Q}?g=138
@@ -710,6 +711,7 @@ zoom_level: 0.84594935185408
 _uuid: 13591736-bd73-4732-be83-ab8698f8dce5
 classification: ''
 constellation: ERI
+cxstatus: in:661fef5cbefbe21fbdf49b8a
 data_set_type: Sky
 dec_deg: -10.2501803
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-406L{1}X{2}Y{3}.png

@@ -1080,23 +1080,13 @@ _uuid: 1505d98d-1840-473e-99d3-dffbb22ff833
 angular_size: 0.48295111638769317
 classification: Unidentified
 constellation: HYI
+cxstatus: in:661fef72befbe21fbdf49bba
 data_set_type: Sky
 dec_deg: -73.555
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001311{Q}?g=138
 name: Hubble Observes Infant Stars in Nearby Galaxy
 ra_hr: 1.491
 zoom_level: 0.48295111638769317
----
-_uuid: f5223399-6db0-4f94-b5fc-693db0d5f473
-angular_size: 1.0
-classification: Nebula
-constellation: HYI
-data_set_type: Sky
-dec_deg: -73.555
-foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001311{Q}?g=138
-name: Hubble Observes Infant Stars in Nearby Galaxy
-ra_hr: 1.49111111111111
-zoom_level: 1.0
 ---
 _uuid: df17b331-da32-4849-be30-69434e3e925a
 angular_size: 1.0

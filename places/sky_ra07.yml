@@ -2,6 +2,7 @@ _uuid: a2b25de2-f260-4698-8880-3da79a71d3fc
 annotation: '{"channel": "eso", "itemid": "eso0544a", "publishedUTCISO8601": "2005-12-25T00:00:00+00:00"}'
 classification: ''
 constellation: PUP
+cxstatus: in:661fef75befbe21fbdf49bc0
 data_set_type: Sky
 dec_deg: -26.3676695974746
 description: 'Area surrounding the stellar cluster NGC 2467, located in the southern
@@ -24,6 +25,7 @@ _uuid: 405a3c4e-e99d-42b2-872e-a1a1c4569d3f
 annotation: '{"channel": "eso", "itemid": "eso0544b", "publishedUTCISO8601": "2005-12-25T00:00:00+00:00"}'
 classification: ''
 constellation: PUP
+cxstatus: in:661fef76befbe21fbdf49bc2
 data_set_type: Sky
 dec_deg: -26.38177922696967
 description: 'Open stellar cluster Haffner 18, perfectly illustrating three different
@@ -559,6 +561,7 @@ _uuid: 3512e587-f023-4669-ba29-b8e863bf3cee
 angular_size: 1.0
 classification: Galaxy
 constellation: MON
+cxstatus: in:661fef60befbe21fbdf49b94
 data_set_type: Sky
 dec_deg: -3.8475
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000211{Q}?g=138
@@ -570,6 +573,7 @@ _uuid: 5e729fa2-1f51-4b1b-8e5a-d0deaaedc1b8
 angular_size: 1.0
 classification: PlanetaryNebula
 constellation: PUP
+cxstatus: in:661fef65befbe21fbdf49b9e
 data_set_type: Sky
 dec_deg: -18.2080555555556
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000331{Q}?g=138
@@ -581,6 +585,7 @@ _uuid: 36bcf332-d9ee-454b-afc8-2378bf560eb8
 angular_size: 1.0
 classification: Galaxy
 constellation: MON
+cxstatus: in:661fef68befbe21fbdf49ba4
 data_set_type: Sky
 dec_deg: -3.8475
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001021{Q}?g=138
@@ -592,6 +597,7 @@ _uuid: de6e56ee-6d9c-44b1-8544-620fe87754fc
 angular_size: 1.0
 classification: Galaxy
 constellation: CAM
+cxstatus: in:661fef69befbe21fbdf49ba6
 data_set_type: Sky
 dec_deg: 65.6030555555556
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001031{Q}?g=138

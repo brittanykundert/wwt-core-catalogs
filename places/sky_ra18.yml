@@ -1839,6 +1839,7 @@ _uuid: 521e1b44-3d5f-44c6-8647-b367ac46ce77
 angular_size: 1.0
 classification: Nebula
 constellation: SER2
+cxstatus: in:661fef67befbe21fbdf49ba2
 data_set_type: Sky
 dec_deg: -13.7522222222222
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001011{Q}?g=138
@@ -1850,6 +1851,7 @@ _uuid: d3ed473c-a10c-4c61-b80f-1fdd7bb002b4
 angular_size: 1.0
 classification: Nebula
 constellation: LYR
+cxstatus: in:661fef6dbefbe21fbdf49bb0
 data_set_type: Sky
 dec_deg: 33.0283333333333
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001201{Q}?g=138
@@ -1861,6 +1863,7 @@ _uuid: a3c1d473-5179-48b5-b491-661d0dea5c4a
 angular_size: 1.0
 classification: Nebula
 constellation: SER2
+cxstatus: in:661fef70befbe21fbdf49bb6
 data_set_type: Sky
 dec_deg: -13.7566666666667
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001231{Q}?g=138
@@ -2078,6 +2081,7 @@ zoom_level: 0.2805039104
 _uuid: 3902930f-ce5b-4127-a815-3cd2cd10cda9
 classification: ''
 constellation: AQL
+cxstatus: in:661fef53befbe21fbdf49b78
 data_set_type: Sky
 dec_deg: -2.961892128
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-387L{1}X{2}Y{3}.png

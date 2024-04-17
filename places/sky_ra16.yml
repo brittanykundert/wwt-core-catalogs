@@ -195,6 +195,7 @@ _uuid: af74313d-f980-45ce-b704-7592afccd2ce
 annotation: '{"channel": "eso", "itemid": "eso0604a", "publishedUTCISO8601": "2006-02-07T00:00:00+00:00"}'
 classification: ''
 constellation: OPH
+cxstatus: in:661fef77befbe21fbdf49bc4
 data_set_type: Sky
 dec_deg: -1.9467056033773262
 description: 'Centre of the globular cluster Messier 12 as observed with the FORS-1
@@ -1292,6 +1293,7 @@ zoom_level: 0.34674147328
 _uuid: baa76134-0be6-4000-966c-6e1571a1509f
 classification: ''
 constellation: ARA
+cxstatus: in:661fef5bbefbe21fbdf49b88
 data_set_type: Sky
 dec_deg: -48.865044839142
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-405L{1}X{2}Y{3}.png

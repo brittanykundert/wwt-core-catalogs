@@ -347,6 +347,7 @@ _uuid: a52c4afa-70fb-4522-8c76-0cb573bb3d5b
 annotation: '{"channel": "eso", "itemid": "eso0608a", "publishedUTCISO8601": "2006-02-23T00:00:00+00:00"}'
 classification: ''
 constellation: COM
+cxstatus: in:661fef78befbe21fbdf49bc6
 data_set_type: Sky
 dec_deg: 15.82021428627975
 description: 'Composite based on five images taken with FORS1 on Kueyen (VLT) by Dominique
@@ -2706,6 +2707,7 @@ zoom_level: 0.444856969898667
 _uuid: 826e6c69-0cf0-4bf9-a746-4856b10dd182
 classification: ''
 constellation: VIR
+cxstatus: in:661fef56befbe21fbdf49b7e
 data_set_type: Sky
 dec_deg: 11.55788476306
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-398L{1}X{2}Y{3}.png
@@ -2717,6 +2719,7 @@ zoom_level: 0.05175033856
 _uuid: 596f6aad-f051-4fdd-8370-32a2e2804e33
 classification: ''
 constellation: VIR
+cxstatus: in:661fef5ebefbe21fbdf49b8e
 data_set_type: Sky
 dec_deg: 12.88698
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-409L{1}X{2}Y{3}.png

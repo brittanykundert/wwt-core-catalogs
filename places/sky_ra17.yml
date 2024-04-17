@@ -173,6 +173,7 @@ _uuid: b07abe51-66a7-42ec-9e3c-c7ded3be7c68
 annotation: '{"channel": "eso", "itemid": "eso0630a", "publishedUTCISO8601": "2006-08-10T00:00:00+00:00"}'
 classification: ''
 constellation: ARA
+cxstatus: in:661fef85befbe21fbdf49be4
 data_set_type: Sky
 dec_deg: -53.71492038607481
 description: This image shows the nearby metal-poor globular cluster NGC 6397, located
@@ -1855,6 +1856,7 @@ zoom_level: 0.537395220499661
 _uuid: 5c98fc9b-1ee5-4e7c-b09f-765666647c4d
 classification: ''
 constellation: DRA
+cxstatus: in:661fef57befbe21fbdf49b80
 data_set_type: Sky
 dec_deg: 66.6320571899
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-399L{1}X{2}Y{3}.png

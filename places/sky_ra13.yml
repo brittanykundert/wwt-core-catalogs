@@ -356,6 +356,7 @@ _uuid: d0408e04-4a29-4f82-8403-90fe55ff5fa0
 annotation: '{"channel": "eso", "itemid": "eso0627b", "publishedUTCISO8601": "2006-07-26T00:00:00+00:00"}'
 classification: ''
 constellation: CEN
+cxstatus: in:661fef83befbe21fbdf49be0
 data_set_type: Sky
 dec_deg: -46.42977134652932
 description: Located about 155 million light-years away towards the southern constellation
@@ -2310,6 +2311,7 @@ zoom_level: 0.921675241964557
 _uuid: d8afc6a9-7a26-41df-9821-eaed5bc25b01
 classification: ''
 constellation: CEN
+cxstatus: in:661fef51befbe21fbdf49b72
 data_set_type: Sky
 dec_deg: -43.0188942
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-382L{1}X{2}Y{3}.png
@@ -2321,6 +2323,7 @@ zoom_level: 1.52859082056499
 _uuid: 2765dc5b-f5d8-4246-9ce6-7b697bbebffa
 classification: ''
 constellation: VIR
+cxstatus: in:661fef59befbe21fbdf49b84
 data_set_type: Sky
 dec_deg: -1.33842511083
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-403L{1}X{2}Y{3}.png
