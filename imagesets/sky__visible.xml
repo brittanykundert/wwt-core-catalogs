@@ -17228,6 +17228,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/ann21013c/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|ann21013c"
     Xcxstatus="in:6427623a975014bc743f15e4"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURAAcknowledgements: J. Miller (Gemini Observatory/NOIRLab), T.A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), M. Zamani &amp;amp; D. de Martin (NSF’s NOIRLab)  </Credits>
@@ -17256,6 +17257,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/ann21023a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|ann21023a"
     Xcxstatus="in:6427623b975014bc743f15e5"
   >
     <Credits>Dark Energy Survey/DOE/FNAL/DECam/CTIO/NOIRLab/NSF/AURA Acknowledgments: T.A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), M. Zamani (NSF’s NOIRLab) &amp;amp; D. de Martin (NSF’s NOIRLab)</Credits>
@@ -17284,6 +17286,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini-20061001-ngc7009-ao/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini-20061001-ngc7009-ao"
     Xcxstatus="in:6427623b975014bc743f15e6"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -17312,6 +17315,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini-20070806-ngc6520gem-clnflattrim/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini-20070806-ngc6520gem-clnflattrim"
     Xcxstatus="in:6427623c975014bc743f15e7"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -17340,6 +17344,7 @@
     TileLevels="1"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini-20080825-galactic-center-abu-0001/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini-20080825-galactic-center-abu-0001"
     Xcxstatus="in:6427623c975014bc743f15e8"
   >
     <Credits>International Gemini Observatory/NOIRLab/Abu Team</Credits>
@@ -17368,6 +17373,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini-20080825-gemini-deepf-quasar-0001/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini-20080825-gemini-deepf-quasar-0001"
     Xcxstatus="in:6427623d975014bc743f15e9"
   >
     <Credits>International Gemini Observatory/Isobel Hook and the GMOS System Verification Team</Credits>
@@ -17396,6 +17402,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini-20080825-m2-9-0001/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini-20080825-m2-9-0001"
     Xcxstatus="in:6427623d975014bc743f15ea"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -17424,6 +17431,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini-20080825-ngc6357-0001/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini-20080825-ngc6357-0001"
     Xcxstatus="in:6427623e975014bc743f15eb"
   >
     <Credits>International Gemini Observatory/University of Florida/Nidia Morrell/UNLP-CONICET</Credits>
@@ -17452,6 +17460,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini-20080825-trapezium-m42-0001/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini-20080825-trapezium-m42-0001"
     Xcxstatus="in:6427623e975014bc743f15ec"
   >
     <Credits>International Gemini Observatory/University of Florida/Phil Lucas</Credits>
@@ -17480,6 +17489,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini-2013-ngc2346-legacy/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini-2013-ngc2346-legacy"
     Xcxstatus="in:6427623f975014bc743f15ed"
   >
     <Credits>International Gemini Observatory, Letizia Stanghellini (National Optical Astronomy Observatory) and T.A. Rector (University of Alaska Anchorage)</Credits>
@@ -17508,6 +17518,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini-2013-rcw41-legacy/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini-2013-rcw41-legacy"
     Xcxstatus="in:6427623f975014bc743f15ee"
   >
     <Credits>International Gemini Observatory, Henri Michel Pierre Plana (Universidade Estadual de Santa Cruz) and T.A. Rector (University of Alaska Anchorage)</Credits>
@@ -17536,6 +17547,7 @@
     TileLevels="1"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini-bowshock-color/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini-bowshock-color"
     Xcxstatus="in:6427623f975014bc743f15ef"
   >
     <Credits>International Gemini Observatory, National Science Foundation and the University of Hawaii Adaptive Optics Group</Credits>
@@ -17564,6 +17576,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini-gccolor/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini-gccolor"
     Xcxstatus="in:64276240975014bc743f15f0"
   >
     <Credits>International Gemini Observatory, National Science Foundation and the University of Hawaii Adaptive Optics Group</Credits>
@@ -17620,6 +17633,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini-ngc7232-final/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini-ngc7232-final"
     Xcxstatus="in:64276241975014bc743f15f2"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA/T. A. Rector (University of Alaska Anchorage)</Credits>
@@ -17648,6 +17662,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini-vv166-final/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini-vv166-final"
     Xcxstatus="in:64276242975014bc743f15f3"
   >
     <Credits>International Gemini Observatory/AURA</Credits>
@@ -17676,6 +17691,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0101a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0101a"
     Xcxstatus="in:64276242975014bc743f15f4"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -17704,6 +17720,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0101b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0101b"
     Xcxstatus="in:64276243975014bc743f15f5"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -17732,6 +17749,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0101c/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0101c"
     Xcxstatus="in:64276243975014bc743f15f6"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -17760,6 +17778,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0207a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0207a"
     Xcxstatus="in:64276243975014bc743f15f7"
   >
     <Credits>International Gemini Observatory/Ingrid Braul, Southlands Elementary, Vancouver BC</Credits>
@@ -17788,6 +17807,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0302a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0302a"
     Xcxstatus="in:64276244975014bc743f15f8"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -17816,6 +17836,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0302b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0302b"
     Xcxstatus="in:64276244975014bc743f15f9"
   >
     <Credits>Hubble Heritage Team/STScI/AURA/NASA</Credits>
@@ -17844,6 +17865,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0401c/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0401c"
     Xcxstatus="in:64276245975014bc743f15fa"
   >
     <Credits>Gemini Observatory: GMOS Commissioning Team`</Credits>
@@ -17872,6 +17894,7 @@
     TileLevels="1"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0401d/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0401d"
     Xcxstatus="in:64276245975014bc743f15fb"
   >
     <Credits>Isaac Newton Telescope, Jonathan Irwin</Credits>
@@ -17900,6 +17923,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0402a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0402a"
     Xcxstatus="in:64276246975014bc743f15fc"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -17928,6 +17952,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0406a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0406a"
     Xcxstatus="in:64276246975014bc743f15fd"
   >
     <Credits>“Canada-France-Hawaii Telescope/J.-C. Cuillandre/Coelum”</Credits>
@@ -17956,6 +17981,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0501a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0501a"
     Xcxstatus="in:64276247975014bc743f15fe"
   >
     <Credits>International Gemini Observatory/AURA/Manuel Paredes</Credits>
@@ -17984,6 +18010,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0502b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0502b"
     Xcxstatus="in:64276247975014bc743f15ff"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -18012,6 +18039,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0502c/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0502c"
     Xcxstatus="in:64276248975014bc743f1600"
   >
     <Credits>International Gemini Observatory/Travis Rector, University of Alaska Anchorage</Credits>
@@ -18068,6 +18096,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0509c/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0509c"
     Xcxstatus="in:64276249975014bc743f1602"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -18096,6 +18125,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0601a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0601a"
     Xcxstatus="in:64276249975014bc743f1603"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -18124,6 +18154,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0602f/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0602f"
     Xcxstatus="in:64276249975014bc743f1604"
   >
     <Credits>NOIRLab</Credits>
@@ -18152,6 +18183,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0603a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0603a"
     Xcxstatus="in:6427624a975014bc743f1605"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -18180,6 +18212,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0604b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0604b"
     Xcxstatus="in:6427624a975014bc743f1606"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -18208,6 +18241,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0605a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0605a"
     Xcxstatus="in:6427624b975014bc743f1607"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -18236,6 +18270,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0605b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0605b"
     Xcxstatus="in:6427624b975014bc743f1608"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -18264,6 +18299,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0607a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0607a"
     Xcxstatus="in:6427624c975014bc743f1609"
   >
     <Credits>International Gemini Observatory/GMOS Commissioning Team</Credits>
@@ -18292,6 +18328,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0703a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0703a"
     Xcxstatus="in:6427624c975014bc743f160a"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -18320,6 +18357,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0707b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0707b"
     Xcxstatus="in:6427624d975014bc743f160b"
   >
     <Credits>Inseok Song/Digital Sky Survey, inset: Gemini Observatory/Lynette Cook</Credits>
@@ -18348,6 +18386,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0801a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0801a"
     Xcxstatus="in:6427624d975014bc743f160c"
   >
     <Credits>P. Michaud, S. Fisher, and R. Carrasco from Gemini and T. Rector from the Univ. of Alaska at Anchorage/International Gemini Observatory</Credits>
@@ -18376,6 +18415,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0805a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0805a"
     Xcxstatus="in:6427624e975014bc743f160d"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA</Credits>
@@ -18404,6 +18444,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0901a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0901a"
     Xcxstatus="in:6427624e975014bc743f160e"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -18432,6 +18473,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini0901b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini0901b"
     Xcxstatus="in:6427624e975014bc743f160f"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -18460,6 +18502,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini1004a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini1004a"
     Xcxstatus="in:6427624f975014bc743f1610"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -18488,6 +18531,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini1006b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini1006b"
     Xcxstatus="in:6427624f975014bc743f1611"
   >
     <Credits>R. Carrasco et al., International Gemini Observatory/AURA</Credits>
@@ -18516,6 +18560,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini1007a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini1007a"
     Xcxstatus="in:64276250975014bc743f1612"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -18544,6 +18589,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini1104a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini1104a"
     Xcxstatus="in:64276250975014bc743f1613"
   >
     <Credits>International Gemini Observatory/AURA/Australian Gemini Office</Credits>
@@ -18572,6 +18618,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini1108a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini1108a"
     Xcxstatus="in:64276251975014bc743f1614"
   >
     <Credits>International Gemini Observatory/AURA</Credits>
@@ -18600,6 +18647,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini1205a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini1205a"
     Xcxstatus="in:64276251975014bc743f1615"
   >
     <Credits>International Gemini Observatory</Credits>
@@ -18656,6 +18704,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini1301a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini1301a"
     Xcxstatus="in:64276252975014bc743f1617"
   >
     <Credits>International Gemini Observatory/AURA</Credits>
@@ -18684,6 +18733,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini1306a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini1306a"
     Xcxstatus="in:64276253975014bc743f1618"
   >
     <Credits>International Gemini Observatory/AURA</Credits>
@@ -18712,6 +18762,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini1306c/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini1306c"
     Xcxstatus="in:64276253975014bc743f1619"
   >
     <Credits>International Gemini Observatory/AURA</Credits>
@@ -18740,6 +18791,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini1306d/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini1306d"
     Xcxstatus="in:64276254975014bc743f161a"
   >
     <Credits>International Gemini Observatory/AURA</Credits>
@@ -18768,6 +18820,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini1307c/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini1307c"
     Xcxstatus="in:64276254975014bc743f161b"
   >
     <Credits>International Gemini Observatory, J. Bally and A. Ginsberg (University of Colorado) and T.A. Rector (University of Alaska Anchorage)</Credits>
@@ -18796,6 +18849,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini1504a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini1504a"
     Xcxstatus="in:64276255975014bc743f161c"
   >
     <Credits>NOIRLab</Credits>
@@ -18824,6 +18878,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini1508a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini1508a"
     Xcxstatus="in:64276255975014bc743f161d"
   >
     <Credits>International Gemini Observatory/AURA</Credits>
@@ -18852,6 +18907,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini1604a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini1604a"
     Xcxstatus="in:64276255975014bc743f161e"
   >
     <Credits>International Gemini Observatory/AURA</Credits>
@@ -18880,6 +18936,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/gemini1611a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|gemini1611a"
     Xcxstatus="in:64276256975014bc743f161f"
   >
     <Credits>International Gemini Observatory/AURA</Credits>
@@ -18908,6 +18965,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/geminiann02007a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|geminiann02007a"
     Xcxstatus="in:64276256975014bc743f1620"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA/I. Hook/GMOS System Verification Team</Credits>
@@ -18936,6 +18994,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/geminiann02010a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|geminiann02010a"
     Xcxstatus="in:64276257975014bc743f1621"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA</Credits>
@@ -18964,6 +19023,7 @@
     TileLevels="1"
     Url="http://data1.wwtassets.org/feeds/noirlab/geminiann02010b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|geminiann02010b"
     Xcxstatus="in:64276258975014bc743f1622"
   >
     <Credits>Gemini Observatory/Francois Rigaut</Credits>
@@ -18992,6 +19052,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/geminiann03005a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|geminiann03005a"
     Xcxstatus="in:64276258975014bc743f1623"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA/WIYN Observatory/Dr. L. Macri  </Credits>
@@ -19020,6 +19081,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/geminiann04014a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|geminiann04014a"
     Xcxstatus="in:64276258975014bc743f1624"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA</Credits>
@@ -19048,6 +19110,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/geminiann08002e/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|geminiann08002e"
     Xcxstatus="in:64276259975014bc743f1625"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURAThis image was obtained by Gemini Observatory/Colin Aspin and processed into a color composite by Kirk Pu&amp;#x27;uohau-Pummill (Gemini Observatory) and Travis Rector (University of Alaska, Anchorage)</Credits>
@@ -19076,6 +19139,7 @@
     TileLevels="1"
     Url="http://data1.wwtassets.org/feeds/noirlab/geminiann08018a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|geminiann08018a"
     Xcxstatus="in:64276259975014bc743f1626"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA</Credits>
@@ -19104,6 +19168,7 @@
     TileLevels="1"
     Url="http://data1.wwtassets.org/feeds/noirlab/geminiann09001a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|geminiann09001a"
     Xcxstatus="in:6427625a975014bc743f1627"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA</Credits>
@@ -19132,6 +19197,7 @@
     TileLevels="1"
     Url="http://data1.wwtassets.org/feeds/noirlab/geminiann09013c/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|geminiann09013c"
     Xcxstatus="in:6427625a975014bc743f1628"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA/M. Westmoquette (UCL)/J. Gallagher (Wisconsin-Madison)/ L. Smith (STScI/UCL)</Credits>
@@ -19160,6 +19226,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/geminiann09019a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|geminiann09019a"
     Xcxstatus="in:6427625b975014bc743f1629"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA/D. Tran (PAL College)/T. Rector (U. Alaska Anchorage)/T. Bridges (Queen&amp;#x27;s U.)/Australian Gemini Office.</Credits>
@@ -19188,6 +19255,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/geminiann10008a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|geminiann10008a"
     Xcxstatus="in:6427625b975014bc743f162a"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA/Émilie Storer (Collège Charlemagne, QUE)/André-Nicolas Chené (HIA/NRCof Canada)/T. Rector (U.Alaska, Anchorage).</Credits>
@@ -19216,6 +19284,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/geminiann11015a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|geminiann11015a"
     Xcxstatus="in:6427625c975014bc743f162b"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA/B. Reynolds (Sutherland Shire Christian School)/T. Rector (University of Alaska, Anchorage)/Australian Gemini Office.</Credits>
@@ -19244,6 +19313,7 @@
     TileLevels="1"
     Url="http://data1.wwtassets.org/feeds/noirlab/geminiann12015a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|geminiann12015a"
     Xcxstatus="in:6427625c975014bc743f162c"
   >
     <Credits>CFHT/ESO/M. Schirmer</Credits>
@@ -19272,6 +19342,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/iotw2019a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|iotw2019a"
     Xcxstatus="in:6427625d975014bc743f162d"
   >
     <Credits>KPNO/NOIRLab/NSF/AURA Acknowledgements:PI: M T. Patterson (New Mexico State University)Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -19300,6 +19371,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/iotw2023a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|iotw2023a"
     Xcxstatus="in:6427625d975014bc743f162e"
   >
     <Credits>KPNO/NOIRLab/NSF/AURAAcknowledgements: PI: M T. Patterson (New Mexico State University)Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -19328,6 +19400,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/iotw2030a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|iotw2030a"
     Xcxstatus="in:6427625d975014bc743f162f"
   >
     <Credits>KPNO/NOIRLab/NSF/AURAAcknowledgements: PI: M T. Patterson (New Mexico State University)Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin  </Credits>
@@ -19356,6 +19429,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/iotw2035a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|iotw2035a"
     Xcxstatus="in:6427625e975014bc743f1630"
   >
     <Credits>KPNO/NOIRLab/NSF/AURA.  Acknowledgments: PI: M T. Patterson (New Mexico State University) Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -19384,6 +19458,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/iotw2043a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|iotw2043a"
     Xcxstatus="in:6427625e975014bc743f1631"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA Acknowledgments:Image processing: Jen Miller (Gemini Observatory/NSF&amp;#x27;s NOIRLab), Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -19412,6 +19487,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/iotw2048a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|iotw2048a"
     Xcxstatus="in:6427625f975014bc743f1632"
   >
     <Credits>CTIO/NOIRLab/NSF/AURA Acknowledgments: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -19440,6 +19516,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/iotw2051b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|iotw2051b"
     Xcxstatus="in:6427625f975014bc743f1633"
   >
     <Credits>CTIO/NOIRLab/NSF/AURA Acknowledgments: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -19468,6 +19545,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/iotw2101a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|iotw2101a"
     Xcxstatus="in:64276260975014bc743f1634"
   >
     <Credits>KPNO/NOIRLab/NSF/AURA.  Acknowledgments: PI: M T. Patterson (New Mexico State University)Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -19496,6 +19574,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/iotw2104a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|iotw2104a"
     Xcxstatus="in:64276260975014bc743f1635"
   >
     <Credits>CTIO/NOIRLab/NSF/AURAAcknowledgment: Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -19524,6 +19603,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/iotw2110a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|iotw2110a"
     Xcxstatus="in:64276261975014bc743f1636"
   >
     <Credits>CTIO/NOIRLab/DOE/NSF/AURAImage processing: Travis Rector (University of Alaska, Anchorage/NSF&amp;#x27;s NOIRLab), Jen Miller (Gemini Observatory/NSF&amp;#x27;s NOIRLab), Mahdi Zamani &amp;amp; Davide de Martin (NSF&amp;#x27;s NOIRLab)</Credits>
@@ -19552,6 +19632,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/iotw2113a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|iotw2113a"
     Xcxstatus="in:64276261975014bc743f1637"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA Acknowledgements: PI: Rafael Andrés Pignata (Universidad Nacional de Córdoba)Image processing: T. A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), J. Miller (Gemini Observatory/NSF&amp;#x27;s NOIRLab), M. Zamani &amp;amp; D. de Martin (NSF’s NOIRLab)</Credits>
@@ -19580,6 +19661,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/iotw2115a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|iotw2115a"
     Xcxstatus="in:64276262975014bc743f1638"
   >
     <Credits>CTIO/NOIRLab/NSF/AURA/SMARTS ConsortiumImage processing: T. A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), M. Zamani &amp;amp; D. de Martin (NSF’s NOIRLab)</Credits>
@@ -19608,6 +19690,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/iotw2121a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|iotw2121a"
     Xcxstatus="in:64276263975014bc743f1639"
   >
     <Credits>CTIO/NOIRLab/NSF/AURAAcknowledgment: Image processing: T. A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), M. Zamani &amp;amp; D. de Martin (NSF’s NOIRLab)</Credits>
@@ -19636,6 +19719,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/iotw2126a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|iotw2126a"
     Xcxstatus="in:64276263975014bc743f163a"
   >
     <Credits>KPNO/NOIRLab/NSF/AURAData obtained and processed by: P. Massey (Lowell Obs.), G. Jacoby, K. Olsen, &amp;amp; C. Smith (AURA/NSF)Image processing: T.A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), M. Zamani (NSF’s NOIRLab) &amp;amp; D. de Martin (NSF’s NOIRLab)</Credits>
@@ -19664,6 +19748,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/iotw2127a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|iotw2127a"
     Xcxstatus="in:64276264975014bc743f163b"
   >
     <Credits>Dark Energy Survey/DOE/FNAL/DECam/CTIO/NOIRLab/NSF/AURAImage processing: Travis Rector (University of Alaska Anchorage/NSF’s NOIRLab), Jen Miller (Gemini Observatory/NSF’s NOIRLab), Mahdi Zamani &amp;amp; Davide de Martin (NSF’s NOIRLab)</Credits>
@@ -19692,6 +19777,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/iotw2136a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|iotw2136a"
     Xcxstatus="in:64276264975014bc743f163c"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURAAcknowledgment: T.A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), J. Miller (Gemini Observatory/NSF’s NOIRLab), M. Zamani &amp;amp; D. de Martin (NSF’s NOIRLab)</Credits>
@@ -19720,6 +19806,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao--m101sy/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao--m101sy"
     Xcxstatus="in:64276265975014bc743f163d"
   >
     <Credits>Mike Pierce, John Jurcevic (Indiana)/WIYN/NOIRLab/NSF</Credits>
@@ -19748,6 +19835,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02171/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02171"
     Xcxstatus="in:64276265975014bc743f163e"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -19776,6 +19864,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02172/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02172"
     Xcxstatus="in:64276265975014bc743f163f"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -19804,6 +19893,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02173/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02173"
     Xcxstatus="in:64276266975014bc743f1640"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -19888,6 +19978,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02176/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02176"
     Xcxstatus="in:64276267975014bc743f1643"
   >
     <Credits>Bill Schoening/NOIRLab/NSF/AURA</Credits>
@@ -20000,6 +20091,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02182/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02182"
     Xcxstatus="in:64276269975014bc743f1647"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -20056,6 +20148,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02184/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02184"
     Xcxstatus="in:6427626a975014bc743f1649"
   >
     <Credits>Bill Schoening, Nigel Sharp/NOIRLab/NSF/AURA</Credits>
@@ -20084,6 +20177,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02185/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02185"
     Xcxstatus="in:6427626b975014bc743f164a"
   >
     <Credits>Bill Schoening/NOIRLab/NSF/AURA</Credits>
@@ -20252,6 +20346,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02192/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02192"
     Xcxstatus="in:6427626d975014bc743f1650"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -20308,6 +20403,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02202/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02202"
     Xcxstatus="in:6427626e975014bc743f1652"
   >
     <Credits>Todd Boroson/NOIRLab/NSF/AURA</Credits>
@@ -20336,6 +20432,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02204/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02204"
     Xcxstatus="in:6427626f975014bc743f1653"
   >
     <Credits>Todd Boroson/NOIRLab/NSF/AURA/</Credits>
@@ -20364,6 +20461,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02210/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02210"
     Xcxstatus="in:6427626f975014bc743f1654"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -20392,6 +20490,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02212/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02212"
     Xcxstatus="in:64276270975014bc743f1655"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -20476,6 +20575,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02216/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02216"
     Xcxstatus="in:64276271975014bc743f1658"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -20504,6 +20604,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02268/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02268"
     Xcxstatus="in:64276271975014bc743f1659"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -20532,6 +20633,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02269/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02269"
     Xcxstatus="in:64276272975014bc743f165a"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -20616,6 +20718,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02274/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02274"
     Xcxstatus="in:64276273975014bc743f165d"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -20700,6 +20803,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02283/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02283"
     Xcxstatus="in:64276275975014bc743f1660"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -20868,6 +20972,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02325/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02325"
     Xcxstatus="in:64276278975014bc743f1666"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -20980,6 +21085,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02332/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02332"
     Xcxstatus="in:6427627a975014bc743f166a"
   >
     <Credits>NOIRLab/AURA/NSF</Credits>
@@ -21176,6 +21282,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02342/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02342"
     Xcxstatus="in:6427627d975014bc743f1671"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -21232,6 +21339,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02346/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02346"
     Xcxstatus="in:6427627e975014bc743f1673"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -21260,6 +21368,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02347/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02347"
     Xcxstatus="in:6427627f975014bc743f1674"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -21288,6 +21397,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02349/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02349"
     Xcxstatus="in:6427627f975014bc743f1675"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -21316,6 +21426,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02350/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02350"
     Xcxstatus="in:64276280975014bc743f1676"
   >
     <Credits>NOIRLab/AURA/NSF</Credits>
@@ -21344,6 +21455,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02351/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02351"
     Xcxstatus="in:64276280975014bc743f1677"
   >
     <Credits>NOIRLab/AURA/NSF</Credits>
@@ -21400,6 +21512,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02353/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02353"
     Xcxstatus="in:64276281975014bc743f1679"
   >
     <Credits>NOIRLab/NSF/AURA/NSF</Credits>
@@ -21484,6 +21597,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02463/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02463"
     Xcxstatus="in:64276282975014bc743f167c"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -21568,6 +21682,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02673/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02673"
     Xcxstatus="in:64276284975014bc743f167f"
   >
     <Credits>Bill Schoening/NOIRLab/NSF/AURA</Credits>
@@ -21596,6 +21711,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02674/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02674"
     Xcxstatus="in:64276284975014bc743f1680"
   >
     <Credits>Bill Schoening/NOIRLab/NSF/AURA</Credits>
@@ -21624,6 +21740,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02675/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02675"
     Xcxstatus="in:64276285975014bc743f1681"
   >
     <Credits>Bill Schoening/NOIRLab/NSF/AURA/</Credits>
@@ -21652,6 +21769,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02677/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02677"
     Xcxstatus="in:64276285975014bc743f1682"
   >
     <Credits>Bill Schoening/NOIRLab/NSF/AURA</Credits>
@@ -21680,6 +21798,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02678/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02678"
     Xcxstatus="in:64276285975014bc743f1683"
   >
     <Credits>Bill Schoening/NOIRLab/NSF/AURA</Credits>
@@ -21708,6 +21827,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02881/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02881"
     Xcxstatus="in:64276286975014bc743f1684"
   >
     <Credits>George Jacoby, Bruce Bohannan, Mark Hanna/NOIRLab/NSF/AURA/</Credits>
@@ -21736,6 +21856,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-02953/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-02953"
     Xcxstatus="in:64276286975014bc743f1685"
   >
     <Credits>C. Howk (JHU), B. Savage (U. Wisconsin), N.A.Sharp (NOAO)/WIYN/NOIRLab/NSF</Credits>
@@ -21764,6 +21885,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-03315/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-03315"
     Xcxstatus="in:64276287975014bc743f1686"
   >
     <Credits>K.M. Merrill, NOIRLab/NSF/AURA</Credits>
@@ -21848,6 +21970,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-04086/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-04086"
     Xcxstatus="in:64276288975014bc743f1689"
   >
     <Credits>T.A.Rector (NRAO/AUI/NSF and NOIRLab/NSF/AURA) and B.A.Wolpa (NOIRLab/NSF/AURA)</Credits>
@@ -21904,6 +22027,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-04493/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-04493"
     Xcxstatus="in:64276289975014bc743f168b"
   >
     <Credits>T.A. Rector (NRAO/AUI/NSF and NOIRLab/NSF/AURA) and B.A. Wolpa (NOIRLab/NSF/AURA)</Credits>
@@ -21932,6 +22056,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-04494/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-04494"
     Xcxstatus="in:6427628a975014bc743f168c"
   >
     <Credits>T.A. Rector (NRAO/AUI/NSF and NOIRLab/NSF/AURA)</Credits>
@@ -21960,6 +22085,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-04745/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-04745"
     Xcxstatus="in:6427628a975014bc743f168d"
   >
     <Credits>John Bally (U. Colorado), Bo Reipurth (U. Hawaii)/NOIRLab/NSF/AURA</Credits>
@@ -22016,6 +22142,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-30-doradus/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-30-doradus"
     Xcxstatus="in:6427628b975014bc743f168f"
   >
     <Credits>S. Points, C. Smith, R. Leiton, C. Aguilera and NOIRLab/NSF/AURA</Credits>
@@ -22044,6 +22171,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-6051/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-6051"
     Xcxstatus="in:6427628b975014bc743f1690"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -22072,6 +22200,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-J1337-29_crop1/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-J1337-29_crop1"
     Xcxstatus="in:6427629b975014bc743f16b1"
   >
     <Credits>The SINGG Survey Team and NOIRLab/NSF/AURA/</Credits>
@@ -22128,6 +22257,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-abell74/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-abell74"
     Xcxstatus="in:6427628c975014bc743f1692"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -22184,6 +22314,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-arp-104/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-arp-104"
     Xcxstatus="in:6427628d975014bc743f1694"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -22212,6 +22343,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-arp286/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-arp286"
     Xcxstatus="in:6427628e975014bc743f1695"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -22296,6 +22428,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-crab1/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-crab1"
     Xcxstatus="in:6427628f975014bc743f1698"
   >
     <Credits>Jay Gallagher (U. Wisconsin)/WIYN/NOIRLab/NSF</Credits>
@@ -22324,6 +22457,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-crab3/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-crab3"
     Xcxstatus="in:64276290975014bc743f1699"
   >
     <Credits>Jay Gallagher (U. Wisconsin), N.A. Sharp (NOAO)/WIYN/NOIRLab/NSF</Credits>
@@ -22352,6 +22486,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-cyg_x1/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-cyg_x1"
     Xcxstatus="in:64276290975014bc743f169a"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -22380,6 +22515,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-dumb/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-dumb"
     Xcxstatus="in:64276290975014bc743f169b"
   >
     <Credits>Nigel Sharp, Rich Reed, Dave Dryden, Dave Mills, Doug Williams, Charles Corson, Roger Lynds and Arjun Dey/NOAO/WIYN/NSF</Credits>
@@ -22408,6 +22544,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ear/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ear"
     Xcxstatus="in:64276291975014bc743f169c"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -22436,6 +22573,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-g70-51-9/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-g70-51-9"
     Xcxstatus="in:64276291975014bc743f169d"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -22492,6 +22630,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-hfg1/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-hfg1"
     Xcxstatus="in:64276292975014bc743f169f"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -22520,6 +22659,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-hgc92/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-hgc92"
     Xcxstatus="in:64276293975014bc743f16a0"
   >
     <Credits>International Gemini Observatory/Travis Rector, University of Alaska Anchorage</Credits>
@@ -22546,6 +22686,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-hst0034/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-hst0034"
     Xcxstatus="in:64276293975014bc743f16a1"
   >
     <Credits>Roger Lynds (NOAO), NASA and The Hubble Heritage Team, STScI/AURA</Credits>
@@ -22602,6 +22743,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ic1340/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ic1340"
     Xcxstatus="in:64276294975014bc743f16a3"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -22630,6 +22772,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ic1396/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ic1396"
     Xcxstatus="in:64276295975014bc743f16a4"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and WIYN/NOIRLab/NSF/AURA</Credits>
@@ -22658,6 +22801,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ic1396a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ic1396a"
     Xcxstatus="in:64276295975014bc743f16a5"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage), H. Schweiker &amp;amp; S. Pakzad (NOIRLab/NSF/AURA)</Credits>
@@ -22686,6 +22830,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ic1396b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ic1396b"
     Xcxstatus="in:64276296975014bc743f16a6"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage), H. Schweiker &amp;amp; S. Pakzad (NOIRLab/NSF/AURA)</Credits>
@@ -22714,6 +22859,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ic1396c/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ic1396c"
     Xcxstatus="in:64276296975014bc743f16a7"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage), H. Schweiker &amp;amp; S. Pakzad (NOIRLab/NSF/AURA)</Credits>
@@ -22742,6 +22888,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ic1805/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ic1805"
     Xcxstatus="in:64276296975014bc743f16a8"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA</Credits>
@@ -22798,6 +22945,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ic417/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ic417"
     Xcxstatus="in:64276297975014bc743f16aa"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -22826,6 +22974,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ic426/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ic426"
     Xcxstatus="in:64276298975014bc743f16ab"
   >
     <Credits>T. A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOIRLab/NSF/AURA</Credits>
@@ -22854,6 +23003,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ic468/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ic468"
     Xcxstatus="in:64276298975014bc743f16ac"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and NOIRLab/NSF/AURA</Credits>
@@ -22910,6 +23060,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-j0403-43_crop1/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-j0403-43_crop1"
     Xcxstatus="in:64276299975014bc743f16ae"
   >
     <Credits>The SINGG Survey Team and NOIRLab/NSF/AURA</Credits>
@@ -22938,6 +23089,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-j1018-17_crop1/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-j1018-17_crop1"
     Xcxstatus="in:6427629a975014bc743f16af"
   >
     <Credits>The SINGG Survey Team and NOIRLab/NSF/AURA</Credits>
@@ -22966,6 +23118,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-j1318-21_crop1/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-j1318-21_crop1"
     Xcxstatus="in:6427629a975014bc743f16b0"
   >
     <Credits>The SINGG Survey Team and NOIRLab/NSF/AURA</Credits>
@@ -22994,6 +23147,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-j1339-31_crop1/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-j1339-31_crop1"
     Xcxstatus="in:6427629b975014bc743f16b2"
   >
     <Credits>The SINGG Survey Team and NOIRLab/NSF/AURA/</Credits>
@@ -23050,6 +23204,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-kjpn8/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-kjpn8"
     Xcxstatus="in:6427629c975014bc743f16b4"
   >
     <Credits>T.A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOIRLab/NSF/AURA</Credits>
@@ -23078,6 +23233,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-lag/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-lag"
     Xcxstatus="in:6427629c975014bc743f16b5"
   >
     <Credits>N.A.Sharp, REU program/NOIRLab/NSF/AURA</Credits>
@@ -23106,6 +23262,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-lagoon-nebula/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-lagoon-nebula"
     Xcxstatus="in:6427629d975014bc743f16b6"
   >
     <Credits>SSRO/PROMPT/CTIO</Credits>
@@ -23134,6 +23291,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-lbn438/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-lbn438"
     Xcxstatus="in:6427629d975014bc743f16b7"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -23162,6 +23320,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-lbn777/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-lbn777"
     Xcxstatus="in:6427629e975014bc743f16b8"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -23190,6 +23349,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ldn673/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ldn673"
     Xcxstatus="in:6427629e975014bc743f16b9"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -23218,6 +23378,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ldn810/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ldn810"
     Xcxstatus="in:6427629f975014bc743f16ba"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -23246,6 +23407,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m10/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m10"
     Xcxstatus="in:6427629f975014bc743f16bb"
   >
     <Credits>N.A.Sharp, Vanessa Harvey/REU program/NOIRLab/NSF/AURA</Credits>
@@ -23274,6 +23436,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m100/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m100"
     Xcxstatus="in:642762a0975014bc743f16bc"
   >
     <Credits>N.A.Sharp/NOIRLab/NSF/AURA/</Credits>
@@ -23302,6 +23465,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m101sn2011fe/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m101sn2011fe"
     Xcxstatus="in:642762a0975014bc743f16bd"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage), H. Schweiker &amp;amp; S. Pakzad NOIRLab/NSF/AURA</Credits>
@@ -23414,6 +23578,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m105/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m105"
     Xcxstatus="in:642762a2975014bc743f16c1"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -23442,6 +23607,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m106/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m106"
     Xcxstatus="in:642762a2975014bc743f16c2"
   >
     <Credits>N.A.Sharp, REU program/NOIRLab/NSF/AURA/</Credits>
@@ -23470,6 +23636,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m108/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m108"
     Xcxstatus="in:642762a3975014bc743f16c3"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -23498,6 +23665,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m109/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m109"
     Xcxstatus="in:642762a3975014bc743f16c4"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -23554,6 +23722,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m110/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m110"
     Xcxstatus="in:642762a4975014bc743f16c6"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -23582,6 +23751,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m12/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m12"
     Xcxstatus="in:642762a5975014bc743f16c7"
   >
     <Credits>REU Program/NOIRLab/NSF/AURA</Credits>
@@ -23610,6 +23780,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m13kpno4m/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m13kpno4m"
     Xcxstatus="in:642762a5975014bc743f16c8"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -23666,6 +23837,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m15-kpno-0-9-m/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m15-kpno-0-9-m"
     Xcxstatus="in:642762a6975014bc743f16ca"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -23694,6 +23866,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m17/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m17"
     Xcxstatus="in:642762a7975014bc743f16cb"
   >
     <Credits>Hillary Mathis, N.A.Sharp, REU program/NOIRLab/NSF/AURA</Credits>
@@ -23722,6 +23895,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m18/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m18"
     Xcxstatus="in:642762a7975014bc743f16cc"
   >
     <Credits>Hillary Mathis, REU program/NOIRLab/NSF/AURA</Credits>
@@ -23750,6 +23924,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m19/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m19"
     Xcxstatus="in:642762a8975014bc743f16cd"
   >
     <Credits>Doug Williams, REU Program/NOIRLab/NSF/AURA</Credits>
@@ -23778,6 +23953,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m20/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m20"
     Xcxstatus="in:642762a8975014bc743f16ce"
   >
     <Credits>Todd Boroson/NOIRLab/NSF/AURA</Credits>
@@ -23806,6 +23982,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m21/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m21"
     Xcxstatus="in:642762a8975014bc743f16cf"
   >
     <Credits>REU program/NOIRLab/NSF/AURA</Credits>
@@ -23834,6 +24011,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m21a20/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m21a20"
     Xcxstatus="in:642762a9975014bc743f16d0"
   >
     <Credits>REU program/NOIRLab/NSF/AURA</Credits>
@@ -24030,6 +24208,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m3-burrell-schmid/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m3,noirlab|noao-m3-burrell-schmid"
     Xcxstatus="in:642762ac975014bc743f16d7"
   >
     <Credits>N.A.Sharp, Vanessa Harvey/REU program/NOIRLab/NSF/AURA</Credits>
@@ -24058,6 +24237,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m3-kpno-mayall-4-m/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m3-kpno-mayall-4-m"
     Xcxstatus="in:642762ad975014bc743f16d8"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -24086,6 +24266,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m30/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m30"
     Xcxstatus="in:642762ad975014bc743f16d9"
   >
     <Credits>REU program/NOIRLab/NSF/AURA</Credits>
@@ -24114,6 +24295,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m31/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m31"
     Xcxstatus="in:642762ae975014bc743f16da"
   >
     <Credits>T.A.Rector and B.A.Wolpa/NOIRLab/NSF/AURA/</Credits>
@@ -24142,6 +24324,7 @@
     TileLevels="8"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m31lgs_ubvIha/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m31lgs_ubvIha"
     Xcxstatus="in:642762ae975014bc743f16db"
   >
     <Credits>Local Group Survey Team and T.A. Rector (University of Alaska Anchorage)</Credits>
@@ -24168,6 +24351,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m33lgs_ubvIha/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m33lgs_ubvIha"
     Xcxstatus="in:642762af975014bc743f16dc"
   >
     <Credits>Local Group Survey Team and T.A. Rector (University of Alaska Anchorage)</Credits>
@@ -24280,6 +24464,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m39/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m39"
     Xcxstatus="in:642762b1975014bc743f16e0"
   >
     <Credits>Heidi Schweiker/WIYN and NOIRLab/NSF/AURA</Credits>
@@ -24392,6 +24577,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m54/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m54"
     Xcxstatus="in:642762b3975014bc743f16e4"
   >
     <Credits>REU Program/NOIRLab/NSF/AURA</Credits>
@@ -24420,6 +24606,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m55/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m55"
     Xcxstatus="in:642762b3975014bc743f16e5"
   >
     <Credits>Hillary Mathis, REU Program/NOIRLab/NSF/AURA</Credits>
@@ -24448,6 +24635,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m58/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m58"
     Xcxstatus="in:642762b4975014bc743f16e6"
   >
     <Credits> NOIRLab/NSF/AURA/</Credits>
@@ -24476,6 +24664,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m60/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m60"
     Xcxstatus="in:642762b4975014bc743f16e7"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -24504,6 +24693,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m61/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m61"
     Xcxstatus="in:642762b5975014bc743f16e8"
   >
     <Credits>Hillary Mathis, N.A.Sharp/NOIRLab/NSF/AURA/</Credits>
@@ -24560,6 +24750,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m64/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m64"
     Xcxstatus="in:642762b6975014bc743f16ea"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -24616,6 +24807,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m65a66/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m65a66"
     Xcxstatus="in:642762b7975014bc743f16ec"
   >
     <Credits>REU program/NOIRLab/NSF/AURA/</Credits>
@@ -24644,6 +24836,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m66/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m66"
     Xcxstatus="in:642762b7975014bc743f16ed"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -24672,6 +24865,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m67pump/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m67pump"
     Xcxstatus="in:642762b8975014bc743f16ee"
   >
     <Credits>Nigel Sharp, Mark Hanna/NOIRLab/NSF/AURA</Credits>
@@ -24728,6 +24922,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m70/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m70"
     Xcxstatus="in:642762b9975014bc743f16f0"
   >
     <Credits>REU program/NOIRLab/NSF/AURA</Credits>
@@ -24756,6 +24951,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m73/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m73"
     Xcxstatus="in:642762b9975014bc743f16f1"
   >
     <Credits>REU program/NOIRLab/NSF/AURA</Credits>
@@ -24784,6 +24980,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m74/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m74"
     Xcxstatus="in:642762ba975014bc743f16f2"
   >
     <Credits>Todd Boroson/NOIRLab/NSF/AURA/</Credits>
@@ -24812,6 +25009,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m75/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m75"
     Xcxstatus="in:642762ba975014bc743f16f3"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -24868,6 +25066,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m78/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m78"
     Xcxstatus="in:642762bb975014bc743f16f5"
   >
     <Credits>T. A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOIRLab/NSF/AURA</Credits>
@@ -24924,6 +25123,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m79/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m79"
     Xcxstatus="in:642762bc975014bc743f16f7"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -24952,6 +25152,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m8-burrell-schmidt/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m8-burrell-schmidt"
     Xcxstatus="in:642762bd975014bc743f16f8"
   >
     <Credits>N.A.Sharp, REU program/NOIRLab/NSF/AURA</Credits>
@@ -25008,6 +25209,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m81/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m81"
     Xcxstatus="in:642762be975014bc743f16fa"
   >
     <Credits>N.A.Sharp/NOIRLab/NSF/AURA/</Credits>
@@ -25036,6 +25238,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m81m82/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m81m82"
     Xcxstatus="in:642762be975014bc743f16fb"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and NOIRLab/NSF/AURA/</Credits>
@@ -25064,6 +25267,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m82/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m82"
     Xcxstatus="in:642762be975014bc743f16fc"
   >
     <Credits> N.A.Sharp/NOIRLab/NSF/AURA/</Credits>
@@ -25092,6 +25296,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m84/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m84"
     Xcxstatus="in:642762bf975014bc743f16fd"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -25120,6 +25325,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m85/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m85"
     Xcxstatus="in:642762bf975014bc743f16fe"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -25148,6 +25354,7 @@
     TileLevels="1"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m87i/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m87i"
     Xcxstatus="in:642762c0975014bc743f16ff"
   >
     <Credits> NOIRLab/NSF/AURA/</Credits>
@@ -25204,6 +25411,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m90/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m9,noirlab|noao-m90"
     Xcxstatus="in:642762c1975014bc743f1701"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -25232,6 +25440,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m91/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m91"
     Xcxstatus="in:642762c1975014bc743f1702"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -25288,6 +25497,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m93/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m93"
     Xcxstatus="in:642762c2975014bc743f1704"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -25316,6 +25526,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m94/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m94"
     Xcxstatus="in:642762c3975014bc743f1705"
   >
     <Credits>Hillary Mathis, N.A.Sharp/NOIRLab/NSF/AURA/</Credits>
@@ -25344,6 +25555,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m95_2/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m95_2"
     Xcxstatus="in:642762c3975014bc743f1706"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -25372,6 +25584,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m98/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m98"
     Xcxstatus="in:642762c4975014bc743f1707"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -25400,6 +25613,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m99/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-m99"
     Xcxstatus="in:642762c4975014bc743f1708"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -25456,6 +25670,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-mwp1/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-mwp1"
     Xcxstatus="in:642762c5975014bc743f170a"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -25484,6 +25699,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-n11lmc/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-n11lmc"
     Xcxstatus="in:642762c6975014bc743f170b"
   >
     <Credits>C. Aguilera, C. Smith and S. Points/NOIRLab/NSF/AURA/</Credits>
@@ -25512,6 +25728,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-n1999lg/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-n1999lg"
     Xcxstatus="in:642762c6975014bc743f170c"
   >
     <Credits>T.A.Rector, B.Wolpa and G.Jacoby (NOIRLab/NSF/AURA) and Hubble Heritage Team (STScI/AURA/NASA)</Credits>
@@ -25540,6 +25757,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-n2261a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-n2261a"
     Xcxstatus="in:642762c7975014bc743f170d"
   >
     <Credits>N.A.Sharp, J.McGaha/NOIRLab/NSF/AURA</Credits>
@@ -25568,6 +25786,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-n2685/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-n2685"
     Xcxstatus="in:642762c7975014bc743f170e"
   >
     <Credits>NOIRLab/AURA/NSF</Credits>
@@ -25624,6 +25843,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-n44/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-n44"
     Xcxstatus="in:642762c8975014bc743f1710"
   >
     <Credits>SSRO/PROMPT and NOIRLab/NSF/AURA</Credits>
@@ -25708,6 +25928,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc-253/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc-253"
     Xcxstatus="in:642762c9975014bc743f1713"
   >
     <Credits>SSRO/PROMPT/CTIO</Credits>
@@ -25736,6 +25957,7 @@
     TileLevels="1"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc1097/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc1097"
     Xcxstatus="in:642762ca975014bc743f1714"
   >
     <Credits>International Gemini Observatory/Abu Team/NOIRLab/NSF/AURA</Credits>
@@ -25764,6 +25986,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc1232/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc1232"
     Xcxstatus="in:642762ca975014bc743f1715"
   >
     <Credits>Hillary Mathis/NOIRLab/NSF/AURA</Credits>
@@ -25792,6 +26015,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc1300/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc1300"
     Xcxstatus="in:642762cb975014bc743f1716"
   >
     <Credits>Hillary Mathis/NOIRLab/NSF/AURA</Credits>
@@ -25820,6 +26044,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc1313/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc1313"
     Xcxstatus="in:642762cb975014bc743f1717"
   >
     <Credits>T.A. Rector/University of Alaska Anchorage, T. Abbott and NOIRLab/NSF/AURA</Credits>
@@ -25876,6 +26101,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc1532-31/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc1532-31"
     Xcxstatus="in:642762cc975014bc743f1719"
   >
     <Credits>International Gemini Observatory/Travis Rector, University of Alaska Anchorage</Credits>
@@ -25904,6 +26130,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc1788/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc1788"
     Xcxstatus="in:642762cd975014bc743f171a"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage), H. Schweiker (WIYN and NOIRLab/NSF/AURA) &amp;amp; S. Pakzad (NOIRLab/NSF/AURA)</Credits>
@@ -25932,6 +26159,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc206/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc206"
     Xcxstatus="in:642762cd975014bc743f171b"
   >
     <Credits>T.A. Rector and A. Strom (University of Alaska Anchorage) and WIYN</Credits>
@@ -25960,6 +26188,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc2442/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc2442"
     Xcxstatus="in:642762ce975014bc743f171c"
   >
     <Credits>SSRO/PROMPT and NOIRLab/NSF/AURA</Credits>
@@ -25988,6 +26217,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc253/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc253"
     Xcxstatus="in:642762ce975014bc743f171d"
   >
     <Credits>T.A. Rector/University of Alaska Anchorage, T. Abbott and NOIRLab/NSF/AURA/</Credits>
@@ -26016,6 +26246,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc281/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc281"
     Xcxstatus="in:642762cf975014bc743f171e"
   >
     <Credits>T.A. Rector/University of Alaska Anchorage and WIYN/AURA/NSF</Credits>
@@ -26044,6 +26275,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc3166/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc3166"
     Xcxstatus="in:642762cf975014bc743f171f"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -26072,6 +26304,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc3242/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc3242"
     Xcxstatus="in:642762cf975014bc743f1720"
   >
     <Credits>T.A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOIRLab/NSF/AURA/, L. Frattare and Z. Levay/STScI/AURA/NASA</Credits>
@@ -26100,6 +26333,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc3582/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc3582"
     Xcxstatus="in:642762d0975014bc743f1721"
   >
     <Credits>T.A. Rector/University of Alaska Anchorage, T. Abbott and NOIRLab/NSF/AURA</Credits>
@@ -26128,6 +26362,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc3628/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc3628"
     Xcxstatus="in:642762d0975014bc743f1722"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -26184,6 +26419,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc4214/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc4214"
     Xcxstatus="in:642762d1975014bc743f1724"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -26212,6 +26448,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc4395/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc4395"
     Xcxstatus="in:642762d2975014bc743f1725"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -26240,6 +26477,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc4490/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc4490"
     Xcxstatus="in:642762d2975014bc743f1726"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -26268,6 +26506,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc4656/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc4656"
     Xcxstatus="in:642762d3975014bc743f1727"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -26296,6 +26535,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc5364/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc5364"
     Xcxstatus="in:642762d3975014bc743f1728"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -26324,6 +26564,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc5474/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc5474"
     Xcxstatus="in:642762d4975014bc743f1729"
   >
     <Credits>T.A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOIRLab/NSF/AURA</Credits>
@@ -26352,6 +26593,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc5905/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc5905"
     Xcxstatus="in:642762d4975014bc743f172a"
   >
     <Credits>T.A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOIRLab/NSF/AURA</Credits>
@@ -26380,6 +26622,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc5982/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc5982"
     Xcxstatus="in:642762d5975014bc743f172b"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -26436,6 +26679,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc660kpno/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc660kpno"
     Xcxstatus="in:642762d6975014bc743f172d"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -26464,6 +26708,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc6820/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc6820"
     Xcxstatus="in:642762d6975014bc743f172e"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage)</Credits>
@@ -26492,6 +26737,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc6946/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc6946"
     Xcxstatus="in:642762d7975014bc743f172f"
   >
     <Credits>International Gemini Observatory/Travis Rector, University of Alaska Anchorage</Credits>
@@ -26520,6 +26766,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc6992/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc6992"
     Xcxstatus="in:642762d7975014bc743f1730"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and WIYN/NOIRLab/NSF/AURA</Credits>
@@ -26548,6 +26795,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc7000east/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc7000east"
     Xcxstatus="in:642762d7975014bc743f1731"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and NOIRLab/NSF/AURA</Credits>
@@ -26576,6 +26824,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc7023/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc7023"
     Xcxstatus="in:642762d8975014bc743f1732"
   >
     <Credits>T.A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOIRLab/NSF/AURA</Credits>
@@ -26604,6 +26853,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc7129/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc7129"
     Xcxstatus="in:642762d8975014bc743f1733"
   >
     <Credits>T. A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOIRLab/NSF/AURA</Credits>
@@ -26632,6 +26882,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc7380/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc7380"
     Xcxstatus="in:642762d9975014bc743f1734"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -26660,6 +26911,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-ngc7635podi/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-ngc7635podi"
     Xcxstatus="in:642762d9975014bc743f1735"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage), WIYN ODI team &amp;amp; WIYN/NOIRLab/NSF/AURA</Credits>
@@ -26688,6 +26940,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-noao-m17-09/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-noao-m17-09"
     Xcxstatus="in:642762da975014bc743f1736"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and WIYN</Credits>
@@ -26716,6 +26969,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-noao-m8/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-noao-m8"
     Xcxstatus="in:642762da975014bc743f1737"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage)</Credits>
@@ -26744,6 +26998,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-peg/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-peg"
     Xcxstatus="in:642762db975014bc743f1738"
   >
     <Credits>P. Massey/Lowell Observatory and K. Olsen/NOIRLab/NSF/AURA/</Credits>
@@ -26772,6 +27027,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-pvcep/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-pvcep"
     Xcxstatus="in:642762db975014bc743f1739"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -26800,6 +27056,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-q2237/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-q2237"
     Xcxstatus="in:642762dc975014bc743f173a"
   >
     <Credits>J.Rhoads, S.Malhotra, I.Dell&amp;#x27;Antonio (NOAO)/WIYN/NOIRLab/NSF</Credits>
@@ -26828,6 +27085,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-rosette/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-rosette"
     Xcxstatus="in:642762dc975014bc743f173b"
   >
     <Credits>N.A.Sharp/NOIRLab/NSF/AURA</Credits>
@@ -26856,6 +27114,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-sq2/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-sq2"
     Xcxstatus="in:642762dd975014bc743f173c"
   >
     <Credits>N.A.Sharp/NOIRLab/NSF/AURA</Credits>
@@ -26912,6 +27171,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-vdb141/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-vdb141"
     Xcxstatus="in:642762de975014bc743f173e"
   >
     <Credits>T.A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOIRLab/NSF/AURA</Credits>
@@ -26940,6 +27200,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-vdb141se/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-vdb141se"
     Xcxstatus="in:642762de975014bc743f173f"
   >
     <Credits>T.A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOIRLab/NSF/AURA</Credits>
@@ -26968,6 +27229,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-vdb152/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-vdb152"
     Xcxstatus="in:642762de975014bc743f1740"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -27024,6 +27286,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-veil-wiyn-0-9-m/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-veil-wiyn-0-9-m"
     Xcxstatus="in:642762df975014bc743f1742"
   >
     <Credits>T. A. Rector/University of Alaska Anchorage and WIYN/NOIRLab/NSF/AURA</Credits>
@@ -27052,6 +27315,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-veile/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-veile"
     Xcxstatus="in:642762e0975014bc743f1743"
   >
     <Credits>N.A.Sharp, REU program/NOIRLab/NSF/AURA</Credits>
@@ -27080,6 +27344,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-veilw/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-veilw"
     Xcxstatus="in:642762e0975014bc743f1744"
   >
     <Credits>N.A.Sharp, REU program/NOIRLab/NSF/AURA</Credits>
@@ -27108,6 +27373,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-virgo/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-virgo"
     Xcxstatus="in:642762e1975014bc743f1745"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -27136,6 +27402,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-wlm-dwarf/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-wlm,noirlab|noao-wlm-dwarf"
     Xcxstatus="in:642762e2975014bc743f1747"
   >
     <Credits>P. Massey/Lowell Observatory and K. Olsen/NOIRLab/NSF/AURA</Credits>
@@ -27192,6 +27459,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-wr134/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-wr134"
     Xcxstatus="in:642762e2975014bc743f1748"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -27220,6 +27488,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-wr157/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao-wr157"
     Xcxstatus="in:642762e3975014bc743f1749"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -27248,6 +27517,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0101a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0101a"
     Xcxstatus="in:642762e3975014bc743f174a"
   >
     <Credits>B.Jannuzi, A.Dey, NDWFS team/NOIRLab/NSF/AURA/</Credits>
@@ -27276,6 +27546,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0102a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0102a"
     Xcxstatus="in:642762e4975014bc743f174b"
   >
     <Credits>WIYN/NOIRLab/NSF</Credits>
@@ -27304,6 +27575,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0103a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0103a"
     Xcxstatus="in:642762e4975014bc743f174c"
   >
     <Credits>N.A.Sharp, REU program/NOIRLab/NSF/AURA</Credits>
@@ -27332,6 +27604,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0104a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0104a"
     Xcxstatus="in:642762e5975014bc743f174d"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -27360,6 +27633,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0121a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0121a"
     Xcxstatus="in:642762e5975014bc743f174e"
   >
     <Credits>Michael Pierce, Robert Berrington (Indiana University), Nigel Sharp, Mark Hanna (NOAO)/WIYN/NSF</Credits>
@@ -27388,6 +27662,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0124a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0124a"
     Xcxstatus="in:642762e5975014bc743f174f"
   >
     <Credits>T.A.Rector and Monica Ramirez/NOIRLab/NSF/AURA/</Credits>
@@ -27416,6 +27691,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0126a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0126a"
     Xcxstatus="in:642762e6975014bc743f1750"
   >
     <Credits>T.A.Rector (NOIRLab/NSF/AURA) and Hubble Heritage Team (STScI/AURA/NASA)</Credits>
@@ -27444,6 +27720,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0136a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0136a"
     Xcxstatus="in:642762e6975014bc743f1751"
   >
     <Credits>Nathan Smith, University of Minnesota/NOIRLab/NSF/AURA</Credits>
@@ -27472,6 +27749,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0140a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0140a"
     Xcxstatus="in:642762e7975014bc743f1752"
   >
     <Credits>NOIRLab/AURA/NSF</Credits>
@@ -27500,6 +27778,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0149a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0149a"
     Xcxstatus="in:642762e7975014bc743f1753"
   >
     <Credits>P.Massey (Lowell), N.King (STScI), S.Holmes (Charleston), G.Jacoby (WIYN)/AURA/NSF</Credits>
@@ -27528,6 +27807,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0157a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0157a"
     Xcxstatus="in:642762e8975014bc743f1754"
   >
     <Credits>T.A.Rector and B.A.Wolpa/NOIRLab/NSF/AURA</Credits>
@@ -27556,6 +27836,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0202a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0202a"
     Xcxstatus="in:642762e8975014bc743f1755"
   >
     <Credits>Local Group Galaxies Survey Team/NOIRLab/NSF/AURA</Credits>
@@ -27584,6 +27865,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0203a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0203a"
     Xcxstatus="in:642762e9975014bc743f1756"
   >
     <Credits>WIYN/NOIRLab/NSF</Credits>
@@ -27612,6 +27894,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0307a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0307a"
     Xcxstatus="in:642762e9975014bc743f1757"
   >
     <Credits>NASA, NOAO, ESA, the Hubble Helix Nebula Team, M. Meixner (STScI), and T.A. Rector (NRAO)</Credits>
@@ -27640,6 +27923,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0308a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0308a"
     Xcxstatus="in:642762ea975014bc743f1758"
   >
     <Credits>University of Florida and NOIRLab/NSF/AURA</Credits>
@@ -27668,6 +27952,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0310a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0310a"
     Xcxstatus="in:642762ea975014bc743f1759"
   >
     <Credits>Karen Kwitter (Williams College), Ron Downes (STScI), You-Hua Chu (University of Illinois) and NOIRLab/NSF/AURA</Credits>
@@ -27696,6 +27981,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0311a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0311a"
     Xcxstatus="in:642762eb975014bc743f175a"
   >
     <Credits>Carnegie Observatories and NOIRLab/NSF/AURA</Credits>
@@ -27724,6 +28010,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0314a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0314a"
     Xcxstatus="in:642762eb975014bc743f175b"
   >
     <Credits>University of Colorado, University of Hawaii and NOIRLab/NSF/AURA</Credits>
@@ -27752,6 +28039,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0315a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0315a"
     Xcxstatus="in:642762ec975014bc743f175c"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -27780,6 +28068,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0315b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0315b"
     Xcxstatus="in:642762ec975014bc743f175d"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -27808,6 +28097,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0403a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0403a"
     Xcxstatus="in:642762ec975014bc743f175e"
   >
     <Credits>T. A. Rector/University of Alaska Anchorage, WIYN and NOIRLab/NSF/AURA</Credits>
@@ -27836,6 +28126,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0403c/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0403c"
     Xcxstatus="in:642762ed975014bc743f175f"
   >
     <Credits>T. Rector/University of Alaska Anchorage, WIYN and NOAO/AURA/NSF</Credits>
@@ -27864,6 +28155,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0404a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0404a"
     Xcxstatus="in:642762ed975014bc743f1760"
   >
     <Credits>Mark Westmoquette (University College London), Jay Gallagher (University of Wisconsin-Madison), Linda Smith (University College London), WIYN//NSF, NASA/ESA</Credits>
@@ -27892,6 +28184,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0407a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0407a"
     Xcxstatus="in:642762ee975014bc743f1761"
   >
     <Credits>H.Crowl (Yale University) and WIYN/NOAO/AURA/NSF</Credits>
@@ -27920,6 +28213,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0601a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0601a"
     Xcxstatus="in:642762ee975014bc743f1762"
   >
     <Credits>F. Winkler/Middlebury College, the MCELS Team, and NOIRLab/NSF/AURA</Credits>
@@ -27948,6 +28242,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0601b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0601b"
     Xcxstatus="in:642762ef975014bc743f1763"
   >
     <Credits>C. Smith, S. Points, the MCELS Team and NOIRLab/NSF/AURA/</Credits>
@@ -27976,6 +28271,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0608a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0608a"
     Xcxstatus="in:642762ef975014bc743f1764"
   >
     <Credits>T.A. Rector/University of Alaska Anchorage, T. Abbott and NOIRLab/NSF/AURA/</Credits>
@@ -28004,6 +28300,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0702a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0702a"
     Xcxstatus="in:642762f0975014bc743f1765"
   >
     <Credits>T.A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOIRLab/NSF/AURA</Credits>
@@ -28032,6 +28329,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0702b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0702b"
     Xcxstatus="in:642762f0975014bc743f1766"
   >
     <Credits>T.A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOIRLab/NSF/AURA</Credits>
@@ -28060,6 +28358,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0703a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0703a"
     Xcxstatus="in:642762f1975014bc743f1767"
   >
     <Credits>T.A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOIRLab/NSF/AURA/</Credits>
@@ -28088,6 +28387,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0706b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0706b"
     Xcxstatus="in:642762f1975014bc743f1768"
   >
     <Credits>T.A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOIRLab/NSF/AURA</Credits>
@@ -28116,6 +28416,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0801a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0801a"
     Xcxstatus="in:642762f2975014bc743f1769"
   >
     <Credits>T.A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOIRLab/NSF/AURA</Credits>
@@ -28144,6 +28445,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0904a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0904a"
     Xcxstatus="in:642762f2975014bc743f176a"
   >
     <Credits>T. A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOIRLab/NSF/AURA</Credits>
@@ -28172,6 +28474,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao0906a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao0906a"
     Xcxstatus="in:642762f2975014bc743f176b"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -28200,6 +28503,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao1104a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao1104a"
     Xcxstatus="in:642762f3975014bc743f176c"
   >
     <Credits>Z. Levay (STScI/AURA/NASA), T.A. Rector (University of Alaska Anchorage) and H. Schweiker (NOIRLab/NSF/AURA)</Credits>
@@ -28228,6 +28532,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao1204b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao1204b"
     Xcxstatus="in:642762f3975014bc743f176d"
   >
     <Credits>Dark Energy Survey Collaboration</Credits>
@@ -28256,6 +28561,7 @@
     TileLevels="7"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao1207a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao1207a"
     Xcxstatus="in:642762f4975014bc743f176e"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage), WIYN ODI team &amp;amp; WIYN/NOIRLab/NSF/AURA</Credits>
@@ -28282,6 +28588,7 @@
     TileLevels="7"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao1209a/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao1209a"
     Xcxstatus="in:642762f4975014bc743f176f"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and WIYN/NOIRLab/NSF/AURA</Credits>
@@ -28310,6 +28617,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao1301a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao1301a"
     Xcxstatus="in:642762f5975014bc743f1770"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -28338,6 +28646,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao1303a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao1303a"
     Xcxstatus="in:642762f5975014bc743f1771"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage), T. Allen (University of Toledo) and WIYN/NOIRLab/NSF/AURA</Credits>
@@ -28366,6 +28675,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao1308a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao1308a"
     Xcxstatus="in:642762f6975014bc743f1772"
   >
     <Credits>S. Willis (CfA+ISU); ESA/Herschel; NASA/JPL-Caltech/ Spitzer; CTIO/NOAO/AURA/NSF.</Credits>
@@ -28394,6 +28704,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao1309a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao1309a"
     Xcxstatus="in:642762f6975014bc743f1773"
   >
     <Credits>K. Rhode, M. Young and WIYN/NOIRLab/NSF/AURA/</Credits>
@@ -28422,6 +28733,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao1309b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao1309b"
     Xcxstatus="in:642762f7975014bc743f1774"
   >
     <Credits>K. Rhode, M. Young and WIYN/NOAO/AURA/NSF.</Credits>
@@ -28450,6 +28762,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao1310b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao1310b"
     Xcxstatus="in:642762f7975014bc743f1775"
   >
     <Credits>Dark Energy Survey</Credits>
@@ -28478,6 +28791,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao1507a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao1507a"
     Xcxstatus="in:642762f8975014bc743f1776"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -28506,6 +28820,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao1601b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noao1601b"
     Xcxstatus="in:642762f8975014bc743f1777"
   >
     <Credits>Dustin Lang and SDSS Collaboration</Credits>
@@ -28534,6 +28849,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noaoann02008a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noaoann02008a"
     Xcxstatus="in:642762f9975014bc743f1778"
   >
     <Credits>Gemini Observatory / GMOS Image</Credits>
@@ -28590,6 +28906,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noaoann09007a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noaoann09007a"
     Xcxstatus="in:642762f9975014bc743f177a"
   >
     <Credits>T. A. Rector/University of Alaska Anchorage and NOIRLab/NSF/AURA</Credits>
@@ -28618,6 +28935,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noaoann09008a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noaoann09008a"
     Xcxstatus="in:642762fa975014bc743f177b"
   >
     <Credits>T. A. Rector/University of Alaska Anchorage and H. Schweiker/NOIRLab/NSF/AURA and NOIRLab/NSF/AURA</Credits>
@@ -28646,6 +28964,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noaoann09009a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noaoann09009a"
     Xcxstatus="in:642762fa975014bc743f177c"
   >
     <Credits>D. Riebel (JHU), M. Meixner (STScI) and NOIRLab/NSF/AURA</Credits>
@@ -28674,6 +28993,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/noaoann09014a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noaoann09014a"
     Xcxstatus="in:642762fb975014bc743f177d"
   >
     <Credits>G. Rothfuss, S. Byers, F. Haase and NOAO/AURA/NSF</Credits>
@@ -28702,6 +29022,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noaoann10014a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noaoann10014a"
     Xcxstatus="in:642762fb975014bc743f177e"
   >
     <Credits>SSRO/PROMPT/CTIO</Credits>
@@ -28730,6 +29051,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noaoann12008a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noaoann12008a"
     Xcxstatus="in:642762fc975014bc743f177f"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and N.S. van der Bliek (NOIRLab/NSF/AURA)</Credits>
@@ -28758,6 +29080,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noaoann13006a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noaoann13006a"
     Xcxstatus="in:642762fc975014bc743f1780"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA)</Credits>
@@ -28786,6 +29109,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noaoann14003a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noaoann14003a"
     Xcxstatus="in:642762fd975014bc743f1781"
   >
     <Credits>D. Caminha &amp;amp; SOAR/NOAO/AURA/NSF</Credits>
@@ -28814,6 +29138,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noaoann14005a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noaoann14005a"
     Xcxstatus="in:642762fd975014bc743f1782"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage)</Credits>
@@ -28842,6 +29167,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noaoann15004a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noaoann15004a"
     Xcxstatus="in:642762fe975014bc743f1783"
   >
     <Credits>T.A. Rector (University of Alaska Anchorage) and NOIRLab/NSF/AURA</Credits>
@@ -28870,6 +29196,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noaoann16001a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noaoann16001a"
     Xcxstatus="in:642762fe975014bc743f1784"
   >
     <Credits>X-ray: NASA/CXC/Univ of Missouri/M.Brodwin et al; Optical: NASA/STScI; Infrared: JPL/CalTech</Credits>
@@ -28898,6 +29225,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noaoann16019a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noaoann16019a"
     Xcxstatus="in:642762ff975014bc743f1785"
   >
     <Credits>B. Saxton (NRAO/AUI/NSF); ALMA (ESO/NAOJ/NRAO); NASA/ESA Hubble</Credits>
@@ -28926,6 +29254,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noaoann16021a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noaoann16021a"
     Xcxstatus="in:642762ff975014bc743f1786"
   >
     <Credits>DECaLS</Credits>
@@ -28954,6 +29283,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noaoann18017a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noaoann18017a"
     Xcxstatus="in:64276300975014bc743f1787"
   >
     <Credits>DECaLS</Credits>
@@ -28982,6 +29312,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noaoann19007a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noaoann19007a"
     Xcxstatus="in:64276300975014bc743f1788"
   >
     <Credits>DESI Collaboration</Credits>
@@ -29010,6 +29341,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab1912a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab1912a"
     Xcxstatus="in:64276300975014bc743f1789"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA</Credits>
@@ -29038,6 +29370,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2002b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2002b"
     Xcxstatus="in:64276301975014bc743f178a"
   >
     <Credits>Gemini Observatory/NSF’s National Optical-Infrared Astronomy Research Laboratory/AURA</Credits>
@@ -29066,6 +29399,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2006a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2006a"
     Xcxstatus="in:64276301975014bc743f178b"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA</Credits>
@@ -29094,6 +29428,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2010a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2010a"
     Xcxstatus="in:64276302975014bc743f178c"
   >
     <Credits>CTIO/NOIRLab/NSF/AURA Acknowledgments: P. Massey (Lowell Obs.), G. Jacoby, K. Olsen, C. Smith (NOAO/AURA/NSF) &amp;amp; T.A. Rector (NRAO/AUI/NSF). Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -29122,6 +29457,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2012a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2012a"
     Xcxstatus="in:64276302975014bc743f178d"
   >
     <Credits>CTIO/NOIRLab/NSF/AURA</Credits>
@@ -29150,6 +29486,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2012b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2012b"
     Xcxstatus="in:64276303975014bc743f178e"
   >
     <Credits>CTIO/NOIRLab/NSF/AURA</Credits>
@@ -29178,6 +29515,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2012c/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2012c"
     Xcxstatus="in:64276303975014bc743f178f"
   >
     <Credits>NOIRLab</Credits>
@@ -29206,6 +29544,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2012d/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2012d"
     Xcxstatus="in:64276304975014bc743f1790"
   >
     <Credits>CTIO/NOIRLab/NSF/AURA</Credits>
@@ -29234,6 +29573,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2013a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2013a"
     Xcxstatus="in:64276304975014bc743f1791"
   >
     <Credits>KPNO/NOIRLab/NSF/AURAData obtained and processed by: P. Massey (Lowell Obs.), G. Jacoby, K. Olsen, &amp;amp; C. Smith (NOAO/AURA/NSF)Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -29262,6 +29602,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2014c/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2014c"
     Xcxstatus="in:64276305975014bc743f1792"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA/T. Esposito (UC Berkeley)Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -29290,6 +29631,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2014d/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2014d"
     Xcxstatus="in:64276305975014bc743f1793"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA/T. Esposito (UC Berkeley)Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -29318,6 +29660,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2014e/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2014e"
     Xcxstatus="in:64276305975014bc743f1794"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA/T. Esposito (UC Berkeley)Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -29346,6 +29689,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2014f/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2014f"
     Xcxstatus="in:64276306975014bc743f1795"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA/T. Esposito (UC Berkeley)Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -29374,6 +29718,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2014g/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2014g"
     Xcxstatus="in:64276306975014bc743f1796"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA/T. Esposito (UC Berkeley)Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -29402,6 +29747,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2014h/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2014h"
     Xcxstatus="in:64276307975014bc743f1797"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA/T. Esposito (UC Berkeley)Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -29430,6 +29776,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2016a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2016a"
     Xcxstatus="in:64276307975014bc743f1798"
   >
     <Credits>KPNO/NOIRLab/NSF/AURA Acknowledgements:PI: M T. Patterson (New Mexico State University)Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin  </Credits>
@@ -29458,6 +29805,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2016b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2016b"
     Xcxstatus="in:64276308975014bc743f1799"
   >
     <Credits>KPNO/NOIRLab/NSF/AURA Acknowledgements:PI: M T. Patterson (New Mexico State University)Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin  </Credits>
@@ -29486,6 +29834,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2017c/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2017c"
     Xcxstatus="in:64276308975014bc743f179a"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA/K. Paterson &amp;amp; W. Fong (Northwestern University)Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin  </Credits>
@@ -29514,6 +29863,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2018e/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2018e"
     Xcxstatus="in:64276309975014bc743f179b"
   >
     <Credits>NOIRLab/NSF/AURA/Digitized Sky Survey 2</Credits>
@@ -29542,6 +29892,7 @@
     TileLevels="2"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2018l/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2018l"
     Xcxstatus="in:64276309975014bc743f179c"
   >
     <Credits>NOIRLab/NSF/AURA/Digitized Sky Survey 2</Credits>
@@ -29570,6 +29921,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2019d/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2019d"
     Xcxstatus="in:6427630a975014bc743f179d"
   >
     <Credits>CTIO/SOAR/NOIRLab/NSF/AURA/Northwestern University/C. Kilpatrick/University of California Santa Cruz/NASA-ESA Hubble Space Telescope</Credits>
@@ -29598,6 +29950,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2025a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2025a"
     Xcxstatus="in:6427630b975014bc743f179e"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA Acknowledgment:  PI: Patrick Hartigan (Rice University) Image processing: Patrick Hartigan (Rice University), Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -29626,6 +29979,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2025d/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2025d"
     Xcxstatus="in:6427630b975014bc743f179f"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURAAcknowledgment:  PI: Patrick Hartigan (Rice University) Image processing: Patrick Hartigan (Rice University), Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -29652,6 +30006,7 @@
     TileLevels="8"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2027a/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2027a"
     Xcxstatus="in:6427630c975014bc743f17a0"
   >
     <Credits>CTIO/NOIRLab/DOE/NSF/AURA Acknowledgment: Image processing: W. Clarkson (UM-Dearborn), C. Johnson (STScI), and M. Rich (UCLA), Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin.</Credits>
@@ -29680,6 +30035,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2027b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2027b"
     Xcxstatus="in:6427630c975014bc743f17a1"
   >
     <Credits>CTIO/NOIRLab/DOE/NSF/AURA/STScI, W. Clarkson (UM-Dearborn), C. Johnson (STScI), and M. Rich (UCLA)</Credits>
@@ -29708,6 +30064,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2028c/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2028c"
     Xcxstatus="in:6427630c975014bc743f17a2"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURA/H. Vedantham/UKIRT Hemisphere Survey</Credits>
@@ -29736,6 +30093,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2029a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2029a"
     Xcxstatus="in:6427630d975014bc743f17a3"
   >
     <Credits>International Gemini Observatory/NOIRLab/NSF/AURAImage processing: Travis Rector (University of Alaska Anchorage), Jen Miller (Gemini Observatory/NSF&amp;#x27;s NOIRLab), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -29764,6 +30122,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2029c/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2029c"
     Xcxstatus="in:6427630d975014bc743f17a4"
   >
     <Credits>ESO/Digitized Sky Survey 2.Acknowledgment: Davide De Martin</Credits>
@@ -29792,6 +30151,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2030a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2030a"
     Xcxstatus="in:6427630e975014bc743f17a5"
   >
     <Credits>CTIO/NOIRLab/NSF/AURA/SMASH/D. Nidever (Montana State University) Acknowledgment: Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -29820,6 +30180,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2030b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2030b"
     Xcxstatus="in:6427630e975014bc743f17a6"
   >
     <Credits>CTIO/NOIRLab/NSF/AURA/SMASH/D. Nidever (Montana State University) Acknowledgment: Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -29848,6 +30209,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2101a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2101a"
     Xcxstatus="in:6427630f975014bc743f17a7"
   >
     <Credits>KPNO/NOIRLab/NSF/AURAAcknowledgments:PI: M T. Patterson (New Mexico State University)Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -29876,6 +30238,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2101b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2101b"
     Xcxstatus="in:6427630f975014bc743f17a8"
   >
     <Credits>KPNO/NOIRLab/NSF/AURA</Credits>
@@ -29904,6 +30267,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2103a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2103a"
     Xcxstatus="in:64276310975014bc743f17a9"
   >
     <Credits>Credit: KPNO/CTIO/NOIRLab/NSF/AURA/Legacy Imaging Survey</Credits>
@@ -30044,6 +30408,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2106a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2106a"
     Xcxstatus="in:64276312975014bc743f17ae"
   >
     <Credits>DES/CTIO/NOIRLab/NSF/DOE/AURAAcknowledgments: Image processing: DES, Jen Miller (Gemini Observatory/NSF&amp;#x27;s NOIRLab), Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -30072,6 +30437,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2106b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2106b"
     Xcxstatus="in:64276312975014bc743f17af"
   >
     <Credits>DES/CTIO/NOIRLab/NSF/DOE/AURAAcknowledgments: Image processing: DES, Jen Miller (Gemini Observatory/NSF&amp;#x27;s NOIRLab), Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -30100,6 +30466,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2106c/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2106c"
     Xcxstatus="in:64276313975014bc743f17b0"
   >
     <Credits>DES/CTIO/NOIRLab/NSF/DOE/AURAAcknowledgments: Image processing: DES, Jen Miller (Gemini Observatory/NSF&amp;#x27;s NOIRLab), Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -30128,6 +30495,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2106d/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2106d"
     Xcxstatus="in:64276313975014bc743f17b1"
   >
     <Credits>DES/CTIO/NOIRLab/NSF/DOE/AURAAcknowledgments: Image processing: DES, Jen Miller (Gemini Observatory/NSF&amp;#x27;s NOIRLab), Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -30156,6 +30524,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2107a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2107a"
     Xcxstatus="in:64276315975014bc743f17b2"
   >
     <Credits>CTIO/NOIRLab/DOE/NSF/AURAAcknowledgment: M. Soraisam (University of Illinois)Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
@@ -30184,6 +30553,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2112a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2112a"
     Xcxstatus="in:64276315975014bc743f17b3"
   >
     <Credits>KPNO/NOIRLab/NSF/AURAAcknowledgment: PI: M.T. Patterson (New Mexico State University)Image processing: T.A. Rector (University of Alaska Anchorage), M. Zamani &amp;amp; D. de Martin</Credits>
@@ -30212,6 +30582,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2112b/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2112b"
     Xcxstatus="in:64276316975014bc743f17b4"
   >
     <Credits>KPNO/NOIRLab/NSF/AURAAcknowledgment: PI: M.T. Patterson (New Mexico State University)Image processing: T.A. Rector (University of Alaska Anchorage), M. Zamani &amp;amp; D. de Martin</Credits>
@@ -30240,6 +30611,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2115a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2115a"
     Xcxstatus="in:64276316975014bc743f17b5"
   >
     <Credits>KPNO/NOIRLab/NSF/AURAData obtained and processed by: P. Massey (Lowell Obs.), G. Jacoby, K. Olsen, &amp;amp; C. Smith (AURA/NSF) Image processing: T.A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), M. Zamani (NSF’s NOIRLab) &amp;amp; D. de Martin (NSF’s NOIRLab)</Credits>
@@ -30268,6 +30640,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2118a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2118a"
     Xcxstatus="in:64276317975014bc743f17b6"
   >
     <Credits>Dark Energy Survey/DOE/FNAL/DECam/CTIO/NOIRLab/NSF/AURAAcknowledgments: T.A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), M. Zamani (NSF’s NOIRLab) &amp;amp; D. de Martin (NSF’s NOIRLab)</Credits>
@@ -30296,6 +30669,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2125a/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|noirlab2125a"
     Xcxstatus="in:64276317975014bc743f17b7"
   >
     <Credits>CTIO/NOIRLab/DOE/NSF/AURAAcknowledgments:PI: M. Soraisam (University of Illinois at Urbana-Champaign/NSF&amp;#x27;s NOIRLab)Image processing: T.A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), M. Zamani (NSF’s NOIRLab) &amp;amp; D. de Martin (NSF’s NOIRLab) </Credits>
@@ -30324,6 +30698,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/rubin-rubin-stills-0051/L{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="noirlab|rubin-rubin-stills-0051"
     Xcxstatus="in:64276318975014bc743f17b8"
   >
     <Credits>M. Park/Inigo Films/Rubin Observatory/ NSF/ AURA</Credits>

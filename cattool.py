@@ -2100,6 +2100,40 @@ def _astropix_associate_eso(idb: ImagesetDatabase, apimgs: Dict[str, dict]):
             imgset.xmeta.astropix_ids = ",".join(sorted(apids))
 
 
+def _astropix_associate_noirlab(idb: ImagesetDatabase, apimgs: Dict[str, dict]):
+    subset = {}
+    assocs = {}
+
+    for imgset in idb.by_url.values():
+        cr_url = imgset.credits_url
+
+        if "noirlab.edu" in cr_url:
+            subset[cr_url] = imgset
+
+            prev = getattr(imgset.xmeta, "astropix_ids", None)
+            if prev is None:
+                prev_ids = ()
+            else:
+                prev_ids = prev.split(",")
+
+            assocs[cr_url] = set(prev_ids)
+
+    for img_id in list(apimgs.keys()):
+        search = f"/{img_id}"
+
+        for cr_url, imgset in subset.items():
+            if search in cr_url:
+                assocs[cr_url].add(f"noirlab|{img_id}")
+                del apimgs[img_id]  # mark this one as associated
+                break
+
+    for cr_url, apids in assocs.items():
+        imgset = subset[cr_url]
+
+        if apids:
+            imgset.xmeta.astropix_ids = ",".join(sorted(apids))
+
+
 def do_update_astropix(_settings):
     # Load the AstroPix database
 
@@ -2170,6 +2204,7 @@ def do_update_astropix(_settings):
         "chandra": _astropix_associate_chandra,
         "esahubble": _astropix_associate_esahubble,
         "eso": _astropix_associate_eso,
+        "noirlab": _astropix_associate_noirlab,
     }
 
     for pubid, assoc_fn in assocs.items():
