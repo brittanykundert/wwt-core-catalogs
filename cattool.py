@@ -1989,6 +1989,50 @@ def do_trace(_settings):
 # update-astropix
 
 
+def _astropix_associate_chandra(idb: ImagesetDatabase, apimgs: Dict[str, dict]):
+    """
+    AstroPix: IDs are serial numbers as strings, like "102"; URLs are like: `http://chandra.harvard.edu/photo/2003/m86/`
+    Us: CreditsUrls are like: `https://chandra.harvard.edu/photo/2003/ngc6888/more.html#img1`
+    """
+    subset = {}
+    assocs = {}
+
+    for imgset in idb.by_url.values():
+        cr_url = imgset.credits_url
+
+        if "chandra.harvard.edu" in cr_url:
+            subset[cr_url] = imgset
+
+            prev = getattr(imgset.xmeta, "astropix_ids", None)
+            if prev is None:
+                prev_ids = ()
+            else:
+                prev_ids = prev.split(",")
+
+            assocs[cr_url] = set(prev_ids)
+
+    for img_id in list(apimgs.keys()):
+        apinfo = apimgs[img_id]
+        search = apinfo["reference_url"].split("://", 1)[-1]
+
+        for cr_url, imgset in subset.items():
+            if search in cr_url:
+                assocs[cr_url].add(f"chandra|{img_id}")
+                del apimgs[img_id]
+                break
+
+    for cr_url, apids in assocs.items():
+        imgset = subset[cr_url]
+
+        if apids:
+            imgset.xmeta.astropix_ids = ",".join(sorted(apids))
+        else:
+            try:
+                del imgset.xmeta.astropix_ids
+            except AttributeError:
+                pass
+
+
 def do_update_astropix(_settings):
     # Load the AstroPix database
 
@@ -2014,9 +2058,10 @@ def do_update_astropix(_settings):
     done_ids = set()
 
     for imgset in idb.by_url.values():
-        apid = getattr(imgset.xmeta, "astropix_id", "")
-        if apid:
-            done_ids.add(apid)
+        apids = getattr(imgset.xmeta, "astropix_ids", "")
+        if apids:
+            for apid in apids.split(","):
+                done_ids.add(apids)
 
     if done_ids:
         print(f"{len(done_ids)} images already linked")
@@ -2030,7 +2075,7 @@ def do_update_astropix(_settings):
             for line in f:
                 apid = line.split("#")[0].strip()
                 if apid:
-                    if apid in done_list:
+                    if apid in done_ids:
                         warn(
                             f'AstroPix item `{apid}` is in "ignore" list but also "done" list'
                         )
@@ -2052,11 +2097,20 @@ def do_update_astropix(_settings):
 
         by_pubid.setdefault(item["publisher_id"], {})[item["image_id"]] = item
 
-    # TODO: associate
+    # Associate
 
-    # (Re)write lists of unassociated images
+    assocs = {
+        "chandra": _astropix_associate_chandra,
+    }
 
-    for pubid, apimgs in by_pubid.items():
+    for pubid, assoc_fn in assocs.items():
+        assoc_fn(idb, by_pubid.get(pubid, {}))
+
+    # (Re)write database and lists of unassociated images
+
+    idb.rewrite()
+
+    for pubid, apimgs in sorted(by_pubid.items()):
         prev_imgids = set()
         n_fixed = 0
 
