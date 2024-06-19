@@ -2168,6 +2168,38 @@ def _astropix_associate_spitzer(idb: ImagesetDatabase, apimgs: Dict[str, dict]):
             imgset.xmeta.astropix_ids = ",".join(sorted(apids))
 
 
+def _astropix_associate_wise(idb: ImagesetDatabase, apimgs: Dict[str, dict]):
+    subset = {}
+    assocs = {}
+
+    for url, imgset in idb.by_url.items():
+        cr_url = imgset.credits_url
+
+        if "wise.astro.ucla.edu" in cr_url or "wise.ssl.berkeley.edu" in cr_url:
+            subset[url] = imgset
+
+            prev = getattr(imgset.xmeta, "astropix_ids", None)
+            if prev is None:
+                prev_ids = ()
+            else:
+                prev_ids = prev.split(",")
+
+            assocs[url] = set(prev_ids)
+
+    for img_id in list(apimgs.keys()):
+        for url, imgset in subset.items():
+            if img_id in imgset.url:
+                assocs[url].add(f"wise|{img_id}")
+                del apimgs[img_id]  # mark this one as associated
+                break
+
+    for url, apids in assocs.items():
+        imgset = subset[url]
+
+        if apids:
+            imgset.xmeta.astropix_ids = ",".join(sorted(apids))
+
+
 def do_update_astropix(_settings):
     # Load the AstroPix database
 
@@ -2240,6 +2272,7 @@ def do_update_astropix(_settings):
         "eso": _astropix_associate_eso,
         "noirlab": _astropix_associate_noirlab,
         "spitzer": _astropix_associate_spitzer,
+        "wise": _astropix_associate_wise,
     }
 
     for pubid, assoc_fn in assocs.items():
