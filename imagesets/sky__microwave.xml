@@ -306,6 +306,7 @@
     TileLevels="6"
     Url="http://wwtfiles.blob.core.windows.net/plnk/planckmassmapL{1}X{2}Y{3}.png"
     WidthFactor="2"
+    Xastropix_ids="planck|planck13-002c"
     Xcxstatus="queue:wwtcore"
   >
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/plnk/planckmassmap_thumb.jpg</ThumbnailUrl>
@@ -378,6 +379,7 @@
     TileLevels="6"
     Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},planck"
     WidthFactor="2"
+    Xastropix_ids="planck|planck13-002a"
     Xcxstatus="in:64820bca67b5156060bfa2b0"
   >
     <Credits>Planck is a European Space Agency mission, with significant participation from NASA. NASAs Planck Project Office is based at JPL. JPL contributed mission-enabling technology for both of Plancks science instruments. European, Canadian and U.S. Planck scientists work together to analyze the Planck data.</Credits>
