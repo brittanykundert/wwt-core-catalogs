@@ -24208,7 +24208,7 @@
     TileLevels="3"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m3-burrell-schmid/L{1}X{2}Y{3}.png"
     WidthFactor="2"
-    Xastropix_ids="noirlab|noao-m3,noirlab|noao-m3-burrell-schmid"
+    Xastropix_ids="noirlab|noao-m3-burrell-schmid"
     Xcxstatus="in:642762ac975014bc743f16d7"
   >
     <Credits>N.A.Sharp, Vanessa Harvey/REU program/NOIRLab/NSF/AURA</Credits>
@@ -25411,7 +25411,7 @@
     TileLevels="4"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-m90/L{1}X{2}Y{3}.png"
     WidthFactor="2"
-    Xastropix_ids="noirlab|noao-m9,noirlab|noao-m90"
+    Xastropix_ids="noirlab|noao-m90"
     Xcxstatus="in:642762c1975014bc743f1701"
   >
     <Credits>NOIRLab/NSF/AURA</Credits>
@@ -27402,7 +27402,7 @@
     TileLevels="6"
     Url="http://data1.wwtassets.org/feeds/noirlab/noao-wlm-dwarf/L{1}X{2}Y{3}.png"
     WidthFactor="2"
-    Xastropix_ids="noirlab|noao-wlm,noirlab|noao-wlm-dwarf"
+    Xastropix_ids="noirlab|noao-wlm-dwarf"
     Xcxstatus="in:642762e2975014bc743f1747"
   >
     <Credits>P. Massey/Lowell Observatory and K. Olsen/NOIRLab/NSF/AURA</Credits>
@@ -62259,6 +62259,7 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     TileLevels="2"
     Url="http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1724cL{1}X{2}Y{3}.png"
     WidthFactor="1"
+    Xastropix_ids="eso|eso1724c"
     Xcxstatus="queue:eso"
   >
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eso1724c.jpg</ThumbnailUrl>
@@ -62283,7 +62284,7 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     TileLevels="2"
     Url="http://wwtfiles.blob.core.windows.net/vamp/ESO-eso1724caL{1}X{2}Y{3}.png"
     WidthFactor="1"
-    Xastropix_ids="eso|eso1724c,eso|eso1724ca"
+    Xastropix_ids="eso|eso1724ca"
     Xcxstatus="queue:eso"
   >
     <Credits>ESO/P. Weilbacher; The planetary nebula NGC 6563 resides in a crowded starry region of the sky. In natural sky conditions many of these stars remai...</Credits>
@@ -64192,6 +64193,7 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     TileLevels="5"
     Url="http://wwtfiles.blob.core.windows.net/vamp/ESO-etaL{1}X{2}Y{3}.png"
     WidthFactor="1"
+    Xastropix_ids="eso|eta"
     Xcxstatus="queue:eso"
   >
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-eta.jpg</ThumbnailUrl>
@@ -64216,7 +64218,7 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     TileLevels="4"
     Url="http://wwtfiles.blob.core.windows.net/vamp/ESO-etamosaicnm2L{1}X{2}Y{3}.png"
     WidthFactor="1"
-    Xastropix_ids="eso|eta,eso|etamosaicnm2"
+    Xastropix_ids="eso|etamosaicnm2"
     Xcxstatus="queue:eso"
   >
     <Credits>ESO/IDA/Danish 1.5 m/R.Gendler, ; The Carina Nebula is a large bright nebula that surrounds several clusters of stars. It contains two of the most massive and lum...</Credits>
@@ -98685,7 +98687,7 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     TileLevels="6"
     Url="http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-02a1L{1}X{2}Y{3}.png"
     WidthFactor="1"
-    Xastropix_ids="spitzer|ssc2012-02a,spitzer|ssc2012-02a1"
+    Xastropix_ids="spitzer|ssc2012-02a1"
     Xcxstatus="in:64b744b7a15b29de42b3060f"
   >
     <Credits>NASA/JPL-Caltech/Harvard-Smithso; A bubbling cauldron of star birth is highlighted in this new image from NASA's Spitzer Space Telescope. Infrared light that we c...</Credits>
@@ -98712,6 +98714,7 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     TileLevels="5"
     Url="http://wwtfiles.blob.core.windows.net/vamp/Spitzer-ssc2012-02aL{1}X{2}Y{3}.png"
     WidthFactor="1"
+    Xastropix_ids="spitzer|ssc2012-02a"
     Xcxstatus="in:64b744b8a15b29de42b30611"
   >
     <Credits>NASA/JPL-Caltech/Harvard-Smithsonian CfA</Credits>
@@ -99918,7 +99921,7 @@ The saturated yellow point at the center ...</Credits>
     TileLevels="5"
     Url="http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-004c1L{1}X{2}Y{3}.png"
     WidthFactor="1"
-    Xastropix_ids="wise|WISE2010-004c,wise|WISE2010-004c1"
+    Xastropix_ids="wise|WISE2010-004c1"
     Xcxstatus="in:649e45db1e6961df10c1957d"
   >
     <Credits>NASA/JPL-Caltech/WISE Team; This image from NASA's Wide-field Infrared Survey Explorer, or WISE, highlights the Andromeda galaxy's older stellar population ...</Credits>
@@ -99972,6 +99975,7 @@ The saturated yellow point at the center ...</Credits>
     TileLevels="5"
     Url="http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-004cL{1}X{2}Y{3}.png"
     WidthFactor="1"
+    Xastropix_ids="wise|WISE2010-004c"
     Xcxstatus="in:649e45d21e6961df10c19568"
   >
     <Credits>NASA/JPL-Caltech/WISE Team</Credits>
@@ -101022,6 +101026,7 @@ The saturated yellow point at the center ...</Credits>
     TileLevels="4"
     Url="http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-041L{1}X{2}Y{3}.png"
     WidthFactor="1"
+    Xastropix_ids="wise|WISE2010-041"
     Xcxstatus="in:649e45e81e6961df10c1959d"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This image shows a puffy, dying star, or planetary nebula, known as NGC 1514. The object is actually a pair of stars -- one star...</Credits>
@@ -101048,7 +101053,7 @@ The saturated yellow point at the center ...</Credits>
     TileLevels="4"
     Url="http://wwtfiles.blob.core.windows.net/vamp/Wise-WISE2010-041bL{1}X{2}Y{3}.png"
     WidthFactor="1"
-    Xastropix_ids="wise|WISE2010-041,wise|WISE2010-041b"
+    Xastropix_ids="wise|WISE2010-041b"
     Xcxstatus="in:649e45de1e6961df10c19585"
   >
     <Credits>Caltech/Palomar; This visible-light image is from the Digitized Sky Survey, based at the Space Telescope Science Institute in Baltimore, Md. The ...</Credits>
