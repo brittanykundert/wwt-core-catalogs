@@ -9,7 +9,9 @@ Tool for working with the WWT core dataset catalog.
 
 import argparse
 from collections import OrderedDict
+import csv
 from io import BytesIO
+import json
 import math
 import os.path
 from pathlib import Path
@@ -1984,6 +1986,111 @@ def do_trace(_settings):
         print(f"{imgset.url}: {imgset.name} -- {places}")
 
 
+# update-astropix
+
+
+def do_update_astropix(_settings):
+    # Load the AstroPix database
+
+    try:
+        with (BASEDIR / "astropix" / "all.json").open("rt") as f:
+            ap_all = json.load(f)
+    except FileNotFoundError:
+        die(
+            "you must first download the AstroPix database to `astropix/all.json` (see README.md)"
+        )
+
+    # From looking at the current collection, it appears that the best filter to
+    # apply is as follows. "Position" quality WCS often apply to artist's
+    # conceptions that are associated with a specific object, but should not be
+    # placed on the sky.
+    ap_all = [item for item in ap_all if item["wcs_quality"] == "Full"]
+    print(f"{len(ap_all)} images in the filtered AstroPix database")
+
+    # Load the imagesets and identify the AstroPix IDs that have already been
+    # associated.
+
+    idb = ImagesetDatabase()
+    done_ids = set()
+
+    for imgset in idb.by_url.values():
+        apid = getattr(imgset.xmeta, "astropix_id", "")
+        if apid:
+            done_ids.add(apid)
+
+    if done_ids:
+        print(f"{len(done_ids)} images already linked")
+
+    # IDs to perma-ignore
+
+    ignore_ids = set()
+
+    try:
+        with (BASEDIR / "astropix" / "ignore.txt").open("rt") as f:
+            for line in f:
+                apid = line.split("#")[0].strip()
+                if apid:
+                    if apid in done_list:
+                        warn(
+                            f'AstroPix item `{apid}` is in "ignore" list but also "done" list'
+                        )
+                    ignore_ids.add(apid)
+    except FileNotFoundError:
+        pass
+
+    if ignore_ids:
+        print(f"{len(ignore_ids)} AstroPix IDs in the ignore list")
+
+    # Group by publisher
+
+    by_pubid = {}
+
+    for item in ap_all:
+        apid = f"{item['publisher_id']}|{item['image_id']}"
+        if apid in done_ids or apid in ignore_ids:
+            continue
+
+        by_pubid.setdefault(item["publisher_id"], {})[item["image_id"]] = item
+
+    # TODO: associate
+
+    # (Re)write lists of unassociated images
+
+    for pubid, apimgs in by_pubid.items():
+        prev_imgids = set()
+        n_fixed = 0
+
+        try:
+            with (BASEDIR / "astropix" / f"{pubid}.csv").open("rt") as f:
+                for line in f:
+                    imgid = line.split(",")[0]
+                    if imgid not in apimgs:
+                        n_fixed += 1
+
+                    prev_imgids.add(imgid)
+        except FileNotFoundError:
+            pass
+
+        n_new = 0
+        n_tot = len(apimgs)
+
+        if n_tot:
+            with (BASEDIR / "astropix" / f"{pubid}.csv").open("wt") as f:
+                w = csv.writer(f)
+
+                for imgid, imgdata in sorted(apimgs.items()):
+                    if imgid not in prev_imgids:
+                        n_new += 1
+
+                    w.writerow((imgdata["image_id"], imgdata["reference_url"] or ""))
+
+        if n_tot or n_fixed:
+            qpub = f"`{pubid}`"
+            print(
+                f"publisher {qpub:12}: {n_tot:5} unassociated images; {n_new:4} new; {n_fixed:4} fixed"
+            )
+
+
 # update-cxprep
 
 
@@ -2096,6 +2203,7 @@ def entrypoint():
 
     _report = subparsers.add_parser("report")
     _trace = subparsers.add_parser("trace")
+    _update_astropix = subparsers.add_parser("update-astropix")
     _update_cxprep = subparsers.add_parser("update-cxprep")
 
     settings = parser.parse_args()
@@ -2132,6 +2240,8 @@ def entrypoint():
         do_report(settings)
     elif settings.subcommand == "trace":
         do_trace(settings)
+    elif settings.subcommand == "update-astropix":
+        do_update_astropix(settings)
     elif settings.subcommand == "update-cxprep":
         do_update_cxprep(settings)
     else:
