@@ -793,6 +793,11 @@ class ConstellationsPrepDatabase(object):
                 fields["license_id"] = "~~LICENSE~~"
                 if imgset.thumbnail_url:
                     fields["thumbnail"] = imgset.thumbnail_url
+
+                apids = getattr(imgset.xmeta, "astropix_ids", None)
+                if apids:
+                    fields["astropix_ids"] = apids
+
                 fields["credits"] = imgset.credits
                 fields["wip"] = "yes"
                 items.append(("image", fields))
