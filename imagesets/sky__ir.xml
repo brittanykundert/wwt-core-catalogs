@@ -245,6 +245,7 @@
     TileLevels="5"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011210{Q}?g=131"
     WidthFactor="2"
+    Xastropix_ids="spitzer|sig05-019a"
     Xcxstatus="in:64b744cfa15b29de42b30645"
   >
     <Credits>Courtesy NASA/JPL-Caltech</Credits>
@@ -493,6 +494,7 @@
     TileLevels="4"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000011031{Q}?g=131"
     WidthFactor="2"
+    Xastropix_ids="spitzer|sig05-004a"
     Xcxstatus="in:64b741f8a15b29de42b304b1"
   >
     <Credits>NASA/JPL-Caltech/R. Gehrz (University of Minnesota)</Credits>
@@ -683,6 +685,7 @@
     TileLevels="4"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010322{Q}?g=131"
     WidthFactor="2"
+    Xastropix_ids="spitzer|sig05-003a"
     Xcxstatus="in:64b741f9a15b29de42b304b3"
   >
     <Credits>NASA/JPL-Caltech/R. Gehrz (University of Minnesota)</Credits>
