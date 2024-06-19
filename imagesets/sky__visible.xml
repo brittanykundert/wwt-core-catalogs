@@ -36537,6 +36537,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000300{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2001-04d"
     Xcxstatus="in:6564c461f864172823763c25"
   >
     <Credits>Photo credits: NASA, Rogier Windhorst (Arizona State University, Tempe, AZ), and the Hubble mid-UV team</Credits>
@@ -36563,6 +36564,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000310{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1994-24a"
     Xcxstatus="in:6573279c5077f2f4480b0033"
   >
     <Credits>Credit: C.R. O'Dell/Rice University; NASA</Credits>
@@ -36589,6 +36591,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000320{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1995-07a"
     Xcxstatus="in:6573279d5077f2f4480b0035"
   >
     <Credits>Credit: Hubble Space Telescope WFPC Team, NASA, STScI</Credits>
@@ -36667,6 +36670,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001010{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1996-38b"
     Xcxstatus="in:657327a05077f2f4480b003b"
   >
     <Credits>Credit: A. Caulet (ST-ECF, ESA) and NASA</Credits>
@@ -36693,6 +36697,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001020{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1997-38h"
     Xcxstatus="in:657327a05077f2f4480b003d"
   >
     <Credits>Credit: Howard Bond (Space Telescope Science Institute), Robin Ciardullo (Pennsylvania State University) and NASA</Credits>
@@ -36773,6 +36778,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001110{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1995-01b"
     Xcxstatus="in:657327a35077f2f4480b0043"
   >
     <Credits>Credit: J.P. Harrington and K.J. Borkowski (University of Maryland), and NASA</Credits>
@@ -36826,6 +36832,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="4"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001130{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1996-01c"
     Xcxstatus="in:657327a55077f2f4480b0047"
   >
     <Credits>Credit: R. Williams (STScI), the Hubble Deep Field Team and NASA</Credits>
@@ -36852,6 +36859,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001200{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2000-21c"
     Xcxstatus="in:657c642417aa40fc703f3af3"
   >
     <Credits>Credits: NASA and Jeffrey Kenney and Elizabeth Yale (Yale University)</Credits>
@@ -37009,6 +37017,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000001320{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1996-01a"
     Xcxstatus="in:657c642917aa40fc703f3afd"
   >
     <Credits>Credit: Robert Williams and the Hubble Deep Field Team (STScI) and NASA</Credits>
@@ -37061,6 +37070,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002000{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1999-35d"
     Xcxstatus="in:657c642b17aa40fc703f3b01"
   >
     <Credits>Image Credit: NASA and The Hubble Heritage Team (AURA/STScI).</Credits>
@@ -37140,6 +37150,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002100{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2002-13f"
     Xcxstatus="in:6598294a293f0a5746370452"
   >
     <Credits>Credit: NASA, The NICMOS Group (STScI, ESA) and The NICMOS Science Team (Univ. of Arizona)</Credits>
@@ -37157,7 +37168,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     ElevationModel="False"
     FileType=".png"
     Generic="False"
-    Name="Orion Nebula ( NGC 1976, M42)"
+    Name="Orion Nebula (NGC 1976, M42)"
     Projection="Tan"
     QuadTreeMap="0123"
     Rotation="0.120705811722216"
@@ -37166,10 +37177,11 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002110{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1995-45a"
     Xcxstatus="in:6598294b293f0a5746370454"
   >
     <Credits>Photo Credit: NASA and C.R. O'Dell (Vanderbilt University)</Credits>
-    <CreditsUrl>http://hubblesite.org/contents/news-releases/2002/news-2002-05.html</CreditsUrl>
+    <CreditsUrl>http://hubblesite.org/contents/news-releases/1995/news-1995-45.html</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=937991171</ThumbnailUrl>
   </ImageSet>
   <ImageSet
@@ -37219,6 +37231,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002130{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2001-04c"
     Xcxstatus="in:6598294c293f0a5746370458"
   >
     <Credits>Photo credits: NASA, Rogier Windhorst (Arizona State University, Tempe, AZ), and the Hubble mid-UV team</Credits>
@@ -37297,6 +37310,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002220{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1996-21b"
     Xcxstatus="in:6598294e293f0a574637045c"
   >
     <Credits>Credit: A. Sandage (Carnegie Observatories), A. Saha (Space Telescope Science Institute), G.A. Tammann, and L. Labhardt (Astronomical Institute, University of Basel), F.D. Macchetto and N. Panagia (Space Telescope Science Institute and European Space Agency) and NASA</Credits>
@@ -37745,6 +37759,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="5"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000003330{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2002-11g"
     Xcxstatus="in:65dccffeaffb32cbf1d96fbe"
   >
     <Credits>Credit: NASA, H. Ford (JHU), G. Illingworth (UCSC/LO), M.Clampin (STScI), G. Hartig (STScI), the ACS Science Team, and ESA  The ACS Science Team:  H. Ford, G. Illingworth, M. Clampin, G. Hartig, T. Allen, K. Anderson, F. Bartko, N. Benitez, J. Blakeslee, R. Bouwens, T. Broadhurst, R. Brown, C. Burrows, D. Campbell, E. Cheng, N. Cross, P. Feldman, M. Franx, D. Golimowski, C. Gronwall, R. Kimble, J. Krist, M. Lesser, D. Magee, A. Martel, W. J. McCann, G. Meurer, G. Miley, M. Postman, P. Rosati, M. Sirianni, W. Sparks, P. Sullivan, H. Tran, Z. Tsvetanov, R. White, and R. Woodruff.</Credits>
@@ -37798,6 +37813,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010010{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1995-02b"
     Xcxstatus="in:65dcd000affb32cbf1d96fc2"
   >
     <Credits>Kirk Borne (STScI), and NASA</Credits>
@@ -37824,6 +37840,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010020{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2002-15e"
     Xcxstatus="in:65dcd001affb32cbf1d96fc4"
   >
     <Credits>Image Credit: NASA and The Hubble Heritage Team (STScI/AURA)</Credits>
@@ -37931,6 +37948,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="5"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010120{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2002-11b,stsci|2002-11f"
     Xcxstatus="in:65e5f0f2affb32cbf1d97d12"
   >
     <Credits>Credit: NASA, H. Ford (JHU), G. Illingworth (UCSC/LO), M.Clampin (STScI), G. Hartig (STScI), the ACS Science Team, and ESA  The ACS Science Team:  H. Ford, G. Illingworth, M. Clampin, G. Hartig, T. Allen, K. Anderson, F. Bartko, N. Benitez, J. Blakeslee, R. Bouwens, T. Broadhurst, R. Brown, C. Burrows, D. Campbell, E. Cheng, N. Cross, P. Feldman, M. Franx, D. Golimowski, C. Gronwall, R. Kimble, J. Krist, M. Lesser, D. Magee, A. Martel, W. J. McCann, G. Meurer, G. Miley, M. Postman, P. Rosati, M. Sirianni, W. Sparks, P. Sullivan, H. Tran, Z. Tsvetanov, R. White, and R. Woodruff.</Credits>
@@ -37957,6 +37975,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000010130{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2002-15a"
     Xcxstatus="in:65e5f0f3affb32cbf1d97d14"
   >
     <Credits>Image Credit: NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment: R. Fesen (Dartmouth) and J. Morse (Univ. of Colorado)</Credits>
@@ -38663,6 +38682,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000221{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1997-38e"
     Xcxstatus="in:661fef61befbe21fbdf49b95"
   >
     <Credits>Credits: Howard Bond (Space Telescope Science Institute), Robin Ciardullo (Pennsylvania State University) and NASA</Credits>
@@ -38689,6 +38709,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="0"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000231{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1995-02c"
     Xcxstatus="in:661fef62befbe21fbdf49b97"
   >
     <Credits>Kirk Borne (STScI), and NASA</Credits>
@@ -38768,6 +38789,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000000331{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1999-35e"
     Xcxstatus="in:661fef65befbe21fbdf49b9d"
   >
     <Credits>Image Credit: NASA and The Hubble Heritage Team (AURA/STScI).</Credits>
@@ -39034,6 +39056,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="1"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001211{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2002-02d"
     Xcxstatus="in:661fef6ebefbe21fbdf49bb1"
   >
     <Credits>Image credit: D. Hunter (Lowell Observ.) and A. Aloisi (JHU)</Credits>
@@ -39192,6 +39215,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001331{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2000-07a"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: NASA, Andrew Fruchter and the ERO Team [Sylvia Baggett (STScI), Richard Hook (ST-ECF), Zoltan Levay (STScI)]</Credits>
@@ -39353,6 +39377,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002111{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1998-12b"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: Jim Flood (Amateur Astronomers Inc., Sperry Observatory), Max Mutchler (STScI)</Credits>
@@ -39432,6 +39457,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002201{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1994-52f"
     Xcxstatus="queue:hubble"
   >
     <Credits>Mark Dickinson (STScI) and NASA</Credits>
@@ -39485,6 +39511,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="1"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002221{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1997-34f"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: Brad Whitmore (STScI) and NASA</Credits>
@@ -39511,6 +39538,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000002231{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2002-15d"
     Xcxstatus="queue:hubble"
   >
     <Credits>Image Credit: NASA and The Hubble Heritage Team (STScI/AURA)</Credits>
@@ -39828,6 +39856,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="4"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003211{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1999-04a"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: The Hubble Heritage Team (AURA/STScI/NASA)</Credits>
@@ -39854,6 +39883,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000003221{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1994-02b"
     Xcxstatus="queue:hubble"
   >
     <Credits>NASA, STScI</Credits>
@@ -40092,6 +40122,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010031{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2001-04b"
     Xcxstatus="queue:hubble"
   >
     <Credits>Photo credits: NASA, Rogier Windhorst (Arizona State University, Tempe, AZ), and the Hubble mid-UV team</Credits>
@@ -40198,6 +40229,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="5"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010131{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2002-11d"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: NASA, H. Ford (JHU), G. Illingworth (UCSC/LO), M.Clampin (STScI), G. Hartig (STScI), the ACS Science Team, and ESA  The ACS Science Team:  H. Ford, G. Illingworth, M. Clampin, G. Hartig, T. Allen, K. Anderson, F. Bartko, N. Benitez, J. Blakeslee, R. Bouwens, T. Broadhurst, R. Brown, C. Burrows, D. Campbell, E. Cheng, N. Cross, P. Feldman, M. Franx, D. Golimowski, C. Gronwall, R. Kimble, J. Krist, M. Lesser, D. Magee, A. Martel, W. J. McCann, G. Meurer, G. Miley, M. Postman, P. Rosati, M. Sirianni, W. Sparks, P. Sullivan, H. Tran, Z. Tsvetanov, R. White, and R. Woodruff.</Credits>
@@ -40224,6 +40256,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="1"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010201{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1994-16b"
     Xcxstatus="queue:hubble"
   >
     <Credits>Dr. John Hutchings, Dominion Astrophysical Observatory, NASA</Credits>
@@ -40773,6 +40806,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000212{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1999-35a"
     Xcxstatus="queue:hubble"
   >
     <Credits>Image Credit: NASA and The Hubble Heritage Team (AURA/STScI).</Credits>
@@ -40825,6 +40859,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="4"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000232{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1993-11b"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: : B. Whitmore (STScI), and NASA Co-investigators: : Francois Schweizer of the Carnegie Institution of Washington, Washington, D.C., and Claus Leitherer, Kirk Borne, and Carmelle Robert of STScI.</Credits>
@@ -40851,6 +40886,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="5"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000000302{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1994-10a"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: C.R. O'Dell/ Rice University NASA</Credits>
@@ -41248,6 +41284,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000001312{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1999-06a"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: Carl Grillmair (California Institute of Technology) and NASA</Credits>
@@ -41353,7 +41390,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002012{Q}?g=138"
     WidthFactor="2"
-    Xastropix_ids="stsci|2000-23b,stsci|2000-23c"
+    Xastropix_ids="stsci|2000-23b"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: Brian D. Moore and J. Jeff Hester (Arizona State University)</Credits>
@@ -41646,6 +41683,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000002322{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1997-34d"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: Brad Whitmore (STScI) and NASA</Credits>
@@ -41699,6 +41737,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003012{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1997-38d"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credits: Bruce Balick (University of Washington), Jason Alexander (University of Washington), Arsen Hajian (U.S. Naval Observatory), Yervant Terzian (Cornell University), Mario Perinotto (University of Florence, Italy), Patrizio Patriarchi (Arcetri Observatory, Italy) and NASA</Credits>
@@ -41911,6 +41950,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003222{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2001-08f"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: NASA, ESA and R. de Grijs (Inst. of Astronomy, Cambridge, UK)</Credits>
@@ -41964,6 +42004,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003302{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1995-44a"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: NASA, ESA, STScI, J. Hester and P. Scowen (Arizona State University)</Credits>
@@ -41990,6 +42031,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000003312{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2002-15f"
     Xcxstatus="queue:hubble"
   >
     <Credits>Image Credit: NASA and The Hubble Heritage Team (STScI/AURA)</Credits>
@@ -42042,6 +42084,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010002{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1999-16a"
     Xcxstatus="queue:hubble"
   >
     <Credits>Image Credit: The Hubble Heritage Team (AURA/STScI/NASA)</Credits>
@@ -42674,6 +42717,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000223{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1998-32d"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: Rodger I. Thompson (University of Arizona) and NASA</Credits>
@@ -42754,6 +42798,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000000313{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1996-38a"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: A. Caulet (ST-ECF, ESA) and NASA</Credits>
@@ -42859,6 +42904,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="1"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001033{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1995-44c"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: NASA, ESA, STScI, J. Hester and P. Scowen (Arizona State University)</Credits>
@@ -43073,6 +43119,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001233{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2001-33a"
     Xcxstatus="queue:hubble"
   >
     <Credits>Image Credit:  NASA and The Hubble Heritage Team (STScI/AURA) Acknowledgment: A. Cool (SFSU)</Credits>
@@ -43152,6 +43199,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001323{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1995-01a"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: J.P. Harrington and K.J. Borkowski (University of Maryland), and NASA</Credits>
@@ -43285,6 +43333,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002103{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1996-17b"
     Xcxstatus="queue:hubble"
   >
     <Credits>Nino Panagia (Space Telescope Science Institute and European Space Agency) and NASA</Credits>
@@ -43364,6 +43413,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002203{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1995-44b"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: NASA, ESA, STScI, J. Hester and P. Scowen (Arizona State University)</Credits>
@@ -43552,6 +43602,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="4"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000002333{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2002-15h"
     Xcxstatus="queue:hubble"
   >
     <Credits>Image Credit: NASA and The Hubble Heritage Team (STScI/AURA)</Credits>
@@ -43578,6 +43629,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="1"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003003{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1998-28a"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: The Hubble Heritage Team (AURA/STScI/NASA)</Credits>
@@ -43898,6 +43950,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="2"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003333{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2001-37a"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credits: NASA and The Hubble Heritage Team (STScI/AURA)  Acknowledgment: R. Windhorst (ASU)</Credits>
@@ -44057,6 +44110,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     TileLevels="3"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000010123{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|1995-49b"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: C.R. O'Dell/Rice University; NASA</Credits>
