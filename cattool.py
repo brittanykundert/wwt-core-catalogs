@@ -2061,7 +2061,7 @@ def do_update_astropix(_settings):
         apids = getattr(imgset.xmeta, "astropix_ids", "")
         if apids:
             for apid in apids.split(","):
-                done_ids.add(apids)
+                done_ids.add(apid)
 
     if done_ids:
         print(f"{len(done_ids)} images already linked")
@@ -2136,7 +2136,15 @@ def do_update_astropix(_settings):
                     if imgid not in prev_imgids:
                         n_new += 1
 
-                    w.writerow((imgdata["image_id"], imgdata["reference_url"] or ""))
+                    w.writerow(
+                        (
+                            imgdata["image_id"],
+                            imgdata["reference_url"] or "",
+                            (imgdata["title"] or "")
+                            .replace("\n", " ")
+                            .replace("\r", " "),
+                        )
+                    )
 
         if n_tot or n_fixed:
             qpub = f"`{pubid}`"
