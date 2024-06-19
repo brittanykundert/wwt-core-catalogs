@@ -81457,7 +81457,7 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     TileLevels="2"
     Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-opo9738c10L{1}X{2}Y{3}.png"
     WidthFactor="1"
-    Xastropix_ids="esahubble|opo9738c,esahubble|opo9738c1,esahubble|opo9738c10"
+    Xastropix_ids="esahubble|opo9738c10"
     Xcxstatus="queue:hubble"
   >
     <Credits>Howard Bond (ST ScI) and NASA/ES; This image is a part of the Hubble Gallery of Planetary Nebulae....</Credits>
@@ -81673,6 +81673,7 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     TileLevels="1"
     Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-opo9738c1L{1}X{2}Y{3}.png"
     WidthFactor="1"
+    Xastropix_ids="esahubble|opo9738c1"
     Xcxstatus="queue:hubble"
   >
     <Credits>Howard Bond (ST ScI) and NASA/ES; This image is a part of the Hubble Gallery of Planetary Nebulae....</Credits>
@@ -81699,7 +81700,7 @@ galaxy has been found in data from NASA's Chandra X-ray Observator...</Credits>
     TileLevels="2"
     Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-opo9738c21L{1}X{2}Y{3}.png"
     WidthFactor="1"
-    Xastropix_ids="esahubble|opo9738c2,esahubble|opo9738c21"
+    Xastropix_ids="esahubble|opo9738c21"
     Xcxstatus="queue:hubble"
   >
     <Credits>Howard Bond (ST ScI) and NASA/ES; This image is a part of the Hubble Gallery of Planetary Nebulae....</Credits>
