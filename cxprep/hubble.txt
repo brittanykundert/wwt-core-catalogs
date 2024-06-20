@@ -1,18 +1,4 @@
 
-@scene
-place_uuid: 6492b213-8592-443a-9fcf-f57bb06925e3
-image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001321{Q}?g=138
-outgoing_url: http://hubblesite.org/contents/news-releases/2005/news-2005-37.html
-
-text> The Crab Nebula is a six-light-year-wide expanding remnant of a star's
-supernova explosion. Japanese and Chinese astronomers recorded this violent
-event nearly 1,000 years ago in 1054, as did, almost certainly, Native
-Americans. This composite image was assembled from 24 individual exposures taken
-with the NASA Hubble Space Telescope's Wide Field and Planetary Camera 2 in
-October 1999, January 2000, and December 2000.
-
----
-
 @image
 url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001331{Q}?g=138
 copyright: Public domain

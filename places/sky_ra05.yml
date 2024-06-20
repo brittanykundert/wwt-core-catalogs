@@ -4105,8 +4105,10 @@ zoom_level: 4.0
 ---
 _uuid: 6492b213-8592-443a-9fcf-f57bb06925e3
 angular_size: 1.0
+astropix_id: stsci|2005-37a
 classification: SupernovaRemnant
 constellation: TAU
+cxstatus: in:66737c60643c1aaca06dfa44
 data_set_type: Sky
 dec_deg: 22.0166666666667
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001321{Q}?g=138
