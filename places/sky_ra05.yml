@@ -4103,21 +4103,12 @@ name: Bow Shock Near Young Star LL Ori
 ra_hr: 5.58472222222222
 zoom_level: 4.0
 ---
-_uuid: 6a0c9089-27d4-4949-83f9-abb1badee694
-angular_size: 1.0
-classification: SupernovaRemnant
-constellation: TAU
-data_set_type: Sky
-dec_deg: 22.0166666666667
-foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001321{Q}?g=138
-name: Giant Hubble Mosaic of the Crab Nebula
-ra_hr: 5.575555555555546
-zoom_level: 1.0
----
 _uuid: 6492b213-8592-443a-9fcf-f57bb06925e3
 angular_size: 1.0
+astropix_id: stsci|2005-37a
 classification: SupernovaRemnant
 constellation: TAU
+cxstatus: in:66737c60643c1aaca06dfa44
 data_set_type: Sky
 dec_deg: 22.0166666666667
 foreground_image_set_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001321{Q}?g=138

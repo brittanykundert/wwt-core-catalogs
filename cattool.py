@@ -9,7 +9,9 @@ Tool for working with the WWT core dataset catalog.
 
 import argparse
 from collections import OrderedDict
+import csv
 from io import BytesIO
+import json
 import math
 import os.path
 from pathlib import Path
@@ -26,7 +28,12 @@ import yaml
 from requests.exceptions import ConnectionError
 
 from wwt_api_client import constellations as cx
-from wwt_api_client.constellations.data import SceneContent, SceneImageLayer, ScenePlace
+from wwt_api_client.constellations.data import (
+    SceneAstroPix,
+    SceneContent,
+    SceneImageLayer,
+    ScenePlace,
+)
 from wwt_api_client.constellations.handles import HandleClient, AddSceneRequest
 
 from wwt_data_formats import indent_xml
@@ -613,7 +620,9 @@ def _register_image(client: HandleClient, fields, imgset, dry_run: bool = False)
     return id
 
 
-def _register_scene(client, fields, place, imgid, dry_run: bool = False) -> str:
+def _register_scene(
+    client, fields, place, imgid, dry_run: bool = False, apid: Optional[str] = None
+) -> str:
     "Returns the new scene ID"
 
     image_layers = [SceneImageLayer(image_id=imgid, opacity=1.0)]
@@ -635,6 +644,13 @@ def _register_scene(client, fields, place, imgid, dry_run: bool = False) -> str:
         outgoing_url=fields["outgoing_url"],
         published=True,  # YOLO
     )
+
+    if apid:
+        publisher_id, image_id = apid.split("|")
+        req.astropix = SceneAstroPix(
+            publisher_id=publisher_id,
+            image_id=image_id,
+        )
 
     if dry_run:
         print("*not* registering place/scene:", fields["place_uuid"], "=>", end=" ")
@@ -791,6 +807,11 @@ class ConstellationsPrepDatabase(object):
                 fields["license_id"] = "~~LICENSE~~"
                 if imgset.thumbnail_url:
                     fields["thumbnail"] = imgset.thumbnail_url
+
+                apids = getattr(imgset.xmeta, "astropix_ids", None)
+                if apids:
+                    fields["astropix_ids"] = apids
+
                 fields["credits"] = imgset.credits
                 fields["wip"] = "yes"
                 items.append(("image", fields))
@@ -857,19 +878,26 @@ class ConstellationsPrepDatabase(object):
         pdb: PlaceDatabase,
         dry_run: bool = False,
     ):
-        # prefill the list of all known image IDs by URL since we may need
-        # these to consruct scene records
+        # prefill the tables of image info by URL since we may need
+        # these to construct scene records, if we create the image in one
+        # session and an associated scene in another.
 
         imgids_by_url = {}
+        apids_by_url = {}
 
         for url, imgset in idb.by_url.items():
             cxs = getattr(imgset.xmeta, "cxstatus", "")
             if cxs.startswith("in:"):
                 imgids_by_url[url] = cxs[3:]
 
+            apids = getattr(imgset.xmeta, "astropix_ids", "")
+            if apids:
+                apids_by_url[url] = apids
+
         # now we can actually register the new stuff
 
         n = 0
+        done_apids = set()
 
         for handle in list(self.by_handle.keys()):
             items = self.by_handle[handle]
@@ -907,6 +935,11 @@ class ConstellationsPrepDatabase(object):
                     if kind == "image":
                         url = fields["url"]
                         imgset = idb.by_url[url]
+
+                        apids = fields.get("astropix_ids")
+                        if apids:
+                            apids_by_url[url] = apids
+
                         id = _register_image(
                             handle_client, fields, imgset, dry_run=dry_run
                         )
@@ -925,11 +958,42 @@ class ConstellationsPrepDatabase(object):
                             )
                             continue
 
+                        apids = apids_by_url.get(img_url)
+                        apid = None
+
+                        if apids:
+                            apids = apids.split(",")
+                            if len(apids) > 1:
+                                warn(
+                                    f"place/scene {uuid} associated with multiple AstroPix IDs via imageset {img_url}; only recording the first"
+                                )
+
+                            apid = apids[0]
+
+                            if apid in done_apids:
+                                # This check only knows about what we've added
+                                # within this one session, so it is far from
+                                # foolproof, but hopefully it can catch the
+                                # common case of two scenes associated with the
+                                # same image.
+                                warn(
+                                    f"place/scene {uuid} associated with AstroPix {apid} via imageset {img_url}, but it was already registered this session"
+                                )
+                                apid = None
+                            else:
+                                done_apids.add(apid)
+
                         place = pdb.reconst_by_id(uuid, idb)
                         id = _register_scene(
-                            handle_client, fields, place, img_id, dry_run=dry_run
+                            handle_client,
+                            fields,
+                            place,
+                            img_id,
+                            dry_run=dry_run,
+                            apid=apid,
                         )
                         pdb.by_uuid[uuid]["cxstatus"] = f"in:{id}"
+                        pdb.by_uuid[uuid]["astropix_id"] = apid
                         remove_place_uuids.add(uuid)
                         n += 1
                     else:
@@ -1984,6 +2048,345 @@ def do_trace(_settings):
         print(f"{imgset.url}: {imgset.name} -- {places}")
 
 
+# update-astropix
+
+
+def _astropix_associate_chandra(idb: ImagesetDatabase, apimgs: Dict[str, dict]):
+    """
+    AstroPix: IDs are serial numbers as strings, like "102"; URLs are like: `http://chandra.harvard.edu/photo/2003/m86/`
+    Us: CreditsUrls are like: `https://chandra.harvard.edu/photo/2003/ngc6888/more.html#img1`
+    """
+    subset = {}
+    assocs = {}
+
+    for imgset in idb.by_url.values():
+        cr_url = imgset.credits_url
+
+        if "chandra.harvard.edu" in cr_url:
+            subset[cr_url] = imgset
+
+            prev = getattr(imgset.xmeta, "astropix_ids", None)
+            if prev is None:
+                prev_ids = ()
+            else:
+                prev_ids = prev.split(",")
+
+            assocs[cr_url] = set(prev_ids)
+
+    for img_id in list(apimgs.keys()):
+        apinfo = apimgs[img_id]
+        search = apinfo["reference_url"].split("://", 1)[-1]
+
+        for cr_url, imgset in subset.items():
+            if search in cr_url:
+                assocs[cr_url].add(f"chandra|{img_id}")
+                del apimgs[img_id]  # mark this one as associated
+                break
+
+    for cr_url, apids in assocs.items():
+        imgset = subset[cr_url]
+
+        if apids:
+            imgset.xmeta.astropix_ids = ",".join(sorted(apids))
+
+
+def _astropix_associate_esahubble(idb: ImagesetDatabase, apimgs: Dict[str, dict]):
+    subset = {}
+    assocs = {}
+
+    for imgset in idb.by_url.values():
+        cr_url = imgset.credits_url
+
+        if (
+            "spacetelescope.org" in cr_url
+            or "esahubble.org" in cr_url
+            or "esawebb.org" in cr_url
+        ):
+            subset[cr_url] = imgset
+
+            prev = getattr(imgset.xmeta, "astropix_ids", None)
+            if prev is None:
+                prev_ids = ()
+            else:
+                prev_ids = prev.split(",")
+
+            assocs[cr_url] = set(prev_ids)
+
+    for img_id in list(apimgs.keys()):
+        search = f"/{img_id}"
+
+        for cr_url, imgset in subset.items():
+            if search in cr_url:
+                assocs[cr_url].add(f"esahubble|{img_id}")
+                del apimgs[img_id]  # mark this one as associated
+                break
+
+    for cr_url, apids in assocs.items():
+        imgset = subset[cr_url]
+
+        if apids:
+            imgset.xmeta.astropix_ids = ",".join(sorted(apids))
+
+
+def _astropix_associate_eso(idb: ImagesetDatabase, apimgs: Dict[str, dict]):
+    subset = {}
+    assocs = {}
+
+    for imgset in idb.by_url.values():
+        cr_url = imgset.credits_url
+
+        if "eso.org" in cr_url:
+            subset[cr_url] = imgset
+
+            prev = getattr(imgset.xmeta, "astropix_ids", None)
+            if prev is None:
+                prev_ids = ()
+            else:
+                prev_ids = prev.split(",")
+
+            assocs[cr_url] = set(prev_ids)
+
+    for img_id in list(apimgs.keys()):
+        search = f"/{img_id}"
+
+        for cr_url, imgset in subset.items():
+            if search in cr_url:
+                assocs[cr_url].add(f"eso|{img_id}")
+                del apimgs[img_id]  # mark this one as associated
+                break
+
+    for cr_url, apids in assocs.items():
+        imgset = subset[cr_url]
+
+        if apids:
+            imgset.xmeta.astropix_ids = ",".join(sorted(apids))
+
+
+def _astropix_associate_noirlab(idb: ImagesetDatabase, apimgs: Dict[str, dict]):
+    subset = {}
+    assocs = {}
+
+    for imgset in idb.by_url.values():
+        cr_url = imgset.credits_url
+
+        if "noirlab.edu" in cr_url:
+            subset[cr_url] = imgset
+
+            prev = getattr(imgset.xmeta, "astropix_ids", None)
+            if prev is None:
+                prev_ids = ()
+            else:
+                prev_ids = prev.split(",")
+
+            assocs[cr_url] = set(prev_ids)
+
+    for img_id in list(apimgs.keys()):
+        search = f"/{img_id}"
+
+        for cr_url, imgset in subset.items():
+            if search in cr_url:
+                assocs[cr_url].add(f"noirlab|{img_id}")
+                del apimgs[img_id]  # mark this one as associated
+                break
+
+    for cr_url, apids in assocs.items():
+        imgset = subset[cr_url]
+
+        if apids:
+            imgset.xmeta.astropix_ids = ",".join(sorted(apids))
+
+
+def _astropix_associate_spitzer(idb: ImagesetDatabase, apimgs: Dict[str, dict]):
+    subset = {}
+    assocs = {}
+
+    for imgset in idb.by_url.values():
+        cr_url = imgset.credits_url
+
+        if "spitzer.caltech.edu" in cr_url:
+            subset[cr_url] = imgset
+
+            prev = getattr(imgset.xmeta, "astropix_ids", None)
+            if prev is None:
+                prev_ids = ()
+            else:
+                prev_ids = prev.split(",")
+
+            assocs[cr_url] = set(prev_ids)
+
+    for img_id in list(apimgs.keys()):
+        search = f"/{img_id}"
+
+        for cr_url, imgset in subset.items():
+            if search in cr_url:
+                assocs[cr_url].add(f"spitzer|{img_id}")
+                del apimgs[img_id]  # mark this one as associated
+                break
+
+    for cr_url, apids in assocs.items():
+        imgset = subset[cr_url]
+
+        if apids:
+            imgset.xmeta.astropix_ids = ",".join(sorted(apids))
+
+
+def _astropix_associate_wise(idb: ImagesetDatabase, apimgs: Dict[str, dict]):
+    subset = {}
+    assocs = {}
+
+    for url, imgset in idb.by_url.items():
+        cr_url = imgset.credits_url
+
+        if "wise.astro.ucla.edu" in cr_url or "wise.ssl.berkeley.edu" in cr_url:
+            subset[url] = imgset
+
+            prev = getattr(imgset.xmeta, "astropix_ids", None)
+            if prev is None:
+                prev_ids = ()
+            else:
+                prev_ids = prev.split(",")
+
+            assocs[url] = set(prev_ids)
+
+    for img_id in list(apimgs.keys()):
+        for url, imgset in subset.items():
+            if img_id in imgset.url:
+                assocs[url].add(f"wise|{img_id}")
+                del apimgs[img_id]  # mark this one as associated
+                break
+
+    for url, apids in assocs.items():
+        imgset = subset[url]
+
+        if apids:
+            imgset.xmeta.astropix_ids = ",".join(sorted(apids))
+
+
+def do_update_astropix(_settings):
+    # Load the AstroPix database
+
+    try:
+        with (BASEDIR / "astropix" / "all.json").open("rt") as f:
+            ap_all = json.load(f)
+    except FileNotFoundError:
+        die(
+            "you must first download the AstroPix database to `astropix/all.json` (see README.md)"
+        )
+
+    # From looking at the current collection, it appears that the best filter to
+    # apply is as follows. "Position" quality WCS often apply to artist's
+    # conceptions that are associated with a specific object, but should not be
+    # placed on the sky.
+    ap_all = [item for item in ap_all if item["wcs_quality"] == "Full"]
+    print(f"{len(ap_all)} images in the filtered AstroPix database")
+
+    # Load the imagesets and identify the AstroPix IDs that have already been
+    # associated.
+
+    idb = ImagesetDatabase()
+    done_ids = set()
+
+    for imgset in idb.by_url.values():
+        apids = getattr(imgset.xmeta, "astropix_ids", "")
+        if apids:
+            for apid in apids.split(","):
+                done_ids.add(apid)
+
+    if done_ids:
+        print(f"{len(done_ids)} images already linked")
+
+    # IDs to perma-ignore
+
+    ignore_ids = set()
+
+    try:
+        with (BASEDIR / "astropix" / "ignore.txt").open("rt") as f:
+            for line in f:
+                apid = line.split("#")[0].strip()
+                if apid:
+                    if apid in done_ids:
+                        warn(
+                            f'AstroPix item `{apid}` is in "ignore" list but also "done" list'
+                        )
+                    ignore_ids.add(apid)
+    except FileNotFoundError:
+        pass
+
+    if ignore_ids:
+        print(f"{len(ignore_ids)} AstroPix IDs in the ignore list")
+
+    # Group by publisher
+
+    by_pubid = {}
+
+    for item in ap_all:
+        apid = f"{item['publisher_id']}|{item['image_id']}"
+        if apid in done_ids or apid in ignore_ids:
+            continue
+
+        by_pubid.setdefault(item["publisher_id"], {})[item["image_id"]] = item
+
+    # Associate
+
+    assocs = {
+        "chandra": _astropix_associate_chandra,
+        "esahubble": _astropix_associate_esahubble,
+        "eso": _astropix_associate_eso,
+        "noirlab": _astropix_associate_noirlab,
+        "spitzer": _astropix_associate_spitzer,
+        "wise": _astropix_associate_wise,
+    }
+
+    for pubid, assoc_fn in assocs.items():
+        assoc_fn(idb, by_pubid.get(pubid, {}))
+
+    # (Re)write database and lists of unassociated images
+
+    idb.rewrite()
+
+    for pubid, apimgs in sorted(by_pubid.items()):
+        prev_imgids = set()
+        n_fixed = 0
+
+        try:
+            with (BASEDIR / "astropix" / f"{pubid}.csv").open("rt") as f:
+                for line in f:
+                    imgid = line.split(",")[0]
+                    if imgid not in apimgs:
+                        n_fixed += 1
+
+                    prev_imgids.add(imgid)
+        except FileNotFoundError:
+            pass
+
+        n_new = 0
+        n_tot = len(apimgs)
+
+        if n_tot:
+            with (BASEDIR / "astropix" / f"{pubid}.csv").open("wt") as f:
+                w = csv.writer(f)
+
+                for imgid, imgdata in sorted(apimgs.items()):
+                    if imgid not in prev_imgids:
+                        n_new += 1
+
+                    w.writerow(
+                        (
+                            imgdata["image_id"],
+                            imgdata["reference_url"] or "",
+                            (imgdata["title"] or "")
+                            .replace("\n", " ")
+                            .replace("\r", " "),
+                        )
+                    )
+
+        if n_tot or n_fixed:
+            qpub = f"`{pubid}`"
+            print(
+                f"publisher {qpub:12}: {n_tot:5} unassociated images; {n_new:4} new; {n_fixed:4} fixed"
+            )
+
+
 # update-cxprep
 
 
@@ -2096,6 +2499,7 @@ def entrypoint():
 
     _report = subparsers.add_parser("report")
     _trace = subparsers.add_parser("trace")
+    _update_astropix = subparsers.add_parser("update-astropix")
     _update_cxprep = subparsers.add_parser("update-cxprep")
 
     settings = parser.parse_args()
@@ -2132,6 +2536,8 @@ def entrypoint():
         do_report(settings)
     elif settings.subcommand == "trace":
         do_trace(settings)
+    elif settings.subcommand == "update-astropix":
+        do_update_astropix(settings)
     elif settings.subcommand == "update-cxprep":
         do_update_cxprep(settings)
     else:

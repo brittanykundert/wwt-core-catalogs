@@ -88,6 +88,21 @@ After this is done, the core database is updated with Constellations metadata,
 for posterity and to help make sure that work isn't duplicated.
 
 
+## Approach: AstroPix
+
+We are also integrating with AstroPix, which indexes many of the same images
+that can or should be found in WWT. To use the routines for cross-matching WWT's
+holdings to the AstroPix collection, download the AstroPix database as one big
+JSON file:
+
+```sh
+curl -fsSL "https://www.astropix.org/link/39po?format=json" -o astropix/all.json
+```
+
+(This link goes to a saved search that will match everything in the AstroPix
+database: "publisher ID is not adsdadasdasdas", basically.)
+
+
 ## Driver
 
 Operations are driven from the script `./cattool.py`, which has as Git-like
@@ -215,6 +230,14 @@ beginning of the `jwst` catalog.
 With the `--emit` option, this command will create a wholly new catalog template
 in `catfiles/` mirroring the input WTML's structure. You'll only want this
 option if you're importing a substantial, new image collection.
+
+
+### `cattool update-astropix`
+
+This command updates the `imagesets/` files with automatable cross-matches to
+the AstroPix database, and emits information about AstroPix imagery that
+couldn't be matched to anything in the WWT corpus. In general, anything in
+AstroPix with detailed WCS should be findable *somewhere* in the WWT catalogs.
 
 
 ### `cattool update-cxprep`

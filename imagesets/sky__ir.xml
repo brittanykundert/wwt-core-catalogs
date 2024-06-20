@@ -53,6 +53,7 @@
     TileLevels="5"
     Url="http://data1.wwtassets.org/packages/2022/08_jwst/cartwheel/{1}/{3}/{3}_{2}.png"
     WidthFactor="2"
+    Xastropix_ids="stsci|2022-039a"
     Xcxstatus="in:642761e6975014bc743f159f"
   >
     <Credits>NASA, ESA, CSA, STScI, Webb ERO Production Team</Credits>
@@ -245,6 +246,7 @@
     TileLevels="5"
     Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000011210{Q}?g=131"
     WidthFactor="2"
+    Xastropix_ids="spitzer|sig05-019a"
     Xcxstatus="in:64b744cfa15b29de42b30645"
   >
     <Credits>Courtesy NASA/JPL-Caltech</Credits>
@@ -493,6 +495,7 @@
     TileLevels="4"
     Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000011031{Q}?g=131"
     WidthFactor="2"
+    Xastropix_ids="spitzer|sig05-004a"
     Xcxstatus="in:64b741f8a15b29de42b304b1"
   >
     <Credits>NASA/JPL-Caltech/R. Gehrz (University of Minnesota)</Credits>
@@ -683,6 +686,7 @@
     TileLevels="4"
     Url="http://r{S:2}.ortho.tiles.virtualearth.net/tiles/wsa0000010322{Q}?g=131"
     WidthFactor="2"
+    Xastropix_ids="spitzer|sig05-003a"
     Xcxstatus="in:64b741f9a15b29de42b304b3"
   >
     <Credits>NASA/JPL-Caltech/R. Gehrz (University of Minnesota)</Credits>
@@ -843,6 +847,7 @@
     TileLevels="3"
     Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000001013{Q}?g=138"
     WidthFactor="2"
+    Xastropix_ids="stsci|2005-15c"
     Xcxstatus="queue:hubble"
   >
     <Credits>Credit: NASA/JPL-Caltech/CXC/NOAO/AURA/NSF</Credits>
