@@ -1,15 +1,4 @@
 
-@image
-url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001321{Q}?g=138
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=314237335
-astropix_ids: stsci|2005-37a
-
-credits> NASA, ESA, J. Hester and A. Loll (Arizona State University)
-
----
-
 @scene
 place_uuid: 6492b213-8592-443a-9fcf-f57bb06925e3
 image_url: http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000001321{Q}?g=138
