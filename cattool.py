@@ -28,7 +28,12 @@ import yaml
 from requests.exceptions import ConnectionError
 
 from wwt_api_client import constellations as cx
-from wwt_api_client.constellations.data import SceneContent, SceneImageLayer, ScenePlace
+from wwt_api_client.constellations.data import (
+    SceneAstroPix,
+    SceneContent,
+    SceneImageLayer,
+    ScenePlace,
+)
 from wwt_api_client.constellations.handles import HandleClient, AddSceneRequest
 
 from wwt_data_formats import indent_xml
@@ -615,7 +620,9 @@ def _register_image(client: HandleClient, fields, imgset, dry_run: bool = False)
     return id
 
 
-def _register_scene(client, fields, place, imgid, dry_run: bool = False) -> str:
+def _register_scene(
+    client, fields, place, imgid, dry_run: bool = False, apid: Optional[str] = None
+) -> str:
     "Returns the new scene ID"
 
     image_layers = [SceneImageLayer(image_id=imgid, opacity=1.0)]
@@ -637,6 +644,13 @@ def _register_scene(client, fields, place, imgid, dry_run: bool = False) -> str:
         outgoing_url=fields["outgoing_url"],
         published=True,  # YOLO
     )
+
+    if apid:
+        publisher_id, image_id = apid.split("|")
+        req.astropix = SceneAstroPix(
+            publisher_id=publisher_id,
+            image_id=image_id,
+        )
 
     if dry_run:
         print("*not* registering place/scene:", fields["place_uuid"], "=>", end=" ")
@@ -864,19 +878,26 @@ class ConstellationsPrepDatabase(object):
         pdb: PlaceDatabase,
         dry_run: bool = False,
     ):
-        # prefill the list of all known image IDs by URL since we may need
-        # these to consruct scene records
+        # prefill the tables of image info by URL since we may need
+        # these to construct scene records, if we create the image in one
+        # session and an associated scene in another.
 
         imgids_by_url = {}
+        apids_by_url = {}
 
         for url, imgset in idb.by_url.items():
             cxs = getattr(imgset.xmeta, "cxstatus", "")
             if cxs.startswith("in:"):
                 imgids_by_url[url] = cxs[3:]
 
+            apids = getattr(imgset.xmeta, "astropix_ids", "")
+            if apids:
+                apids_by_url[url] = apids
+
         # now we can actually register the new stuff
 
         n = 0
+        done_apids = set()
 
         for handle in list(self.by_handle.keys()):
             items = self.by_handle[handle]
@@ -914,6 +935,11 @@ class ConstellationsPrepDatabase(object):
                     if kind == "image":
                         url = fields["url"]
                         imgset = idb.by_url[url]
+
+                        apids = fields.get("astropix_ids")
+                        if apids:
+                            apids_by_url[url] = apids
+
                         id = _register_image(
                             handle_client, fields, imgset, dry_run=dry_run
                         )
@@ -932,11 +958,42 @@ class ConstellationsPrepDatabase(object):
                             )
                             continue
 
+                        apids = apids_by_url.get(img_url)
+                        apid = None
+
+                        if apids:
+                            apids = apids.split(",")
+                            if len(apids) > 1:
+                                warn(
+                                    f"place/scene {uuid} associated with multiple AstroPix IDs via imageset {img_url}; only recording the first"
+                                )
+
+                            apid = apids[0]
+
+                            if apid in done_apids:
+                                # This check only knows about what we've added
+                                # within this one session, so it is far from
+                                # foolproof, but hopefully it can catch the
+                                # common case of two scenes associated with the
+                                # same image.
+                                warn(
+                                    f"place/scene {uuid} associated with AstroPix {apid} via imageset {img_url}, but it was already registered this session"
+                                )
+                                apid = None
+                            else:
+                                done_apids.add(apid)
+
                         place = pdb.reconst_by_id(uuid, idb)
                         id = _register_scene(
-                            handle_client, fields, place, img_id, dry_run=dry_run
+                            handle_client,
+                            fields,
+                            place,
+                            img_id,
+                            dry_run=dry_run,
+                            apid=apid,
                         )
                         pdb.by_uuid[uuid]["cxstatus"] = f"in:{id}"
+                        pdb.by_uuid[uuid]["astropix_id"] = apid
                         remove_place_uuids.add(uuid)
                         n += 1
                     else:
