@@ -169,7 +169,7 @@ def _pipeline_io_from_settings(settings):
 def init_impl(settings):
     pipeio = _pipeline_io_from_settings(settings)
     os.makedirs(settings.workdir, exist_ok=True)
-    pipeio.save_config(os.path.join(settings.workdir, "toasty-store-config.yaml"))
+    pipeio.save_config(os.path.join(settings.workdir, "corepipe-storage.yaml"))
 
 
 # The "refresh" subcommand

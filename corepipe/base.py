@@ -355,9 +355,7 @@ class PipelineManager(object):
 
     def __init__(self, workdir: str):
         self._workdir = workdir
-        self._pipeio = PipelineIo.load_from_config(
-            self._path("toasty-store-config.yaml")
-        )
+        self._pipeio = PipelineIo.load_from_config(self._path("corepipe-storage.yaml"))
 
     def _path(self, *path: Iterable[str]) -> str:
         return os.path.join(self._workdir, *path)
