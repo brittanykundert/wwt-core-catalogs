@@ -631,16 +631,13 @@ class PipelineManager(object):
                     handle_client = cx_client.handle_client(cx_handle)
                     handle_clients[cx_handle] = handle_client
 
-                print(f"{uniq_id}: registering image ... ", end="")
                 cx_img_id = _register_image(handle_client, fields, imgset)
-                print(cx_img_id)
 
                 # ... and the place/scene
 
                 apid = fields.get("astropix_id")
                 place_uuid = str(uuid.uuid4())
                 fields["place_uuid"] = place_uuid
-                print(f"{uniq_id}: registering place ... ", end="")
                 cx_scene_id = _register_scene(
                     handle_client,
                     fields,
@@ -648,9 +645,6 @@ class PipelineManager(object):
                     cx_img_id,
                     apid=apid,
                     published=False,
-                )
-                print(
-                    f"{place_uuid} | https://worldwidetelescope.org/@{cx_handle}/{cx_scene_id}"
                 )
 
                 # Next, add to the local databases
