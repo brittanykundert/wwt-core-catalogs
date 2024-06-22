@@ -581,6 +581,7 @@ class PipelineManager(object):
                     place.description = fields["text"]
                     imgset.credits = fields["credits"]
                     imgset.credits_url = fields["outgoing_url"]
+                    imgset.description = fields["text"]
 
                     with open(index_rel_path, "wt", encoding="utf8") as f_out:
                         f.write_xml(f_out)
