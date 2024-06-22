@@ -418,8 +418,19 @@ class PipelineManager(object):
         from toasty import par_util
         from toasty.pyramid import PyramidIO
 
-        # TODO: load cxprep file, if it exists
-        prep_items = []
+        # Load "prep" file for rewriting
+
+        prep_path = self._path("prep.txt")
+        seen_ids = set()
+
+        try:
+            with open(prep_path, "rt", encoding="utf-8") as f:
+                prep_items = list(_parse_record_file(f, prep_path))
+        except FileNotFoundError:
+            prep_items = []
+
+        for kind, fields in prep_items:
+            seen_ids.add(fields["corepipe_id"])
 
         # Load AstroPix database for cross-matching
 
@@ -474,25 +485,26 @@ class PipelineManager(object):
             # Woohoo, done!
             os.rename(cachedir, self._path("cache_done", uniq_id))
 
-            # Generate records for the prep file
+            if uniq_id not in seen_ids:
+                # Generate records for the prep file
 
-            fields = OrderedDict()
-            fields["corepipe_id"] = uniq_id
-            fields["cx_handle"] = self._config["default_constellations_handle"]
-            fields["prepend_catfile"] = self._config["default_prepend_catfile"]
-            fields["copyright"] = self._config["default_copyright"]
-            fields["license_id"] = self._config["default_license_id"]
+                fields = OrderedDict()
+                fields["corepipe_id"] = uniq_id
+                fields["cx_handle"] = self._config["default_constellations_handle"]
+                fields["prepend_catfile"] = self._config["default_prepend_catfile"]
+                fields["copyright"] = self._config["default_copyright"]
+                fields["license_id"] = self._config["default_license_id"]
 
-            # NOTE: Hardcoding invariant that AstroPix IDs and our IDs are the
-            # same.
-            if uniq_id in astropix_imgids:
-                fields["astropix_id"] = f"{astropix_pubid}|{uniq_id}"
+                # NOTE: Hardcoding invariant that AstroPix IDs and our IDs are the
+                # same.
+                if uniq_id in astropix_imgids:
+                    fields["astropix_id"] = f"{astropix_pubid}|{uniq_id}"
 
-            fields["outgoing_url"] = builder.imgset.credits_url
-            fields["text"] = builder.place.description
-            fields["credits"] = builder.imgset.credits
-            fields["wip"] = "yes"
-            prep_items.append(("corepipe_image", fields))
+                fields["outgoing_url"] = builder.imgset.credits_url
+                fields["text"] = builder.place.description
+                fields["credits"] = builder.imgset.credits
+                fields["wip"] = "yes"
+                prep_items.append(("corepipe_image", fields))
 
         with open(self._path("prep.txt"), "wt", encoding="utf-8") as f:
             for kind, fields in prep_items:
