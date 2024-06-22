@@ -15,13 +15,30 @@ PIPELINE_IO_LOADERS
 """.split()
 
 from abc import ABC, abstractmethod
+from collections import OrderedDict
 from io import BytesIO
+import json
 import os.path
 import sys
 from typing import BinaryIO, Iterable, Tuple
+import uuid
 import yaml
 
 import toasty
+from wwt_api_client import constellations as cx
+from wwt_data_formats.folder import Folder, make_absolutizing_url_mutator
+
+from cattool import (
+    BASEDIR,
+    ImagesetDatabase,
+    PlaceDatabase,
+    _emit_record,
+    _parse_record_file,
+    _register_image,
+    _register_scene,
+    warn,
+    write_one_yaml,
+)
 
 
 class NotActionableError(Exception):
@@ -370,6 +387,9 @@ class PipelineManager(object):
         self._config = config
         return self._config
 
+    def feed_id(self) -> str:
+        return self.ensure_config()["feed_id"]
+
     def get_image_source(self) -> ImageSource:
         if self._img_source is not None:
             return self._img_source
@@ -400,6 +420,36 @@ class PipelineManager(object):
         from toasty import par_util
         from toasty.pyramid import PyramidIO
 
+        # TODO: load cxprep file, if it exists
+        prep_items = []
+
+        # Load AstroPix database for cross-matching
+
+        astropix_pubid = self.ensure_config().get("astropix_publisher_id")
+        astropix_imgids = set()
+
+        if astropix_pubid:
+            try:
+                with (BASEDIR / "astropix" / "all.json").open(
+                    "rt", encoding="utf-8"
+                ) as f:
+                    ap_all = json.load(f)
+            except FileNotFoundError:
+                warn(
+                    "unable to make AstroPix associations; download the AstroPix database to `astropix/all.json` (see README.md)"
+                )
+
+            for item in ap_all:
+                if item["publisher_id"] != astropix_pubid:
+                    continue
+
+                if item["wcs_quality"] != "Full":
+                    continue
+
+                astropix_imgids.add(item["image_id"])
+
+        # Let's get going
+
         src = self.get_image_source()
         cand_dir = self._path("candidates")
         self._ensure_dir("cache_done")
@@ -426,38 +476,218 @@ class PipelineManager(object):
             # Woohoo, done!
             os.rename(cachedir, self._path("cache_done", uniq_id))
 
-    def publish(self):
-        done_dir = self._ensure_dir("published")
-        todo_dir = self._path("approved")
-        pfx = todo_dir + os.path.sep
+            # Generate records for the prep file
 
-        for uniq_id in os.listdir(todo_dir):
-            # If there's a index.wtml file, save it for last -- that will
-            # indicate that this directory has uploaded fully successfully.
+            fields = OrderedDict()
+            fields["corepipe_id"] = uniq_id
+            fields["cx_handle"] = self._config["default_constellations_handle"]
+            fields["prepend_catfile"] = self._config["default_prepend_catfile"]
+            fields["copyright"] = self._config["default_copyright"]
+            fields["license_id"] = self._config["default_license_id"]
 
-            filenames = os.listdir(os.path.join(todo_dir, uniq_id))
+            # NOTE: Hardcoding invariant that AstroPix IDs and our IDs are the
+            # same.
+            if uniq_id in astropix_imgids:
+                fields["astropix_id"] = f"{astropix_pubid}|{uniq_id}"
 
-            try:
-                index_index = filenames.index("index.wtml")
-            except ValueError:
-                pass
-            else:
-                temp = filenames[-1]
-                filenames[-1] = "index.wtml"
-                filenames[index_index] = temp
+            fields["outgoing_url"] = builder.imgset.credits_url
+            fields["text"] = builder.place.description
+            fields["credits"] = builder.imgset.credits
+            fields["wip"] = "yes"
+            prep_items.append(("corepipe_image", fields))
 
-            print(f"publishing {uniq_id} ...")
+        with open(self._path("prep.txt"), "wt", encoding="utf-8") as f:
+            for kind, fields in prep_items:
+                _emit_record(kind, fields, f)
 
-            for filename in filenames:
-                # Get the components of the item path relative to todo_dir.
-                sub_components = [todo_dir, uniq_id, filename]
-                p = os.path.join(*sub_components)
-                assert p.startswith(pfx)
+    def upload(self):
+        prep_path = self._path("prep.txt")
+        self._ensure_dir("uploaded")
 
-                with open(p, "rb") as f:
-                    self._pipeio.put_item(*sub_components[1:], source=f)
+        pub_url_prefix = self.ensure_config().get("publish_url_prefix")
+        if pub_url_prefix:
+            if pub_url_prefix[-1] != "/":
+                pub_url_prefix += "/"
 
-            os.rename(os.path.join(todo_dir, uniq_id), os.path.join(done_dir, uniq_id))
+        # Load up all of the databases that we're going to edit
+
+        idb = ImagesetDatabase()
+        pdb = PlaceDatabase()
+
+        with open(prep_path, "rt", encoding="utf-8") as f:
+            items = list(_parse_record_file(f, prep_path))
+
+        catfile_prepends = {}
+        catfile_existing = {}
+
+        for kind, fields in items:
+            if "wip" in fields:
+                continue
+
+            catfile = fields.get("prepend_catfile")
+            if catfile:
+                catpath = BASEDIR / "catfiles" / f"{catfile}.yml"
+
+                with open(catpath, "rt", encoding="utf-8") as f:
+                    catfile_existing[catfile] = yaml.load(f, yaml.SafeLoader)
+
+        # Now we can actually do the main processing
+
+        handle_clients = {}
+        cx_client = cx.CxClient()
+        remove_ids = set()
+
+        try:
+            for kind, fields in items:
+                if "wip" in fields:
+                    continue
+
+                assert kind == "corepipe_image"
+                uniq_id = fields["corepipe_id"]
+                already_uploaded = os.path.exists(self._path("uploaded", uniq_id))
+
+                if already_uploaded:
+                    print(
+                        f"{uniq_id}: image data already uploaded; resuming registration"
+                    )
+                    wtml_dir = "uploaded"
+                else:
+                    wtml_dir = "processed"
+
+                index_rel_path = self._path(wtml_dir, uniq_id, "index_rel.wtml")
+                index_full_path = self._path(wtml_dir, uniq_id, "index.wtml")
+
+                if already_uploaded:
+                    f = Folder.from_file(index_full_path)
+                    place = f.children[0]
+                    imgset = place.foreground_image_set
+                else:
+                    # Construct the final WTML information
+
+                    f = Folder.from_file(index_rel_path)
+                    place = f.children[0]
+                    imgset = place.foreground_image_set
+
+                    place.description = fields["text"]
+                    imgset.credits = fields["credits"]
+                    imgset.credits_url = fields["outgoing_url"]
+
+                    with open(index_rel_path, "wt", encoding="utf8") as f_out:
+                        f.write_xml(f_out)
+
+                    # Construct the non-relative index
+
+                    prefix = pub_url_prefix + uniq_id + "/"
+                    f.mutate_urls(make_absolutizing_url_mutator(prefix))
+
+                    with open(index_full_path, "wt", encoding="utf8") as f_out:
+                        f.write_xml(f_out)
+
+                    # Upload the data
+                    #
+                    # Save the index.wtml for last -- it will indicate that the tree
+                    # has uploaded fully successfully.
+
+                    print(f"{uniq_id}: uploading ...")
+
+                    filenames = os.listdir(self._path("processed", uniq_id))
+
+                    try:
+                        index_index = filenames.index("index.wtml")
+                    except ValueError:
+                        pass
+                    else:
+                        temp = filenames[-1]
+                        filenames[-1] = "index.wtml"
+                        filenames[index_index] = temp
+
+                    for filename in filenames:
+                        with open(
+                            self._path("processed", uniq_id, filename), "rb"
+                        ) as f:
+                            self._pipeio.put_item(uniq_id, filename, source=f)
+
+                    os.rename(
+                        self._path("processed", uniq_id),
+                        self._path("uploaded", uniq_id),
+                    )
+
+                # Now that it's uploaded, we can register the image with Constellations
+
+                cx_handle = fields["cx_handle"]
+                handle_client = handle_clients.get(cx_handle)
+
+                if handle_client is None:
+                    handle_client = cx_client.handle_client(cx_handle)
+                    handle_clients[cx_handle] = handle_client
+
+                print(f"{uniq_id}: registering image ... ", end="")
+                cx_img_id = _register_image(handle_client, fields, imgset)
+                print(cx_img_id)
+
+                # ... and the place/scene
+
+                apid = fields.get("astropix_id")
+                place_uuid = str(uuid.uuid4())
+                fields["place_uuid"] = place_uuid
+                print(f"{uniq_id}: registering place ... ", end="")
+                cx_scene_id = _register_scene(
+                    handle_client,
+                    fields,
+                    place,
+                    cx_img_id,
+                    apid=apid,
+                    published=False,
+                )
+                print(
+                    f"{place_uuid} | https://worldwidetelescope.org/@{cx_handle}/{cx_scene_id}"
+                )
+
+                # Next, add to the local databases
+
+                imgset.xmeta.cxstatus = f"in:{cx_img_id}"
+                imgset.xmeta.corepipe_ids = f"{self.feed_id()}|{uniq_id}"
+
+                if apid:
+                    imgset.xmeta.astropix_ids = apid
+
+                idb.add_imageset(imgset)
+                pdb.ingest_place(place, idb, new_id=place_uuid)
+                pdb.by_uuid[place_uuid]["cxstatus"] = f"in:{cx_scene_id}"
+
+                catfile = fields.get("prepend_catfile")
+                if catfile:
+                    catfile_prepends.setdefault(catfile, []).append(
+                        f"place {place_uuid}"
+                    )
+
+                remove_ids.add(uniq_id)
+        finally:
+            print("Saving database updates ...")
+
+            idb.rewrite()
+            pdb.rewrite()
+
+            for catfile, prepends in catfile_prepends.items():
+                existing = catfile_existing[catfile]
+                existing["children"] = prepends[::-1] + existing["children"]
+                write_one_yaml(BASEDIR / "catfiles" / f"{catfile}.yml", existing)
+
+            # Update the list of items. We take this particular approach so
+            # that if we crash mid-operation, progress will be correctly
+            # saved, to the best of our ability.
+
+            new_items = []
+
+            for kind, fields in items:
+                if fields["corepipe_id"] in remove_ids:
+                    continue
+
+                new_items.append((kind, fields))
+
+            with open(prep_path, "wt", encoding="utf-8") as f:
+                for kind, fields in new_items:
+                    _emit_record(kind, fields, f)
 
     def ignore_rejects(self):
         rejects_dir = self._path("rejects")

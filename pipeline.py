@@ -4,6 +4,14 @@
 
 """
 Entrypoint for the pipeline command-line tools.
+
+Basic workflow:
+
+- ../../pipeline.py refresh          -- get list of candidates (fill `candidates`)
+- ../../pipeline.py fetch <ids...>   -- download candidates to process (fill `cache_todo`)
+- ../../pipeline.py process-todos    -- tile fetched candidates (`cache_todo` -> `processed`, `prep.txt`)
+- ../../pipeline.py upload           -- upload images/scenes that are ready
+
 """
 
 import argparse
@@ -16,7 +24,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 
 from wwt_data_formats.cli import EnsureGlobsExpandedAction
 
-from cattool import die
+from cattool import die, ImagesetDatabase
 from corepipe.base import NotActionableError, PipelineManager
 
 
@@ -46,68 +54,6 @@ def evaluate_imageid_args(searchdir, args):
                     break
 
     return sorted(matched_ids)
-
-
-# The "approve" subcommand
-
-
-def approve_setup_parser(parser):
-    parser.add_argument(
-        "--workdir",
-        metavar="PATH",
-        default=".",
-        help="The working directory for this processing session",
-    )
-    parser.add_argument(
-        "cand_ids",
-        nargs="+",
-        action=EnsureGlobsExpandedAction,
-        metavar="IMAGE-ID",
-        help="Name(s) of image(s) to approve for publication (globs accepted)",
-    )
-
-
-def approve_impl(settings):
-    from wwt_data_formats.folder import Folder, make_absolutizing_url_mutator
-
-    mgr = PipelineManager(settings.workdir)
-    mgr.ensure_config()
-
-    pub_url_prefix = mgr._config.get("publish_url_prefix")
-    if pub_url_prefix:
-        if pub_url_prefix[-1] != "/":
-            pub_url_prefix += "/"
-
-    proc_dir = mgr._ensure_dir("processed")
-    app_dir = mgr._ensure_dir("approved")
-
-    for cid in evaluate_imageid_args(proc_dir, settings.cand_ids):
-        if not os.path.isdir(os.path.join(proc_dir, cid)):
-            die(f"no such processed candidate ID {cid!r}")
-
-        index_path = os.path.join(proc_dir, cid, "index.wtml")
-        prefix = pub_url_prefix + cid + "/"
-
-        try:
-            f = Folder.from_file(os.path.join(proc_dir, cid, "index_rel.wtml"))
-            f.mutate_urls(make_absolutizing_url_mutator(prefix))
-
-            with open(index_path, "wt", encoding="utf8") as f_out:
-                f.write_xml(f_out)
-        except Exception as e:
-            print(
-                "error: failed to create index.wtml from index_rel.wtml",
-                file=sys.stderr,
-            )
-
-            try:
-                os.remove(index_path)
-            except Exception:
-                pass
-
-            raise
-
-        os.rename(os.path.join(proc_dir, cid), os.path.join(app_dir, cid))
 
 
 # The "fetch" subcommand
@@ -247,9 +193,26 @@ def refresh_impl(settings):
     cand_dir = mgr._ensure_dir("candidates")
     rej_dir = mgr._ensure_dir("rejects")
     src = mgr.get_image_source()
+
+    # Index the images already in our database
+
+    idb = ImagesetDatabase()
+    seen_idb = set()
+    prefix = mgr.feed_id() + "|"
+
+    for imgset in idb.by_url.values():
+        cpids = getattr(imgset.xmeta, "corepipe_ids", "")
+        if not cpids:
+            continue
+
+        for cpid in cpids.split(","):
+            if cpid.startswith(prefix):
+                seen_idb.add(cpid[len(prefix) :])
+
     n_cand = 0
     n_saved = 0
     n_done = 0
+    n_unindexed = 0
     n_skipped = 0
     n_rejected = 0
 
@@ -257,9 +220,13 @@ def refresh_impl(settings):
         n_cand += 1
         uniq_id = cand.get_unique_id()
 
-        if mgr._pipeio.check_exists(uniq_id, "index.wtml"):
+        if uniq_id in seen_idb:
             n_done += 1
-            continue  # skip already-done inputs
+            continue
+
+        if mgr._pipeio.check_exists(uniq_id, "index.wtml"):
+            n_unindexed += 1
+            continue
 
         if mgr._pipeio.check_exists(uniq_id, "skip.flag"):
             n_skipped += 1
@@ -282,7 +249,8 @@ def refresh_impl(settings):
     print(f"analyzed {n_cand} candidates from the image source")
     print(f"  - {n_saved} processing candidates saved")
     print(f"  - {n_rejected} rejected as definitely unusable")
-    print(f"  - {n_done} were already done")
+    print(f"  - {n_done} are already done (vs. {len(seen_idb)} in IDB)")
+    print(f"  - {n_unindexed} are uploaded, but not in the image database!")
     print(f"  - {n_skipped} were already marked to be ignored")
     print()
     print("See the `candidates` directory for candidate image IDs.")
@@ -306,12 +274,11 @@ def pipeline_getparser() -> argparse.ArgumentParser:
         )
         return subp
 
-    approve_setup_parser(subparsers.add_parser("approve"))
     fetch_setup_parser(subparsers.add_parser("fetch"))
     add_manager_command("ignore-rejects")
     init_setup_parser(subparsers.add_parser("init"))
     add_manager_command("process-todos")
-    add_manager_command("publish")
+    add_manager_command("upload")
     refresh_setup_parser(subparsers.add_parser("refresh"))
     return parser
 
@@ -324,9 +291,7 @@ def entrypoint():
         print('Run the "pipeline" command with `--help` for help on its subcommands')
         return
 
-    if settings.pipeline_command == "approve":
-        approve_impl(settings)
-    elif settings.pipeline_command == "fetch":
+    if settings.pipeline_command == "fetch":
         fetch_impl(settings)
     elif settings.pipeline_command == "ignore-rejects":
         mgr = PipelineManager(settings.workdir)
@@ -336,9 +301,9 @@ def entrypoint():
     elif settings.pipeline_command == "process-todos":
         mgr = PipelineManager(settings.workdir)
         mgr.process_todos()
-    elif settings.pipeline_command == "publish":
+    elif settings.pipeline_command == "upload":
         mgr = PipelineManager(settings.workdir)
-        mgr.publish()
+        mgr.upload()
     elif settings.pipeline_command == "refresh":
         refresh_impl(settings)
     else:

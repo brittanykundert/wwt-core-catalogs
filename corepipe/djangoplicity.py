@@ -65,9 +65,8 @@ class DjangoplicityImageSource(ImageSource):
     An ImageSource that obtains its inputs from a query to a Djangoplicity website.
     """
 
-    _base_url = None
-    _channel_name = None
-    _search_page_name = None
+    _base_url: str
+    _search_page_name: str
 
     @classmethod
     def get_config_key(cls) -> str:
@@ -77,7 +76,6 @@ class DjangoplicityImageSource(ImageSource):
     def deserialize(cls, data: dict) -> "DjangoplicityImageSource":
         inst = cls()
         inst._base_url = data["base_url"]
-        inst._channel_name = data["channel_name"]
         inst._search_page_name = data.get("search_page_name", "page")
         return inst
 
@@ -234,16 +232,9 @@ class DjangoplicityImageSource(ImageSource):
 
         # Annotation metadata
 
-        pub_dt = datetime.fromisoformat(info["Date"])
-        if pub_dt.tzinfo is None:
-            pub_dt = pub_dt.replace(tzinfo=timezone.utc)
-
-        amd = {
-            "channel": self._channel_name,
-            "itemid": unique_id,
-            "publishedUTCISO8601": pub_dt.isoformat(),
-        }
-        builder.place.annotation = json.dumps(amd)
+        ### pub_dt = datetime.fromisoformat(info["Date"])
+        ### if pub_dt.tzinfo is None:
+        ###     pub_dt = pub_dt.replace(tzinfo=timezone.utc)
 
         # Finally, crunch the rest of the pyramid.
 

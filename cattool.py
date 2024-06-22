@@ -189,6 +189,7 @@ class PlaceDatabase(object):
         place: Place,
         idb: ImagesetDatabase,
         queue_constellations_handle: Optional[str] = None,
+        new_id: Optional[str] = None,
     ):
         place.update_constellation()
 
@@ -207,7 +208,9 @@ class PlaceDatabase(object):
                 queue_constellations_handle=queue_constellations_handle,
             )
 
-        new_id = str(uuid.uuid4())
+        if not new_id:
+            new_id = str(uuid.uuid4())
+
         info = {"_uuid": new_id}
 
         if place.angle != 0:
@@ -564,7 +567,9 @@ def _retry(operation):
             time.sleep(0.5)
 
 
-def _register_image(client: HandleClient, fields, imgset, dry_run: bool = False) -> str:
+def _register_image(
+    client: HandleClient, fields: dict, imgset: ImageSet, dry_run: bool = False
+) -> str:
     "Returns the new image ID"
 
     if imgset.band_pass != Bandpass.VISIBLE:
@@ -621,7 +626,13 @@ def _register_image(client: HandleClient, fields, imgset, dry_run: bool = False)
 
 
 def _register_scene(
-    client, fields, place, imgid, dry_run: bool = False, apid: Optional[str] = None
+    client: HandleClient,
+    fields: dict,
+    place: Place,
+    imgid: str,
+    dry_run: bool = False,
+    apid: Optional[str] = None,
+    published: bool = True,
 ) -> str:
     "Returns the new scene ID"
 
@@ -642,7 +653,7 @@ def _register_scene(
         content=content,
         text=fields["text"],
         outgoing_url=fields["outgoing_url"],
-        published=True,  # YOLO
+        published=published,
     )
 
     if apid:
