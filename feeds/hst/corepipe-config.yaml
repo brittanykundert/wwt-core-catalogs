@@ -1,0 +1,11 @@
+feed_id: hst
+default_copyright: Public domain
+default_license_id: CC-PDDC
+default_constellations_handle: hubble
+default_prepend_catfile: studieshubble
+source_type: djangoplicity
+publish_url_prefix: http://data1.wwtassets.org/feeds/hst/
+astropix_publisher_id: esahubble
+
+djangoplicity:
+  base_url: https://esahubble.org/images/
