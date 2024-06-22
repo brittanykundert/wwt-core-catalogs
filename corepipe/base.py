@@ -372,17 +372,17 @@ class PipelineManager(object):
             return self._config
 
         self._ensure_dir()
-        cfg_path = self._path("toasty-pipeline-config.yaml")
+        cfg_path = self._path("corepipe-config.yaml")
 
         if not os.path.exists(cfg_path):  # racey
             with open(cfg_path, "wb") as f:
-                self._pipeio.get_item("toasty-pipeline-config.yaml", dest=f)
+                self._pipeio.get_item("corepipe-config.yaml", dest=f)
 
         with open(cfg_path, "rt", encoding="utf8") as f:
             config = yaml.safe_load(f)
 
         if config is None:
-            raise Exception("no toasty-pipeline-config.yaml found in the storage")
+            raise Exception("no `corepipe-config.yaml` found in the storage")
 
         self._config = config
         return self._config
