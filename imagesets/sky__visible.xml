@@ -17208,6 +17208,36 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.04461249246367851"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="16.00102662534"
+    CenterY="-72.03430814039"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Hubble Captures the Supernova Remnant 1E 0102.2-7219"
+    OffsetX="-0.0025859364000504078"
+    OffsetY="0.0017605981363388397"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-3.2284766282699997"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/hst/heic2102a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="esahubble|heic2102a"
+    Xcorepipe_ids="hst|heic2102a"
+    Xcxstatus="in:66761a48ece7bd2d35089789"
+  >
+    <Credits>NASA, ESA, and J. Banovetz and D. Milisavljevic (Purdue University)</Credits>
+    <CreditsUrl>https://esahubble.org/images/heic2102a/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/hst/heic2102a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.1362352890774256"
     BaseTileLevel="0"
     BottomsUp="False"

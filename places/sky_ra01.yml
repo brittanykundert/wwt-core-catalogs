@@ -295,6 +295,22 @@ ra_hr: 1.8517679228305606
 thumbnail: http://data1.wwtassets.org/feeds/eso/potw1838a/thumb.jpg
 zoom_level: 1.4280189345385312
 ---
+_uuid: fe569352-11fb-4c5a-bb3c-0de674d53285
+classification: ''
+constellation: TUC
+cxstatus: in:66761a49ece7bd2d3508978a
+data_set_type: Sky
+dec_deg: -72.03240453656375
+description: Featured in this Hubble image is an expanding, gaseous corpse — a supernova
+  remnant — known as 1E 0102.2-7219. It is the remnant of a star that exploded long
+  ago in the Small Magellanic Cloud, a satellite galaxy of our Milky Way located roughly
+  200,000 light-years away.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/hst/heic2102a/L{1}X{2}Y{3}.png
+name: Hubble Captures the Supernova Remnant 1E 0102.2-7219
+ra_hr: 1.0672716503091353
+thumbnail: http://data1.wwtassets.org/feeds/hst/heic2102a/thumb.jpg
+zoom_level: 0.14375765759999998
+---
 _uuid: 2caf9d5e-0e3b-4127-b3a8-4bfa4e6a81f4
 angular_size: 0.22725433425329997
 annotation: '{"channel": "noirlab", "itemid": "gemini0401c", "publishedUTCISO8601":
