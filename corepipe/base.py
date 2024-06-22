@@ -655,7 +655,6 @@ class PipelineManager(object):
                 if apid:
                     imgset.xmeta.astropix_ids = apid
 
-                idb.add_imageset(imgset)
                 pdb.ingest_place(place, idb, new_id=place_uuid)
                 pdb.by_uuid[place_uuid]["cxstatus"] = f"in:{cx_scene_id}"
 
