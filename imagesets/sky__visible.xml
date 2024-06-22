@@ -17208,6 +17208,36 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.1362352890774256"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="166.65077792373984"
+    CenterY="-77.38714429534076"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb’s View of the Molecular Cloud Chameleon I"
+    OffsetX="4.157571077802295e-06"
+    OffsetY="4.157571077802295e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-23.219999999999953"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/feeds/hst/sci23001a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="esahubble|sci23001a"
+    Xcorepipe_ids="hst|sci23001a"
+    Xcxstatus="in:66761329be1b4f0dfebe7a45"
+  >
+    <Credits>NASA, ESA, CSA, and M. Zamani (ESA/Webb); Science: F. Sun (Steward Observatory), Z. Smith (Open University), and the Ice Age ERS Team.</Credits>
+    <CreditsUrl>https://esahubble.org/images/sci23001a/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/hst/sci23001a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.02523597330522112"
     BaseTileLevel="0"
     BottomsUp="False"
