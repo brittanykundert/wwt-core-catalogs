@@ -7,6 +7,7 @@ Entrypoint for the pipeline command-line tools.
 
 Basic workflow:
 
+- Work from a subdirectory of `feeds/`
 - ../../pipeline.py refresh          -- get list of candidates (fill `candidates`)
 - ../../pipeline.py fetch <ids...>   -- download candidates to process (fill `cache_todo`)
 - ../../pipeline.py process-todos    -- tile fetched candidates (`cache_todo` -> `processed`, `prep.txt`)
@@ -15,16 +16,27 @@ Basic workflow:
 """
 
 import argparse
+from collections import OrderedDict
 from fnmatch import fnmatch
 import glob
+import json
 import os.path
 import sys
 
 sys.path.insert(0, os.path.dirname(__file__))
 
 from wwt_data_formats.cli import EnsureGlobsExpandedAction
+from wwt_data_formats.folder import Folder
+from wwt_data_formats.place import Place
 
-from cattool import die, ImagesetDatabase
+from cattool import (
+    die,
+    warn,
+    BASEDIR,
+    ImagesetDatabase,
+    _parse_record_file,
+    _emit_record,
+)
 from corepipe.base import NotActionableError, PipelineManager
 
 
@@ -40,7 +52,7 @@ def evaluate_imageid_args(searchdir, args):
         if glob.has_magic(arg):
             globs_todo.add(arg)
         else:
-            # If an ID is explicitly (non-gobbily) added, always add it to the
+            # If an ID is explicitly (non-globbily) added, always add it to the
             # list, without checking if it exists in `searchdir`. We could check
             # for it in searchdir now, but we'll have to check later anyway, so
             # we don't bother.
@@ -54,6 +66,113 @@ def evaluate_imageid_args(searchdir, args):
                     break
 
     return sorted(matched_ids)
+
+
+# The "backfill" subcommand
+
+
+def backfill_setup_parser(parser):
+    parser.add_argument(
+        "--workdir",
+        metavar="PATH",
+        default=".",
+        help="The working directory for this processing session",
+    )
+    parser.add_argument(
+        "wtml_path",
+        metavar="WTML-PATH",
+        help="Path to a WTML file with consolidated image information",
+    )
+
+
+def backfill_impl(settings):
+    # Load the WTML
+
+    folder = Folder.from_file(settings.wtml_path)
+
+    # Load "prep" file for rewriting
+
+    mgr = PipelineManager(settings.workdir)
+    prep_path = mgr._path("prep.txt")
+    seen_ids = set()
+
+    try:
+        with open(prep_path, "rt", encoding="utf-8") as f:
+            prep_items = list(_parse_record_file(f, prep_path))
+    except FileNotFoundError:
+        prep_items = []
+
+    for kind, fields in prep_items:
+        seen_ids.add(fields["corepipe_id"])
+
+    # Load AstroPix database for cross-matching
+
+    astropix_pubid = mgr.ensure_config().get("astropix_publisher_id")
+    astropix_imgids = set()
+
+    if astropix_pubid:
+        try:
+            with (BASEDIR / "astropix" / "all.json").open("rt", encoding="utf-8") as f:
+                ap_all = json.load(f)
+        except FileNotFoundError:
+            warn(
+                "unable to make AstroPix associations; download the AstroPix database to `astropix/all.json` (see README.md)"
+            )
+
+        for item in ap_all:
+            if item["publisher_id"] != astropix_pubid:
+                continue
+
+            if item["wcs_quality"] != "Full":
+                continue
+
+            astropix_imgids.add(item["image_id"])
+
+    # Let's get going
+
+    for item in folder.children:
+        if not isinstance(item, Place):
+            continue
+
+        place: Place = item
+        imgset = place.foreground_image_set
+        assert imgset is not None
+
+        # This should end with something like .../{feedname}/{uniq_id}/thumb.jpg
+        uniq_id = imgset.thumbnail_url.split("/")[-2]
+        if uniq_id in seen_ids:
+            continue
+
+        # Generate records for the prep file
+
+        fields = OrderedDict()
+        fields["corepipe_id"] = uniq_id
+        fields["cx_handle"] = mgr._config["default_constellations_handle"]
+        fields["prepend_catfile"] = mgr._config["default_prepend_catfile"]
+        fields["copyright"] = mgr._config["default_copyright"]
+        fields["license_id"] = mgr._config["default_license_id"]
+
+        # NOTE: Hardcoding invariant that AstroPix IDs and our IDs are the
+        # same.
+        if uniq_id in astropix_imgids:
+            fields["astropix_id"] = f"{astropix_pubid}|{uniq_id}"
+
+        fields["outgoing_url"] = imgset.credits_url
+
+        text = place.description
+        if not text:
+            text = imgset.description
+        if not text:
+            text = imgset.name
+
+        fields["text"] = text
+        fields["credits"] = imgset.credits
+        fields["wip"] = "yes"
+        prep_items.append(("corepipe_image", fields))
+
+    with open(mgr._path("prep.txt"), "wt", encoding="utf-8") as f:
+        for kind, fields in prep_items:
+            _emit_record(kind, fields, f)
 
 
 # The "fetch" subcommand
@@ -274,6 +393,7 @@ def pipeline_getparser() -> argparse.ArgumentParser:
         )
         return subp
 
+    backfill_setup_parser(subparsers.add_parser("backfill"))
     fetch_setup_parser(subparsers.add_parser("fetch"))
     add_manager_command("ignore-rejects")
     init_setup_parser(subparsers.add_parser("init"))
@@ -291,7 +411,9 @@ def entrypoint():
         print('Run the "pipeline" command with `--help` for help on its subcommands')
         return
 
-    if settings.pipeline_command == "fetch":
+    if settings.pipeline_command == "backfill":
+        backfill_impl(settings)
+    elif settings.pipeline_command == "fetch":
         fetch_impl(settings)
     elif settings.pipeline_command == "ignore-rejects":
         mgr = PipelineManager(settings.workdir)
