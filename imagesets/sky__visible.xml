@@ -32,6 +32,99 @@
     ></ThumbnailUrl>
   </ImageSet>
   <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.19950519227733335"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="83.633083"
+    CenterY="22.0145"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="A New Look at the Crab Nebula"
+    OffsetX="-0.00013885401358158358"
+    OffsetY="0.0010325663224559972"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.29036478519000003"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="//data1.wwtassets.org/feeds/nrao/nrao_gallery_nrao17df04b/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|Gallery_nrao17df04b"
+    Xcorepipe_ids="nrao|nrao_gallery_nrao17df04b"
+    Xcxstatus="in:667eff685235d46484f0904d"
+  >
+    <Credits>G. Dubner (IAFE, CONICET-University of Buenos Aires) et al.; NRAO/AUI/NSF; A. Loll et al.; T. Temim et al.; F. Seward et al.; Chandra/CXC; Spitzer/JPL-Caltech; XMM-Newton/ESA; and Hubble/STScI</Credits>
+    <CreditsUrl>https://public.nrao.edu/?post_type=release=6457</CreditsUrl>
+    <Description>Astronomers produced this dramatic new, highly-detailed image of the Crab Nebula by combining data from telescopes spanning nearly the entire breadth of the electromagnetic spectrum. At its center is a superdense neutron star, rotating once every 33 milliseconds, shooting out rotating lighthouse-like beams of radio waves and light  a pulsar. The nebulas intricate shape is caused by a complex interplay of the pulsar, a fast-moving wind of particles coming from the pulsar, and material originally ejected by the supernova explosion and by the star itself before the explosion. This image combines data from five different telescopes: The VLA (radio) in red; Spitzer Space Telescope (infrared) in yellow; Hubble Space Telescope (visible) in green; XMM-Newton (ultraviolet) in blue; and Chandra X-Ray Observatory (X-ray) in purple.</Description>
+    <ThumbnailUrl>//data1.wwtassets.org/feeds/nrao/nrao_gallery_nrao17df04b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.32603881472"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="19.068567"
+    CenterY="46.740228"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Cosmic Tango of UGC 813"
+    OffsetX="0.0003219825998850317"
+    OffsetY="0.0002726673764398759"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-1.90968313555"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="//data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery021/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery021"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery021"
+    Xcxstatus="in:667eff695235d46484f0904f"
+  >
+    <Credits>(NRAO/AUI/NSF)</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/the-collision-of-ugc-813-and-ugc-816/</CreditsUrl>
+    <Description>The \"Taffy\" galaxies are the results of a collision between two galaxies, UGC 813 (right) and UGC 816 (left). They were normal disk galaxies before they collided face-on at a speed of one million miles per hour about 50 million years ago. The disks of stars and dense clouds of molecular gas passed through each other relatively unharmed and are now separating. Diffuse HI gas clouds were stopped between the galaxies or thrown out in long tails, shown in blue. Disk magnetic fields are anchored by dense molecular clouds and are being stretched like bands of taffy between the galaxies as they separate. This bridge produces the radio continuum emission depicted in red.</Description>
+    <ThumbnailUrl>//data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery021/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="9.7664702561e-05"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="187.046225"
+    CenterY="44.094668"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".jpg"
+    Generic="False"
+    Name="Making Stars in NGC 4449"
+    OffsetX="608.7529734758997"
+    OffsetY="494.8938433351451"
+    Projection="SkyImage"
+    QuadTreeMap=""
+    Rotation="0.02995950936"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="0"
+    Url="//data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery025/image.jpg"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery025"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery025"
+    Xcxstatus="in:667eff6a5235d46484f09051"
+  >
+    <Credits>B. Saxton from data provided by A. Reines, K. Johnson, and M. Goss; NRAO/AUI/NSF</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/making-stars-in-ngc-4449/</CreditsUrl>
+    <Description>Radio imaging with the Very Large Array (VLA) captures newborn massive star clusters as they emerge from their birth material in the galaxy NGC 4449. These \"super star clusters\" contain tens to hundreds of thousands of stars. The young stars produce hot ionized gas which is detectable at radio wavelengths, shown in red here. An image from the Sloan Digital Sky Survey shows the visible starlight in gold.</Description>
+    <ThumbnailUrl>//data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery025/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
     AltUrl="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wtl00{Q}?g=121&amp;band=wwt_rgb"
     BandPass="Visible"
     BaseDegreesPerTile="180"
