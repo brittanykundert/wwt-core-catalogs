@@ -30767,6 +30767,68 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.14638993408"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="24.17375"
+    CenterY="15.78361111111"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 628, PHANGS-ALMA and HST Composite"
+    OffsetX="-0.00015810960255699852"
+    OffsetY="0.0005404467769885423"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.12751418810000004"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery_nrao18cb12d/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery_nrao18cb12d"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery_nrao18cb12d"
+    Xcxstatus="in:667edd5300cff6f79273594e"
+  >
+    <Credits>NRAO/AUI/NSF, B. Saxton: ALMA (ESO/NAOJ/NRAO); NASA/Hubble</Credits>
+    <CreditsUrl>https://public.nrao.edu/news/2019-alma-phangs/</CreditsUrl>
+    <Description>Composite ALMA (orange) and Hubble (blue) image of NGC 628, also known as Messier 74, a spiral galaxy in the constellation Pisces, located approximately 32 million light-years from Earth. It is imaged as part of the PHANGS-ALMA survey to study the properties of star-forming clouds in disk galaxies. </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery_nrao18cb12d/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.00946757632"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="341.5314831393"
+    CenterY="-5.443035455428"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="ALMA Sees Trans-galactic Streamers Feeding Distant Galaxy"
+    OffsetX="0.002889275"
+    OffsetY="0.002889275"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.29308621946"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery_nrao18ch26_fits_highres/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery_nrao18ch26_fits_highres"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery_nrao18ch26_fits_highres"
+    Xcxstatus="in:667edd8f00cff6f792735950"
+  >
+    <Credits>ALMA (ESO/NAOJ/NRAO),T. Díaz-Santos et al.; S. Dagnello (NRAO/AUI/NSF)</Credits>
+    <CreditsUrl>https://public.nrao.edu/news/2018-alma-luminous-streamers/</CreditsUrl>
+    <Description>ALMA image reveals how W2246-0526 is being fed by three companion galaxies through trans-galactic streamers of gas. The main galaxy and one of its companions are in the center. To the lower left is another companion and its large tidal tail that connects it to the main galaxy. The upper left concentration is the third such companion galaxy.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery_nrao18ch26_fits_highres/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.45442598901514364"
     BaseTileLevel="0"
     BottomsUp="False"
