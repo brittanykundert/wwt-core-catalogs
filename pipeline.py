@@ -130,6 +130,10 @@ def backfill_impl(settings):
 
     # Let's get going
 
+    n_tot = 0
+    n_already = 0
+    n_added = 0
+
     for item in folder.children:
         if not isinstance(item, Place):
             continue
@@ -137,10 +141,12 @@ def backfill_impl(settings):
         place: Place = item
         imgset = place.foreground_image_set
         assert imgset is not None
+        n_tot += 1
 
         # This should end with something like .../{feedname}/{uniq_id}/thumb.jpg
         uniq_id = imgset.thumbnail_url.split("/")[-2]
         if uniq_id in seen_ids:
+            n_already += 1
             continue
 
         # Generate records for the prep file
@@ -165,14 +171,20 @@ def backfill_impl(settings):
         if not text:
             text = imgset.name
 
-        fields["text"] = text
+        fields["text"] = " ".join(text.strip().split())
         fields["credits"] = imgset.credits
         fields["wip"] = "yes"
         prep_items.append(("corepipe_image", fields))
+        n_added += 1
 
     with open(mgr._path("prep.txt"), "wt", encoding="utf-8") as f:
         for kind, fields in prep_items:
             _emit_record(kind, fields, f)
+
+    print(f"Processed {n_tot} Place records from the WTML file")
+    print(
+        f"(Re)wrote `{mgr._path('prep.txt')}` with {n_added} new entries; {n_already} already present"
+    )
 
 
 # The "fetch" subcommand

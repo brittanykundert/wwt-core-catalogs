@@ -532,10 +532,12 @@ def _parse_record_file(stream, path):
 
 def _emit_record(kind, fields, stream):
     print(f"\n@{kind}", file=stream)
+    prev_had_blank_line = False
 
     for key, value in fields.items():
         if key in ("text", "credits"):
-            print(file=stream)
+            if not prev_had_blank_line:
+                print(file=stream)
 
             for line in textwrap.wrap(
                 f"{key}> {value}",
@@ -546,8 +548,10 @@ def _emit_record(kind, fields, stream):
                 print(line, file=stream)
 
             print(file=stream)
+            prev_had_blank_line = True
         else:
             print(f"{key}: {value}", file=stream)
+            prev_had_blank_line = False
 
     print("---", file=stream)
 
