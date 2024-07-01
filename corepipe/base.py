@@ -568,13 +568,25 @@ class PipelineManager(object):
                 index_full_path = self._path(wtml_dir, uniq_id, "index.wtml")
 
                 if already_uploaded:
-                    f = Folder.from_file(index_full_path)
+                    try:
+                        f = Folder.from_file(index_full_path)
+                    except FileNotFoundError as e:
+                        raise Exception(
+                            f"found directory `{self._path(wtml_dir, uniq_id)}` but it was missing the `index.wtml`"
+                        ) from e
                     place = f.children[0]
                     imgset = place.foreground_image_set
                 else:
                     # Construct the final WTML information
 
-                    f = Folder.from_file(index_rel_path)
+                    try:
+                        f = Folder.from_file(index_rel_path)
+                    except FileNotFoundError as e:
+                        raise Exception(
+                            f"missing WTML `{self._path('processed', uniq_id, 'index_rel.wtml')}` "
+                            f"or `{self._path('uploaded', uniq_id, 'index.wtml')}` for ID `{uniq_id}`"
+                        ) from e
+
                     place = f.children[0]
                     imgset = place.foreground_image_set
 
