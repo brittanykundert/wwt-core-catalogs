@@ -401,6 +401,28 @@ ra_hr: 9.98706811690639
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2118a/thumb.jpg
 zoom_level: 1.6392738793702921
 ---
+_uuid: 2a6c722f-6a67-4b77-a10f-452c8a4cb038
+classification: ''
+constellation: LEO
+cxstatus: in:6682c5dba0402c750ca6ce9a
+data_set_type: Sky
+dec_deg: 7.8248841750373845
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery027/image.jpg
+name: Seeing the Hidden Truth
+ra_hr: 9.85483904055597
+zoom_level: 1.9545112051200002
+---
+_uuid: 92b76ee0-e2ee-48b9-bf58-eb3121511881
+classification: ''
+constellation: UMA
+cxstatus: in:6682c5dda0402c750ca6cea3
+data_set_type: Sky
+dec_deg: 69.68040616093364
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery030/L{1}X{2}Y{3}.png
+name: M82 As Seen By the GBT
+ra_hr: 9.931092978048696
+zoom_level: 0.33591676319999997
+---
 _uuid: bba976a2-b797-4a13-a1b4-f31d699f5840
 classification: ''
 constellation: UMA

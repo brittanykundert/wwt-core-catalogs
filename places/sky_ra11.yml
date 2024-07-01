@@ -985,6 +985,28 @@ ra_hr: 11.630786661109276
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2103a/thumb.jpg
 zoom_level: 1.4359052629949172
 ---
+_uuid: 4d4fb605-621d-4ecb-a695-43e7ecab0df4
+classification: ''
+constellation: UMA
+cxstatus: in:6682c5e4a0402c750ca6ceb1
+data_set_type: Sky
+dec_deg: 58.5633525403788
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery010/L{1}X{2}Y{3}.png
+name: Arp 299
+ra_hr: 11.475624878489347
+zoom_level: 0.280445110944
+---
+_uuid: c5538668-53b9-4156-b47a-d56b4781070e
+classification: ''
+constellation: LEO
+cxstatus: in:6682c5daa0402c750ca6ce97
+data_set_type: Sky
+dec_deg: 14.788046687888944
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery026/L{1}X{2}Y{3}.png
+name: NGC 3596 Is More than Meets the Eye
+ra_hr: 11.251544499111418
+zoom_level: 0.932890266
+---
 _uuid: ef737c74-1de9-4675-9af7-a0529167aaa7
 classification: ''
 constellation: UMA

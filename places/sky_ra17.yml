@@ -1428,6 +1428,50 @@ ra_hr: 17.833657123627795
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2028c/thumb.jpg
 zoom_level: 0.33398723493574567
 ---
+_uuid: d96fb237-583f-48f8-b735-6fd0904c8525
+classification: ''
+constellation: SGR
+cxstatus: in:6682c5d9a0402c750ca6ce95
+data_set_type: Sky
+dec_deg: -28.825427840975696
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery023/image.jpg
+name: The Center of our Milky Way Galaxy
+ra_hr: 17.77428225982255
+zoom_level: 16.623720836316
+---
+_uuid: d1f4e694-16d6-425b-9faf-3d51a994bb6a
+classification: ''
+constellation: SGR
+cxstatus: in:6682c5d3a0402c750ca6ce87
+data_set_type: Sky
+dec_deg: -29.20932113962307
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery054/L{1}X{2}Y{3}.png
+name: The Center of Our Galaxy
+ra_hr: 17.773808549064846
+zoom_level: 37.264683667368814
+---
+_uuid: f3df68ab-d87f-4265-be65-ccaaf63637a5
+classification: ''
+constellation: SGR
+cxstatus: in:6682c5e1a0402c750ca6ceab
+data_set_type: Sky
+dec_deg: -29.0075832
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery059/L{1}X{2}Y{3}.png
+name: New Evidence For A Jet From Milky Way's Black Hole
+ra_hr: 17.76112128
+zoom_level: 0.20758723351199998
+---
+_uuid: af1eb68a-4759-49c7-8bbf-291df837f8d6
+classification: ''
+constellation: SGR
+cxstatus: in:6682c5e2a0402c750ca6cead
+data_set_type: Sky
+dec_deg: -29.0075832
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery060/L{1}X{2}Y{3}.png
+name: A black hole, in radio and X-ray, at the center of the Milky Way Galaxy
+ra_hr: 17.76112128
+zoom_level: 0.20758723351199998
+---
 _uuid: 0a1c8c5a-d62f-4f8a-9d61-ef7d5860e957
 angular_size: 0.3390428541557621
 classification: Unidentified

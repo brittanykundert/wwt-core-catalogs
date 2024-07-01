@@ -1355,6 +1355,39 @@ ra_hr: 3.5438709119646106
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noaoann16019a/thumb.jpg
 zoom_level: 0.16084322653413122
 ---
+_uuid: a33f458a-d9bf-4f67-85f3-c2dc34584284
+classification: ''
+constellation: FOR
+cxstatus: in:6682c5e7a0402c750ca6ceba
+data_set_type: Sky
+dec_deg: -37.2090214095406
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery011/L{1}X{2}Y{3}.png
+name: Fornax in Blue
+ra_hr: 3.3781768067388223
+zoom_level: 10.206063624192002
+---
+_uuid: dee06b4c-d85c-48c1-86b2-d6d54c8349f4
+classification: ''
+constellation: FOR
+cxstatus: in:6682c5e4a0402c750ca6ceb3
+data_set_type: Sky
+dec_deg: -37.209721665741135
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery053/L{1}X{2}Y{3}.png
+name: Flaming Fornax Galaxy
+ra_hr: 3.3781585236433043
+zoom_level: 10.18518365952
+---
+_uuid: ece8fab1-943f-46dd-bed2-2de65a094d35
+classification: ''
+constellation: FOR
+cxstatus: in:6682c5e6a0402c750ca6ceb8
+data_set_type: Sky
+dec_deg: -37.28126449482492
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery53a/L{1}X{2}Y{3}.png
+name: Famous Fornax Galaxy
+ra_hr: 3.372027396322379
+zoom_level: 11.372503158
+---
 _uuid: e3768d3e-55f9-4289-9ae1-b9620395cc76
 angular_size: 3.2629587138369227
 classification: Unidentified

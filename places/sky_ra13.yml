@@ -1720,6 +1720,28 @@ ra_hr: 13.446946854741915
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/rubin-rubin-stills-0051/thumb.jpg
 zoom_level: 12.232899658617855
 ---
+_uuid: b51c7ccc-26c9-4609-8aea-cf17423952f1
+classification: ''
+constellation: CVN
+cxstatus: in:6682c5d6a0402c750ca6ce8f
+data_set_type: Sky
+dec_deg: 47.19475637517591
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery017/L{1}X{2}Y{3}.png
+name: Arms Wide Open
+ra_hr: 13.497973668964848
+zoom_level: 5.70793826106
+---
+_uuid: 5d628095-373d-43f3-8dfd-d580e8fa0764
+classification: ''
+constellation: CVN
+cxstatus: in:6682c5d7a0402c750ca6ce91
+data_set_type: Sky
+dec_deg: 47.198951455570096
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery018/L{1}X{2}Y{3}.png
+name: Multiwavelength Whirpool
+ra_hr: 13.498005477563243
+zoom_level: 5.607323928
+---
 _uuid: e99659aa-90bd-4a32-9ceb-5a28429149b1
 angular_size: 1.5457488722350439
 classification: Unidentified

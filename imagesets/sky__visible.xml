@@ -30860,6 +30860,849 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="5.43695859375e-06"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="356.18242834439"
+    CenterY="-42.72067075083"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".jpg"
+    Generic="False"
+    Name="Black-Hole-Powered Jets Forge Fuel for Star Formation"
+    OffsetX="753.7406781957723"
+    OffsetY="528.3983983064044"
+    Projection="SkyImage"
+    QuadTreeMap=""
+    Rotation="0.4651751002300001"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="0"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_gallery_nrao17cb01/image.jpg"
+    WidthFactor="2"
+    Xastropix_ids="nrao|Gallery_nrao17cb01"
+    Xcorepipe_ids="nrao|nrao_gallery_nrao17cb01"
+    Xcxstatus="in:6682c5e7a0402c750ca6cebb"
+  >
+    <Credits>ALMA (ESO/NAOJ/NRAO); H.Russell, et al.; NASA/ESA Hubble; NASA/CXC/MIT/M.McDonald et al.; B. Saxton (NRAO/AUI/NSF)</Credits>
+    <CreditsUrl>http://astropix.ipac.caltech.edu/image/nrao/Gallery_nrao17cb01</CreditsUrl>
+    <Description>Composite image showing how powerful radio jets from the supermassive black hole at the center of a galaxy in the Phoenix Cluster inflated huge "bubbles" in the hot, ionized gas surrounding the galaxy (the cavities inside the blue region imaged by NASA's Chandra X-ray observatory). Hugging the outside of these bubbles, ALMA discovered an unexpected trove of cold gas, the fuel for star formation (red). The background image is from the Hubble Space Telescope.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_gallery_nrao17cb01/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="5.43695859375e-06"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="356.18242834439"
+    CenterY="-42.72067075083"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".jpg"
+    Generic="False"
+    Name="ALMA Sees Into the Heart of the Phoenix Cluster"
+    OffsetX="753.7406781957723"
+    OffsetY="528.3983983064044"
+    Projection="SkyImage"
+    QuadTreeMap=""
+    Rotation="0.4651751002300001"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="0"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_gallery_nrao17cb01b/image.jpg"
+    WidthFactor="2"
+    Xastropix_ids="nrao|Gallery_nrao17cb01b"
+    Xcorepipe_ids="nrao|nrao_gallery_nrao17cb01b"
+    Xcxstatus="in:6682c5e8a0402c750ca6cebd"
+  >
+    <Credits>ALMA (ESO/NAOJ/NRAO), H. Russell et al.; B. Saxton (NRAO/AUI/NSF) </Credits>
+    <CreditsUrl>http://astropix.ipac.caltech.edu/image/nrao/Gallery_nrao17cb01b</CreditsUrl>
+    <Description>ALMA image of cold molecular gas at the heart of the Phoenix Cluster. The filaments extending from the center hug enormous radio bubbles created by jets from a supermassive black hole. This discovery sheds light on the complex relationship between a supermassive black hole and its host galaxy.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_gallery_nrao17cb01b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.020931349262122e-05"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="83.808804"
+    CenterY="-5.372981"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".jpg"
+    Generic="False"
+    Name="ALMA Captures Explosive Star Birth"
+    OffsetX="927.7735728706302"
+    OffsetY="639.1080642445417"
+    Projection="SkyImage"
+    QuadTreeMap=""
+    Rotation="-0.10233270885000001"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="0"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_gallery_nrao17cb07/image.jpg"
+    WidthFactor="2"
+    Xastropix_ids="nrao|Gallery_nrao17cb07"
+    Xcorepipe_ids="nrao|nrao_gallery_nrao17cb07"
+    Xcxstatus="in:6682c5d1a0402c750ca6ce84"
+  >
+    <Credits>(NRAO/AUI/NSF)</Credits>
+    <CreditsUrl>https://public.nrao.edu/?post_type=release=5893</CreditsUrl>
+    <Description>Composite image of the OMC-1 cloud in Orion showing the sometimes explosive nature of star birth, when several young stars were ejected from the region. The colors in the ALMA data represent the relative Doppler shifting of the millimeter-wavelength light emitted by carbon monoxide gas. The ALMA image is combined with a near infrared image from the Gemini South telescope showing shock waves produced by the explosion.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_gallery_nrao17cb07/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.05682855936"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="11.90173565"
+    CenterY="-25.2797338"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="ALMA Sees Super Stellar Nurseries at Heart of Sculptor Galaxy"
+    OffsetX="0.012256547712625823"
+    OffsetY="-0.008494853723980842"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.07746135478"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery007/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery007"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery007"
+    Xcxstatus="in:6682c5d4a0402c750ca6ce8a"
+  >
+    <Credits>B. Saxton (NRAO/AUI/NSF); ALMA (NRAO/ESO/NAOJ); A. Leroy; STScI/NASA, ST-ECF/ESA, CADC/NRC/CSA</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/alma-sees-super-stellar-nurseries-at-heart-of-sculptor-galaxy/</CreditsUrl>
+    <Description>What is the recipe for starburst? Astronomers studied NGC 253 with ALMA to find out. These new ALMA data reveal a diffuse envelope of carbon monoxide gas (shown in red), which surrounds stellar nurseries -- regions of active star formation (in yellow). By dissecting these regions with ALMA, astronomers are uncovering clues to the processes and conditions that drive furious star formation. The ALMA data are superimposed on a Hubble image that covers part of the same region.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery007/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.05682855936"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="11.90173565"
+    CenterY="-25.2797338"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="ALMA Sees Starbursting Clouds Inside NGC 253"
+    OffsetX="0.012256547712625823"
+    OffsetY="-0.008494853723980842"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.07746135478"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery009/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery009"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery009"
+    Xcxstatus="in:6682c5e5a0402c750ca6ceb5"
+  >
+    <Credits>B. Saxton (NRAO/AUI/NSF); ALMA (NRAO/ESO/NAOJ); A. Leroy</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/alma-sees-starbursting-clouds-inside-ngc-253/</CreditsUrl>
+    <Description>ALMA image of starbursting clouds inside NGC 253. The red region is the lower density CO gas surrounding higher density star-forming regions in yellow.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery009/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.04483198976"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="172.131540299"
+    CenterY="58.5671271978"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Arp 299"
+    OffsetX="-0.0010927753306251562"
+    OffsetY="-0.0041516696941594575"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.19094137545"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery010/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery010"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery010"
+    Xcxstatus="in:6682c5e3a0402c750ca6ceb0"
+  >
+    <Credits>B. Saxton from data provided by J. Ulvestad, S. Neff  S. Teng; NRAO/AUI/NSF and NASA/ESA HST</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/arp-299-2/</CreditsUrl>
+    <Description>This colliding pair of galaxies is a region of vigorous star formation which has been investigated for many years. Since 1990, four supernova explosions have been seen optically in Arp 299. Observations with the Very Large Array (VLA) showed a region near the nucleus of one of the colliding galaxies which had all the earmarks of prolific star formation. Observations with the Very Long Baseline Array (VLBA) and the Green Bank Telescope (GBT) in 2002 and 2003 led to the discovery of 5 supernovae concentrated in this region. In this image, the radio data (in pink) have been merged with a visible light image of the pair from the Hubble Space Telescope.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery010/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.3661449870813867"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="50.674038"
+    CenterY="-37.208316"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Fornax in Blue"
+    OffsetX="0.0011046570115811837"
+    OffsetY="-0.000704040326666772"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.0714648185"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery011/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery011"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery011"
+    Xcxstatus="in:6682c5e6a0402c750ca6ceb9"
+  >
+    <Credits>(NRAO/AUI/NSF)</Credits>
+    <CreditsUrl>http://astropix.ipac.caltech.edu/image/nrao/NRAO_Gallery011</CreditsUrl>
+    <Description>Radio waves are invisible to our eyes, therefore, they do not arrive in any \"color\" that we\'ve ever known. When we take our data and plot it, our artists can assign any color they please to the results. In this image of the famous Fornax radio galaxy, our artist tried a blue coloring for the enormous lobes of gas this galaxy\'s black hole sprays out.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery011/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.9546559488"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="202.469575"
+    CenterY="47.195258"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Arms Wide Open"
+    OffsetX="-2.1807105867594252e-05"
+    OffsetY="-0.000501565972234884"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.15973822921"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery017/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery017"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery017"
+    Xcxstatus="in:6682c5d6a0402c750ca6ce8e"
+  >
+    <Credits>B. Saxton (NRAO/AUI/NSF) with data provided by J. HIbbard</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/arms-wide-open/</CreditsUrl>
+    <Description>In this composite image of the Whirlpool Galaxy, the Very Large Array has captured the vastness of this colliding pair like no other telescope can. In white is how the galaxies appear to optical telescopes: one giant spiral galaxy with a smaller one hanging off an arm. The VLA sees a much bigger picture. Colored blue are the cast-off gases that were once the outer spiral arms of these galaxies. They\'ve been yanked apart and left when the smaller galaxy passed by.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery017/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.75057512448"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="202.469575"
+    CenterY="47.195258"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Multiwavelength Whirpool"
+    OffsetX="-0.0003484948318415519"
+    OffsetY="0.0036930907308609265"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.060506340310000004"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery018/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery018"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery018"
+    Xcxstatus="in:6682c5d7a0402c750ca6ce90"
+  >
+    <Credits>B. Saxton, (NRAO/AUI/NSF) from data provided by J. Hibbard</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/multiwavelength-whirpool/</CreditsUrl>
+    <Description>In this composite image of the Whirlpool Galaxy, the Very Large Array has captured the vastness of this colliding pair like no other telescope can. In white is how the galaxies appear to optical telescopes: one giant spiral galaxy with a smaller one hanging off an arm. The VLA sees a much bigger picture. Colored blue are the cast-off gases that were once the outer spiral arms of these galaxies. In red are the areas where new stars are being born.
+
+</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery018/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.127842944925696"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="107.843917"
+    CenterY="71.836372"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Warped Disk of Galaxy UGC 3697"
+    OffsetX="0.0022114228723502352"
+    OffsetY="0.00042737243250091326"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.77153819086"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery020/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery020"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery020"
+    Xcxstatus="in:6682c5d8a0402c750ca6ce92"
+  >
+    <Credits>NRAO/AUI/NSF</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/warped-disk-of-galaxy-ugc-3697-2/</CreditsUrl>
+    <Description>The \"Integral Sign\'\' galaxy, UGC 3697 is an edge-on spiral galaxy with an unusually pronounced warp in both its stellar and gaseous disks. The neutral Hydrogen gas, represented in blue, is overlaid on an optical image of the stars of the galaxy. Unlike in normal spiral galaxies, the brightest concentration of neutral Hydrogen is not found near the center of UGC 3697 but along its western edge, where the Very Large Array (VLA) has detected a bright, extended region of emission. In addition, plumes of gas extend to considerable height above and below the disk of the galaxy.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery020/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.00194716434"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="266.41666666667"
+    CenterY="-29.0075"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".jpg"
+    Generic="False"
+    Name="The Center of our Milky Way Galaxy"
+    OffsetX="509.58628386786"
+    OffsetY="418.70452769382"
+    Projection="SkyImage"
+    QuadTreeMap=""
+    Rotation="-1.36071898692"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="0"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery023/image.jpg"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery023"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery023"
+    Xcxstatus="in:6682c5d8a0402c750ca6ce94"
+  >
+    <Credits>Composite by B. Saxton using data from N.E. Kassim, T.J.W. Lazio, T.N. Larosa, D.S. Briggs; NRAO/AUI/NSF</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/the-center-of-our-milky-way-galaxy/</CreditsUrl>
+    <Description>Through the layers of dust that shroud the center of our galaxy from optical telescopes lurks a complex hub of activity. In this wide field Very Large Array (VLA) image, the supermassive black hole in the center of our Galaxy shines brightly in radio waves. Surrounding it are the winds and rivers of material caught in its gravitiational and magnetic wakes. Bubbles of star-formation and supernovas scatter around.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery023/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.1783902208"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="168.775925"
+    CenterY="14.787125"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 3596 Is More than Meets the Eye"
+    OffsetX="0.0026694635739072485"
+    OffsetY="0.0009121368307894522"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.20547605746999997"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery026/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery026"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery026"
+    Xcxstatus="in:6682c5d9a0402c750ca6ce96"
+  >
+    <Credits>T. Burchell and B. Saxton (NRAO/AUI/NSF) from data provided by A. C. Boley and L. van Zee, Indiana University; D. Schade and S. Côté, Herzberg Institute for Astrophysics</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/ngc-3596-is-more-than-meets-the-eye/</CreditsUrl>
+    <Description>This gorgeous face-on spiral galaxy is called NGC 3596. This image combines Hydrogen-alpha emission (red), visible light in the R-band (white), and neutral hydrogen 21cm gas emission (blue) from the Very Large Array (VLA). What you see when you combine the invisible waves with visible ones is the enormous shroud of gas surrounding this galaxy. Mature stars twinkle in white, new stars shine their nursery clouds in reds, and the gas for future stars glows in blue.           </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery026/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="9.980143e-05"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="147.821838"
+    CenterY="7.82557"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".jpg"
+    Generic="False"
+    Name="Seeing the Hidden Truth"
+    OffsetX="967.46692512901"
+    OffsetY="950.32218555783"
+    Projection="SkyImage"
+    QuadTreeMap=""
+    Rotation="0.3825545348800001"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="0"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery027/image.jpg"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery027"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery027"
+    Xcxstatus="in:6682c5daa0402c750ca6ce98"
+  >
+    <Credits>B. Saxton from data provided by Van Zee, NOAO, NRAO/AUI/NSF</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/seeing-the-hidden-truth/</CreditsUrl>
+    <Description>Dwarf galaxy UGC 5288 is 16 million light-years from Earth (seen here in pink). The Very Large Array (VLA) found that it is surrounded by a huge disk of hydrogen gas (purple) that has not been involved in the galaxy\'s star-formation processes and may be primordial material left over from the galaxy\'s formation.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery027/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.05812989952"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="180.47218194889"
+    CenterY="-18.87326742778"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="ALMA First Image"
+    OffsetX="-0.00036076520867580253"
+    OffsetY="-0.0020793992520092967"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.18533004443"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery028/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery028"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery028"
+    Xcxstatus="in:6682c5dba0402c750ca6ce9b"
+  >
+    <Credits>B. Saxton (NRAO/AUI/NSF) with data provided by ALMA (ESO/NAOJ/NAOJ) and NASA/ESA</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/alma-first-image/</CreditsUrl>
+    <Description>In this composite image of the merging cores of the Antennae Galaxies, optical (white and pink), radio (blue) and millimeter/submillimeter (orange and gold) overlay to show us the history and future of star formation. The optical image shows stars that are shining now. The radio shows gas that is probably too thin to become stars. And the mm/submm shows all the places where new stars will someday form.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery028/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.05620568064"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="148.95892804925"
+    CenterY="69.68010304569"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M82 As Seen By the GBT"
+    OffsetX="-0.002592933440628824"
+    OffsetY="0.00030240386278668885"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.0192205353"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery030/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery030"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery030"
+    Xcxstatus="in:6682c5dda0402c750ca6cea2"
+  >
+    <Credits>Bill Saxton (NRAO/AUI/NSF); HST (NASA/ESA)</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/m82-as-seen-by-the-gbt/</CreditsUrl>
+    <Description>This composite image of starburst galaxy M82 shows the distribution of dense molecular gas as seen by the GBT (yellow and red) and the background stars and dust as seen by Hubble (blue). The yellow areas correspond to regions of intense star formation. The red areas trace outflows of gas from the disk of the galaxy.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery030/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.27473055744"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="308.71805"
+    CenterY="60.153678"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="A River of Hydrogen"
+    OffsetX="2.02847850138027e-06"
+    OffsetY="0.0003255315702848449"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.0004744673900000001"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery032/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery032"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery032"
+    Xcxstatus="in:6682c5dea0402c750ca6cea4"
+  >
+    <Credits>D.J. Pisano (WVU); B. Saxton (NRAO/AUI/NSF); Palomar Observatory – Space Telescope Science Institute 2nd Digital Sky Survey (Caltech); Westerbork Synthesis Radio Telescope</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/a-river-of-hydrogen/</CreditsUrl>
+    <Description>This composite image contains three distinct features: the bright star-filled central region of galaxy NGC 6946 in optical light (blue), the dense hydrogen tracing out the galaxys sweeping spiral arms and galactic halo (orange), and the extremely diffuse and extended field of hydrogen engulfing NGC 6946 and its companions (red). The new GBT data show the faintly glowing hydrogen bridging the gulf between the larger galaxy and its smaller companions. This faint structure is precisely what astronomers expect to appear as hydrogen flows from the intergalactic medium into galaxies or from a past encounter between galaxies.
+
+</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery032/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="6.419637e-05"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="83.632043"
+    CenterY="22.0145"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".jpg"
+    Generic="False"
+    Name="Crab Nebula"
+    OffsetX="981.27555454413"
+    OffsetY="740.62324385137"
+    Projection="SkyImage"
+    QuadTreeMap=""
+    Rotation="-1.1562501444"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="0"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery047/image.jpg"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery047"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery047"
+    Xcxstatus="in:6682c5dfa0402c750ca6cea6"
+  >
+    <Credits>M. Bietenholz, T. Burchell NRAO/AUI/NSF; B. Schoening/NOAO/AURA/NSF</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/crab-nebula/</CreditsUrl>
+    <Description>The Crab Nebula, located in the constellation of Taurus, is the remnant of a star that exploded in 1054 AD. The nebula is roughly 10 light-years across, and it is at a distance of about 6,000 light years from earth. It is presently expanding at about 1000 km per second. The supernova explosion left behind a rapidly spinning neutron star, or a pulsar (not discernible in this image). The present remnant is formed from both the material originally thrown off by the star in the supernova explosion, and from a highly energetic wind from the pulsar. It is this wind which energizes the nebula, and causes it to emit the radio waves (purple, blue, green). Gases glow so brightly that they can be seen optically as well (red).
+
+</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery047/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.1556217856"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="126.432208"
+    CenterY="-51.008083"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Powerful Jets of Young Stars"
+    OffsetX="0.003402204374717685"
+    OffsetY="-0.010785266985873794"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-2.84359335676"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery048/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery048"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery048"
+    Xcxstatus="in:6682c5e0a0402c750ca6cea8"
+  >
+    <Credits>NRAO/AUI/NSF</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/powerful-jets-of-young-stars/</CreditsUrl>
+    <Description>Inside a gigantic cloud of dark molecules and gas is a pair of young stars known as HH46/47. One of these stars is going through a normal but violent phase where its magnetic poles act like railways to channel charged particles away from the star. ALMA observed tons of molecules traveling out of this star along these jets at superfast speeds. These outflows eventually distort and help clear away the cloud from around the star. In this false-color image from ALMA, blue shows jet material heading toward us and red marks the jet particles speeding in the opposite direction.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery048/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.51721009152"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="83.83228302"
+    CenterY="-5.05377817154"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Pebble-Size Particles May Jump-Start Planet Formation"
+    OffsetX="0.00014220828578434322"
+    OffsetY="0.00022898188743381554"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.0005563881499999999"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery051/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery051"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery051"
+    Xcxstatus="in:6682c5e2a0402c750ca6ceae"
+  >
+    <Credits>S. Schnee, et al.; B. Saxton, B. Kent (NRAO/AUI/NSF); We acknowledge the use of NASA's SkyView Facility located at NASA Goddard Space Flight Center.</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/pebble-size-particles-may-jump-start-planet-formation/</CreditsUrl>
+    <Description>Radio/optical composite of the Orion Molecular Cloud Complex showing the OMC-2/3 star-forming filament. GBT data is shown in orange. Uncommonly large dust grains there may kick-start planet formation.
+
+</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery051/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.3633500741632"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="50.674038"
+    CenterY="-37.208316"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Flaming Fornax Galaxy"
+    OffsetX="0.0013209249165507173"
+    OffsetY="-0.0014068616083764839"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.05134437963999999"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery053/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery053"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery053"
+    Xcxstatus="in:6682c5e4a0402c750ca6ceb2"
+  >
+    <Credits>(NRAO/AUI/NSF)</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/flaming-fornax-galaxy/</CreditsUrl>
+    <Description>Radio waves are invisible to our eyes, therefore, they do not arrive in any \"color\" that we\'ve ever known. When we take our data and plot it, our artists can assign any color they please to the results. In this image of the famous Fornax radio galaxy, our artist tried a flaming orange coloring for the enormous lobes of gas this galaxy\'s black hole sprays out.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery053/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="7.022209231675392"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="266.44166666667"
+    CenterY="-28.94611111111"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="The Center of Our Galaxy"
+    OffsetX="-0.3116087053968924"
+    OffsetY="-0.09614235414787285"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.006606589929999999"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery054/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery054"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery054"
+    Xcxstatus="in:6682c5d2a0402c750ca6ce86"
+  >
+    <Credits>B. Saxton, NRAO/AUI/NSF from data provided by N.E. Kassim, Naval Research Laboratory</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/the-center-of-our-galaxy-2/</CreditsUrl>
+    <Description>The Very Large Array (VLA) was used to make the largest and most sensitive radio image of the Milky Way Galaxy\'s center. The bright diagonal features trace our Galaxys disk-like shape viewed edge-on. The brightest source is called Sagittarius A. (The Galaxy\'s center lies toward the constellation Sagittarius, or Sgr.) Deep within Sgr A is Sgr A*, a black hole with a mass millions of times that of the Sun. Hot young stars heat the gas around them in bright, round blobs. Massive supernovae explosions leave bubble-shaped remnants. Spiraling or synchrotron radiation seems makes a collection of strange, thread-like structures. Their emission, orientation, and structure provide important clues about the energetics and large-scale magnetic field structure here.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery054/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="4.355009000013e-05"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="252.78964944833"
+    CenterY="4.99807990833"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".jpg"
+    Generic="False"
+    Name="Hercules A"
+    OffsetX="599.96674831577"
+    OffsetY="627.0843634682"
+    Projection="SkyImage"
+    QuadTreeMap=""
+    Rotation="35.45571474685"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="0"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery058/image.jpg"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery058"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery058"
+    Xcxstatus="in:6682c5dca0402c750ca6ce9f"
+  >
+    <Credits>NASA, ESA, S. Baum and C. O'Dea (RIT), R. Perley and W. Cotton (NRAO/AUI/NSF), and the Hubble Heritage Team (STScI/AURA)</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/hercules-a/</CreditsUrl>
+    <Description>The Very Large Array sees fountains of hot gas erupting from a beastly black hole in the heart of a large galaxy known to radio astronomers as Hercules A. For millions of trillions of miles, these jets shoot through space, finally slowing when they reach ancient gaseous hiccups left behind by this galaxys earliest days of star-forming fury.
+
+</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery058/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.0231557001216"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="266.4168192"
+    CenterY="-29.0075832"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="New Evidence For A Jet From Milky Way's Black Hole"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.06999996409148757"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery059/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery059"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery059"
+    Xcxstatus="in:6682c5e0a0402c750ca6ceaa"
+  >
+    <Credits>X-ray: NASA/CXC/UCLA/Z.Li et al; Radio: NRAO/VLA</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/the-supermassive-black-hole-at-the-center-of-the-milky-way/</CreditsUrl>
+    <Description>New evidence has been uncovered for the presence of a jet of high-energy particles blasting out of the Milky Way\'s supermassive black hole known as Sagittarius A* (Sgr A*). This image of Sgr A* and the region around it contains some of the data used in the study, with X-rays from Chandra (purple) and radio emission from the Very Large Array (blue). Jets of high-energy particles are found throughout the Universe on large and small scales. The likely discovery of a jet from Sgr A* helps astronomers learn more about the giant black hole, including how it is spinning.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery059/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.0231557001216"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="266.4168192"
+    CenterY="-29.0075832"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="A black hole, in radio and X-ray, at the center of the Milky Way Galaxy"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.06999996409148757"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery060/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery060"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery060"
+    Xcxstatus="in:6682c5e1a0402c750ca6ceac"
+  >
+    <Credits>X-ray: NASA/CXC/UCLA/Z.Li et al; Radio: NRAO/VLA</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/the-supermassive-black-hole-at-the-center-of-the-milky-way-2/</CreditsUrl>
+    <Description>New evidence has been uncovered for the presence of a jet of high-energy particles blasting out of the Milky Way\'s supermassive black hole known as Sagittarius A* (Sgr A*). This image of Sgr A* and the region around it contains some of the data used in the study, with X-rays from Chandra (purple) and radio emission from the Very Large Array (blue). Jets of high-energy particles are found throughout the Universe on large and small scales. The likely discovery of a jet from Sgr A* helps astronomers learn more about the giant black hole, including how it is spinning.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery060/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="7.74576e-06"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="41.5884277497"
+    CenterY="-30.26260489316"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".jpg"
+    Generic="False"
+    Name="Black Hole in NGC 1097"
+    OffsetX="-168.76488644731"
+    OffsetY="2472.01883465121"
+    Projection="SkyImage"
+    QuadTreeMap=""
+    Rotation="-0.07422564461000002"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="0"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery075/image.jpg"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery075"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery075"
+    Xcxstatus="in:6682c5d3a0402c750ca6ce88"
+  >
+    <Credits>ALMA (NRAO/ESO/NAOJ), K. Onishi; NASA/ESA Hubble Space Telescope, E. Sturdivant; B. Saxton (NRAO/AUI/NSF)</Credits>
+    <CreditsUrl>https://public.nrao.edu/news/alma-weigh-black-hole/</CreditsUrl>
+    <Description>Composite image of the barred spiral galaxy NGC 1097. By studying the motion of two molecules, ALMA was able to determine that the supermassive black hole at the galactic center has a mass 140 million times greater than our Sun. The ALMA data is in red (HCO+) and green/orange (HCN) superimposed on an optical image taken by the Hubble Space Telescope.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery075/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.00097502366"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="23.4621"
+    CenterY="30.659942"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".jpg"
+    Generic="False"
+    Name="Old Lace"
+    OffsetX="1022.47417655856"
+    OffsetY="1024.72495964168"
+    Projection="SkyImage"
+    QuadTreeMap=""
+    Rotation="0.04206174262"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="0"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery151/image.jpg"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery151"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery151"
+    Xcxstatus="in:6682c5d5a0402c750ca6ce8c"
+  >
+    <Credits>B. Saxton, NRAO/AUI/NSF using data provided by T. Rector, NOAO/AURA/NSF</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/old-lace/</CreditsUrl>
+    <Description>In this combined optical and radio image, the faint galaxy in the constellation Triangulum looks like lace hanging in the sky. Also known as M33, the Triangulum Galaxy is part of the Local Group of galaxies, which includes the Andromeda Galaxy and our galaxy, the Milky Way. M33 is over thirty thousand light years across, and more than two million light years away. The optical data in this image (white) show the many stars within the galaxy as well as reddish star forming regions that are filled with hot Hydrogen gas. The radio data (colored pink) from the Very Large Array (VLA) reveal the cool Hydrogen gas within the galaxy, gas which cannot be seen with an optical telescope. Combined together, the radio and optical give a more comprehensive view of star formation in this galaxy.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery151/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="1.52228016128"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="50.673895"
+    CenterY="-37.208204"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Famous Fornax Galaxy"
+    OffsetX="0.0004560551262032028"
+    OffsetY="0.00014526123440727426"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.26576365885000003"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery53a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="nrao|NRAO_Gallery53a"
+    Xcorepipe_ids="nrao|nrao_nrao_gallery53a"
+    Xcxstatus="in:6682c5e6a0402c750ca6ceb7"
+  >
+    <Credits>NRAO/AUI/NSF</Credits>
+    <CreditsUrl>https://public.nrao.edu/news/observatory-sponsoring-astronomical-image-contest/</CreditsUrl>
+    <Description>Fornax A is a galaxy with a very active black hole in its core that is spraying radio waves out into enormous jets. Here, the white glow in the center is the visible galaxy NGC 1316 that you can see through the constellation of Fornax. Notice the wee spiral galaxy above it? These two galaxies are merging, and as gas and dust are stripped out of the small galaxy and poured into the center of NGC 1316, the black hole nestled there spins it up. How do we know this? The huge radio lobes to either side of this merger are the telltale signs that a black hole is being fed more than it can handle. These are the billowing ends of powerful jets shooting out spun-up, escaped material far into space.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery53a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.14638993408"
     BaseTileLevel="0"
     BottomsUp="False"
