@@ -1,9 +1,10 @@
 # wwt-core-catalogs
 
-The purpose of this repository is to manage the image data comprising WWT's
-core data holdings. Two major applications are maintenance of the WWT
-"legacy" WTML/XML metadata files, and automating the ingestion of the core
-data in the Constellations system.
+The purpose of this repository is to manage the image data comprising WWT's core
+data holdings. Three major applications are maintenance of the WWT "legacy"
+WTML/XML metadata files, automating the ingestion of the core data in the
+Constellations system, and automating the ingestion of new content that's not
+yet in Constellations *or* the legacy system.
 
 Python package requirements of note:
 
@@ -103,9 +104,9 @@ curl -fsSL "https://www.astropix.org/link/39po?format=json" -o astropix/all.json
 database: "publisher ID is not adsdadasdasdas", basically.)
 
 
-## Driver
+## Main Driver
 
-Operations are driven from the script `./cattool.py`, which has as Git-like
+Most operations are driven from the script `./cattool.py`, which has as Git-like
 subcommand interface.
 
 
@@ -360,6 +361,74 @@ A specialized utility for emitting a WTML file containing records based on a
 create an input that can be used with the WWT Constellations `update_handle.py`
 script to gradually import data from the core corpus into the Constellations
 system.
+
+
+## Data Ingest Pipeline
+
+Steps to ingest new data are driven from the script `./pipeline.py`, which also
+has as Git-like subcommand interface. It is derived from the [Toasty Pipeline]
+framework but adds in elements from the `cxprep` framework as well. Note that
+this framework is intended for *new* images that haven’t yet been ingested into
+the local databases (e.g., `imagesets` and `places`); for ones that have been,
+use the `cxprep` framework.
+
+[Toasty Pipeline]: https://toasty.readthedocs.io/en/latest/pipeline.html
+
+To prepare to run the pipeline, do the following:
+
+1. Make sure that you've downloaded the AstroPix database, as describe in
+   [Approach: AstroPix](#approach-astropix).
+2. Change to a sub-directory in the `feeds` directory, e.g., `feeds/hst`.
+3. Ensure that a `corepipe-storage.yaml` file exists there. This has the same
+   format as the `toasty-store-config.yaml` file created by the [`toasty
+   pipeline init`] command — you can just copy an existing file from the Toasty
+   framework into this one.
+4. Possibly run the `pipeline backfill` command, described below, to backfill
+   data from the Toasty pipeline framework.
+
+Once you're prepared, the pipeline steps are as follows:
+
+- The `../../pipeline.py refresh` command downloads information about images that
+  could be processed.
+- The `../../pipeline.py fetch <IDS...>` command selects specific images for
+  processing, downloading their data.
+- The `../../pipeline.py process-todos` command tiles all images that have been
+  fetched, and inserts their information into the `prep.txt` information file
+  associated with the feed.
+- At this point, you can review tiled images and edit their metadata in the
+  `prep.txt` file. When an image is ready to publish, remove the `wip: yes`
+  statement from its record in the `prep.txt` file.
+- The `../../pipeline.py upload` processes all images that have been marked as
+  ready (not `wip`) in the `prep.txt` file. It updates the WTML files based on
+  any edits to `prep.txt`; uploads the associated data to the cloud; register
+  the images with Constellations *in the unpublished state*; and also adds them
+  to the `imagesets` and `places` databases. After uploading, you should `git
+  commit` the local database updates and push your changes.
+- Finally, for all new scenes that are uploaded to Constellations, you should
+  review their display in the Constellations UI and mark them as "Published" to
+  make them publicly visible once they’re ready.
+
+[`toasty pipeline init`]: https://toasty.readthedocs.io/en/latest/cli/pipeline-init.html
+
+
+### `pipeline backfill <WTML-FILE>`
+
+This command is intended to help backfill data into this ingest pipeline from
+a preexisting setup for the [Toasty Pipeline].
+
+The argument should be a single merged WTML file that contains information about
+*all* of the images currently being worked on as part of a Toasty Pipeline
+session. This could be generated with something like [`wwtdatatool wtml merge`].
+
+This command will process that file and use it to generate the `prep.txt` file
+that drives the publication process. The unique IDs of the images are inferred
+from the thumbnail image URL associated with each imageset.
+
+[`wwtdatatool wtml merge`]: https://wwt-data-formats.readthedocs.io/en/latest/cli/wtml-merge.html
+
+Once you have done this, you need to copy the Toasty Pipeline `processed` and/or
+`uploaded` directories into the relevant feed directory here. The format of the
+files in those directories is identical to the Toasty Pipeline framework.
 
 
 ## See also

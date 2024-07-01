@@ -1720,6 +1720,28 @@ ra_hr: 13.446946854741915
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/rubin-rubin-stills-0051/thumb.jpg
 zoom_level: 12.232899658617855
 ---
+_uuid: b51c7ccc-26c9-4609-8aea-cf17423952f1
+classification: ''
+constellation: CVN
+cxstatus: in:6682c5d6a0402c750ca6ce8f
+data_set_type: Sky
+dec_deg: 47.19475637517591
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery017/L{1}X{2}Y{3}.png
+name: Arms Wide Open
+ra_hr: 13.497973668964848
+zoom_level: 5.70793826106
+---
+_uuid: 5d628095-373d-43f3-8dfd-d580e8fa0764
+classification: ''
+constellation: CVN
+cxstatus: in:6682c5d7a0402c750ca6ce91
+data_set_type: Sky
+dec_deg: 47.198951455570096
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery018/L{1}X{2}Y{3}.png
+name: Multiwavelength Whirpool
+ra_hr: 13.498005477563243
+zoom_level: 5.607323928
+---
 _uuid: e99659aa-90bd-4a32-9ceb-5a28429149b1
 angular_size: 1.5457488722350439
 classification: Unidentified
@@ -2849,28 +2871,6 @@ ra_hr: 13.1916486484
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0805g.jpg
 zoom_level: 0.0188234018325299
 ---
-_uuid: 494bfb7c-6b6c-4321-b469-bc4f31af92c7
-classification: ''
-constellation: CEN
-data_set_type: Sky
-dec_deg: -47.4736753534
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0809aL{1}X{2}Y{3}.png
-name: NGC 5139
-ra_hr: 13.4461864240667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0809a.jpg
-zoom_level: 0.91190781820928
----
-_uuid: 0588ffe2-f8d0-4d96-b8df-9610c55b2530
-classification: ''
-constellation: CEN
-data_set_type: Sky
-dec_deg: -47.5181395188
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0809bL{1}X{2}Y{3}.png
-name: NGC 5139
-ra_hr: 13.4530627921333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0809b.jpg
-zoom_level: 37.1452876961874
----
 _uuid: a5b66c2d-424a-42ab-98e4-8d3bf70afdae
 classification: ''
 constellation: UMA
@@ -3013,17 +3013,6 @@ name: Abell 1656
 ra_hr: 13.0396145707333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0901c.jpg
 zoom_level: 18.3339208461517
----
-_uuid: 81185951-ebed-49bc-8711-bda31822239d
-classification: ''
-constellation: CEN
-data_set_type: Sky
-dec_deg: -47.4924065
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0910gL{1}X{2}Y{3}.png
-name: NGC 5139
-ra_hr: 13.4471006866667
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0910g.jpg
-zoom_level: 0.113984544768
 ---
 _uuid: f3ad9d5e-86f8-4347-b666-d32a8919bb33
 classification: ''

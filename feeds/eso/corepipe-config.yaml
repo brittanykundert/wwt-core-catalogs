@@ -1,0 +1,11 @@
+feed_id: eso
+source_type: djangoplicity
+default_copyright: Copyright European Southern Observatory
+default_license_id: CC-BY-4.0
+default_constellations_handle: eso
+default_prepend_catfile: eso
+publish_url_prefix: http://data1.wwtassets.org/feeds/eso/
+astropix_publisher_id: eso
+
+djangoplicity:
+  base_url: https://eso.org/public/images/

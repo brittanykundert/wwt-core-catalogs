@@ -1,0 +1,11 @@
+feed_id: nrao
+source_type: astropix
+default_copyright: Copyright NRAO/AUI/NSF
+default_license_id: CC-BY-3.0
+default_constellations_handle: nrao
+default_prepend_catfile: studiesradio
+publish_url_prefix: http://data1.wwtassets.org/feeds/nrao/
+astropix_publisher_id: nrao
+
+astropix:
+  json_query_url: https://www.astropix.org/link/c60?format=json

@@ -1108,6 +1108,28 @@ ra_hr: 0.7235597660493681
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2104d/thumb.jpg
 zoom_level: 0.37995809510556
 ---
+_uuid: 2f7f0253-c86f-4498-b58c-75ff3f77b57d
+classification: ''
+constellation: SCL
+cxstatus: in:6682c5d5a0402c750ca6ce8b
+data_set_type: Sky
+dec_deg: -25.287955156107838
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery007/L{1}X{2}Y{3}.png
+name: ALMA Sees Super Stellar Nurseries at Heart of Sculptor Galaxy
+ra_hr: 0.7925634450734829
+zoom_level: 0.301288483728
+---
+_uuid: 47fc238a-dbf1-4323-8c54-89f7706a5760
+classification: ''
+constellation: SCL
+cxstatus: in:6682c5e5a0402c750ca6ceb6
+data_set_type: Sky
+dec_deg: -25.287955156107838
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery009/L{1}X{2}Y{3}.png
+name: ALMA Sees Starbursting Clouds Inside NGC 253
+ra_hr: 0.7925634450734829
+zoom_level: 0.301288483728
+---
 _uuid: 779900dd-9245-45b5-a45a-47d3dc58bf6c
 angular_size: 0.46564438345368786
 classification: Unidentified

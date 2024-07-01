@@ -7552,56 +7552,6 @@ wip: yes
 ---
 
 @image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0809aL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0809a.jpg
-astropix_ids: esahubble|heic0809a
-
-credits> NASA, ESA and the Hubble Heritag; A new discovery has resolved some of
-the mystery surrounding Omega Centauri, the largest and brightest globular
-cluster in the s...
-
-wip: yes
----
-
-@scene
-place_uuid: 494bfb7c-6b6c-4321-b469-bc4f31af92c7
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0809aL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic0809a/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0809a.jpg
-
-text> NGC 5139
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0809bL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0809b.jpg
-astropix_ids: esahubble|heic0809b
-
-credits> NASA, ESA, and the Digitized Sky; A wide star field image of the region
-around Omega Centauri (NGC 5139). The field-of-view is approximately 4.6 x 4.1
-degrees....
-
-wip: yes
----
-
-@scene
-place_uuid: 0588ffe2-f8d0-4d96-b8df-9610c55b2530
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0809bL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic0809b/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0809b.jpg
-
-text> NGC 5139
-
-wip: yes
----
-
-@image
 url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0810afL{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
@@ -8293,31 +8243,6 @@ outgoing_url: https://esahubble.org/images/heic0813e/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0813e.jpg
 
 text> Abell 1656
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0814aL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0814a.jpg
-astropix_ids: esahubble|heic0814a
-
-credits> NASA, ESA, and Johan Richard (Ca; The picture shows Abell 2218, a rich
-galaxy cluster composed of thousands of individual galaxies. It sits about 2.1
-billion ligh...
-
-wip: yes
----
-
-@scene
-place_uuid: 4af44dc7-d468-432a-b4f1-9065f8548b50
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0814aL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic0814a/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0814a.jpg
-
-text> Abell 2218
 
 wip: yes
 ---
@@ -9267,31 +9192,6 @@ outgoing_url: https://esahubble.org/images/heic0910f/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0910f.jpg
 
 text> Carina Nebula
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0910gL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0910g.jpg
-astropix_ids: esahubble|heic0910g
-
-credits> NASA, ESA and the Hubble SM4 ERO; The NASA/ESA Hubble Space Telescope
-snapped this panoramic view of a colourful assortment of 100 000 stars residing
-in the crowd...
-
-wip: yes
----
-
-@scene
-place_uuid: 81185951-ebed-49bc-8711-bda31822239d
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0910gL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic0910g/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0910g.jpg
-
-text> NGC 5139
 
 wip: yes
 ---
@@ -11181,31 +11081,6 @@ wip: yes
 ---
 
 @image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1208aL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1208a.jpg
-astropix_ids: esahubble|heic1208a
-
-credits> NASA, ESA, the Hubble Heritage (; The NASA/ESA Hubble Space Telescope
-has produced an incredibly detailed image of a pair of overlapping galaxies
-called NGC 3314....
-
-wip: yes
----
-
-@scene
-place_uuid: 787748e9-b00c-4022-924d-e3691d08a409
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1208aL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic1208a/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1208a.jpg
-
-text> NGC 3314
-
-wip: yes
----
-
-@image
 url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1210aL{1}X{2}Y{3}.png
 copyright: Public domain
 license_id: CC-PDDC
@@ -11375,31 +11250,6 @@ outgoing_url: https://esahubble.org/images/heic1301a/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1301a.jpg
 
 text> LHA 120-N 11
-
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1302aL{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1302a.jpg
-astropix_ids: esahubble|heic1302a
-
-credits> NASA, ESA, the Hubble Heritage T; This image combines Hubble
-observations of M 106 with additional information captured by amateur
-astronomers Robert Gendler and ...
-
-wip: yes
----
-
-@scene
-place_uuid: bfec8b41-0e6e-4948-b3da-15f386e6b71a
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1302aL{1}X{2}Y{3}.png
-outgoing_url: https://esahubble.org/images/heic1302a/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1302a.jpg
-
-text> M 106
 
 wip: yes
 ---

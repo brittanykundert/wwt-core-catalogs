@@ -605,6 +605,24 @@ ra_hr: 11.60805157589544
 thumbnail: http://data1.wwtassets.org/feeds/eso/potw2117a/thumb.jpg
 zoom_level: 0.1555557226955405
 ---
+_uuid: 7201efb6-8aff-42c6-afdc-82afeee02a53
+classification: ''
+constellation: CHA
+cxstatus: in:66761329be1b4f0dfebe7a46
+data_set_type: Sky
+dec_deg: -77.3871421137164
+description: This image features the central region of the Chameleon I dark molecular
+  cloud, which resides 630 light years away. The cold, wispy cloud material (blue,
+  centre) is illuminated in the infrared by the glow of the young, outflowing protostar
+  Ced 110 IRS 4 (orange, upper left). The light from numerous background stars, seen
+  as orange dots behind the cloud, can be used to detect ices in the cloud, which
+  absorb the starlight passing through them.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/hst/sci23001a/L{1}X{2}Y{3}.png
+name: Webb’s View of the Molecular Cloud Chameleon I
+ra_hr: 11.110050194635793
+thumbnail: http://data1.wwtassets.org/feeds/hst/sci23001a/thumb.jpg
+zoom_level: 0.39472645024027436
+---
 _uuid: 8689b7d0-df0b-48d0-928a-5325ec9116f8
 annotation: '{"channel": "noirlab", "itemid": "ann21023a", "publishedUTCISO8601":
   "2021-06-08T10:17:36+00:00"}'
@@ -966,6 +984,28 @@ name: Copeland Septet group of galaxies
 ra_hr: 11.630786661109276
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2103a/thumb.jpg
 zoom_level: 1.4359052629949172
+---
+_uuid: 4d4fb605-621d-4ecb-a695-43e7ecab0df4
+classification: ''
+constellation: UMA
+cxstatus: in:6682c5e4a0402c750ca6ceb1
+data_set_type: Sky
+dec_deg: 58.5633525403788
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery010/L{1}X{2}Y{3}.png
+name: Arp 299
+ra_hr: 11.475624878489347
+zoom_level: 0.280445110944
+---
+_uuid: c5538668-53b9-4156-b47a-d56b4781070e
+classification: ''
+constellation: LEO
+cxstatus: in:6682c5daa0402c750ca6ce97
+data_set_type: Sky
+dec_deg: 14.788046687888944
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery026/L{1}X{2}Y{3}.png
+name: NGC 3596 Is More than Meets the Eye
+ra_hr: 11.251544499111418
+zoom_level: 0.932890266
 ---
 _uuid: ef737c74-1de9-4675-9af7-a0529167aaa7
 classification: ''

@@ -1,3 +1,15 @@
+_uuid: b1b3457f-b346-4ab1-a70c-162c61b85811
+classification: ''
+constellation: TAU
+cxstatus: in:667eff685235d46484f0904e
+data_set_type: Sky
+dec_deg: 22.01553325668411
+foreground_image_set_url: //data1.wwtassets.org/feeds/nrao/nrao_gallery_nrao17df04b/L{1}X{2}Y{3}.png
+name: A New Look at the Crab Nebula
+ra_hr: 5.575548475263191
+thumbnail: //data1.wwtassets.org/feeds/nrao/nrao_gallery_nrao17df04b/thumb.jpg
+zoom_level: 1.4904440634
+---
 _uuid: 9e86d67a-3e6c-4384-be14-049b06d8aa68
 annotation: '{"channel": "eso", "itemid": "03_sn-1987a_cc", "publishedUTCISO8601":
   "2010-03-12T18:51:38+00:00"}'
@@ -3446,6 +3458,40 @@ name: Deepest, widest view of the Large Magellanic Cloud from SMASH
 ra_hr: 5.252857508824116
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2030a/thumb.jpg
 zoom_level: 92.52385743560467
+---
+_uuid: 85b85b93-cf09-4785-b603-ac7a78c95368
+classification: ''
+constellation: ORI
+cxstatus: in:6682c5d2a0402c750ca6ce85
+data_set_type: Sky
+dec_deg: -5.368108868873653
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_gallery_nrao17cb07/image.jpg
+name: ALMA Captures Explosive Star Birth
+ra_hr: 5.587690459990072
+thumbnail: http://data1.wwtassets.org/feeds/nrao/nrao_gallery_nrao17cb07/thumb.jpg
+zoom_level: 0.4384761016199999
+---
+_uuid: e24438f5-5f2f-4f98-a75c-532bcd77f985
+classification: ''
+constellation: TAU
+cxstatus: in:6682c5dfa0402c750ca6cea7
+data_set_type: Sky
+dec_deg: 22.028635067254125
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery047/image.jpg
+name: Crab Nebula
+ra_hr: 5.575644233716829
+zoom_level: 1.2297199851720002
+---
+_uuid: 0e2770e0-1560-407a-9fe1-ac113c61eeff
+classification: ''
+constellation: ORI
+cxstatus: in:6682c5e3a0402c750ca6ceaf
+data_set_type: Sky
+dec_deg: -5.0535491882560075
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery051/L{1}X{2}Y{3}.png
+name: Pebble-Size Particles May Jump-Start Planet Formation
+ra_hr: 5.588809350599878
+zoom_level: 10.2011635548
 ---
 _uuid: 5064d75d-0665-4347-ae3e-81391dbc22e4
 classification: ''

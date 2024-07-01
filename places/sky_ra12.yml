@@ -1,3 +1,14 @@
+_uuid: 5011dca0-d9d0-4daf-b5e5-272aef06ae2e
+classification: ''
+constellation: CVN
+cxstatus: in:667eff6a5235d46484f09052
+data_set_type: Sky
+dec_deg: 44.10327160163176
+foreground_image_set_url: //data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery025/image.jpg
+name: Making Stars in NGC 4449
+ra_hr: 12.469964122189372
+zoom_level: 1.165530560362974
+---
 _uuid: 714ef507-7f68-4037-8401-05ef226562a7
 annotation: '{"channel": "eso", "itemid": "eso0007a", "publishedUTCISO8601": "2000-02-23T00:00:00+00:00"}'
 classification: ''
@@ -1990,6 +2001,17 @@ ra_hr: 12.315557832444384
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2112b/thumb.jpg
 zoom_level: 5.2807218449388
 ---
+_uuid: 30204326-09e3-49ff-ac9d-363473255f23
+classification: ''
+constellation: CRV
+cxstatus: in:6682c5dca0402c750ca6ce9d
+data_set_type: Sky
+dec_deg: -18.875347982715144
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery028/L{1}X{2}Y{3}.png
+name: ALMA First Image
+ra_hr: 12.03150374044164
+zoom_level: 0.5797520813699999
+---
 _uuid: d3f5473b-c289-41f9-ae9e-abde11df5d5b
 angular_size: 0.8755942001279999
 classification: Unidentified
@@ -3398,17 +3420,6 @@ name: NGC 4214
 ra_hr: 12.2610176405333
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1109b.jpg
 zoom_level: 18.5795317622374
----
-_uuid: bfec8b41-0e6e-4948-b3da-15f386e6b71a
-classification: ''
-constellation: CVN
-data_set_type: Sky
-dec_deg: 47.3113148087
-foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic1302aL{1}X{2}Y{3}.png
-name: M 106
-ra_hr: 12.3158253993333
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic1302a.jpg
-zoom_level: 0.45530742784
 ---
 _uuid: 0c0a3c78-a581-49ca-a812-57c509d974b0
 classification: ''
