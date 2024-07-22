@@ -1370,8 +1370,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-370.jpg
 zoom_level: 1.38962801869455
 ---
 _uuid: 3a4aa277-2c08-495a-8ef0-b4448b2bf8e1
+astropix_id: chandra|421
 classification: ''
 constellation: AQL
+cxstatus: in:669e731287f75eb1c69af28e
 data_set_type: Sky
 dec_deg: 11.3000611
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-421L{1}X{2}Y{3}.png

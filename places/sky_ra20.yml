@@ -1080,8 +1080,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-208.jpg
 zoom_level: 0.267268816896
 ---
 _uuid: 5cf0a740-7463-418a-a951-8892902f4919
+astropix_id: chandra|441
 classification: ''
 constellation: PAV
+cxstatus: in:669e73bc629f9bfc2a8e203b
 data_set_type: Sky
 dec_deg: -70.7699278
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-441L{1}X{2}Y{3}.png

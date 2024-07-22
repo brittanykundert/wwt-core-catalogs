@@ -702,8 +702,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-363.jpg
 zoom_level: 0.345346981067594
 ---
 _uuid: f1b71728-2fb5-4d4e-a114-09f5b7703cd4
+astropix_id: chandra|434
 classification: ''
 constellation: HYA
+cxstatus: in:669e73b7629f9bfc2a8e2033
 data_set_type: Sky
 dec_deg: -12.0945534
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-434L{1}X{2}Y{3}.png

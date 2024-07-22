@@ -1640,8 +1640,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-402.jpg
 zoom_level: 0.21221605376
 ---
 _uuid: 888f07ab-672f-4ddc-b665-c2333da6f7ac
+astropix_id: chandra|418
 classification: ''
 constellation: CAS
+cxstatus: in:669e731187f75eb1c69af28c
 data_set_type: Sky
 dec_deg: 64.13854937049
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-418L{1}X{2}Y{3}.png

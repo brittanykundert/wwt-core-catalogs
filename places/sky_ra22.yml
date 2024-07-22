@@ -959,8 +959,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-349.jpg
 zoom_level: 1.15094953984
 ---
 _uuid: 7d788fe4-b417-4590-9145-3e835d450d5c
+astropix_id: chandra|430
 classification: ''
 constellation: PEG
+cxstatus: in:669e73b4629f9bfc2a8e202d
 data_set_type: Sky
 dec_deg: 33.97238515111
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-430L{1}X{2}Y{3}.png
@@ -970,8 +972,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-430.jpg
 zoom_level: 0.35615227904
 ---
 _uuid: d94654dd-e9e6-44e6-be64-8e15d43afe3d
+astropix_id: chandra|432
 classification: ''
 constellation: CEP
+cxstatus: in:669e73b6629f9bfc2a8e2031
 data_set_type: Sky
 dec_deg: 62.6314786
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-432L{1}X{2}Y{3}.png
