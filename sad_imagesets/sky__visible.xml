@@ -502,4 +502,32 @@
     <CreditsUrl>https://www.eso.org/public/images/ann11014a/</CreditsUrl>
     <ThumbnailUrl>http://data1.wwtassets.org/feeds/eso/ann11014a/thumb.jpg</ThumbnailUrl>
   </ImageSet>
+  <ImageSet
+    _Reason="Bad astrometry"
+    BandPass="Visible"
+    BaseDegreesPerTile="0.01309714432"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="253.249863044"
+    CenterY="2.39952798694"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 6240"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-75.09846860857"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/Chandra-436L{1}X{2}Y{3}.png"
+    WidthFactor="1"
+    Xastropix_ids="chandra|436"
+    Xcxstatus="in:669e73b7629f9bfc2a8e2034"
+  >
+    <Credits>X-ray (NASA/CXC/MIT/C.Canizares,; NGC 6240 is a system in which two supermassive black holes are a mere 3,000 light years apart. These black holes (the two bright...</Credits>
+    <CreditsUrl>https://chandra.harvard.edu/photo/2009/ngc6240/</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-436.jpg</ThumbnailUrl>
+  </ImageSet>
 </Folder>
