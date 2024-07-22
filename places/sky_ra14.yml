@@ -862,8 +862,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-410.jpg
 zoom_level: 2.18796610739241
 ---
 _uuid: be859073-7ea3-422b-a953-a7f7bfba02f8
+astropix_id: chandra|425
 classification: ''
 constellation: DRA
+cxstatus: in:669e73b2629f9bfc2a8e2029
 data_set_type: Sky
 dec_deg: 63.270595
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-425L{1}X{2}Y{3}.png
