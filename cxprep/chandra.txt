@@ -6,11 +6,9 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-418.jpg
 astropix_ids: chandra|418
 
-credits> X-ray: NASA/CXC/SAO, Infrared: N; This composite image of the Tycho
-supernova remnant combines X-ray and infrared observations obtained with NASA's
-Chandra and Sp...
+credits> X-ray: NASA/CXC/SAO, Infrared: NASA/JPL-Caltech; Optical: MPIA, Calar
+Alto, O.Krause et al.
 
-wip: yes
 ---
 
 @scene
@@ -19,9 +17,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-418L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2009/tycho/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-418.jpg
 
-text> Tycho's SNR
+text> This composite image of the Tycho supernova remnant combines X-ray and
+infrared observations obtained with NASA's Chandra X-ray Observatory and Spitzer
+Space Telescope, respectively, and the Calar Alto observatory, Spain. It shows
+the scene more than four centuries after the brilliant star explosion witnessed
+by Tycho Brahe and other astronomers of that era.
 
-wip: yes
 ---
 
 @image
@@ -31,11 +32,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-421.jpg
 astropix_ids: chandra|421
 
-credits> X-ray (NASA/CXC/Harvard/J.Neilse; The inset of this graphic shows
-Chandra's X-ray image of GRS 1915+105 in context of a crowded field seen in
-optical and infrared...
+credits> X-ray (NASA/CXC/Harvard/J.Neilsen); Optical &amp; IR (Palomar DSS2)
 
-wip: yes
 ---
 
 @scene
@@ -44,9 +42,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-421L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2009/g1915/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-421.jpg
 
-text> GRS 1915+105
+text> This optical and infrared image from the Digitized Sky Survey shows the
+crowded field around the micro-quasar GRS 1915+105 (GRS 1915 for short) located
+near the plane of our Galaxy. The inset shows a close-up of the Chandra image of
+GRS 1915, one of the brightest X-ray sources in the Milky Way galaxy. This
+micro-quasar contains a black hole about 14 times the mass of the Sun that is
+feeding off material from a nearby companion star.
 
-wip: yes
 ---
 
 @image
@@ -56,11 +58,9 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-425.jpg
 astropix_ids: chandra|425
 
-credits> X-ray (NASA/CXC/CfA/F.Massaro, e; This composite image of X-ray (red),
-radio (dark blue), and optical (light blue) data shows activity from the central
-black hole...
+credits> X-ray (NASA/CXC/CfA/F.Massaro, et al.); Optical (NASA/STScI/C.P.O'Dea);
+Radio (NSF/VLA/CfA/F.Massaro, et al.)
 
-wip: yes
 ---
 
 @scene
@@ -69,9 +69,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-425L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2009/3c305/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-425.jpg
 
-text> 3C305
+text> Activity from a supermassive black hole is responsible for the intriguing
+appearance of this galaxy, 3C305, located about 600 million light years away
+from Earth. The structures in red and light blue are X-ray and optical images
+from the Chandra X-ray Observatory and Hubble Space Telescope respectively. The
+optical data is from oxygen emission only, and therefore the full extent of the
+galaxy is not seen.
 
-wip: yes
 ---
 
 @image
@@ -81,11 +85,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-427.jpg
 astropix_ids: chandra|427
 
-credits> X-ray (NASA/CXC/Penn State/S.Par; A new composite image from NASA's
-Chandra X-ray Observatory (purple) and Spitzer Space Telescope (red and green)
-shows a superno...
+credits> X-ray (NASA/CXC/Penn State/S.Park & J.Lee); IR (NASA/JPL-Caltech)
 
-wip: yes
 ---
 
 @scene
@@ -94,9 +95,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-427L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2009/snr0104/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-427.jpg
 
-text> Image File
+text> An image from NASA's Chandra X-ray Observatory shows a supernova remnant
+with a different look. This object, known as SNR 0104-72.3 (SNR 0104 for short),
+is in the Small Magellanic Cloud, a small neighboring galaxy to the Milky Way.
+Astronomers think that SNR 0104 is the remains of a so-called Type Ia supernova
+caused by the thermonuclear explosion of a white dwarf.
 
-wip: yes
 ---
 
 @image
@@ -106,11 +110,9 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-430.jpg
 astropix_ids: chandra|430
 
-credits> X-ray (NASA/CXC/CfA/E.O'Sullivan; This composite image of X-rays from
-Chandra (colored light blue) and optical data from the Canada-France-Hawaii
-Telescope (yello...
+credits> X-ray (NASA/CXC/CfA/E.O'Sullivan); Optical
+(Canada-France-Hawaii-Telescope/Coelum)
 
-wip: yes
 ---
 
 @scene
@@ -119,9 +121,14 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-430L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2009/stephq/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-430.jpg
 
-text> Stephan's Quintet
+text> This beautiful image gives a new look at Stephan's Quintet, a compact
+group of galaxies discovered about 130 years ago and located about 280 million
+light years from Earth. The curved, light blue ridge running down the center of
+the image shows X-ray data from the Chandra X-ray Observatory. The galaxy NGC
+7318b is passing through the core of galaxies at almost 2 million miles per
+hour, and is thought to be causing the ridge of X-ray emission by generating a
+shock wave that heats the gas.
 
-wip: yes
 ---
 
 @image
@@ -131,11 +138,9 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-431.jpg
 astropix_ids: chandra|431
 
-credits> X-ray (NASA/CXC/MIT/D.Dewey et a; This composite image of X-rays from
-Chandra and optical data from Hubble shows new details of the aftermath of a
-massive star th...
+credits> X-ray (NASA/CXC/MIT/D.Dewey et al. &amp; NASA/CXC/SAO/J.DePasquale);
+Optical (NASA/STScI)
 
-wip: yes
 ---
 
 @scene
@@ -144,9 +149,14 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-431L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2009/e0102/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-431.jpg
 
-text> 1E 0102.2-7219
+text> This image of the debris of an exploded star — known as supernova remnant
+1E 0102.2-7219, or "E0102" for short — features data from NASA's Chandra X-ray
+Observatory. E0102 is located about 190,000 light years away in the Small
+Magellanic Cloud, one of the nearest galaxies to the Milky Way. It was created
+when a star that was much more massive than the Sun exploded, an event that
+would have been visible from the Southern Hemisphere of the Earth over 1000
+years ago.
 
-wip: yes
 ---
 
 @image
@@ -156,11 +166,9 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-432.jpg
 astropix_ids: chandra|432
 
-credits> X-ray (NASA/CXC/PSU/K. Getman et; This composite image of X-rays from
-Chandra (violet) and infrared data from Spitzer (red, green, and blue) reveals a
-beautiful s...
+credits> X-ray (NASA/CXC/PSU/K. Getman et al.); IR (NASA/JPL-Caltech/CfA/J. Wang
+et al.)
 
-wip: yes
 ---
 
 @scene
@@ -169,9 +177,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-432L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2009/cepb/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-432.jpg
 
-text> Cepheus B
+text> This composite image, combining data from the Chandra X-ray Observatory
+and the Spitzer Space Telescope shows the molecular cloud Cepheus B, located in
+our Galaxy about 2,400 light years from the Earth. A molecular cloud is a region
+containing cool interstellar gas and dust left over from the formation of the
+galaxy and mostly contains molecular hydrogen.
 
-wip: yes
 ---
 
 @image
@@ -181,11 +192,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-434.jpg
 astropix_ids: chandra|434
 
-credits> X-ray: NASA/CXC/U.Waterloo/C.Kir; This composite image of the Hydra A
-galaxy cluster shows 10-million-degree gas observed by Chandra (blue) and jets
-of radio emis...
+credits> X-ray: NASA/CXC/U.Waterloo/C.Kirkpatrick et al.; Radio: NSF/NRAO/VLA; Optical: Canada-France-Hawaii-Telescope/DSS
 
-wip: yes
 ---
 
 @scene
@@ -194,9 +202,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-434L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2009/hydra/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-434.jpg
 
-text> Hydra A
+text> This composite image of the Hydra A galaxy cluster shows 10-million-degree
+gas observed by Chandra in blue and jets of radio emission observed by the Very
+Large Array in pink. Optical data (in yellow) from the Canada-France-Hawaii
+telescope and the Digitized Sky Survey shows galaxies in the cluster.
 
-wip: yes
 ---
 
 @image
@@ -206,11 +216,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-436.jpg
 astropix_ids: chandra|436
 
-credits> X-ray (NASA/CXC/MIT/C.Canizares,; NGC 6240 is a system in which two
-supermassive black holes are a mere 3,000 light years apart. These black holes
-(the two bright...
+credits> X-ray (NASA/CXC/MIT/C.Canizares, M.Nowak); Optical (NASA/STScI)
 
-wip: yes
 ---
 
 @scene
@@ -219,9 +226,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-436L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2009/ngc6240/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-436.jpg
 
-text> NGC 6240
+text> This image of NGC 6240 contains new X-ray data from Chandra (shown in red,
+orange, and yellow) that has been combined with an optical image from the Hubble
+Space Telescope originally released in 2008. In 2002, the discovery of two
+merging black holes was announced based on Chandra data in this galaxy. The two
+black holes are a mere 3,000 light years apart and are seen as the bright
+point-like sources in the middle of the image.
 
-wip: yes
 ---
 
 @image
@@ -231,11 +242,7 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-437.jpg
 astropix_ids: chandra|437
 
-credits> X-ray: NASA/CXC/INAF/S.Andreon e; This is a composite image of the most
-distant galaxy cluster yet detected. This image contains X-rays from NASA's
-Chandra X-ray ...
-
-wip: yes
+credits> X-ray: NASA/CXC/INAF/S.Andreon et al Optical: DSS; ESO/VLT
 ---
 
 @scene
@@ -244,9 +251,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-437L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2009/jkcs041/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-437.jpg
 
-text> JKCS041
+text> This is a composite image of the most distant galaxy cluster yet detected.
+This image contains X-rays from NASA's Chandra X-ray Observatory, optical data
+from the Very Large Telescope (VLT) and optical and infrared data from the
+Digitized Sky Survey. This record-breaking object, known as JKCS041, is observed
+as it was when the Universe was just one quarter of its current age.
 
-wip: yes
 ---
 
 @image
@@ -256,11 +266,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-438.jpg
 astropix_ids: chandra|438
 
-credits> X-ray: NASA/CXC/Southampton/W. H; New evidence from Chandra suggests
-that the neutron star at the center of the Cas A supernova remnant has an
-ultra-thin carbon a...
+credits> X-ray: NASA/CXC/Southampton/W. Ho et al.; Illustration: NASA/CXC/M.Weiss
 
-wip: yes
 ---
 
 @scene
@@ -269,9 +276,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-438L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2009/cassio/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-438.jpg
 
-text> Cas A
+text> This Chandra X-ray Observatory image shows the central region of the
+supernova remnant Cassiopeia A (Cas A, for short) the remains of a massive star
+that exploded in our galaxy. Evidence for a thin carbon atmosphere on a neutron
+star at the center of Cas A has been found.
 
-wip: yes
 ---
 
 @image
@@ -281,11 +290,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-441.jpg
 astropix_ids: chandra|441
 
-credits> X-ray: NASA/CXC/SAO/M.Machacek;; This composite image of a collision
-between two galaxies, NGC 6872 and IC 4970, contains X-rays from Chandra
-(purple), infrared ...
+credits> X-ray: NASA/CXC/SAO/M.Machacek; Optical: ESO/VLT; Infrared: NASA/JPL/Caltech
 
-wip: yes
 ---
 
 @scene
@@ -294,9 +300,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-441L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2009/ngc6872/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-441.jpg
 
-text> NGC 6872
+text> This composite image of data from three different telescopes shows an
+ongoing collision between two galaxies, NGC 6872 and IC 4970. X-ray data from
+NASA's Chandra X-ray Observatory is shown in purple, while Spitzer Space
+Telescope's infrared data is red and optical data from ESO's Very Large
+Telescope (VLT) is colored red, green and blue.
 
-wip: yes
 ---
 
 @image
