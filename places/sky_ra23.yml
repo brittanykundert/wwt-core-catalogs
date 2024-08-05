@@ -1050,8 +1050,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-438.jpg
 zoom_level: 0.222109696
 ---
 _uuid: 4090f26c-36c1-40c5-90f1-377009ca2f7f
+astropix_id: chandra|457
 classification: ''
 constellation: SCL
+cxstatus: in:66b0d860c416890104fc048f
 data_set_type: Sky
 dec_deg: -32.5867229
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-457L{1}X{2}Y{3}.png

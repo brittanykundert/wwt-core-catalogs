@@ -2355,8 +2355,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-403.jpg
 zoom_level: 0.11442323456
 ---
 _uuid: c8e7d3e0-0774-4b25-88d2-8459f20ca2a8
+astropix_id: chandra|461
 classification: ''
 constellation: CVN
+cxstatus: in:66b0d864c416890104fc0497
 data_set_type: Sky
 dec_deg: 50.5565619
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-461L{1}X{2}Y{3}.png

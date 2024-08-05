@@ -796,8 +796,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-407.jpg
 zoom_level: 0.51078160284016
 ---
 _uuid: 723c3976-3f6a-4e78-8997-eae27aaa98d3
+astropix_id: chandra|450
 classification: ''
 constellation: COL
+cxstatus: in:66b0d85cc416890104fc0485
 data_set_type: Sky
 dec_deg: -39.9841142
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-450L{1}X{2}Y{3}.png
@@ -807,8 +809,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-450.jpg
 zoom_level: 2.16824152064
 ---
 _uuid: 3ca81bad-bc9f-46df-9761-7322bc2b986d
+astropix_id: chandra|462
 classification: ''
 constellation: MON
+cxstatus: in:66b0d865c416890104fc0499
 data_set_type: Sky
 dec_deg: 5.0499012
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-462L{1}X{2}Y{3}.png
