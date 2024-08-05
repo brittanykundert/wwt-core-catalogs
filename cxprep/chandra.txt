@@ -6,11 +6,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-443.jpg
 astropix_ids: chandra|443
 
-credits> X-ray: NASA/CXC/UA/J. Irwin et a; X-rays from Chandra and optical
-spectra from the Magellan telescopes provide evidence that a star was destroyed
-a black hole in ...
+credits> X-ray: NASA/CXC/UA/J. Irwin et al; Optical: NASA/STScI
 
-wip: yes
 ---
 
 @scene
@@ -19,9 +16,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-443L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/ngc1399/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-443.jpg
 
-text> NGC 1399
+text> Evidence from NASA's Chandra X-ray Observatory and the Magellan telescopes
+suggest a star has been torn apart by an intermediate-mass black hole in a
+globular cluster. In this image, X-rays from Chandra are shown in blue and are
+overlaid on an optical image from the Hubble Space Telescope. The Chandra
+observations show that this object is a so-called ultraluminous X-ray source
+(ULX).
 
-wip: yes
 ---
 
 @image
@@ -31,11 +32,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-444.jpg
 astropix_ids: chandra|444
 
-credits> NASA/CXC/MIT/F.K. Baganoff et al; This Chandra image of Sgr A* and the
-region around it was based on almost two weeks of observing time. A theoretical
-model base...
+credits> NASA/CXC/MIT/F.K. Baganoff et al
 
-wip: yes
 ---
 
 @scene
@@ -44,9 +42,14 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-444L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/sgra/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-444.jpg
 
-text> Sagittarius A*
+text> Astronomers have long known that the supermassive black hole at the center
+of the Milky Way Galaxy, known as Sagittarius A* (or Sgr A* for short), is a
+particularly poor eater. The fuel for this black hole comes from powerful winds
+blown off dozens of massive young stars that are concentrated nearby. These
+stars are located a relatively large distance away from Sgr A*, where the
+gravity of the black hole is weak, and so their high-velocity winds are
+difficult for the black hole to capture and swallow.
 
-wip: yes
 ---
 
 @image
@@ -56,11 +59,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-445.jpg
 astropix_ids: chandra|445
 
-credits> X-ray: NASA/CXC/UVa/M. Sun, et a; This composite image of X-rays (blue)
-and optical and hydrogen light (yellow and red) shows two spectacular tails
-stretching beh...
+credits> X-ray: NASA/CXC/UVa/M. Sun, et al; H-alpha/Optical: SOAR (UVa/NOAO/UNC/CNPq-Brazil)/M.Sun et al.
 
-wip: yes
 ---
 
 @scene
@@ -69,9 +69,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-445L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/eso137/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-445.jpg
 
-text> Abell 3627
+text> Two spectacular tails of X-ray emission have been seen using the Chandra
+X-ray Observatory trailing behind a galaxy. A composite image of the galaxy
+cluster Abell 3627 shows X-rays from Chandra in blue, optical emission in yellow
+and emission from hydrogen light — known to astronomers as “H-alpha” — in red.
+The optical and H-alpha data were obtained with the Southern Astrophysical
+Research (SOAR) Telescope in Chile.
 
-wip: yes
 ---
 
 @image
@@ -81,11 +85,9 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-446.jpg
 astropix_ids: chandra|446
 
-credits> X-ray (NASA/CXC/SAO/P. Green et ; This composite image shows the
-effects of two galaxies caught in the act of merging. A Chandra X-ray
-Observatory image shows a p...
+credits> X-ray (NASA/CXC/SAO/P. Green et al.), Optical (Carnegie
+Obs./Magellan/W.Baade Telescope/J.S.Mulchaey et al.)
 
-wip: yes
 ---
 
 @scene
@@ -94,9 +96,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-446L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/sdss/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-446.jpg
 
-text> SDSS J1254+0846
+text> This composite image shows the effects of two galaxies caught in the act
+of merging. A Chandra X-ray Observatory image shows a pair of quasars in blue,
+located about 4.6 billion light years away, but separated on the sky by only
+about 70 thousand light years. These bright sources, collectively called SDSS
+J1254+0846, are powered by material falling onto supermassive black holes.
 
-wip: yes
 ---
 
 @image
@@ -106,11 +111,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-447.jpg
 astropix_ids: chandra|447
 
-credits> X-ray (NASA/CXC/MPA/M.Gilfanov &; This composite image of M31 (a.k.a.
-the Andromeda galaxy) contains X-rays from Chandra (gold), optical emission
-(light blue), an...
+credits> X-ray (NASA/CXC/MPA/M.Gilfanov &amp; A.Bogdan), Infrared (NASA/JPL-Caltech/SSC), Optical (DSS)
 
-wip: yes
 ---
 
 @scene
@@ -119,9 +121,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-447L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/type1a/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-447.jpg
 
-text> M31
+text> This composite image of M31 (also known as the Andromeda galaxy) shows
+X-ray data from NASA's Chandra X-ray Observatory in gold, optical data from the
+Digitized Sky Survey in light blue and infrared data from the Spitzer Space
+Telescope in red. The Chandra data covers only the central region of M31 as
+shown in the inset box for the image.
 
-wip: yes
 ---
 
 @image
@@ -131,11 +136,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-448.jpg
 astropix_ids: chandra|448
 
-credits> X-ray (NASA/CXC/MIT/C.Canizares,; This composite image (X-rays from
-Chandra in red, optical data in green, and radio emission in blue) shows NGC
-1068, one of the ...
+credits> X-ray (NASA/CXC/MIT/C.Canizares, D.Evans et al), Optical (NASA/STScI), Radio (NSF/NRAO/VLA)
 
-wip: yes
 ---
 
 @scene
@@ -144,9 +146,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-448L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/ngc1068/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-448.jpg
 
-text> NGC 1068
+text> This is a composite image of NGC 1068, one of the nearest and brightest
+galaxies containing a rapidly growing supermassive black hole. X-ray data from
+the Chandra X-ray Observatory are shown in red, optical data from the Hubble
+Space Telescope in green and radio data from the Very Large Array in blue. The
+spiral structure of NGC 1068 is shown by the X-ray and optical data, and a jet
+powered by the central supermassive black hole is shown by the radio data.
 
-wip: yes
 ---
 
 @image
@@ -156,11 +162,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-449.jpg
 astropix_ids: chandra|449
 
-credits> X-ray: NASA/CXC/SAO/T.Temim et; A composite image from Chandra (blue)
-and Spitzer (green and red-yellow) data shows the dusty remains of a collapsed
-star. The ...
+credits> X-ray: NASA/CXC/SAO/T.Temim et al.; IR: NASA/JPL-Caltech
 
-wip: yes
 ---
 
 @scene
@@ -169,9 +172,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-449L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/g541/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-449.jpg
 
-text> G54.1+0.3
+text> An image from NASA's Chandra X-ray Observatory and Spitzer Space Telescope
+shows the dusty remains of a collapsed star. The dust is flying past and
+engulfing a nearby family of stars. Scientists think the stars in the image are
+part of a stellar cluster in which the a supernova exploded. The material
+ejected in the explosion is now blowing past these stars at high velocities.
 
-wip: yes
 ---
 
 @image
@@ -181,11 +187,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-450.jpg
 astropix_ids: chandra|450
 
-credits> X-ray (NASA/CXC/SAO/A. Vikhlinin; This composite image of the galaxy
-cluster Abell 3376 combines Chandra and ROSAT X-ray data (gold), an optical
-image from the Di...
+credits> X-ray (NASA/CXC/SAO/A. Vikhlinin; ROSAT), Optical (DSS), Radio (NSF/NRAO/VLA/IUCAA/J.Bagchi)
 
-wip: yes
 ---
 
 @scene
@@ -194,9 +197,14 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-450L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/a3376/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-450.jpg
 
-text> Abell 3376
+text> This composite image of the galaxy cluster Abell 3376 shows X-ray data
+from the Chandra X-ray Observatory and the ROSAT telescope in gold, an optical
+image from the Digitized Sky Survey in red, green and blue, and a radio image
+from the VLA in blue. The "bullet-like" appearance of the X-ray data is caused
+by a merger, as material flows into the galaxy cluster from the right side. The
+giant radio arcs on the left side of the image may be caused by shock waves
+generated by this merger.
 
-wip: yes
 ---
 
 @image
@@ -206,11 +214,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-453.jpg
 astropix_ids: chandra|453
 
-credits> X-ray: (NASA/CXC/Penn State/S.Pa; This composite image of data from
-Chandra (blue) and Hubble (yellow and purple) depicts the scene of a supernova
-explosion's aft...
+credits> X-ray: (NASA/CXC/Penn State/S.Park et al.); Optical: NASA/STScI/UIUC/Y.H.Chu &amp; R.Williams et al
 
-wip: yes
 ---
 
 @scene
@@ -219,9 +224,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-453L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/n49/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-453.jpg
 
-text> N49
+text> This beautiful composite image shows N49, the aftermath of a supernova
+explosion in the Large Magellanic Cloud. A new long observation from NASA's
+Chandra X-ray Observatory, shown in blue, reveals evidence for a bullet-shaped
+object being blown out of a debris field left over from an exploded star.
 
-wip: yes
 ---
 
 @image
@@ -231,11 +238,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-454.jpg
 astropix_ids: chandra|454
 
-credits> X-ray (NASA/CXC/SAO/Li et al.),; The large image here shows an optical
-view, with the Digitized Sky Survey, of the Andromeda Galaxy, otherwise known as
-M31. The ...
+credits> X-ray (NASA/CXC/SAO/Li et al.), Optical (DSS)
 
-wip: yes
 ---
 
 @scene
@@ -244,9 +248,17 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-454L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/m31/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-454.jpg
 
-text> M31
+text> The large image here shows an optical view, with the Digitized Sky Survey,
+of the Andromeda Galaxy, otherwise known as M31. The inset shows Chandra X-ray
+Observatory images of a small region in the center of Andromeda. The image on
+the left shows the sum of 23 images taken with Chandra's High Resolution Camera
+(HRC) before January 2006 and the image on the right shows the sum of 17 HRC
+images taken after January 2006. Before 2006, three X-ray sources are clearly
+visible in the Chandra image, including one faint source close to the center of
+the image. After 2006, a fourth source, called M31*, appears just below and to
+the right of the central source, produced by material falling onto the
+supermassive black hole in M31.
 
-wip: yes
 ---
 
 @image
@@ -256,11 +268,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-455.jpg
 astropix_ids: chandra|455
 
-credits> X-ray: NASA/CXC/SAO/M.Karovska e; The inset box in this graphic
-contains a composite image of X-ray data from Chandra (red), optical data from
-the Hubble Space Te...
+credits> X-ray: NASA/CXC/SAO/M.Karovska et al; Optical: NASA/STScI; Radio: NRAO/VLA; Wide field Optical: DSS
 
-wip: yes
 ---
 
 @scene
@@ -269,9 +278,14 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-455L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/chcyg/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-455.jpg
 
-text> CH Cyg
+text> This image shows the symbiotic system known as CH Cyg, located only about
+800 light years from Earth. The large image shows an optical view of CH Cyg,
+using the Digitized Sky Survey, and the inset shows a composite image containing
+Chandra X-ray data in red, optical data from the Hubble Space Telescope (HST) in
+green, and radio data from the Very Large Array (VLA) in blue. CH Cyg is a
+binary star system containing a white dwarf that feeds from the wind of a red
+giant star. 
 
-wip: yes
 ---
 
 @image
@@ -281,11 +295,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-456.jpg
 astropix_ids: chandra|456
 
-credits> X-ray: NASA/CXC/SAO/F.Civano et ; Evidence for a recoiling black hole
-has been found using data from Chandra (colored blue in this composite image),
-Hubble (gold)...
+credits> X-ray: NASA/CXC/SAO/F.Civano et al. Optical: NASA/STScI
 
-wip: yes
 ---
 
 @scene
@@ -294,9 +305,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-456L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/cid42/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-456.jpg
 
-text> CID-42
+text> Evidence for a recoiling black hole has been found using data from the
+Chandra X-ray Observatory, XMM-Newton, the Hubble Space Telescope (HST), and
+several ground-based telescopes. A new paper reports that this black hole
+kickback was caused either by a slingshot effect produced in a triple black hole
+system, or from the effects of gravitational waves produced after two
+supermassive black holes merged a few million years earlier.
 
-wip: yes
 ---
 
 @image
@@ -306,11 +321,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-457.jpg
 astropix_ids: chandra|457
 
-credits> X-ray (NASA/CXC/Univ of Strasbou; Combined data from Chandra (red,
-green, and blue) as well as optical light (light blue) and hydrogen emission
-(gold) reveals a m...
+credits> X-ray (NASA/CXC/Univ of Strasbourg/M. Pakull et al); Optical (ESO/VLT/Univ of Strasbourg/M. Pakull et al); H-alpha (NOAO/AURA/NSF/CTIO 1.5m)
 
-wip: yes
 ---
 
 @scene
@@ -319,9 +331,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-457L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/ngc7793/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-457.jpg
 
-text> NGC 7793
+text> This composite image shows a powerful microquasar containing a black hole
+in the outskirts of the nearby (12.7 million light years) galaxy NGC 7793. The
+large image contains data from the Chandra X-ray Observatory in red, green and
+blue, optical data from the Very Large Telescope in light blue, and optical
+emission by hydrogen ("H-alpha") from the CTIO 1.5-m telescope in gold. 
 
-wip: yes
 ---
 
 @image
@@ -331,11 +346,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-458.jpg
 astropix_ids: chandra|458
 
-credits> X-ray (NASA/CXC/UMD/Hodges-Kluck; The close-up view in the inset shows
-a composite image of the galaxy 4C +00.58 in X-rays from Chandra (gold) and
-radio waves fro...
+credits> X-ray (NASA/CXC/UMD/Hodges-Kluck et al): Radio (NSF/NRAO/VLA/UMD/Hodges-Kluck et al); Optical (SDSS)
 
-wip: yes
 ---
 
 @scene
@@ -344,9 +356,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-458L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/4c0058/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-458.jpg
 
-text> 4C+00.58
+text> This image shows the effects of a giant black hole that has been flipped
+around twice, causing its spin axis to point in a different direction from
+before. The large optical image, from the Sloan Digital Sky Survey, is centered
+on a radio galaxy named 4C +00.58. The smaller image to the right shows a
+close-up view of this galaxy in X-rays (in gold) from the Chandra X-ray
+Observatory, and radio waves (in blue) from the Very Large Array. 
 
-wip: yes
 ---
 
 @image
@@ -356,11 +372,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-459.jpg
 astropix_ids: chandra|459
 
-credits> X-ray: NASA/CXC/SAO/J.DePasquale; This composite image of the Antennae
-galaxies contains X-rays from Chandra (blue), optical data from Hubble (gold and
-brown), an...
+credits> X-ray: NASA/CXC/SAO/J.DePasquale; IR: NASA/JPL-Caltech; Optical: NASA/STScI
 
-wip: yes
 ---
 
 @scene
@@ -369,9 +382,14 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-459L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/antennae/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-459.jpg
 
-text> Antennae
+text> A beautiful new image of two colliding galaxies has been released by
+NASA's Great Observatories. The Antennae galaxies, located about 62 million
+light years from Earth, are shown in this composite image from the Chandra X-ray
+Observatory (blue), the Hubble Space Telescope (gold and brown), and the Spitzer
+Space Telescope (red). The Antennae galaxies take their name from the long
+antenna-like "arms," seen in wide-angle views of the system. These features were
+produced by tidal forces generated in the collision.
 
-wip: yes
 ---
 
 @image
@@ -381,11 +399,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-460.jpg
 astropix_ids: chandra|460
 
-credits> X-ray (NASA/CXC/KIPAC/N. Werner,; This composite image shows the
-eruption of a galactic "super-volcano" in the galaxy M87. X-rays from Chandra
-(blue) show the cl...
+credits> X-ray (NASA/CXC/KIPAC/N. Werner, E. Million et al); Radio (NRAO/AUI/NSF/F. Owen); Volcano image: Omar Ragnarsson
 
-wip: yes
 ---
 
 @scene
@@ -394,9 +409,14 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-460L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/m87/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-460.jpg
 
-text> M87
+text> This image shows the eruption of a galactic "super-volcano" in the massive
+galaxy M87, as witnessed by NASA's Chandra X-ray Observatory and NSF's Very
+Large Array (VLA). At a distance of about 50 million light years, M87 is
+relatively close to Earth and lies at the center of the Virgo cluster, which
+contains thousands of galaxies. The interaction of this cosmic "eruption" with
+the galaxy's environment is very similar to that of the Eyjafjallajokull volcano
+in Iceland that occurred in 2010.
 
-wip: yes
 ---
 
 @image
@@ -406,11 +426,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-461.jpg
 astropix_ids: chandra|461
 
-credits> X-ray (NASA/CXC/SAO/M.Markevitch; This is a composite image of the
-northern part of the galaxy cluster Abell 1758 showing the effects of a
-collision between two s...
+credits> X-ray (NASA/CXC/SAO/M.Markevitch); Radio (TIFR/GMRTSAO/INAF/R.Cassano, S.Giacintucci); Optical (DSS)
 
-wip: yes
 ---
 
 @scene
@@ -419,9 +436,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-461L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/a1758/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-461.jpg
 
-text> Abell 1758
+text> This is a composite image of the northern part of the galaxy cluster Abell
+1758, located about 3.2 billion light years from Earth, showing the effects of a
+collision between two smaller galaxy clusters. Chandra X-ray data (blue) reveals
+hot gas in the cluster and data from the Giant Metrewave Radio Telescope (GMRT)
+in India (pink) shows huge "halos" generated by ultra-relativistic particles and
+magnetic fields over vast scales. 
 
-wip: yes
 ---
 
 @image
@@ -431,11 +452,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-462.jpg
 astropix_ids: chandra|462
 
-credits> X-ray (NASA/CXC/SAO/J. Wang et a; This X-ray and optical image shows
-the Rosette star formation region, located about 5,000 light years from Earth.
-The Chandra X-...
+credits> X-ray (NASA/CXC/SAO/J. Wang et al), Optical (DSS & NOAO/AURA/NSF/KPNO 0.9-m/T. Rector et al)
 
-wip: yes
 ---
 
 @scene
@@ -444,33 +462,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-462L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/rosette/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-462.jpg
 
-text> Rosette Nebula
+text> This composite image shows the Rosette star formation region, located
+about 5,000 light years from Earth. Data from the Chandra X-ray Observatory are
+colored red. The X-rays reveal hundreds of young stars clustered in the center
+of the image and additional fainter clusters on either side. 
 
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-463L{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-463.jpg
-astropix_ids: chandra|463
-
-credits> X-ray (NASA/CXC/RIT/J.Kastner et al), Optical (UCO/Lick/STScI/M.Perrin
-et al); Illustration: NASA/CXC/M.Weiss
-
-wip: yes
----
-
-@scene
-place_uuid: 916effd3-6c1e-4ac0-b0ae-f3d7eee1149a
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-463L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2010/bppsc/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-463.jpg
-
-text> BP Psc
-
-wip: yes
 ---
 
 @image
@@ -480,11 +476,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-464.jpg
 astropix_ids: chandra|464
 
-credits> X-ray: NASA/CXC/SAO/T.Temim et a; G327.1-1.1 is the aftermath of a
-massive star that exploded and left behind a highly magnetic, rapidly spinning
-neutron star cal...
+credits> X-ray: NASA/CXC/SAO/T.Temim et al. and ESA/XMM-Newton; Radio: SIFA/MOST and CSIRO/ATNF/ATCA; Infrared: UMass/IPAC-Caltech/NASA/NSF/2MASS
 
-wip: yes
 ---
 
 @scene
@@ -493,9 +486,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-464L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/g327/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-464.jpg
 
-text> G327.1-1.1
+text> G327.1-1.1 is the aftermath of a massive star that exploded as a supernova
+in the Milky Way galaxy. A highly magnetic, rapidly spinning neutron star called
+a pulsar was left behind after the explosion and is producing a wind of
+relativistic particles, seen in X-rays by Chandra and XMM-Newton (blue) as well
+as in the radio data (red and yellow). This structure is called a pulsar wind
+nebula. 
 
-wip: yes
 ---
 
 @image
@@ -507,7 +504,6 @@ astropix_ids: chandra|466
 
 credits> X-ray: NASA/CXC/SAO/A.Siemiginowska et al, Optical: AURA/Gemini Obs.
 
-wip: yes
 ---
 
 @scene
@@ -516,9 +512,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-466L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/3c186/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-466.jpg
 
-text> 3C186
+text> NASA's Chandra X-ray Observatory has observed an unusual galaxy cluster
+that contains a bright core of relatively cool gas surrounding a quasar called
+3C 186. This is the most distant such object yet observed, and could provide
+insight into the triggering of quasars and the growth of galaxy clusters.
 
-wip: yes
 ---
 
 @image
@@ -531,7 +529,6 @@ astropix_ids: chandra|467
 credits> X-ray: NASA/CXC/SAO/D.Patnaude et al, Optical: ESO/VLT, Infrared:
 NASA/JPL/Caltech
 
-wip: yes
 ---
 
 @scene
@@ -540,9 +537,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-467L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/sn1979c/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-467.jpg
 
-text> SN 1979C
+text> This composite image shows a supernova within the galaxy M100 that may
+contain the youngest known black hole in our cosmic neighborhood. In this image,
+Chandra's X-rays are colored gold, while optical data from ESO's Very Large
+Telescope are shown in yellow-white and blue, and infrared data from Spitzer are
+red.
 
-wip: yes
 ---
 
 @image
@@ -552,11 +552,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-468.jpg
 astropix_ids: chandra|468
 
-credits> X-ray: NASA/CXC/SAO/S.Randall et; This composite image shows an
-intergalactic "weather map" around the elliptical galaxy NGC 5813. Just like a
-weather map for Ear...
+credits> X-ray: NASA/CXC/SAO/S.Randall et al., Optical: SDSS
 
-wip: yes
 ---
 
 @scene
@@ -565,9 +562,15 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-468L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/ngc5813/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-468.jpg
 
-text> NGC 5813
+text> This composite image shows an intergalactic "weather map" around the
+elliptical galaxy NGC 5813, the dominant central galaxy in a galaxy group
+located about 105 million light years away from Earth. Just like a weather map
+for a local forecast on Earth, the colored circle depicts variations in
+temperature across a region. This particular map presents the range of
+temperature in a region of space as observed by NASA's Chandra X-ray
+Observatory, with the hotter temperatures shown in red and decreasingly cooler
+temperatures shown in orange, yellow, green, and blue.
 
-wip: yes
 ---
 
 @image
@@ -577,11 +580,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-469.jpg
 astropix_ids: chandra|469
 
-credits> X-ray: NASA/CXC/SAO/J.Hughes et ; This composite image contains X-ray
-data from Chandra (green and blue) that show heated material in the center of a
-shell genera...
+credits> X-ray: NASA/CXC/SAO/J.Hughes et al, Optical: NASA/ESA/Hubble Heritage Team (STScI/AURA)
 
-wip: yes
 ---
 
 @scene
@@ -590,32 +590,15 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-469L{1}X{2}Y{3}.pn
 outgoing_url: https://chandra.harvard.edu/photo/2010/snr0509/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-469.jpg
 
-text> SNR 0509-67.5
+text> This colorful creation was made by combining data from two of NASA's Great
+Observatories. Optical data of SNR 0509-67.5 and its accompanying star field,
+taken with the Hubble Space Telescope, are composited with X-ray energies from
+the Chandra X-ray Observatory. The result shows soft green and blue hues of
+heated material from the X-ray data surrounded by the glowing pink optical shell
+which shows the ambient gas being shocked by the expanding blast wave from the
+supernova. Ripples in the shell's appearance coincide with brighter areas of the
+X-ray data.
 
-wip: yes
----
-
-@image
-url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-470L{1}X{2}Y{3}.png
-copyright: Public domain
-license_id: CC-PDDC
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-470.jpg
-astropix_ids: chandra|470
-
-credits> X-ray: NASA/CXC/Northwestern Univ/D.Haggard et al, Optical: SDSS
-
-wip: yes
----
-
-@scene
-place_uuid: 44e1c30a-d14f-42c4-bcf1-7e8994974b5f
-image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-470L{1}X{2}Y{3}.png
-outgoing_url: https://chandra.harvard.edu/photo/2010/2gal/
-thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-470.jpg
-
-text> Abell 644
-
-wip: yes
 ---
 
 @image
