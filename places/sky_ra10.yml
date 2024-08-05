@@ -1548,8 +1548,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-384.jpg
 zoom_level: 1.09428342784
 ---
 _uuid: 1fca5e7f-fa0d-4a4f-bd69-83edd6bf9fc3
+astropix_id: chandra|456
 classification: ''
 constellation: SEX
+cxstatus: in:66b0d85fc416890104fc048d
 data_set_type: Sky
 dec_deg: 1.9617645
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-456L{1}X{2}Y{3}.png

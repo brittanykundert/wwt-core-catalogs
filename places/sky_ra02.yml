@@ -674,8 +674,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-437.jpg
 zoom_level: 0.4878761984
 ---
 _uuid: 9b6abf7a-db7c-43b0-922c-c7fc6c1227df
+astropix_id: chandra|448
 classification: ''
 constellation: CET
+cxstatus: in:66b0d85ac416890104fc0481
 data_set_type: Sky
 dec_deg: -0.0133298
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-448L{1}X{2}Y{3}.png

@@ -1383,8 +1383,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-421.jpg
 zoom_level: 25.8151636247273
 ---
 _uuid: 32125dda-6614-458d-a103-890cfb591a8e
+astropix_id: chandra|449
 classification: ''
 constellation: SGE
+cxstatus: in:66b0d85bc416890104fc0483
 data_set_type: Sky
 dec_deg: 18.8701168
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-449L{1}X{2}Y{3}.png
@@ -1394,8 +1396,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-449.jpg
 zoom_level: 0.249152290816
 ---
 _uuid: abb5a1a3-c2ac-4b53-a39f-2e62c9b8f2bc
+astropix_id: chandra|455
 classification: ''
 constellation: CYG
+cxstatus: in:66b0d85fc416890104fc048b
 data_set_type: Sky
 dec_deg: 50.2415984
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-455L{1}X{2}Y{3}.png

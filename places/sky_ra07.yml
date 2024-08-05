@@ -750,8 +750,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-336.jpg
 zoom_level: 0.17010376704
 ---
 _uuid: 082af0cc-aea1-4644-a387-49e82c54caed
+astropix_id: chandra|466
 classification: ''
 constellation: LYN
+cxstatus: in:66b0d867c416890104fc049d
 data_set_type: Sky
 dec_deg: 37.8879321
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-466L{1}X{2}Y{3}.png
