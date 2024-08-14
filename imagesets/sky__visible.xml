@@ -37485,6 +37485,35 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.13819715755412562"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="184.71969019871"
+    CenterY="47.307278826304"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="The hidden intricacies of Messier 106"
+    OffsetX="8.434885104621925e-06"
+    OffsetY="4.2174425523109626e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="86.61999999999875"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/packages/2024/08_jwst/potm2407a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:66bd1b64391070606efefc22"
+  >
+    <Credits>ESA/Webb, NASA &amp; CSA, J. Glenn</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2407a/</CreditsUrl>
+    <Description>Featured in this new image from the NASA/ESA/CSA James Webb Space Telescope is Messier 106, also known as NGC 4258. This is a nearby spiral galaxy that resides roughly 23 million light-years away in the constellation Canes Venatici, practically a neighbour by cosmic standards. Messier 106 is one of the brightest and nearest spiral galaxies to our own and two supernovae have been observed in this galaxy in 1981 and 2014. At its heart, as in most spiral galaxies, is a supermassive black hole, but this one is particularly active. Unlike the black hole at the centre of the Milky Way, which pulls in wisps of gas only occasionally, Messier 106’s black hole is actively gobbling up material. As the gas spirals towards the black hole, it heats up and emits powerful radiation. This image was captured with Webb’s Near-InfraRed Camera (NIRCam). This observation was taken as part of a dedicated programme to study the galaxy’s Active Galactic Nucleus, the galaxy’s bright central region that is dominated by the light emitted by dust and gas as it falls into the black hole. The blue regions in this image reflect stellar distribution throughout the central region of the galaxy. The orange regions indicate warmer dust and the stronger red hues represent colder dust. The teal, green and yellow tones near the centre of the image depict varying gas distributions throughout the region. The galaxy has a remarkable feature – it is known to have two “anomalous” extra arms visible in radio and X-ray wavelengths, rather than in the visible. Unlike the normal arms, these are composed of hot gas instead of stars. Astronomers believe these extra arms result from the black hole’s activity, a feedback effect seen in other galaxies as well. They are likely caused by outflowing material produced by the violent churning of gas around the black hole, creating a phenomenon analogous to a wave crashing up out of the ocean when it hits a rock near the shore. Despite carrying his name, Messier 106 was neither discovered nor catalogued by the renowned 18th century astronomer Charles Messier. Discovered by his assistant, Pierre Méchain, the galaxy was never added to the catalogue in his lifetime. Along with six other objects discovered but not logged by the pair, Messier 106 was posthumously added to the Messier catalogue in the 20th century. [Image Description: The central region of a spiral galaxy. Its core is a small bright point radiating bright, bluish-white light over the scene. The white light is diffuse and many point-like stars in the galaxy (and even background galaxies) can be seen through it. The galaxy’s arms can be seen as broad, swirling streaks of glowing gas and dust, coloured red and orange. Two additional arms are revealed in green.] Links  Messier 106 viewed by Hubble and Webb Pan of Messier 106 </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/08_jwst/potm2407a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"

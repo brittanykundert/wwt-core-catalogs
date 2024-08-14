@@ -2173,6 +2173,30 @@ ra_hr: 12.615269902294308
 thumbnail: http://data1.wwtassets.org/packages/2024/03_jwst/weic2406d/thumb.jpg
 zoom_level: 0.6677273414351883
 ---
+_uuid: 0ca1c1ca-d2cd-4ef3-a5b7-4cf304b9d352
+astropix_id: null
+classification: ''
+constellation: CVN
+cxstatus: in:66bd1b64391070606efefc23
+data_set_type: Sky
+dec_deg: 47.307283285061665
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/08_jwst/potm2407a/{1}/{3}/{3}_{2}.png
+name: The hidden intricacies of Messier 106
+ra_hr: 12.314646402732832
+thumbnail: http://data1.wwtassets.org/packages/2024/08_jwst/potm2407a/thumb.jpg
+zoom_level: 0.8288691675988618
+---
+_uuid: 3bf411db-04e7-4da7-ad17-1234ec255647
+classification: ''
+constellation: CVN
+data_set_type: Sky
+dec_deg: 47.307283285061665
+foreground_image_set_url: http://data1.wwtassets.org/packages/2024/08_jwst/potm2407a/{1}/{3}/{3}_{2}.png
+name: The hidden intricacies of Messier 106
+ra_hr: 12.314646402732832
+thumbnail: http://data1.wwtassets.org/packages/2024/08_jwst/potm2407a/thumb.jpg
+zoom_level: 0.8288691675988618
+---
 _uuid: 5ecffcd2-2bc6-42cd-b1ce-264b52c191b5
 angular_size: 1.0
 classification: ClusterOfGalaxies
