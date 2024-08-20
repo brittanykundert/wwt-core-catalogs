@@ -538,8 +538,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-470.jpg
 zoom_level: 1.40640760004877
 ---
 _uuid: 19a5406e-286e-4b0c-825f-55eb4a15ae09
+astropix_id: chandra|473
 classification: ''
 constellation: PYX
+cxstatus: in:66c4a0dd01d08292018533ba
 data_set_type: Sky
 dec_deg: -26.4094457
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-473L{1}X{2}Y{3}.png

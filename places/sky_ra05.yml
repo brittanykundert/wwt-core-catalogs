@@ -4686,8 +4686,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-482.jpg
 zoom_level: 0.234100297728
 ---
 _uuid: 19d149aa-0183-4d66-8ca1-8b0419050fe5
+astropix_id: chandra|495
 classification: ''
 constellation: DOR
+cxstatus: in:66c4a0ef01d08292018533de
 data_set_type: Sky
 dec_deg: -69.0833858
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-495L{1}X{2}Y{3}.png

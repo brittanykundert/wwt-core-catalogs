@@ -715,8 +715,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-434.jpg
 zoom_level: 0.748183552
 ---
 _uuid: 8d3ca8d9-de93-4e6d-bead-583c6ec457c4
+astropix_id: chandra|471
 classification: ''
 constellation: UMA
+cxstatus: in:66c4a0db01d08292018533b6
 data_set_type: Sky
 dec_deg: 69.6810899
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-471L{1}X{2}Y{3}.png
