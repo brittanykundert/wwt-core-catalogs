@@ -1074,8 +1074,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-463.jpg
 zoom_level: 1.03486538621673
 ---
 _uuid: 8a8cc01c-8769-47ca-a7d5-e8a6f85cabc0
+astropix_id: chandra|476
 classification: ''
 constellation: CAS
+cxstatus: in:66c4a0df01d08292018533be
 data_set_type: Sky
 dec_deg: 58.814723
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-476L{1}X{2}Y{3}.png
