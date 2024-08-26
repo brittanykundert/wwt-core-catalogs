@@ -721,8 +721,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-406.jpg
 zoom_level: 1.61254383616
 ---
 _uuid: bd1de336-c866-4b88-91ca-3e15d61b03e3
+astropix_id: chandra|503
 classification: ''
 constellation: ORI
+cxstatus: in:66cc83edb5c14220b3db1fbd
 data_set_type: Sky
 dec_deg: 2.9148898
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-503L{1}X{2}Y{3}.png

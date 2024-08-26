@@ -1600,8 +1600,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-489.jpg
 zoom_level: 0.0168634325746526
 ---
 _uuid: 48dc8282-bb7e-4a57-aedd-f440d21d7f08
+astropix_id: chandra|513
 classification: ''
 constellation: SEX
+cxstatus: in:66cc83f5b5c14220b3db1fcb
 data_set_type: Sky
 dec_deg: 2.200973097
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-513L{1}X{2}Y{3}.png

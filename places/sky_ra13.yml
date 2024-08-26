@@ -2368,8 +2368,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-461.jpg
 zoom_level: 1.013035139072
 ---
 _uuid: d045a7c2-c3aa-4255-89b1-a4efebb8d138
+astropix_id: chandra|518
 classification: ''
 constellation: HYA
+cxstatus: in:66cc83f8b5c14220b3db1fcf
 data_set_type: Sky
 dec_deg: -29.8665
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-518L{1}X{2}Y{3}.png
