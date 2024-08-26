@@ -1257,8 +1257,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-376.jpg
 zoom_level: 1.0449351443284
 ---
 _uuid: 09badfff-dcd4-40af-9ac0-7cb0a9140315
+astropix_id: chandra|515
 classification: ''
 constellation: CAR
+cxstatus: in:66cc83f7b5c14220b3db1fcd
 data_set_type: Sky
 dec_deg: -60.90764
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-515L{1}X{2}Y{3}.png
@@ -1268,8 +1270,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-515.jpg
 zoom_level: 2.70026817536
 ---
 _uuid: 1c760e97-24da-4b8a-a67d-f70cbe69fc33
+astropix_id: chandra|529
 classification: ''
 constellation: LEO
+cxstatus: in:66cc8400b5c14220b3db1fe1
 data_set_type: Sky
 dec_deg: 12.99167
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-529L{1}X{2}Y{3}.png

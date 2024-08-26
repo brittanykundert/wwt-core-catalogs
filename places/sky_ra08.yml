@@ -551,8 +551,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-473.jpg
 zoom_level: 0.0316996550656
 ---
 _uuid: 612a074c-a7f7-4782-a00a-928c24148485
+astropix_id: chandra|526
 classification: ''
 constellation: CNC
+cxstatus: in:66cc83fdb5c14220b3db1fdb
 data_set_type: Sky
 dec_deg: 17.88015904148
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-526L{1}X{2}Y{3}.png
