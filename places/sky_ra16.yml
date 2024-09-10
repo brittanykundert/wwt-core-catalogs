@@ -1353,8 +1353,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-479.jpg
 zoom_level: 0.0373499379712
 ---
 _uuid: 5f472658-3263-4cb6-86da-ab02bb1f81b8
+astropix_id: chandra|539
 classification: ''
 constellation: OPH
+cxstatus: in:66e051ac0111f59dbb0ba448
 data_set_type: Sky
 dec_deg: 2.401425
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-539L{1}X{2}Y{3}.png

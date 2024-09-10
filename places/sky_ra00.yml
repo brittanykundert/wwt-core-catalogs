@@ -1731,8 +1731,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-491.jpg
 zoom_level: 1.35126818816
 ---
 _uuid: af5bf5ec-8c76-467d-b3c8-6fad306524f4
+astropix_id: chandra|534
 classification: ''
 constellation: TUC
+cxstatus: in:66e051960111f59dbb0ba43e
 data_set_type: Sky
 dec_deg: -72.0809849
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-534L{1}X{2}Y{3}.png
@@ -1742,8 +1744,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-534.jpg
 zoom_level: 0.17945133056
 ---
 _uuid: 90522e9a-9fd6-4cf9-a1b5-5e21d07d3267
+astropix_id: chandra|542
 classification: ''
 constellation: AND
+cxstatus: in:66e0520673c15da0aac01b8a
 data_set_type: Sky
 dec_deg: 41.2609257
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-542L{1}X{2}Y{3}.png
