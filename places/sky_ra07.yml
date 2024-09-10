@@ -763,8 +763,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-466.jpg
 zoom_level: 0.350976
 ---
 _uuid: 74bc7889-a030-4276-b33e-fa31bcbc6def
+astropix_id: chandra|544
 classification: ''
 constellation: GEM
+cxstatus: in:66e0520873c15da0aac01b8e
 data_set_type: Sky
 dec_deg: 20.9119798
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-544L{1}X{2}Y{3}.png

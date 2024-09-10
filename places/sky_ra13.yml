@@ -2381,8 +2381,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-518.jpg
 zoom_level: 0.7287914496
 ---
 _uuid: fdbff3ce-5b79-4b0a-8bd3-edc3a1153e95
+astropix_id: chandra|535
 classification: ''
 constellation: CEN
+cxstatus: in:66e051970111f59dbb0ba440
 data_set_type: Sky
 dec_deg: -63.559493
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-535L{1}X{2}Y{3}.png

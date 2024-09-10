@@ -734,8 +734,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-503.jpg
 zoom_level: 0.640259571712
 ---
 _uuid: 2c3d72a0-145e-41af-b836-cd375e7c8197
+astropix_id: chandra|532
 classification: ''
 constellation: DOR
+cxstatus: in:66e051940111f59dbb0ba43a
 data_set_type: Sky
 dec_deg: -69.73314012324
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-532L{1}X{2}Y{3}.png

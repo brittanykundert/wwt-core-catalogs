@@ -1922,8 +1922,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-486.jpg
 zoom_level: 1.33375860736
 ---
 _uuid: e5cfffc1-5ceb-4999-b7ad-4d5a50b1c651
+astropix_id: chandra|546
 classification: ''
 constellation: ERI
+cxstatus: in:66e0520973c15da0aac01b90
 data_set_type: Sky
 dec_deg: -20.5758602
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-546L{1}X{2}Y{3}.png
