@@ -1613,8 +1613,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-513.jpg
 zoom_level: 0.07941029888
 ---
 _uuid: ae350083-505e-4ac8-9062-5e4e23c78992
+astropix_id: chandra|578
 classification: ''
 constellation: CAR
+cxstatus: in:66f44184955f03d76f65978d
 data_set_type: Sky
 dec_deg: -59.6843723
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-578L{1}X{2}Y{3}.png

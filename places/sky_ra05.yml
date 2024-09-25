@@ -4725,8 +4725,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-520.jpg
 zoom_level: 1.9205545984
 ---
 _uuid: 0cbeed40-e266-4339-b3fb-579dcba27c8f
+astropix_id: chandra|548
 classification: ''
 constellation: DOR
+cxstatus: in:66f44175955f03d76f65976b
 data_set_type: Sky
 dec_deg: -67.5637517
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-548L{1}X{2}Y{3}.png
@@ -4736,8 +4738,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-548.jpg
 zoom_level: 1.78706251776
 ---
 _uuid: 1c542b75-9a62-41c9-93d6-162bc8809835
+astropix_id: chandra|568
 classification: ''
 constellation: ORI
+cxstatus: in:66f4417d955f03d76f65977d
 data_set_type: Sky
 dec_deg: -1.8489455
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-568L{1}X{2}Y{3}.png

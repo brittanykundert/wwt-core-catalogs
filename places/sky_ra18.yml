@@ -2102,8 +2102,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-551.jpg
 zoom_level: 0.0930775318528
 ---
 _uuid: 5f4cc1e1-a723-4e1f-8061-ab51dbe65783
+astropix_id: chandra|581c
 classification: ''
 constellation: SCT
+cxstatus: in:66f44187955f03d76f659793
 data_set_type: Sky
 dec_deg: -4.9309987
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-581cL{1}X{2}Y{3}.png
