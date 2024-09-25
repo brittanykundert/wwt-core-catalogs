@@ -1935,8 +1935,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-546.jpg
 zoom_level: 0.516740317184
 ---
 _uuid: ef17e870-3b56-44d9-aeee-96df03dd2474
+astropix_id: chandra|569
 classification: ''
 constellation: FOR
+cxstatus: in:66f4417e955f03d76f65977f
 data_set_type: Sky
 dec_deg: -35.4499543
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-569L{1}X{2}Y{3}.png
@@ -1946,8 +1948,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-569.jpg
 zoom_level: 0.491741134848
 ---
 _uuid: 9fb71dc4-1c01-4f9e-ba7e-74176e2efb0f
+astropix_id: chandra|571
 classification: ''
 constellation: PER
+cxstatus: in:66f44181955f03d76f659785
 data_set_type: Sky
 dec_deg: 41.511793
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-571L{1}X{2}Y{3}.png
@@ -1957,8 +1961,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-571.jpg
 zoom_level: 0.828658663424
 ---
 _uuid: 15900130-de3c-4ebb-85fd-2fa779432ccc
+astropix_id: chandra|582a
 classification: ''
 constellation: PER
+cxstatus: in:66f4418a955f03d76f65979b
 data_set_type: Sky
 dec_deg: 41.5118326
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-582aL{1}X{2}Y{3}.png

@@ -1296,8 +1296,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-554e.jpg
 zoom_level: 2.09546477568
 ---
 _uuid: bca31a9f-87e8-40ae-89a8-48bfbc0f5257
+astropix_id: chandra|562
 classification: ''
 constellation: CAR
+cxstatus: in:66f44179955f03d76f659773
 data_set_type: Sky
 dec_deg: -60.9359673
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-562L{1}X{2}Y{3}.png
@@ -1307,8 +1309,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-562.jpg
 zoom_level: 1.68405532672
 ---
 _uuid: aa41bd34-f97f-4c34-bfd6-88fda21b15c9
+astropix_id: chandra|563
 classification: ''
 constellation: CRT
+cxstatus: in:66f4417a955f03d76f659775
 data_set_type: Sky
 dec_deg: -12.5331568
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-563L{1}X{2}Y{3}.png

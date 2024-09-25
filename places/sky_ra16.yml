@@ -1366,8 +1366,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-539.jpg
 zoom_level: 0.234902552576
 ---
 _uuid: c7cef620-3bcf-4449-805c-3331078459bf
+astropix_id: chandra|564
 classification: ''
 constellation: TRA
+cxstatus: in:66f4417a955f03d76f659777
 data_set_type: Sky
 dec_deg: -60.7567317819
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-564L{1}X{2}Y{3}.png
@@ -1377,8 +1379,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-564.jpg
 zoom_level: 0.122843136
 ---
 _uuid: 36b18326-a43b-4d4c-ba7c-8ebab6e54aea
+astropix_id: chandra|581d
 classification: ''
 constellation: HER
+cxstatus: in:66f44188955f03d76f659795
 data_set_type: Sky
 dec_deg: 4.9920737
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-581dL{1}X{2}Y{3}.png

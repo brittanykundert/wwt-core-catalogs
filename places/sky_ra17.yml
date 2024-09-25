@@ -2040,8 +2040,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-556.jpg
 zoom_level: 0.0926228004864
 ---
 _uuid: c9372e35-ff95-4567-a1be-38375af8527a
+astropix_id: chandra|566
 classification: ''
 constellation: SCO
+cxstatus: in:66f4417c955f03d76f65977b
 data_set_type: Sky
 dec_deg: -35.1080029
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-566L{1}X{2}Y{3}.png
@@ -2051,8 +2053,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-566.jpg
 zoom_level: 1.09733707776
 ---
 _uuid: 1fb67b23-7159-48db-bf28-bed745c5c62d
+astropix_id: chandra|583
 classification: ''
 constellation: SGR
+cxstatus: in:66f4418c955f03d76f65979f
 data_set_type: Sky
 dec_deg: -29.0070133
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-583L{1}X{2}Y{3}.png

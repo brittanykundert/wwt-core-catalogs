@@ -822,8 +822,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-462.jpg
 zoom_level: 4.54958546944
 ---
 _uuid: 01f54c3a-0259-4e65-8825-38cf84a01659
+astropix_id: chandra|585
 classification: ''
 constellation: CMA
+cxstatus: in:66f4418e955f03d76f6597a3
 data_set_type: Sky
 dec_deg: -21.3751199
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-585L{1}X{2}Y{3}.png

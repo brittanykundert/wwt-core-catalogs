@@ -1261,8 +1261,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-537.jpg
 zoom_level: 0.288164511744
 ---
 _uuid: 683d08a7-dc95-4ea3-aa5a-b0505fc09975
+astropix_id: chandra|565
 classification: ''
 constellation: PHE
+cxstatus: in:66f4417b955f03d76f659779
 data_set_type: Sky
 dec_deg: -49.2550899
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-565L{1}X{2}Y{3}.png

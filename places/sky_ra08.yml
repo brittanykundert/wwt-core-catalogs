@@ -590,8 +590,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-540.jpg
 zoom_level: 0.0572051898368
 ---
 _uuid: ff6f866d-366b-40ae-b693-8c327d5c47ac
+astropix_id: chandra|577
 classification: ''
 constellation: PUP
+cxstatus: in:66f44183955f03d76f65978b
 data_set_type: Sky
 dec_deg: -43.0076723
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-577L{1}X{2}Y{3}.png
@@ -601,8 +603,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-577.jpg
 zoom_level: 6.49738289152
 ---
 _uuid: d2bb7cfc-ca15-407a-9131-aa683f1d5594
+astropix_id: chandra|581a
 classification: ''
 constellation: VEL
+cxstatus: in:66f44186955f03d76f659791
 data_set_type: Sky
 dec_deg: -47.5003611
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-581aL{1}X{2}Y{3}.png

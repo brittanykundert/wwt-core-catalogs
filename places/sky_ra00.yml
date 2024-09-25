@@ -1757,8 +1757,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-542.jpg
 zoom_level: 10.9227889012364
 ---
 _uuid: 33fe80e0-0c24-4703-b581-6a3b38b2a905
+astropix_id: chandra|586
 classification: ''
 constellation: CET
+cxstatus: in:66f4418f955f03d76f6597a5
 data_set_type: Sky
 dec_deg: -20.5674724
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-586L{1}X{2}Y{3}.png
