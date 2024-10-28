@@ -2919,8 +2919,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-582b.jpg
 zoom_level: 1.70789306368
 ---
 _uuid: 51e93ac0-7b5a-41da-92a4-68e6f5883dde
+astropix_id: chandra|589
 classification: ''
 constellation: MUS
+cxstatus: in:671f9732db8c1fae7da83aae
 data_set_type: Sky
 dec_deg: -65.4823356
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-589L{1}X{2}Y{3}.png

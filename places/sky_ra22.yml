@@ -985,8 +985,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-432.jpg
 zoom_level: 1.5238725632
 ---
 _uuid: 6c96a54f-2bc7-402c-910c-3ee9e7e56c3a
+astropix_id: chandra|610f
 classification: ''
 constellation: CEP
+cxstatus: in:671f974adb8c1fae7da83adc
 data_set_type: Sky
 dec_deg: 65.5946166
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-610fL{1}X{2}Y{3}.png

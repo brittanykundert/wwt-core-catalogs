@@ -940,8 +940,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-527.jpg
 zoom_level: 0.05241094144
 ---
 _uuid: 993eea21-8003-48fa-9fb9-842bb6692ae5
+astropix_id: chandra|587e
 classification: ''
 constellation: CIR
+cxstatus: in:671f9731db8c1fae7da83aaa
 data_set_type: Sky
 dec_deg: -62.2289035
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-587eL{1}X{2}Y{3}.png
@@ -951,8 +953,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-587e.jpg
 zoom_level: 1.491921371136
 ---
 _uuid: ea028021-899a-493b-820c-2f95082b566f
+astropix_id: chandra|610e
 classification: ''
 constellation: BOO
+cxstatus: in:671f9749db8c1fae7da83ada
 data_set_type: Sky
 dec_deg: 52.2027917
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-610eL{1}X{2}Y{3}.png

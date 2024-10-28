@@ -747,8 +747,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-532.jpg
 zoom_level: 1.55476508672
 ---
 _uuid: 3d2d73d6-0630-4a74-a3ea-7b95f358c676
+astropix_id: chandra|593a
 classification: ''
 constellation: ERI
+cxstatus: in:671f9736db8c1fae7da83ab6
 data_set_type: Sky
 dec_deg: -24.0745467
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-593aL{1}X{2}Y{3}.png
