@@ -1448,8 +1448,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-554b.jpg
 zoom_level: 1.99616856064
 ---
 _uuid: b86f9aea-cd0e-4574-8187-e9c5dc803c90
+astropix_id: chandra|587d
 classification: ''
 constellation: CYG
+cxstatus: in:671f9730db8c1fae7da83aa8
 data_set_type: Sky
 dec_deg: 40.7344996
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-587dL{1}X{2}Y{3}.png

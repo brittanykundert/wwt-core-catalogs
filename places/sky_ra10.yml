@@ -1626,8 +1626,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-578.jpg
 zoom_level: 0.160027746304
 ---
 _uuid: 909852ad-6707-42eb-953f-6a158dc272f0
+astropix_id: chandra|607
 classification: ''
 constellation: LMI
+cxstatus: in:671f9744db8c1fae7da83ace
 data_set_type: Sky
 dec_deg: 35.0443949
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-607L{1}X{2}Y{3}.png

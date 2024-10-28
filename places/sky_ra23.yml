@@ -1113,8 +1113,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-519.jpg
 zoom_level: 0.765601264670659
 ---
 _uuid: 2015a621-b293-4ebc-bae4-ddb083f87041
+astropix_id: chandra|591
 classification: ''
 constellation: AQR
+cxstatus: in:671f9734db8c1fae7da83ab2
 data_set_type: Sky
 dec_deg: -12.124055
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-591L{1}X{2}Y{3}.png
@@ -1124,8 +1126,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-591.jpg
 zoom_level: 0.1565549903872
 ---
 _uuid: f2c1d045-c0a4-4b3f-8b00-b817508db05c
+astropix_id: chandra|609
 classification: ''
 constellation: PHE
+cxstatus: in:671f9745db8c1fae7da83ad0
 data_set_type: Sky
 dec_deg: -42.7201768
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-609L{1}X{2}Y{3}.png
