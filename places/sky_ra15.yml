@@ -589,8 +589,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-606.jpg
 zoom_level: 0.365037254776471
 ---
 _uuid: 6fc184d6-03be-4444-8cc3-4b2b347b5607
+astropix_id: chandra|640c
 classification: ''
 constellation: CIR
+cxstatus: in:672d1e270d1c7ef132a39084
 data_set_type: Sky
 dec_deg: -58.8050082
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-640cL{1}X{2}Y{3}.png

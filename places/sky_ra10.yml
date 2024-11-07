@@ -1639,8 +1639,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-607.jpg
 zoom_level: 1.26286471168
 ---
 _uuid: f26b1051-4951-471a-8d18-94cbedcbfae5
+astropix_id: chandra|626d
 classification: ''
 constellation: SEX
+cxstatus: in:672d1e1f0d1c7ef132a39070
 data_set_type: Sky
 dec_deg: 4.18634
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-626dL{1}X{2}Y{3}.png
@@ -1650,8 +1652,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-626d.jpg
 zoom_level: 0.192437764096
 ---
 _uuid: 16369967-82b7-4db1-b50e-34f6bf678cc3
+astropix_id: chandra|635
 classification: ''
 constellation: SEX
+cxstatus: in:672d1e230d1c7ef132a3907a
 data_set_type: Sky
 dec_deg: 2.3361325
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-635L{1}X{2}Y{3}.png
@@ -1661,8 +1665,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-635.jpg
 zoom_level: 0.164778016768
 ---
 _uuid: 25c7f523-7113-403f-8a00-1b54ae795f3a
+astropix_id: chandra|640a
 classification: ''
 constellation: CAR
+cxstatus: in:672d1e260d1c7ef132a39080
 data_set_type: Sky
 dec_deg: -57.76353613526
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-640aL{1}X{2}Y{3}.png

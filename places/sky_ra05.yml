@@ -4790,8 +4790,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-612.jpg
 zoom_level: 113.4662598656
 ---
 _uuid: c382d1ba-87c8-4a6d-a277-6f37235712fc
+astropix_id: chandra|620
 classification: ''
 constellation: PIC
+cxstatus: in:672d1e170d1c7ef132a39060
 data_set_type: Sky
 dec_deg: -45.7768467
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-620L{1}X{2}Y{3}.png

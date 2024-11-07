@@ -1287,8 +1287,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-593b.jpg
 zoom_level: 0.232704802816
 ---
 _uuid: c5bd942b-6a44-4034-ac71-223f3c6bc56f
+astropix_id: chandra|640b
 classification: ''
 constellation: PSC
+cxstatus: in:672d1e260d1c7ef132a39082
 data_set_type: Sky
 dec_deg: 32.4124951
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-640bL{1}X{2}Y{3}.png
