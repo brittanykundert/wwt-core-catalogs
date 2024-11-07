@@ -760,8 +760,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-593a.jpg
 zoom_level: 0.245886353408
 ---
 _uuid: 37878806-a1ae-4442-bb3a-af1b1f96926d
+astropix_id: chandra|622a
 classification: ''
 constellation: ERI
+cxstatus: in:672d1e190d1c7ef132a39064
 data_set_type: Sky
 dec_deg: -24.074654
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-622aL{1}X{2}Y{3}.png

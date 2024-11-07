@@ -616,8 +616,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-581a.jpg
 zoom_level: 2.00966684672
 ---
 _uuid: 59856c0d-5b83-4108-83b2-28cc92d20a32
+astropix_id: chandra|640d
 classification: ''
 constellation: UMA
+cxstatus: in:672d1e280d1c7ef132a39086
 data_set_type: Sky
 dec_deg: 65.8653523
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-640dL{1}X{2}Y{3}.png
@@ -627,8 +629,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-640d.jpg
 zoom_level: 1.367419584512
 ---
 _uuid: 365181d7-3664-4428-bb2e-53dc58199ffc
+astropix_id: chandra|646
 classification: ''
 constellation: HYA
+cxstatus: in:672d1e2d0d1c7ef132a39092
 data_set_type: Sky
 dec_deg: -17.5268228
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-646L{1}X{2}Y{3}.png

@@ -1783,8 +1783,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-593e.jpg
 zoom_level: 0.449967128576
 ---
 _uuid: b0ede79a-df48-4519-8bd2-76133e1969b1
+astropix_id: chandra|627
 classification: ''
 constellation: CAS
+cxstatus: in:672d1e1f0d1c7ef132a39072
 data_set_type: Sky
 dec_deg: 64.138614
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-627L{1}X{2}Y{3}.png
