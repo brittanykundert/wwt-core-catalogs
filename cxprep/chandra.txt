@@ -6,10 +6,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-66.jpg
 astropix_ids: chandra|66
 
-credits> X-ray: NASA/CXC/Bristol U./M. Hardcastle et al.; Radio:
-NRAO/AUI/NSF/Bristol U./M. Hardcastle
+credits> X-ray: NASA/CXC/Bristol U./M. Hardcastle et al.; Radio: NRAO/AUI/NSF/Bristol U./M. Hardcastle
 
-wip: yes
 ---
 
 @scene
@@ -18,9 +16,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-66L{1}X{2}Y{3}.png
 outgoing_url: https://chandra.harvard.edu/photo/2003/cenajet/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-66.jpg
 
-text> Centaurus A Jet
+text> This is a composite image of Chandra X-ray (blue) and VLA radio (red)
+observations showing the inner 4,000 light years of a magnetized jet in
+Centaurus A. Purple regions are bright in both radio and X-ray. The jet
+originates from the vicinity of the supermassive black hole at the center of the
+galaxy.
 
-wip: yes
 ---
 
 @image
@@ -32,7 +33,6 @@ astropix_ids: chandra|71
 
 credits> NASA/CXC/U.Leicester/U.London/R.Soria &amp; K.Wu
 
-wip: yes
 ---
 
 @scene
@@ -41,9 +41,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-71L{1}X{2}Y{3}.png
 outgoing_url: https://chandra.harvard.edu/photo/2003/1154/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-71.jpg
 
-text> M83
+text> Chandra's image of M83 shows numerous point-like neutron star and black
+hole X-ray sources scattered throughout the disk of this spiral galaxy. The
+bright nuclear region of the galaxy glows prominently due to a burst of star
+formation that is estimated to have begun about 20 million years ago in the
+galaxy's time frame.
 
-wip: yes
 ---
 
 @image
@@ -55,7 +58,6 @@ astropix_ids: chandra|74
 
 credits> X-ray: NASA/CXC/ESO/P.Rosati et al.; Optical: ESO/VLT/P.Rosati et al.
 
-wip: yes
 ---
 
 @scene
@@ -64,9 +66,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-74L{1}X{2}Y{3}.png
 outgoing_url: https://chandra.harvard.edu/photo/2004/rdcs1252/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-74.jpg
 
-text> RDCS 1252.9-2927
+text> A color composite image of the galaxy cluster RDCS 1252.9-2927 shows the
+X-ray (purple) light from 70-million-degree Celsius gas in the cluster, and the
+optical (red, yellow and green) light from the galaxies in the cluster. X-ray
+data from Chandra and the XMM-Newton Observatory show that this cluster was
+fully formed more than 8 billion years ago, and has a mass at least 200 trillion
+times that of the Sun.
 
-wip: yes
 ---
 
 @image
@@ -75,11 +81,8 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-79.jpg
 
-credits> X-ray: NASA/CXC/SAO/UMass/D. Wan; The composite image at left spans
-about one million light years. It was made by combining the four images at
-right. These images...
+credits> X-ray: NASA/CXC/SAO/UMass/D. Wang et al.; Optical: NASA/STScI/U. Alabama/W. Keel; Radio: NSF/NRAO/F. Owen; Optical [OII]: NSF/NOAO/KPNO/M.Ledlow
 
-wip: yes
 ---
 
 @scene
@@ -88,9 +91,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-79L{1}X{2}Y{3}.png
 outgoing_url: https://chandra.harvard.edu/photo/2004/c153/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-79.jpg
 
-text> C153
+text> These images offer a dramatic look at C153, a galaxy being ripped apart as
+it races at 4.5 million miles per hour through a distant cluster of galaxies.
+The infalling galaxy's gas is being stripped by the pressure of
+20-million-degree Celsius gas that permeates the cluster.
 
-wip: yes
 ---
 
 @image
@@ -102,7 +107,6 @@ astropix_ids: chandra|80
 
 credits> NASA/CXC/PSU/S.Park et al.
 
-wip: yes
 ---
 
 @scene
@@ -111,9 +115,14 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-80L{1}X{2}Y{3}.png
 outgoing_url: https://chandra.harvard.edu/photo/2003/snr0103/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-80.jpg
 
-text> SNR 0103-72.6
+text> The striking Chandra image of supernova remnant, SNR 0103-72.6, reveals a
+nearly perfect ring about 150 light years in diameter surrounding a cloud of gas
+enriched in oxygen and shock heated to millions of degrees Celsius. The ring
+marks the outer limits of a shock wave produced as material ejected in the
+supernova explosion plows into the interstellar gas. The size of the ring
+indicates that we see the supernova remnant as it was about 10,000 years after
+its progenitor star exploded.
 
-wip: yes
 ---
 
 @image
@@ -125,7 +134,6 @@ astropix_ids: chandra|81
 
 credits> NASA/SAO/CXC/G.Fabbiano et al.
 
-wip: yes
 ---
 
 @scene
@@ -134,9 +142,14 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-81L{1}X{2}Y{3}.png
 outgoing_url: https://chandra.harvard.edu/photo/2001/0120true/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-81.jpg
 
-text> Antennae
+text> This Chandra X-ray image shows the central regions of two colliding
+galaxies known collectively as "The Antennae." The latest Chandra data reveal a
+large population of extremely bright X-ray sources in this area of intense star
+formation. These "ultraluminous" X-ray sources, which emit 10 to several hundred
+times more X-ray power than similar sources in our own Galaxy, are believed to
+be either massive black holes, or black holes that are beaming their energy
+toward Earth.
 
-wip: yes
 ---
 
 @image
@@ -146,9 +159,8 @@ license_id: CC-PDDC
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-82.jpg
 astropix_ids: chandra|82
 
-credits> NASA/CXC/SAO/G.Fabbiano et al
+credits> NASA/CXC/SAO/G.Fabbiano et al.
 
-wip: yes
 ---
 
 @scene
@@ -157,9 +169,10 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-82L{1}X{2}Y{3}.png
 outgoing_url: https://chandra.harvard.edu/photo/2004/antennae/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-82.jpg
 
-text> The Antennae
+text> This montage of Chandra images shows a pair of interacting galaxies known
+as The Antennae. Rich deposits of neon, magnesium, and silicon were discovered
+in the interstellar gas of this system.
 
-wip: yes
 ---
 
 @image
@@ -171,7 +184,6 @@ astropix_ids: chandra|87
 
 credits> NASA/CXC/MIT/F.K.Baganoff et al.
 
-wip: yes
 ---
 
 @scene
@@ -180,9 +192,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-87L{1}X{2}Y{3}.png
 outgoing_url: https://chandra.harvard.edu/photo/2003/0203long/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-87.jpg
 
-text> Sagittarius A*; Galactic Center
+text> This Chandra image of the supermassive black hole at our Galaxy's center,
+a.k.a. Sagittarius A* or Sgr A*, was made from the longest X-ray exposure of
+that region to date. In addition to Sgr A* more than two thousand other X-ray
+sources were detected in the region, making this one of the richest fields ever
+observed.
 
-wip: yes
 ---
 
 @image
@@ -194,7 +209,6 @@ astropix_ids: chandra|90
 
 credits> NASA/CXC/PSU/D.M.Alexander, F.E.Bauer, W.N.Brandt et al.
 
-wip: yes
 ---
 
 @scene
@@ -203,9 +217,11 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-90L{1}X{2}Y{3}.png
 outgoing_url: https://chandra.harvard.edu/photo/2003/goods/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-90.jpg
 
-text> GOODS Chandra Deep Field-North
+text> This image, the “Chandra Deep Field North”, was made by observing an area
+of the sky three-fifths the size of the full moon for 23 days. It is the most
+sensitive or "deepest" X-ray exposure ever made. The faintest sources produced
+only one X-ray photon every 4 days.
 
-wip: yes
 ---
 
 @image
@@ -218,7 +234,6 @@ astropix_ids: chandra|92
 credits> X-ray: NASA/CXC/MIT/UCSB/P.Ogle et al.; Optical: NASA/STScI/A.Capetti
 et al.
 
-wip: yes
 ---
 
 @scene
@@ -227,9 +242,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-92L{1}X{2}Y{3}.png
 outgoing_url: https://chandra.harvard.edu/photo/2003/ngc1068/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-92.jpg
 
-text> NGC 1068
+text> This composite X-ray (blue and green) and optical (red) image of the
+active galaxy, NGC 1068, shows gas blowing away in a high-speed wind from the
+vicinity of a central supermassive black hole. Regions of intense star formation
+in the inner spiral arms of the galaxy are highlighted by both optical and X-ray
+emission.
 
-wip: yes
 ---
 
 @image
@@ -241,7 +259,6 @@ astropix_ids: chandra|93
 
 credits> NASA/CXC/PSU/L.Townsley et al.
 
-wip: yes
 ---
 
 @scene
@@ -250,9 +267,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-93L{1}X{2}Y{3}.png
 outgoing_url: https://chandra.harvard.edu/photo/2003/m17/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-93.jpg
 
-text> M17
+text> The Chandra image reveals hot gas flowing away from massive young stars in
+the center of the Horseshoe Nebula, a.k.a. M17, a.k.a. the Omega Nebula. The gas
+temperatures range from 1.5 million degrees Celsius (2.7 million degrees
+Fahrenheit) to about 7 million degrees Celsius (13 million degrees F). A group
+of massive young stars responsible for the activity in the nebula is located in
+the bright pink region near the center of the image.
 
-wip: yes
 ---
 
 @image
@@ -264,7 +285,6 @@ astropix_ids: chandra|94
 
 credits> NASA/CXC/M.Machacek et al.
 
-wip: yes
 ---
 
 @scene
@@ -273,9 +293,12 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-94L{1}X{2}Y{3}.png
 outgoing_url: https://chandra.harvard.edu/photo/2003/ngc4438/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-94.jpg
 
-text> NGC 4438 and NGC 4435
+text> This Chandra image shows multimillion degree gas in two galaxies in the
+Virgo galaxy cluster that are now more than 100,000 light years apart. In NGC
+4438, the larger galaxy in the lower part of the image, filaments of hot gas
+have been pulled to the right of the galaxy. The hot gas in the smaller galaxy,
+NGC 4435 (upper right), is concentrated around its central region.
 
-wip: yes
 ---
 
 @image
@@ -287,7 +310,6 @@ astropix_ids: chandra|97
 
 credits> NASA/CXC/W. Forman et al.
 
-wip: yes
 ---
 
 @scene
@@ -296,9 +318,13 @@ image_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-97L{1}X{2}Y{3}.png
 outgoing_url: https://chandra.harvard.edu/photo/2004/m87/
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-97.jpg
 
-text> M87
+text> Two Chandra observations of the giant elliptical galaxy M87 were combined
+to make this long-exposure image. A central jet is surrounded by nearby bright
+arcs and dark cavities in the multimillion degree Celsius atmosphere of M87.
+Much further out, at a distance of about fifty thousand light years from the
+galaxy's center, faint rings can be seen and two spectacular plumes extend
+beyond the rings.
 
-wip: yes
 ---
 
 @image
@@ -308,29 +334,25 @@ license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1129358135
 astropix_ids: chandra|395
 
-credits> Chandra X-ray: NASA/CXC/HSC/J. Keohane et al.; ROSAT X-ray: NASA/ROSAT;
-Optical : NOAO/CTIO/P.F. Winkler et al.; Radio: NSF/NRAO/VLA/G. Dubner et al.
-This composite shows a classic example of a mixed-morphology supernova remnant
-known as W28. The background stars and fine structure are seen in optical light
-(grey and white) by CTIO. The radio (orange) data are from the VLA, while the
-wide-field X-rays (blue) come from the ROSAT satellite. The white-bordered
-region of the center from Chandra (low-energy X-rays are red, the medium are
-green, and the high range is blue) shows the shape and extent of the high-energy
-emission in that region. By studying W28 and others like it, astronomers hope to
-better understand the complexities involved when a star explodes in a crowded
-neighborhood.
+credits> NASA/CXC/HSC/J. Keohane et al.
 
-wip: yes
 ---
 
 @scene
 place_uuid: 797dae26-fa7f-4f67-affb-e13596504be2
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1129358135
-outgoing_url: https://chandra.harvard.edu/photo/2008/w28/more.html#img1b
+outgoing_url: https://chandra.harvard.edu/photo/2008/w28/#img1b
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1129358135
 
-text> W28: A Mixed Bag;G6.4-0.1
+text> Data from NASA’s Chandra X-ray Observatory give new detail into the heart
+of supernova remnant W28. In this close-up view of the center of the remnant,
+low-energy X-rays are colored red, the medium are green, and the highest found
+by Chandra are blue. The Chandra data show the shape and extent of the
+high-energy emission in the central region. By studying W28 and others like it,
+astronomers hope to better understand the complexities involved when a star
+explodes in a crowded neighborhood. This image combines Chandra data with a
+background map in visible light.
 
-wip: yes
 ---
 
 @image
@@ -339,21 +361,20 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1432823315
 
-credits> NASA/ESA/JHU/R.Sankrit & W.Blair. The optical image of Kepler's SNR
-reveals 10,000 degrees Celsius gas where the supernova shock wave is slamming
-into the densest regions of surrounding gas
+credits> NASA/ESA/JHU/R.Sankrit &amp; W.Blair.
 
-wip: yes
 ---
 
 @scene
 place_uuid: 9ff8df44-f1a4-4bf3-a073-cd27d6dd2c5b
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1432823315
-outgoing_url: https://chandra.harvard.edu/photo/2004/kepler/more.html
+outgoing_url: https://chandra.harvard.edu/photo/2004/kepler/
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1432823315
 
-text> Kepler's Supernova Remnant (Optical)
+text> The optical image of Kepler's supernova remnant reveals 10,000 degrees
+Celsius gas where the supernova shock wave is slamming into the densest regions
+of surrounding gas.
 
-wip: yes
 ---
 
 @image
@@ -362,23 +383,22 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1614797484
 
-credits> NASA/CXC/ETH Zuerich/M.Guedel et al. Chandra’s image of DG Tau reveals
-the first double-sided X-ray jet ever detected from a young star. The jet, which
-runs from the top left to the bottom right, extends about 70 billion miles away
-from the star. Scientists think that a similar jet may have been launched from
-our young Sun and could have had a significant impact on the early solar system.
+credits> NASA/CXC/ETH Zuerich/M.Guedel et al.
 
-wip: yes
 ---
 
 @scene
 place_uuid: ca5e4f29-2984-40db-9bc1-a460af9dced4
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1614797484
-outgoing_url: https://chandra.harvard.edu/photo/2008/dgtau/more.html#dgtau_xray
+outgoing_url: https://chandra.harvard.edu/photo/2008/dgtau/#dgtau_xray
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1614797484
 
-text> DG Tau
+text> Chandra’s image of DG Tau reveals the first double-sided X-ray jet ever
+detected from a young star. The jet, which runs from the top left to the bottom
+right, extends about 70 billion miles away from the star. Scientists think that
+a similar jet may have been launched from our young Sun and could have had a
+significant impact on the early solar system.
 
-wip: yes
 ---
 
 @image
@@ -387,25 +407,23 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1730537678
 
-credits> 2MASS/UMass/IPAC-Caltech/NASA/NSF/CfA/E.Bressert. This panoramic image
-from the Two Micron All Sky Survey (2MASS), covering about 3 degrees by about 2
-degrees, shows the central region of the Milky Way galaxy. The Galactic center
-is the bright red spot in the upper right side of the image. The Chandra and VLA
-composite image of G1.9+0.3 is shown in the lower left. The plane of the galaxy
-runs from the Galactic center to approximately the lower left corner of the
-image.
+credits> 2MASS/UMass/IPAC-Caltech/NASA/NSF/CfA/E.Bressert
 
-wip: yes
 ---
 
 @scene
 place_uuid: c6457cee-8e2f-431f-b1d6-9508c1ff0fd3
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1730537678
-outgoing_url: https://chandra.harvard.edu/photo/2008/g19/more.html#img6b
+outgoing_url: https://chandra.harvard.edu/photo/2008/g19/#img6b
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1730537678
 
-text> Infrared Panoramic image of the Galactic center
+text> This panoramic image from the Two Micron All Sky Survey (2MASS), covering
+about 3 degrees by about 2 degrees, shows the central region of the Milky Way
+galaxy. The Galactic center is the bright red spot in the upper right side of
+the image. The Chandra and VLA composite image of G1.9+0.3 is shown in the lower
+left. The plane of the galaxy runs from the Galactic center to approximately the
+lower left corner of the image.
 
-wip: yes
 ---
 
 @image
@@ -414,29 +432,23 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=182605652
 
-credits> NASA/CXC/Rutgers/J.Warren, J.Hughes. A Chandra X-ray Observatory image
-of the supernova remnant SNR 0509-67.5 in the Large Magellanic Cloud. The lowest
-energy X-rays are shown in red, the intermediate energies are green and the
-highest energies are blue. In 2004, scientists used Chandra to show that SNR
-0509-67.5 was likely caused by a Type Ia supernova, using an analysis of the
-elements, such as silicon and iron, that were detected. A Type Ia is thought to
-result from a white dwarf star in a binary system that reaches a critical mass
-and explodes. In the new X-ray study of SNR 0509-67.5, spectra from Chandra and
-ESA's XMM-Newton Observatory were used to calculate the amount of energy
-involved in the original explosion, using an analysis of the supernova remnant
-and state-of-the-art explosion models.
+credits> NASA/CXC/Rutgers/J.Warren, J.Hughes
 
-wip: yes
 ---
 
 @scene
 place_uuid: 80cd93d1-86d6-4d05-be3b-49cfcebd302f
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},182605652
 outgoing_url: https://chandra.harvard.edu/photo/2008/snr0509/
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=182605652
 
-text> SNR 0509-67.5: Action Replay Of Powerful Stellar Explosion
+text> A Chandra X-ray Observatory image of the supernova remnant SNR 0509-67.5
+in the Large Magellanic Cloud. The lowest energy X-rays are shown in red, the
+intermediate energies are green and the highest energies are blue. In 2004,
+scientists used Chandra to show that SNR 0509-67.5 was likely caused by a Type
+Ia supernova, using an analysis of the elements, such as silicon and iron, that
+were detected.
 
-wip: yes
 ---
 
 @image
@@ -445,20 +457,24 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1912661927
 
-credits> Chandra X-ray: NASA/CXC/HSC/J. Keohane et al.; ROSAT X-ray: NASA/ROSAT;
-Optical : NOAO/CTIO/P.F. Winkler et al.; Radio: NSF/NRAO/VLA/G. Dubner et al.
+credits> NASA/CXC/HSC/J. Keohane et al.
 
-wip: yes
 ---
 
 @scene
 place_uuid: 58aa8957-8cad-47dd-a0cc-256e9d97c830
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1912661927
-outgoing_url: https://chandra.harvard.edu/photo/2008/w28/more.html#img1a
+outgoing_url: https://chandra.harvard.edu/photo/2008/w28/#img1a
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1912661927
 
-text> W28: A Mixed Bag;G6.4-0.1
+text> Data from NASA’s Chandra X-ray Observatory give new detail into the heart
+of supernova remnant W28. In this close-up view of the center of the remnant,
+low-energy X-rays are colored red, the medium are green, and the highest found
+by Chandra are blue. The Chandra data show the shape and extent of the
+high-energy emission in the central region. By studying W28 and others like it,
+astronomers hope to better understand the complexities involved when a star
+explodes in a crowded neighborhood. This image shows just the Chandra data.
 
-wip: yes
 ---
 
 @image
@@ -467,20 +483,25 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=202800000
 
-credits> Chandra X-ray: NASA/CXC/HSC/J. Keohane et al.; ROSAT X-ray: NASA/ROSAT;
-Optical : NOAO/CTIO/P.F. Winkler et al.; Radio: NSF/NRAO/VLA/G. Dubner et al.
+credits> ROSAT X-ray: NASA/ROSAT; Optical: NOAO/CTIO/P.F. Winkler et al; Radio: NSF/NRAO/VLA/G. Dubner et al.
 
-wip: yes
 ---
 
 @scene
 place_uuid: 0465219f-0284-41bf-8f72-7227a7a0b1d3
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},202800000
-outgoing_url: https://chandra.harvard.edu/photo/2008/w28/more.html#img2d
+outgoing_url: https://chandra.harvard.edu/photo/2008/w28/#img2d
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=202800000
 
-text> W28: A Mixed Bag;G6.4-0.1
+text> This composite shows a classic example of mixed-morphology supernova
+remnant known as W28. Each wavelength shows detailed structure of how the
+supernova shock wave is interacting, or has interacted, with the complex cloudy
+environment which surrounded its parent star. The background stars and fine
+structure are seen in optical light (grey and white) by the Cerro Tololo
+Inter-American Observatory in Chile. The radio (orange) data was obtained by the
+Very Large Array in New Mexico, while the blue in the wide-field view comes from
+the ROSAT satellite (X-rays).
 
-wip: yes
 ---
 
 @image
@@ -490,23 +511,22 @@ license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=251702032
 astropix_ids: chandra|400
 
-credits> X-ray: NASA/CXC/CfA/W. Forman et al.; Radio: NRAO/AUI/NSF/W. Cotton;
-Optical : NASA/ESA/Hubble Heritage Team (STScI/AURA), and R. Gendler. This image
-is a composite of visible (or optical), radio, and X-ray data of the giant
-elliptical galaxy, M87. M87 lies at a distance of 60 million light years and is
-the largest galaxy in the Virgo cluster of galaxies
+credits> X-ray: NASA/CXC/CfA/W. Forman et al.; Radio: NRAO/AUI/NSF/W. Cotton; Optical: NASA/ESA/Hubble Heritage Team (STScI/AURA), and R. Gendler
 
-wip: yes
 ---
 
 @scene
 place_uuid: b06f8d18-8033-4449-8d6d-bfccbcbb5cfb
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},251702032
 outgoing_url: https://chandra.harvard.edu/photo/2008/m87/
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=251702032
 
-text> A Nearby Galaxy Metropolis;M87;Messier 87
+text> This image is a composite of visible (or optical), radio, and X-ray data
+of the giant elliptical galaxy, M87. M87 lies at a distance of 60 million light
+years and is the largest galaxy in the Virgo cluster of galaxies. Bright jets
+moving at close to the speed of light are seen at all wavelengths coming from
+the massive black hole at the center of the galaxy.
 
-wip: yes
 ---
 
 @image
@@ -515,25 +535,23 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=269828725
 
-credits> X-ray (NASA/CXC/NCSU/S.Reynolds et al.); Radio
-(NSF/NRAO/VLA/Cambridge/D.Green et al.) This composite image of the supernova
-remnant G1.9+0.3 combines the Chandra X-ray Observatory image taken in 2007
-(orange) with the Very Large Array radio image taken in 1985 (blue) and 2008
-(yellow). The difference in size between the images gives clear evidence for
-expansion, allowing the age of the remnant and the time since the original
-supernova explosion (about 140 years) to be estimated.
+credits> X-ray (NASA/CXC/NCSU/S.Reynolds et al.); Radio (NSF/NRAO/VLA/Cambridge/D.Green et al.)
 
-wip: yes
 ---
 
 @scene
 place_uuid: 9afdf5af-e2eb-488b-8700-702f74554bbc
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},269828725
-outgoing_url: https://chandra.harvard.edu/photo/2008/g19/more.html#img8
+outgoing_url: https://chandra.harvard.edu/photo/2008/g19/#img8
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=269828725
 
-text> G1.9+0.3: Discovery of Most Recent Supernova in Our Galaxy;SNR G001.9+00.3
+text> This composite image of the supernova remnant G1.9+0.3 combines the
+Chandra X-ray Observatory image taken in 2007 (orange) with the Very Large Array
+radio image taken in 1985 (blue) and 2008 (yellow). The difference in size
+between the images gives clear evidence for expansion, allowing the age of the
+remnant and the time since the original supernova explosion (about 140 years) to
+be estimated.
 
-wip: yes
 ---
 
 @image
@@ -542,21 +560,19 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=341839497
 
-credits> NASA/ESA/JHU/R.Sankrit & W.Blair. The infrared image of Kepler's SNR
-highlights microscopic dust particles swept up and heated by the supernova shock
-wave.
+credits> NASA/ESA/JHU/R.Sankrit &amp; W.Blair.
 
-wip: yes
 ---
 
 @scene
 place_uuid: 5590e8b7-4496-4c46-b8ef-a4014cdc3b56
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},341839497
-outgoing_url: https://chandra.harvard.edu/photo/2004/kepler/more.html
+outgoing_url: https://chandra.harvard.edu/photo/2004/kepler/#img2d
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=341839497
 
-text> Kepler's Supernova Remnant (Infrared)
+text> This infrared image of Kepler's supernova remnant highlights microscopic
+dust particles swept up and heated by the supernova shock wave.
 
-wip: yes
 ---
 
 @image
@@ -565,23 +581,22 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=378724299
 
-credits> NASA/ESA/JHU/R.Sankrit & W.Blair. Composite XRay, Infrared, and Optical
-image. On October 9, 1604, sky watchers -- including astronomer Johannes Kepler,
-spotted a "new star" in the western sky, rivaling the brilliance of nearby
-planets. "Kepler's supernova" was the last exploding supernova seen in our Milky
-Way galaxy.
+credits> NASA/ESA/JHU/R.Sankrit &amp; W.Blair
 
-wip: yes
 ---
 
 @scene
 place_uuid: b13af3f2-3f7a-4928-8921-23a23a7aef9b
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},378724299
-outgoing_url: https://chandra.harvard.edu/photo/2004/kepler/index.html
+outgoing_url: https://chandra.harvard.edu/photo/2004/kepler/
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=378724299
 
-text> Kepler's Supernova Remnant
+text> NASA's three Great Observatories — the Hubble Space Telescope, the Spitzer
+Space Telescope, and the Chandra X-ray Observatory — joined forces to probe the
+expanding remains of a supernova. Now known as Kepler's supernova remnant, this
+object was first seen 400 years ago by sky watchers, including famous astronomer
+Johannes Kepler.
 
-wip: yes
 ---
 
 @image
@@ -590,24 +605,19 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=436046038
 
-credits> NASA/CXC/Rutgers/G.Cassam-Chenai, J.Hughes et al. The entire object has
-an angular size of roughly 30 arcminutes (0.5 degree, or about the size of the
-full moon), and a physical size of 60 light years based on its distance of
-nearly 7,000 light years from Earth. The X-ray data were acquired from the
-Chandra X-ray Observatory’s AXAF CCD Imaging Spectrometer (ACIS) at 0.5-3keV,
-and were provided by J. Hughes (Rutgers University) et al.
+credits> NASA/CXC/Rutgers/G.Cassam-Chenai, J.Hughes et al.
 
-wip: yes
 ---
 
 @scene
 place_uuid: 730f8c96-4be0-48ab-bda3-076a032f2e50
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},436046038
-outgoing_url: https://chandra.harvard.edu/photo/2008/sn1006c/more.html#img2a
+outgoing_url: https://chandra.harvard.edu/photo/2008/sn1006c/#img2a
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=436046038
 
-text> SN 1006
+text> Chandra's image of SN 1006 shows X-rays from multimillion degree gas
+(red/orange) and high-energy electrons (blue).
 
-wip: yes
 ---
 
 @image
@@ -616,25 +626,24 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=546176351
 
-credits> NASA/CXC/Wisconsin/D.Pooley et al. On January 9, 2008, NASA's Swift
-satellite was used to fortuitously observe a very bright X-ray outburst in the
-spiral galaxy NGC 2770, located 90 million light-years from Earth. In a Nature
-paper, astronomers show that the properties of the X-ray outburst are consistent
-with a shock wave bursting through the surface of a massive star that has just
-collapsed, the first time such an event has been seen. This outburst marked the
-very early stages of a supernova explosion called SN 2008D.
+credits> NASA/CXC/Wisconsin/D.Pooley et al.
 
-wip: yes
 ---
 
 @scene
 place_uuid: 7422b450-9079-4902-8678-fd0dc9564d5c
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},546176351
 outgoing_url: https://chandra.harvard.edu/photo/2008/sn2008d/
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=546176351
 
-text> SN 2008D: Supernova Caught in Act of Exploding
+text> On January 9, 2008, NASA's Swift satellite was used to fortuitously
+observe a very bright X-ray outburst in the spiral galaxy NGC 2770, located 90
+million light-years from Earth. In a Nature paper, astronomers show that the
+properties of the X-ray outburst are consistent with a shock wave bursting
+through the surface of a massive star that has just collapsed, the first time
+such an event has been seen. This outburst marked the very early stages of a
+supernova explosion called SN 2008D.
 
-wip: yes
 ---
 
 @image
@@ -643,24 +652,22 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=613200509
 
-credits> X-ray: NASA/CXC/CfA/R.Kraft et al; Radio:
-NSF/VLA/Univ.Hertfordshire/M.Hardcastle; Optical: ESO/VLT/ISAAC/M.Rejkuba et al.
-These multiwavelength images show the galaxy Centaurus A. Pictured: the radio
-image from the Very Large Array, the optical image from the ESO's Wide-Field
-Imager (WFI) camera at the ESO/MPG 2.2-m telescope on La Silla, Chile, and a
-combined X-ray, optical and radio version.
+credits> X-ray: NASA/CXC/CfA/R.Kraft et al; Radio: NSF/VLA/Univ.Hertfordshire/M.Hardcastle; Optical: ESO/WFI/M.Rejkuba et al.
 
-wip: yes
 ---
 
 @scene
 place_uuid: 6de1145c-f70d-4d48-9de0-eb4cadb934db
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},613200509
-outgoing_url: https://chandra.harvard.edu/photo/2008/cena/more.html#img2a
+outgoing_url: https://chandra.harvard.edu/photo/2008/cena/#img2a
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=613200509
 
-text> Centaurus A
+text> A dramatic new Chandra image of the nearby galaxy Centaurus A provides one
+of the best views to date of the effects of an active supermassive black hole.
+Opposing jets of high-energy particles can be seen extending to the outer
+reaches of the galaxy, and numerous smaller black holes in binary star systems
+are also visible.
 
-wip: yes
 ---
 
 @image
@@ -669,27 +676,25 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=658770390
 
-credits> X-ray (NASA/CXC/NCSU/S.Reynolds et al.); Radio
-(NSF/NRAO/VLA/Cambridge/D.Green et al.) A composite image of X-ray (orange) and
-radio (blue) data from NASA’s Chandra X-ray Observatory and the Very Large Array
-shows the remains of the supernova remnant G1.9+0.3. By comparing the images
-that were obtained over 20 years apart, scientists can determine how quickly it
-is expanding and therefore when its progenitor exploded. G1.9+0.3 was created
-about 140 years ago, making it the most recent supernova in the Milky Way. It
-was not detected in optical light because it is near the center of the Galaxy
-and obscured by gas and dust
+credits> X-ray (NASA/CXC/NCSU/S.Reynolds et al.); Radio (NSF/NRAO/VLA/Cambridge/D.Green et al.)
 
-wip: yes
 ---
 
 @scene
 place_uuid: b02eb194-646f-45b0-a326-1b8a2f162341
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},658770390
-outgoing_url: https://chandra.harvard.edu/photo/2008/g19/more.html#img1c
+outgoing_url: https://chandra.harvard.edu/photo/2008/g19/#img1c
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=658770390
 
-text> G1.9+0.3: Discovery of Most Recent Supernova in Our Galaxy;SNR G001.9+00.3
+text> The most recent supernova in our Galaxy has been discovered by determining
+the age of the supernova remnant known as G1.9+0.3. To determine the age,
+astronomers tracked how quickly it is expanding, by comparing a radio image from
+1985 to a Chandra image taken in 2007. The expansion rate was confirmed with
+another radio observation with the VLA in 2008. The difference in size between
+these images gives clear evidence for expansion, allowing the age of the remnant
+and the time since the original supernova explosion (about 140 years) to be
+estimated.
 
-wip: yes
 ---
 
 @image
@@ -698,22 +703,20 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=671276756
 
-credits> NASA/ESA/JHU/R.Sankrit & W.Blair. The X-ray data of Kepler's SNR show
-regions with multimillion degree gas, or extremely high energy particles.
-Lower-energy X-rays (green) mark the location of the hot remains of the exploded
-star.
+credits> NASA/ESA/JHU/R.Sankrit &amp; W.Blair.
 
-wip: yes
 ---
 
 @scene
 place_uuid: b65dca06-a364-4a52-a80f-68caa4c5f76a
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},671276756
-outgoing_url: https://chandra.harvard.edu/photo/2004/kepler/more.html
+outgoing_url: https://chandra.harvard.edu/photo/2004/kepler/#img2b
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=671276756
 
-text> Kepler's Supernova Remnant (Lower Energy XRay)
+text> The X-ray data of Kepler's supernova remnant show regions with
+multimillion degree gas, or extremely high energy particles. Lower-energy X-rays
+(green) mark the location of the hot remains of the exploded star.
 
-wip: yes
 ---
 
 @image
@@ -722,20 +725,18 @@ copyright: Public domain
 license_id: CC-PDDC
 thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=671276760
 
-credits> NASA/ESA/JHU/R.Sankrit & W.Blair. The X-ray data of Kepler's SNR show
-regions with multimillion degree gas, or extremely high energy particles. The
-higher-energy X-rays (blue) come primarily from the regions directly behind the
-shock front.
+credits> NASA/ESA/JHU/R.Sankrit &amp; W.Blair
 
-wip: yes
 ---
 
 @scene
 place_uuid: 5653bec5-5707-4be1-a48c-47b00ae3489b
 image_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},671276760
-outgoing_url: https://chandra.harvard.edu/photo/2004/kepler/more.html
+outgoing_url: https://chandra.harvard.edu/photo/2004/kepler/#img2a
+thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=671276760
 
-text> Kepler's Supernova Remnant (Higher Energy XRay)
+text> The X-ray data of Kepler's supernova remnant show regions with
+multimillion degree gas, or extremely high energy particles. The higher-energy
+X-rays (blue) come primarily from the regions directly behind the shock front.
 
-wip: yes
 ---
