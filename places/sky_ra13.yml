@@ -2498,8 +2498,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-641.jpg
 zoom_level: 1.45087401814551
 ---
 _uuid: e9bc0039-7033-473e-91d6-31aefaaf5848
+astropix_id: chandra|66
 classification: ''
 constellation: CEN
+cxstatus: in:6745e461ed25b6eaa0b17885
 data_set_type: Sky
 dec_deg: -43.0127723
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-66L{1}X{2}Y{3}.png
@@ -2509,8 +2511,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-66.jpg
 zoom_level: 0.10825261056
 ---
 _uuid: 8bd836c2-cd7b-46b4-9df3-e294b362490a
+astropix_id: chandra|71
 classification: ''
 constellation: HYA
+cxstatus: in:6745e462ed25b6eaa0b17887
 data_set_type: Sky
 dec_deg: -29.8628314
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-71L{1}X{2}Y{3}.png
@@ -3799,8 +3803,10 @@ zoom_level: 1.2
 ---
 _uuid: 6de1145c-f70d-4d48-9de0-eb4cadb934db
 angular_size: 1.0
+astropix_id: null
 classification: BlackHole
 constellation: CEN
+cxstatus: in:6745e478ed25b6eaa0b178b9
 data_set_type: Sky
 dec_deg: -43.0047222222222
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},613200509

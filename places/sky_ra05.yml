@@ -6549,8 +6549,10 @@ zoom_level: 1.2
 ---
 _uuid: 80cd93d1-86d6-4d05-be3b-49cfcebd302f
 angular_size: 1.0
+astropix_id: null
 classification: SupernovaRemnant
 constellation: DOR
+cxstatus: in:6745e470ed25b6eaa0b178a7
 data_set_type: Sky
 dec_deg: -67.5236111111111
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},182605652

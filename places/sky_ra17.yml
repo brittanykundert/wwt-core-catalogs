@@ -2144,8 +2144,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-645.jpg
 zoom_level: 3.34554267648
 ---
 _uuid: 02a376ec-1b22-470f-bbfa-d6be6e4b2a54
+astropix_id: chandra|87
 classification: ''
 constellation: SGR
+cxstatus: in:6745e467ed25b6eaa0b17893
 data_set_type: Sky
 dec_deg: -29.0075707
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-87L{1}X{2}Y{3}.png
@@ -3101,8 +3103,10 @@ zoom_level: 200
 ---
 _uuid: 9ff8df44-f1a4-4bf3-a073-cd27d6dd2c5b
 angular_size: 1.0
+astropix_id: null
 classification: SupernovaRemnant
 constellation: OPH
+cxstatus: in:6745e46ded25b6eaa0b178a1
 data_set_type: Sky
 dec_deg: -21.4908333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1432823315
@@ -3112,8 +3116,10 @@ zoom_level: 1.40666666666667
 ---
 _uuid: c6457cee-8e2f-431f-b1d6-9508c1ff0fd3
 angular_size: 1.0
+astropix_id: null
 classification: Galactic
 constellation: SGR
+cxstatus: in:6745e46fed25b6eaa0b178a5
 data_set_type: Sky
 dec_deg: -28.0297222222222
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1730537678
@@ -3123,8 +3129,10 @@ zoom_level: 45.4066666666667
 ---
 _uuid: 9afdf5af-e2eb-488b-8700-702f74554bbc
 angular_size: 1.0
+astropix_id: null
 classification: Unfiltered
 constellation: SGR
+cxstatus: in:6745e473ed25b6eaa0b178af
 data_set_type: Sky
 dec_deg: -27.1666666666667
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},269828725
@@ -3134,8 +3142,10 @@ zoom_level: 2.81166666666667
 ---
 _uuid: 5590e8b7-4496-4c46-b8ef-a4014cdc3b56
 angular_size: 1.0
+astropix_id: null
 classification: SupernovaRemnant
 constellation: OPH
+cxstatus: in:6745e474ed25b6eaa0b178b1
 data_set_type: Sky
 dec_deg: -21.4908333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},341839497
@@ -3145,8 +3155,10 @@ zoom_level: 1.40666666666667
 ---
 _uuid: b13af3f2-3f7a-4928-8921-23a23a7aef9b
 angular_size: 1.0
+astropix_id: null
 classification: SupernovaRemnant
 constellation: OPH
+cxstatus: in:6745e475ed25b6eaa0b178b3
 data_set_type: Sky
 dec_deg: -21.4908333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},378724299
@@ -3156,8 +3168,10 @@ zoom_level: 1.40666666666667
 ---
 _uuid: b02eb194-646f-45b0-a326-1b8a2f162341
 angular_size: 1.0
+astropix_id: null
 classification: Unfiltered
 constellation: SGR
+cxstatus: in:6745e479ed25b6eaa0b178bb
 data_set_type: Sky
 dec_deg: -27.1666666666667
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},658770390
@@ -3167,8 +3181,10 @@ zoom_level: 2.81166666666667
 ---
 _uuid: b65dca06-a364-4a52-a80f-68caa4c5f76a
 angular_size: 1.0
+astropix_id: null
 classification: SupernovaRemnant
 constellation: OPH
+cxstatus: in:6745e47aed25b6eaa0b178bd
 data_set_type: Sky
 dec_deg: -21.4908333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},671276756
@@ -3178,8 +3194,10 @@ zoom_level: 1.40666666666667
 ---
 _uuid: 5653bec5-5707-4be1-a48c-47b00ae3489b
 angular_size: 1.0
+astropix_id: null
 classification: SupernovaRemnant
 constellation: OPH
+cxstatus: in:6745e47bed25b6eaa0b178bf
 data_set_type: Sky
 dec_deg: -21.4908333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},671276760

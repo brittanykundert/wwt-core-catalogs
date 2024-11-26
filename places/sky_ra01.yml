@@ -1300,8 +1300,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-640b.jpg
 zoom_level: 0.0307710754816
 ---
 _uuid: df2dd07f-4ba2-4744-ad7e-69d8171fb2f1
+astropix_id: chandra|80
 classification: ''
 constellation: TUC
+cxstatus: in:6745e464ed25b6eaa0b1788d
 data_set_type: Sky
 dec_deg: -72.3858252
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-80L{1}X{2}Y{3}.png
