@@ -1401,8 +1401,10 @@ zoom_level: 1.2
 ---
 _uuid: ca5e4f29-2984-40db-9bc1-a460af9dced4
 angular_size: 1.0
+astropix_id: null
 classification: Star
 constellation: TAU
+cxstatus: in:6745e46eed25b6eaa0b178a3
 data_set_type: Sky
 dec_deg: 26.1058333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1614797484

@@ -602,8 +602,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-640c.jpg
 zoom_level: 2.73541332992
 ---
 _uuid: ecef0e71-da4a-4041-bd9c-eb900887d4b5
+astropix_id: null
 classification: ''
 constellation: DRA
+cxstatus: in:6745e464ed25b6eaa0b1788b
 data_set_type: Sky
 dec_deg: 66.2628452
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-79L{1}X{2}Y{3}.png
@@ -952,8 +954,10 @@ zoom_level: 3.12888884544307
 ---
 _uuid: 730f8c96-4be0-48ab-bda3-076a032f2e50
 angular_size: 1.0
+astropix_id: null
 classification: Supernova
 constellation: CEN
+cxstatus: in:6745e476ed25b6eaa0b178b5
 data_set_type: Sky
 dec_deg: -41.9208333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},436046038
