@@ -1,0 +1,11 @@
+feed_id: jwst
+source_type: djangoplicity
+default_copyright: Public domain
+default_license_id: CC-PDDC
+default_constellations_handle: jwst
+default_prepend_catfile: jwst
+publish_url_prefix: http://data1.wwtassets.org/feeds/jwst/
+astropix_publisher_id: stsci
+
+djangoplicity:
+  base_url: https://esawebb.org/images/

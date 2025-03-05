@@ -333,6 +333,40 @@ ra_hr: 1.0672716503091353
 thumbnail: http://data1.wwtassets.org/feeds/hst/heic2102a/thumb.jpg
 zoom_level: 0.14375765759999998
 ---
+_uuid: dc38f2e4-bc13-46f8-89a5-8794337c537b
+classification: ''
+constellation: PSC
+cxstatus: in:67c7fb1d1751427718c4ef2c
+data_set_type: Sky
+dec_deg: 15.783432770514837
+description: M74 resides around 32 million light-years away from Earth in the constellation
+  Pisces, and lies almost face-on to Earth. This, coupled with its well-defined spiral
+  arms, makes it a favourite target for astronomers studying the origin and structure
+  of galactic spirals. Observations in the infrared reveal the galaxy's creeping tendrils
+  of gas, dust and stars.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/potm2410a/L{1}X{2}Y{3}.png
+name: Catching the edge of the Phantom Galaxy
+ra_hr: 1.6116074407018224
+thumbnail: http://data1.wwtassets.org/feeds/jwst/potm2410a/thumb.jpg
+zoom_level: 0.2984618317717079
+---
+_uuid: a1dc2288-77d5-46b5-8344-0d8cdc69644e
+classification: ''
+constellation: PSC
+cxstatus: in:67c7fb661751427718c4ef2e
+data_set_type: Sky
+dec_deg: 15.783372282666237
+description: M74 resides around 32 million light-years away from Earth in the constellation
+  Pisces, and lies almost face-on to Earth. This, coupled with its well-defined spiral
+  arms, makes it a favourite target for astronomers studying the origin and structure
+  of galactic spirals. Observations in the infrared reveal the galaxy's creeping tendrils
+  of gas, dust and stars.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/potm2410b/L{1}X{2}Y{3}.png
+name: Catching the edge of the Phantom Galaxy (NIRCam image)
+ra_hr: 1.61160627197278
+thumbnail: http://data1.wwtassets.org/feeds/jwst/potm2410b/thumb.jpg
+zoom_level: 0.3769924635227704
+---
 _uuid: 2caf9d5e-0e3b-4127-b3a8-4bfa4e6a81f4
 angular_size: 0.22725433425329997
 annotation: '{"channel": "noirlab", "itemid": "gemini0401c", "publishedUTCISO8601":

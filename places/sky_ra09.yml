@@ -218,6 +218,58 @@ ra_hr: 9.408341113282896
 thumbnail: http://data1.wwtassets.org/feeds/eso/potw2003a/thumb.jpg
 zoom_level: 1.230147150424668
 ---
+_uuid: ececd29b-5e3b-4959-8bd7-e5ce62226bd3
+classification: ''
+constellation: UMA
+cxstatus: in:67c7f64232186919e4cbfcdc
+data_set_type: Sky
+dec_deg: 69.67928028409193
+description: Astronomers used the NASA/ESA/CSA James Webb Space Telescope to look
+  toward M82’s centre, where a galactic wind is being launched as a result of rapid
+  star formation and subsequent supernovae. Studying the galactic wind can offer insight
+  into how the loss of gas shapes the future growth of the galaxy.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/weic2410b/L{1}X{2}Y{3}.png
+name: M82 (NIRCam image - longer wavelengths)
+ra_hr: 9.931008791274728
+thumbnail: http://data1.wwtassets.org/feeds/jwst/weic2410b/thumb.jpg
+zoom_level: 0.1288182218381782
+---
+_uuid: 50a9f72b-c676-4e5f-b36b-fe6f4172c5a9
+classification: ''
+constellation: UMA
+cxstatus: in:67c7f65132186919e4cbfcde
+data_set_type: Sky
+dec_deg: 69.67928204945913
+description: M82 hosts a frenzy of star formation, sprouting new stars 10 times faster
+  than the Milky Way galaxy. Webb’s infrared capabilities enabled scientists to peer
+  through curtains of dust and gas that have historically obscured the star formation
+  process. With Webb’s resolution, astronomers can distinguish small, bright compact
+  sources that are either individual stars or star clusters.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/weic2410c/L{1}X{2}Y{3}.png
+name: M82 (NIRCam image - shorter wavelengths)
+ra_hr: 9.931008510996486
+thumbnail: http://data1.wwtassets.org/feeds/jwst/weic2410c/thumb.jpg
+zoom_level: 0.1286778025996433
+---
+_uuid: b8f66dc5-9b67-468a-bde2-5826fb3dddce
+classification: ''
+constellation: UMA
+cxstatus: in:67c7f65f32186919e4cbfce0
+data_set_type: Sky
+dec_deg: 69.67928204945913
+description: Throughout the central region of Messier 82, young stars are being born
+  10 times faster than they are inside in our Milky Way Galaxy. These numerous hot
+  new stars emit not only radiation but also particles called a stellar wind. Stellar
+  winds streaming from these hot new stars also have combined to form a fierce galactic
+  superwind. This superwind compresses enough gas to make millions more stars and
+  blasts out towering plumes of hot ionised hydrogen gas, above and below the disk
+  of the galaxy (seen in red in the image).
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/weic2410e/L{1}X{2}Y{3}.png
+name: M82 (Hubble image)
+ra_hr: 9.931008510996486
+thumbnail: http://data1.wwtassets.org/feeds/jwst/weic2410e/thumb.jpg
+zoom_level: 0.1286778025996433
+---
 _uuid: 7e355feb-ddda-4e4c-8456-b164bb50cc05
 annotation: '{"channel": "noirlab", "itemid": "gemini-2013-rcw41-legacy", "publishedUTCISO8601":
   "2020-06-30T21:55:20+00:00"}'

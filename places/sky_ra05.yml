@@ -2323,6 +2323,78 @@ ra_hr: 5.6949796585389505
 thumbnail: http://data1.wwtassets.org/feeds/eso/potw1919a/thumb.jpg
 zoom_level: 1.261404567105226
 ---
+_uuid: 61ab23e0-2a63-41ae-a5fc-938b221bb15c
+classification: ''
+constellation: ORI
+cxstatus: in:67c7f68a32186919e4cbfce2
+data_set_type: Sky
+dec_deg: -2.4798629846372053
+description: Rising from turbulent waves of dust and gas is the Horsehead Nebula,
+  otherwise known as Barnard 33, which resides roughly 1300 light-years away. The
+  nebula formed from a collapsing interstellar cloud of material, and glows because
+  it is illuminated by a nearby hot star. The gas clouds surrounding the Horsehead
+  have already dissipated, but the jutting pillar is made of thick clumps of material
+  that is harder to erode.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/weic2411a/L{1}X{2}Y{3}.png
+name: Horsehead Nebula (NIRCam image)
+ra_hr: 5.6812825276425505
+thumbnail: http://data1.wwtassets.org/feeds/jwst/weic2411a/thumb.jpg
+zoom_level: 0.36457501892806643
+---
+_uuid: b79d9333-3664-4417-bdbe-56b036244f13
+classification: ''
+constellation: ORI
+cxstatus: in:67c7f68e32186919e4cbfce4
+data_set_type: Sky
+dec_deg: -2.467673107804837
+description: Rising from turbulent waves of dust and gas is the Horsehead Nebula,
+  otherwise known as Barnard 33, which resides roughly 1300 light-years away. The
+  nebula formed from a collapsing interstellar cloud of material, and glows because
+  it is illuminated by a nearby hot star. The gas clouds surrounding the Horsehead
+  have already dissipated, but the jutting pillar is made of thick clumps of material
+  that is harder to erode.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/weic2411b/L{1}X{2}Y{3}.png
+name: Horsehead Nebula (MIRI image)
+ra_hr: 5.681591485023433
+thumbnail: http://data1.wwtassets.org/feeds/jwst/weic2411b/thumb.jpg
+zoom_level: 0.3280494634169996
+---
+_uuid: 58ce8e6a-0d1a-46ea-b38a-e49023cde283
+classification: ''
+constellation: ORI
+cxstatus: in:67c7f69f32186919e4cbfce6
+data_set_type: Sky
+dec_deg: -2.4699929234268914
+description: Rising from turbulent waves of dust and gas is the Horsehead Nebula,
+  otherwise known as Barnard 33, which resides roughly 1300 light-years away. The
+  nebula formed from a collapsing interstellar cloud of material, and glows because
+  it is illuminated by a nearby hot star. The gas clouds surrounding the Horsehead
+  have already dissipated, but the jutting pillar is made of thick clumps of material
+  that is harder to erode.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/weic2411d/L{1}X{2}Y{3}.png
+name: Horsehead Nebula (NIRCam image)
+ra_hr: 5.681398895904095
+thumbnail: http://data1.wwtassets.org/feeds/jwst/weic2411d/thumb.jpg
+zoom_level: 0.25492080335063777
+---
+_uuid: 8aa3f4b3-b7c7-4c00-8a81-372da93d4a68
+classification: ''
+constellation: ORI
+cxstatus: in:67c7f6af32186919e4cbfce8
+data_set_type: Sky
+dec_deg: -2.4699905121972017
+description: Rising from turbulent waves of dust and gas is the Horsehead Nebula,
+  otherwise known as Barnard 33, which resides roughly 1300 light-years away. The
+  nebula formed from a collapsing interstellar cloud of material, and glows because
+  it is illuminated by a nearby hot star. The gas clouds surrounding the Horsehead
+  have already dissipated, but the jutting pillar is made of thick clumps of material
+  that is harder to erode.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/weic2411e/L{1}X{2}Y{3}.png
+name: Horsehead Nebula (MIRI image)
+ra_hr: 5.681400419827344
+thumbnail: http://data1.wwtassets.org/feeds/jwst/weic2411e/thumb.jpg
+zoom_level: 0.25523850881222965
+---
 _uuid: 8bfbeaf8-1207-4834-8ee1-11fa683c2c42
 angular_size: 0.13574193453628705
 annotation: '{"channel": "noirlab", "itemid": "ann21013c", "publishedUTCISO8601":

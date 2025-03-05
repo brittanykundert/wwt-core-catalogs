@@ -251,6 +251,25 @@ ra_hr: 4.933161935695417
 thumbnail: http://data1.wwtassets.org/feeds/eso/potw2108a/thumb.jpg
 zoom_level: 0.027329203514446176
 ---
+_uuid: c81372b3-4191-4eb7-bf3e-80c375c63856
+classification: ''
+constellation: TAU
+cxstatus: in:67c7fb6c1751427718c4ef30
+data_set_type: Sky
+dec_deg: 18.206677980918805
+description: Explore HH 30 in unprecedented resolution. An edge-on protoplanetary
+  disc that is surrounded by jets and a disc wind, it is located in the dark cloud
+  LDN 1551 in the Taurus Molecular Cloud. Herbig-Haro objects are small nebulae found
+  in star formation regions, marking the locations where gas outflowing from young
+  stars is heated into luminescence by shockwaves. HH 30 is an example of where this
+  outflowing gas takes the form of a narrow jet. The source star is located on one
+  end of the jet, hidden behind an edge-on protoplanetary disc that the star is illuminating.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/potm2501a/L{1}X{2}Y{3}.png
+name: Webb investigates a dusty and dynamic disc
+ra_hr: 4.527080089612673
+thumbnail: http://data1.wwtassets.org/feeds/jwst/potm2501a/thumb.jpg
+zoom_level: 0.02818561683670391
+---
 _uuid: 6412442b-c6c4-4049-91f2-69fb0471ab15
 annotation: '{"channel": "noirlab", "itemid": "gemini0502b", "publishedUTCISO8601":
   "2005-01-10T20:00:00+00:00"}'

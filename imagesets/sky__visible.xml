@@ -17361,6 +17361,539 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.18192001782748013"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="187.04457749349635"
+    CenterY="44.094193635198096"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 4449 (NIRCam)"
+    OffsetX="1.1103516713103035e-05"
+    OffsetY="5.551758356551518e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="131.95999999999998"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/feeds/jwst/potm2405b/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|potm2405b"
+    Xcxstatus="in:67c7f8d9b34ffccd0f0b23e6"
+  >
+    <Credits>ESA/Webb, NASA, CSA, A. Adamo (Stockholm University) and the FEAST JWST team</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2405b/</CreditsUrl>
+    <Description>The dwarf galaxy NGC 4449, also known as Caldwell 21, resides roughly 12.5 million light-years away in the constellation Canes Venatici. It is part of the M94 galaxy group, which lies close to the Local Group that hosts our Milky Way. NGC 4449 has been forming stars for several billion years, but it is currently experiencing a period of star formation at a much higher rate than in the past. Such unusually explosive and intense star formation activity is called a starburst and for that reason NGC 4449 is known as a starburst galaxy. In fact, at the current rate of star formation, the gas supply that feeds the production of stars would only last for another billion years or so.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/potm2405b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.0910357975602216"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="187.04463180992548"
+    CenterY="44.095387600176245"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 4449 (MIRI)"
+    OffsetX="2.2225536513725978e-05"
+    OffsetY="1.1112768256862989e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="137.01999999999987"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/jwst/potm2405c/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|potm2405c"
+    Xcxstatus="in:67c7f8e6b34ffccd0f0b23e8"
+  >
+    <Credits>ESA/Webb, NASA, CSA, A. Adamo (Stockholm University) and the FEAST JWST team</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2405c/</CreditsUrl>
+    <Description>The dwarf galaxy NGC 4449, also known as Caldwell 21, resides roughly 12.5 million light-years away in the constellation Canes Venatici. It is part of the M94 galaxy group, which lies close to the Local Group that hosts our Milky Way. NGC 4449 has been forming stars for several billion years, but it is currently experiencing a period of star formation at a much higher rate than in the past. Such unusually explosive and intense star formation activity is called a starburst and for that reason NGC 4449 is known as a starburst galaxy. In fact, at the current rate of star formation, the gas supply that feeds the production of stars would only last for another billion years or so.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/potm2405c/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.0910357975602216"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="187.04463180992548"
+    CenterY="44.095387600176245"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 4449 (NIRCam image - cropped)"
+    OffsetX="2.2225536513725978e-05"
+    OffsetY="1.1112768256862989e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="137.01999999999987"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/jwst/potm2405d/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|potm2405d"
+    Xcxstatus="in:67c7f8f3b34ffccd0f0b23ea"
+  >
+    <Credits>ESA/Webb, NASA, CSA, A. Adamo (Stockholm University) and the FEAST JWST team</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2405d/</CreditsUrl>
+    <Description>The dwarf galaxy NGC 4449, also known as Caldwell 21, resides roughly 12.5 million light-years away in the constellation Canes Venatici. It is part of the M94 galaxy group, which lies close to the Local Group that hosts our Milky Way. NGC 4449 has been forming stars for several billion years, but it is currently experiencing a period of star formation at a much higher rate than in the past. Such unusually explosive and intense star formation activity is called a starburst and for that reason NGC 4449 is known as a starburst galaxy. In fact, at the current rate of star formation, the gas supply that feeds the production of stars would only last for another billion years or so.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/potm2405d/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.0910034459102806"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="187.04524701317246"
+    CenterY="44.095800543748"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 4449 (Hubble image)"
+    OffsetX="1.11088190808448e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="137.0000000000003"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/feeds/jwst/potm2405e/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|potm2405e"
+    Xcxstatus="in:67c7f91cb34ffccd0f0b23ec"
+  >
+    <Credits>NASA, ESA, A. Aloisi (ESA/STScI) and The Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2405e/</CreditsUrl>
+    <Description>The dwarf galaxy NGC 4449, also known as Caldwell 21, resides roughly 12.5 million light-years away in the constellation Canes Venatici. It is part of the M94 galaxy group, which lies close to the Local Group that hosts our Milky Way. NGC 4449 has been forming stars for several billion years, but it is currently experiencing a period of star formation at a much higher rate than in the past. Such unusually explosive and intense star formation activity is called a starburst and for that reason NGC 4449 is known as a starburst galaxy. In fact, at the current rate of star formation, the gas supply that feeds the production of stars would only last for another billion years or so.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/potm2405e/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.02105420446060969"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="172.96425971997655"
+    CenterY="-12.533056052830052"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Jewelled ring"
+    OffsetX="5.140186635891037e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="119.86000000000003"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/feeds/jwst/potm2406a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|potm2406a"
+    Xcxstatus="in:67c7f921b34ffccd0f0b23ee"
+  >
+    <Credits>ESA/Webb, NASA, CSA, A. Nierenberg</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2406a/</CreditsUrl>
+    <Description>Gravitational lensing of the quasar known as RX J1131-1231: located roughly 6 billion light-years from Earth in the constellation Crater, it is considered one of the best lensed quasars discovered to date, as the foreground galaxy smears the image of the background quasar into a bright arc and creates four images of the object. Gravitational lensing, first predicted by Einstein, offers a rare opportunity to study regions close to the black hole in distant quasars, by acting as a natural telescope and magnifying the light from these sources. All matter in the Universe warps the space around itself, with larger masses producing a more pronounced effect. Around very massive objects, such as galaxies, light that passes close by follows this warped space, appearing to bend away from its original path by a clearly visible amount. One of the consequential effects of gravitational lensing is that it can magnify distant astronomical objects, letting astronomers study objects that would otherwise be too faint or far away.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/potm2406a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.1407363292415851"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="251.7662279554455"
+    CenterY="-45.85133342307417"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="The exotic stellar population of Westerlund 1"
+    OffsetX="8.589863845311591e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-75.66000000000152"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/feeds/jwst/potm2409a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|potm2409a"
+    Xcxstatus="in:67c7f9ea1751427718c4ef27"
+  >
+    <Credits>ESA/Webb, NASA, CSA, M. Zamani (ESA/Webb), M. G. Guarcello (INAF-OAPA) and the EWOCS team</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2409a/</CreditsUrl>
+    <Description>The open cluster Westerlund 1 is located roughly 12 000 light-years away in the southern constellation Ara (the Altar) where it resides behind a huge interstellar cloud of gas and dust. It is an incomparable natural laboratory for the study of extreme stellar physics, helping astronomers to find out how the most massive stars in our Galaxy live and die. The unique draw of Westerlund 1 is its large, dense, and diverse population of massive stars, which has no counterpart in other known Milky Way galaxy clusters in terms of the number of stars and the richness of spectral types and evolutionary phases.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/potm2409a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.140668529757067"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="251.76623539181196"
+    CenterY="-45.85136404446612"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Westerlund 1 (wide-field view)"
+    OffsetX="8.58572569318036e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-75.68000000000046"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/feeds/jwst/potm2409b/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|potm2409b"
+    Xcxstatus="in:67c7fae51751427718c4ef29"
+  >
+    <Credits>ESA/Webb, NASA, CSA, M. Zamani (ESA/Webb), M. G. Guarcello (INAF-OAPA) and the EWOCS team</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2409b/</CreditsUrl>
+    <Description>The open cluster Westerlund 1 is located roughly 12 000 light-years away in the southern constellation Ara (the Altar) where it resides behind a huge interstellar cloud of gas and dust. It is an incomparable natural laboratory for the study of extreme stellar physics, helping astronomers to find out how the most massive stars in our Galaxy live and die. The unique draw of Westerlund 1 is its large, dense, and diverse population of massive stars, which has no counterpart in other known Milky Way galaxy clusters in terms of the number of stars and the richness of spectral types and evolutionary phases.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/potm2409b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.18235512838504395"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="24.17411555055336"
+    CenterY="15.78343966718043"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Catching the edge of the Phantom Galaxy"
+    OffsetX="1.1130073753969967e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-106.19999999999942"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/feeds/jwst/potm2410a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|potm2410a"
+    Xcxstatus="in:67c7fb1d1751427718c4ef2b"
+  >
+    <Credits>ESA/Webb, NASA &amp;amp; CSA, A. Adamo (Stockholm University) and the FEAST JWST team</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2410a/</CreditsUrl>
+    <Description>M74 resides around 32 million light-years away from Earth in the constellation Pisces, and lies almost face-on to Earth. This, coupled with its well-defined spiral arms, makes it a favourite target for astronomers studying the origin and structure of galactic spirals. Observations in the infrared reveal the galaxy's creeping tendrils of gas, dust and stars.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/potm2410a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.18228578703937712"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="24.174097410037724"
+    CenterY="15.783379467437015"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Catching the edge of the Phantom Galaxy (NIRCam image)"
+    OffsetX="5.562920747051304e-06"
+    OffsetY="5.562920747051304e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-110.96000000000004"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="http://data1.wwtassets.org/feeds/jwst/potm2410b/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|potm2410b"
+    Xcxstatus="in:67c7fb651751427718c4ef2d"
+  >
+    <Credits>ESA/Webb, NASA &amp;amp; CSA, A. Adamo (Stockholm University) and the FEAST JWST team</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2410b/</CreditsUrl>
+    <Description>M74 resides around 32 million light-years away from Earth in the constellation Pisces, and lies almost face-on to Earth. This, coupled with its well-defined spiral arms, makes it a favourite target for astronomers studying the origin and structure of galactic spirals. Observations in the infrared reveal the galaxy's creeping tendrils of gas, dust and stars.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/potm2410b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.004824577777908966"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="67.90620169739151"
+    CenterY="18.206676349291286"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb investigates a dusty and dynamic disc"
+    OffsetX="2.355750868119612e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="33.38000000000006"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/feeds/jwst/potm2501a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|potm2501a"
+    Xcxstatus="in:67c7fb6b1751427718c4ef2f"
+  >
+    <Credits>ESA/Webb, NASA &amp;amp; CSA, Tazaki et al.</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2501a/</CreditsUrl>
+    <Description>Explore HH 30 in unprecedented resolution. An edge-on protoplanetary disc that is surrounded by jets and a disc wind, it is located in the dark cloud LDN 1551 in the Taurus Molecular Cloud. Herbig-Haro objects are small nebulae found in star formation regions, marking the locations where gas outflowing from young stars is heated into luminescence by shockwaves. HH 30 is an example of where this outflowing gas takes the form of a narrow jet. The source star is located on one end of the jet, hidden behind an edge-on protoplanetary disc that the star is illuminating.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/potm2501a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.06988590084716517"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="101.46864540543213"
+    CenterY="-18.209646183487987"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Webb visits a star-forming spiral"
+    OffsetX="4.265496877878734e-06"
+    OffsetY="4.265496877878734e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="52.14000000000023"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/feeds/jwst/potm2502a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|potm2502a"
+    Xcxstatus="in:67c7fb941751427718c4ef31"
+  >
+    <Credits>ESA/Webb, NASA &amp;amp; CSA, A. Leroy</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2502a/</CreditsUrl>
+    <Description>Discover the spiral galaxy NGC 2283. This galaxy resides roughly 45 million light-years away in the constellation Canis Major. Classified as a barred spiral galaxy, NGC 2283’s central bar of stars is encircled by loosely wound spiral arms. New observations reveal the emission from NGC 2283’s sparkling stellar population, as well as the light from clouds of hydrogen gas that have been heated by young stars. Sooty molecules called polycyclic aromatic hydrocarbons, of great interest to astronomers, emit light that’s mapped by two of the filters used here. The large, bright stars with prominent diffraction spikes on display in this image are inhabitants of our own galaxy, which lie between us and NGC 2283.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/potm2502a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.024105012364507516"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="148.9651437387948"
+    CenterY="69.67928085460596"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M82 (NIRCam image - longer wavelengths)"
+    OffsetX="2.9425063921517964e-06"
+    OffsetY="2.9425063921517964e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-52.880000000000386"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/jwst/weic2410b/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|weic2410b"
+    Xcxstatus="in:67c7f64132186919e4cbfcdb"
+  >
+    <Credits>NASA, ESA, CSA, STScI, A. Bolatto (UMD)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2410b/</CreditsUrl>
+    <Description>Astronomers used the NASA/ESA/CSA James Webb Space Telescope to look toward M82’s centre, where a galactic wind is being launched as a result of rapid star formation and subsequent supernovae. Studying the galactic wind can offer insight into how the loss of gas shapes the future growth of the galaxy.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/weic2410b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.024078736520664935"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="148.96513952168354"
+    CenterY="69.67928261935127"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M82 (NIRCam image - shorter wavelengths)"
+    OffsetX="2.9392988916827313e-06"
+    OffsetY="2.9392988916827313e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-52.879999999999676"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/jwst/weic2410c/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|weic2410c"
+    Xcxstatus="in:67c7f65032186919e4cbfcdd"
+  >
+    <Credits>NASA, ESA, CSA, STScI, A. Bolatto (UMD)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2410c/</CreditsUrl>
+    <Description>M82 hosts a frenzy of star formation, sprouting new stars 10 times faster than the Milky Way galaxy. Webb’s infrared capabilities enabled scientists to peer through curtains of dust and gas that have historically obscured the star formation process. With Webb’s resolution, astronomers can distinguish small, bright compact sources that are either individual stars or star clusters.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/weic2410c/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.024078736520664935"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="148.96513952168354"
+    CenterY="69.67928261935127"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M82 (Hubble image)"
+    OffsetX="2.9392988916827313e-06"
+    OffsetY="2.9392988916827313e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-52.879999999999676"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/jwst/weic2410e/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|weic2410e"
+    Xcxstatus="in:67c7f65f32186919e4cbfcdf"
+  >
+    <Credits>NASA, ESA and the Hubble Heritage Team (STScI/AURA). Acknowledgment: J. Gallagher (University of Wisconsin), M. Mountain (STScI) and P. Puxley (NSF)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2410e/</CreditsUrl>
+    <Description>Throughout the central region of Messier 82, young stars are being born 10 times faster than they are inside in our Milky Way Galaxy. These numerous hot new stars emit not only radiation but also particles called a stellar wind. Stellar winds streaming from these hot new stars also have combined to form a fierce galactic superwind. This superwind compresses enough gas to make millions more stars and blasts out towering plumes of hot ionised hydrogen gas, above and below the disk of the galaxy (seen in red in the image).</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/weic2410e/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.0699316407708903"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="85.21924025403591"
+    CenterY="-2.4798574192046114"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Horsehead Nebula (NIRCam image)"
+    OffsetX="8.53657724254032e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-112.21999999999981"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/feeds/jwst/weic2411a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|weic2411a"
+    Xcxstatus="in:67c7f68a32186919e4cbfce1"
+  >
+    <Credits>ESA/Webb, NASA, CSA, K. Misselt (University of Arizona) and A. Abergel (IAS/University Paris-Saclay, CNRS)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2411a/</CreditsUrl>
+    <Description>Rising from turbulent waves of dust and gas is the Horsehead Nebula, otherwise known as Barnard 33, which resides roughly 1300 light-years away. The nebula formed from a collapsing interstellar cloud of material, and glows because it is illuminated by a nearby hot star. The gas clouds surrounding the Horsehead have already dissipated, but the jutting pillar is made of thick clumps of material that is harder to erode.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/weic2411a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.06315166479405328"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="85.22388080088557"
+    CenterY="-2.467653128945985"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Horsehead Nebula (MIRI image)"
+    OffsetX="1.5373667351676395e-05"
+    OffsetY="-4.421956093676026e-08"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-111.99933832037495"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/feeds/jwst/weic2411b/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|weic2411b"
+    Xcxstatus="in:67c7f68e32186919e4cbfce3"
+  >
+    <Credits>ESA/Webb, NASA, CSA, K. Misselt (University of Arizona) and A. Abergel (IAS/University Paris-Saclay, CNRS)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2411b/</CreditsUrl>
+    <Description>Rising from turbulent waves of dust and gas is the Horsehead Nebula, otherwise known as Barnard 33, which resides roughly 1300 light-years away. The nebula formed from a collapsing interstellar cloud of material, and glows because it is illuminated by a nearby hot star. The gas clouds surrounding the Horsehead have already dissipated, but the jutting pillar is made of thick clumps of material that is harder to erode.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/weic2411b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.035057601750074274"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="85.22098578764854"
+    CenterY="-2.469987377759424"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Horsehead Nebula (NIRCam image)"
+    OffsetX="8.558429418100477e-06"
+    OffsetY="4.263431528933573e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-112.16749849398383"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/jwst/weic2411d/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|weic2411d"
+    Xcxstatus="in:67c7f69e32186919e4cbfce5"
+  >
+    <Credits>ESA/Webb, NASA, CSA, K. Misselt (University of Arizona) and A. Abergel (IAS/University Paris-Saclay, CNRS)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2411d/</CreditsUrl>
+    <Description>Rising from turbulent waves of dust and gas is the Horsehead Nebula, otherwise known as Barnard 33, which resides roughly 1300 light-years away. The nebula formed from a collapsing interstellar cloud of material, and glows because it is illuminated by a nearby hot star. The gas clouds surrounding the Horsehead have already dissipated, but the jutting pillar is made of thick clumps of material that is harder to erode.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/weic2411d/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.035101293717932205"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="85.22100865137183"
+    CenterY="-2.4699849604358417"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Horsehead Nebula (MIRI image)"
+    OffsetX="8.569095710270598e-06"
+    OffsetY="4.268745004585862e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-112.14755011835811"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/jwst/weic2411e/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="jwst|weic2411e"
+    Xcxstatus="in:67c7f6af32186919e4cbfce7"
+  >
+    <Credits>ESA/Webb, NASA, CSA, K. Misselt (University of Arizona) and A. Abergel (IAS/University Paris-Saclay, CNRS)</Credits>
+    <CreditsUrl>https://esawebb.org/images/weic2411e/</CreditsUrl>
+    <Description>Rising from turbulent waves of dust and gas is the Horsehead Nebula, otherwise known as Barnard 33, which resides roughly 1300 light-years away. The nebula formed from a collapsing interstellar cloud of material, and glows because it is illuminated by a nearby hot star. The gas clouds surrounding the Horsehead have already dissipated, but the jutting pillar is made of thick clumps of material that is harder to erode.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/jwst/weic2411e/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.02523597330522112"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -30831,6 +31364,65 @@
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="4.917279792030894"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="127.82955105487869"
+    CenterY="-43.92931354505953"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Ghostly Stellar Tendrils of the Vela Supernova Remnant"
+    OffsetX="3.751586755394664e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.1"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="8"
+    Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2406a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="noirlab|noirlab2406a"
+    Xcxstatus="in:6711e2ac601b9591d930c913"
+  >
+    <Credits>CTIO/NOIRLab/DOE/NSF/AURA Image Processing: T.A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), M. Zamani &amp; D. de Martin (NSF’s NOIRLab)</Credits>
+    <CreditsUrl>https://noirlab.edu/public/images/noirlab2406a/</CreditsUrl>
+    <Description>This colorful web of wispy gas filaments is the Vela Supernova Remnant, imaged by the Department of Energy-fabricated Dark Energy Camera (DECam). The Vela Supernova Remnant is merely the ghost of a massive star that once was. When the star exploded 11,000 years ago, its outer layers were violently stripped away and flung into the surrounding region, driving the shockwave that is still visible today. As the shockwave expands into the surrounding region, the hot, energized gas flies away from the point of detonation, compressing and interacting with the interstellar medium to produce the stringy blue and yellow filaments seen in the image. The Vela Supernova Remnant is a gigantic structure, spanning almost 100 light-years and extending to twenty times the diameter of the full Moon in the night sky.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/noirlab/noirlab2406a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="2.4575855426553446"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="98.0456621297"
+    CenterY="4.91767193277"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Rosette Nebula Captured with DECam"
+    OffsetX="3.74985627759063e-05"
+    OffsetY="3.74997793984275e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.011708077726382002"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="7"
+    Url="http://data1.wwtassets.org/feeds/noirlab/noirlab2424a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="noirlab|noirlab2424a"
+    Xcxstatus="in:6711e67c54ceeb0f4ba19abd"
+  >
+    <Credits>CTIO/NOIRLab/DOE/NSF/AURAImage Processing: T.A. Rector (University of Alaska Anchorage/NSF NOIRLab), D. de Martin, M. Zamani (NSF NOIRLab)</Credits>
+    <CreditsUrl>https://noirlab.edu/public/images/noirlab2424a/</CreditsUrl>
+    <Description>Cradled within the fiery petals of the Rosette Nebula is NGC 2244, the young star cluster which it nurtured. The cluster’s stars light up the nebula in vibrant hues of red, gold and purple, and opaque towers of dust rise from the billowing clouds around its excavated core. This image, captured by 570-megapixel Department of Energy-fabricated Dark Energy Camera (DECam), mounted on the U.S. National Science Foundation Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory, a Program of NSF NOIRLab, is being released in celebration of NOIRLab’s fifth anniversary.</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/noirlab/noirlab2424a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="2.1367328080281593"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -37511,6 +38103,35 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     <CreditsUrl>https://esawebb.org/images/potm2407a/</CreditsUrl>
     <Description>Featured in this new image from the NASA/ESA/CSA James Webb Space Telescope is Messier 106, also known as NGC 4258. This is a nearby spiral galaxy that resides roughly 23 million light-years away in the constellation Canes Venatici, practically a neighbour by cosmic standards. Messier 106 is one of the brightest and nearest spiral galaxies to our own and two supernovae have been observed in this galaxy in 1981 and 2014. At its heart, as in most spiral galaxies, is a supermassive black hole, but this one is particularly active. Unlike the black hole at the centre of the Milky Way, which pulls in wisps of gas only occasionally, Messier 106’s black hole is actively gobbling up material. As the gas spirals towards the black hole, it heats up and emits powerful radiation. This image was captured with Webb’s Near-InfraRed Camera (NIRCam). This observation was taken as part of a dedicated programme to study the galaxy’s Active Galactic Nucleus, the galaxy’s bright central region that is dominated by the light emitted by dust and gas as it falls into the black hole. The blue regions in this image reflect stellar distribution throughout the central region of the galaxy. The orange regions indicate warmer dust and the stronger red hues represent colder dust. The teal, green and yellow tones near the centre of the image depict varying gas distributions throughout the region. The galaxy has a remarkable feature – it is known to have two “anomalous” extra arms visible in radio and X-ray wavelengths, rather than in the visible. Unlike the normal arms, these are composed of hot gas instead of stars. Astronomers believe these extra arms result from the black hole’s activity, a feedback effect seen in other galaxies as well. They are likely caused by outflowing material produced by the violent churning of gas around the black hole, creating a phenomenon analogous to a wave crashing up out of the ocean when it hits a rock near the shore. Despite carrying his name, Messier 106 was neither discovered nor catalogued by the renowned 18th century astronomer Charles Messier. Discovered by his assistant, Pierre Méchain, the galaxy was never added to the catalogue in his lifetime. Along with six other objects discovered but not logged by the pair, Messier 106 was posthumously added to the Messier catalogue in the 20th century. [Image Description: The central region of a spiral galaxy. Its core is a small bright point radiating bright, bluish-white light over the scene. The white light is diffuse and many point-like stars in the galaxy (and even background galaxies) can be seen through it. The galaxy’s arms can be seen as broad, swirling streaks of glowing gas and dust, coloured red and orange. Two additional arms are revealed in green.] Links  Messier 106 viewed by Hubble and Webb Pan of Messier 106 </Description>
     <ThumbnailUrl>http://data1.wwtassets.org/packages/2024/08_jwst/potm2407a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.6384629589331374"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="10.9324088386"
+    CenterY="41.3858104149"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M31 PHAST"
+    OffsetX="1.3879634700519268e-05"
+    OffsetY="-5.316997095003017e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="125.02223862026231"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="10"
+    Url="http://data1.wwtassets.org/packages/2025/03_hubble/phast/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="in:67c7fbbc1751427718c4ef33"
+  >
+    <Credits>NASA, ESA, B. Williams (University of Washington)</Credits>
+    <CreditsUrl>https://esahubble.org/images/heic2501a/</CreditsUrl>
+    <Description>This the largest photomosaic ever assembled from NASA/ESA Hubble Space Telescope observations. It is a panoramic view of the neighboring Andromeda galaxy, located 2.5 million light-years away. It took over 10 years to make this vast and colorful portrait of the galaxy, requiring over 600 Hubble snapshots. The galaxy is so close to us, that in angular size it is six times the apparent diameter of the full Moon, and can be seen with the unaided eye. For Hubble’s pinpoint view, that’s a lot of celestial real estate to cover. This stunning, colorful mosaic captures the glow of 200 million stars. That’s still a fraction of Andromeda’s population. And the stars are spread across about 2.5 billion pixels. The detailed look at the resolved stars will help astronomers piece together the galaxy’s past history that includes mergers with smaller satellite galaxies. [Image description: The Andromeda galaxy, a spiral galaxy, spreads across the image. It is tilted nearly edge-on to our line of sight so that it appears very oval. The borders of the galaxy are jagged because the image is a mosaic of smaller, square images against a black background. The outer edges of the galaxy are blue, while the inner two-thirds is yellowish with a bright, central core. Dark, dusty filamentary clouds wrap around the outer half of the galaxy’s disk. At 10 o’clock, a smaller dwarf elliptical galaxy forms a fuzzy, yellow blob. Hubble’s sharp vision distinguishes about 200 million stars within the image.]</Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2025/03_hubble/phast/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"

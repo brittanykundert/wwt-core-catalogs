@@ -313,6 +313,27 @@ ra_hr: 6.511892399791431
 thumbnail: http://data1.wwtassets.org/feeds/eso/potw1847a/thumb.jpg
 zoom_level: 1.22202565920439
 ---
+_uuid: 6b7fd9d1-a91b-45e2-80f5-e49fb3ca4687
+classification: ''
+constellation: CMA
+cxstatus: in:67c7fb941751427718c4ef32
+data_set_type: Sky
+dec_deg: -18.20964019794266
+description: Discover the spiral galaxy NGC 2283. This galaxy resides roughly 45 million
+  light-years away in the constellation Canis Major. Classified as a barred spiral
+  galaxy, NGC 2283’s central bar of stars is encircled by loosely wound spiral arms.
+  New observations reveal the emission from NGC 2283’s sparkling stellar population,
+  as well as the light from clouds of hydrogen gas that have been heated by young
+  stars. Sooty molecules called polycyclic aromatic hydrocarbons, of great interest
+  to astronomers, emit light that’s mapped by two of the filters used here. The large,
+  bright stars with prominent diffraction spikes on display in this image are inhabitants
+  of our own galaxy, which lie between us and NGC 2283.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/potm2502a/L{1}X{2}Y{3}.png
+name: Webb visits a star-forming spiral
+ra_hr: 6.764576412982951
+thumbnail: http://data1.wwtassets.org/feeds/jwst/potm2502a/thumb.jpg
+zoom_level: 0.3511971261420188
+---
 _uuid: a38a51a4-37e6-448d-acb0-2b2fcb1cb41a
 annotation: '{"channel": "noirlab", "itemid": "iotw2048a", "publishedUTCISO8601":
   "2020-11-25T16:00:00+00:00"}'
@@ -584,6 +605,25 @@ name: Gravitational lens found in the DESI Legacy Surveys data
 ra_hr: 6.065695218511091
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2104c/thumb.jpg
 zoom_level: 0.38013337847640005
+---
+_uuid: 259e6013-09a9-4cd0-9117-c44366eaabf9
+classification: ''
+constellation: MON
+cxstatus: in:6711e67d54ceeb0f4ba19abe
+data_set_type: Sky
+dec_deg: 4.917746932327251
+description: Cradled within the fiery petals of the Rosette Nebula is NGC 2244, the
+  young star cluster which it nurtured. The cluster’s stars light up the nebula in
+  vibrant hues of red, gold and purple, and opaque towers of dust rise from the billowing
+  clouds around its excavated core. This image, captured by 570-megapixel Department
+  of Energy-fabricated Dark Energy Camera (DECam), mounted on the U.S. National Science
+  Foundation Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory,
+  a Program of NSF NOIRLab, is being released in celebration of NOIRLab’s fifth anniversary.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/noirlab/noirlab2424a/L{1}X{2}Y{3}.png
+name: Rosette Nebula Captured with DECam
+ra_hr: 6.536377474287843
+thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2424a/thumb.jpg
+zoom_level: 13.704894377625703
 ---
 _uuid: bd26e031-448f-4ed7-99bd-c6ea70382abe
 angular_size: 1.0

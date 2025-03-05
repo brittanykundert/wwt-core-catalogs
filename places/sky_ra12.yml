@@ -1116,6 +1116,90 @@ ra_hr: 12.31347081433896
 thumbnail: http://data1.wwtassets.org/feeds/eso/potw2123a/thumb.jpg
 zoom_level: 1.1852916096484507
 ---
+_uuid: 6198da7d-ca2e-4e2d-909e-78d635240f92
+classification: ''
+constellation: CVN
+cxstatus: in:67c7f8d9b34ffccd0f0b23e7
+data_set_type: Sky
+dec_deg: 44.09419405158032
+description: The dwarf galaxy NGC 4449, also known as Caldwell 21, resides roughly
+  12.5 million light-years away in the constellation Canes Venatici. It is part of
+  the M94 galaxy group, which lies close to the Local Group that hosts our Milky Way.
+  NGC 4449 has been forming stars for several billion years, but it is currently experiencing
+  a period of star formation at a much higher rate than in the past. Such unusually
+  explosive and intense star formation activity is called a starburst and for that
+  reason NGC 4449 is known as a starburst galaxy. In fact, at the current rate of
+  star formation, the gas supply that feeds the production of stars would only last
+  for another billion years or so.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/potm2405b/L{1}X{2}Y{3}.png
+name: NGC 4449 (NIRCam)
+ra_hr: 12.469639227344938
+thumbnail: http://data1.wwtassets.org/feeds/jwst/potm2405b/thumb.jpg
+zoom_level: 0.4285602138722952
+---
+_uuid: 86244d29-1aef-47d6-b8ab-7b25667bdbaf
+classification: ''
+constellation: CVN
+cxstatus: in:67c7f8e6b34ffccd0f0b23e9
+data_set_type: Sky
+dec_deg: 44.0953870462172
+description: The dwarf galaxy NGC 4449, also known as Caldwell 21, resides roughly
+  12.5 million light-years away in the constellation Canes Venatici. It is part of
+  the M94 galaxy group, which lies close to the Local Group that hosts our Milky Way.
+  NGC 4449 has been forming stars for several billion years, but it is currently experiencing
+  a period of star formation at a much higher rate than in the past. Such unusually
+  explosive and intense star formation activity is called a starburst and for that
+  reason NGC 4449 is known as a starburst galaxy. In fact, at the current rate of
+  star formation, the gas supply that feeds the production of stars would only last
+  for another billion years or so.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/potm2405c/L{1}X{2}Y{3}.png
+name: NGC 4449 (MIRI)
+ra_hr: 12.46964357860731
+thumbnail: http://data1.wwtassets.org/feeds/jwst/potm2405c/thumb.jpg
+zoom_level: 0.3518391332268877
+---
+_uuid: e65c8b5f-65f0-4be4-ae3a-f0bc1413c998
+classification: ''
+constellation: CVN
+cxstatus: in:67c7f8f3b34ffccd0f0b23eb
+data_set_type: Sky
+dec_deg: 44.0953870462172
+description: The dwarf galaxy NGC 4449, also known as Caldwell 21, resides roughly
+  12.5 million light-years away in the constellation Canes Venatici. It is part of
+  the M94 galaxy group, which lies close to the Local Group that hosts our Milky Way.
+  NGC 4449 has been forming stars for several billion years, but it is currently experiencing
+  a period of star formation at a much higher rate than in the past. Such unusually
+  explosive and intense star formation activity is called a starburst and for that
+  reason NGC 4449 is known as a starburst galaxy. In fact, at the current rate of
+  star formation, the gas supply that feeds the production of stars would only last
+  for another billion years or so.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/potm2405d/L{1}X{2}Y{3}.png
+name: NGC 4449 (NIRCam image - cropped)
+ra_hr: 12.46964357860731
+thumbnail: http://data1.wwtassets.org/feeds/jwst/potm2405d/thumb.jpg
+zoom_level: 0.3518391332268877
+---
+_uuid: 3782c68a-7be3-4ffe-bb70-ee815cccb85b
+classification: ''
+constellation: CVN
+cxstatus: in:67c7f91cb34ffccd0f0b23ed
+data_set_type: Sky
+dec_deg: 44.095800269607714
+description: The dwarf galaxy NGC 4449, also known as Caldwell 21, resides roughly
+  12.5 million light-years away in the constellation Canes Venatici. It is part of
+  the M94 galaxy group, which lies close to the Local Group that hosts our Milky Way.
+  NGC 4449 has been forming stars for several billion years, but it is currently experiencing
+  a period of star formation at a much higher rate than in the past. Such unusually
+  explosive and intense star formation activity is called a starburst and for that
+  reason NGC 4449 is known as a starburst galaxy. In fact, at the current rate of
+  star formation, the gas supply that feeds the production of stars would only last
+  for another billion years or so.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/potm2405e/L{1}X{2}Y{3}.png
+name: NGC 4449 (Hubble image)
+ra_hr: 12.469683862939267
+thumbnail: http://data1.wwtassets.org/feeds/jwst/potm2405e/thumb.jpg
+zoom_level: 0.3504676896539402
+---
 _uuid: b40adfed-7818-4f0b-a55f-b30254ac0a66
 annotation: '{"channel": "noirlab", "itemid": "gemini0406a", "publishedUTCISO8601":
   "2004-10-08T20:00:00+00:00"}'

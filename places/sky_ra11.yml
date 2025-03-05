@@ -623,6 +623,31 @@ ra_hr: 11.110050194635793
 thumbnail: http://data1.wwtassets.org/feeds/hst/sci23001a/thumb.jpg
 zoom_level: 0.39472645024027436
 ---
+_uuid: 0fb8b6f7-bfa2-4f83-902e-078e3891d907
+classification: ''
+constellation: CRT
+cxstatus: in:67c7f922b34ffccd0f0b23ef
+data_set_type: Sky
+dec_deg: -12.533054154239617
+description: 'Gravitational lensing of the quasar known as RX J1131-1231: located
+  roughly 6 billion light-years from Earth in the constellation Crater, it is considered
+  one of the best lensed quasars discovered to date, as the foreground galaxy smears
+  the image of the background quasar into a bright arc and creates four images of
+  the object. Gravitational lensing, first predicted by Einstein, offers a rare opportunity
+  to study regions close to the black hole in distant quasars, by acting as a natural
+  telescope and magnifying the light from these sources. All matter in the Universe
+  warps the space around itself, with larger masses producing a more pronounced effect.
+  Around very massive objects, such as galaxies, light that passes close by follows
+  this warped space, appearing to bend away from its original path by a clearly visible
+  amount. One of the consequential effects of gravitational lensing is that it can
+  magnify distant astronomical objects, letting astronomers study objects that would
+  otherwise be too faint or far away.'
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/potm2406a/L{1}X{2}Y{3}.png
+name: Jewelled ring
+ra_hr: 11.530951127218264
+thumbnail: http://data1.wwtassets.org/feeds/jwst/potm2406a/thumb.jpg
+zoom_level: 0.11104653600713563
+---
 _uuid: 8689b7d0-df0b-48d0-928a-5325ec9116f8
 annotation: '{"channel": "noirlab", "itemid": "ann21023a", "publishedUTCISO8601":
   "2021-06-08T10:17:36+00:00"}'
