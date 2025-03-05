@@ -590,8 +590,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-176.jpg
 zoom_level: 0.0411975000064
 ---
 _uuid: 100876c2-24f6-45a9-9743-f5671b6be713
+astropix_id: chandra|630
 classification: ''
 constellation: PEG
+cxstatus: in:672d1e200d1c7ef132a39074
 data_set_type: Sky
 dec_deg: 12.162411
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-630L{1}X{2}Y{3}.png

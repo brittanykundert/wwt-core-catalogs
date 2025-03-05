@@ -2066,8 +2066,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-583.jpg
 zoom_level: 0.932067016704
 ---
 _uuid: 8291e784-dbf4-497f-ab03-d678a535ddd1
+astropix_id: chandra|588
 classification: ''
 constellation: SGR
+cxstatus: in:671f9732db8c1fae7da83aac
 data_set_type: Sky
 dec_deg: -29.0076993
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-588L{1}X{2}Y{3}.png
@@ -2077,8 +2079,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-588.jpg
 zoom_level: 0.621034225664
 ---
 _uuid: 1f7d69e5-6360-4675-852f-c236efd37613
+astropix_id: chandra|594
 classification: ''
 constellation: SCO
+cxstatus: in:671f973bdb8c1fae7da83ac2
 data_set_type: Sky
 dec_deg: -44.7352099
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-594L{1}X{2}Y{3}.png
@@ -2088,8 +2092,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-594.jpg
 zoom_level: 0.224012337152
 ---
 _uuid: d4e38678-d0de-4866-9343-d862fd24d5c0
+astropix_id: chandra|596
 classification: ''
 constellation: SGR
+cxstatus: in:671f973cdb8c1fae7da83ac4
 data_set_type: Sky
 dec_deg: -29.0070133
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-596L{1}X{2}Y{3}.png
@@ -2099,8 +2105,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-596.jpg
 zoom_level: 0.932067016704
 ---
 _uuid: 620fa34f-ae3b-4001-b57f-bf76a38cda99
+astropix_id: chandra|624
 classification: ''
 constellation: SGR
+cxstatus: in:672d1e1b0d1c7ef132a39068
 data_set_type: Sky
 dec_deg: -27.1688425
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-624L{1}X{2}Y{3}.png
@@ -2110,8 +2118,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-624.jpg
 zoom_level: 0.311165108224
 ---
 _uuid: cc961170-b5c6-4bf9-a254-d3d773c9ebc1
+astropix_id: chandra|640f
 classification: ''
 constellation: SCO
+cxstatus: in:672d1e2a0d1c7ef132a3908a
 data_set_type: Sky
 dec_deg: -38.5334492
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-640fL{1}X{2}Y{3}.png
@@ -2121,8 +2131,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-640f.jpg
 zoom_level: 1.465168068608
 ---
 _uuid: 2247db3d-b62e-43cc-8dc3-875c1e1d4d4f
+astropix_id: chandra|645
 classification: ''
 constellation: SCO
+cxstatus: in:672d1e2c0d1c7ef132a39090
 data_set_type: Sky
 dec_deg: -34.3174881
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-645L{1}X{2}Y{3}.png
@@ -2132,8 +2144,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-645.jpg
 zoom_level: 3.34554267648
 ---
 _uuid: 02a376ec-1b22-470f-bbfa-d6be6e4b2a54
+astropix_id: chandra|87
 classification: ''
 constellation: SGR
+cxstatus: in:6745e467ed25b6eaa0b17893
 data_set_type: Sky
 dec_deg: -29.0075707
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-87L{1}X{2}Y{3}.png
@@ -3089,8 +3103,10 @@ zoom_level: 200
 ---
 _uuid: 9ff8df44-f1a4-4bf3-a073-cd27d6dd2c5b
 angular_size: 1.0
+astropix_id: null
 classification: SupernovaRemnant
 constellation: OPH
+cxstatus: in:6745e46ded25b6eaa0b178a1
 data_set_type: Sky
 dec_deg: -21.4908333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1432823315
@@ -3100,8 +3116,10 @@ zoom_level: 1.40666666666667
 ---
 _uuid: c6457cee-8e2f-431f-b1d6-9508c1ff0fd3
 angular_size: 1.0
+astropix_id: null
 classification: Galactic
 constellation: SGR
+cxstatus: in:6745e46fed25b6eaa0b178a5
 data_set_type: Sky
 dec_deg: -28.0297222222222
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1730537678
@@ -3111,8 +3129,10 @@ zoom_level: 45.4066666666667
 ---
 _uuid: 9afdf5af-e2eb-488b-8700-702f74554bbc
 angular_size: 1.0
+astropix_id: null
 classification: Unfiltered
 constellation: SGR
+cxstatus: in:6745e473ed25b6eaa0b178af
 data_set_type: Sky
 dec_deg: -27.1666666666667
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},269828725
@@ -3122,8 +3142,10 @@ zoom_level: 2.81166666666667
 ---
 _uuid: 5590e8b7-4496-4c46-b8ef-a4014cdc3b56
 angular_size: 1.0
+astropix_id: null
 classification: SupernovaRemnant
 constellation: OPH
+cxstatus: in:6745e474ed25b6eaa0b178b1
 data_set_type: Sky
 dec_deg: -21.4908333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},341839497
@@ -3133,8 +3155,10 @@ zoom_level: 1.40666666666667
 ---
 _uuid: b13af3f2-3f7a-4928-8921-23a23a7aef9b
 angular_size: 1.0
+astropix_id: null
 classification: SupernovaRemnant
 constellation: OPH
+cxstatus: in:6745e475ed25b6eaa0b178b3
 data_set_type: Sky
 dec_deg: -21.4908333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},378724299
@@ -3144,8 +3168,10 @@ zoom_level: 1.40666666666667
 ---
 _uuid: b02eb194-646f-45b0-a326-1b8a2f162341
 angular_size: 1.0
+astropix_id: null
 classification: Unfiltered
 constellation: SGR
+cxstatus: in:6745e479ed25b6eaa0b178bb
 data_set_type: Sky
 dec_deg: -27.1666666666667
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},658770390
@@ -3155,8 +3181,10 @@ zoom_level: 2.81166666666667
 ---
 _uuid: b65dca06-a364-4a52-a80f-68caa4c5f76a
 angular_size: 1.0
+astropix_id: null
 classification: SupernovaRemnant
 constellation: OPH
+cxstatus: in:6745e47aed25b6eaa0b178bd
 data_set_type: Sky
 dec_deg: -21.4908333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},671276756
@@ -3166,8 +3194,10 @@ zoom_level: 1.40666666666667
 ---
 _uuid: 5653bec5-5707-4be1-a48c-47b00ae3489b
 angular_size: 1.0
+astropix_id: null
 classification: SupernovaRemnant
 constellation: OPH
+cxstatus: in:6745e47bed25b6eaa0b178bf
 data_set_type: Sky
 dec_deg: -21.4908333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},671276760

@@ -875,8 +875,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-585.jpg
 zoom_level: 0.181993406464
 ---
 _uuid: 8c64db13-6bc4-4ce4-ace9-88d1c47c99c8
+astropix_id: chandra|614
 classification: ''
 constellation: GEM
+cxstatus: in:671f974cdb8c1fae7da83ae0
 data_set_type: Sky
 dec_deg: 22.513356
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-613L{1}X{2}Y{3}.png
@@ -886,8 +888,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-613.jpg
 zoom_level: 5.47552690176
 ---
 _uuid: 1e41d884-a562-43bc-a28b-a66c0cf7f4b1
+astropix_id: chandra|640e
 classification: ''
 constellation: AUR
+cxstatus: in:672d1e290d1c7ef132a39088
 data_set_type: Sky
 dec_deg: 42.2270032
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-640eL{1}X{2}Y{3}.png
@@ -897,8 +901,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-640e.jpg
 zoom_level: 1.557559361536
 ---
 _uuid: 7a90023f-aea0-4379-8339-27c4790c893e
+astropix_id: chandra|648
 classification: ''
 constellation: GEM
+cxstatus: in:672d1e2f0d1c7ef132a39096
 data_set_type: Sky
 dec_deg: 17.7527598
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-648L{1}X{2}Y{3}.png

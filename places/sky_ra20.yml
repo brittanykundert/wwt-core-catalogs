@@ -1106,8 +1106,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-525.jpg
 zoom_level: 7.42803161088
 ---
 _uuid: ea92e6fa-ac51-4fa9-bece-be70008f8993
+astropix_id: chandra|643
 classification: ''
 constellation: CYG
+cxstatus: in:672d1e2b0d1c7ef132a3908e
 data_set_type: Sky
 dec_deg: 40.957851
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-643L{1}X{2}Y{3}.png

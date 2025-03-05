@@ -550,8 +550,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-584b.jpg
 zoom_level: 1.335565008896
 ---
 _uuid: 79003ebc-4cdf-474e-808a-9a90bbd661e0
+astropix_id: chandra|599
 classification: ''
 constellation: VIR
+cxstatus: in:671f973ddb8c1fae7da83ac6
 data_set_type: Sky
 dec_deg: 1.7022475
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-599L{1}X{2}Y{3}.png
@@ -561,8 +563,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-599.jpg
 zoom_level: 0.656062644224
 ---
 _uuid: 6536e7f6-9b6f-48c6-945e-4b65162ec38e
+astropix_id: chandra|600
 classification: ''
 constellation: CIR
+cxstatus: in:671f973edb8c1fae7da83ac8
 data_set_type: Sky
 dec_deg: -57.1657328
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-600L{1}X{2}Y{3}.png
@@ -572,8 +576,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-600.jpg
 zoom_level: 2.58432663552
 ---
 _uuid: ab16b870-4922-44b1-8464-5b130c21b449
+astropix_id: chandra|606
 classification: ''
 constellation: SER1
+cxstatus: in:671f9741db8c1fae7da83acc
 data_set_type: Sky
 dec_deg: 11.7650922
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-606L{1}X{2}Y{3}.png
@@ -583,8 +589,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-606.jpg
 zoom_level: 0.365037254776471
 ---
 _uuid: 6fc184d6-03be-4444-8cc3-4b2b347b5607
+astropix_id: chandra|640c
 classification: ''
 constellation: CIR
+cxstatus: in:672d1e270d1c7ef132a39084
 data_set_type: Sky
 dec_deg: -58.8050082
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-640cL{1}X{2}Y{3}.png
@@ -594,8 +602,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-640c.jpg
 zoom_level: 2.73541332992
 ---
 _uuid: ecef0e71-da4a-4041-bd9c-eb900887d4b5
+astropix_id: null
 classification: ''
 constellation: DRA
+cxstatus: in:6745e464ed25b6eaa0b1788b
 data_set_type: Sky
 dec_deg: 66.2628452
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-79L{1}X{2}Y{3}.png
@@ -944,8 +954,10 @@ zoom_level: 3.12888884544307
 ---
 _uuid: 730f8c96-4be0-48ab-bda3-076a032f2e50
 angular_size: 1.0
+astropix_id: null
 classification: Supernova
 constellation: CEN
+cxstatus: in:6745e476ed25b6eaa0b178b5
 data_set_type: Sky
 dec_deg: -41.9208333333333
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},436046038

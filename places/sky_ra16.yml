@@ -1432,8 +1432,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-581d.jpg
 zoom_level: 0.252133441536
 ---
 _uuid: 3681ac2d-0598-4412-8988-d960f77dbba5
+astropix_id: chandra|636
 classification: ''
 constellation: NOR
+cxstatus: in:672d1e240d1c7ef132a3907c
 data_set_type: Sky
 dec_deg: -51.0404495
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-636L{1}X{2}Y{3}.png

@@ -4823,8 +4823,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-568.jpg
 zoom_level: 2.82956726272
 ---
 _uuid: 20041b57-a23b-45bf-a0e4-f5a4ceaa511f
+astropix_id: chandra|587b
 classification: ''
 constellation: DOR
+cxstatus: in:671f972fdb8c1fae7da83aa6
 data_set_type: Sky
 dec_deg: -69.0354666
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-587bL{1}X{2}Y{3}.png
@@ -4834,8 +4836,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-587b.jpg
 zoom_level: 0.114032009216
 ---
 _uuid: 0ad56af3-0331-403e-ad80-5e88fc1adce2
+astropix_id: chandra|610b
 classification: ''
 constellation: DOR
+cxstatus: in:671f9747db8c1fae7da83ad4
 data_set_type: Sky
 dec_deg: -69.2698541
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-610bL{1}X{2}Y{3}.png
@@ -4845,8 +4849,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-610b.jpg
 zoom_level: 0.0257597915136
 ---
 _uuid: d7965825-dace-4e1d-92a8-ba21b068a8f8
+astropix_id: chandra|612
 classification: ''
 constellation: ORI
+cxstatus: in:671f974bdb8c1fae7da83ade
 data_set_type: Sky
 dec_deg: -0.8820591
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-612L{1}X{2}Y{3}.png
@@ -4856,8 +4862,10 @@ thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Chandra-612.jpg
 zoom_level: 113.4662598656
 ---
 _uuid: c382d1ba-87c8-4a6d-a277-6f37235712fc
+astropix_id: chandra|620
 classification: ''
 constellation: PIC
+cxstatus: in:672d1e170d1c7ef132a39060
 data_set_type: Sky
 dec_deg: -45.7768467
 foreground_image_set_url: http://wwtfiles.blob.core.windows.net/vamp/Chandra-620L{1}X{2}Y{3}.png
@@ -6613,8 +6621,10 @@ zoom_level: 1.2
 ---
 _uuid: 80cd93d1-86d6-4d05-be3b-49cfcebd302f
 angular_size: 1.0
+astropix_id: null
 classification: SupernovaRemnant
 constellation: DOR
+cxstatus: in:6745e470ed25b6eaa0b178a7
 data_set_type: Sky
 dec_deg: -67.5236111111111
 foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},182605652
