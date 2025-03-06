@@ -4,7 +4,7 @@ constellation: CVN
 cxstatus: in:667eff6a5235d46484f09052
 data_set_type: Sky
 dec_deg: 44.10327160163176
-foreground_image_set_url: //data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery025/image.jpg
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery025/image.jpg
 name: Making Stars in NGC 4449
 ra_hr: 12.469964122189372
 zoom_level: 1.165530560362974

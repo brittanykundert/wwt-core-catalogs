@@ -4,7 +4,7 @@ constellation: AND
 cxstatus: in:667eff695235d46484f09050
 data_set_type: Sky
 dec_deg: 46.7404897851448
-foreground_image_set_url: //data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery021/L{1}X{2}Y{3}.png
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery021/L{1}X{2}Y{3}.png
 name: Cosmic Tango of UGC 813
 ra_hr: 1.271205610857657
 zoom_level: 1.7042055213360001
@@ -15,7 +15,7 @@ constellation: PSC
 cxstatus: in:667edd5300cff6f79273594f
 data_set_type: Sky
 dec_deg: 15.784402642292154
-foreground_image_set_url: //data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery_nrao18cb12d/L{1}X{2}Y{3}.png
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery_nrao18cb12d/L{1}X{2}Y{3}.png
 name: NGC 628, PHANGS-ALMA and HST Composite
 ra_hr: 1.6116114971408573
 zoom_level: 0.070729452

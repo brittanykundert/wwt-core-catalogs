@@ -4,7 +4,7 @@ constellation: AQR
 cxstatus: in:667edd9000cff6f792735951
 data_set_type: Sky
 dec_deg: -5.440160990722995
-foreground_image_set_url: //data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery_nrao18ch26_fits_highres/L{1}X{2}Y{3}.png
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery_nrao18ch26_fits_highres/L{1}X{2}Y{3}.png
 name: ALMA Sees Trans-galactic Streamers Feeding Distant Galaxy
 ra_hr: 22.7685710655348
 zoom_level: 0.070729452
