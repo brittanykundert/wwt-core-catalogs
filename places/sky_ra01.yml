@@ -1,25 +1,3 @@
-_uuid: a6f05935-1fb2-4e61-8917-30e03e4fc3ac
-classification: ''
-constellation: AND
-cxstatus: in:667eff695235d46484f09050
-data_set_type: Sky
-dec_deg: 46.7404897851448
-foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery021/L{1}X{2}Y{3}.png
-name: Cosmic Tango of UGC 813
-ra_hr: 1.271205610857657
-zoom_level: 1.7042055213360001
----
-_uuid: 363517e7-06b2-42f8-8c69-fe4d8158af91
-classification: ''
-constellation: PSC
-cxstatus: in:667edd5300cff6f79273594f
-data_set_type: Sky
-dec_deg: 15.784402642292154
-foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery_nrao18cb12d/L{1}X{2}Y{3}.png
-name: NGC 628, PHANGS-ALMA and HST Composite
-ra_hr: 1.6116114971408573
-zoom_level: 0.070729452
----
 _uuid: 67d50657-de89-45a7-9075-0de49b5b7d65
 annotation: '{"channel": "eso", "itemid": "ann11075a", "publishedUTCISO8601": "2011-10-21T16:40:00+00:00"}'
 classification: ''
@@ -906,6 +884,17 @@ ra_hr: 1.0962745563514729
 thumbnail: http://data1.wwtassets.org/feeds/noirlab/noirlab2106d/thumb.jpg
 zoom_level: 7.448579549818199
 ---
+_uuid: a6f05935-1fb2-4e61-8917-30e03e4fc3ac
+classification: ''
+constellation: AND
+cxstatus: in:667eff695235d46484f09050
+data_set_type: Sky
+dec_deg: 46.7404897851448
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery021/L{1}X{2}Y{3}.png
+name: Cosmic Tango of UGC 813
+ra_hr: 1.271205610857657
+zoom_level: 1.7042055213360001
+---
 _uuid: 1be2b493-c315-4f2f-9bd6-a2d4683d1d48
 classification: ''
 constellation: TRI
@@ -916,6 +905,17 @@ foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_galler
 name: Old Lace
 ra_hr: 1.5640246620149296
 zoom_level: 20.367854247936
+---
+_uuid: 363517e7-06b2-42f8-8c69-fe4d8158af91
+classification: ''
+constellation: PSC
+cxstatus: in:667edd5300cff6f79273594f
+data_set_type: Sky
+dec_deg: 15.784402642292154
+foreground_image_set_url: http://data1.wwtassets.org/feeds/nrao/nrao_nrao_gallery_nrao18cb12d/L{1}X{2}Y{3}.png
+name: NGC 628, PHANGS-ALMA and HST Composite
+ra_hr: 1.6116114971408573
+zoom_level: 0.070729452
 ---
 _uuid: 7be6dd4c-7612-4544-b30e-e9abcd126cbb
 angular_size: 0.48295111638769317
