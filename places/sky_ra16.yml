@@ -833,6 +833,46 @@ ra_hr: 16.223336016227606
 thumbnail: http://data1.wwtassets.org/feeds/eso/potw1939a/thumb.jpg
 zoom_level: 0.3248642557286525
 ---
+_uuid: e92a438c-64cc-4d98-8374-185a30a1f9ba
+classification: ''
+constellation: ARA
+cxstatus: in:67c7f9ea1751427718c4ef28
+data_set_type: Sky
+dec_deg: -45.85133652043969
+description: The open cluster Westerlund 1 is located roughly 12 000 light-years away
+  in the southern constellation Ara (the Altar) where it resides behind a huge interstellar
+  cloud of gas and dust. It is an incomparable natural laboratory for the study of
+  extreme stellar physics, helping astronomers to find out how the most massive stars
+  in our Galaxy live and die. The unique draw of Westerlund 1 is its large, dense,
+  and diverse population of massive stars, which has no counterpart in other known
+  Milky Way galaxy clusters in terms of the number of stars and the richness of spectral
+  types and evolutionary phases.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/potm2409a/L{1}X{2}Y{3}.png
+name: The exotic stellar population of Westerlund 1
+ra_hr: 16.78441469693919
+thumbnail: http://data1.wwtassets.org/feeds/jwst/potm2409a/thumb.jpg
+zoom_level: 0.6395136453106788
+---
+_uuid: 366c2621-6c27-4a0a-8cc5-cec9e0d038ad
+classification: ''
+constellation: ARA
+cxstatus: in:67c7fae51751427718c4ef2a
+data_set_type: Sky
+dec_deg: -45.851367142162246
+description: The open cluster Westerlund 1 is located roughly 12 000 light-years away
+  in the southern constellation Ara (the Altar) where it resides behind a huge interstellar
+  cloud of gas and dust. It is an incomparable natural laboratory for the study of
+  extreme stellar physics, helping astronomers to find out how the most massive stars
+  in our Galaxy live and die. The unique draw of Westerlund 1 is its large, dense,
+  and diverse population of massive stars, which has no counterpart in other known
+  Milky Way galaxy clusters in terms of the number of stars and the richness of spectral
+  types and evolutionary phases.
+foreground_image_set_url: http://data1.wwtassets.org/feeds/jwst/potm2409b/L{1}X{2}Y{3}.png
+name: Westerlund 1 (wide-field view)
+ra_hr: 16.784415193041063
+thumbnail: http://data1.wwtassets.org/feeds/jwst/potm2409b/thumb.jpg
+zoom_level: 0.978994240745445
+---
 _uuid: 4b614f89-17b7-4ea0-96df-a0a56bd46783
 annotation: '{"channel": "noirlab", "itemid": "gemini0605a", "publishedUTCISO8601":
   "2006-06-04T00:00:00+00:00"}'
