@@ -38106,6 +38106,35 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.07427536668708554"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="52.248987183185"
+    CenterY="31.326400344668"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Peeking into Perseus"
+    OffsetX="9.066817222544621e-06"
+    OffsetY="5.765770054555854e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-18.840000000000938"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/packages/2025/02_jwst/potm2408a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcxstatus="queue:jwst"
+  >
+    <Credits>ESA/Webb, NASA and CSA, A. Scholz, K. Muzic, A. Langeveld, R. Jayawardhana</Credits>
+    <CreditsUrl>https://esawebb.org/images/potm2408a/</CreditsUrl>
+    <Description>This stunning new mosaic of images from the NASA/ESA/CSA James Webb Space Telescope showcases the nearby star-forming cluster, NGC 1333. The nebula is in the Perseus molecular cloud, and located approximately 960 light-years away. Webb’s superb sensitivity allows astronomers to investigate young objects with extremely low masses. Some of the faintest ‘stars’ in the picture are in fact newly born free-floating brown dwarfs with masses comparable to those of giant planets. The same cluster was featured as the 33rd anniversary image of the NASA/ESA Hubble Space Telescope in April of 2023. Hubble’s image just scratched the surface of this region, because clouds of dust obscure much of the star formation process. Observing with a larger aperture and in the infrared part of the spectrum, Webb is capable of peering through the dusty veil to reveal newborn stars, brown dwarfs and planetary mass objects.  The centre of the image presents a deep peek into the heart of the NGC 1333 cloud. Across the image we see large patches of orange, which represent gas glowing in the infrared. These so-called Herbig-Haro objects form when ionised material ejected from young stars collides with the surrounding cloud. They are hallmarks of a very active site of star formation. Many of the young stars in this image are surrounded by discs of gas and dust, which may eventually produce planetary systems. On the right hand side of the image, we can glimpse the shadow of one of these discs oriented edge-on — two dark cones emanating from opposite sides, seen against a bright background. Similarly to the young stars in this mosaic, our own Sun and planets formed inside a dusty molecular cloud, 4.6 billion years ago. Our Sun didn’t form in isolation but as part of a cluster, which was perhaps even more massive than NGC 1333. The cluster in the mosaic, only 1–3 million years old, presents us with an opportunity to study stars like our Sun, as well as brown dwarfs and free-floating planets, in their nascent stages. The images were captured as part of the Webb observation programme 1202 (PI: A. Scholz) to survey a large portion of NGC 1333. These data constitute the first deep spectroscopic survey of the young cluster, and have identified brown dwarfs down to planetary masses using the observatory’s Near-InfraRed Imager and Slitless Spectrograph (NIRISS). The first results from this survey have been accepted for publication in the Astronomical Journal. [Image Description: A nebula made up of cloudy gas and dust in the form of soft and wispy clouds and, in the centre, thin and highly detailed layers pressed close together. Large, bright stars surrounded by six long points of light are dotted over the image, as well as some small, point-like stars embedded in the clouds. The clouds are lit up in blue close to the stars; orange colours show clouds that glow in infrared light.] Links  Science paper NGC 1333 (wide-field view) Pan video: NGC 1333 Image on ESA website </Description>
+    <ThumbnailUrl>http://data1.wwtassets.org/packages/2025/02_jwst/potm2408a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="3.6384629589331374"
     BaseTileLevel="0"
     BottomsUp="False"

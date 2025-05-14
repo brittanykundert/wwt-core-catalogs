@@ -1593,6 +1593,17 @@ ra_hr: 3.7428730112520943
 thumbnail: http://data1.wwtassets.org/packages/2024/03_jwst/weic2331a/thumb.jpg
 zoom_level: 0.9051040003345202
 ---
+_uuid: 8a4f23ee-e457-49ad-a8fd-f9d85d76a1ea
+classification: ''
+constellation: PER
+data_set_type: Sky
+dec_deg: 31.32640287361527
+foreground_image_set_url: http://data1.wwtassets.org/packages/2025/02_jwst/potm2408a/{1}/{3}/{3}_{2}.png
+name: Peeking into Perseus
+ra_hr: 3.4832649972012186
+thumbnail: http://data1.wwtassets.org/packages/2025/02_jwst/potm2408a/thumb.jpg
+zoom_level: 0.6196262889886994
+---
 _uuid: d82f4bbb-3dfb-484c-896f-af88eca90de8
 angular_size: 1.0
 classification: ClusterOfGalaxies
